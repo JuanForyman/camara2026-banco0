@@ -1,0 +1,20 @@
+T="P1-M4-7.1"
+Q=[
+(T,"RICD",[17],"C","Compete ao Presidente da Câmara nomear Comissão Especial, ouvido o Colégio de Líderes.","Art. 17, I, m.","competencia"),
+(T,"RICD",[17],"E","Em Plenário, o Presidente da Câmara vota em todas as deliberações, como qualquer outro Deputado.","Art. 17, § 1º: só vota em escrutínio secreto ou para desempatar votação ostensiva.","podedeve"),
+(T,"RICD",[17],"C","O Presidente não poderá, senão na qualidade de membro da Mesa, oferecer proposição.","Art. 17, § 1º.","podedeve"),
+(T,"RICD",[17],"E","Para tomar parte em discussão, o Presidente pode permanecer na presidência e reassumir os trabalhos imediatamente após seu discurso.","Art. 17, § 2º: transmite a presidência ao substituto e não a reassume enquanto se debater a matéria.","podedeve"),
+(T,"RICD",[17],"C","Compete ao Presidente decidir, juntamente com o Presidente do Senado Federal, sobre a convocação extraordinária do Congresso Nacional em caso de urgência ou interesse público relevante.","Art. 17, I, VI, c.","competencia"),
+(T,"RICD",[17],"E","Compete ao Presidente da Câmara, e não à Mesa, designar os membros das Comissões sem necessidade de comunicação dos Líderes em qualquer hipótese.","Art. 17, III, a: designa mediante comunicação dos Líderes, ou independentemente desta se expirado o prazo.","competencia"),
+(T,"RICD",[17],"C","O Presidente pode delegar aos Vice-Presidentes competência que lhe seja própria.","Art. 17, § 4º.","podedeve"),
+(T,"RICD",[18],"E","Sempre que tiver de se ausentar da Capital Federal por mais de setenta e duas horas, o Presidente passará o exercício da presidência ao Primeiro-Vice-Presidente.","Art. 18, § 1º: mais de quarenta e oito horas.","prazo"),
+(T,"RICD",[18],"C","Aos Vice-Presidentes, segundo sua numeração ordinal, incumbe substituir o Presidente em suas ausências ou impedimentos.","Art. 18, caput.","leitura"),
+(T,"RICD",[19],"C","Cabe ao Primeiro Secretário superintender os serviços administrativos da Câmara.","Art. 19, caput.","competencia"),
+(T,"RICD",[19],"E","Os Secretários, ao integrarem a Mesa durante a sessão, podem usar da palavra livremente para discutir a matéria em pauta.","Art. 19, § 3º: só para chamada dos Deputados, contagem de votos ou leitura de documentos ordenada pelo Presidente.","podedeve"),
+(T,"RICD",[19],"C","Os Suplentes de Secretário têm as designações de Primeiro a Quarto, de acordo com a ordem decrescente da votação obtida.","Art. 19, § 2º.","leitura"),
+(T,"RICD",[20],"C","Os Líderes da Maioria, da Minoria, dos Partidos, dos Blocos Parlamentares e do Governo constituem o Colégio de Líderes.","Art. 20, caput.","leitura"),
+(T,"RICD",[20],"E","No Colégio de Líderes, o Líder do Governo tem direito a voz e a voto.","Art. 20, § 1º: voz, mas não voto (assim como os Líderes de Partidos que participem de Bloco).","podedeve"),
+(T,"RICD",[20],"C","Sempre que possível, as deliberações do Colégio de Líderes são tomadas por consenso; não sendo possível, prevalece a maioria absoluta, ponderados os votos dos Líderes.","Art. 20, § 2º.","quorum"),
+(T,"RICD",[20],"C","A Secretaria da Mulher é composta pela Procuradoria da Mulher e pela Coordenadoria dos Direitos da Mulher, sem relação de subordinação entre elas.","Art. 20-A, caput.","leitura"),
+(T,"RICD",[20],"E","A Procuradoria da Mulher é constituída de 1 Procuradora e 5 Procuradoras Adjuntas, eleitas pelas deputadas da Casa.","Art. 20-B: 1 Procuradora e 3 Procuradoras Adjuntas.","quorum"),
+]

@@ -1,0 +1,23 @@
+T3="P1-M4-7.3"; T4="P1-M4-7.4"
+Q=[
+(T3,"RICD",[244],"C","O Deputado que praticar ato contrário ao decoro parlamentar ou que afete a dignidade do mandato estará sujeito às penalidades e ao processo disciplinar previstos no Código de Ética e Decoro Parlamentar.","Art. 244.","leitura"),
+(T3,"RICD",[250],"E","No caso de prisão em flagrante de crime inafiançável de Deputado, os autos serão remetidos à Casa dentro de quarenta e oito horas.","Art. 250: vinte e quatro horas, sob pena de responsabilidade da autoridade, apurada de ofício pela Mesa.","prazo"),
+(T3,"RICD",[251],"C","Recebidos os autos de flagrante, o Presidente os despacha à Comissão de Constituição e Justiça e de Cidadania, que oferece parecer prévio no prazo de setenta e duas horas sobre a manutenção ou não da prisão.","Art. 251, caput e I, b.","prazo"),
+(T3,"RICD",[251],"E","Admitida a acusação contra o Deputado por voto aberto da maioria simples da Casa, considera-se dada a licença para instauração do processo.","Art. 251, IV: voto secreto da maioria dos membros da Casa.","quorum"),
+(T3,"RICD",[251],"C","A decisão da Câmara sobre a admissão da acusação contra Deputado é comunicada pelo Presidente ao Supremo Tribunal Federal dentro de duas sessões.","Art. 251, V.","prazo"),
+(T3,"RICD",[251],"E","Estando em recesso a Casa, as atribuições da CCJC e do Plenário na matéria são exercidas exclusivamente pelo Presidente da Câmara.","Art. 251, p.ú.: cumulativamente pela Comissão Representativa do Congresso Nacional.","competencia"),
+(T4,"RICD",[262],"C","Os serviços administrativos da Câmara reger-se-ão por regulamentos especiais aprovados pelo Plenário, considerados partes integrantes do Regimento, e serão dirigidos pela Mesa.","Art. 262, caput.","competencia"),
+(T4,"RICD",[263],"E","Proposição que modifique os serviços administrativos da Câmara pode ser deliberada pelo Plenário independentemente de parecer da Mesa.","Art. 263: nenhuma proposição pode ser submetida ao Plenário sem parecer da Mesa.","podedeve"),
+(T4,"RICD",[264],"C","As reclamações sobre irregularidades nos serviços administrativos são encaminhadas à Mesa para providência em setenta e duas horas; decorrido o prazo, podem ser levadas ao Plenário.","Art. 264.","prazo"),
+(T4,"RICD",[265],"E","Até 30 de março de cada ano, o Presidente encaminha ao Tribunal de Contas da União a prestação de contas relativa ao exercício anterior.","Art. 265, § 4º: até trinta de junho.","prazo"),
+(T4,"RICD",[265],"C","A movimentação financeira dos recursos orçamentários da Câmara é efetuada junto ao Banco do Brasil S.A. ou à Caixa Econômica Federal.","Art. 265, § 2º.","leitura"),
+(T4,"RICD",[266],"C","A ocupação de imóveis residenciais da Câmara por Deputados fica restrita ao período de exercício do mandato e é objeto de contrato-padrão aprovado pela Mesa.","Art. 266, p.ú.","podedeve"),
+(T4,"RICD",[267],"C","Cabe à Mesa fazer manter a ordem e a disciplina nos edifícios da Câmara e suas adjacências.","Art. 267, caput.","competencia"),
+(T4,"RICD",[269],"E","Cometido delito nos edifícios da Câmara, o inquérito é sempre presidido pelo Corregedor.","Art. 269: presidido pelo diretor de serviços de segurança ou, se indiciado ou preso for membro da Casa, pelo Corregedor ou Corregedor substituto.","competencia"),
+(T4,"RICD",[269],"C","O inquérito instaurado por delito nos edifícios da Câmara é enviado, após a conclusão, à autoridade judiciária competente.","Art. 269, § 4º.","leitura"),
+(T4,"RICD",[270],"C","O policiamento dos edifícios da Câmara compete privativamente à Mesa, sob a suprema direção do Presidente.","Art. 270, caput.","competencia"),
+(T4,"RICD",[271],"E","É proibido o porte de arma nos edifícios da Câmara, ressalvados os Deputados, que podem portá-las em razão do mandato.","Art. 271: exceção apenas para membros da segurança.","podedeve"),
+(T4,"RICD",[271],"C","Incumbe ao Corregedor ou Corregedor substituto supervisionar a proibição do porte de arma, com poderes para mandar revistar e desarmar.","Art. 271, p.ú.","competencia"),
+(T4,"RICD",[272],"C","Os visitantes que se comportarem de forma inconveniente, a juízo do Presidente da Câmara ou de Comissão, serão compelidos a sair imediatamente dos edifícios.","Art. 272, p.ú.","leitura"),
+(T4,"RICD",[273],"E","É proibido o exercício de comércio nas dependências da Câmara, sem exceção.","Art. 273: salvo expressa autorização da Mesa.","podedeve"),
+]
