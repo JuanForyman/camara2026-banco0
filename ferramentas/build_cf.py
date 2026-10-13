@@ -1,6 +1,13 @@
 """Junta nq_cf/c*.py -> questões no formato do site (banco.json) + átomos CF (artigos.json).
-Uso: python3 -I build_cf.py <nq_cf_dir> <out_dir>   (gera cf_banco.json, cf_artigos.json)"""
+Uso: python3 -I build_cf.py <nq_cf_dir> <out_dir> [cf_texto.json]   (gera cf_banco.json, cf_artigos.json)"""
 import json, sys, glob, runpy, re, collections
+import os
+TXT = json.load(open(sys.argv[3])) if len(sys.argv) > 3 else {}
+def corpo(num, inc):
+    its = [re.sub(r"\s*\((?:[^()]*?)(?:Emenda|redação|Redação|Revogad)[^()]*\)\s*", " ", x).strip() for x in TXT.get(str(num), [])]
+    if inc: return [its[0]] + [x for x in its if x.startswith(inc + " -")]
+    if len(its) > 70: its = [x for x in its if x.startswith(("Art.", "§", "Parágrafo"))]
+    return its
 out, atoms, n = [], {}, 0
 seen = collections.Counter()
 for f in sorted(glob.glob(sys.argv[1] + "/c*.py")):
@@ -11,7 +18,7 @@ for f in sorted(glob.glob(sys.argv[1] + "/c*.py")):
             m = re.match(r"(\d+)(?:\.([IVXLC]+))?$", a); assert m, a
             aid = f"A-CF-{int(m.group(1)):04d}" + (f".{m.group(2)}" if m.group(2) else "")
             ids.append(aid)
-            atoms[aid] = {"t": "CF art. " + m.group(1) + (f", {m.group(2)}" if m.group(2) else ""), "x": []}
+            atoms[aid] = {"t": "CF art. " + m.group(1) + (f", {m.group(2)}" if m.group(2) else ""), "x": corpo(int(m.group(1)), m.group(2))}
         assert gab in "CE" and tx.strip() and com.strip(), (n, tx)
         seen[tx] += 1
         out.append({"id": f"Q-CF-{n:04d}", "t": top, "a": ids, "g": gab, "e": tx, "c": com, "k": tipo})
