@@ -17,3 +17,7 @@ Memória do projeto: pasta QUARTEL GENERAL - CÂMARA no Drive.
 - Dominado: 4+ respostas e 3+ questões distintas em 90 dias, p≥0,8, ao menos um acerto em item Errado, sem erro aberto; novo em campo dominado pesa 0,4.
 - Painel mostra a tabela de campos. Testes: `node motor/test_engine.js` (v1 + v2).
 - Direito Constitucional completo (595 questões, 41 campos): ferramentas/nq_cf/c01..c06; auditoria: ferramentas/audit_cf.py + dados/cf_texto.json.
+
+## Lote Direito Administrativo — Lei 9.784/1999
+176 questões (121 C / 55 E) sobre o processo administrativo federal (tópico P1-M3-4), 78 átomos, 11 campos (`L9784-*`). Fonte: PDF anexado pelo usuário (sem o art. 69-A e alterações posteriores). Auditoria mecânica: 6 alertas, todos falsos positivos. `validada=false`.
+Build: `python3 -I ferramentas/build_lei.py L9784 "Lei 9.784/99" ferramentas/nq_leis/l9784 dados/leis/l9784.json dados`.

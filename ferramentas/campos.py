@@ -23,7 +23,17 @@ C5 = [(1,15,"CF5-liberd","Art. 5º: igualdade, liberdades e intimidade (I a XV)"
  (22,31,"CF5-prop","Art. 5º: propriedade (XXII a XXXI)"),(32,40,"CF5-garant","Art. 5º: garantias gerais e legalidade penal (XXXII a XL)"),
  (41,52,"CF5-penal","Art. 5º: crimes, penas e extradição (XLI a LII)"),(53,68,"CF5-proc","Art. 5º: devido processo e prisão (LIII a LXVIII)"),
  (69,73,"CF5-remedios","Art. 5º: remédios constitucionais (LXIX a LXXIII)"),(74,78,"CF5-acesso","Art. 5º: assistência, indenização e duração do processo (LXXIV a LXXVIII)")]
+L9784 = [(1,2,"L9784-disp","Lei 9.784: disposições gerais e princípios (arts. 1º e 2º)"),(3,4,"L9784-dir","Lei 9.784: direitos e deveres do administrado (arts. 3º e 4º)"),(5,8,"L9784-inicio","Lei 9.784: início do processo (arts. 5º a 8º)"),
+ (9,10,"L9784-interess","Lei 9.784: interessados (arts. 9º e 10)"),(11,17,"L9784-comp","Lei 9.784: competência (arts. 11 a 17)"),(18,21,"L9784-imped","Lei 9.784: impedimento e suspeição (arts. 18 a 21)"),
+ (22,28,"L9784-atos","Lei 9.784: forma, tempo, lugar e comunicação dos atos (arts. 22 a 28)"),(29,47,"L9784-instr","Lei 9.784: instrução (arts. 29 a 47)"),(48,55,"L9784-decisao","Lei 9.784: dever de decidir, motivação, anulação e revogação (arts. 48 a 55)"),
+ (56,65,"L9784-recurso","Lei 9.784: recurso administrativo e revisão (arts. 56 a 65)"),(66,69,"L9784-prazos","Lei 9.784: prazos, sanções e disposições finais (arts. 66 a 69)")]
 def campo(atom):
+    ml = re.match(r"A-L9784-(\d+)", atom)
+    if ml:
+        a = int(ml.group(1))
+        for lo, hi, cid, nm in L9784:
+            if lo <= a <= hi: return (cid, nm)
+        return None
     m = re.match(r"A-CF-(\d+)(?:\.([IVXLC]+))?$", atom)
     if not m: return None
     a = int(m.group(1))

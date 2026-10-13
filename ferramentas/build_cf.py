@@ -1,5 +1,5 @@
-"""Junta nq_cf/c*.py -> questões no formato do site (banco.json) + átomos CF (artigos.json).
-Uso: python3 -I build_cf.py <nq_cf_dir> <out_dir> [cf_texto.json]   (gera cf_banco.json, cf_artigos.json)"""
+"""[Genérico] Junta <nq_dir>/c*.py -> questões no formato do site (banco.json) + átomos CF (artigos.json).
+Uso (CF): python3 -I build_cf.py <nq_cf_dir> <out_dir> [cf_texto.json]   (gera cf_banco.json, cf_artigos.json)"""
 import json, sys, glob, runpy, re, collections
 import os
 TXT = json.load(open(sys.argv[3])) if len(sys.argv) > 3 else {}
