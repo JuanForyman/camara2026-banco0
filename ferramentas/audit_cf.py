@@ -1,5 +1,5 @@
 import json,re,glob,runpy,sys
-T=json.load(open('cf_texto.json'))
+T=json.load(open(sys.argv[1]))
 NW={"um":1,"uma":1,"dois":2,"duas":2,"três":3,"quatro":4,"cinco":5,"seis":6,"sete":7,"oito":8,"nove":9,"dez":10,"onze":11,"doze":12,"quinze":15,"vinte":20,"trinta":30,"quarenta":40,"cinquenta":50,"sessenta":60,"setenta":70,"noventa":90,"cem":100,"cento":100,"terça":3,"terço":3,"quinto":5,"quintos":5,"décimo":10,"décimos":10,"metade":2}
 def nums(t):
     t=t.lower(); s=set(re.findall(r"\d+",t))
@@ -12,7 +12,7 @@ def body(a):
     if m.group(2): its=[x for x in its if x.startswith(m.group(2)+" -")]
     return " ".join(its)
 bad=0
-for f in sorted(glob.glob('/home/claude/camara2026-banco0/ferramentas/nq_cf/c*.py')):
+for f in sorted(glob.glob(sys.argv[2]+'/c*.py')):
   for (top,arts,g,tx,com,tipo) in runpy.run_path(f)["Q"]:
     if not arts: continue
     b=" ".join(body(a) for a in arts)

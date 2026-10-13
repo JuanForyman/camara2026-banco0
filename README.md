@@ -16,3 +16,4 @@ Memória do projeto: pasta QUARTEL GENERAL - CÂMARA no Drive.
 - Quarentena no sorteio: campo respondido nas últimas 3 respostas pesa 0,1; nas últimas 10, 0,4 (átomo errado por último: 0,6/0,9).
 - Dominado: 4+ respostas e 3+ questões distintas em 90 dias, p≥0,8, ao menos um acerto em item Errado, sem erro aberto; novo em campo dominado pesa 0,4.
 - Painel mostra a tabela de campos. Testes: `node motor/test_engine.js` (v1 + v2).
+- Direito Constitucional completo (595 questões, 41 campos): ferramentas/nq_cf/c01..c06; auditoria: ferramentas/audit_cf.py + dados/cf_texto.json.

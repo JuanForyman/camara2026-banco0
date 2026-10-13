@@ -5,7 +5,13 @@ import os
 TXT = json.load(open(sys.argv[3])) if len(sys.argv) > 3 else {}
 def corpo(num, inc):
     its = [re.sub(r"\s*\((?:[^()]*?)(?:Emenda|redação|Redação|Revogad)[^()]*\)\s*", " ", x).strip() for x in TXT.get(str(num), [])]
-    if inc: return [its[0]] + [x for x in its if x.startswith(inc + " -")]
+    if inc:
+        out, on = [its[0]] if its else [], False
+        for x in its[1:]:
+            if x.startswith(inc + " -"): out.append(x); on = True
+            elif on and re.match(r"[a-z]\)", x): out.append(x)
+            else: on = False
+        return out
     if len(its) > 70: its = [x for x in its if x.startswith(("Art.", "§", "Parágrafo"))]
     return its
 out, atoms, n = [], {}, 0
