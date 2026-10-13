@@ -1,0 +1,187 @@
+<title>Treino Câmara 2026</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: barra fina no topo; uma coluna central de leitura (questão → gabarito → saiba mais); painel em outra aba */
+:root{--bg:#f5f4f0;--card:#fffefb;--fg:#1c2226;--mut:#667177;--line:#dcd9d1;--acc:#1f4e79;--accbg:#e4edf5;--ok:#2b6a3d;--okbg:#e3f0e6;--err:#9a2f2f;--errbg:#f6e4e2;--warn:#8a6414;--f-disp:'Source Serif 4',Georgia,serif;--f-body:'IBM Plex Sans',system-ui,sans-serif;--f-mono:'IBM Plex Mono',ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#13171a;--card:#1a1f23;--fg:#e5e8ea;--mut:#98a3a9;--line:#2b3338;--acc:#86b6e3;--accbg:#1f2e3b;--ok:#7fc494;--okbg:#1c2d22;--err:#e89191;--errbg:#33201f;--warn:#d9b45e;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#13171a;--card:#1a1f23;--fg:#e5e8ea;--mut:#98a3a9;--line:#2b3338;--acc:#86b6e3;--accbg:#1f2e3b;--ok:#7fc494;--okbg:#1c2d22;--err:#e89191;--errbg:#33201f;--warn:#d9b45e;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:15px/1.55 var(--f-body);padding-inline:16px;padding-block:0}
+button{font:inherit;color:inherit;cursor:pointer}
+select{font:inherit;color:var(--fg);background:var(--card);border:1px solid var(--line);border-radius:4px;padding:5px 8px;max-width:100%;min-width:0}
+:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
+header{max-width:760px;margin:0 auto;padding-block:12px;display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line)}
+.brand{font:600 1.05rem var(--f-disp)}
+nav{display:flex;gap:4px}
+nav button{background:none;border:0;border-bottom:2px solid transparent;padding:4px 10px;color:var(--mut)}
+nav button[aria-current="true"]{color:var(--fg);border-color:var(--acc)}
+main{max-width:760px;margin:0 auto;padding-block:20px 48px;display:grid;gap:16px}
+.meta{display:flex;flex-wrap:wrap;gap:4px 14px;font:.75rem var(--f-mono);color:var(--mut)}
+.q{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:22px 22px 20px}
+.enun{font:400 1.28rem/1.6 var(--f-disp);margin:0;text-wrap:pretty}
+.resp{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
+.resp button{flex:1 1 120px;padding:11px 14px;border:1px solid var(--line);background:var(--bg);border-radius:4px;font-weight:600}
+.resp button:hover{border-color:var(--acc)}
+.resp button small{font:400 .72rem var(--f-mono);color:var(--mut);margin-left:6px}
+.resp .br{flex:0 1 110px;font-weight:400;color:var(--mut)}
+.res{margin-top:18px;padding:12px 14px;border-radius:4px;display:grid;gap:6px}
+.res.ok{background:var(--okbg)}.res.no{background:var(--errbg)}.res.bl{background:var(--accbg)}
+.res b{font-weight:600}.ok b{color:var(--ok)}.no b{color:var(--err)}
+.com{margin:0}
+details.mais{margin-top:12px;border-top:1px solid var(--line);padding-top:10px}
+details.mais summary{cursor:pointer;color:var(--acc);font-size:.9rem}
+.art{margin-top:8px;font:.92rem/1.6 var(--f-disp);display:grid;gap:4px}
+.art h4{margin:8px 0 2px;font:600 .8rem var(--f-mono);color:var(--mut)}
+.art p{margin:0}
+.marks{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:12px;font-size:.8rem}
+.marks button{background:none;border:0;padding:2px 0;color:var(--mut);border-bottom:1px dotted transparent}
+.marks button:hover{color:var(--fg)}
+.marks button[aria-pressed="true"]{color:var(--acc);font-weight:600;border-bottom-color:var(--acc)}
+.marks kbd{font:.68rem var(--f-mono);opacity:.7;margin-left:3px}
+.prox{margin-top:16px;display:flex;justify-content:flex-end}
+.prox button{background:var(--acc);color:var(--bg);border:0;padding:9px 18px;border-radius:4px;font-weight:600}
+table{border-collapse:collapse;width:100%;font-size:.88rem}
+th,td{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{font:500 .7rem var(--f-mono);color:var(--mut);text-transform:uppercase;letter-spacing:.04em}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
+.tw{overflow-x:auto;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:6px}
+.bar{height:6px;background:var(--line);border-radius:3px;min-width:60px}
+.bar i{display:block;height:100%;background:var(--acc);border-radius:3px}
+.top{display:flex;flex-wrap:wrap;gap:16px;font:.82rem var(--f-mono);color:var(--mut)}
+.top b{color:var(--fg);font-weight:500}
+.nota{font-size:.82rem;color:var(--mut);max-width:65ch;margin:0}
+.btn{background:var(--card);border:1px solid var(--line);border-radius:4px;padding:6px 12px}
+.tool{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.lix{display:grid;gap:6px;font-size:.85rem}
+.lix div{display:flex;gap:10px;justify-content:space-between;align-items:flex-start;background:var(--card);border:1px solid var(--line);border-radius:4px;padding:8px 10px}
+.vazio{padding:30px 10px;text-align:center;color:var(--mut)}
+</style>
+<header><span class="brand">Treino Câmara 2026</span>
+<nav><button id="nTreino" aria-current="true">Treino</button><button id="nPainel" aria-current="false">Painel</button></nav>
+<div class="tool"><select id="fTop" aria-label="Tópico"></select></div></header>
+<main id="main"><div class="vazio">Carregando banco…</div></main>
+<script>
+const $=id=>document.getElementById(id);
+const LS="cam26v0";const DAY=864e5;const BOX=[0,1,3,7,16,35,80];
+let Q=[],ART={},TOP={},ST={},EV=[],DB=null,UID=null,cur=null,answered=null,view="treino",filt="",saveQ=Promise.resolve();
+const now=()=>Date.now();
+function lsGet(){try{return JSON.parse(localStorage.getItem(LS)||"null")}catch(e){return null}}
+function lsPut(){try{localStorage.setItem(LS,JSON.stringify({ST,EV:EV.slice(-3000)}))}catch(e){}}
+function esc(s){return String(s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}
+async function load(){
+ const [b,a,t]=await Promise.all(["banco","artigos","topicos"].map(n=>fetch(n+".json").then(r=>r.json())));
+ Q=b;ART=a;TOP=t;
+ const l=lsGet();if(l){ST=l.ST||{};EV=l.EV||[]}
+ draw();
+ try{const c=await claude.use("db");const u=await claude.use("user");
+  if(c){DB=c;UID=u?await u.id():null;
+   const s=await DB.collection("estado").limit(1000).get();
+   s.docs.forEach(d=>{const x=d.data();if(x&&(!ST[d.id]||(x.u||0)>(ST[d.id].u||0)))ST[d.id]=x});
+   lsPut();if(!answered)draw()}}catch(e){}
+}
+function persist(qid,ev){
+ lsPut();
+ if(!DB)return;
+ saveQ=saveQ.then(async()=>{try{await DB.doc("estado/"+qid).set(ST[qid]);if(ev)await DB.collection("eventos").add(ev)}catch(e){}});
+}
+const S=q=>ST[q.id]||(ST[q.id]={n:0,ok:0,box:0,due:0,m:{}});
+function pool(){return Q.filter(q=>(!filt||q.t===filt||q.t.startsWith(filt+".")) && !(S(q).m.lix))}
+function pick(){
+ const P=pool();if(!P.length)return null;
+ const t=now();
+ const due=P.filter(q=>S(q).n>0&&S(q).due<=t).sort((a,b)=>S(a).due-S(b).due);
+ const nova=P.filter(q=>S(q).n===0);
+ if(due.length&&(!nova.length||Math.random()<0.6))return due[0];
+ if(nova.length){ // tópico menos coberto primeiro
+  const cov={};P.forEach(q=>{const c=cov[q.t]||(cov[q.t]={n:0,v:0});c.n++;if(S(q).n>0)c.v++});
+  const ts=Object.keys(cov).filter(k=>nova.some(q=>q.t===k)).sort((a,b)=>cov[a].v/cov[a].n-cov[b].v/cov[b].n);
+  const lim=ts.filter(k=>cov[k].v/cov[k].n<=cov[ts[0]].v/cov[ts[0]].n+0.15);
+  const k=lim[Math.floor(Math.random()*lim.length)];
+  const c=nova.filter(q=>q.t===k);return c[Math.floor(Math.random()*c.length)]}
+ return P.slice().sort((a,b)=>S(a).due-S(b).due)[0];
+}
+function answer(r){ // r: C | E | B
+ if(!cur||answered)return;
+ const s=S(cur);const t=now();
+ const acertou=r===cur.g,branco=r==="B";
+ s.n++;s.last=t;s.u=t;
+ if(branco){s.due=t+DAY}
+ else if(acertou){s.ok++;s.box=Math.min(s.box+1,BOX.length-1);s.due=t+BOX[s.box]*DAY}
+ else{s.box=0;s.due=t+10*60e3}
+ if(s.m.rev){delete s.m.rev}
+ answered={r,acertou,branco};
+ const ev={q:cur.id,r,g:cur.g,ok:branco?null:acertou,t,top:cur.t};EV.push(ev);
+ persist(cur.id,ev);draw();
+}
+function mark(k){
+ if(!cur||!answered)return;
+ const s=S(cur);s.m[k]=!s.m[k];if(!s.m[k])delete s.m[k];
+ if(k==="rev"&&s.m.rev)s.due=now();
+ s.u=now();persist(cur.id);
+ if(k==="lix"&&s.m.lix){next();return}
+ draw();
+}
+function next(){cur=pick();answered=null;draw();window.scrollTo(0,0)}
+function artHtml(q){
+ return q.a.map(id=>{const a=ART[id];if(!a)return"";return`<h4>${esc(a.t)}</h4>`+a.x.map(l=>`<p>${esc(l)}</p>`).join("")}).join("")||`<p>Sem texto de artigo vinculado (${esc(q.c)}).</p>`;
+}
+const MK=[["boa","Boa","g"],["ruim","Ruim","r"],["dif","Difícil","d"],["rev","Rever","v"],["lix","Lixeira","x"]];
+function drawTreino(){
+ if(!cur)cur=pick();
+ if(!cur){$("main").innerHTML='<div class="vazio">Nenhuma questão neste filtro.</div>';return}
+ const s=S(cur),hoje=EV.filter(e=>now()-e.t<DAY&&e.ok!==undefined),ac=hoje.filter(e=>e.ok).length;
+ let h=`<div class="top"><span>hoje <b>${hoje.length}</b> respondidas</span><span>acertos <b>${ac}</b></span><span>no banco <b>${pool().length}</b></span></div>`;
+ h+=`<div class="q"><div class="meta"><span>${esc(cur.id)}</span><span>${esc(TOP[cur.t]||cur.t)}</span>${s.n?`<span>vista ${s.n}×</span>`:"<span>nova</span>"}</div>
+ <p class="enun" style="margin-top:12px">${esc(cur.e)}</p>`;
+ if(!answered){h+=`<div class="resp"><button data-r="C">Certo<small>C</small></button><button data-r="E">Errado<small>E</small></button><button class="br" data-r="B">Em branco<small>B</small></button></div>`}
+ else{
+  const a=answered,cls=a.branco?"bl":a.acertou?"ok":"no";
+  const msg=a.branco?"Em branco":a.acertou?"Você acertou":"Você errou";
+  h+=`<div class="res ${cls}"><div><b>${msg}.</b> Gabarito: <b>${cur.g==="C"?"Certo":"Errado"}</b></div><p class="com">${esc(cur.c)}</p></div>
+  <details class="mais"><summary>Saiba mais: texto do artigo</summary><div class="art">${artHtml(cur)}</div></details>
+  <div class="marks" role="group" aria-label="Marcações">${MK.map(([k,l,key])=>`<button data-m="${k}" aria-pressed="${!!S(cur).m[k]}">${l}<kbd>${key}</kbd></button>`).join("")}</div>
+  <div class="prox"><button id="bNext">Próxima <span style="opacity:.7;font-family:var(--f-mono);font-size:.75rem">Enter</span></button></div>`}
+ h+="</div>";
+ $("main").innerHTML=h;
+ $("main").querySelectorAll("[data-r]").forEach(b=>b.onclick=()=>answer(b.dataset.r));
+ $("main").querySelectorAll("[data-m]").forEach(b=>b.onclick=()=>mark(b.dataset.m));
+ const bn=$("bNext");if(bn){bn.onclick=next;bn.focus({preventScroll:true})}
+}
+function drawPainel(){
+ const by={};Q.forEach(q=>{const x=by[q.t]||(by[q.t]={n:0,v:0,a:0,ok:0,net:0});const s=S(q);if(s.m.lix)return;x.n++;if(s.n){x.v++;x.a+=s.n;x.ok+=s.ok}
+  const p=s.n? Math.min((s.ok+1)/(s.n+2),s.n<2?0.75:1):0.5;x.net+=2*p-1});
+ const ks=Object.keys(by).sort();
+ const tot=ks.reduce((a,k)=>({n:a.n+by[k].n,v:a.v+by[k].v,net:a.net+by[k].net}),{n:0,v:0,net:0});
+ const lix=Q.filter(q=>S(q).m.lix),ruim=Q.filter(q=>S(q).m.ruim),rev=Q.filter(q=>S(q).m.rev);
+ let h=`<div class="top"><span>itens <b>${tot.n}</b></span><span>vistos <b>${tot.v}</b> (${Math.round(100*tot.v/Math.max(tot.n,1))}%)</span><span>saldo estimado por 10 itens <b>${(10*tot.net/Math.max(tot.n,1)).toFixed(1)}</b></span></div>
+ <div class="tw"><table><thead><tr><th>Tópico</th><th class="n">Itens</th><th>Cobertura</th><th class="n">Acerto</th><th class="n">Saldo/10</th></tr></thead><tbody>`;
+ ks.forEach(k=>{const x=by[k];h+=`<tr><td>${esc(TOP[k]||k)}<div style="font:.7rem var(--f-mono);color:var(--mut)">${k}</div></td><td class="n">${x.n}</td><td><div class="bar"><i style="width:${100*x.v/x.n}%"></i></div></td><td class="n">${x.a?Math.round(100*x.ok/x.a)+"%":"–"}</td><td class="n">${(10*x.net/x.n).toFixed(1)}</td></tr>`});
+ h+=`</tbody></table></div><p class="nota">Estimativa grosseira: item não visto vale 0 pontos esperados; com menos de 2 respostas o acerto estimado é limitado a 75%. Cada erro anula um acerto, então chutar sem base tem saldo zero. As questões ainda não passaram por revisão humana: marque "Ruim" quando algo parecer errado.</p>`;
+ h+=`<div class="tool"><button class="btn" id="bExp">Exportar meu histórico (JSON)</button><span class="nota">${rev.length} para rever · ${ruim.length} marcadas como ruins · ${lix.length} na lixeira</span></div>`;
+ if(ruim.length)h+=`<div class="lix"><b>Marcadas como ruins</b>${ruim.map(q=>`<div><span>${esc(q.id)}: ${esc(q.e)}</span></div>`).join("")}</div>`;
+ if(lix.length)h+=`<div class="lix"><b>Lixeira</b>${lix.map(q=>`<div><span>${esc(q.id)}: ${esc(q.e)}</span><button class="btn" data-rest="${q.id}">Restaurar</button></div>`).join("")}</div>`;
+ $("main").innerHTML=h;
+ $("main").querySelectorAll("[data-rest]").forEach(b=>b.onclick=()=>{const q=Q.find(x=>x.id===b.dataset.rest);delete S(q).m.lix;S(q).u=now();persist(q.id);draw()});
+ const be=$("bExp");be.onclick=async()=>{try{const d=await claude.use("downloads");if(!d){be.textContent="Download indisponível aqui";return}
+  await d.save({filename:"historico_camara2026.json",data:JSON.stringify({exportado:new Date().toISOString(),estado:ST,eventos:EV},null,1)})}catch(e){}};
+}
+function draw(){
+ $("nTreino").setAttribute("aria-current",view==="treino");$("nPainel").setAttribute("aria-current",view==="painel");
+ if(!Q.length)return;
+ if(view==="treino")drawTreino();else drawPainel();
+}
+$("nTreino").onclick=()=>{view="treino";draw()};
+$("nPainel").onclick=()=>{view="painel";draw()};
+$("fTop").onchange=e=>{filt=e.target.value;cur=null;answered=null;draw()};
+document.addEventListener("keydown",e=>{
+ if(view!=="treino"||e.ctrlKey||e.metaKey||e.altKey||e.target.tagName==="SELECT")return;
+ const k=e.key.toLowerCase();
+ if(!answered){if(k==="c")answer("C");else if(k==="e")answer("E");else if(k==="b")answer("B")}
+ else{if(k==="enter"||k===" "){e.preventDefault();next()}
+  else{const m=MK.find(x=>x[2]===k);if(m)mark(m[0])}}
+});
+load().then(()=>{
+ const ts=[...new Set(Q.map(q=>q.t))].sort();
+ $("fTop").innerHTML='<option value="">Todos os tópicos</option>'+ts.map(t=>`<option value="${t}">${esc((TOP[t]||t).slice(0,58))}</option>`).join("");
+}).catch(e=>{$("main").innerHTML='<div class="vazio">Erro ao carregar o banco: '+esc(e.message)+'</div>'});
+</script>
