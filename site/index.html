@@ -16,7 +16,9 @@ nav{display:flex;gap:4px}
 nav button{background:none;border:0;border-bottom:2px solid transparent;padding:4px 10px;color:var(--mut)}
 nav button[aria-current="true"]{color:var(--fg);border-color:var(--acc)}
 main{max-width:760px;margin:0 auto;padding-block:20px 48px;display:grid;gap:16px}
-.meta{display:flex;flex-wrap:wrap;gap:4px 14px;font:.75rem var(--f-mono);color:var(--mut)}
+.crumb{font:600 .82rem var(--f-body);color:var(--acc);letter-spacing:.01em}
+.crumb span{color:var(--mut);margin:0 3px}
+.meta{margin-top:4px;display:flex;flex-wrap:wrap;gap:4px 14px;font:.75rem var(--f-mono);color:var(--mut)}
 .q{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:22px 22px 20px}
 .enun{font:400 1.28rem/1.6 var(--f-disp);margin:0;text-wrap:pretty}
 .resp{display:flex;flex-wrap:wrap;gap:10px;margin-top:20px}
@@ -61,9 +63,130 @@ td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
 <div class="tool"><select id="fTop" aria-label="Tópico"></select></div></header>
 <main id="main"><div class="vazio">Carregando banco…</div></main>
 <script>
+/* Motor de estudo v1 (puro, sem DOM). Usado pelo site e por scripts.
+   Entrada: eventos {q, ok(true|false|null), t(ms)} e questões {id,t,a[],g}.
+   Unidade de conhecimento: átomo (artigo). Questão sem átomo vira átomo próprio "Q:<id>". */
+(function (root) {
+  const DAY = 864e5;
+  const INT = [0.007, 1, 3, 7, 16, 35, 80]; // dias até a próxima revisão, por sequência de acertos
+  const META = { pp: 0.65, ampla: 0.705, nota: "estimada pela prova anterior da Câmara (corte 117/180 PP, 127/180 ampla); outra prova, outra especialidade" };
+
+  const atomsOf = q => (q.a && q.a.length ? q.a : ["Q:" + q.id]);
+
+  function build(events, Q) {
+    const qm = new Map(Q.map(q => [q.id, q]));
+    const A = {};
+    const ev = events.filter(e => e.ok === true || e.ok === false).sort((a, b) => a.t - b.t);
+    for (const e of ev) {
+      const q = qm.get(e.q); if (!q) continue;
+      atomsOf(q).forEach((a, i) => {
+        const x = A[a] || (A[a] = { ev: [], streak: 0, last: 0, n: 0, ok: 0 });
+        const w = i === 0 ? 1 : 0.5;
+        x.ev.push([e.t, e.ok ? 1 : 0, w]); x.n += w;
+        if (e.ok) { x.ok += w; x.streak++; } else x.streak = 0;
+        x.last = e.t;
+      });
+    }
+    return A;
+  }
+
+  // Probabilidade de acerto: Beta(1,1) com evidência que esmaece (meia-vida 60 dias).
+  // Regra do teto: menos de 2 respostas -> no máximo 0,75.
+  function pAtom(x, t) {
+    if (!x || !x.n) return { p: 0.5, neff: 0 };
+    let s = 1, f = 1, ne = 0;
+    for (const [te, ok, w] of x.ev) {
+      const ww = w * Math.pow(0.5, (t - te) / DAY / 60);
+      ne += ww; if (ok) s += ww; else f += ww;
+    }
+    let p = s / (s + f);
+    if (x.n < 2) p = Math.min(p, 0.75);
+    return { p, neff: ne };
+  }
+
+  function urgency(x, t) { // >=1 significa vencido
+    if (!x || !x.n) return 0;
+    return (t - x.last) / DAY / INT[Math.min(x.streak, INT.length - 1)];
+  }
+
+  function priority(x, t, cov) {
+    if (!x || !x.n) return 0.45 * (1 + (1 - cov)); // novo: mais valioso em tópico pouco coberto
+    const { p } = pAtom(x, t), u = urgency(x, t);
+    if (x.streak === 0) return 0.6 + (1 - p); // errou por último: outra questão do mesmo artigo logo
+    return Math.max(0.02, (1 - p) * (0.6 + 0.4 * Math.min(u, 3)) + (u >= 1 ? 0.35 : -0.25 * (1 - u)));
+  }
+
+  function motivo(x, t) {
+    if (!x || !x.n) return "nova";
+    const u = urgency(x, t), { p } = pAtom(x, t);
+    if (x.streak === 0) return "você errou por último";
+    if (u >= 1) return "revisão vencida";
+    return p < 0.6 ? "ponto fraco" : "reforço";
+  }
+
+  function coverage(Q, A) {
+    const c = {};
+    for (const q of Q) { const k = q.t, o = c[k] || (c[k] = { n: 0, v: 0 }); o.n++; if (A[atomsOf(q)[0]] && A[atomsOf(q)[0]].n) o.v++; }
+    return c;
+  }
+
+  // Escolhe a próxima questão. allowed: lista de questões elegíveis (já sem lixeira e com filtro).
+  function pick(allowed, events, t, rnd) {
+    rnd = rnd || Math.random;
+    if (!allowed.length) return null;
+    const A = build(events, allowed), cov = coverage(allowed, A);
+    const byAtom = new Map();
+    for (const q of allowed) for (const a of atomsOf(q)) { (byAtom.get(a) || byAtom.set(a, []).get(a)).push(q); }
+    const last = {}; // última vez que cada questão apareceu
+    for (const e of events) last[e.q] = Math.max(last[e.q] || 0, e.t);
+    const cand = [];
+    for (const [a, qs] of byAtom) {
+      const top = qs[0].t, c = cov[top] ? cov[top].v / cov[top].n : 0;
+      cand.push({ a, qs, pr: priority(A[a], t, c), x: A[a] });
+    }
+    cand.sort((u, v) => v.pr - u.pr);
+    const top = cand.slice(0, 6), wsum = top.reduce((s, c) => s + c.pr * c.pr, 0);
+    let r = rnd() * wsum, ch = top[0];
+    for (const c of top) { r -= c.pr * c.pr; if (r <= 0) { ch = c; break; } }
+    const qs = ch.qs.slice().sort((a, b) => (last[a.id] || 0) - (last[b.id] || 0) + (rnd() - 0.5) * 1e3);
+    return { q: qs[0], motivo: motivo(ch.x, t), atomo: ch.a, prioridade: ch.pr };
+  }
+
+  // Aproveitamento líquido esperado (acerto − erro), por tópico e geral. Não visto vale 0.
+  function readiness(Q, events, t) {
+    const A = build(events, Q), out = { topicos: {}, geral: 0, vistos: 0, n: Q.length };
+    let soma = 0;
+    for (const q of Q) {
+      const a = atomsOf(q)[0], x = A[a], p = pAtom(x, t).p;
+      const ev = x && x.n ? Math.max(0, 2 * p - 1) : 0;
+      const k = out.topicos[q.t] || (out.topicos[q.t] = { n: 0, v: 0, liq: 0 });
+      k.n++; k.liq += ev; if (x && x.n) { k.v++; out.vistos++; }
+      soma += ev;
+    }
+    out.geral = Q.length ? soma / Q.length : 0;
+    for (const k of Object.values(out.topicos)) k.liq = k.n ? k.liq / k.n : 0;
+    return out;
+  }
+
+  // Átomos mais prioritários agora (para o painel)
+  function fila(Q, events, t, n) {
+    const A = build(events, Q), cov = coverage(Q, A), seen = new Map();
+    for (const q of Q) for (const a of atomsOf(q)) if (!seen.has(a)) seen.set(a, q);
+    return [...seen].map(([a, q]) => {
+      const c = cov[q.t] ? cov[q.t].v / cov[q.t].n : 0;
+      return { a, t: q.t, pr: priority(A[a], t, c), motivo: motivo(A[a], t), p: pAtom(A[a], t).p };
+    }).sort((u, v) => v.pr - u.pr).slice(0, n || 8);
+  }
+
+  const api = { build, pAtom, urgency, priority, pick, readiness, fila, coverage, atomsOf, META, INT, DAY };
+  if (typeof module !== "undefined") module.exports = api; else root.Motor = api;
+})(typeof window !== "undefined" ? window : globalThis);
+
+</script>
+<script>
 const $=id=>document.getElementById(id);
 const LS="cam26v0";const DAY=864e5;const BOX=[0,1,3,7,16,35,80];
-let Q=[],ART={},TOP={},ST={},EV=[],DB=null,UID=null,cur=null,answered=null,view="treino",filt="",saveQ=Promise.resolve();
+let why="",Q=[],ART={},TOP={},ST={},EV=[],DB=null,UID=null,cur=null,answered=null,view="treino",filt="",saveQ=Promise.resolve();
 const now=()=>Date.now();
 function lsGet(){try{return JSON.parse(localStorage.getItem(LS)||"null")}catch(e){return null}}
 function lsPut(){try{localStorage.setItem(LS,JSON.stringify({ST,EV:EV.slice(-3000)}))}catch(e){}}
@@ -77,6 +200,10 @@ async function load(){
   if(c){DB=c;UID=u?await u.id():null;
    const s=await DB.collection("estado").limit(1000).get();
    s.docs.forEach(d=>{const x=d.data();if(x&&(!ST[d.id]||(x.u||0)>(ST[d.id].u||0)))ST[d.id]=x});
+   try{const es=await DB.collection("eventos").orderBy("t","desc").limit(1000).get();
+    const key=e=>e.q+"|"+e.t,have=new Set(EV.map(key));
+    es.docs.forEach(d=>{const x=d.data();if(x&&x.q&&!have.has(key(x))){EV.push(x);have.add(key(x))}});
+    EV.sort((a,b)=>a.t-b.t)}catch(e){}
    lsPut();if(!answered)draw()}}catch(e){}
 }
 function persist(qid,ev){
@@ -87,28 +214,14 @@ function persist(qid,ev){
 const S=q=>ST[q.id]||(ST[q.id]={n:0,ok:0,box:0,due:0,m:{}});
 function pool(){return Q.filter(q=>(!filt||q.t===filt||q.t.startsWith(filt+".")) && !(S(q).m.lix))}
 function pick(){
- const P=pool();if(!P.length)return null;
- const t=now();
- const due=P.filter(q=>S(q).n>0&&S(q).due<=t).sort((a,b)=>S(a).due-S(b).due);
- const nova=P.filter(q=>S(q).n===0);
- if(due.length&&(!nova.length||Math.random()<0.6))return due[0];
- if(nova.length){ // tópico menos coberto primeiro
-  const cov={};P.forEach(q=>{const c=cov[q.t]||(cov[q.t]={n:0,v:0});c.n++;if(S(q).n>0)c.v++});
-  const ts=Object.keys(cov).filter(k=>nova.some(q=>q.t===k)).sort((a,b)=>cov[a].v/cov[a].n-cov[b].v/cov[b].n);
-  const lim=ts.filter(k=>cov[k].v/cov[k].n<=cov[ts[0]].v/cov[ts[0]].n+0.15);
-  const k=lim[Math.floor(Math.random()*lim.length)];
-  const c=nova.filter(q=>q.t===k);return c[Math.floor(Math.random()*c.length)]}
- return P.slice().sort((a,b)=>S(a).due-S(b).due)[0];
-}
+ const r=Motor.pick(pool(),EV,now());
+ why=r?r.motivo:"";return r?r.q:null}
 function answer(r){ // r: C | E | B
  if(!cur||answered)return;
  const s=S(cur);const t=now();
  const acertou=r===cur.g,branco=r==="B";
- s.n++;s.last=t;s.u=t;
- if(branco){s.due=t+DAY}
- else if(acertou){s.ok++;s.box=Math.min(s.box+1,BOX.length-1);s.due=t+BOX[s.box]*DAY}
- else{s.box=0;s.due=t+10*60e3}
- if(s.m.rev){delete s.m.rev}
+ s.n++;s.last=t;s.u=t;if(acertou)s.ok++;
+ if(s.m.rev)delete s.m.rev;
  answered={r,acertou,branco};
  const ev={q:cur.id,r,g:cur.g,ok:branco?null:acertou,t,top:cur.t};EV.push(ev);
  persist(cur.id,ev);draw();
@@ -116,8 +229,7 @@ function answer(r){ // r: C | E | B
 function mark(k){
  if(!cur||!answered)return;
  const s=S(cur);s.m[k]=!s.m[k];if(!s.m[k])delete s.m[k];
- if(k==="rev"&&s.m.rev)s.due=now();
- s.u=now();persist(cur.id);
+  s.u=now();persist(cur.id);
  if(k==="lix"&&s.m.lix){next();return}
  draw();
 }
@@ -131,7 +243,8 @@ function drawTreino(){
  if(!cur){$("main").innerHTML='<div class="vazio">Nenhuma questão neste filtro.</div>';return}
  const s=S(cur),hoje=EV.filter(e=>now()-e.t<DAY&&e.ok!==undefined),ac=hoje.filter(e=>e.ok).length;
  let h=`<div class="top"><span>hoje <b>${hoje.length}</b> respondidas</span><span>acertos <b>${ac}</b></span><span>no banco <b>${pool().length}</b></span></div>`;
- h+=`<div class="q"><div class="meta"><span>${esc(cur.id)}</span><span>${esc(TOP[cur.t]||cur.t)}</span>${s.n?`<span>vista ${s.n}×</span>`:"<span>nova</span>"}</div>
+ h+=`<div class="q"><div class="crumb">${esc((TOP[cur.t]||{}).m||"")} <span>›</span> ${esc((TOP[cur.t]||{}).t||cur.t)}</div>
+ <div class="meta"><span>${esc(cur.id)}</span><span>${why?esc(why):""}</span>${s.n?`<span>vista ${s.n}×</span>`:""}</div>
  <p class="enun" style="margin-top:12px">${esc(cur.e)}</p>`;
  if(!answered){h+=`<div class="resp"><button data-r="C">Certo<small>C</small></button><button data-r="E">Errado<small>E</small></button><button class="br" data-r="B">Em branco<small>B</small></button></div>`}
  else{
@@ -148,16 +261,18 @@ function drawTreino(){
  const bn=$("bNext");if(bn){bn.onclick=next;bn.focus({preventScroll:true})}
 }
 function drawPainel(){
- const by={};Q.forEach(q=>{const x=by[q.t]||(by[q.t]={n:0,v:0,a:0,ok:0,net:0});const s=S(q);if(s.m.lix)return;x.n++;if(s.n){x.v++;x.a+=s.n;x.ok+=s.ok}
-  const p=s.n? Math.min((s.ok+1)/(s.n+2),s.n<2?0.75:1):0.5;x.net+=2*p-1});
- const ks=Object.keys(by).sort();
- const tot=ks.reduce((a,k)=>({n:a.n+by[k].n,v:a.v+by[k].v,net:a.net+by[k].net}),{n:0,v:0,net:0});
- const lix=Q.filter(q=>S(q).m.lix),ruim=Q.filter(q=>S(q).m.ruim),rev=Q.filter(q=>S(q).m.rev);
- let h=`<div class="top"><span>itens <b>${tot.n}</b></span><span>vistos <b>${tot.v}</b> (${Math.round(100*tot.v/Math.max(tot.n,1))}%)</span><span>saldo estimado por 10 itens <b>${(10*tot.net/Math.max(tot.n,1)).toFixed(1)}</b></span></div>
- <div class="tw"><table><thead><tr><th>Tópico</th><th class="n">Itens</th><th>Cobertura</th><th class="n">Acerto</th><th class="n">Saldo/10</th></tr></thead><tbody>`;
- ks.forEach(k=>{const x=by[k];h+=`<tr><td>${esc(TOP[k]||k)}<div style="font:.7rem var(--f-mono);color:var(--mut)">${k}</div></td><td class="n">${x.n}</td><td><div class="bar"><i style="width:${100*x.v/x.n}%"></i></div></td><td class="n">${x.a?Math.round(100*x.ok/x.a)+"%":"–"}</td><td class="n">${(10*x.net/x.n).toFixed(1)}</td></tr>`});
- h+=`</tbody></table></div><p class="nota">Estimativa grosseira: item não visto vale 0 pontos esperados; com menos de 2 respostas o acerto estimado é limitado a 75%. Cada erro anula um acerto, então chutar sem base tem saldo zero. As questões ainda não passaram por revisão humana: marque "Ruim" quando algo parecer errado.</p>`;
- h+=`<div class="tool"><button class="btn" id="bExp">Exportar meu histórico (JSON)</button><span class="nota">${rev.length} para rever · ${ruim.length} marcadas como ruins · ${lix.length} na lixeira</span></div>`;
+ const P=Q.filter(q=>!S(q).m.lix),R=Motor.readiness(P,EV,now()),F=Motor.fila(P,EV,now(),8);
+ const ruim=Q.filter(q=>S(q).m.ruim),lix=Q.filter(q=>S(q).m.lix),rev=Q.filter(q=>S(q).m.rev);
+ const pct=x=>Math.round(100*x)+"%",m=Motor.META;
+ let h=`<div class="q" style="padding:16px 18px"><div class="meta">Preparo líquido nos itens do banco (acertos menos erros)</div>
+ <div style="display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-top:6px"><span style="font:600 2rem var(--f-disp)">${pct(R.geral)}</span><span class="nota">meta provisória ${pct(m.pp)} (lista PP) · ${pct(m.ampla)} (ampla)</span></div>
+ <div class="bar" style="height:10px;margin-top:10px;position:relative"><i style="width:${Math.min(100,100*R.geral)}%"></i><u style="position:absolute;left:${100*m.pp}%;top:-3px;bottom:-3px;width:2px;background:var(--warn);border:0"></u></div>
+ <p class="nota" style="margin-top:8px">Itens não vistos contam zero. Vistos: ${R.vistos} de ${R.n}. A meta vem de outra prova da Câmara (corte 117/180 PP, 127/180 ampla) e de outra especialidade; é só referência até o edital 2026 ter resultado.</p></div>
+ <div class="tw"><table><thead><tr><th>Tópico</th><th class="n">Itens</th><th>Vistos</th><th class="n">Líquido</th></tr></thead><tbody>`;
+ Object.keys(R.topicos).sort().forEach(k=>{const x=R.topicos[k],T=TOP[k]||{};h+=`<tr><td>${esc(T.t||k)}<div style="font:.7rem var(--f-mono);color:var(--mut)">${esc(T.m||"")} · ${k}</div></td><td class="n">${x.n}</td><td><div class="bar"><i style="width:${100*x.v/x.n}%"></i></div></td><td class="n">${pct(x.liq)}</td></tr>`});
+ h+=`</tbody></table></div>
+ <div class="tw"><table><thead><tr><th>Próximos artigos que o motor vai priorizar</th><th>Motivo</th><th class="n">Acerto est.</th></tr></thead><tbody>${F.map(f=>`<tr><td>${esc((ART[f.a]||{}).t||f.a)}</td><td>${esc(f.motivo)}</td><td class="n">${pct(f.p)}</td></tr>`).join("")}</tbody></table></div>`;
+ h+=`<div class="tool"><button class="btn" id="bExp">Exportar meu histórico (JSON)</button><span class="nota">${rev.length} para rever · ${ruim.length} ruins · ${lix.length} na lixeira</span></div>`;
  if(ruim.length)h+=`<div class="lix"><b>Marcadas como ruins</b>${ruim.map(q=>`<div><span>${esc(q.id)}: ${esc(q.e)}</span></div>`).join("")}</div>`;
  if(lix.length)h+=`<div class="lix"><b>Lixeira</b>${lix.map(q=>`<div><span>${esc(q.id)}: ${esc(q.e)}</span><button class="btn" data-rest="${q.id}">Restaurar</button></div>`).join("")}</div>`;
  $("main").innerHTML=h;
@@ -182,6 +297,6 @@ document.addEventListener("keydown",e=>{
 });
 load().then(()=>{
  const ts=[...new Set(Q.map(q=>q.t))].sort();
- $("fTop").innerHTML='<option value="">Todos os tópicos</option>'+ts.map(t=>`<option value="${t}">${esc((TOP[t]||t).slice(0,58))}</option>`).join("");
+ $("fTop").innerHTML='<option value="">Todos os tópicos</option>'+ts.map(t=>`<option value="${t}">${esc(((TOP[t]||{}).t||t).slice(0,58))}</option>`).join("");
 }).catch(e=>{$("main").innerHTML='<div class="vazio">Erro ao carregar o banco: '+esc(e.message)+'</div>'});
 </script>
