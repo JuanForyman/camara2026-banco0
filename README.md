@@ -21,3 +21,8 @@ Memória do projeto: pasta QUARTEL GENERAL - CÂMARA no Drive.
 ## Lote Direito Administrativo — Lei 9.784/1999
 176 questões (121 C / 55 E) sobre o processo administrativo federal (tópico P1-M3-4), 78 átomos, 11 campos (`L9784-*`). Fonte: PDF anexado pelo usuário (sem o art. 69-A e alterações posteriores). Auditoria mecânica: 6 alertas, todos falsos positivos. `validada=false`.
 Build: `python3 -I ferramentas/build_lei.py L9784 "Lei 9.784/99" ferramentas/nq_leis/l9784 dados/leis/l9784.json dados`.
+
+## DIRETRIZ DE RELEVÂNCIA DE PROVA (permanente)
+Toda questão nova deve ser confrontada com o que o Cebraspe realmente cobra (formato Certo/Errado, pegadinhas, trocas de prazo/quórum/competência, exceções, generalizações "sempre/somente/qualquer", dispositivos de alta incidência), e não apenas com a letra da lei. Evitar lotes de "leitura" (paráfrase do artigo, gabarito C). Meta de equilíbrio ≈ 50% C / 50% E por tópico. Volume proporcional à incidência do tema/artigo.
+Implementação: campo `q.r` (1 = padrão de prova, 2 = plausível, 3 = letra seca); motor serve r=1 primeiro (pesos 1 / 0,55 / 0,15). `ferramentas/relevancia.py` atribui r.
+Estado em 13/10: Lei 9.784 = 123 r1, 25 r2, 28 r3; 96 das 176 eram "leitura", todas gabarito C (69% C no lote): precisam de variantes Errado e poda.

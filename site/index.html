@@ -168,6 +168,7 @@ td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
     return out;
   }
 
+  const RW = { 1: 1, 2: 0.55, 3: 0.15 }; // peso por relevância de prova
   // Escolhe a próxima questão. allowed: lista de questões elegíveis (já sem lixeira e com filtro).
   function pick(allowed, events, t, rnd) {
     rnd = rnd || Math.random;
@@ -189,13 +190,14 @@ td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
       const err = x && x.n && x.streak === 0;
       if (i < 3) pr *= err ? 0.6 : 0.1; else if (i < 10) pr *= err ? 0.9 : 0.4;
       if ((!x || !x.n) && CS[cp] && CS[cp].status === "dominado") pr *= 0.4; // terreno dominado: o novo espera
+      const rr = Math.min(...qs.map(q => q.r || 1)); pr *= RW[rr] || 1; // relevância de prova (q.r)
       cand.push({ a, qs, pr, x, cp });
     }
     cand.sort((u, v) => v.pr - u.pr);
     const top = cand.slice(0, 6), wsum = top.reduce((s, c) => s + c.pr * c.pr, 0);
     let r = rnd() * wsum, ch = top[0];
     for (const c of top) { r -= c.pr * c.pr; if (r <= 0) { ch = c; break; } }
-    const qs = ch.qs.slice().sort((a, b) => (last[a.id] || 0) - (last[b.id] || 0) + (rnd() - 0.5) * 1e3);
+    const qs = ch.qs.slice().sort((a, b) => ((a.r || 1) - (b.r || 1)) * 1e14 + (last[a.id] || 0) - (last[b.id] || 0) + (rnd() - 0.5) * 1e3);
     return { q: qs[0], motivo: motivo(ch.x, t), atomo: ch.a, campo: ch.cp, prioridade: ch.pr };
   }
 

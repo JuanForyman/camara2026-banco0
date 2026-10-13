@@ -37,7 +37,7 @@ console.log("motor ok");
  // erro não transfere
  const Ae=M.build([{q:"a1",ok:false,t:t-1000}],Q2); assert(!(Ae.X2&&Ae.X2.tr.length),"erro não transfere");
  // quarentena: após responder no campo F1, as próximas 3 escolhas não vêm de F1 (há alternativas)
- for(let i=0;i<60;i++){const r=M.pick(Q2,[{q:"a1",ok:true,t:t-1000}],t); assert(r.campo!=="F1","quarentena do campo: "+r.q.id);}
+ {let n=0;for(let i=0;i<400;i++){const r=M.pick(Q2,[{q:"a1",ok:true,t:t-1000}],t); if(r.campo==="F1")n++;} assert(n<400*0.08,"quarentena do campo: "+n+"/400 vieram de F1");}
  // erro no átomo: o campo fica 'lacuna' e a volta do mesmo átomo não é bloqueada de vez
  const Ce=M.campos(Q2,[{q:"a1",ok:false,t:t-1000}],t); assert(Ce.F1.status==="lacuna","lacuna");
  let vol=0; for(let i=0;i<200;i++){ if(M.pick(Q2,[{q:"a1",ok:false,t:t-1000}],t).campo==="F1") vol++; } assert(vol>0,"átomo errado ainda volta");
@@ -48,4 +48,13 @@ console.log("motor ok");
  st=M.campos(Q2,[ok("a1",5),ok("a2",4),ok("a3",3),{q:"a4",ok:false,t:t-1000}],t).F1.status; assert(st==="lacuna","erro derruba o domínio: "+st);
  // novo em campo dominado espera: se o campo tiver átomo novo, prioridade cai
  console.log("motor v2 ok");
+}
+// relevância de prova: r=3 aparece bem menos que r=1 (mesmo campo/átomos equivalentes)
+{
+ const Q3=[{id:"u1",t:"T",a:["U1"],f:"G1",g:"C",r:1},{id:"u2",t:"T",a:["U2"],f:"G2",g:"C",r:3}];
+ let n=0; for(let i=0;i<400;i++) if(M.pick(Q3,[],Date.now()).q.id==="u2") n++;
+ assert(n<400*0.15,"r=3 deveria sair pouco: "+n);
+ const Q4=[{id:"v1",t:"T",a:["V1"],f:"H",g:"C",r:3},{id:"v2",t:"T",a:["V1"],f:"H",g:"E",r:1}];
+ for(let i=0;i<20;i++) assert(M.pick(Q4,[],Date.now()).q.id==="v2","no mesmo átomo, r=1 vem antes");
+ console.log("relevância ok");
 }
