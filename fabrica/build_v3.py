@@ -26,11 +26,11 @@ for n, (ponto, arts, g, padrao, dif, e, c, terro, tag, ex) in enumerate(rows, 1)
     for a in arts:
         m = re.match(r"(\d+[A-Z]?)(?:\.([IVXLC]+))?$", a); assert m and m.group(1) in T, (a, e)
         aid = f"A-{SIG}-{int(re.match(r'\d+', m.group(1)).group(0)):04d}{re.sub(r'\d+', '', m.group(1))}" + (f".{m.group(2)}" if m.group(2) else "")
-        ids.append(aid); atoms[aid] = {"t": f"Lei 9.784/99 art. {m.group(1)}" + (f", {m.group(2)}" if m.group(2) else ""), "x": corpo(m.group(1), m.group(2))}
+        ids.append(aid); atoms[aid] = {"t": f"{bp.get('nome_curto','Lei 9.784/99')} art. {m.group(1)}" + (f", {m.group(2)}" if m.group(2) else ""), "x": corpo(m.group(1), m.group(2))}
     qid = f"Q-{SIG}-{n:04d}"; bytag[tag].append(qid)
     i = inc[ponto]; r = 1 if i == "alta" else 2 if i == "media" else 3
     fonte = ex.get("fonte") or {"tipo": "lei", "ref": bp["fonte"]["ref"] + ", " + ", ".join("art. " + a for a in arts), "versao": bp["fonte"]["versao"], "conferida": bp["fonte"]["conferida"]}
-    full.append({"id": qid, "t": bp["topico"], "materia": bp["materia"], "bloco": bp["bloco"], "item_edital": bp["item_edital"], "a": ids, "ponto": ponto, "g": g,
+    full.append({"id": qid, "t": bp.get("topico_por_ponto",{}).get(ponto,bp["topico"]), "materia": bp["materia"], "bloco": bp["bloco"], "item_edital": bp.get("item_edital_por_ponto",{}).get(ponto,bp["item_edital"]), "a": ids, "ponto": ponto, "g": g,
         "e": e, "formato": "caso_concreto" if padrao == "caso_concreto" else "assertiva", "c": c, "padrao": padrao, "tipo_erro": terro, "par": "", "dif": dif, "r": r, "incidencia": i,
         "fonte": fonte, "vigencia": "estavel", "risco": ex.get("risco", []), "origem": "autoral", "lote": LOTE, "criada": datetime.date.today().isoformat(), "versao": 1,
         "tags": [], "val": {"mecanica": False, "cega": "nao", "humana": False}, "_tag": tag})

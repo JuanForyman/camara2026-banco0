@@ -138,12 +138,12 @@
     {
      "id": "P1-M3-3",
      "titulo": "Agentes públicos",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
-     "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "itens_atuais": 324,
+     "itens_aprovados_v3": 324,
+     "meta": 324,
+     "fonte": "Lei 8.112/90 (PDF do usuário, atualizado até Lei 13.172/2015)",
+     "blueprint": "blueprints/l8112.json",
+     "status": "lote_L2_concluido"
     },
     {
      "id": "P1-M3-4",

@@ -1,0 +1,395 @@
+{
+ "parte": "Direito Administrativo — Lei 8.112/1990 (regime jurídico dos servidores públicos civis da União)",
+ "sigla": "L8112",
+ "topico": "P1-M3-3",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.3",
+ "nome_curto": "Lei 8.112/90",
+ "fonte": {
+  "tipo": "lei",
+  "ref": "Lei 8.112/1990",
+  "versao": "E-book Estratégia 'Atualizada e Esquematizada' (Herbert Almeida/Erick Alves), até Lei 13.172/2015; anexado pelo usuário",
+  "conferida": "pdf_usuario"
+ },
+ "nota_calibracao": "Incidência estimada pelo padrão Cebraspe (8.112 é lei de altíssima incidência em prova de carreira federal); refinar com provas anteriores.",
+ "pendencias": [
+  "alterações posteriores a 2015 (ex.: Lei 13.846/2019 e EC 103/2019 sobre aposentadoria/pensão) não constam do PDF",
+  "licença à gestante/paternidade ampliadas por Lei 11.770/2008 e Decreto 8.737/2016 (fora do PDF)",
+  "incisos de reversão (art. 25) e partes de arts. 36/60-B truncados pelo parser — itens baseados nesses trechos têm fonte 'conhecimento'"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "P01",
+   "titulo": "Conceitos, cargo e requisitos de investidura (arts. 2º a 5º)",
+   "incidencia": "media",
+   "armadilhas": [
+    "servidor x cargo",
+    "serviço gratuito proibido",
+    "reserva PcD até 20%",
+    "idade mínima 18",
+    "requisitos por lei"
+   ]
+  },
+  {
+   "id": "P02",
+   "titulo": "Formas de provimento (art. 8º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "rol: nomeação, promoção, readaptação, reversão, aproveitamento, reintegração, recondução",
+    "ascensão/transferência revogadas",
+    "originário x derivado"
+   ]
+  },
+  {
+   "id": "P03",
+   "titulo": "Nomeação e concurso público (arts. 9º a 12)",
+   "incidencia": "media",
+   "armadilhas": [
+    "validade até 2 anos, prorrogável uma vez",
+    "novo concurso só se não houver aprovado válido",
+    "efetivo x comissão"
+   ]
+  },
+  {
+   "id": "P04",
+   "titulo": "Posse (arts. 13 e 14)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "30 dias da publicação",
+    "só há posse na nomeação",
+    "procuração específica",
+    "declaração de bens",
+    "inspeção médica prévia",
+    "prazo conta do fim do impedimento"
+   ]
+  },
+  {
+   "id": "P05",
+   "titulo": "Exercício (arts. 15 a 18)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "15 dias após posse",
+    "10 a 30 dias na mudança de sede",
+    "exoneração se não entrar em exercício",
+    "promoção não interrompe exercício"
+   ]
+  },
+  {
+   "id": "P06",
+   "titulo": "Jornada de trabalho (art. 19)",
+   "incidencia": "media",
+   "armadilhas": [
+    "40h semanais",
+    "6 a 8h diárias",
+    "dedicação integral do comissionado"
+   ]
+  },
+  {
+   "id": "P07",
+   "titulo": "Estágio probatório e estabilidade (arts. 20 a 22)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "24 meses na lei x 36 meses (CF/EC 19)",
+    "3 anos de estabilidade",
+    "fatores de avaliação",
+    "avaliação homologada 4 meses antes",
+    "perda do cargo só por sentença ou PAD"
+   ]
+  },
+  {
+   "id": "P08",
+   "titulo": "Readaptação e reversão (arts. 24 a 27)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "readaptação: cargo afim, sem redução de vencimentos",
+    "reversão: limite de 70 anos",
+    "excedente"
+   ]
+  },
+  {
+   "id": "P09",
+   "titulo": "Reintegração, recondução, aproveitamento e disponibilidade (arts. 28 a 32)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "reintegração com ressarcimento",
+    "recondução x reintegração",
+    "aproveitamento obrigatório",
+    "estável x não estável"
+   ]
+  },
+  {
+   "id": "P10",
+   "titulo": "Vacância e exoneração (arts. 33 a 35)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "rol de vacância",
+    "exoneração de ofício x a pedido",
+    "comissão: livre exoneração"
+   ]
+  },
+  {
+   "id": "P11",
+   "titulo": "Remoção, redistribuição e substituição (arts. 36 a 39)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "remoção desloca o servidor; redistribuição desloca o cargo",
+    "modalidades de remoção",
+    "substituto: retribuição após 30 dias"
+   ]
+  },
+  {
+   "id": "P12",
+   "titulo": "Vencimento, remuneração, teto e descontos (arts. 40 a 48)",
+   "incidencia": "media",
+   "armadilhas": [
+    "vencimento x remuneração",
+    "irredutibilidade",
+    "consignação 35%",
+    "reposição ao erário",
+    "penhora só para alimentos"
+   ]
+  },
+  {
+   "id": "P13",
+   "titulo": "Indenizações (arts. 49 a 60-E)",
+   "incidencia": "media",
+   "armadilhas": [
+    "ajuda de custo até 3 meses",
+    "diárias",
+    "auxílio-moradia: requisitos",
+    "indenizações não se incorporam"
+   ]
+  },
+  {
+   "id": "P14",
+   "titulo": "Gratificações e adicionais (arts. 61 a 76-A)",
+   "incidencia": "media",
+   "armadilhas": [
+    "natalina 1/12 por mês",
+    "insalubridade x periculosidade: opção",
+    "extraordinário 50%",
+    "noturno 25%",
+    "férias 1/3",
+    "GECC: limites"
+   ]
+  },
+  {
+   "id": "P15",
+   "titulo": "Férias (arts. 77 a 80)",
+   "incidencia": "media",
+   "armadilhas": [
+    "30 dias",
+    "acumulação até 2 períodos",
+    "parcelamento em até 3 etapas",
+    "interrupção: hipóteses"
+   ]
+  },
+  {
+   "id": "P16",
+   "titulo": "Licenças (arts. 81 a 92)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "rol do art. 81",
+    "doença em família: 60 dias remunerados + 90 sem remuneração",
+    "acompanhar cônjuge: indeterminada, sem remuneração",
+    "capacitação: 3 meses após cada quinquênio",
+    "interesses particulares: até 3 anos, não em estágio probatório, a critério da Administração",
+    "mandato classista"
+   ]
+  },
+  {
+   "id": "P17",
+   "titulo": "Cessão, mandato eletivo e afastamentos (arts. 93 a 96-A)",
+   "incidencia": "media",
+   "armadilhas": [
+    "cessão: ônus",
+    "mandato eletivo: federal/estadual afasta; prefeito opta; vereador",
+    "ausência do País até 4 anos",
+    "pós-graduação: contrapartida"
+   ]
+  },
+  {
+   "id": "P18",
+   "titulo": "Concessões e tempo de serviço (arts. 97 a 103)",
+   "incidencia": "media",
+   "armadilhas": [
+    "doação de sangue 1 dia",
+    "8 dias gala e nojo",
+    "horário especial do estudante",
+    "efetivo exercício x só aposentadoria e disponibilidade"
+   ]
+  },
+  {
+   "id": "P19",
+   "titulo": "Direito de petição (arts. 104 a 115)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "reconsideração: uma vez",
+    "recurso: 30 dias",
+    "prescrição 5 anos x 120 dias",
+    "interrupção da prescrição",
+    "efeito suspensivo a juízo"
+   ]
+  },
+  {
+   "id": "P20",
+   "titulo": "Deveres e proibições (arts. 116, 117 e 119)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "dever de representar",
+    "proibição de gerência de sociedade: acionista, cotista, comanditário",
+    "parente até 2º grau civil sob chefia imediata",
+    "recebimento de presente em razão das atribuições",
+    "dever de levar irregularidade ao conhecimento da autoridade"
+   ]
+  },
+  {
+   "id": "P21",
+   "titulo": "Acumulação de cargos (arts. 118 a 120)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "compatibilidade de horários",
+    "abrangência: autarquias, fundações, empresas",
+    "acumulação de proventos"
+   ]
+  },
+  {
+   "id": "P22",
+   "titulo": "Responsabilidades (arts. 121 a 126-A)",
+   "incidencia": "media",
+   "armadilhas": [
+    "independência das instâncias",
+    "absolvição criminal: só negativa de fato ou autoria afasta",
+    "regressiva",
+    "sucessores até o limite da herança",
+    "denúncia de boa-fé"
+   ]
+  },
+  {
+   "id": "P23",
+   "titulo": "Penalidades, hipóteses e competência (arts. 127 a 137, 141)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "advertência x suspensão x demissão",
+    "suspensão até 90 dias; conversão em multa 50%",
+    "competência por penalidade",
+    "destituição de comissão",
+    "incompatibilização 5 anos x vedação permanente"
+   ]
+  },
+  {
+   "id": "P24",
+   "titulo": "Abandono, inassiduidade e prescrição disciplinar (arts. 138, 139, 142)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "abandono: mais de 30 dias consecutivos",
+    "inassiduidade: 60 dias interpoladamente em 12 meses",
+    "prescrição 5 anos, 2 anos, 180 dias",
+    "início: ciência do fato",
+    "prazos penais"
+   ]
+  },
+  {
+   "id": "P25",
+   "titulo": "Sindicância e processo disciplinar (arts. 143 a 173)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "sindicância até 30 dias prorrogável",
+    "PAD 60 dias prorrogável",
+    "comissão de 3 estáveis",
+    "defesa 10 dias; 20 dias se dois ou mais",
+    "revelia e defensor dativo",
+    "julgamento em 20 dias",
+    "vício insanável",
+    "exoneração a pedido proibida"
+   ]
+  },
+  {
+   "id": "P26",
+   "titulo": "Procedimento sumário (arts. 133 e 140)",
+   "incidencia": "media",
+   "armadilhas": [
+    "acumulação ilegal, abandono, inassiduidade",
+    "opção em 10 dias",
+    "30 + 15 dias",
+    "comissão de 2 servidores estáveis"
+   ]
+  },
+  {
+   "id": "P27",
+   "titulo": "Revisão do processo disciplinar (arts. 174 a 182)",
+   "incidencia": "media",
+   "armadilhas": [
+    "a qualquer tempo",
+    "ônus do requerente",
+    "fatos novos",
+    "vedada reformatio in pejus",
+    "60 dias"
+   ]
+  },
+  {
+   "id": "P28",
+   "titulo": "Seguridade e benefícios do servidor (arts. 183 a 214)",
+   "incidencia": "media",
+   "armadilhas": [
+    "licença à gestante 120 dias (leis posteriores ampliam)",
+    "licença-paternidade 5 dias",
+    "auxílio-natalidade",
+    "salário-família",
+    "aposentadoria: regras pré-reforma x EC 103",
+    "acidente em serviço"
+   ]
+  },
+  {
+   "id": "P29",
+   "titulo": "Pensão e demais benefícios (arts. 215 a 230)",
+   "incidencia": "baixa",
+   "armadilhas": [
+    "beneficiários",
+    "vedação de mais de duas pensões",
+    "auxílio-funeral",
+    "auxílio-reclusão"
+   ]
+  },
+  {
+   "id": "P30",
+   "titulo": "Casos concretos integrados",
+   "incidencia": "alta",
+   "armadilhas": [
+    "combinação de artigos",
+    "prazo + autoridade"
+   ]
+  },
+  {
+   "id": "P31",
+   "titulo": "Jurisprudência (STF e STJ) aplicada ao regime",
+   "incidencia": "alta",
+   "armadilhas": [
+    "SV 5",
+    "Súm. STF 20 e 21",
+    "Súm. STJ 591, 592, 611, 635, 650, 651",
+    "SV 13 (nepotismo)"
+   ]
+  }
+ ],
+ "topico_por_ponto": {
+  "P22": "P1-M3-4",
+  "P23": "P1-M3-4",
+  "P24": "P1-M3-4",
+  "P25": "P1-M3-4",
+  "P26": "P1-M3-4",
+  "P27": "P1-M3-4",
+  "P31": "P1-M3-4"
+ },
+ "item_edital_por_ponto": {
+  "P22": "4.4",
+  "P23": "4.4",
+  "P24": "4.4",
+  "P25": "4.4",
+  "P26": "4.4",
+  "P27": "4.4",
+  "P31": "4.4"
+ }
+}

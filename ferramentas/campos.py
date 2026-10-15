@@ -27,7 +27,21 @@ L9784 = [(1,2,"L9784-disp","Lei 9.784: disposições gerais e princípios (arts.
  (9,10,"L9784-interess","Lei 9.784: interessados (arts. 9º e 10)"),(11,17,"L9784-comp","Lei 9.784: competência (arts. 11 a 17)"),(18,21,"L9784-imped","Lei 9.784: impedimento e suspeição (arts. 18 a 21)"),
  (22,28,"L9784-atos","Lei 9.784: forma, tempo, lugar e comunicação dos atos (arts. 22 a 28)"),(29,47,"L9784-instr","Lei 9.784: instrução (arts. 29 a 47)"),(48,55,"L9784-decisao","Lei 9.784: dever de decidir, motivação, anulação e revogação (arts. 48 a 55)"),
  (56,65,"L9784-recurso","Lei 9.784: recurso administrativo e revisão (arts. 56 a 65)"),(66,69,"L9784-prazos","Lei 9.784: prazos, sanções e disposições finais (arts. 66 a 69)")]
+L8112 = [(2,5,"L8112-cargo","Lei 8.112: conceitos, cargo e requisitos (arts. 2º a 5º)"),(6,12,"L8112-nom","Lei 8.112: provimento, nomeação e concurso (arts. 6º a 12)"),(13,19,"L8112-posse","Lei 8.112: posse, exercício e jornada (arts. 13 a 19)"),
+ (20,22,"L8112-estag","Lei 8.112: estágio probatório e estabilidade (arts. 20 a 22)"),(24,32,"L8112-deriv","Lei 8.112: readaptação, reversão, reintegração, recondução e aproveitamento (arts. 24 a 32)"),(33,35,"L8112-vac","Lei 8.112: vacância e exoneração (arts. 33 a 35)"),
+ (36,39,"L8112-remocao","Lei 8.112: remoção, redistribuição e substituição (arts. 36 a 39)"),(40,48,"L8112-venc","Lei 8.112: vencimento, remuneração, teto e descontos (arts. 40 a 48)"),(49,60,"L8112-indeniz","Lei 8.112: indenizações (arts. 49 a 60-E)"),
+ (61,76,"L8112-grat","Lei 8.112: gratificações e adicionais (arts. 61 a 76-A)"),(77,80,"L8112-ferias","Lei 8.112: férias (arts. 77 a 80)"),(81,92,"L8112-lic","Lei 8.112: licenças (arts. 81 a 92)"),(93,96,"L8112-afast","Lei 8.112: cessão, mandato eletivo e afastamentos (arts. 93 a 96-A)"),
+ (97,103,"L8112-tempo","Lei 8.112: concessões e tempo de serviço (arts. 97 a 103)"),(104,115,"L8112-peticao","Lei 8.112: direito de petição e prescrição (arts. 104 a 115)"),(116,120,"L8112-deveres","Lei 8.112: deveres, proibições e acumulação (arts. 116 a 120)"),
+ (121,126,"L8112-resp","Lei 8.112: responsabilidades (arts. 121 a 126-A)"),(127,137,"L8112-penal","Lei 8.112: penalidades disciplinares (arts. 127 a 137)"),(138,142,"L8112-presc","Lei 8.112: abandono, inassiduidade e prescrição (arts. 138 a 142)"),
+ (143,150,"L8112-sind","Lei 8.112: sindicância e comissão processante (arts. 143 a 150)"),(151,173,"L8112-pad","Lei 8.112: processo administrativo disciplinar (arts. 151 a 173)"),(174,182,"L8112-rev","Lei 8.112: revisão do processo disciplinar (arts. 174 a 182)"),
+ (183,201,"L8112-seg","Lei 8.112: seguridade social e benefícios (arts. 183 a 201)"),(202,214,"L8112-saude","Lei 8.112: licenças de saúde, maternidade e acidente (arts. 202 a 214)"),(215,230,"L8112-pensao","Lei 8.112: pensão e demais benefícios (arts. 215 a 230)")]
 def campo(atom):
+    m8 = re.match(r"A-L8112-(\d+)", atom)
+    if m8:
+        a = int(m8.group(1))
+        for lo, hi, cid, nm in L8112:
+            if lo <= a <= hi: return (cid, nm)
+        return None
     ml = re.match(r"A-L9784-(\d+)", atom)
     if ml:
         a = int(ml.group(1))
