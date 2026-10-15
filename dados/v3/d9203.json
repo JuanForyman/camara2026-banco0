@@ -1,0 +1,2748 @@
+[
+ {
+  "id": "Q-D9203-0001",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0002.I"
+  ],
+  "ponto": "D01",
+  "g": "C",
+  "e": "Governança pública é o conjunto de mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade.",
+  "formato": "assertiva",
+  "c": "Art. 2º, I.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-D9203-0002",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 2.I",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0002",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0002.I"
+  ],
+  "ponto": "D01",
+  "g": "E",
+  "e": "Governança pública é o conjunto de mecanismos de planejamento, execução e fiscalização postos em prática pelos órgãos de controle externo para avaliar a legalidade dos atos de gestão, com vistas à responsabilização dos agentes públicos.",
+  "formato": "assertiva",
+  "c": "Art. 2º, I.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "troca elementos do conceito",
+  "par": "Q-D9203-0001",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 2.I",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0003",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0002.II"
+  ],
+  "ponto": "D01",
+  "g": "C",
+  "e": "Valor público corresponde aos produtos e resultados gerados, preservados ou entregues pelas atividades de uma organização que representem respostas efetivas e úteis às necessidades ou às demandas de interesse público e modifiquem aspectos do conjunto da sociedade ou de alguns grupos específicos reconhecidos como destinatários legítimos de bens e serviços públicos.",
+  "formato": "assertiva",
+  "c": "Art. 2º, II.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-D9203-0004",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 2.II",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0004",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0002.II"
+  ],
+  "ponto": "D01",
+  "g": "E",
+  "e": "Valor público corresponde exclusivamente ao resultado financeiro positivo gerado pelas atividades de uma organização estatal, medido pela economia de recursos obtida em relação ao orçamento aprovado. Tal compreensão decorreria, segundo esse entendimento, da sistemática geral da política de governança pública federal.",
+  "formato": "assertiva",
+  "c": "Art. 2º, II.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "reduz a resultado financeiro",
+  "par": "Q-D9203-0003",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 2.II",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0005",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0002.III"
+  ],
+  "ponto": "D01",
+  "g": "C",
+  "e": "Para os efeitos do Decreto, integram a alta administração os Ministros de Estado, os ocupantes de cargos de natureza especial, os ocupantes de cargo de nível 6 do Grupo-Direção e Assessoramento Superiores (DAS) e os presidentes e diretores de autarquias, inclusive as especiais, e de fundações públicas, ou autoridades de hierarquia equivalente.",
+  "formato": "assertiva",
+  "c": "Art. 2º, III: DAS nível 6.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-D9203-0006",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 2.III",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0006",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0002.III"
+  ],
+  "ponto": "D01",
+  "g": "E",
+  "e": "Para os efeitos do Decreto, integram a alta administração os Ministros de Estado, os ocupantes de cargos de natureza especial, os ocupantes de cargo de nível 4 ou superior do Grupo-Direção e Assessoramento Superiores (DAS) e os chefes de unidades de assessoramento de quaisquer órgãos federais.",
+  "formato": "assertiva",
+  "c": "Art. 2º, III: DAS nível 6.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca nível do DAS",
+  "par": "Q-D9203-0005",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 2.III",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0007",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0002.IV"
+  ],
+  "ponto": "D01",
+  "g": "C",
+  "e": "A gestão de riscos é o processo de natureza permanente, estabelecido, direcionado e monitorado pela alta administração, que contempla as atividades de identificar, avaliar e gerenciar potenciais eventos que possam afetar a organização, destinado a fornecer segurança razoável quanto à realização de seus objetivos.",
+  "formato": "assertiva",
+  "c": "Art. 2º, IV.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-D9203-0008",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 2.IV",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0008",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0002.IV"
+  ],
+  "ponto": "D01",
+  "g": "E",
+  "e": "A gestão de riscos é o processo de natureza eventual, estabelecido e monitorado pela unidade de auditoria interna, que contempla as atividades de identificar e punir os responsáveis por eventos que afetem a organização, destinado a fornecer segurança absoluta quanto à realização de seus objetivos.",
+  "formato": "assertiva",
+  "c": "Art. 2º, IV.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "troca natureza, responsável e grau de segurança",
+  "par": "Q-D9203-0007",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 2.IV",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0009",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0003"
+  ],
+  "ponto": "D02",
+  "g": "C",
+  "e": "São princípios da governança pública a capacidade de resposta, a integridade, a confiabilidade, a melhoria regulatória, a prestação de contas e responsabilidade e a transparência.",
+  "formato": "assertiva",
+  "c": "Art. 3º, I a VI.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-D9203-0010",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 3",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0010",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0003"
+  ],
+  "ponto": "D02",
+  "g": "E",
+  "e": "São princípios da governança pública a legalidade, a impessoalidade, a moralidade, a publicidade e a eficiência, nos mesmos termos do caput do art. 37 da Constituição Federal.",
+  "formato": "assertiva",
+  "c": "Art. 3º, I a VI.",
+  "padrao": "troca_numero",
+  "tipo_erro": "substitui pelos princípios do art. 37 da CF",
+  "par": "Q-D9203-0009",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 3",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0011",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0003"
+  ],
+  "ponto": "D02",
+  "g": "C",
+  "e": "A melhoria regulatória e a prestação de contas e responsabilidade integram o rol de princípios da governança pública, ao lado da capacidade de resposta, da integridade, da confiabilidade e da transparência.",
+  "formato": "assertiva",
+  "c": "Art. 3º, IV e V.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0012",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 3",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0012",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0003"
+  ],
+  "ponto": "D02",
+  "g": "E",
+  "e": "A economicidade e a participação social integram o rol de princípios da governança pública, ao lado da capacidade de resposta, da integridade, da confiabilidade e da transparência.",
+  "formato": "assertiva",
+  "c": "Art. 3º, IV e V.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inclui princípios inexistentes",
+  "par": "Q-D9203-0011",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 3",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0013",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.VI"
+  ],
+  "ponto": "D02",
+  "g": "C",
+  "e": "Entre as diretrizes da governança pública está a implementação de controles internos fundamentados na gestão de risco, que privilegiará ações estratégicas de prevenção antes de processos sancionadores.",
+  "formato": "assertiva",
+  "c": "Art. 4º, VI.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-D9203-0014",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.VI",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0014",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.VI"
+  ],
+  "ponto": "D02",
+  "g": "E",
+  "e": "Entre as diretrizes da governança pública está a implementação de controles internos fundamentados na gestão de risco, que privilegiará a instauração de processos sancionadores antes de ações estratégicas de prevenção.",
+  "formato": "assertiva",
+  "c": "Art. 4º, VI.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte prevenção e sanção",
+  "par": "Q-D9203-0013",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.VI",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0015",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.V"
+  ],
+  "ponto": "D02",
+  "g": "C",
+  "e": "Constitui diretriz da governança pública fazer incorporar padrões elevados de conduta pela alta administração para orientar o comportamento dos agentes públicos, em consonância com as funções e as atribuições de seus órgãos e de suas entidades.",
+  "formato": "assertiva",
+  "c": "Art. 4º, V.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-D9203-0016",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.V",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0016",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.V"
+  ],
+  "ponto": "D02",
+  "g": "E",
+  "e": "Constitui diretriz da governança pública fazer incorporar padrões elevados de conduta pelos agentes públicos de nível operacional para orientar o comportamento da alta administração, em consonância com as funções e as atribuições dos órgãos de controle.",
+  "formato": "assertiva",
+  "c": "Art. 4º, V.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "inverte quem orienta quem",
+  "par": "Q-D9203-0015",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.V",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0017",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.II",
+   "A-D9203-0004.XI"
+  ],
+  "ponto": "D02",
+  "g": "C",
+  "e": "São diretrizes da governança pública promover a simplificação administrativa, a modernização da gestão pública e a integração dos serviços públicos, especialmente os prestados por meio eletrônico, e promover a comunicação aberta, voluntária e transparente das atividades e dos resultados da organização.",
+  "formato": "assertiva",
+  "c": "Art. 4º, II e XI.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0018",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.II, art. 4.XI",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0018",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.II",
+   "A-D9203-0004.XI"
+  ],
+  "ponto": "D02",
+  "g": "E",
+  "e": "São diretrizes da governança pública restringir a divulgação das atividades e dos resultados da organização ao público interno, a fim de preservar a imagem institucional, e priorizar os serviços presenciais em detrimento dos prestados por meio eletrônico.",
+  "formato": "assertiva",
+  "c": "Art. 4º, II e XI.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte transparência",
+  "par": "Q-D9203-0017",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.II, art. 4.XI",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0019",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.VIII",
+   "A-D9203-0004.IX"
+  ],
+  "ponto": "D02",
+  "g": "C",
+  "e": "Constituem diretrizes da governança pública manter processo decisório orientado pelas evidências, pela conformidade legal, pela qualidade regulatória, pela desburocratização e pelo apoio à participação da sociedade, bem como editar e revisar atos normativos, realizando consultas públicas sempre que conveniente.",
+  "formato": "assertiva",
+  "c": "Art. 4º, VIII e IX (consultas públicas quando conveniente).",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0020",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.VIII, art. 4.IX",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0020",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.VIII",
+   "A-D9203-0004.IX"
+  ],
+  "ponto": "D02",
+  "g": "E",
+  "e": "Constituem diretrizes da governança pública manter processo decisório orientado pela experiência pessoal da alta administração, dispensada a conformidade legal quando houver urgência, bem como editar atos normativos, sendo obrigatória a realização de consulta pública em todos os casos.",
+  "formato": "assertiva",
+  "c": "Art. 4º, VIII e IX (consultas públicas quando conveniente).",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "torna obrigatória a consulta",
+  "par": "Q-D9203-0019",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.VIII, art. 4.IX",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0021",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.X",
+   "A-D9203-0004.III"
+  ],
+  "ponto": "D02",
+  "g": "C",
+  "e": "É diretriz da governança pública definir formalmente as funções, as competências e as responsabilidades das estruturas e dos arranjos institucionais, assim como monitorar o desempenho e avaliar a concepção, a implementação e os resultados das políticas e das ações prioritárias.",
+  "formato": "assertiva",
+  "c": "Art. 4º, III e X.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0022",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.X, art. 4.III",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0022",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.X",
+   "A-D9203-0004.III"
+  ],
+  "ponto": "D02",
+  "g": "E",
+  "e": "É diretriz da governança pública deixar informal a definição das funções e das responsabilidades das estruturas institucionais, para conferir flexibilidade, e avaliar os resultados das políticas somente após o seu encerramento.",
+  "formato": "assertiva",
+  "c": "Art. 4º, III e X.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega a definição formal",
+  "par": "Q-D9203-0021",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.X, art. 4.III",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0023",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0005"
+  ],
+  "ponto": "D03",
+  "g": "C",
+  "e": "São mecanismos para o exercício da governança pública a liderança, a estratégia e o controle.",
+  "formato": "assertiva",
+  "c": "Art. 5º, I a III.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-D9203-0024",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 5",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0024",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0005"
+  ],
+  "ponto": "D03",
+  "g": "E",
+  "e": "São mecanismos para o exercício da governança pública a liderança, a estratégia, o controle e a auditoria independente.",
+  "formato": "assertiva",
+  "c": "Art. 5º, I a III.",
+  "padrao": "troca_numero",
+  "tipo_erro": "acrescenta mecanismo",
+  "par": "Q-D9203-0023",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 5",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0025",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0005.I"
+  ],
+  "ponto": "D03",
+  "g": "C",
+  "e": "Na liderança, as condições mínimas para o exercício da boa governança são a integridade, a competência, a responsabilidade e a motivação.",
+  "formato": "assertiva",
+  "c": "Art. 5º, I, a a d.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0026",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 5.I",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0026",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0005.I"
+  ],
+  "ponto": "D03",
+  "g": "E",
+  "e": "Na liderança, as condições mínimas para o exercício da boa governança são a integridade, a competência, a transparência e a legalidade.",
+  "formato": "assertiva",
+  "c": "Art. 5º, I, a a d.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca elementos da liderança",
+  "par": "Q-D9203-0025",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 5.I",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0027",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0005.III"
+  ],
+  "ponto": "D03",
+  "g": "C",
+  "e": "O controle, como mecanismo de governança, compreende processos estruturados para mitigar os possíveis riscos com vistas ao alcance dos objetivos institucionais e para garantir a execução ordenada, ética, econômica, eficiente e eficaz das atividades da organização, com preservação da legalidade e da economicidade no dispêndio de recursos públicos.",
+  "formato": "assertiva",
+  "c": "Art. 5º, II e III (definição trocada pela de estratégia).",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-D9203-0028",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 5.III",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0028",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0005.III"
+  ],
+  "ponto": "D03",
+  "g": "E",
+  "e": "O controle, como mecanismo de governança, compreende a definição de diretrizes, objetivos, planos e ações, além de critérios de priorização e alinhamento entre organizações e partes interessadas, para que os serviços e produtos alcancem o resultado pretendido. Tal compreensão decorreria, segundo esse entendimento, da sistemática geral da política de governança pública federal.",
+  "formato": "assertiva",
+  "c": "Art. 5º, II e III (definição trocada pela de estratégia).",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca controle por estratégia",
+  "par": "Q-D9203-0027",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 5.III",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0029",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0006"
+  ],
+  "ponto": "D03",
+  "g": "C",
+  "e": "Cabe à alta administração dos órgãos e das entidades implementar e manter mecanismos, instâncias e práticas de governança em consonância com os princípios e as diretrizes do Decreto, que incluirão, no mínimo, formas de acompanhamento de resultados, soluções para melhoria do desempenho das organizações e instrumentos de promoção do processo decisório fundamentado em evidências.",
+  "formato": "assertiva",
+  "c": "Art. 6º, caput e parágrafo único.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-D9203-0030",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 6",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0030",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0006"
+  ],
+  "ponto": "D03",
+  "g": "E",
+  "e": "Cabe exclusivamente ao Comitê Interministerial de Governança implementar e manter mecanismos, instâncias e práticas de governança nos órgãos e entidades, que incluirão, no mínimo, formas de acompanhamento de resultados, ficando dispensadas soluções para melhoria do desempenho. Essa disciplina consta do Decreto que institui a política de governança da administração pública federal direta, autárquica e fundacional.",
+  "formato": "assertiva",
+  "c": "Art. 6º, caput e parágrafo único.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "atribui ao CIG",
+  "par": "Q-D9203-0029",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 6",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0031",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0007A"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "O Comitê Interministerial de Governança (CIG) tem por finalidade assessorar o Presidente da República na condução da política de governança da administração pública federal.",
+  "formato": "assertiva",
+  "c": "Art. 7º-A.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-D9203-0032",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 7A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0032",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0007A"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "O Comitê Interministerial de Governança (CIG) tem por finalidade assessorar o Tribunal de Contas da União na condução da política de governança da administração pública federal e substituir os órgãos de controle interno.",
+  "formato": "assertiva",
+  "c": "Art. 7º-A.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "troca destinatário do assessoramento",
+  "par": "Q-D9203-0031",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 7A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0033",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0007A",
+   "A-D9203-0008B"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "O CIG se reunirá, em caráter ordinário, trimestralmente e, em caráter extraordinário, sempre que necessário; o quórum de reunião é de maioria simples dos membros e o de aprovação, de maioria absoluta, e o Coordenador, além do voto ordinário, tem voto de qualidade em caso de empate.",
+  "formato": "assertiva",
+  "c": "Art. 8º-B, caput e §§ 1º e 2º.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-D9203-0034",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 7A, art. 8B",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0034",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0007A",
+   "A-D9203-0008B"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "O CIG se reunirá, em caráter ordinário, mensalmente e, em caráter extraordinário, sempre que necessário; o quórum de reunião é de maioria absoluta dos membros e o de aprovação, de maioria simples, e o Coordenador não tem voto de qualidade em caso de empate.",
+  "formato": "assertiva",
+  "c": "Art. 8º-B, caput e §§ 1º e 2º.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca periodicidade e quórum",
+  "par": "Q-D9203-0033",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 7A, art. 8B",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0035",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0007A"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "Representantes de outros órgãos e entidades da administração pública federal poderão ser convidados a participar de reuniões do CIG, sem direito a voto, e os membros do CIG poderão ser substituídos, em suas ausências e impedimentos, pelos respectivos Secretários-Executivos.",
+  "formato": "assertiva",
+  "c": "Art. 7º-A, §§ 1º e 3º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0036",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 7A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0036",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0007A"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "Representantes de outros órgãos e entidades da administração pública federal poderão ser convidados a participar de reuniões do CIG, com direito a voto, e os membros do CIG não poderão ser substituídos em suas ausências e impedimentos.",
+  "formato": "assertiva",
+  "c": "Art. 7º-A, §§ 1º e 3º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "dá voto aos convidados",
+  "par": "Q-D9203-0035",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 7A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0037",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0009A"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "Compete ao CIG propor medidas, mecanismos e práticas organizacionais para o atendimento aos princípios e às diretrizes de governança pública, aprovar manuais e guias, aprovar recomendações aos colegiados temáticos, incentivar e monitorar a aplicação das melhores práticas de governança e editar as resoluções necessárias ao exercício de suas competências.",
+  "formato": "assertiva",
+  "c": "Art. 9º-A, I a V.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-D9203-0038",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 9A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0038",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0009A"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "Compete ao CIG executar diretamente a política de governança nos órgãos e entidades, aplicar sanções aos dirigentes que descumprirem os manuais e guias e editar decretos necessários ao exercício de suas competências. Essa disciplina consta do Decreto que institui a política de governança da administração pública federal direta, autárquica e fundacional.",
+  "formato": "assertiva",
+  "c": "Art. 9º-A, I a V.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "atribui poder sancionatório e de decreto",
+  "par": "Q-D9203-0037",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 9A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0039",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0009A"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "Os manuais e os guias aprovados pelo CIG deverão conter recomendações que possam ser implementadas nos órgãos e nas entidades definidos na resolução que os aprovar e ser observados pelos comitês internos de governança.",
+  "formato": "assertiva",
+  "c": "Art. 9º-A, § 1º, I e II.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0040",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 9A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0040",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0009A"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "Os manuais e os guias aprovados pelo CIG são de observância facultativa pelos comitês internos de governança, e suas recomendações vinculam todos os órgãos da administração pública federal independentemente de definição na resolução que os aprovar.",
+  "formato": "assertiva",
+  "c": "Art. 9º-A, § 1º, I e II.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "torna facultativos e vincula todos",
+  "par": "Q-D9203-0039",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 9A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0041",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0009A"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "Para fins do Decreto, o colegiado temático é a comissão, o comitê, o grupo de trabalho ou outra forma de colegiado interministerial instituído com o objetivo de implementar, promover ou executar políticas ou programas de governança relativos a temas específicos.",
+  "formato": "assertiva",
+  "c": "Art. 9º-A, § 2º (distinto do comitê interno do art. 15-A).",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-D9203-0042",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 9A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0042",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0009A"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "Para fins do Decreto, o colegiado temático é o comitê interno de governança instituído em cada órgão ou entidade com o objetivo de auxiliar a alta administração na implementação e na manutenção de processos e estruturas de governança.",
+  "formato": "assertiva",
+  "c": "Art. 9º-A, § 2º (distinto do comitê interno do art. 15-A).",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde colegiado temático com comitê interno",
+  "par": "Q-D9203-0041",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 9A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0043",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0010B"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "Os grupos de trabalho instituídos pelo CIG serão compostos na forma de ato do CIG, não poderão ter mais de cinco membros, terão caráter temporário e duração não superior a um ano e estarão limitados a três operando simultaneamente.",
+  "formato": "assertiva",
+  "c": "Art. 10-B, I a IV.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-D9203-0044",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 10B",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0044",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0010B"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "Os grupos de trabalho instituídos pelo CIG serão compostos na forma de ato do Presidente da República, não poderão ter mais de sete membros, terão caráter permanente e estarão limitados a cinco operando simultaneamente.",
+  "formato": "assertiva",
+  "c": "Art. 10-B, I a IV.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca limites dos GT",
+  "par": "Q-D9203-0043",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 10B",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0045",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0010A"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "Representantes de órgãos e entidades públicas e privadas poderão ser convidados a participar dos grupos de trabalho constituídos pelo CIG, que definirá no ato de instituição os seus objetivos específicos, a sua composição e o prazo para conclusão dos trabalhos.",
+  "formato": "assertiva",
+  "c": "Art. 10-A, §§ 1º e 2º.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-D9203-0046",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 10A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0046",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0010A"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "Somente representantes de órgãos e entidades públicas poderão ser convidados a participar dos grupos de trabalho constituídos pelo CIG, e a composição e o prazo para conclusão dos trabalhos serão definidos pelo Presidente da República.",
+  "formato": "assertiva",
+  "c": "Art. 10-A, §§ 1º e 2º.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "restringe convidados e troca autoridade",
+  "par": "Q-D9203-0045",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 10A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0047",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0011A"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "A Secretaria-Executiva do CIG é exercida pela Secretaria Especial de Relações Governamentais da Casa Civil da Presidência da República, e a ela compete, entre outras atribuições, receber, instruir e encaminhar aos membros do CIG as propostas recebidas e encaminhar a pauta, a documentação e os registros das reuniões.",
+  "formato": "assertiva",
+  "c": "Art. 11-A (redação do Decreto 10.907/2021) e parágrafo único.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-D9203-0048",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 11A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "nomenclatura_superada"
+  ],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0048",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0011A"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "A Secretaria-Executiva do CIG é exercida pela Controladoria-Geral da União, e a ela compete, entre outras atribuições, deliberar sobre as propostas recebidas e convocar as reuniões extraordinárias do CIG. Tal compreensão decorreria, segundo esse entendimento, da sistemática geral da política de governança pública federal.",
+  "formato": "assertiva",
+  "c": "Art. 11-A (redação do Decreto 10.907/2021) e parágrafo único.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "troca órgão e funções",
+  "par": "Q-D9203-0047",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 11A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "nomenclatura_superada"
+  ],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0049",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0013A"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "Compete aos órgãos e às entidades da administração pública federal direta, autárquica e fundacional executar a política de governança pública, incorporando os princípios e as diretrizes do Decreto e as recomendações de manuais, guias e resoluções do CIG, e encaminhar ao CIG propostas relacionadas às competências previstas no art. 9º-A.",
+  "formato": "assertiva",
+  "c": "Art. 13-A, I e II.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0050",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 13A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0050",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0013A"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "Compete aos órgãos e às entidades da administração pública federal direta, autárquica e fundacional apenas executar a política de governança pública, sendo vedado encaminhar ao CIG propostas relacionadas às competências do Comitê. Essa disciplina consta do Decreto que institui a política de governança da administração pública federal direta, autárquica e fundacional.",
+  "formato": "assertiva",
+  "c": "Art. 13-A, I e II.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "veda proposta ao CIG",
+  "par": "Q-D9203-0049",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 13A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0051",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0015A"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "Os comitês internos de governança, instituídos pelos órgãos e entidades, têm competência para auxiliar a alta administração na implementação e na manutenção de processos, estruturas e mecanismos adequados à incorporação dos princípios e das diretrizes da governança, promover e acompanhar a implementação das medidas definidas pelo CIG e elaborar manifestação técnica relativa aos temas de sua competência.",
+  "formato": "assertiva",
+  "c": "Art. 15-A, I a IV.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-D9203-0052",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 15A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0052",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0015A"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "Os comitês internos de governança, instituídos pelos órgãos e entidades, têm competência para editar as resoluções que vinculam o CIG, aplicar sanções aos servidores que descumprirem as medidas de governança e substituir a alta administração na implementação dos processos. Tal compreensão decorreria, segundo esse entendimento, da sistemática geral da política de governança pública federal.",
+  "formato": "assertiva",
+  "c": "Art. 15-A, I a IV.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "inverte relação com o CIG",
+  "par": "Q-D9203-0051",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 15A",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0053",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0016"
+  ],
+  "ponto": "D04",
+  "g": "C",
+  "e": "Os comitês internos de governança publicarão suas atas e suas resoluções em sítio eletrônico, ressalvado o conteúdo sujeito a sigilo.",
+  "formato": "assertiva",
+  "c": "Art. 16.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0054",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 16",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0054",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0016"
+  ],
+  "ponto": "D04",
+  "g": "E",
+  "e": "Os comitês internos de governança manterão suas atas e suas resoluções em sigilo, divulgando-as em sítio eletrônico apenas mediante requerimento fundamentado de interessado.",
+  "formato": "assertiva",
+  "c": "Art. 16.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte publicidade e sigilo",
+  "par": "Q-D9203-0053",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 16",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0055",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0017"
+  ],
+  "ponto": "D05",
+  "g": "C",
+  "e": "A alta administração das organizações da administração pública federal direta, autárquica e fundacional deverá estabelecer, manter, monitorar e aprimorar sistema de gestão de riscos e controles internos com vistas à identificação, à avaliação, ao tratamento, ao monitoramento e à análise crítica de riscos que possam impactar a implementação da estratégia e a consecução dos objetivos da organização.",
+  "formato": "assertiva",
+  "c": "Art. 17, caput.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-D9203-0056",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 17",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0056",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0017"
+  ],
+  "ponto": "D05",
+  "g": "E",
+  "e": "A unidade de auditoria interna das organizações da administração pública federal direta, autárquica e fundacional deverá estabelecer, manter e executar sistema de gestão de riscos e controles internos, ficando a alta administração dispensada dessa atribuição. Tal compreensão decorreria, segundo esse entendimento, da sistemática geral da política de governança pública federal.",
+  "formato": "assertiva",
+  "c": "Art. 17, caput.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "atribui à auditoria interna",
+  "par": "Q-D9203-0055",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 17",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0057",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0017"
+  ],
+  "ponto": "D05",
+  "g": "C",
+  "e": "Entre os princípios da gestão de riscos estão a implementação de forma sistemática, estruturada, oportuna e documentada, subordinada ao interesse público, a integração ao planejamento estratégico e o estabelecimento de controles internos proporcionais aos riscos, observada a relação custo-benefício.",
+  "formato": "assertiva",
+  "c": "Art. 17, I a III.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-D9203-0058",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 17",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0058",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0017"
+  ],
+  "ponto": "D05",
+  "g": "E",
+  "e": "Entre os princípios da gestão de riscos estão a implementação de forma sigilosa e informal, subordinada ao interesse da organização, a independência em relação ao planejamento estratégico e o estabelecimento de controles internos uniformes, desconsiderada a relação custo-benefício.",
+  "formato": "assertiva",
+  "c": "Art. 17, I a III.",
+  "padrao": "troca_numero",
+  "tipo_erro": "inverte princípios",
+  "par": "Q-D9203-0057",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 17",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0059",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0017"
+  ],
+  "ponto": "D05",
+  "g": "C",
+  "e": "Segundo o Decreto, os resultados da gestão de riscos devem ser utilizados para apoio à melhoria contínua do desempenho e dos processos de gerenciamento de risco, controle e governança.",
+  "formato": "assertiva",
+  "c": "Art. 17, IV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0060",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 17",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0060",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0017"
+  ],
+  "ponto": "D05",
+  "g": "E",
+  "e": "Segundo o Decreto, os resultados da gestão de riscos devem ser utilizados exclusivamente para fundamentar a responsabilização dos agentes públicos que deram causa aos eventos de risco.",
+  "formato": "assertiva",
+  "c": "Art. 17, IV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "restringe à responsabilização",
+  "par": "Q-D9203-0059",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 17",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0061",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0018"
+  ],
+  "ponto": "D05",
+  "g": "C",
+  "e": "A auditoria interna governamental deverá adicionar valor e melhorar as operações das organizações, por meio da realização de trabalhos de avaliação e consultoria de forma independente, da adoção de abordagem baseada em risco para planejar suas atividades e da promoção à prevenção, à detecção e à investigação de fraudes praticadas por agentes públicos ou privados na utilização de recursos públicos federais.",
+  "formato": "assertiva",
+  "c": "Art. 18, I a III.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-D9203-0062",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 18",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0062",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0018"
+  ],
+  "ponto": "D05",
+  "g": "E",
+  "e": "A auditoria interna governamental deverá limitar-se a verificar a conformidade formal dos atos de gestão, abstendo-se de consultoria, por comprometer a independência, e adotará planejamento uniforme, sem abordagem baseada em risco. Essa disciplina consta do Decreto que institui a política de governança da administração pública federal direta, autárquica e fundacional.",
+  "formato": "assertiva",
+  "c": "Art. 18, I a III.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "afasta consultoria e risco",
+  "par": "Q-D9203-0061",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 18",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0063",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0019"
+  ],
+  "ponto": "D05",
+  "g": "C",
+  "e": "Os órgãos e as entidades da administração direta, autárquica e fundacional instituirão programa de integridade, com o objetivo de promover a adoção de medidas e ações institucionais destinadas à prevenção, à detecção, à punição e à remediação de fraudes e atos de corrupção.",
+  "formato": "assertiva",
+  "c": "Art. 19, caput.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-D9203-0064",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 19",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0064",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0019"
+  ],
+  "ponto": "D05",
+  "g": "E",
+  "e": "Os órgãos e as entidades da administração direta, autárquica e fundacional poderão instituir, facultativamente, programa de integridade, com o objetivo exclusivo de punir fraudes e atos de corrupção já praticados. Tal compreensão decorreria, segundo esse entendimento, da sistemática geral da política de governança pública federal.",
+  "formato": "assertiva",
+  "c": "Art. 19, caput.",
+  "padrao": "troca_numero",
+  "tipo_erro": "torna facultativo",
+  "par": "Q-D9203-0063",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 19",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0065",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0019"
+  ],
+  "ponto": "D05",
+  "g": "C",
+  "e": "O programa de integridade dos órgãos e entidades estrutura-se nos eixos de comprometimento e apoio da alta administração, existência de unidade responsável pela implementação, análise, avaliação e gestão dos riscos associados ao tema da integridade e monitoramento contínuo dos atributos do programa.",
+  "formato": "assertiva",
+  "c": "Art. 19, I a IV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-D9203-0066",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 19",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0066",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0019"
+  ],
+  "ponto": "D05",
+  "g": "E",
+  "e": "O programa de integridade dos órgãos e entidades estrutura-se nos eixos de comprometimento da alta administração, existência de canal de denúncias externo, aplicação de sanções disciplinares e auditoria anual realizada pelo Tribunal de Contas da União.",
+  "formato": "assertiva",
+  "c": "Art. 19, I a IV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca eixos",
+  "par": "Q-D9203-0065",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 19",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0067",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0017",
+   "A-D9203-0019"
+  ],
+  "ponto": "D05",
+  "g": "C",
+  "e": "Uma autarquia federal instituiu programa de integridade com apoio expresso do seu presidente, designou unidade responsável pela implementação e realiza monitoramento contínuo dos atributos do programa, mas ainda não analisou os riscos associados ao tema da integridade. Nessa situação, falta ao programa o eixo de análise, avaliação e gestão dos riscos associados à integridade.",
+  "formato": "caso_concreto",
+  "c": "Art. 19, III.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-D9203-0068",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 17, art. 19",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0068",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0017",
+   "A-D9203-0019"
+  ],
+  "ponto": "D05",
+  "g": "E",
+  "e": "Uma autarquia federal instituiu programa de integridade com apoio expresso do seu presidente, designou unidade responsável pela implementação e realiza monitoramento contínuo dos atributos do programa, mas ainda não analisou os riscos associados ao tema da integridade. Nessa situação, o programa está completo, pois a análise de riscos é eixo exclusivo do sistema de gestão de riscos do art. 17 e não do programa de integridade.",
+  "formato": "caso_concreto",
+  "c": "Art. 19, III.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "afasta eixo de riscos",
+  "par": "Q-D9203-0067",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 17, art. 19",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0069",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.VI",
+   "A-D9203-0006"
+  ],
+  "ponto": "D03",
+  "g": "C",
+  "e": "Ministério federal pretende reforçar a governança de suas políticas, de modo que a alta administração implemente mecanismos de acompanhamento de resultados e instrumentos de decisão baseada em evidências, aplicando controles internos baseados em gestão de risco que priorizem a prevenção antes dos processos sancionadores. A medida está em consonância com o Decreto 9.203/2017.",
+  "formato": "caso_concreto",
+  "c": "Art. 4º, VI, e art. 6º.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-D9203-0070",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.VI, art. 6",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-D9203-0070",
+  "t": "P1-M3-9",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.9",
+  "a": [
+   "A-D9203-0004.VI",
+   "A-D9203-0006"
+  ],
+  "ponto": "D03",
+  "g": "E",
+  "e": "Ministério federal pretende reforçar a governança de suas políticas, de modo que a alta administração implemente mecanismos de acompanhamento de resultados e instrumentos de decisão baseada em evidências, aplicando controles internos baseados em gestão de risco que priorizem os processos sancionadores antes da prevenção. A medida está em consonância com o Decreto 9.203/2017.",
+  "formato": "caso_concreto",
+  "c": "Art. 4º, VI, e art. 6º.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "inverte ordem entre prevenção e sanção",
+  "par": "Q-D9203-0069",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Decreto 9.203/2017, art. 4.VI, art. 6",
+   "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L6",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ }
+]

@@ -40,3 +40,10 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ## L5 — Lei 13.709/2018 (LGPD) — 2026-10-15
 224 itens (112 C / 112 E), tópico P1-M3-12, 13 campos `LGPD-*`, pares C/E por ponto (G01–G15). Lint 0 alertas; auditoria mecânica: 4 alertas, falsos positivos (números de lei); resolução cega por 2 agentes: 222/224 coerentes, 2 divergências (arts. 52, II e 55-D) conferidas contra o texto da lei — gabarito mantido. Itens da ANPD refletem a natureza de autarquia especial (Lei 14.460/22). `validada=false`.
+
+## L6 — Decreto 9.203/2017 (governança) — 2026-10-15
+70 itens (35 C / 35 E), tópico P1-M3-9, 6 campos `D9203-*`. Fonte: captura do compilado do Planalto enviada pelo usuário (texto vigente: Dec. 9.901/2019 e 10.907/2021; art. 20 e 20-A revogados). Lint 0 alertas; resolução cega 70/70.
+
+## Ajustes — 2026-10-15
+- Lei 9.784: art. 69-A (Lei 12.008/2009) e art. 69 incorporados (ponto P24; +12 itens, 259 no total; cega 12/12). Texto-fonte: doc do Drive criado pelo usuário.
+- Lei 8.112: itens do art. 45 reescritos (consignações do §§ 1º e 2º foram revogadas pela Lei 14.509/2022; permanece o caput). Item da licença-paternidade (art. 208, 5 dias) segue válido para o regime estatutário; a Lei 15.371/2026 (celetistas/RGPS; 10, 15 e 20 dias a partir de 2027–2029) não altera a 8.112 segundo a fonte consultada — conferir. Cauda neutra anexada em 35 E do tópico P1-M3-4 (viés de tamanho) direto nos JSON: perde-se se o lote for reconstruído. MP 805/2017 (auxílio-moradia) perdeu vigência — texto anterior vale. PDF da 8.112 do Drive é imagem (sem texto) e grande demais para o conector; conferência pós-2015 feita via web.

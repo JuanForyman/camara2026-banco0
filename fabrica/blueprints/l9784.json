@@ -13,7 +13,6 @@
  },
  "nota_calibracao": "Incidência estimada por conhecimento do padrão Cebraspe; refinar com provas anteriores fornecidas pelo usuário.",
  "pendencias": [
-  "art. 69-A (prioridade de tramitação) fora do PDF",
   "conferir alterações posteriores (ex.: Lei 14.365/2022 em dispositivos conexos) quando houver PDF atualizado"
  ],
  "pontos": [
@@ -253,6 +252,17 @@
    "incidencia": "alta",
    "armadilhas": [
     "combinação de artigos"
+   ]
+  },
+  {
+   "id": "P24",
+   "titulo": "Prioridade na tramitação (art. 69-A) e processos específicos (art. 69)",
+   "incidencia": "media",
+   "armadilhas": [
+    "60 anos",
+    "doença contraída após o início do processo",
+    "requerimento com prova",
+    "identificação dos autos"
    ]
   }
  ],

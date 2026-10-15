@@ -47,7 +47,15 @@ L13709 = [(1,4,"LGPD-disp","LGPD: objeto, âmbito, fundamentos e conceitos (arts
  (11,13,"LGPD-sens","LGPD: dados sensíveis e anonimização (arts. 11 a 13)"),(14,16,"LGPD-crianca","LGPD: crianças, adolescentes e término do tratamento (arts. 14 a 16)"),(17,22,"LGPD-titular","LGPD: direitos do titular (arts. 17 a 22)"),
  (23,32,"LGPD-publico","LGPD: tratamento pelo Poder Público (arts. 23 a 32)"),(33,36,"LGPD-intl","LGPD: transferência internacional (arts. 33 a 36)"),(37,45,"LGPD-agentes","LGPD: agentes, encarregado e responsabilidade (arts. 37 a 45)"),
  (46,51,"LGPD-seg","LGPD: segurança, incidentes e governança (arts. 46 a 51)"),(52,54,"LGPD-sanc","LGPD: sanções administrativas (arts. 52 a 54)"),(55,99,"LGPD-anpd","LGPD: ANPD e CNPD (arts. 55-A a 55-L, 58-A, 58-B)")]
+D9203 = [(1,2,"D9203-conc","Decreto 9.203: objeto e conceitos (arts. 1º e 2º)"),(3,4,"D9203-princ","Decreto 9.203: princípios e diretrizes (arts. 3º e 4º)"),(5,6,"D9203-mec","Decreto 9.203: mecanismos e dever da alta administração (arts. 5º e 6º)"),
+ (7,16,"D9203-cig","Decreto 9.203: CIG e comitês internos (arts. 7º-A a 16)"),(17,18,"D9203-risco","Decreto 9.203: gestão de riscos e auditoria interna (arts. 17 e 18)"),(19,21,"D9203-integ","Decreto 9.203: programa de integridade (art. 19)")]
 def campo(atom):
+    md = re.match(r"A-D9203-(\d+)", atom)
+    if md:
+        a = int(md.group(1))
+        for lo, hi, cid, nm in D9203:
+            if lo <= a <= hi: return (cid, nm)
+        return None
     ml3 = re.match(r"A-L13709-(\d+)", atom)
     if ml3:
         a = int(ml3.group(1))

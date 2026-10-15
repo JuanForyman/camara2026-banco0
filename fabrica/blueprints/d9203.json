@@ -1,0 +1,70 @@
+{
+ "parte": "Direito Administrativo — Decreto 9.203/2017 (política de governança da administração pública federal)",
+ "sigla": "D9203",
+ "topico": "P1-M3-9",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.9",
+ "nome_curto": "Decreto 9.203/17",
+ "fonte": {
+  "tipo": "decreto",
+  "ref": "Decreto 9.203/2017",
+  "versao": "Compilado do Planalto (captura de tela) enviado pelo usuário no Drive; texto vigente com alterações dos Decretos 9.901/2019 e 10.907/2021; art. 20 revogado (Dec. 9.901/19) e art. 20-A revogado (Dec. 10.756/21)",
+  "conferida": "pdf_usuario"
+ },
+ "nota_calibracao": "Decreto curto e cobrado na literalidade (conceitos, princípios, diretrizes, mecanismos, CIG, gestão de riscos, integridade); alta incidência em Cebraspe para o item de governança.",
+ "pendencias": [
+  "modelos de gestão (burocrático, gerencial, societal) ficam em P1-M3-8, fora deste lote",
+  "itens 4–6 do art. 2º do texto original sobre CIG foram reescritos pelo Dec. 9.901/19; arts. 7-A a 15-A seguem o texto vigente"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "D01",
+   "titulo": "Conceitos (art. 2º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "alta administração (DAS 6)",
+    "gestão de riscos: processo permanente, direcionado pela alta administração",
+    "valor público"
+   ]
+  },
+  {
+   "id": "D02",
+   "titulo": "Princípios e diretrizes (arts. 3º e 4º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "lista de seis princípios",
+    "prevenção antes de sancionar"
+   ]
+  },
+  {
+   "id": "D03",
+   "titulo": "Mecanismos e dever da alta administração (arts. 5º e 6º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "liderança, estratégia, controle",
+    "integridade, competência, responsabilidade e motivação"
+   ]
+  },
+  {
+   "id": "D04",
+   "titulo": "CIG e comitês internos (arts. 7º-A a 16)",
+   "incidencia": "media",
+   "armadilhas": [
+    "quórum maioria simples/absoluta",
+    "voto de qualidade",
+    "GT até 5 membros, 1 ano, 3 simultâneos"
+   ]
+  },
+  {
+   "id": "D05",
+   "titulo": "Gestão de riscos, auditoria interna e integridade (arts. 17 a 19)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "princípios da gestão de riscos",
+    "eixos do programa de integridade"
+   ]
+  }
+ ]
+}

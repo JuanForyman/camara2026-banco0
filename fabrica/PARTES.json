@@ -148,8 +148,8 @@
     {
      "id": "P1-M3-4",
      "titulo": "Direito administrativo disciplinar",
-     "itens_atuais": 247,
-     "itens_aprovados_v3": 247,
+     "itens_atuais": 330,
+     "itens_aprovados_v3": 330,
      "meta": 247,
      "fonte": "Lei 9.784/99 (PDF do usuário)",
      "blueprint": "blueprints/l9784.json",
@@ -198,12 +198,12 @@
     {
      "id": "P1-M3-9",
      "titulo": "Governança na Administração Pública",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 70,
+     "itens_aprovados_v3": 70,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "Decreto compilado (Drive)",
+     "blueprint": "d9203",
+     "status": "lote_pronto"
     },
     {
      "id": "P1-M3-10",

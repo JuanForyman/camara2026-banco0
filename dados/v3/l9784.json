@@ -9645,5 +9645,473 @@
    "cega": "ok",
    "humana": false
   }
+ },
+ {
+  "id": "Q-L9784-0248",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069A"
+  ],
+  "ponto": "P24",
+  "g": "C",
+  "e": "Terão prioridade na tramitação, em qualquer órgão ou instância, os procedimentos administrativos em que figure como parte ou interessado pessoa com idade igual ou superior a 60 anos ou pessoa portadora de deficiência, física ou mental.",
+  "formato": "assertiva",
+  "c": "Art. 69-A, caput, I e II.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-L9784-0249",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69A",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0249",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069A"
+  ],
+  "ponto": "P24",
+  "g": "E",
+  "e": "Terão prioridade na tramitação, apenas no órgão de origem, os procedimentos administrativos em que figure como parte ou interessado pessoa com idade igual ou superior a 65 anos ou pessoa portadora de deficiência física.",
+  "formato": "assertiva",
+  "c": "Art. 69-A, caput, I e II.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca idade, abrangência e restringe deficiência",
+  "par": "Q-L9784-0248",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69A",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0250",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069A"
+  ],
+  "ponto": "P24",
+  "g": "C",
+  "e": "A prioridade na tramitação alcança também a pessoa portadora de doença grave, com base em conclusão da medicina especializada, mesmo que a doença tenha sido contraída após o início do processo.",
+  "formato": "assertiva",
+  "c": "Art. 69-A, IV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-L9784-0251",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69A",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0251",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069A"
+  ],
+  "ponto": "P24",
+  "g": "E",
+  "e": "A prioridade na tramitação alcança a pessoa portadora de doença grave, com base em conclusão da medicina especializada, desde que a doença tenha sido contraída antes do início do processo.",
+  "formato": "assertiva",
+  "c": "Art. 69-A, IV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "exige doença anterior ao processo",
+  "par": "Q-L9784-0250",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69A",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0252",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069A"
+  ],
+  "ponto": "P24",
+  "g": "C",
+  "e": "A pessoa interessada na obtenção do benefício da prioridade, juntando prova de sua condição, deverá requerê-lo à autoridade administrativa competente, que determinará as providências a serem cumpridas.",
+  "formato": "assertiva",
+  "c": "Art. 69-A, § 1º.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-L9784-0253",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69A",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0253",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069A"
+  ],
+  "ponto": "P24",
+  "g": "E",
+  "e": "A prioridade na tramitação será concedida de ofício pela autoridade administrativa, independentemente de requerimento ou de prova da condição do interessado, que será presumida.",
+  "formato": "assertiva",
+  "c": "Art. 69-A, § 1º.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "dispensa requerimento e prova",
+  "par": "Q-L9784-0252",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69A",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0254",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069A"
+  ],
+  "ponto": "P24",
+  "g": "C",
+  "e": "Deferida a prioridade, os autos receberão identificação própria que evidencie o regime de tramitação prioritária.",
+  "formato": "assertiva",
+  "c": "Art. 69-A, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-L9784-0255",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69A",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0255",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069A"
+  ],
+  "ponto": "P24",
+  "g": "E",
+  "e": "Deferida a prioridade, os autos serão apartados e remetidos a unidade especializada, sem identificação própria, para impedir a exposição da condição do interessado.",
+  "formato": "assertiva",
+  "c": "Art. 69-A, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca efeito do deferimento",
+  "par": "Q-L9784-0254",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69A",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0256",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069"
+  ],
+  "ponto": "P24",
+  "g": "C",
+  "e": "Os processos administrativos específicos continuarão a reger-se por lei própria, aplicando-se-lhes apenas subsidiariamente os preceitos da Lei n.º 9.784/1999.",
+  "formato": "assertiva",
+  "c": "Art. 69.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-L9784-0257",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0257",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069"
+  ],
+  "ponto": "P24",
+  "g": "E",
+  "e": "Os processos administrativos específicos passam a reger-se integralmente pela Lei n.º 9.784/1999, que revoga as leis próprias naquilo em que forem com ela incompatíveis, sendo estas aplicadas apenas subsidiariamente.",
+  "formato": "assertiva",
+  "c": "Art. 69.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte subsidiariedade",
+  "par": "Q-L9784-0256",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0258",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069A"
+  ],
+  "ponto": "P24",
+  "g": "C",
+  "e": "Servidor com 62 anos de idade, interessado em procedimento administrativo que tramita em órgão federal, juntou prova da sua condição e requereu prioridade de tramitação à autoridade competente. Nessa hipótese, deferida a prioridade, os autos receberão identificação própria que evidencie o regime prioritário.",
+  "formato": "caso_concreto",
+  "c": "Art. 69-A, I e §§ 1º e 2º.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-L9784-0259",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69A",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-L9784-0259",
+  "t": "P1-M3-4",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.4",
+  "a": [
+   "A-L9784-0069A"
+  ],
+  "ponto": "P24",
+  "g": "E",
+  "e": "Servidor com 62 anos de idade, interessado em procedimento administrativo que tramita em órgão federal, deixou de juntar prova da sua condição, mas requereu prioridade de tramitação à autoridade competente. Nessa hipótese, a prioridade será deferida de plano, e os autos receberão identificação própria que evidencie o regime prioritário.",
+  "formato": "caso_concreto",
+  "c": "Art. 69-A, I e §§ 1º e 2º.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "dispensa prova",
+  "par": "Q-L9784-0258",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/1999, art. 69A",
+   "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+   "conferida": "pdf_usuario"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L1",
+  "criada": "2026-10-15",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
  }
 ]
