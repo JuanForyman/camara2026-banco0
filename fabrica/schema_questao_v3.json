@@ -1,0 +1,33 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Questão C/E v3 (Fábrica)",
+ "type": "object",
+ "required": ["id","t","materia","bloco","a","g","e","c","padrao","dif","r","fonte","origem","lote","val"],
+ "properties": {
+  "id": {"type":"string","description":"Q-<SIGLA>-NNNN"},
+  "t": {"type":"string","description":"tópico do edital, ex. P1-M3-4"},
+  "materia": {"type":"string"}, "bloco": {"enum":["P1","P2"]},
+  "item_edital": {"type":"string","description":"item do edital, ex. 4.4"},
+  "a": {"type":"array","items":{"type":"string"},"description":"átomos (artigo/inciso/súmula/conceito)"},
+  "f": {"type":"string","description":"campo: grupo de átomos vizinhos (motor)"},
+  "ponto": {"type":"string","description":"id do ponto de cobrança no blueprint"},
+  "g": {"enum":["C","E"]}, "e": {"type":"string","description":"enunciado (um item = uma ideia)"},
+  "formato": {"enum":["assertiva","caso_concreto","texto_base"]},
+  "base_texto": {"type":"string","description":"id do texto-base compartilhado, se houver"},
+  "c": {"type":"string","description":"comentário: por que está C/E, com a fonte"},
+  "padrao": {"type":"string","description":"chave de padroes_cebraspe.json"},
+  "tipo_erro": {"type":"string","description":"para E: o que foi trocado/omitido"},
+  "par": {"type":"string","description":"id da questão gêmea (C↔E sobre o mesmo ponto)"},
+  "dif": {"enum":[1,2,3],"description":"dificuldade esperada para quem estudou: 1 direta, 2 exige discriminar, 3 pegadinha fina/caso"},
+  "r": {"enum":[1,2,3],"description":"relevância de prova: 1 padrão, 2 plausível, 3 letra seca"},
+  "incidencia": {"enum":["alta","media","baixa"],"description":"copiada do blueprint"},
+  "fonte": {"type":"object","required":["tipo","ref"],"properties":{"tipo":{"enum":["lei","cf","regimento","sumula","tese","doutrina","gramatica","texto","banca"]},"ref":{"type":"string"},"versao":{"type":"string","description":"data/edição do texto conferido"},"conferida":{"enum":["mecanica","pdf_usuario","conhecimento","web"]}}},
+  "vigencia": {"enum":["estavel","sujeita_alteracao"]},
+  "risco": {"type":"array","items":{"enum":["doutrina_divergente","jurisprudencia_mutavel","depende_vigencia","gabarito_sensivel"]}},
+  "origem": {"enum":["autoral","banca","ia"]},
+  "banca_ref": {"type":"string","description":"se origem=banca: prova e item"},
+  "lote": {"type":"string"}, "criada": {"type":"string"}, "versao": {"type":"integer"},
+  "tags": {"type":"array","items":{"type":"string"}},
+  "val": {"type":"object","properties":{"mecanica":{"type":"boolean"},"cega":{"enum":["ok","diverge","nao"],"description":"resolução cega por revisor independente"},"humana":{"type":"boolean"}}}
+ }
+}

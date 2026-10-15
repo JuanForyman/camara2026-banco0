@@ -1,0 +1,12 @@
+{
+ "parte": "P1-M3 Direito Administrativo — Lei 9.784/99",
+ "topico": "P1-M3-4",
+ "fonte": {"tipo": "lei", "ref": "Lei 9.784/1999", "versao": "PDF do usuário (sem art. 69-A)", "conferida": "pdf_usuario"},
+ "meta_itens": 60,
+ "pontos": [
+  {"id": "P01", "titulo": "Exemplo: delegação e avocação (arts. 12 a 15)", "atomos": ["12","13","14","15"], "incidencia": "alta",
+   "padroes": ["troca_autoridade","excecao_omitida","caso_concreto","confusao_instituto"],
+   "armadilhas": ["decisão de recurso e edição de ato normativo são indelegáveis","avocação é excepcional e temporária","delegação revogável a qualquer tempo"],
+   "quota": 6, "formatos": ["assertiva","caso_concreto"]}
+ ]
+}

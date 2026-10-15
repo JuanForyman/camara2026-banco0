@@ -1,0 +1,1189 @@
+{
+ "versao": 1,
+ "atualizado": "2026-10-15",
+ "nota": "itens_atuais = banco legado (qualidade não auditada no padrão v3). itens_aprovados_v3 = passaram todos os gates da Fábrica. meta = alvo inicial por tópico, ajustar pelo peso.",
+ "partes": [
+  {
+   "materia": "Língua Portuguesa",
+   "bloco": [
+    "P1"
+   ],
+   "topicos": [
+    {
+     "id": "P1-M1-1",
+     "titulo": "Compreensão e interpretação de textos",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M1-2",
+     "titulo": "Tipos e gêneros textuais",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M1-3",
+     "titulo": "Ortografia",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M1-4",
+     "titulo": "Coesão textual",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M1-5",
+     "titulo": "Estrutura morfossintática do período",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M1-6",
+     "titulo": "Reescrita de frases e parágrafos",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    }
+   ]
+  },
+  {
+   "materia": "Língua Inglesa",
+   "bloco": [
+    "P1"
+   ],
+   "topicos": [
+    {
+     "id": "P1-M2-1",
+     "titulo": "Compreensão de textos",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M2-2",
+     "titulo": "Itens gramaticais",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M2-3",
+     "titulo": "Formas contemporâneas do inglês",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    }
+   ]
+  },
+  {
+   "materia": "Noções de Direito Administrativo e Administração Pública",
+   "bloco": [
+    "P1"
+   ],
+   "topicos": [
+    {
+     "id": "P1-M3-1",
+     "titulo": "Estado, governo e Administração Pública",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-2",
+     "titulo": "Ato administrativo",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-3",
+     "titulo": "Agentes públicos",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-4",
+     "titulo": "Direito administrativo disciplinar",
+     "itens_atuais": 176,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-5",
+     "titulo": "Poderes administrativos",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-6",
+     "titulo": "Responsabilidade civil do Estado",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-7",
+     "titulo": "Improbidade administrativa",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-8",
+     "titulo": "Evolução dos modelos de gestão pública",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-9",
+     "titulo": "Governança na Administração Pública",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-10",
+     "titulo": "Licitações e Contratos (Lei 14.133/2021)",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-11",
+     "titulo": "Lei de Acesso à Informação",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M3-12",
+     "titulo": "LGPD",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    }
+   ]
+  },
+  {
+   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+   "bloco": [
+    "P1"
+   ],
+   "topicos": [
+    {
+     "id": "P1-M4-1",
+     "titulo": "Constituição Federal de 1988: conceito, histórico, estrutura",
+     "itens_atuais": 25,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-2",
+     "titulo": "Princípios fundamentais e direitos e garantias fundamentais",
+     "itens_atuais": 195,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-3",
+     "titulo": "Organização do Estado",
+     "itens_atuais": 120,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-4",
+     "titulo": "Administração pública",
+     "itens_atuais": 78,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-5",
+     "titulo": "Poder Legislativo",
+     "itens_atuais": 143,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-6",
+     "titulo": "Regime jurídico-constitucional dos parlamentares",
+     "itens_atuais": 34,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-7.1",
+     "titulo": "RICD: disposições preliminares e órgãos (arts. 1º a 24)",
+     "itens_atuais": 67,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-7.2",
+     "titulo": "RICD: sessões da Câmara (arts. 65 a 94)",
+     "itens_atuais": 50,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-7.3",
+     "titulo": "RICD: Deputados (arts. 226 a 251)",
+     "itens_atuais": 35,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-7.4",
+     "titulo": "RICD: administração e economia interna (arts. 262 a 273)",
+     "itens_atuais": 14,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-8.1",
+     "titulo": "Regimento Comum: Título I",
+     "itens_atuais": 6,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M4-8.2",
+     "titulo": "Regimento Comum: Título IV, Cap. II e III (até art. 103)",
+     "itens_atuais": 23,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    }
+   ]
+  },
+  {
+   "materia": "Tecnologia da Informação e Dados",
+   "bloco": [
+    "P1"
+   ],
+   "topicos": [
+    {
+     "id": "P1-M5-1",
+     "titulo": "MS Office 365",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M5-2",
+     "titulo": "Redes de computadores",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M5-3",
+     "titulo": "Comunicação e colaboração",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M5-4",
+     "titulo": "Segurança e governança digital",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M5-5",
+     "titulo": "Conceitos básicos de IA",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M5-6",
+     "titulo": "Ética e responsabilidade digital",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M5-7",
+     "titulo": "Dados",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P1-M5-8",
+     "titulo": "Visualização de dados",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    }
+   ]
+  },
+  {
+   "materia": "Linguística",
+   "bloco": [
+    "P2"
+   ],
+   "topicos": [
+    {
+     "id": "P2-M6-1",
+     "titulo": "Signo linguístico",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-2",
+     "titulo": "Categorias semânticas",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-3",
+     "titulo": "Leitura: coesão, inferência e relações de sentido",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-4",
+     "titulo": "Recursos de produção de textos",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-5",
+     "titulo": "Enunciação e análise do discurso",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-6",
+     "titulo": "Gêneros discursivos, tipologia e processos textuais",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-7",
+     "titulo": "Linguagem e variação linguística",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-8",
+     "titulo": "Língua e gramática",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-9",
+     "titulo": "Funções da linguagem",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-10",
+     "titulo": "Retórica e figuras de linguagem",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-11",
+     "titulo": "Comunicações oficiais, pronomes de tratamento e reduções ortográficas",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-12",
+     "titulo": "Noções básicas de lógica",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M6-13",
+     "titulo": "Técnica Legislativa: LC 95/1998",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    }
+   ]
+  },
+  {
+   "materia": "Reconhecimento de Fala, Transcrição e IA",
+   "bloco": [
+    "P2"
+   ],
+   "topicos": [
+    {
+     "id": "P2-M7-1.1",
+     "titulo": "Como o ASR funciona: o pipeline híbrido clássico",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-1.2",
+     "titulo": "Modelos end-to-end: CTC, atenção e transducer",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-1.3",
+     "titulo": "LLMs multimodais de áudio nativo × pipeline ASR + LLM",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-1.4",
+     "titulo": "Diarização: quem falou quando",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-1.5",
+     "titulo": "Pontuação, capitalização e normalização inversa",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-1.6",
+     "titulo": "Desafios do ASR em português brasileiro",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-1.7",
+     "titulo": "Transcrição em tempo real × em lote",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-1.8",
+     "titulo": "Whisper: o que é, como foi treinado, o que faz e não faz",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-2.1",
+     "titulo": "Transcrição automática, degravação e revisão: três coisas diferentes",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-2.2",
+     "titulo": "O fluxo human-in-the-loop",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-2.3",
+     "titulo": "Qualidade e fidelidade: verbatim x limpa",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-2.4",
+     "titulo": "Formatação de transcrições parlamentares",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-2.5",
+     "titulo": "Normalização de texto: números, siglas, abreviações, termos técnicos",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-2.6",
+     "titulo": "Ferramentas de CAT e editores de transcrição",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-2.7",
+     "titulo": "Controle de qualidade: revisão em dupla, auditoria de amostras, SLA",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-2.8",
+     "titulo": "Vocabulário técnico parlamentar e adaptação de modelo de linguagem",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-3.1",
+     "titulo": "Transcrição de sessões: o que muda no plenário e nas comissões",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-3.2",
+     "titulo": "Sumarização: extrativa e abstrativa",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-3.3",
+     "titulo": "Indexação e busca em acervos de sessões",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-3.4",
+     "titulo": "Busca semântica em acervos: embeddings",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-3.5",
+     "titulo": "Geração automática de atas e resumos: riscos",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-3.6",
+     "titulo": "Modelos multilíngues e modelos especializados em português",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-4.1",
+     "titulo": "LGPD: conceitos que a transcrição aciona",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-4.2",
+     "titulo": "Direitos autorais e ética no uso de IA",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M7-4.3",
+     "titulo": "Segurança em pipelines de áudio e transcrição",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    }
+   ]
+  },
+  {
+   "materia": "Processo Legislativo, RICD e Regimento Comum",
+   "bloco": [
+    "P2"
+   ],
+   "topicos": [
+    {
+     "id": "P2-M8-1.1",
+     "titulo": "Tipos de procedimento e etapas",
+     "itens_atuais": 14,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-1.2",
+     "titulo": "Comissões, pareceres, deliberação, votação, sanção e veto",
+     "itens_atuais": 16,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-1.3",
+     "titulo": "Matérias legislativas: PL, PLP, delegada, MPV, PDL, PRC e PEC",
+     "itens_atuais": 16,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-1.4",
+     "titulo": "Indicações, pareceres, requerimentos e vetos",
+     "itens_atuais": 11,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-1.5",
+     "titulo": "Iniciativa legislativa",
+     "itens_atuais": 7,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.1",
+     "titulo": "RICD arts. 25–31",
+     "itens_atuais": 6,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-3.1",
+     "titulo": "RC arts. 1–8",
+     "itens_atuais": 5,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.2",
+     "titulo": "RICD arts. 32–38",
+     "itens_atuais": 9,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.3",
+     "titulo": "RICD arts. 39–48",
+     "itens_atuais": 12,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.4",
+     "titulo": "RICD arts. 49–59",
+     "itens_atuais": 8,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.5",
+     "titulo": "RICD arts. 60–64",
+     "itens_atuais": 3,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.6",
+     "titulo": "RICD arts. 95–99",
+     "itens_atuais": 5,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.7",
+     "titulo": "RICD arts. 100–112",
+     "itens_atuais": 7,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.8",
+     "titulo": "RICD arts. 113–125",
+     "itens_atuais": 9,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.9",
+     "titulo": "RICD arts. 126–150",
+     "itens_atuais": 8,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.10",
+     "titulo": "RICD arts. 151–164",
+     "itens_atuais": 9,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-2.11",
+     "titulo": "RICD arts. 165–200",
+     "itens_atuais": 12,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-3.2",
+     "titulo": "RC arts. 9–21",
+     "itens_atuais": 8,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-3.3",
+     "titulo": "RC arts. 22–35",
+     "itens_atuais": 5,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-3.4",
+     "titulo": "RC arts. 36–52",
+     "itens_atuais": 7,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M8-3.5",
+     "titulo": "RC arts. 53–71",
+     "itens_atuais": 3,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    }
+   ]
+  },
+  {
+   "materia": "Ciência Política",
+   "bloco": [
+    "P2"
+   ],
+   "topicos": [
+    {
+     "id": "P2-M9-1",
+     "titulo": "Regimes políticos",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M9-2",
+     "titulo": "Sistemas e formas de governo",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M9-3",
+     "titulo": "Representação política",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M9-4",
+     "titulo": "Poderes e relações entre poderes",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M9-5",
+     "titulo": "Sistemas eleitorais",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M9-6",
+     "titulo": "Teoria dos partidos políticos",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M9-7",
+     "titulo": "Organização política brasileira",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M9-8",
+     "titulo": "Política internacional e brasileira contemporânea",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M9-9",
+     "titulo": "Teoria do Estado e formação dos Estados nacionais",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M9-10",
+     "titulo": "Formação do Estado brasileiro",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    },
+    {
+     "id": "P2-M9-11",
+     "titulo": "História do voto e dos partidos no Brasil",
+     "itens_atuais": 0,
+     "itens_aprovados_v3": 0,
+     "meta": 25,
+     "fonte": "pendente",
+     "blueprint": "pendente",
+     "status": "nao_iniciado"
+    }
+   ]
+  }
+ ]
+}

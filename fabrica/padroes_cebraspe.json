@@ -1,0 +1,26 @@
+{
+ "versao": 1,
+ "nota": "Biblioteca de padrões de item Certo/Errado. Cada questão declara 'padrao'. Cada ponto de cobrança do blueprint indica quais padrões se aplicam. Padrões E são armadilhas; C são o par correto.",
+ "padroes": {
+  "troca_numero":      {"gab":"E","desc":"Troca prazo, quórum, percentual, idade, quantidade pelo valor vizinho/plausível","exemplo":"prazo de 10 dias → 30 dias"},
+  "troca_autoridade":  {"gab":"E","desc":"Troca órgão/autoridade/competência (Presidente x Mesa, Câmara x Senado, União x Estados)","exemplo":""},
+  "troca_efeito":      {"gab":"E","desc":"Troca efeito jurídico (suspensivo x devolutivo; nulidade x anulabilidade; revogação x anulação)","exemplo":""},
+  "excecao_omitida":   {"gab":"E","desc":"Enuncia regra como absoluta omitindo exceção prevista","exemplo":""},
+  "regra_como_excecao":{"gab":"E","desc":"Inverte regra e exceção","exemplo":""},
+  "generalizacao":     {"gab":"E","desc":"Estende a todos o que vale para alguns (todo, qualquer, sempre) — a palavra não pode ser a única pista","exemplo":""},
+  "restricao_indevida":{"gab":"E","desc":"Restringe o que a norma admite amplamente (somente, exclusivamente) sem pista gramatical óbvia","exemplo":""},
+  "confusao_instituto":{"gab":"E","desc":"Atribui a um instituto a característica de outro vizinho (par confundível)","exemplo":""},
+  "caso_concreto":     {"gab":"C|E","desc":"Situação-problema curta; julga a consequência jurídica ou a conduta adequada","exemplo":""},
+  "conceito_correto":  {"gab":"C","desc":"Conceito/definição reformulado (não copiado) pela sua função","exemplo":""},
+  "consequencia":      {"gab":"C|E","desc":"Julga a consequência/sanção/procedimento decorrente de um fato","exemplo":""},
+  "jurisprudencia":    {"gab":"C|E","desc":"Entendimento de súmula/tese STF/STJ/TCU, com fonte e data","exemplo":""},
+  "doutrina":          {"gab":"C|E","desc":"Posição doutrinária majoritária; marcar divergência quando houver","exemplo":""},
+  "texto_base":        {"gab":"C|E","desc":"Julga inferência/coesão/sentido a partir de texto-base (Português/Inglês)","exemplo":""},
+  "reescrita":         {"gab":"C|E","desc":"Julga reescrita de trecho quanto a sentido, correção e coesão (Português)","exemplo":""},
+  "norma_culta":       {"gab":"C|E","desc":"Julga ocorrência de regra gramatical (concordância, regência, crase, pontuação) em trecho","exemplo":""},
+  "sequencia":         {"gab":"C|E","desc":"Ordem de etapas/fases/precedência (processo legislativo, instrução)","exemplo":""},
+  "atribuicao_autor":  {"gab":"C|E","desc":"Associa teoria/conceito a autor, época ou escola (Ciência Política, Linguística)","exemplo":""},
+  "literalidade_util": {"gab":"C","desc":"Reprodução fiel de dispositivo CENTRAL (apenas quando o ponto é de alta incidência); limitar a 15% do lote","exemplo":""}
+ },
+ "limites": {"literalidade_util_max": 0.15, "balanco_CE": [0.45, 0.55], "autor_unico_padrao_max": 0.35}
+}
