@@ -1,0 +1,443 @@
+{
+ "geral": {
+  "questoes": 1217,
+  "pctC": 0.578
+ },
+ "topicos": {
+  "P1-M3-4": {
+   "n": 247,
+   "pctC": 0.5,
+   "vies_tamanho_E_vs_C": 0.01,
+   "E_com_absoluto": 0.23,
+   "C_com_absoluto": 0.08,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 211,
+    "2": 36
+   }
+  },
+  "P1-M4-1": {
+   "n": 25,
+   "pctC": 0.48,
+   "vies_tamanho_E_vs_C": -0.07,
+   "E_com_absoluto": 0.23,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.04,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 25
+   }
+  },
+  "P1-M4-2": {
+   "n": 195,
+   "pctC": 0.56,
+   "vies_tamanho_E_vs_C": -0.0,
+   "E_com_absoluto": 0.33,
+   "C_com_absoluto": 0.15,
+   "pct_leitura": 0.5,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 195
+   }
+  },
+  "P1-M4-3": {
+   "n": 120,
+   "pctC": 0.64,
+   "vies_tamanho_E_vs_C": -0.15,
+   "E_com_absoluto": 0.12,
+   "C_com_absoluto": 0.08,
+   "pct_leitura": 0.15,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 120
+   }
+  },
+  "P1-M4-4": {
+   "n": 78,
+   "pctC": 0.67,
+   "vies_tamanho_E_vs_C": -0.25,
+   "E_com_absoluto": 0.27,
+   "C_com_absoluto": 0.17,
+   "pct_leitura": 0.59,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 78
+   }
+  },
+  "P1-M4-5": {
+   "n": 143,
+   "pctC": 0.64,
+   "vies_tamanho_E_vs_C": -0.22,
+   "E_com_absoluto": 0.12,
+   "C_com_absoluto": 0.26,
+   "pct_leitura": 0.18,
+   "quase_duplicatas": 2,
+   "r": {
+    "1": 143
+   }
+  },
+  "P1-M4-6": {
+   "n": 34,
+   "pctC": 0.68,
+   "vies_tamanho_E_vs_C": -0.16,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.04,
+   "pct_leitura": 0.44,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 34
+   }
+  },
+  "P1-M4-7.1": {
+   "n": 67,
+   "pctC": 0.55,
+   "vies_tamanho_E_vs_C": -0.15,
+   "E_com_absoluto": 0.2,
+   "C_com_absoluto": 0.08,
+   "pct_leitura": 0.25,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 67
+   }
+  },
+  "P1-M4-7.2": {
+   "n": 50,
+   "pctC": 0.56,
+   "vies_tamanho_E_vs_C": -0.23,
+   "E_com_absoluto": 0.05,
+   "C_com_absoluto": 0.18,
+   "pct_leitura": 0.24,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 50
+   }
+  },
+  "P1-M4-7.3": {
+   "n": 35,
+   "pctC": 0.51,
+   "vies_tamanho_E_vs_C": -0.21,
+   "E_com_absoluto": 0.12,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.23,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 35
+   }
+  },
+  "P1-M4-7.4": {
+   "n": 14,
+   "pctC": 0.64,
+   "vies_tamanho_E_vs_C": -0.21,
+   "E_com_absoluto": 0.2,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.21,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 14
+   }
+  },
+  "P1-M4-8.1": {
+   "n": 6,
+   "pctC": 0.5,
+   "vies_tamanho_E_vs_C": -0.52,
+   "E_com_absoluto": 0.33,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 6
+   }
+  },
+  "P1-M4-8.2": {
+   "n": 23,
+   "pctC": 0.61,
+   "vies_tamanho_E_vs_C": -0.24,
+   "E_com_absoluto": 0.22,
+   "C_com_absoluto": 0.07,
+   "pct_leitura": 0.35,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 23
+   }
+  },
+  "P2-M8-1.1": {
+   "n": 14,
+   "pctC": 0.43,
+   "vies_tamanho_E_vs_C": -0.14,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.07,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 14
+   }
+  },
+  "P2-M8-1.2": {
+   "n": 16,
+   "pctC": 0.62,
+   "vies_tamanho_E_vs_C": -0.14,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.1,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 16
+   }
+  },
+  "P2-M8-1.3": {
+   "n": 16,
+   "pctC": 0.44,
+   "vies_tamanho_E_vs_C": -0.13,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.14,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 16
+   }
+  },
+  "P2-M8-1.4": {
+   "n": 11,
+   "pctC": 0.55,
+   "vies_tamanho_E_vs_C": 0.03,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 11
+   }
+  },
+  "P2-M8-1.5": {
+   "n": 7,
+   "pctC": 0.57,
+   "vies_tamanho_E_vs_C": -0.42,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.25,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 7
+   }
+  },
+  "P2-M8-2.1": {
+   "n": 6,
+   "pctC": 0.5,
+   "vies_tamanho_E_vs_C": -0.23,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 6
+   }
+  },
+  "P2-M8-2.10": {
+   "n": 9,
+   "pctC": 0.67,
+   "vies_tamanho_E_vs_C": -0.3,
+   "E_com_absoluto": 0.33,
+   "C_com_absoluto": 0.33,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 9
+   }
+  },
+  "P2-M8-2.11": {
+   "n": 12,
+   "pctC": 0.58,
+   "vies_tamanho_E_vs_C": -0.33,
+   "E_com_absoluto": 0.2,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 12
+   }
+  },
+  "P2-M8-2.2": {
+   "n": 9,
+   "pctC": 0.56,
+   "vies_tamanho_E_vs_C": -0.38,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 9
+   }
+  },
+  "P2-M8-2.3": {
+   "n": 12,
+   "pctC": 0.58,
+   "vies_tamanho_E_vs_C": -0.26,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 12
+   }
+  },
+  "P2-M8-2.4": {
+   "n": 8,
+   "pctC": 0.75,
+   "vies_tamanho_E_vs_C": -0.22,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 8
+   }
+  },
+  "P2-M8-2.5": {
+   "n": 3,
+   "pctC": 0.67,
+   "vies_tamanho_E_vs_C": -0.32,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.5,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 3
+   }
+  },
+  "P2-M8-2.6": {
+   "n": 5,
+   "pctC": 0.6,
+   "vies_tamanho_E_vs_C": -0.24,
+   "E_com_absoluto": 0.5,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 5
+   }
+  },
+  "P2-M8-2.7": {
+   "n": 7,
+   "pctC": 0.57,
+   "vies_tamanho_E_vs_C": -0.33,
+   "E_com_absoluto": 0.33,
+   "C_com_absoluto": 0.5,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 7
+   }
+  },
+  "P2-M8-2.8": {
+   "n": 9,
+   "pctC": 0.67,
+   "vies_tamanho_E_vs_C": -0.17,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.11,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 9
+   }
+  },
+  "P2-M8-2.9": {
+   "n": 8,
+   "pctC": 0.75,
+   "vies_tamanho_E_vs_C": -0.32,
+   "E_com_absoluto": 0.5,
+   "C_com_absoluto": 0.17,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 8
+   }
+  },
+  "P2-M8-3.1": {
+   "n": 5,
+   "pctC": 0.6,
+   "vies_tamanho_E_vs_C": -0.18,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.33,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 5
+   }
+  },
+  "P2-M8-3.2": {
+   "n": 8,
+   "pctC": 0.62,
+   "vies_tamanho_E_vs_C": -0.31,
+   "E_com_absoluto": 0.33,
+   "C_com_absoluto": 0.4,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 8
+   }
+  },
+  "P2-M8-3.3": {
+   "n": 5,
+   "pctC": 0.6,
+   "vies_tamanho_E_vs_C": -0.27,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.33,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 5
+   }
+  },
+  "P2-M8-3.4": {
+   "n": 7,
+   "pctC": 0.57,
+   "vies_tamanho_E_vs_C": 0.04,
+   "E_com_absoluto": 0.33,
+   "C_com_absoluto": 0.0,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 7
+   }
+  },
+  "P2-M8-3.5": {
+   "n": 3,
+   "pctC": 0.67,
+   "vies_tamanho_E_vs_C": -0.02,
+   "E_com_absoluto": 0.0,
+   "C_com_absoluto": 0.5,
+   "pct_leitura": 0.0,
+   "quase_duplicatas": 0,
+   "r": {
+    "1": 3
+   }
+  }
+ },
+ "alertas": [
+  "P1-M4-2: 50% de itens de leitura",
+  "P1-M4-3: 64% C (fora de 40-60)",
+  "P1-M4-3: viés de tamanho -15% (E vs C)",
+  "P1-M4-4: 67% C (fora de 40-60)",
+  "P1-M4-4: viés de tamanho -25% (E vs C)",
+  "P1-M4-4: 59% de itens de leitura",
+  "P1-M4-5: 64% C (fora de 40-60)",
+  "P1-M4-5: viés de tamanho -22% (E vs C)",
+  "P1-M4-6: 68% C (fora de 40-60)",
+  "P1-M4-6: viés de tamanho -16% (E vs C)",
+  "P1-M4-6: 44% de itens de leitura",
+  "P1-M4-7.1: viés de tamanho -15% (E vs C)",
+  "P1-M4-7.2: viés de tamanho -23% (E vs C)",
+  "P1-M4-7.3: viés de tamanho -21% (E vs C)",
+  "P1-M4-7.4: 64% C (fora de 40-60)",
+  "P1-M4-7.4: viés de tamanho -21% (E vs C)",
+  "P1-M4-8.2: 61% C (fora de 40-60)",
+  "P1-M4-8.2: viés de tamanho -24% (E vs C)",
+  "P2-M8-1.1: viés de tamanho -14% (E vs C)",
+  "P2-M8-1.2: 62% C (fora de 40-60)",
+  "P2-M8-1.2: viés de tamanho -14% (E vs C)",
+  "P2-M8-1.3: viés de tamanho -13% (E vs C)",
+  "P2-M8-2.11: viés de tamanho -33% (E vs C)",
+  "P2-M8-2.3: viés de tamanho -26% (E vs C)"
+ ]
+}

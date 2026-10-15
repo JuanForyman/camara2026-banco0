@@ -148,12 +148,12 @@
     {
      "id": "P1-M3-4",
      "titulo": "Direito administrativo disciplinar",
-     "itens_atuais": 176,
-     "itens_aprovados_v3": 0,
-     "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "itens_atuais": 247,
+     "itens_aprovados_v3": 247,
+     "meta": 247,
+     "fonte": "Lei 9.784/99 (PDF do usuário)",
+     "blueprint": "blueprints/l9784.json",
+     "status": "piloto_concluido_lote_L1"
     },
     {
      "id": "P1-M3-5",

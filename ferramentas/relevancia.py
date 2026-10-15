@@ -8,7 +8,7 @@ MEDIA = {3, 5, 9, 10, 17, 21, 22, 27, 31, 36, 38, 45, 58, 62, 66, 67}
 B = json.load(open(sys.argv[1], encoding="utf-8"))
 cnt = {1: 0, 2: 0, 3: 0}
 for q in B:
-    if not q["id"].startswith("Q-L9784-"): continue
+    if not q["id"].startswith("Q-L9784-") or "d" in q: continue  # itens v3 já trazem r e d
     art = int(re.match(r"A-L9784-(\d+)", q["a"][0]).group(1))
     if q["k"] != "leitura": r = 1
     elif q["id"] in ("Q-L9784-0003",): r = 1  # aplicação ao Legislativo (art. 1º, §1º): tema da Câmara

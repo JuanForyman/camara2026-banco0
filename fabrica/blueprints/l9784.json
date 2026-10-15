@@ -1,0 +1,265 @@
+{
+ "parte": "Direito Administrativo — Lei 9.784/1999 (processo administrativo federal)",
+ "sigla": "L9784",
+ "topico": "P1-M3-4",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.4",
+ "fonte": {
+  "tipo": "lei",
+  "ref": "Lei 9.784/1999",
+  "versao": "PDF anexado pelo usuário (texto sem o art. 69-A e alterações posteriores)",
+  "conferida": "pdf_usuario"
+ },
+ "nota_calibracao": "Incidência estimada por conhecimento do padrão Cebraspe; refinar com provas anteriores fornecidas pelo usuário.",
+ "pendencias": [
+  "art. 69-A (prioridade de tramitação) fora do PDF",
+  "conferir alterações posteriores (ex.: Lei 14.365/2022 em dispositivos conexos) quando houver PDF atualizado"
+ ],
+ "pontos": [
+  {
+   "id": "P01",
+   "titulo": "Aplicação ao Legislativo/Judiciário e conceitos (art. 1º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "lei alcança Legislativo e Judiciário só em função administrativa",
+    "órgão x entidade",
+    "autoridade = poder de decisão"
+   ]
+  },
+  {
+   "id": "P02",
+   "titulo": "Princípios do art. 2º, caput",
+   "incidencia": "alta",
+   "armadilhas": [
+    "impessoalidade e publicidade NÃO constam do rol",
+    "rol não repete o art. 37 da CF"
+   ]
+  },
+  {
+   "id": "P03",
+   "titulo": "Critérios do art. 2º, parágrafo único",
+   "incidencia": "alta",
+   "armadilhas": [
+    "renúncia de competência só com lei",
+    "sigilo só o da CF",
+    "nova interpretação não retroage",
+    "despesas processuais só se previstas em lei",
+    "garantias de X só em sanção/litígio"
+   ]
+  },
+  {
+   "id": "P04",
+   "titulo": "Direitos e deveres do administrado (arts. 3º e 4º)",
+   "incidencia": "media",
+   "armadilhas": [
+    "advogado facultativo (SV 5)",
+    "dever de considerar alegações"
+   ]
+  },
+  {
+   "id": "P05",
+   "titulo": "Início e requerimento (arts. 5º a 8º)",
+   "incidencia": "media",
+   "armadilhas": [
+    "solicitação oral é exceção",
+    "recusa imotivada vedada",
+    "requerimento único"
+   ]
+  },
+  {
+   "id": "P06",
+   "titulo": "Interessados e capacidade (arts. 9º e 10)",
+   "incidencia": "media",
+   "armadilhas": [
+    "difusos: pessoas ou associações (art. 9º) x cidadãos ou associações (art. 58)",
+    "18 anos"
+   ]
+  },
+  {
+   "id": "P07",
+   "titulo": "Competência, delegação e avocação (arts. 11 a 17)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "irrenunciável",
+    "indelegáveis: normativo, recurso, competência exclusiva",
+    "delegação sem subordinação",
+    "revogável a qualquer tempo",
+    "avocação temporária e excepcional",
+    "menor grau hierárquico"
+   ]
+  },
+  {
+   "id": "P08",
+   "titulo": "Impedimento e suspeição (arts. 18 a 21)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "amizade/inimizade = suspeição; litígio, interesse, testemunha = impedimento",
+    "parentes até 3º grau",
+    "omissão = falta grave",
+    "recurso sem efeito suspensivo"
+   ]
+  },
+  {
+   "id": "P09",
+   "titulo": "Forma, tempo e lugar dos atos (arts. 22 a 25)",
+   "incidencia": "media",
+   "armadilhas": [
+    "prazo supletivo 5 dias, dobro",
+    "reconhecimento de firma só com dúvida",
+    "ato iniciado conclui-se após expediente"
+   ]
+  },
+  {
+   "id": "P10",
+   "titulo": "Comunicação dos atos (arts. 26 a 28)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "3 dias úteis",
+    "comparecimento supre nulidade",
+    "desatendimento não é confissão",
+    "indeterminados: publicação oficial"
+   ]
+  },
+  {
+   "id": "P11",
+   "titulo": "Instrução e provas (arts. 29 a 47)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "prova ilícita inadmissível",
+    "recusa só por 4 motivos e fundamentada",
+    "consulta pública não gera condição de interessado",
+    "audiência pública é faculdade",
+    "parecer vinculante x não vinculante",
+    "15 dias; 10 dias",
+    "arquivamento (art. 40)"
+   ]
+  },
+  {
+   "id": "P12",
+   "titulo": "Dever de decidir e prazo (arts. 48 e 49)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "30 dias prorrogáveis por igual período motivado"
+   ]
+  },
+  {
+   "id": "P13",
+   "titulo": "Motivação (art. 50)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "rol de hipóteses",
+    "motivação aliunde",
+    "meio mecânico sem prejuízo",
+    "ata do colegiado"
+   ]
+  },
+  {
+   "id": "P14",
+   "titulo": "Desistência e extinção (arts. 51 e 52)",
+   "incidencia": "media",
+   "armadilhas": [
+    "atinge só quem desistiu",
+    "interesse público mantém o processo",
+    "direitos disponíveis"
+   ]
+  },
+  {
+   "id": "P15",
+   "titulo": "Autotutela: anulação, revogação, convalidação (arts. 53 a 55)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "anular é dever, revogar é faculdade",
+    "5 anos, má-fé, primeiro pagamento",
+    "convalidação exige ausência de lesão e prejuízo a terceiros"
+   ]
+  },
+  {
+   "id": "P16",
+   "titulo": "Recurso: cabimento, instâncias e legitimidade (arts. 56 a 58)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "legalidade e mérito",
+    "reconsideração em 5 dias",
+    "SV 21 x salvo exigência legal",
+    "3 instâncias",
+    "legitimidade ampla"
+   ]
+  },
+  {
+   "id": "P17",
+   "titulo": "Prazos recursais, efeito suspensivo e não conhecimento (arts. 59 a 63)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "10 dias",
+    "30+30",
+    "regra: sem efeito suspensivo",
+    "5 dias úteis",
+    "devolução de prazo",
+    "revisão de ofício"
+   ]
+  },
+  {
+   "id": "P18",
+   "titulo": "Decisão do recurso e reformatio in pejus (art. 64)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "pode agravar, com ciência prévia (art. 64) x não pode na revisão (art. 65)"
+   ]
+  },
+  {
+   "id": "P19",
+   "titulo": "Revisão do processo sancionador (art. 65)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "a qualquer tempo",
+    "vedado agravamento"
+   ]
+  },
+  {
+   "id": "P20",
+   "titulo": "Contagem de prazos (arts. 66 e 67)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "exclui começo, inclui vencimento",
+    "contínuos",
+    "data a data",
+    "força maior"
+   ]
+  },
+  {
+   "id": "P21",
+   "titulo": "Sanções e aplicação subsidiária (arts. 68 e 69)",
+   "incidencia": "media",
+   "armadilhas": [
+    "sanção pecuniária ou obrigação de fazer/não fazer",
+    "lei própria prevalece; 9.784 subsidiária"
+   ]
+  },
+  {
+   "id": "P22",
+   "titulo": "Jurisprudência correlata",
+   "incidencia": "alta",
+   "armadilhas": [
+    "SV 3, SV 5, SV 21",
+    "Súmulas 346 e 473 STF",
+    "Súmula 633 STJ"
+   ],
+   "nota": "fonte por conhecimento; conferir vigência"
+  },
+  {
+   "id": "P23",
+   "titulo": "Casos concretos integrados",
+   "incidencia": "alta",
+   "armadilhas": [
+    "combinação de artigos"
+   ]
+  }
+ ],
+ "descartar_tags": [
+  "p05a",
+  "p05e",
+  "p09f",
+  "p12d"
+ ]
+}

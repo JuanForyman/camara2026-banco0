@@ -18,7 +18,7 @@ for t, qs in sorted(por.items()):
     leit = sum(1 for q in qs if q.get("k") == "leitura")
     # quase-duplicatas (4-gramas) dentro do mesmo átomo
     dup = 0; porat = collections.defaultdict(list)
-    for q in qs: porat[q["a"][0] if q.get("a") else q["id"]].append(sh(q["e"]))
+    for q in qs: porat[(q["a"][0] if q.get("a") else q["id"], q["g"])].append(sh(q["e"]))  # gêmeos C/E não contam
     for L in porat.values():
         for i in range(len(L)):
             for j in range(i+1, len(L)):
