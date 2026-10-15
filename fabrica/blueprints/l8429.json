@@ -15,9 +15,12 @@
  "nota_calibracao": "Incidência estimada pelo padrão Cebraspe; após a Lei 14.230/2021 a banca cobra muito a literalidade e os marcos de dolo, prescrição e ANPC.",
  "pendencias": [
   "trechos de arts. 12, 13 e 17 truncados pelo parser (parágrafos revogados ou fora do texto); itens apoiados em jurisprudência têm fonte 'conhecimento'",
-  "conferir ADIs 7042/7043/7236 para o texto vigente do art. 17"
+  "conferir ADIs 7042/7043/7236 para o texto vigente do art. 17",
+  "art. 17, § 20 (assessoria jurídica) retirado do banco: pode estar suspenso na ADI 7236; reinserir após conferir"
  ],
- "descartar_tags": [],
+ "descartar_tags": [
+  "q09l"
+ ],
  "pontos": [
   {
    "id": "Q01",

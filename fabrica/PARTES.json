@@ -178,12 +178,12 @@
     {
      "id": "P1-M3-7",
      "titulo": "Improbidade administrativa",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
-     "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "itens_atuais": 258,
+     "itens_aprovados_v3": 258,
+     "meta": 258,
+     "fonte": "Lei 8.429/92 com Lei 14.230/21 (PDF esquematizado do usuário)",
+     "blueprint": "blueprints/l8429.json",
+     "status": "lote_L3_concluido"
     },
     {
      "id": "P1-M3-8",

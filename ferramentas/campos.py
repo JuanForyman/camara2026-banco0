@@ -35,7 +35,21 @@ L8112 = [(2,5,"L8112-cargo","Lei 8.112: conceitos, cargo e requisitos (arts. 2º
  (121,126,"L8112-resp","Lei 8.112: responsabilidades (arts. 121 a 126-A)"),(127,137,"L8112-penal","Lei 8.112: penalidades disciplinares (arts. 127 a 137)"),(138,142,"L8112-presc","Lei 8.112: abandono, inassiduidade e prescrição (arts. 138 a 142)"),
  (143,150,"L8112-sind","Lei 8.112: sindicância e comissão processante (arts. 143 a 150)"),(151,173,"L8112-pad","Lei 8.112: processo administrativo disciplinar (arts. 151 a 173)"),(174,182,"L8112-rev","Lei 8.112: revisão do processo disciplinar (arts. 174 a 182)"),
  (183,201,"L8112-seg","Lei 8.112: seguridade social e benefícios (arts. 183 a 201)"),(202,214,"L8112-saude","Lei 8.112: licenças de saúde, maternidade e acidente (arts. 202 a 214)"),(215,230,"L8112-pensao","Lei 8.112: pensão e demais benefícios (arts. 215 a 230)")]
+L8429 = [(1,3,"L8429-disp","Lei 8.429: sistema, dolo, sujeitos e sucessão (arts. 1º a 3º, 8º e 8º-A)"),(8,8,"L8429-disp","Lei 8.429: sistema, dolo, sujeitos e sucessão (arts. 1º a 3º, 8º e 8º-A)"),(7,7,"L8429-repr","Lei 8.429: declaração de bens e representação (arts. 7º, 13 a 15, 19 e 22)"),
+ (9,9,"L8429-art9","Lei 8.429: enriquecimento ilícito (art. 9º)"),(10,10,"L8429-art10","Lei 8.429: lesão ao erário (art. 10)"),(11,11,"L8429-art11","Lei 8.429: violação a princípios (art. 11)"),(12,12,"L8429-sanc","Lei 8.429: sanções (art. 12)"),
+ (13,15,"L8429-repr","Lei 8.429: declaração de bens e representação (arts. 7º, 13 a 15, 19 e 22)"),(16,16,"L8429-indisp","Lei 8.429: indisponibilidade de bens (art. 16)"),(17,17,"L8429-acao","Lei 8.429: ação de improbidade e acordo (arts. 17 a 17-B)"),
+ (18,18,"L8429-sent","Lei 8.429: sentença, ressarcimento e unificação de sanções (arts. 17-C a 18-A)"),(19,19,"L8429-repr","Lei 8.429: declaração de bens e representação (arts. 7º, 13 a 15, 19 e 22)"),(20,21,"L8429-afast","Lei 8.429: afastamento e independência de instâncias (arts. 20 e 21)"),
+ (22,22,"L8429-repr","Lei 8.429: declaração de bens e representação (arts. 7º, 13 a 15, 19 e 22)"),(23,23,"L8429-presc","Lei 8.429: prescrição (art. 23)"),(24,26,"L8429-fim","Lei 8.429: capacitação, custas e partidos (arts. 23-A a 23-C)")]
 def campo(atom):
+    m9 = re.match(r"A-L8429-(\d+)([A-Z]?)", atom)
+    if m9:
+        a = int(m9.group(1)); sf = m9.group(2)
+        if sf and a == 17: return ("L8429-acao", "Lei 8.429: ação de improbidade e acordo (arts. 17 a 17-B)") if sf == "B" else ("L8429-sent", "Lei 8.429: sentença, ressarcimento e unificação de sanções (arts. 17-C a 18-A)")
+        if sf and a == 18: return ("L8429-sent", "Lei 8.429: sentença, ressarcimento e unificação de sanções (arts. 17-C a 18-A)")
+        if sf and a == 23: return ("L8429-fim", "Lei 8.429: capacitação, custas e partidos (arts. 23-A a 23-C)")
+        for lo, hi, cid, nm in L8429:
+            if lo <= a <= hi: return (cid, nm)
+        return None
     m8 = re.match(r"A-L8112-(\d+)", atom)
     if m8:
         a = int(m8.group(1))
