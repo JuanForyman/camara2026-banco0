@@ -218,22 +218,22 @@
     {
      "id": "P1-M3-11",
      "titulo": "Lei de Acesso à Informação",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 166,
+     "itens_aprovados_v3": 166,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "lei oficial (Drive/Planalto)",
+     "blueprint": "l12527",
+     "status": "lote_pronto"
     },
     {
      "id": "P1-M3-12",
      "titulo": "LGPD",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 224,
+     "itens_aprovados_v3": 224,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "lei oficial (Drive/Planalto)",
+     "blueprint": "l13709",
+     "status": "lote_pronto"
     }
    ]
   },

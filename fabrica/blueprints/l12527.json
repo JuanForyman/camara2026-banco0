@@ -1,0 +1,149 @@
+{
+ "parte": "Direito Administrativo — Lei 12.527/2011 (Lei de Acesso à Informação)",
+ "sigla": "L12527",
+ "topico": "P1-M3-11",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.11",
+ "nome_curto": "Lei 12.527/11",
+ "fonte": {
+  "tipo": "lei",
+  "ref": "Lei 12.527/2011",
+  "versao": "PDF do Planalto (impressão de 02/06/2021) anexado pelo usuário",
+  "conferida": "pdf_usuario"
+ },
+ "nota_calibracao": "Incidência estimada pelo padrão Cebraspe; LAI é recorrente e cobrada na literalidade (prazos, graus de sigilo, competência).",
+ "pendencias": [
+  "conferir alterações posteriores (ex.: Lei 14.129/2021 e Decreto 7.724/2012 — não incluídos)",
+  "art. 27, III citava DAS 101.5, nomenclatura hoje substituída"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "R01",
+   "titulo": "Objeto, âmbito e diretrizes (arts. 1º a 3º, 5º e 6º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "publicidade regra, sigilo exceção",
+    "entidades privadas sem fins lucrativos só quanto aos recursos públicos",
+    "Cortes de Contas e MP"
+   ]
+  },
+  {
+   "id": "R02",
+   "titulo": "Conceitos (art. 4º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "informação sigilosa x pessoal",
+    "disponibilidade, autenticidade, integridade, primariedade"
+   ]
+  },
+  {
+   "id": "R03",
+   "titulo": "Direito de acesso (art. 7º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "amplo",
+    "pesquisa científica sigilosa",
+    "acesso parcial",
+    "extravio e sindicância"
+   ]
+  },
+  {
+   "id": "R04",
+   "titulo": "Transparência ativa (arts. 8º e 9º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "independente de requerimento",
+    "rol mínimo",
+    "sítios oficiais",
+    "municípios até 10 mil habitantes"
+   ]
+  },
+  {
+   "id": "R05",
+   "titulo": "Pedido de acesso, prazos e custos (arts. 10 a 14)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "sem motivação",
+    "20 + 10 dias",
+    "gratuidade e reprodução",
+    "formato digital"
+   ]
+  },
+  {
+   "id": "R06",
+   "titulo": "Recursos (arts. 15 a 20)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "10 dias",
+    "5 dias",
+    "CGU",
+    "CMRI",
+    "regras para Poder Legislativo, Judiciário e MP"
+   ]
+  },
+  {
+   "id": "R07",
+   "titulo": "Restrições, classificação, graus e prazos (arts. 21 a 24)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "25/15/5 anos",
+    "prazo da produção",
+    "direitos fundamentais e direitos humanos",
+    "segredos"
+   ]
+  },
+  {
+   "id": "R08",
+   "titulo": "Proteção, competência e procedimento de classificação (arts. 25 a 30)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "quem classifica cada grau",
+    "delegação sem subdelegação",
+    "decisão formalizada",
+    "reavaliação"
+   ]
+  },
+  {
+   "id": "R09",
+   "titulo": "Informações pessoais (art. 31)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "100 anos",
+    "consentimento e exceções",
+    "uso indevido"
+   ]
+  },
+  {
+   "id": "R10",
+   "titulo": "Responsabilidades e sanções (arts. 32 a 34)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "condutas ilícitas",
+    "suspensão no mínimo",
+    "sanções a privados",
+    "responsabilidade direta do órgão"
+   ]
+  },
+  {
+   "id": "R11",
+   "titulo": "Comissão Mista de Reavaliação e disposições finais (arts. 35 a 47)",
+   "incidencia": "media",
+   "armadilhas": [
+    "CMRI: composição por regulamento, mandato de 2 anos",
+    "renovação única",
+    "autoridade de monitoramento",
+    "Estados e Municípios"
+   ]
+  },
+  {
+   "id": "R12",
+   "titulo": "Casos concretos integrados",
+   "incidencia": "alta",
+   "armadilhas": [
+    "combinação de artigos"
+   ]
+  }
+ ]
+}

@@ -40,7 +40,26 @@ L8429 = [(1,3,"L8429-disp","Lei 8.429: sistema, dolo, sujeitos e sucessão (arts
  (13,15,"L8429-repr","Lei 8.429: declaração de bens e representação (arts. 7º, 13 a 15, 19 e 22)"),(16,16,"L8429-indisp","Lei 8.429: indisponibilidade de bens (art. 16)"),(17,17,"L8429-acao","Lei 8.429: ação de improbidade e acordo (arts. 17 a 17-B)"),
  (18,18,"L8429-sent","Lei 8.429: sentença, ressarcimento e unificação de sanções (arts. 17-C a 18-A)"),(19,19,"L8429-repr","Lei 8.429: declaração de bens e representação (arts. 7º, 13 a 15, 19 e 22)"),(20,21,"L8429-afast","Lei 8.429: afastamento e independência de instâncias (arts. 20 e 21)"),
  (22,22,"L8429-repr","Lei 8.429: declaração de bens e representação (arts. 7º, 13 a 15, 19 e 22)"),(23,23,"L8429-presc","Lei 8.429: prescrição (art. 23)"),(24,26,"L8429-fim","Lei 8.429: capacitação, custas e partidos (arts. 23-A a 23-C)")]
+L12527 = [(1,6,"LAI-disp","LAI: objeto, âmbito, diretrizes e deveres (arts. 1º a 6º)"),(4,4,"LAI-conc","LAI: conceitos (art. 4º)"),(7,7,"LAI-acesso","LAI: direito de acesso (art. 7º)"),(8,9,"LAI-ativa","LAI: transparência ativa e serviço de informações (arts. 8º e 9º)"),
+ (10,14,"LAI-pedido","LAI: pedido de acesso, prazos e custos (arts. 10 a 14)"),(15,20,"LAI-recurso","LAI: recursos (arts. 15 a 20)"),(21,24,"LAI-restr","LAI: restrições e classificação (arts. 21 a 24)"),
+ (25,30,"LAI-proced","LAI: proteção, competência e procedimento de classificação (arts. 25 a 30)"),(31,31,"LAI-pessoal","LAI: informações pessoais (art. 31)"),(32,34,"LAI-resp","LAI: responsabilidades e sanções (arts. 32 a 34)"),(35,47,"LAI-fim","LAI: CMRI e disposições finais (arts. 35 a 47)")]
+L13709 = [(1,4,"LGPD-disp","LGPD: objeto, âmbito, fundamentos e conceitos (arts. 1º a 5º)"),(5,5,"LGPD-disp","LGPD: objeto, âmbito, fundamentos e conceitos (arts. 1º a 5º)"),(6,6,"LGPD-princ","LGPD: princípios (art. 6º)"),(7,10,"LGPD-bases","LGPD: bases legais e consentimento (arts. 7º a 10)"),
+ (11,13,"LGPD-sens","LGPD: dados sensíveis e anonimização (arts. 11 a 13)"),(14,16,"LGPD-crianca","LGPD: crianças, adolescentes e término do tratamento (arts. 14 a 16)"),(17,22,"LGPD-titular","LGPD: direitos do titular (arts. 17 a 22)"),
+ (23,32,"LGPD-publico","LGPD: tratamento pelo Poder Público (arts. 23 a 32)"),(33,36,"LGPD-intl","LGPD: transferência internacional (arts. 33 a 36)"),(37,45,"LGPD-agentes","LGPD: agentes, encarregado e responsabilidade (arts. 37 a 45)"),
+ (46,51,"LGPD-seg","LGPD: segurança, incidentes e governança (arts. 46 a 51)"),(52,54,"LGPD-sanc","LGPD: sanções administrativas (arts. 52 a 54)"),(55,99,"LGPD-anpd","LGPD: ANPD e CNPD (arts. 55-A a 55-L, 58-A, 58-B)")]
 def campo(atom):
+    ml3 = re.match(r"A-L13709-(\d+)", atom)
+    if ml3:
+        a = int(ml3.group(1))
+        for lo, hi, cid, nm in L13709:
+            if lo <= a <= hi: return (cid, nm)
+        return None
+    ml2 = re.match(r"A-L12527-(\d+)", atom)
+    if ml2:
+        a = int(ml2.group(1))
+        for lo, hi, cid, nm in (L12527[1:2] + L12527[0:1] + L12527[2:]):
+            if lo <= a <= hi: return (cid, nm)
+        return None
     m9 = re.match(r"A-L8429-(\d+)([A-Z]?)", atom)
     if m9:
         a = int(m9.group(1)); sf = m9.group(2)

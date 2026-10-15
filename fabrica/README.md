@@ -34,3 +34,9 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 - Item de doutrina/jurisprudência sem fonte textual: `risco` e `fonte.conferida="conhecimento"`; nunca `r=1` sem fonte citada.
 - A IA não marca `val.humana`; o usuário usa "Ruim" no site.
 - Registrar cada lote no README do repositório e em `ESTADO_PROJETO.md` (Drive).
+
+## L4 — Lei 12.527/2011 (LAI) — 2026-10-15
+166 itens (83 C / 83 E), tópico P1-M3-11, 11 campos `LAI-*`. Lint 0 alertas, resolução cega ok (divergência no art. 45 corrigida).
+
+## L5 — Lei 13.709/2018 (LGPD) — 2026-10-15
+224 itens (112 C / 112 E), tópico P1-M3-12, 13 campos `LGPD-*`, pares C/E por ponto (G01–G15). Lint 0 alertas; auditoria mecânica: 4 alertas, falsos positivos (números de lei); resolução cega por 2 agentes: 222/224 coerentes, 2 divergências (arts. 52, II e 55-D) conferidas contra o texto da lei — gabarito mantido. Itens da ANPD refletem a natureza de autarquia especial (Lei 14.460/22). `validada=false`.

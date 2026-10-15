@@ -1,0 +1,177 @@
+{
+ "parte": "Direito Administrativo — Lei 13.709/2018 (LGPD)",
+ "sigla": "L13709",
+ "topico": "P1-M3-12",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.12",
+ "nome_curto": "LGPD",
+ "fonte": {
+  "tipo": "lei",
+  "ref": "Lei 13.709/2018",
+  "versao": "Edição do Senado (Lei Geral de Proteção de Dados Pessoais) anexada pelo usuário; ANPD como autarquia de natureza especial",
+  "conferida": "pdf_usuario"
+ },
+ "nota_calibracao": "Incidência estimada pelo padrão Cebraspe; LGPD é cobrada na literalidade, com trocas de prazo, valor e autoridade.",
+ "pendencias": [
+  "conferir alterações posteriores à edição do PDF",
+  "regulamentos da ANPD (ex.: incidente de segurança, dosimetria) não incluídos"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "G01",
+   "titulo": "Objeto, fundamentos, âmbito e exceções (arts. 1º a 4º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "interesse nacional",
+    "exceções exclusivas",
+    "tratamento fora do território"
+   ]
+  },
+  {
+   "id": "G02",
+   "titulo": "Conceitos (art. 5º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "dado pessoal x sensível x anonimizado",
+    "controlador x operador x encarregado",
+    "consentimento"
+   ]
+  },
+  {
+   "id": "G03",
+   "titulo": "Princípios (art. 6º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "finalidade, adequação, necessidade",
+    "livre acesso, qualidade, transparência",
+    "segurança, prevenção, não discriminação, responsabilização"
+   ]
+  },
+  {
+   "id": "G04",
+   "titulo": "Bases legais e legítimo interesse (arts. 7º e 10)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "dez hipóteses",
+    "dados manifestamente públicos",
+    "legítimo interesse: estritamente necessários"
+   ]
+  },
+  {
+   "id": "G05",
+   "titulo": "Consentimento e informações ao titular (arts. 8º e 9º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "cláusula destacada",
+    "ônus do controlador",
+    "autorizações genéricas nulas",
+    "revogação gratuita"
+   ]
+  },
+  {
+   "id": "G06",
+   "titulo": "Dados sensíveis, anonimização e pesquisa (arts. 11 a 13)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "consentimento específico e destacado",
+    "hipóteses sem consentimento",
+    "saúde: vedação de vantagem econômica",
+    "seleção de riscos por planos"
+   ]
+  },
+  {
+   "id": "G07",
+   "titulo": "Crianças, adolescentes e término do tratamento (arts. 14 a 16)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "consentimento de um dos pais",
+    "coleta sem consentimento",
+    "eliminação e conservação"
+   ]
+  },
+  {
+   "id": "G08",
+   "titulo": "Direitos do titular (arts. 17 a 22)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "rol do art. 18",
+    "15 dias",
+    "portabilidade",
+    "revisão de decisões automatizadas"
+   ]
+  },
+  {
+   "id": "G09",
+   "titulo": "Tratamento pelo Poder Público (arts. 23 a 32)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "finalidade pública",
+    "encarregado",
+    "transferência a privados vedada, com exceções",
+    "empresas estatais"
+   ]
+  },
+  {
+   "id": "G10",
+   "titulo": "Transferência internacional de dados (arts. 33 a 36)",
+   "incidencia": "media",
+   "armadilhas": [
+    "países adequados",
+    "cláusulas-padrão",
+    "consentimento específico"
+   ]
+  },
+  {
+   "id": "G11",
+   "titulo": "Agentes de tratamento, encarregado e responsabilidade (arts. 37 a 45)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "solidariedade do operador",
+    "inversão do ônus",
+    "excludentes",
+    "relatório de impacto"
+   ]
+  },
+  {
+   "id": "G12",
+   "titulo": "Segurança, incidentes, boas práticas e governança (arts. 46 a 51)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "privacy by design",
+    "comunicação de incidente",
+    "programa de governança"
+   ]
+  },
+  {
+   "id": "G13",
+   "titulo": "Sanções administrativas (arts. 52 a 54)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "2% do faturamento limitado a 50 milhões",
+    "sem multa para o poder público",
+    "sanções de suspensão só após outra sanção"
+   ]
+  },
+  {
+   "id": "G14",
+   "titulo": "ANPD e Conselho Nacional (arts. 55-A a 55-M)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "autarquia de natureza especial",
+    "5 diretores, mandato de 4 anos",
+    "competências",
+    "aplicação exclusiva de sanções"
+   ]
+  },
+  {
+   "id": "G15",
+   "titulo": "Casos concretos integrados",
+   "incidencia": "alta",
+   "armadilhas": [
+    "combinação de artigos"
+   ]
+  }
+ ]
+}
