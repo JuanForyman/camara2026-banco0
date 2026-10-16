@@ -129,3 +129,6 @@ Prioridade de incidência, 2ª base (Taquígrafo 2012): `ferramentas/prioridade_
 ## Gabaritos e "Saiba mais" (auditoria v43)
 - Fase A (`ferramentas/refinar_gabaritos.py`): questões de lei/regimento → `c` = "ref: citação exata" e `s` = só o inciso/§/alínea pertinente; artigo completo recolhido.
 - Fase B (`ferramentas/saiba_conceitual.py` + `fabrica/gabaritos_b/{in,out}` + `ferramentas/aplicar_gabaritos_b.py`): questões conceituais (EN, FIA, GES, LIN, LP, POL, RCE, TI, ORG, CF/M8) → gabarito ≤25 palavras escrito por lote e `s` = 1–2 linhas da mini-aula do átomo mais ligadas ao item. Resultado em `dados/gabaritos_b.json`.
+
+## Site v44 (reengenharia)
+`site/app.tpl.html` + `motor/engine.js` → `python3 -I ferramentas/build_site.py` gera `site/index.html`. Abas: Hoje (contagem regressiva, projeção P1/P2, radar de alertas, foco, fase do plano), Treino (adaptativo, palpite, causa do erro), Erros (caderno com revisão espaçada 1/3/7/16 dias da própria questão + cartões de regra), Simulado (30/90 itens P1/P2, nota líquida, resultado por matéria), Painel (tendência semanal, matérias, palpites, causas). Mesmo esquema de dados (estado/*, eventos) + coleção `simulados`; progresso anterior migra sem conversão. Pesos por matéria em `WT` (estimativa).
