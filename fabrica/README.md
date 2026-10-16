@@ -77,3 +77,6 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ### L15 — Fala, Transcrição e IA (FIA: 314 itens, P2-M7, 25 tópicos 1.1–4.3)
 25 átomos doutrinários (um por tópico do edital 7), ~12 itens por tópico, ~50% C/E. Fonte: conhecimento técnico (ASR, Whisper, CTC/RNN-T, diarização, degravação, HITL, busca semântica/RAG) e LGPD/Lei 9.610/1998 (arts. citados marcados lei=True, ainda a conferir no texto oficial). Lint 0; resolução cega embaralhada: 1 divergência em 314 (item de ITN, gabarito mantido). Pendências: padrão de formatação parlamentar da Câmara não verificado em manual oficial; sem itens reais da banca.
+
+### L16 — Linguística (LIN: 558 itens, P2-M6, 13 tópicos 6.1–6.13)
+13 átomos doutrinários (signo, categorias semânticas, leitura/coesão, recursos de produção, enunciação/AD, gêneros/tipologia, variação, gramática, funções, retórica e figuras, redação oficial, lógica, LC 95/1998) apoiados nas anotações do usuário (Drive "6. LINGUÍSTICA"). Lint 0; resolução cega embaralhada em duas metades: 4 divergências em 558; 1 item reescrito (partes da retórica, ambíguo), 3 mantidos (LC 95 art. 6º, 11 II f, 12 III; resolvedor errou). Pendências: texto da LC 95 e do Manual de Redação (3ª ed.) de memória, conferir no Planalto; itens de doutrina sem texto-fonte.

@@ -1,0 +1,147 @@
+{
+ "parte": "Linguística (P2, edital 6)",
+ "sigla": "LIN",
+ "topico": "P2-M6-1",
+ "materia": "Linguística",
+ "bloco": "P2",
+ "item_edital": "6.1",
+ "nome_curto": "Linguística",
+ "fonte": {
+  "tipo": "doutrina_lei",
+  "ref": "Saussure; Benveniste; Bakhtin; Ducrot; Marcuschi; Koch; Jakobson; Manual de Redação da Presidência (3ª ed., 2018); LC 95/1998 (alterada pela LC 107/2001); anotações do usuário (Drive)",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "nota_calibracao": "Matéria de P2 (Linguística, 13 itens do edital). Cebraspe cobra definições e distinções finas (denotação x conotação, coesão x coerência, gênero x tipo, norma-padrão x norma culta) e literalidade da LC 95. Não reproduz questões reais.",
+ "pendencias": [
+  "LC 95/1998: texto redigido de memória; conferir arts. 8º, 10, 11, 12 e 13 no Planalto",
+  "Manual de Redação 3ª ed.: conferir fechos, destinatários de aviso/ofício/memorando e pronomes de tratamento",
+  "itens de doutrina por conhecimento"
+ ],
+ "descartar_tags": [],
+ "rotulos": {
+  "1": "Teoria do signo linguístico",
+  "2": "Categorias semânticas",
+  "3": "Leitura: coesão, inferência e relações de sentido",
+  "4": "Recursos de produção de textos",
+  "5": "Enunciação e análise do discurso",
+  "6": "Gêneros discursivos, tipologia e processos textuais",
+  "7": "Linguagem e variação linguística",
+  "8": "Língua e gramática",
+  "9": "Funções da linguagem",
+  "10": "Retórica e figuras de linguagem",
+  "11": "Comunicações oficiais, pronomes de tratamento e reduções ortográficas",
+  "12": "Noções básicas de lógica",
+  "13": "Técnica legislativa: LC 95/1998"
+ },
+ "pontos": [
+  {
+   "id": "L01",
+   "titulo": "Teoria do signo linguístico",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L02",
+   "titulo": "Categorias semânticas",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L03",
+   "titulo": "Leitura: coesão, inferência e relações de sentido",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L04",
+   "titulo": "Recursos de produção de textos",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L05",
+   "titulo": "Enunciação e análise do discurso",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L06",
+   "titulo": "Gêneros discursivos, tipologia e processos textuais",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L07",
+   "titulo": "Linguagem e variação linguística",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L08",
+   "titulo": "Língua e gramática",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L09",
+   "titulo": "Funções da linguagem",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L10",
+   "titulo": "Retórica e figuras de linguagem",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L11",
+   "titulo": "Comunicações oficiais, pronomes de tratamento e reduções ortográficas",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L12",
+   "titulo": "Noções básicas de lógica",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "L13",
+   "titulo": "Técnica legislativa: LC 95/1998",
+   "incidencia": "alta",
+   "armadilhas": []
+  }
+ ],
+ "topico_por_ponto": {
+  "L01": "P2-M6-1",
+  "L02": "P2-M6-2",
+  "L03": "P2-M6-3",
+  "L04": "P2-M6-4",
+  "L05": "P2-M6-5",
+  "L06": "P2-M6-6",
+  "L07": "P2-M6-7",
+  "L08": "P2-M6-8",
+  "L09": "P2-M6-9",
+  "L10": "P2-M6-10",
+  "L11": "P2-M6-11",
+  "L12": "P2-M6-12",
+  "L13": "P2-M6-13"
+ },
+ "item_edital_por_ponto": {
+  "L01": "6.1",
+  "L02": "6.2",
+  "L03": "6.3",
+  "L04": "6.4",
+  "L05": "6.5",
+  "L06": "6.6",
+  "L07": "6.7",
+  "L08": "6.8",
+  "L09": "6.9",
+  "L10": "6.10",
+  "L11": "6.11",
+  "L12": "6.12",
+  "L13": "6.13"
+ }
+}

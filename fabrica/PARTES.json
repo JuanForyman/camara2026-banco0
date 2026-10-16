@@ -462,132 +462,132 @@
     {
      "id": "P2-M6-1",
      "titulo": "Signo linguístico",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 34,
+     "itens_aprovados_v3": 34,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-2",
      "titulo": "Categorias semânticas",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 24,
+     "itens_aprovados_v3": 24,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-3",
      "titulo": "Leitura: coesão, inferência e relações de sentido",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 64,
+     "itens_aprovados_v3": 64,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-4",
      "titulo": "Recursos de produção de textos",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 22,
+     "itens_aprovados_v3": 22,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-5",
      "titulo": "Enunciação e análise do discurso",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 34,
+     "itens_aprovados_v3": 34,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-6",
      "titulo": "Gêneros discursivos, tipologia e processos textuais",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 34,
+     "itens_aprovados_v3": 34,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-7",
      "titulo": "Linguagem e variação linguística",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 34,
+     "itens_aprovados_v3": 34,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-8",
      "titulo": "Língua e gramática",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 24,
+     "itens_aprovados_v3": 24,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-9",
      "titulo": "Funções da linguagem",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 32,
+     "itens_aprovados_v3": 32,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-10",
      "titulo": "Retórica e figuras de linguagem",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 54,
+     "itens_aprovados_v3": 54,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-11",
      "titulo": "Comunicações oficiais, pronomes de tratamento e reduções ortográficas",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 50,
+     "itens_aprovados_v3": 50,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-12",
      "titulo": "Noções básicas de lógica",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 52,
+     "itens_aprovados_v3": 52,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     },
     {
      "id": "P2-M6-13",
      "titulo": "Técnica Legislativa: LC 95/1998",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 100,
+     "itens_aprovados_v3": 100,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento (doutrina; Manual de Redação; LC 95/1998 de memória)",
+     "blueprint": "lin.json",
+     "status": "lote_L16"
     }
    ]
   },
