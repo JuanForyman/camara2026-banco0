@@ -433,7 +433,7 @@ function pickMods(list){
   w[m]=base*(1+weak);ws+=w[m]}
  return mods.map(m=>[w[m]/ws-(cnt[m]||0)/tot+(Math.random()-0.5)*0.03,m]).sort((x,y)=>y[0]-x[0]).map(x=>x[1]);
 }
-function newSess(o){return{mode:o.mode||"misto",f:{blk:o.blk||"",mod:o.mod||"",top:o.top||""},k:0,n:0,ok:0,er:0,bl:0,t0:now(),mods:{},novos:0}}
+function newSess(o){return{mode:o.mode||"misto",f:{blk:o.blk||"",mod:o.mod||"",top:o.top||""},k:0,n:0,ok:0,er:0,bl:0,t0:now(),mods:{},novos:0,sprint:o.sprint||0}}
 function go(o){sess=newSess(o||{});cur=null;answered=null;view="treino";render();window.scrollTo(0,0)}
 /* ---------- ações do treino ---------- */
 function answer(r){
@@ -449,7 +449,8 @@ function answer(r){
 }
 function mark(k){if(!cur||!answered)return;const s=S(cur);s.m[k]=!s.m[k];if(!s.m[k])delete s.m[k];s.u=now();persist(cur.id);if(k==="lix"&&s.m.lix){next();return}render()}
 function causa(k){if(!cur||!answered||answered.acertou)return;const s=S(cur);s.cz=s.cz||{};if(s.last_cz){s.cz[s.last_cz]=Math.max(0,(s.cz[s.last_cz]||0)-1)}s.cz[k]=(s.cz[k]||0)+1;s.last_cz=k;s.u=now();persist(cur.id);render()}
-function next(){cur=pickNext();answered=null;palp=false;tq0=now();render();window.scrollTo(0,0)}
+function sprintLeft(){return sess&&sess.sprint?Math.max(0,sess.sprint*1000-(now()-sess.t0)):1}
+function next(){if(sess&&sess.sprint&&sprintLeft()<=0){cur=null;answered=null;sess.ended=true;render();window.scrollTo(0,0);return}cur=pickNext();answered=null;palp=false;tq0=now();render();window.scrollTo(0,0)}
 /* ---------- renderização ---------- */
 function fullHtml(q){return(q.a||[]).map(id=>{const a=ART[id];if(!a)return"";return`<h4>${esc(a.t)}</h4>`+a.x.map(l=>`<p>${esc(l)}</p>`).join("")}).join("")||`<p>Sem texto vinculado.</p>`}
 function artHtml(q){
@@ -483,7 +484,7 @@ function vHoje(){
  <p class="nota">Marca amarela: meta provisória de ${pct(M.pp)} líquido, estimada pela prova anterior. A projeção usa suas últimas 40 respostas por matéria e fica em 0% onde você ainda não respondeu.</p></div>
  <div class="row"><button class="btn pri big" data-go="{}">Continuar treino</button>
  ${due?`<button class="btn" data-go='{"mode":"erros"}'>Refazer erros vencidos (${due})</button>`:""}
- <button class="btn" data-nav="sim">Fazer simulado</button></div></section>`;
+ <button class="btn" data-go='{"sprint":300}'>⚡ Relâmpago 5 min</button><button class="btn" data-nav="sim">Fazer simulado</button></div></section>`;
  if(ins.length)h+=`<section class="radar">${ins.map(x=>`<div class="ins ${x.k}"><span class="i">${x.i}</span><span>${esc(x.t)}</span>${x.a?`<button class="btn sm" data-ins='${JSON.stringify(x.a)}'>${x.b}</button>`:"<span></span>"}</div>`).join("")}</section>`;
  h+=`<div class="grid2"><section class="card"><div class="lbl">Onde treinar primeiro</div><div class="foco">${EV.length<5?`<p class="nota">Responda algumas questões e o site passa a apontar as matérias com mais pontos a ganhar.</p>`:foco.map(({o})=>`<div class="f"><div><b>${esc(o.m)}</b> <span class="chip ${o.b==="P1"?"p1":"p2"}">${o.b}</span><div class="nota">líquido ${pct(Math.max(0,o.liq))} · vistas ${pct(o.cov1)} das de alta incidência</div></div><button class="btn sm" data-go='${JSON.stringify({mod:o.m})}'>Treinar</button></div>`).join("")}</div></section>
  <section class="card"><div class="lbl">Fase atual: ${ph.n}</div><p style="margin:6px 0 8px">${ph.txt}</p>${ph.n==="Cobertura"?`<p class="nota"><b class="num">${unseen1}</b> questões de maior incidência ainda não vistas. Para ver todas até 15/11 são <b class="num">${Math.ceil(unseen1/dFase)}</b> por dia.</p>`:`<p class="nota">Meta: caderno de erros vazio e um simulado por semana.</p>`}</section></div>
@@ -498,7 +499,7 @@ function vTreino(){
  const mods=[...new Set(Q.map(mod))];
  const sel=`<select id="fScope" aria-label="Escopo do treino"><option value="">Todas as matérias</option><option value="blk:P1" ${f.blk==="P1"?"selected":""}>Só Prova 1</option><option value="blk:P2" ${f.blk==="P2"?"selected":""}>Só Prova 2</option>${mods.map(m=>`<option value="mod:${esc(m)}" ${f.mod===m?"selected":""}>${esc(m)}</option>`).join("")}</select>`;
  const liq=sess.ok-sess.er;
- let h=`<div class="sbar"><span class="row">${sel}<select id="fMode" aria-label="Modo"><option value="misto" ${sess.mode==="misto"?"selected":""}>Adaptativo</option><option value="erros" ${sess.mode==="erros"?"selected":""}>Só caderno de erros</option></select></span><span>sessão <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`;
+ let h=sess.sprint?`<div class="sbar"><span class="row"><b>⚡ Relâmpago</b> <span class="num" id="spT">${fmtT(sprintLeft())}</span></span><span>respondidas <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`:`<div class="sbar"><span class="row">${sel}<select id="fMode" aria-label="Modo"><option value="misto" ${sess.mode==="misto"?"selected":""}>Adaptativo</option><option value="erros" ${sess.mode==="erros"?"selected":""}>Só caderno de erros</option></select></span><span>sessão <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`;
  if(!cur){
   return h+`<div class="card vazio">${sess.mode==="erros"?"Caderno de erros em dia. Nenhuma questão errada vence agora.":"Nenhuma questão neste filtro."}</div>`+(sess.n?sessResumo():"");
  }
@@ -522,7 +523,14 @@ function vTreino(){
 }
 function sessResumo(){
  const liq=sess.ok-sess.er,min=Math.max(1,Math.round((now()-sess.t0)/60000));
- return`<section class="card"><div class="lbl">Resumo da sessão</div><h2 style="margin:6px 0">${sess.n} respondidas em ${min} min</h2><p>Acertos ${sess.ok}, erros ${sess.er}, em branco ${sess.bl}. Líquido <b>${liq>0?"+":""}${liq}</b>. Matérias: ${Object.keys(sess.mods).join(", ")||"nenhuma"}.</p>${sess.er?`<p class="nota">${sess.er} ${sess.er===1?"erro entrou":"erros entraram"} no caderno e voltam a partir de amanhã.</p>`:""}<div class="row"><button class="btn pri" data-nav="hoje">Voltar ao início</button><button class="btn" data-go="{}">Nova sessão</button></div></section>`;
+ let sp="";
+ if(sess.sprint&&sess.n){
+  const B=lsGet("camara.sprint.best")||{liq:-99,n:0};const rec=liq>B.liq||(liq===B.liq&&sess.n>B.n);
+  if(rec&&!sess.rec){sess.rec=1;lsPut("camara.sprint.best",{liq,n:sess.n,t:now()})}
+  const ritmo=(sess.n/Math.max(0.5,(Math.min(now(),sess.t0+sess.sprint*1000+120000)-sess.t0)/60000)).toFixed(1);
+  sp=`<p style="margin:6px 0"><b>⚡ Relâmpago:</b> ${ritmo} questões por minuto. ${sess.rec?"Novo recorde de líquido.":"Seu recorde: líquido "+(B.liq>0?"+":"")+B.liq+" em "+B.n+" questões."}</p>`;
+ }
+ return`<section class="card"><div class="lbl">Resumo da sessão</div><h2 style="margin:6px 0">${sess.n} respondidas em ${min} min</h2>${sp}<p>Acertos ${sess.ok}, erros ${sess.er}, em branco ${sess.bl}. Líquido <b>${liq>0?"+":""}${liq}</b>. Matérias: ${Object.keys(sess.mods).join(", ")||"nenhuma"}.</p>${sess.er?`<p class="nota">${sess.er} ${sess.er===1?"erro entrou":"erros entraram"} no caderno e voltam a partir de amanhã.</p>`:""}<div class="row"><button class="btn pri" data-nav="hoje">Voltar ao início</button><button class="btn" data-go="{}">Nova sessão</button></div></section>`;
 }
 /* ---------- caderno de erros ---------- */
 function ruleOf(q){const c=q.c||"";return c.length>230?c.slice(0,227)+"…":c}
@@ -701,5 +709,11 @@ document.addEventListener("keydown",e=>{
   if(k==="c")simAns("C");else if(k==="e")simAns("E");else if(k==="arrowright"||k==="n")simGo(SIM.i+1);else if(k==="arrowleft"||k==="p")simGo(SIM.i-1);
  }
 });
+setInterval(()=>{
+ if(view!=="treino"||!sess||!sess.sprint||sess.ended)return;
+ const el=document.getElementById("spT");if(!el)return;
+ const l=sprintLeft();el.textContent=l>0?fmtT(l):"tempo! termine esta";
+ el.style.color=l>0&&l<30000?"var(--err)":"";
+},500);
 load().catch(e=>{$("app").innerHTML='<div class="vazio">Erro ao carregar o banco: '+esc(e.message)+'</div>'});
 </script>
