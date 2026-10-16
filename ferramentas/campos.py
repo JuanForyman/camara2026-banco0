@@ -109,6 +109,8 @@ FIA = {1: ('FIA-asr', 'Fala e IA: reconhecimento automático de fala'), 2: ('FIA
 for _i in range(1,26): FIA[25+_i] = FIA[_i]
 
 LIN = {1: ('LIN-signo', 'Linguística: signo e categorias semânticas'), 2: ('LIN-signo', 'Linguística: signo e categorias semânticas'), 3: ('LIN-texto', 'Linguística: leitura e produção de textos'), 4: ('LIN-texto', 'Linguística: leitura e produção de textos'), 5: ('LIN-discurso', 'Linguística: enunciação, discurso e gêneros'), 6: ('LIN-discurso', 'Linguística: enunciação, discurso e gêneros'), 7: ('LIN-variacao', 'Linguística: variação e gramática'), 8: ('LIN-variacao', 'Linguística: variação e gramática'), 9: ('LIN-expressao', 'Linguística: funções da linguagem e figuras'), 10: ('LIN-expressao', 'Linguística: funções da linguagem e figuras'), 11: ('LIN-oficial', 'Redação oficial'), 12: ('LIN-logica', 'Noções de lógica'), 13: ('LIN-lc95', 'Técnica legislativa: LC 95/1998')}
+for _i in range(14,18): LIN[_i] = LIN[11]
+for _i in range(18,22): LIN[_i] = LIN[13]
 
 TI = {1: ('TI-office', 'TI: Microsoft 365'), 2: ('TI-redes', 'TI: redes e Internet'), 3: ('TI-comunicacao', 'TI: e-mail, Teams e Meet'), 4: ('TI-seguranca', 'TI: segurança da informação'), 5: ('TI-ia', 'TI: inteligência artificial'), 6: ('TI-etica', 'TI: ética e responsabilidade digital'), 7: ('TI-dados', 'TI: dados'), 8: ('TI-visualizacao', 'TI: visualização de dados')}
 
