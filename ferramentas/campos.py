@@ -49,7 +49,23 @@ L13709 = [(1,4,"LGPD-disp","LGPD: objeto, âmbito, fundamentos e conceitos (arts
  (46,51,"LGPD-seg","LGPD: segurança, incidentes e governança (arts. 46 a 51)"),(52,54,"LGPD-sanc","LGPD: sanções administrativas (arts. 52 a 54)"),(55,99,"LGPD-anpd","LGPD: ANPD e CNPD (arts. 55-A a 55-L, 58-A, 58-B)")]
 D9203 = [(1,2,"D9203-conc","Decreto 9.203: objeto e conceitos (arts. 1º e 2º)"),(3,4,"D9203-princ","Decreto 9.203: princípios e diretrizes (arts. 3º e 4º)"),(5,6,"D9203-mec","Decreto 9.203: mecanismos e dever da alta administração (arts. 5º e 6º)"),
  (7,16,"D9203-cig","Decreto 9.203: CIG e comitês internos (arts. 7º-A a 16)"),(17,18,"D9203-risco","Decreto 9.203: gestão de riscos e auditoria interna (arts. 17 e 18)"),(19,21,"D9203-integ","Decreto 9.203: programa de integridade (art. 19)")]
+L14133 = [(1,4,"L14133-ambito","Lei 14.133: âmbito, objetivos e princípios (arts. 1º a 5º)"),(5,5,"L14133-ambito","Lei 14.133: âmbito, objetivos e princípios (arts. 1º a 5º)"),(6,6,"L14133-def","Lei 14.133: definições (art. 6º)"),(7,10,"L14133-agentes","Lei 14.133: agentes públicos e dever de motivar (arts. 7º a 10)"),
+ (11,17,"L14133-proc","Lei 14.133: processo licitatório, objetivos e fases (arts. 11 a 17)"),(18,22,"L14133-prep","Lei 14.133: fase preparatória e matriz de riscos (arts. 18 a 22)"),(23,24,"L14133-valor","Lei 14.133: valor estimado e orçamento sigiloso (arts. 23 e 24)"),
+ (25,27,"L14133-edital","Lei 14.133: edital, divulgação e preferências (arts. 25 a 27)"),(28,32,"L14133-mod","Lei 14.133: modalidades e diálogo competitivo (arts. 28 a 32)"),(33,39,"L14133-crit","Lei 14.133: critérios de julgamento (arts. 33 a 39)"),
+ (40,47,"L14133-compras","Lei 14.133: compras, obras e regimes de execução (arts. 40 a 52)"),(48,52,"L14133-compras","Lei 14.133: compras, obras e regimes de execução (arts. 40 a 52)"),(53,54,"L14133-juridico","Lei 14.133: controle prévio e divulgação (arts. 53 e 54)"),
+ (55,58,"L14133-apres","Lei 14.133: apresentação de propostas, prazos e garantia de proposta (arts. 55 a 58)"),(59,60,"L14133-julg","Lei 14.133: julgamento, desclassificação e desempate (arts. 59 e 60)"),(61,71,"L14133-hab","Lei 14.133: negociação, habilitação e encerramento (arts. 61 a 71)"),
+ (72,75,"L14133-direta","Lei 14.133: contratação direta (arts. 72 a 75)"),(76,77,"L14133-alien","Lei 14.133: alienação de bens (arts. 76 e 77)"),(78,88,"L14133-aux","Lei 14.133: procedimentos auxiliares (arts. 78 a 88)"),
+ (89,102,"L14133-contrato","Lei 14.133: formalização, garantias e instrumento (arts. 89 a 102)"),(103,104,"L14133-risco","Lei 14.133: matriz de riscos e prerrogativas (arts. 103 e 104)"),(105,114,"L14133-dur","Lei 14.133: duração dos contratos (arts. 105 a 114)"),
+ (115,123,"L14133-exec","Lei 14.133: execução, fiscalização e responsabilidades (arts. 115 a 123)"),(124,139,"L14133-alt","Lei 14.133: alterações, equilíbrio e extinção (arts. 124 a 139)"),(140,146,"L14133-rec","Lei 14.133: recebimento e pagamento (arts. 140 a 146)"),
+ (147,154,"L14133-nul","Lei 14.133: nulidade e meios alternativos (arts. 147 a 154)"),(155,163,"L14133-sanc","Lei 14.133: infrações e sanções (arts. 155 a 163)"),(164,168,"L14133-recurso","Lei 14.133: impugnação e recursos (arts. 164 a 168)"),(169,173,"L14133-ctrl","Lei 14.133: controle das contratações (arts. 169 a 173)"),
+ (174,200,"L14133-fim","Lei 14.133: PNCP e disposições finais (arts. 174 a 194)")]
 def campo(atom):
+    m14 = re.match(r"A-L14133-(\d+)", atom)
+    if m14:
+        a = int(m14.group(1))
+        for lo, hi, cid, nm in L14133:
+            if lo <= a <= hi: return (cid, nm)
+        return None
     md = re.match(r"A-D9203-(\d+)", atom)
     if md:
         a = int(md.group(1))

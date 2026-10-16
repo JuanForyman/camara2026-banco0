@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "atualizado": "2026-10-15",
+ "atualizado": "2026-10-16",
  "nota": "itens_atuais = banco legado (qualidade não auditada no padrão v3). itens_aprovados_v3 = passaram todos os gates da Fábrica. meta = alvo inicial por tópico, ajustar pelo peso.",
  "partes": [
   {
@@ -209,11 +209,11 @@
      "id": "P1-M3-10",
      "titulo": "Licitações e Contratos (Lei 14.133/2021)",
      "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_aprovados_v3": 654,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "Lei 14.133/2021 esquematizada (Herbert Almeida, 4ª ed., até 2023), conferida pelo PDF do usuário",
+     "blueprint": "fabrica/blueprints/l14133.json",
+     "status": "em_andamento"
     },
     {
      "id": "P1-M3-11",
