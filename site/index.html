@@ -27,6 +27,7 @@ header{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:va
 .brand i{font-style:normal;color:var(--acc)}
 nav{display:flex;gap:2px;min-width:0}
 nav button{background:none;border:0;border-bottom:3px solid transparent;padding:6px 9px;color:var(--mut);font-weight:500;position:relative}
+@media (max-width:460px){nav{overflow-x:auto;scrollbar-width:none}nav button{padding:6px 7px;font-size:.88rem;white-space:nowrap}}
 nav button[aria-current="true"]{color:var(--fg);border-color:var(--acc);font-weight:600}
 nav button .dot{position:absolute;top:-3px;right:-7px;min-width:17px;height:17px;border-radius:9px;background:var(--err);color:#fff;font:600 .65rem/17px var(--f-mono);text-align:center;padding:0 4px}
 main{max-width:780px;margin:0 auto;padding-block:18px 56px;display:grid;gap:14px}
@@ -122,6 +123,18 @@ details.full{margin-top:10px}details.full summary{color:var(--mut);font-size:.85
 .sim-grid button[data-s="C"],.sim-grid button[data-s="E"]{background:var(--accbg);border-color:var(--acc)}
 .sim-grid button[data-s="B"]{background:var(--warnbg);border-color:var(--warn)}
 .sim-grid button[aria-current="true"]{outline:2px solid var(--fg)}
+.hm{display:grid;grid-template-columns:repeat(auto-fill,minmax(138px,1fr));gap:6px}
+.hm button{text-align:left;border:1px solid var(--line);background:var(--card);border-radius:8px;padding:8px 9px;display:grid;gap:3px;min-height:74px;align-content:space-between;font-size:.8rem;line-height:1.25;color:var(--fg)}
+.hm button .tt{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.hm button .st{font:.68rem var(--f-mono);color:var(--mut)}
+.hm button[data-l="1"]{background:color-mix(in srgb,var(--err) 26%,var(--card));border-color:var(--err)}
+.hm button[data-l="2"]{background:color-mix(in srgb,var(--warn) 28%,var(--card));border-color:var(--warn)}
+.hm button[data-l="3"]{background:color-mix(in srgb,var(--ok) 14%,var(--card));border-color:color-mix(in srgb,var(--ok) 50%,var(--line))}
+.hm button[data-l="4"]{background:color-mix(in srgb,var(--ok) 34%,var(--card));border-color:var(--ok)}
+.hm button[data-l="0"]{border-style:dashed}
+.hm button:hover{outline:2px solid var(--fg)}
+.hleg{display:flex;gap:10px;flex-wrap:wrap;font:.7rem var(--f-mono);color:var(--mut)}
+.hleg i{display:inline-block;width:11px;height:11px;border-radius:3px;border:1px solid var(--line);vertical-align:-1px;margin-right:4px}
 table{border-collapse:collapse;width:100%;font-size:.88rem}
 th,td{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:middle}
 th{font:500 .68rem var(--f-mono);color:var(--mut);text-transform:uppercase;letter-spacing:.05em}
@@ -458,14 +471,14 @@ function artHtml(q){
  return q.s.map(b=>`<h4>${esc(b.t)}</h4>`+(b.c?`<p class="cab">${esc(b.c)}</p>`:"")+b.l.map(l=>`<p class="sel">${esc(l)}</p>`).join("")).join("")+`<details class="full"><summary>Texto completo do artigo ou da aula</summary>${fullHtml(q)}</details>`;
 }
 function crumb(q){const T=TOP[q.t]||{};return`<div class="crumb"><span class="chip ${blk(q)==="P1"?"p1":"p2"}">${blk(q)}</span>${esc(mod(q))} <span>›</span> ${esc(T.t||q.t)}${q.f&&CAMPO[q.f]?` <span>›</span> <em>${esc(CAMPO[q.f])}</em>`:""}</div>`}
-const NAV=[["hoje","Hoje"],["treino","Treino"],["erros","Erros"],["sim","Simulado"],["painel","Painel"]];
+const NAV=[["hoje","Hoje"],["treino","Treino"],["erros","Erros"],["sim","Simulado"],["mapa","Mapa"],["painel","Painel"]];
 function drawNav(){
  const d=dueList().length+cardList().length;
  $("nav").innerHTML=NAV.map(([k,l])=>`<button data-nav="${k}" aria-current="${view===k}">${l}${k==="erros"&&d?`<span class="dot">${d>99?"99+":d}</span>`:""}</button>`).join("");
 }
 function render(){
  drawNav();if(!Q.length)return;
- const f={hoje:vHoje,treino:vTreino,erros:vErros,sim:vSim,painel:vPainel}[view];
+ const f={hoje:vHoje,treino:vTreino,erros:vErros,sim:vSim,mapa:vMapa,painel:vPainel}[view];
  $("app").innerHTML=f();
 }
 function gaugeRow(lb,v,cls,meta){const w=Math.max(0,Math.min(100,100*v));return`<div class="g"><span class="lbl">${lb}</span><div class="track ${cls}"><i style="width:${w}%"></i><u style="left:${100*meta}%"></u></div><span class="num">${v<=0?"0%":pct(v)}</span></div>`}
@@ -645,6 +658,30 @@ function trendSvg(w,meta){
  let line="",area="",first=null,last=null;const ok=pts.filter(Boolean);
  if(ok.length){line=ok.map((p,i)=>(i?"L":"M")+p.x.toFixed(1)+" "+p.y.toFixed(1)).join(" ");area=line+` L${ok[ok.length-1].x.toFixed(1)} ${H-pb} L${ok[0].x.toFixed(1)} ${H-pb} Z`;last=ok[ok.length-1]}
  return`<svg viewBox="0 0 ${W} ${H}" width="100%" role="img" aria-label="Líquido por semana"><line class="gd" x1="${pl}" x2="${W-pr}" y1="${ys(0)}" y2="${ys(0)}"/><line class="mt" x1="${pl}" x2="${W-pr}" y1="${ys(meta)}" y2="${ys(meta)}"/><text x="2" y="${ys(0)+3}">0%</text><text x="2" y="${ys(meta)+3}">${Math.round(meta*100)}</text><text x="${pl}" y="${H-3}">há 8 sem.</text><text x="${W-pr-24}" y="${H-3}">esta sem.</text>${area?`<path class="ar" d="${area}"/><path class="ln" d="${line}"/>`:""}${last?`<circle class="pt" cx="${last.x}" cy="${last.y}" r="3.5"/>`:""}</svg>`;
+}
+function topStats(){
+ const by={};
+ for(const id of Object.keys(TOP))by[id]={id,n:0,seen:0,rec:[],due:0};
+ for(const q of Q){const o=by[q.t];if(!o||S(q).m.lix)continue;o.n++;if(QH[q.id])o.seen++}
+ for(const e of EV){if(e.ok!==true&&e.ok!==false)continue;const o=by[e.top];if(o)o.rec.push(e.ok?1:0)}
+ for(const q of dueList()){const o=by[q.t];if(o)o.due++}
+ for(const o of Object.values(by)){const r=o.rec.slice(-10),sm=r.reduce((a,b)=>a+b,0);o.k=o.rec.length;o.liq=2*((sm+1)/(r.length+2))-1;o.raw=r.length?sm/r.length:0}
+ return by;
+}
+function vMapa(){
+ const by=topStats(),M=Motor.META;
+ const lv=o=>o.k<3?0:o.liq>=M.pp?4:o.liq>=0.4?3:o.liq>=0.15?2:1;
+ const mods={};
+ for(const o of Object.values(by)){const t=TOP[o.id];if(!t)continue;const m=SH[t.m]||t.m;(mods[m]=mods[m]||{b:t.b,l:[]}).l.push(o)}
+ const ord=Object.entries(mods).sort((a,b)=>(a[1].b>b[1].b?1:a[1].b<b[1].b?-1:0)||(((WT[b[1].b]||{})[b[0]]||0)-((WT[a[1].b]||{})[a[0]]||0)));
+ const all=Object.values(by),cnt=[0,0,0,0,0];all.forEach(o=>cnt[lv(o)]++);
+ let h=`<section class="card"><div class="lbl">Mapa de calor do edital</div><p style="margin:6px 0 8px">${all.length} tópicos. Cor pelo seu líquido nas últimas 10 respostas de cada tópico. Toque num quadrado para treinar só ele.</p>
+ <div class="hleg"><span><i style="background:var(--card);border-style:dashed"></i>pouco dado (${cnt[0]})</span><span><i style="background:color-mix(in srgb,var(--err) 26%,var(--card))"></i>fraco (${cnt[1]})</span><span><i style="background:color-mix(in srgb,var(--warn) 28%,var(--card))"></i>instável (${cnt[2]})</span><span><i style="background:color-mix(in srgb,var(--ok) 14%,var(--card))"></i>quase (${cnt[3]})</span><span><i style="background:color-mix(in srgb,var(--ok) 34%,var(--card))"></i>na meta ${pct(M.pp)} (${cnt[4]})</span></div></section>`;
+ for(const [m,g] of ord){
+  const L=g.l.slice().sort((a,b)=>lv(a)-lv(b)||b.n-a.n);
+  h+=`<section class="card"><div class="lbl">${esc(m)} <span class="chip ${g.b==="P1"?"p1":"p2"}">${g.b}</span></div><div class="hm" style="margin-top:8px">${L.map(o=>{const t=TOP[o.id];return`<button data-go='${JSON.stringify({top:o.id})}' data-l="${lv(o)}" title="${esc(t.t)}"><span class="tt">${esc(t.t)}</span><span class="st">${o.k?pct(Math.max(0,o.liq))+" líq · "+o.k+" resp":"sem respostas"} · ${o.seen}/${o.n}${o.due?" · "+o.due+" a rever":""}</span></button>`}).join("")}</div></section>`;
+ }
+ return h;
 }
 function vPainel(){
  const S0=stats(),M=Motor.META,R=Motor.readiness(Q.filter(q=>!S(q).m.lix),EV,now()),wk=weekly(),ch=chutes(),cz=causas(),ms=medMs();
