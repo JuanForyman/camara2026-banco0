@@ -1,0 +1,78 @@
+{
+ "parte": "Língua Inglesa (P1, edital 2)",
+ "sigla": "EN",
+ "topico": "P1-M2-1",
+ "materia": "Língua Inglesa",
+ "bloco": "P1",
+ "item_edital": "2",
+ "nome_curto": "EN",
+ "fonte": {
+  "tipo": "gramatica",
+  "ref": "gramática da língua inglesa (Murphy; Swan; Oxford/Longman) e vocabulário geral",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "nota_calibracao": "Língua Inglesa de P1 (edital 2). Pesos: em prova recente da Câmara (Cebraspe, 180 itens), inglês teve 10 itens, em vocabulário e interpretação. Itens curtos em inglês (frase ou microtexto até ~40 palavras), gabarito em português curto e mini-aula por átomo; usuário é iniciante. Não reproduz questões reais.",
+ "pendencias": [
+  "Gramática e vocabulário por conhecimento do autor; sem consulta a provas reais"
+ ],
+ "descartar_tags": [],
+ "rotulos": {
+  "1": "Falsos cognatos mais cobrados",
+  "2": "Conectores e relações de sentido",
+  "3": "Tempos verbais e sentido",
+  "4": "Verbos modais",
+  "5": "Condicionais e wish",
+  "6": "Voz passiva e causativa",
+  "7": "Discurso indireto",
+  "8": "Pronomes relativos e referentes",
+  "9": "Quantificadores e comparativos",
+  "10": "Negação e advérbios de frequência",
+  "11": "Phrasal verbs mais cobrados",
+  "12": "Prefixos e sufixos",
+  "13": "Vocabulário legislativo e institucional",
+  "14": "Leitura: ideia principal e detalhes",
+  "15": "Leitura: inferência, referência e tom",
+  "16": "Formas contemporâneas do inglês",
+  "17": "Números, porcentagens e tendências",
+  "18": "Gerúndio, infinitivo, imperativo, subjuntivo, tags e genitivo"
+ },
+ "pontos": [
+  {
+   "id": "EN01",
+   "titulo": "Compreensão de textos",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "EN02",
+   "titulo": "Itens gramaticais para o sentido",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "EN03",
+   "titulo": "Vocabulário e formação de palavras",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "EN04",
+   "titulo": "Formas contemporâneas do inglês",
+   "incidencia": "media",
+   "armadilhas": []
+  }
+ ],
+ "topico_por_ponto": {
+  "EN01": "P1-M2-1",
+  "EN02": "P1-M2-2",
+  "EN03": "P1-M2-1",
+  "EN04": "P1-M2-3"
+ },
+ "item_edital_por_ponto": {
+  "EN01": "2.1",
+  "EN02": "2.2",
+  "EN03": "2.1",
+  "EN04": "2.3"
+ }
+}

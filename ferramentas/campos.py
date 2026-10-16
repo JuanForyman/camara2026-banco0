@@ -132,10 +132,20 @@ LP[40] = ('LP-tipologia', 'Português: tipos e gêneros textuais')
 LP[41] = ('LP-ortografia', 'Português: ortografia e acentuação')
 for _i in range(21,24): LP[_i] = ('LP-reescrita', 'Português: reescrita de frases')
 
+EN = {}
+for _i in (2,): EN[_i] = ('EN-conectores', 'Inglês: conectores e relações de sentido')
+for _i in (3,5,6,7,18): EN[_i] = ('EN-tempos', 'Inglês: tempos, condicionais, voz e formas verbais')
+for _i in (4,9,10): EN[_i] = ('EN-modais', 'Inglês: modais, quantificadores e negação')
+EN[8] = ('EN-referentes', 'Inglês: pronomes relativos e referentes')
+for _i in (1,12,13,11): EN[_i] = ('EN-vocabulario', 'Inglês: vocabulário, falsos cognatos e phrasal verbs')
+for _i in (14,15,17): EN[_i] = ('EN-leitura', 'Inglês: leitura, inferência e números')
+EN[16] = ('EN-contemporaneo', 'Inglês: formas contemporâneas')
 
 def campo(atom):
     mti = re.match(r"A-TI-(\d+)", atom)
     if mti: return TI[int(mti.group(1))]
+    men = re.match(r"A-EN-(\d+)", atom)
+    if men: return EN[int(men.group(1))]
     mlp = re.match(r"A-LP-(\d+)", atom)
     if mlp: return LP[int(mlp.group(1))]
     mli = re.match(r"A-LIN-(\d+)", atom)

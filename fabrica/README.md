@@ -114,3 +114,6 @@ Lote LP: itens curtos (frases de ~20 palavras), gabarito de ≤25 palavras e "sa
 
 ## L22 — Língua Portuguesa, onda 5 (reforço)
 97 pares (194 itens) distribuídos nos átomos A-LP-1..29 já existentes (questoes/lp_e.py, tags t##): interpretação (30 pares, microtextos), reescrita, coesão, orações, sintaxe, pontuação e concordância. Quase-duplicatas do lint resolvidas removendo 4 pares redundantes. Resolução cega 194/194; um par de catáfora/anáfora ambíguo ("dois temas") trocado por "isto…: …". Lint 0 alertas.
+
+## L23 — Língua Inglesa, onda 1
+139 pares (278 itens), átomos A-EN-1..18 (atomos/en_a.py, questoes/en_a.py, blueprint en.json). Itens curtos em inglês (frase ou microtexto ≤40 palavras), comentário em português ≤25 palavras, mini-aula por átomo. Pontos: EN01 compreensão, EN02 gramática para o sentido, EN03 vocabulário/formação de palavras, EN04 formas contemporâneas. Calibração: em prova recente da Câmara (Cebraspe, 180 itens) inglês teve 10 itens (vocabulário e interpretação). Resolução cega 276/278; 2 divergências (resume, parents) em itens corretos, reformulados. Lint 0 alertas.

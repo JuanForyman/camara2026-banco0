@@ -1,0 +1,96 @@
+"""Língua Inglesa (P1, edital 2) — onda 1: 18 átomos (mini-aulas). Cria o blueprint en.json.
+Uso: python3 -I fabrica/atomos/en_a.py (idempotente)."""
+import json, os
+ATOMOS = {
+"1": ["Falsos cognatos mais cobrados",
+ "Palavras parecidas com o português, mas de sentido diferente: actually = na verdade (não 'atualmente'); eventually = por fim (não 'eventualmente'); pretend = fingir (não 'pretender'); library = biblioteca; attend = comparecer; parents = pais; support = apoiar; resume = retomar; fabric = tecido; realize = perceber.",
+ "Dica: se a frase em inglês só faz sentido com o outro significado, desconfie do cognato aparente. 'Actually, I disagree' = 'Na verdade, discordo'.",
+ "Pegadinha: o item traduz o falso cognato pelo sentido português parecido."],
+"2": ["Conectores e relações de sentido",
+ "Contraste: however, but, yet, nevertheless (no entanto), whereas, while. Concessão: although, though, even though, despite / in spite of (apesar de). Consequência: therefore, thus, so, as a result. Adição: moreover, furthermore, besides. Condição: unless (a menos que), if, provided that. Causa: because, since, as.",
+ "'Despite' e 'in spite of' vêm antes de substantivo ou -ing: 'Despite the delay'. 'Although' vem antes de oração: 'Although it rained'.",
+ "Pegadinha: o item troca a relação lógica (contraste por consequência, 'despite' por 'por causa de')."],
+"3": ["Tempos verbais e sentido",
+ "Simple past = fato terminado, com tempo definido (yesterday, in 2020). Present perfect (has/have + particípio) = liga o passado ao presente (since 2020, just, already, yet). Past perfect (had + particípio) = antes de outro fato passado. Present continuous = em andamento. Going to = previsão com evidência. Used to = hábito passado que não existe mais.",
+ "'I have seen him yesterday' é inadequado (yesterday exige simple past).",
+ "Pegadinha: present perfect com tempo terminado; confundir had + particípio com fato posterior."],
+"4": ["Verbos modais",
+ "Must = obrigação ou dedução forte ('He must be tired'). Must not = proibição. Don't have to = não é obrigatório. Should/ought to = conselho. May/might = possibilidade; may = pedido de permissão. Can't be = dedução negativa. Could have + particípio = poderia ter (mas não aconteceu).",
+ "Must not ≠ don't have to: proibição × ausência de obrigação.",
+ "Pegadinha: trocar 'must not' por 'não precisa', ou 'could have' por fato realizado."],
+"5": ["Condicionais e wish",
+ "Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+ "Unless = if ... not. Provided that / as long as = desde que. 'I wish I knew' = lamento não saber (presente).",
+ "Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."],
+"6": ["Voz passiva e causativa",
+ "Passiva = to be + particípio: 'The law was approved by Congress.' O objeto da ativa vira sujeito: 'The Senate rejected the bill' → 'The bill was rejected by the Senate'. Sem agente: 'Mistakes were made.' Em andamento: is/are being + particípio. Resultado recente: has been + particípio.",
+ "Causativa: have/get + objeto + particípio = mandar fazer ('She had her car repaired' = o carro foi consertado por outra pessoa).",
+ "Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."],
+"7": ["Discurso indireto",
+ "O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+ "Deny + -ing = negar ter feito: 'He denied signing' = disse que não assinou.",
+ "Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."],
+"8": ["Pronomes relativos e referentes",
+ "Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+ "Pronomes (it, they, this, which) retomam termo anterior; 'which' após vírgula pode retomar a ideia toda: 'He lost, which surprised everyone'.",
+ "Pegadinha: o item aponta o referente errado."],
+"9": ["Quantificadores e comparativos",
+ "Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+ "'Few lawmakers attended' ≠ 'A few lawmakers attended'.",
+ "Pegadinha: tratar few e a few como iguais."],
+"10": ["Negação e advérbios de frequência",
+ "Hardly, barely, scarcely = quase não; rarely, seldom = raramente; never = nunca. Neither ... nor = nem ... nem. Not only ... but also = adição. No sooner ... than = logo que.",
+ "Hardly / scarcely já são negativos: não use 'not' junto.",
+ "Pegadinha: ler 'hardly' como 'muito' ou 'rarely' como 'frequentemente'."],
+"11": ["Phrasal verbs mais cobrados",
+ "Carry out = realizar; call off = cancelar; put off = adiar; point out = apontar; run out of = ficar sem; turn down = recusar; deal with = lidar com; set up = criar, estabelecer; give up = desistir; look into = investigar; bring up = mencionar; figure out = descobrir.",
+ "O sentido não é a soma das palavras: 'give up' não é 'dar para cima'.",
+ "Pegadinha: o item traduz literalmente ou dá o oposto (turn down = aceitar)."],
+"12": ["Prefixos e sufixos",
+ "Prefixos: un-, dis-, in-, im- (negação: unfair, disagree); re- (de novo: rewrite); mis- (erro: misunderstand); over- (excesso); under- (falta). Sufixos: -less (sem: jobless), -ful (cheio de: hopeful), -able/-ible (possível: readable), -ment/-ness (nome: government, kindness).",
+ "Decomponha a palavra desconhecida para deduzir o sentido.",
+ "Pegadinha: confundir -less (sem) com -ful (com)."],
+"13": ["Vocabulário legislativo e institucional",
+ "Bill = projeto de lei (law/act = lei já aprovada); lawmakers = parlamentares; to enact = editar/promulgar; to repeal = revogar; amendment = emenda; oversight = fiscalização (ou descuido, conforme o contexto); stakeholders = partes interessadas; accountable = responsável, que presta contas; ruling = decisão judicial; funding = financiamento; budget = orçamento; ban = proibir.",
+ "Leia o contexto: 'oversight' pode ser supervisão ou omissão.",
+ "Pegadinha: bill traduzido como 'conta' em contexto legislativo, ou repeal como aprovar."],
+"14": ["Leitura: ideia principal e detalhes",
+ "Ideia principal = o que o texto sustenta como um todo; detalhes = dados, exemplos, nomes. Marcadores de contraste (but, while, although) mostram duas posições; 'according to' atribui a informação a uma fonte.",
+ "Procure causa (because of, due to), resultado (as a result), número e comparação.",
+ "Pegadinha: afirmar algo que o texto não diz, trocar a fonte (supporters × critics) ou inverter um dado."],
+"15": ["Leitura: inferência, referência e tom",
+ "Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+ "Referentes: it, they, which retomam termos anteriores. Tom: 'What a surprise! ... for once' sugere que algo é incomum.",
+ "Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."],
+"16": ["Formas contemporâneas do inglês",
+ "Siglas e termos: AI = artificial intelligence; ASAP = as soon as possible; fake news; data breach (vazamento de dados); deepfake (mídia falsa criada por IA); clickbait; screen time; to go viral. Informal: gonna = going to; wanna = want to; a piece of cake = muito fácil.",
+ "Registro informal aparece em contrações e expressões; o sentido idiomático não é literal.",
+ "Pegadinha: traduzir expressão idiomática ao pé da letra."],
+"17": ["Números, porcentagens e tendências",
+ "Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+ "Percentual × pontos percentuais: de 9% a 6% = queda de 3 pontos percentuais.",
+ "Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."],
+"18": ["Gerúndio, infinitivo, imperativo, subjuntivo, tags e genitivo",
+ "Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+ "Stop + -ing = parar de fazer; stop + to = parar para fazer.",
+ "Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."],
+}
+PONTOS = [("EN01","Compreensão de textos","P1-M2-1","2.1","alta"),("EN02","Itens gramaticais para o sentido","P1-M2-2","2.2","alta"),
+ ("EN03","Vocabulário e formação de palavras","P1-M2-1","2.1","alta"),("EN04","Formas contemporâneas do inglês","P1-M2-3","2.3","media")]
+def blueprint():
+    return {"parte":"Língua Inglesa (P1, edital 2)","sigla":"EN","topico":"P1-M2-1","materia":"Língua Inglesa","bloco":"P1","item_edital":"2",
+     "nome_curto":"EN","fonte":{"tipo":"gramatica","ref":"gramática da língua inglesa (Murphy; Swan; Oxford/Longman) e vocabulário geral","versao":"conhecimento do autor","conferida":"conhecimento"},
+     "nota_calibracao":"Língua Inglesa de P1 (edital 2). Pesos: em prova recente da Câmara (Cebraspe, 180 itens), inglês teve 10 itens, em vocabulário e interpretação. Itens curtos em inglês (frase ou microtexto até ~40 palavras), gabarito em português curto e mini-aula por átomo; usuário é iniciante. Não reproduz questões reais.",
+     "pendencias":["Gramática e vocabulário por conhecimento do autor; sem consulta a provas reais"],"descartar_tags":[],
+     "rotulos":{},"pontos":[{"id":p[0],"titulo":p[1],"incidencia":p[4],"armadilhas":[]} for p in PONTOS],
+     "topico_por_ponto":{p[0]:p[2] for p in PONTOS},"item_edital_por_ponto":{p[0]:p[3] for p in PONTOS}}
+if __name__ == "__main__":
+    tp = "dados/leis/en.json"
+    d = json.load(open(tp, encoding="utf-8")) if os.path.exists(tp) else {}
+    for k, v in ATOMOS.items(): d[k] = v
+    json.dump(d, open(tp, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    bp = "fabrica/blueprints/en.json"
+    b = json.load(open(bp, encoding="utf-8")) if os.path.exists(bp) else blueprint()
+    for k, v in ATOMOS.items(): b["rotulos"][k] = v[0]
+    json.dump(b, open(bp, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(len(ATOMOS), "átomos; total", len(d))
