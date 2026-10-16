@@ -1,0 +1,102 @@
+{
+ "parte": "Tecnologia da Informação e Dados (P1, edital 5)",
+ "sigla": "TI",
+ "topico": "P1-M5-1",
+ "materia": "Tecnologia da Informação e Dados",
+ "bloco": "P1",
+ "item_edital": "5.1",
+ "nome_curto": "TI",
+ "fonte": {
+  "tipo": "doutrina_lei",
+  "ref": "documentação Microsoft 365; RFCs e modelo TCP/IP; Cartilha de Segurança do CERT.br; ISO/IEC 27001/27002; Lei 14.129/2021; Lei 14.063/2020; LGPD; literatura de aprendizado de máquina e de visualização de dados",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "nota_calibracao": "Matéria de P1 (TI e Dados, 8 itens do edital), alta incidência em conceitos de segurança (vírus x worm x trojan, phishing x pharming, backup, criptografia, assinatura digital) e Office. Edital menciona Data Studio (hoje Looker Studio) e Teams/Meet. Não reproduz questões reais.",
+ "pendencias": [
+  "Atalhos, nomes de recursos e prazos (lixeira do OneDrive) do Microsoft 365 mudam; conferir na documentação atual",
+  "Itens de IA/LLM e visualização por conhecimento",
+  "Citações de Lei 14.129/2021, 14.063/2020 e 13.146/2015 de memória"
+ ],
+ "descartar_tags": [],
+ "rotulos": {
+  "1": "MS Office 365: Word, Excel, PowerPoint e OneDrive",
+  "2": "Redes de computadores, Internet e intranet",
+  "3": "Comunicação e colaboração: e-mail, Teams e Meet",
+  "4": "Segurança e governança digital",
+  "5": "Conceitos básicos de inteligência artificial",
+  "6": "Ética e responsabilidade digital no serviço público",
+  "7": "Dados: conceitos, atributos, métricas e transformação",
+  "8": "Visualização de dados"
+ },
+ "pontos": [
+  {
+   "id": "T01",
+   "titulo": "MS Office 365: Word, Excel, PowerPoint e OneDrive",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T02",
+   "titulo": "Redes de computadores, Internet e intranet",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T03",
+   "titulo": "Comunicação e colaboração: e-mail, Teams e Meet",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T04",
+   "titulo": "Segurança e governança digital",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T05",
+   "titulo": "Conceitos básicos de inteligência artificial",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T06",
+   "titulo": "Ética e responsabilidade digital no serviço público",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T07",
+   "titulo": "Dados: conceitos, atributos, métricas e transformação",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T08",
+   "titulo": "Visualização de dados",
+   "incidencia": "alta",
+   "armadilhas": []
+  }
+ ],
+ "topico_por_ponto": {
+  "T01": "P1-M5-1",
+  "T02": "P1-M5-2",
+  "T03": "P1-M5-3",
+  "T04": "P1-M5-4",
+  "T05": "P1-M5-5",
+  "T06": "P1-M5-6",
+  "T07": "P1-M5-7",
+  "T08": "P1-M5-8"
+ },
+ "item_edital_por_ponto": {
+  "T01": "5.1",
+  "T02": "5.2",
+  "T03": "5.3",
+  "T04": "5.4",
+  "T05": "5.5",
+  "T06": "5.6",
+  "T07": "5.7",
+  "T08": "5.8"
+ }
+}

@@ -93,7 +93,11 @@ FIA = {1: ('FIA-asr', 'Fala e IA: reconhecimento automático de fala'), 2: ('FIA
 
 LIN = {1: ('LIN-signo', 'Linguística: signo e categorias semânticas'), 2: ('LIN-signo', 'Linguística: signo e categorias semânticas'), 3: ('LIN-texto', 'Linguística: leitura e produção de textos'), 4: ('LIN-texto', 'Linguística: leitura e produção de textos'), 5: ('LIN-discurso', 'Linguística: enunciação, discurso e gêneros'), 6: ('LIN-discurso', 'Linguística: enunciação, discurso e gêneros'), 7: ('LIN-variacao', 'Linguística: variação e gramática'), 8: ('LIN-variacao', 'Linguística: variação e gramática'), 9: ('LIN-expressao', 'Linguística: funções da linguagem e figuras'), 10: ('LIN-expressao', 'Linguística: funções da linguagem e figuras'), 11: ('LIN-oficial', 'Redação oficial'), 12: ('LIN-logica', 'Noções de lógica'), 13: ('LIN-lc95', 'Técnica legislativa: LC 95/1998')}
 
+TI = {1: ('TI-office', 'TI: Microsoft 365'), 2: ('TI-redes', 'TI: redes e Internet'), 3: ('TI-comunicacao', 'TI: e-mail, Teams e Meet'), 4: ('TI-seguranca', 'TI: segurança da informação'), 5: ('TI-ia', 'TI: inteligência artificial'), 6: ('TI-etica', 'TI: ética e responsabilidade digital'), 7: ('TI-dados', 'TI: dados'), 8: ('TI-visualizacao', 'TI: visualização de dados')}
+
 def campo(atom):
+    mti = re.match(r"A-TI-(\d+)", atom)
+    if mti: return TI[int(mti.group(1))]
     mli = re.match(r"A-LIN-(\d+)", atom)
     if mli: return LIN[int(mli.group(1))]
     mfi = re.match(r"A-FIA-(\d+)", atom)

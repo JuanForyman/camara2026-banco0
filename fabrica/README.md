@@ -80,3 +80,8 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ### L16 — Linguística (LIN: 558 itens, P2-M6, 13 tópicos 6.1–6.13)
 13 átomos doutrinários (signo, categorias semânticas, leitura/coesão, recursos de produção, enunciação/AD, gêneros/tipologia, variação, gramática, funções, retórica e figuras, redação oficial, lógica, LC 95/1998) apoiados nas anotações do usuário (Drive "6. LINGUÍSTICA"). Lint 0; resolução cega embaralhada em duas metades: 4 divergências em 558; 1 item reescrito (partes da retórica, ambíguo), 3 mantidos (LC 95 art. 6º, 11 II f, 12 III; resolvedor errou). Pendências: texto da LC 95 e do Manual de Redação (3ª ed.) de memória, conferir no Planalto; itens de doutrina sem texto-fonte.
+
+## L17 — Tecnologia da Informação e Dados (P1-M5)
+- 386 itens (193 C / 193 E), 8 tópicos (P1-M5-1 a 8), 8 átomos em dados/leis/ti.json (T01 Office 56, T02 Redes 54, T03 Comunicação 32, T04 Segurança 70, T05 IA 52, T06 Ética 28, T07 Dados 46, T08 Visualização 48).
+- Lint 0 alertas (T01 corrigido: palavras absolutas). Resolução cega (2 subagentes sonnet, ordem embaralhada): 1 divergência (Q-TI-0106, erro do resolvedor: 80 MB = 640 Mb → 8 s).
+- Fonte "conhecimento" com risco: nomes de recursos/atalhos do Microsoft 365, prazo da lixeira do OneDrive (93 dias em contas corporativas), Lei 14.129/2021, Lei 14.063/2020, Lei 13.146/2015, LGPD art. 6º citados de memória. Edital cita "Data Studio" (hoje Looker Studio).

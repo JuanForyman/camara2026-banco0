@@ -375,81 +375,81 @@
      "id": "P1-M5-1",
      "titulo": "MS Office 365",
      "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_aprovados_v3": 56,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento",
+     "blueprint": "ti.json",
+     "status": "lote_L17"
     },
     {
      "id": "P1-M5-2",
      "titulo": "Redes de computadores",
      "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_aprovados_v3": 54,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento",
+     "blueprint": "ti.json",
+     "status": "lote_L17"
     },
     {
      "id": "P1-M5-3",
      "titulo": "Comunicação e colaboração",
      "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_aprovados_v3": 32,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento",
+     "blueprint": "ti.json",
+     "status": "lote_L17"
     },
     {
      "id": "P1-M5-4",
      "titulo": "Segurança e governança digital",
      "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_aprovados_v3": 70,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento",
+     "blueprint": "ti.json",
+     "status": "lote_L17"
     },
     {
      "id": "P1-M5-5",
      "titulo": "Conceitos básicos de IA",
      "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_aprovados_v3": 52,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento",
+     "blueprint": "ti.json",
+     "status": "lote_L17"
     },
     {
      "id": "P1-M5-6",
      "titulo": "Ética e responsabilidade digital",
      "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_aprovados_v3": 28,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento",
+     "blueprint": "ti.json",
+     "status": "lote_L17"
     },
     {
      "id": "P1-M5-7",
      "titulo": "Dados",
      "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_aprovados_v3": 46,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento",
+     "blueprint": "ti.json",
+     "status": "lote_L17"
     },
     {
      "id": "P1-M5-8",
      "titulo": "Visualização de dados",
      "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_aprovados_v3": 48,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "conhecimento",
+     "blueprint": "ti.json",
+     "status": "lote_L17"
     }
    ]
   },
