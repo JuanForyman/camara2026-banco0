@@ -1,0 +1,118 @@
+{
+ "parte": "Regimento Comum do Congresso Nacional",
+ "sigla": "RC",
+ "topico": "P1-M4-8.1",
+ "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+ "bloco": "P1",
+ "item_edital": "4.8.1",
+ "nome_curto": "Regimento Comum",
+ "fonte": {
+  "tipo": "regimento",
+  "ref": "Regimento Comum (Res. 1/1970-CN), texto compilado",
+  "versao": "2025",
+  "conferida": "texto-fonte"
+ },
+ "pontos": [
+  {
+   "id": "R40",
+   "titulo": "Regimento Comum arts. 1–3",
+   "incidencia": "media",
+   "armadilhas": [
+    "Casa que preside/vota primeiro",
+    "quórum e prazos",
+    "votos separados por Casa"
+   ]
+  },
+  {
+   "id": "R40b",
+   "titulo": "Regimento Comum arts. 4–7",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Casa que preside/vota primeiro",
+    "quórum e prazos",
+    "votos separados por Casa"
+   ]
+  },
+  {
+   "id": "R41",
+   "titulo": "Regimento Comum arts. 9–21",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Casa que preside/vota primeiro",
+    "quórum e prazos",
+    "votos separados por Casa"
+   ]
+  },
+  {
+   "id": "R42",
+   "titulo": "Regimento Comum arts. 22–35",
+   "incidencia": "media",
+   "armadilhas": [
+    "Casa que preside/vota primeiro",
+    "quórum e prazos",
+    "votos separados por Casa"
+   ]
+  },
+  {
+   "id": "R43",
+   "titulo": "Regimento Comum arts. 36–52",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Casa que preside/vota primeiro",
+    "quórum e prazos",
+    "votos separados por Casa"
+   ]
+  },
+  {
+   "id": "R44",
+   "titulo": "Regimento Comum arts. 53–56",
+   "incidencia": "media",
+   "armadilhas": [
+    "Casa que preside/vota primeiro",
+    "quórum e prazos",
+    "votos separados por Casa"
+   ]
+  },
+  {
+   "id": "R44b",
+   "titulo": "Regimento Comum arts. 57–68",
+   "incidencia": "media",
+   "armadilhas": [
+    "Casa que preside/vota primeiro",
+    "quórum e prazos",
+    "votos separados por Casa"
+   ]
+  },
+  {
+   "id": "R45",
+   "titulo": "Regimento Comum arts. 85–102",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Casa que preside/vota primeiro",
+    "quórum e prazos",
+    "votos separados por Casa"
+   ]
+  }
+ ],
+ "topico_por_ponto": {
+  "R40": "P1-M4-8.1",
+  "R40b": "P2-M8-3.1",
+  "R41": "P2-M8-3.2",
+  "R42": "P2-M8-3.3",
+  "R43": "P2-M8-3.4",
+  "R44": "P2-M8-3.5",
+  "R44b": "P1-M4-8.2",
+  "R45": "P1-M4-8.2"
+ },
+ "item_edital_por_ponto": {
+  "R40": "4.-8.1",
+  "R40b": "8.3.1",
+  "R41": "8.3.2",
+  "R42": "8.3.3",
+  "R43": "8.3.4",
+  "R44": "8.3.5",
+  "R44b": "4.-8.2",
+  "R45": "4.-8.2"
+ },
+ "descartar_tags": []
+}

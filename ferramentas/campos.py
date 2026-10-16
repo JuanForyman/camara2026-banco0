@@ -147,7 +147,26 @@ for _i in (23,24): EN[_i] = ('EN-atribuicao', 'Inglês: leitura — hedging, fat
 for _i in (25,27): EN[_i] = ('EN-preposicoes', 'Inglês: preposições e palavras que confundem')
 for _i in (26,28): EN[_i] = ('EN-contemporaneo', 'Inglês: formas contemporâneas')
 
+RICDC = [(1,8,"RICD-posse","RICD: posse, sessões legislativas e eleição da Mesa (arts. 1º a 8º)"),(9,13,"RICD-lideres","RICD: Líderes, Blocos, Maioria e Minoria (arts. 9º a 13-B)"),(14,19,"RICD-mesa","RICD: Mesa, Presidente e Secretários (arts. 14 a 19-A)"),(20,24,"RICD-orgaos","RICD: Colégio de Líderes e órgãos auxiliares (arts. 20 a 21-N)"),
+ (25,31,"RICD-com1","RICD: Comissões (arts. 25 a 31)"),(32,38,"RICD-com2","RICD: Comissões Permanentes e competências (arts. 32 a 38)"),(39,48,"RICD-com3","RICD: Comissões, direção e funcionamento (arts. 39 a 48)"),(49,59,"RICD-com4","RICD: Comissões, reuniões e pareceres (arts. 49 a 59)"),(60,64,"RICD-com5","RICD: Comissões, extinção e demais (arts. 60 a 64)"),
+ (65,78,"RICD-sess1","RICD: espécies de sessão e regras gerais (arts. 65 a 78)"),(79,90,"RICD-sess2","RICD: expedientes, Ordem do Dia e comunicações (arts. 79 a 90)"),(91,94,"RICD-sess3","RICD: Comissão Geral e sessões secretas (arts. 91 a 94)"),
+ (95,99,"RICD-prop1","RICD: proposições, disposições gerais (arts. 95 a 99)"),(100,112,"RICD-prop2","RICD: proposições, apresentação e arquivamento (arts. 100 a 112)"),(113,125,"RICD-prop3","RICD: proposições, emendas e pareceres (arts. 113 a 125)"),(126,150,"RICD-prop4","RICD: tramitação e apreciação conclusiva (arts. 126 a 150)"),
+ (151,157,"RICD-urg","RICD: regimes de tramitação e urgência (arts. 151 a 157)"),(158,164,"RICD-pref","RICD: prioridade, preferência, destaque e prejudicialidade (arts. 158 a 164)"),(165,179,"RICD-disc","RICD: discussão (arts. 165 a 179)"),(180,193,"RICD-vot","RICD: votação (arts. 180 a 193)"),(194,200,"RICD-red","RICD: redação do vencido, redação final e autógrafos (arts. 194 a 200)"),
+ (226,237,"RICD-dep1","RICD: exercício do mandato e licença (arts. 226 a 237)"),(238,251,"RICD-dep2","RICD: vacância, suplente, decoro e prisão (arts. 238 a 251)"),(262,273,"RICD-adm","RICD: administração, economia interna e polícia (arts. 262 a 273)")]
+RCC = [(1,8,"RC-dir","Regimento Comum: direção, sessões e Líderes (arts. 1º a 8º)"),(9,21,"RC-com","Regimento Comum: Comissões Mistas (arts. 9º a 21)"),(22,35,"RC-sess","Regimento Comum: sessões em geral (arts. 22 a 35)"),(36,52,"RC-vot","Regimento Comum: apreciação e votação (arts. 36 a 52)"),(53,71,"RC-sol","Regimento Comum: sessões solenes (arts. 53 a 71)"),(72,103,"RC-mat","Regimento Comum: matérias legislativas e orçamento (arts. 85 a 103)")]
 def campo(atom):
+    mri = re.match(r"A-RICD-(\d+)", atom)
+    if mri:
+        a = int(mri.group(1))
+        for lo, hi, cid, nm in RICDC:
+            if lo <= a <= hi: return (cid, nm)
+        return None
+    mrc = re.match(r"A-RC-(\d+)", atom)
+    if mrc:
+        a = int(mrc.group(1))
+        for lo, hi, cid, nm in RCC:
+            if lo <= a <= hi: return (cid, nm)
+        return None
     mti = re.match(r"A-TI-(\d+)", atom)
     if mti: return TI[int(mti.group(1))]
     men = re.match(r"A-EN-(\d+)", atom)

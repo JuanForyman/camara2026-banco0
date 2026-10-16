@@ -1,0 +1,478 @@
+{
+ "parte": "RICD 29ª ed. (2025) — reforço fiel ao texto",
+ "sigla": "RICD",
+ "topico": "P2-M8-2.1",
+ "materia": "Processo Legislativo, RICD e Regimento Comum",
+ "bloco": "P2",
+ "item_edital": "8.2.1",
+ "nome_curto": "RICD",
+ "fonte": {
+  "tipo": "regimento",
+  "ref": "RICD, 29ª ed., Edições Câmara, 2025",
+  "versao": "atualizado até a Res. 16/2025",
+  "conferida": "texto-fonte"
+ },
+ "pontos": [
+  {
+   "id": "R01",
+   "titulo": "RICD arts. 25–28",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R02",
+   "titulo": "RICD arts. 29–31",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R03",
+   "titulo": "RICD arts. 32–32",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R04",
+   "titulo": "RICD arts. 33–34",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R05",
+   "titulo": "RICD arts. 35–37",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R06",
+   "titulo": "RICD arts. 38–38",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R07",
+   "titulo": "RICD arts. 39–42",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R08",
+   "titulo": "RICD arts. 43–45",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R09",
+   "titulo": "RICD arts. 46–48",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R10",
+   "titulo": "RICD arts. 49–52",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R11",
+   "titulo": "RICD arts. 53–58",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R12",
+   "titulo": "RICD arts. 60–61",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R13",
+   "titulo": "RICD arts. 62–64",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R14",
+   "titulo": "RICD arts. 95–98",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R15",
+   "titulo": "RICD arts. 100–107",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R16",
+   "titulo": "RICD arts. 108–112",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R17",
+   "titulo": "RICD arts. 113–117",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R18",
+   "titulo": "RICD arts. 118–125",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R19",
+   "titulo": "RICD arts. 126–130",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R20",
+   "titulo": "RICD arts. 132–143",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R21",
+   "titulo": "RICD arts. 144–150",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R22",
+   "titulo": "RICD arts. 151–157",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R23",
+   "titulo": "RICD arts. 158–164",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R24",
+   "titulo": "RICD arts. 165–179",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R25",
+   "titulo": "RICD arts. 180–193",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R26",
+   "titulo": "RICD arts. 194–200",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R27",
+   "titulo": "RICD arts. 1–4",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R28",
+   "titulo": "RICD arts. 5–8",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R29",
+   "titulo": "RICD arts. 9–20",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R30",
+   "titulo": "RICD arts. 14–15",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R31",
+   "titulo": "RICD arts. 16–19",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R32",
+   "titulo": "RICD arts. 20–21",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R33",
+   "titulo": "RICD arts. 65–78",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R34",
+   "titulo": "RICD arts. 79–90",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R35",
+   "titulo": "RICD arts. 91–94",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R36",
+   "titulo": "RICD arts. 226–237",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R37",
+   "titulo": "RICD arts. 238–251",
+   "incidencia": "alta",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  },
+  {
+   "id": "R39",
+   "titulo": "RICD arts. 262–273",
+   "incidencia": "media",
+   "armadilhas": [
+    "troca de número, prazo ou quórum",
+    "troca do órgão competente",
+    "inversão regra/exceção"
+   ]
+  }
+ ],
+ "topico_por_ponto": {
+  "R01": "P2-M8-2.1",
+  "R02": "P2-M8-2.1",
+  "R03": "P2-M8-2.2",
+  "R04": "P2-M8-2.2",
+  "R05": "P2-M8-2.2",
+  "R06": "P2-M8-2.2",
+  "R07": "P2-M8-2.3",
+  "R08": "P2-M8-2.3",
+  "R09": "P2-M8-2.3",
+  "R10": "P2-M8-2.4",
+  "R11": "P2-M8-2.4",
+  "R12": "P2-M8-2.5",
+  "R13": "P2-M8-2.5",
+  "R14": "P2-M8-2.6",
+  "R15": "P2-M8-2.7",
+  "R16": "P2-M8-2.7",
+  "R17": "P2-M8-2.8",
+  "R18": "P2-M8-2.8",
+  "R19": "P2-M8-2.9",
+  "R20": "P2-M8-2.9",
+  "R21": "P2-M8-2.9",
+  "R22": "P2-M8-2.10",
+  "R23": "P2-M8-2.10",
+  "R24": "P2-M8-2.11",
+  "R25": "P2-M8-2.11",
+  "R26": "P2-M8-2.11",
+  "R27": "P1-M4-7.1",
+  "R28": "P1-M4-7.1",
+  "R29": "P1-M4-7.1",
+  "R30": "P1-M4-7.1",
+  "R31": "P1-M4-7.1",
+  "R32": "P1-M4-7.1",
+  "R33": "P1-M4-7.2",
+  "R34": "P1-M4-7.2",
+  "R35": "P1-M4-7.2",
+  "R36": "P1-M4-7.3",
+  "R37": "P1-M4-7.3",
+  "R39": "P1-M4-7.4"
+ },
+ "item_edital_por_ponto": {
+  "R01": "8.2.1",
+  "R02": "8.2.1",
+  "R03": "8.2.2",
+  "R04": "8.2.2",
+  "R05": "8.2.2",
+  "R06": "8.2.2",
+  "R07": "8.2.3",
+  "R08": "8.2.3",
+  "R09": "8.2.3",
+  "R10": "8.2.4",
+  "R11": "8.2.4",
+  "R12": "8.2.5",
+  "R13": "8.2.5",
+  "R14": "8.2.6",
+  "R15": "8.2.7",
+  "R16": "8.2.7",
+  "R17": "8.2.8",
+  "R18": "8.2.8",
+  "R19": "8.2.9",
+  "R20": "8.2.9",
+  "R21": "8.2.9",
+  "R22": "8.2.10",
+  "R23": "8.2.10",
+  "R24": "8.2.11",
+  "R25": "8.2.11",
+  "R26": "8.2.11",
+  "R27": "4.-7.1",
+  "R28": "4.-7.1",
+  "R29": "4.-7.1",
+  "R30": "4.-7.1",
+  "R31": "4.-7.1",
+  "R32": "4.-7.1",
+  "R33": "4.-7.2",
+  "R34": "4.-7.2",
+  "R35": "4.-7.2",
+  "R36": "4.-7.3",
+  "R37": "4.-7.3",
+  "R39": "4.-7.4"
+ },
+ "descartar_tags": []
+}

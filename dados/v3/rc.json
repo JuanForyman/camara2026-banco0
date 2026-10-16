@@ -1,0 +1,6008 @@
+[
+ {
+  "id": "Q-RC-0001",
+  "t": "P1-M4-8.1",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.1",
+  "a": [
+   "A-RC-0001"
+  ],
+  "ponto": "R40",
+  "g": "C",
+  "e": "A Câmara e o Senado reúnem-se em sessão conjunta, sob a direção da Mesa do Senado, para inaugurar a sessão legislativa e promulgar emendas à Constituição.",
+  "formato": "assertiva",
+  "c": "RC art. 1º; CF art. 57, § 5º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0002",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 1",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0002",
+  "t": "P1-M4-8.1",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.1",
+  "a": [
+   "A-RC-0001"
+  ],
+  "ponto": "R40",
+  "g": "E",
+  "e": "A Câmara e o Senado reúnem-se em sessão conjunta, sob a direção da Mesa da Câmara, para inaugurar a sessão legislativa e promulgar emendas à Constituição.",
+  "formato": "assertiva",
+  "c": "RC art. 1º; CF art. 57, § 5º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca a Mesa",
+  "par": "Q-RC-0001",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 1",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0003",
+  "t": "P1-M4-8.1",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.1",
+  "a": [
+   "A-RC-0001"
+  ],
+  "ponto": "R40",
+  "g": "C",
+  "e": "Têm caráter solene as sessões conjuntas de inauguração da sessão legislativa, de posse do Presidente e do Vice da República e de promulgação de emendas à Constituição.",
+  "formato": "assertiva",
+  "c": "RC art. 1º, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0004",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 1",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0004",
+  "t": "P1-M4-8.1",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.1",
+  "a": [
+   "A-RC-0001"
+  ],
+  "ponto": "R40",
+  "g": "E",
+  "e": "Têm caráter solene todas as sessões conjuntas, inclusive as de apreciação de vetos e do Orçamento.",
+  "formato": "assertiva",
+  "c": "RC art. 1º, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "generaliza",
+  "par": "Q-RC-0003",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 1",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0005",
+  "t": "P1-M4-8.1",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.1",
+  "a": [
+   "A-RC-0001"
+  ],
+  "ponto": "R40",
+  "g": "C",
+  "e": "Cabe à sessão conjunta discutir e votar o Orçamento, conhecer de matéria vetada e deliberar sobre ela, e elaborar ou reformar o Regimento Comum.",
+  "formato": "assertiva",
+  "c": "RC art. 1º, V, VI e XI.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0006",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 1",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0006",
+  "t": "P1-M4-8.1",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.1",
+  "a": [
+   "A-RC-0001"
+  ],
+  "ponto": "R40",
+  "g": "E",
+  "e": "Cabe à sessão conjunta aprovar o Orçamento por maioria simples da Câmara, dispensado o Senado.",
+  "formato": "assertiva",
+  "c": "RC art. 1º, V, VI e XI.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "dispensa o Senado",
+  "par": "Q-RC-0005",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 1",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0007",
+  "t": "P1-M4-8.1",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.1",
+  "a": [
+   "A-RC-0002"
+  ],
+  "ponto": "R40",
+  "g": "C",
+  "e": "As sessões conjuntas sem data legalmente fixada são convocadas pelo Presidente do Senado ou seu Substituto, com prévia audiência da Mesa da Câmara.",
+  "formato": "assertiva",
+  "c": "RC art. 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0008",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 2",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0008",
+  "t": "P1-M4-8.1",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.1",
+  "a": [
+   "A-RC-0002"
+  ],
+  "ponto": "R40",
+  "g": "E",
+  "e": "As sessões conjuntas sem data legalmente fixada são convocadas pelo Presidente da Câmara, com prévia audiência da Mesa do Senado.",
+  "formato": "assertiva",
+  "c": "RC art. 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca o convocador",
+  "par": "Q-RC-0007",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 2",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0009",
+  "t": "P1-M4-8.1",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.1",
+  "a": [
+   "A-RC-0003"
+  ],
+  "ponto": "R40",
+  "g": "C",
+  "e": "As sessões conjuntas realizam-se, em regra, no Plenário da Câmara dos Deputados, salvo escolha prévia de outro local devidamente anunciado.",
+  "formato": "assertiva",
+  "c": "RC art. 3º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0010",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 3",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0010",
+  "t": "P1-M4-8.1",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.1",
+  "a": [
+   "A-RC-0003"
+  ],
+  "ponto": "R40",
+  "g": "E",
+  "e": "As sessões conjuntas realizam-se, em regra, no Plenário do Senado Federal, salvo escolha prévia de outro local.",
+  "formato": "assertiva",
+  "c": "RC art. 3º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca o local",
+  "par": "Q-RC-0009",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 3",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0011",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0004"
+  ],
+  "ponto": "R40b",
+  "g": "C",
+  "e": "O Presidente da República pode indicar Congressista para exercer a função de Líder do Governo, que indica até dezoito Vice-Líderes dentre as representações que apoiem o governo.",
+  "formato": "assertiva",
+  "c": "RC art. 4º, §§ 1º e 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0012",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 4",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0012",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0004"
+  ],
+  "ponto": "R40b",
+  "g": "E",
+  "e": "O Presidente da República pode indicar Congressista para exercer a função de Líder do Governo, que indica até cinco Vice-Líderes dentre quaisquer partidos.",
+  "formato": "assertiva",
+  "c": "RC art. 4º, §§ 1º e 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca número e origem",
+  "par": "Q-RC-0011",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 4",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0013",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0004"
+  ],
+  "ponto": "R40b",
+  "g": "C",
+  "e": "A escolha do Líder da Minoria no Congresso é anual e se faz de forma alternada entre Senadores e Deputados Federais.",
+  "formato": "assertiva",
+  "c": "RC art. 4º, § 4º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0014",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 4",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0014",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0004"
+  ],
+  "ponto": "R40b",
+  "g": "E",
+  "e": "A escolha do Líder da Minoria no Congresso é bienal e se faz sempre entre Senadores.",
+  "formato": "assertiva",
+  "c": "RC art. 4º, § 4º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca prazo e Casa",
+  "par": "Q-RC-0013",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 4",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0015",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0004"
+  ],
+  "ponto": "R40b",
+  "g": "C",
+  "e": "O Líder da Minoria no Congresso pode indicar dezoito Vice-Líderes dentre as representações que integrem a Minoria no Senado e na Câmara.",
+  "formato": "assertiva",
+  "c": "RC art. 4º, § 5º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0016",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 4",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0016",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0004"
+  ],
+  "ponto": "R40b",
+  "g": "E",
+  "e": "O Líder da Minoria no Congresso pode indicar nove Vice-Líderes dentre as representações que integrem a Minoria apenas na Câmara.",
+  "formato": "assertiva",
+  "c": "RC art. 4º, § 5º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca número e Casa",
+  "par": "Q-RC-0015",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 4",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0017",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0005"
+  ],
+  "ponto": "R40b",
+  "g": "C",
+  "e": "Aos Líderes compete a indicação dos representantes de seu Partido nas Comissões.",
+  "formato": "assertiva",
+  "c": "RC art. 5º.",
+  "padrao": "atribuicao_autor",
+  "tipo_erro": "",
+  "par": "Q-RC-0018",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 5",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0018",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0005"
+  ],
+  "ponto": "R40b",
+  "g": "E",
+  "e": "Aos Líderes compete a designação dos representantes de seu Partido nas Comissões, independentemente de indicação do Presidente.",
+  "formato": "assertiva",
+  "c": "RC art. 5º.",
+  "padrao": "atribuicao_autor",
+  "tipo_erro": "reduz o papel do Presidente",
+  "par": "Q-RC-0017",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 5",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0019",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0006"
+  ],
+  "ponto": "R40b",
+  "g": "C",
+  "e": "O Líder pode usar da palavra, uma única vez, em qualquer fase da sessão, por no máximo cinco minutos, para comunicação urgente.",
+  "formato": "assertiva",
+  "c": "RC art. 6º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0020",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 6",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0020",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0006"
+  ],
+  "ponto": "R40b",
+  "g": "E",
+  "e": "O Líder pode usar da palavra, por vinte minutos, em qualquer fase da sessão, sempre que houver comunicação urgente.",
+  "formato": "assertiva",
+  "c": "RC art. 6º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca tempo e vezes",
+  "par": "Q-RC-0019",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 6",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0021",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0007"
+  ],
+  "ponto": "R40b",
+  "g": "C",
+  "e": "Em caráter preferencial e independentemente de inscrição, o Líder pode discutir matéria e encaminhar votação.",
+  "formato": "assertiva",
+  "c": "RC art. 7º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0022",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 7",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0022",
+  "t": "P2-M8-3.1",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.1",
+  "a": [
+   "A-RC-0007"
+  ],
+  "ponto": "R40b",
+  "g": "E",
+  "e": "O Líder só pode discutir matéria e encaminhar votação mediante inscrição prévia.",
+  "formato": "assertiva",
+  "c": "RC art. 7º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "exige inscrição",
+  "par": "Q-RC-0021",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 7",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0023",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0009"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "Os membros das Comissões Mistas são designados pelo Presidente do Senado, mediante indicação das lideranças; se os Líderes não indicarem, a escolha cabe ao Presidente.",
+  "formato": "assertiva",
+  "c": "RC art. 9º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0024",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 9",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0024",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0009"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "Os membros das Comissões Mistas são eleitos pelo Plenário do Congresso; se os Líderes não indicarem, o cargo permanece vago.",
+  "formato": "assertiva",
+  "c": "RC art. 9º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca a designação",
+  "par": "Q-RC-0023",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 9",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0025",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0010"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "As Comissões Mistas compõem-se, em regra, de onze Senadores e onze Deputados, com proporcionalidade partidária e sempre um representante da Minoria.",
+  "formato": "assertiva",
+  "c": "RC art. 10.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0026",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 10",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0026",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0010"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "As Comissões Mistas compõem-se, em regra, de quinze Senadores e quinze Deputados, sem representação garantida da Minoria.",
+  "formato": "assertiva",
+  "c": "RC art. 10.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca número e Minoria",
+  "par": "Q-RC-0025",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 10",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0027",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0010"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "As Comissões Mistas reúnem-se em quarenta e oito horas de sua constituição, sob a presidência do mais idoso, para eleger Presidente e Vice-Presidente.",
+  "formato": "assertiva",
+  "c": "RC art. 10, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0028",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 10",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0028",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0010"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "As Comissões Mistas reúnem-se em dez dias de sua constituição, sob a presidência do Presidente do Senado, para eleger Presidente e Vice-Presidente.",
+  "formato": "assertiva",
+  "c": "RC art. 10, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca prazo e presidente",
+  "par": "Q-RC-0027",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 10",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0029",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0010"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "Ao Presidente da Comissão Mista compete designar o Relator da matéria sujeita ao seu exame.",
+  "formato": "assertiva",
+  "c": "RC art. 10, § 3º.",
+  "padrao": "atribuicao_autor",
+  "tipo_erro": "",
+  "par": "Q-RC-0030",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 10",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0030",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0010"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "Ao Presidente do Senado compete designar o Relator da matéria sujeita ao exame da Comissão Mista.",
+  "formato": "assertiva",
+  "c": "RC art. 10, § 3º.",
+  "padrao": "atribuicao_autor",
+  "tipo_erro": "troca o designante",
+  "par": "Q-RC-0029",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 10",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0031",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0011"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "Perante a Comissão Mista, o Congressista pode apresentar emendas em oito dias a partir da instalação; da recusa cabe recurso à Comissão em vinte e quatro horas, com apoiamento de seis membros.",
+  "formato": "assertiva",
+  "c": "RC art. 11.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0032",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 11",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0032",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0011"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "Perante a Comissão Mista, o Congressista pode apresentar emendas em trinta dias a partir da instalação; da recusa cabe recurso ao Plenário do Congresso em cinco sessões.",
+  "formato": "assertiva",
+  "c": "RC art. 11.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca prazos e instância",
+  "par": "Q-RC-0031",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 11",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0033",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0012"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "Os trabalhos da Comissão Mista somente se iniciam com a presença mínima de um terço de sua composição.",
+  "formato": "assertiva",
+  "c": "RC art. 12.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0034",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 12",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0034",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0012"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "Os trabalhos da Comissão Mista somente se iniciam com a presença da maioria absoluta de sua composição.",
+  "formato": "assertiva",
+  "c": "RC art. 12.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca o quórum",
+  "par": "Q-RC-0033",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 12",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0035",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0013"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "Apresentado o parecer, qualquer membro da Comissão Mista pode discuti-lo por até quinze minutos, uma única vez; o Relator fala por último, por trinta minutos.",
+  "formato": "assertiva",
+  "c": "RC art. 13.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0036",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 13",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0036",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0013"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "Apresentado o parecer, qualquer membro da Comissão Mista pode discuti-lo por até cinco minutos, duas vezes; o Relator fala primeiro, por trinta minutos.",
+  "formato": "assertiva",
+  "c": "RC art. 13.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca tempos e ordem",
+  "par": "Q-RC-0035",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 13",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0037",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0014"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "A Comissão Mista delibera por maioria de votos, presente a maioria de seus membros, tendo o Presidente somente voto de desempate.",
+  "formato": "assertiva",
+  "c": "RC art. 14.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0038",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 14",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0038",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0014"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "A Comissão Mista delibera por maioria absoluta, presente a totalidade dos membros, votando o Presidente sempre.",
+  "formato": "assertiva",
+  "c": "RC art. 14.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca quórum e voto do presidente",
+  "par": "Q-RC-0037",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 14",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0039",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0015"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "No parecer da Comissão Mista, são considerados favoráveis os votos pelas conclusões e os com restrições.",
+  "formato": "assertiva",
+  "c": "RC art. 15, p. único.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0040",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 15",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0040",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0015"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "No parecer da Comissão Mista, são considerados contrários os votos com restrições.",
+  "formato": "assertiva",
+  "c": "RC art. 15, p. único.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte o cômputo",
+  "par": "Q-RC-0039",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 15",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0041",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0016"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "O parecer da Comissão Mista que concluir pelo arquivamento da proposição é considerado pela rejeição.",
+  "formato": "assertiva",
+  "c": "RC art. 16, p. único.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0042",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 16",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0042",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0016"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "O parecer da Comissão Mista que concluir pelo arquivamento da proposição é considerado pela aprovação parcial.",
+  "formato": "assertiva",
+  "c": "RC art. 16, p. único.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca efeito",
+  "par": "Q-RC-0041",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 16",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0043",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0017"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "A Comissão Mista deve sempre se pronunciar sobre o mérito da proposição e das emendas, ainda quando decidir pela inconstitucionalidade daquela.",
+  "formato": "assertiva",
+  "c": "RC art. 17.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0044",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 17",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0044",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0017"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "A Comissão Mista, ao decidir pela inconstitucionalidade da proposição, fica dispensada de apreciar o mérito.",
+  "formato": "assertiva",
+  "c": "RC art. 17.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "dispensa o mérito",
+  "par": "Q-RC-0043",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 17",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0045",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0020"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "Esgotado o prazo da Comissão sem parecer, este deve ser proferido oralmente em plenário, por ocasião da discussão da matéria.",
+  "formato": "assertiva",
+  "c": "RC art. 20.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0046",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 20",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0046",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0020"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "Esgotado o prazo da Comissão sem parecer, a matéria é arquivada.",
+  "formato": "assertiva",
+  "c": "RC art. 20.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "arquiva a matéria",
+  "par": "Q-RC-0045",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 20",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0047",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0021"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "As Comissões Parlamentares Mistas de Inquérito são criadas em sessão conjunta, automaticamente se requeridas por um terço dos Deputados mais um terço dos Senadores.",
+  "formato": "assertiva",
+  "c": "RC art. 21; CF art. 58, § 3º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0048",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 21",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0048",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0021"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "As Comissões Parlamentares Mistas de Inquérito são criadas por Resolução do Presidente do Senado, a requerimento de maioria absoluta de uma das Casas.",
+  "formato": "assertiva",
+  "c": "RC art. 21; CF art. 58, § 3º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca quórum e forma",
+  "par": "Q-RC-0047",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 21",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0049",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0021"
+  ],
+  "ponto": "R41",
+  "g": "C",
+  "e": "As CPMIs têm o número de membros fixado no ato de criação, devendo ser igual a participação de Deputados e Senadores, com proporcionalidade partidária.",
+  "formato": "assertiva",
+  "c": "RC art. 21, p. único.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0050",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 21",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0050",
+  "t": "P2-M8-3.2",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.2",
+  "a": [
+   "A-RC-0021"
+  ],
+  "ponto": "R41",
+  "g": "E",
+  "e": "As CPMIs têm o número de membros fixado em lei, com maioria de Deputados, dada a maior população representada.",
+  "formato": "assertiva",
+  "c": "RC art. 21, p. único.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "quebra a paridade",
+  "par": "Q-RC-0049",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 21",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0051",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0022"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "A sessão conjunta tem duração de quatro horas; se o término ocorrer com a votação iniciada, esta é ultimada independentemente de pedido de prorrogação.",
+  "formato": "assertiva",
+  "c": "RC art. 22.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0052",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 22",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0052",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0022"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "A sessão conjunta tem duração de seis horas; se o término ocorrer com a votação iniciada, a votação é adiada para a sessão seguinte.",
+  "formato": "assertiva",
+  "c": "RC art. 22.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca duração e consequência",
+  "par": "Q-RC-0051",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 22",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0053",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0023"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "A prorrogação da sessão conjunta é sempre por prazo fixo e o requerimento não é discutido nem tem a votação encaminhada; antes do término de uma, pode ser requerida outra.",
+  "formato": "assertiva",
+  "c": "RC art. 23.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0054",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 23",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0054",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0023"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "A prorrogação da sessão conjunta é por prazo indeterminado e o requerimento é discutido, admitindo-se encaminhamento da votação.",
+  "formato": "assertiva",
+  "c": "RC art. 23.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca prazo e debate",
+  "par": "Q-RC-0053",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 23",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0055",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0025"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "A sessão conjunta pode ser levantada, a qualquer momento, por motivo de falecimento de Congressista ou de Chefe de um dos Poderes da República.",
+  "formato": "assertiva",
+  "c": "RC art. 25.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0056",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 25",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0056",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0025"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "A sessão conjunta só pode ser levantada, antes do prazo, por motivo de tumulto grave.",
+  "formato": "assertiva",
+  "c": "RC art. 25.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca motivo",
+  "par": "Q-RC-0055",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 25",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0057",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0026"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "No recinto das sessões conjuntas só são admitidos os Congressistas, funcionários em serviço e, na bancada respectiva, representantes da imprensa credenciados.",
+  "formato": "assertiva",
+  "c": "RC art. 26.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0058",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 26",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0058",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0026"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "No recinto das sessões conjuntas são admitidos também assessores parlamentares e convidados dos Congressistas.",
+  "formato": "assertiva",
+  "c": "RC art. 26.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "amplia admitidos",
+  "par": "Q-RC-0057",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 26",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0059",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0027"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "A sessão secreta é deliberada pelo Plenário mediante proposta da Presidência ou de Líder, prefixando-se a data; a finalidade consta da proposta, mas não é divulgada.",
+  "formato": "assertiva",
+  "c": "RC art. 27, caput e § 1º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0060",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 27",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0060",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0027"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "A sessão secreta é decidida pelo Presidente do Senado, sem deliberação do Plenário; a finalidade é divulgada na convocação.",
+  "formato": "assertiva",
+  "c": "RC art. 27, caput e § 1º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "dispensa deliberação",
+  "par": "Q-RC-0059",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 27",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0061",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0027"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "Na discussão da proposta de sessão secreta falam quatro oradores, dois de cada Casa, por dez minutos; no encaminhamento da votação, por cinco minutos.",
+  "formato": "assertiva",
+  "c": "RC art. 27, § 3º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0062",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 27",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0062",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0027"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "Na discussão da proposta de sessão secreta falam seis oradores por vinte minutos; não há encaminhamento da votação.",
+  "formato": "assertiva",
+  "c": "RC art. 27, § 3º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca número e tempo",
+  "par": "Q-RC-0061",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 27",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0063",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0027"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "A ata da sessão secreta é redigida pelo 2º Secretário, submetida ao Plenário com qualquer número antes de levantada a sessão, e recolhida ao arquivo em invólucro lacrado.",
+  "formato": "assertiva",
+  "c": "RC art. 27, § 5º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0064",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 27",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0064",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0027"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "A ata da sessão secreta é redigida pelo 1º Secretário e publicada no Diário do Congresso Nacional.",
+  "formato": "assertiva",
+  "c": "RC art. 27, § 5º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "publica a ata",
+  "par": "Q-RC-0063",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 27",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0065",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0028"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "As sessões conjuntas somente são abertas com a presença mínima de um sexto da composição de cada Casa.",
+  "formato": "assertiva",
+  "c": "RC art. 28.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0066",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 28",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0066",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0028"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "As sessões conjuntas somente são abertas com a presença mínima de um terço do total de Congressistas, somadas as Casas.",
+  "formato": "assertiva",
+  "c": "RC art. 28.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca fração e cômputo",
+  "par": "Q-RC-0065",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 28",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0067",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0029"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "Não havendo número para a abertura, o Presidente aguarda por até trinta minutos; persistindo a falta, a sessão não se realiza.",
+  "formato": "assertiva",
+  "c": "RC art. 29, § 1º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0068",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 29",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0068",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0029"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "Não havendo número para a abertura, o Presidente aguarda por até duas horas; persistindo a falta, a sessão é aberta com qualquer número.",
+  "formato": "assertiva",
+  "c": "RC art. 29, § 1º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca prazo e efeito",
+  "par": "Q-RC-0067",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 29",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0069",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0030"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "Aberta a sessão, o 1º Secretário procede à leitura do expediente; as questões de ordem e os pedidos de retificação da ata são decididos pelo Presidente.",
+  "formato": "assertiva",
+  "c": "RC art. 30.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0070",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 30",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0070",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0030"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "Aberta a sessão, o 2º Secretário procede à leitura do expediente; as questões de ordem são decididas pelo Plenário.",
+  "formato": "assertiva",
+  "c": "RC art. 30.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca leitor e decisor",
+  "par": "Q-RC-0069",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 30",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0071",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0031"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "A primeira meia hora da sessão é destinada aos oradores inscritos, que falam por cinco minutos improrrogáveis.",
+  "formato": "assertiva",
+  "c": "RC art. 31.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0072",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 31",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0072",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0031"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "A primeira hora da sessão é destinada aos oradores inscritos, que falam por dez minutos prorrogáveis.",
+  "formato": "assertiva",
+  "c": "RC art. 31.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca tempos",
+  "par": "Q-RC-0071",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 31",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0073",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0033"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "Os avulsos eletrônicos das matérias da Ordem do Dia são distribuídos com antecedência mínima de vinte e quatro horas.",
+  "formato": "assertiva",
+  "c": "RC art. 33.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0074",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 33",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0074",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0033"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "Os avulsos eletrônicos das matérias da Ordem do Dia são distribuídos com antecedência mínima de setenta e duas horas.",
+  "formato": "assertiva",
+  "c": "RC art. 33.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca antecedência",
+  "par": "Q-RC-0073",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 33",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0075",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0034"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "Na Ordem do Dia, as proposições em votação precedem as em discussão; a inversão da Ordem do Dia pode ser autorizada pelo Plenário, por proposta da Presidência ou a requerimento de Líder.",
+  "formato": "assertiva",
+  "c": "RC art. 34.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0076",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 34",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0076",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0034"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "Na Ordem do Dia, as proposições em discussão precedem as em votação; a inversão da Ordem do Dia é decidida pelo Presidente.",
+  "formato": "assertiva",
+  "c": "RC art. 34.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte a ordem",
+  "par": "Q-RC-0075",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 34",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0077",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0035"
+  ],
+  "ponto": "R42",
+  "g": "C",
+  "e": "Sem número para votação, passa-se à matéria seguinte em discussão; esgotadas as discussões, a Presidência pode suspender a sessão por até trinta minutos.",
+  "formato": "assertiva",
+  "c": "RC art. 35.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0078",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 35",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0078",
+  "t": "P2-M8-3.3",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.3",
+  "a": [
+   "A-RC-0035"
+  ],
+  "ponto": "R42",
+  "g": "E",
+  "e": "Sem número para votação, a sessão é encerrada imediatamente; a Presidência pode suspender a sessão por até duas horas.",
+  "formato": "assertiva",
+  "c": "RC art. 35.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca consequência e prazo",
+  "par": "Q-RC-0077",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 35",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0079",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0036"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "A apreciação das matérias na sessão conjunta é feita em um só turno de discussão e votação.",
+  "formato": "assertiva",
+  "c": "RC art. 36.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0080",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 36",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0080",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0036"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "A apreciação das matérias na sessão conjunta é feita em dois turnos de discussão e votação.",
+  "formato": "assertiva",
+  "c": "RC art. 36.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca turnos",
+  "par": "Q-RC-0079",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 36",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0081",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0037"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "A discussão da proposição principal, das emendas e subemendas é feita em conjunto; arguida a inconstitucionalidade pela Comissão, a preliminar é discutida e votada antes da matéria.",
+  "formato": "assertiva",
+  "c": "RC art. 37.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0082",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 37",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0082",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0037"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "A discussão da proposição principal e das emendas é feita separadamente; a inconstitucionalidade é votada depois da matéria.",
+  "formato": "assertiva",
+  "c": "RC art. 37.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "separa e inverte",
+  "par": "Q-RC-0081",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 37",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0083",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0038"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Na discussão, os oradores falam na ordem de inscrição, por até vinte minutos, alternando de preferência favoráveis e contrários.",
+  "formato": "assertiva",
+  "c": "RC art. 38.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0084",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 38",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0084",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0038"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Na discussão, os oradores falam por até cinco minutos, em ordem alfabética, sem alternância.",
+  "formato": "assertiva",
+  "c": "RC art. 38.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca tempo e ordem",
+  "par": "Q-RC-0083",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 38",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0085",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0039"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "A discussão pode ser encerrada a requerimento escrito de Líder ou de dez membros de cada Casa, após falarem no mínimo quatro Senadores e seis Deputados; o Relator pode falar por até vinte minutos.",
+  "formato": "assertiva",
+  "c": "RC art. 39, §§ 1º e 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0086",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 39",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0086",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0039"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "A discussão pode ser encerrada a requerimento de qualquer Congressista, após falarem dois oradores; o Relator não pode falar.",
+  "formato": "assertiva",
+  "c": "RC art. 39, §§ 1º e 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca quórum e oradores",
+  "par": "Q-RC-0085",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 39",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0087",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0040"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Não se admite adiamento de discussão; a votação pode ser adiada por até quarenta e oito horas, a requerimento de Líder, desde que não prejudique o prazo constitucional.",
+  "formato": "assertiva",
+  "c": "RC art. 40.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0088",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 40",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0088",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0040"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Admite-se adiamento de discussão por até cinco sessões, a requerimento de Líder; o adiamento da votação é vedado.",
+  "formato": "assertiva",
+  "c": "RC art. 40.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte as regras",
+  "par": "Q-RC-0087",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 40",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0089",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0041"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "O requerimento em sessão conjunta não admite discussão, podendo ter a votação encaminhada por dois membros de cada Casa, por até cinco minutos cada um.",
+  "formato": "assertiva",
+  "c": "RC art. 41.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0090",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 41",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0090",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0041"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "O requerimento em sessão conjunta admite discussão por três oradores, sem encaminhamento da votação.",
+  "formato": "assertiva",
+  "c": "RC art. 41.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "admite debate",
+  "par": "Q-RC-0089",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 41",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0091",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0042"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "A retirada de proposição só pode ser requerida por seu autor e depende de despacho da Presidência; com votação iniciada, o Plenário decide.",
+  "formato": "assertiva",
+  "c": "RC art. 42.",
+  "padrao": "atribuicao_autor",
+  "tipo_erro": "",
+  "par": "Q-RC-0092",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 42",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0092",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0042"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "A retirada de proposição pode ser requerida por qualquer Líder e depende sempre de decisão do Plenário.",
+  "formato": "assertiva",
+  "c": "RC art. 42.",
+  "padrao": "atribuicao_autor",
+  "tipo_erro": "troca o legitimado",
+  "par": "Q-RC-0091",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 42",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0093",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0043"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Nas deliberações da sessão conjunta, os votos da Câmara e do Senado são sempre computados separadamente, e o voto contrário de uma das Casas importa a rejeição da matéria.",
+  "formato": "assertiva",
+  "c": "RC art. 43.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0094",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 43",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0094",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0043"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Nas deliberações da sessão conjunta, os votos de Deputados e Senadores são somados em um único cômputo, vencendo a maioria dos Congressistas.",
+  "formato": "assertiva",
+  "c": "RC art. 43.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "soma os votos",
+  "par": "Q-RC-0093",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 43",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0095",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0043"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "A votação começa pela Câmara dos Deputados; mas, em projeto vetado de iniciativa de Senadores, começa pelo Senado.",
+  "formato": "assertiva",
+  "c": "RC art. 43, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0096",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 43",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0096",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0043"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "A votação começa sempre pelo Senado Federal, inclusive em projeto vetado de iniciativa de Deputados.",
+  "formato": "assertiva",
+  "c": "RC art. 43, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte a Casa",
+  "par": "Q-RC-0095",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 43",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0097",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0044"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "As votações são feitas pelo processo simbólico, salvo quórum especial ou deliberação do Plenário, mediante requerimento de Líder ou de um sexto de Senadores ou de Deputados.",
+  "formato": "assertiva",
+  "c": "RC art. 44, p. único.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0098",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 44",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0098",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0044"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "As votações são feitas pelo processo nominal, salvo deliberação em contrário do Presidente.",
+  "formato": "assertiva",
+  "c": "RC art. 44, p. único.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte a regra",
+  "par": "Q-RC-0097",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 44",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0099",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0045"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Proclamado o resultado, a verificação pode ser requerida por Líder, cinco Senadores ou vinte Deputados; havendo número legal, não se admite nova verificação antes de uma hora.",
+  "formato": "assertiva",
+  "c": "RC art. 45, §§ 1º a 3º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0100",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 45",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0100",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0045"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Proclamado o resultado, a verificação pode ser requerida por qualquer Congressista; admite-se nova verificação a qualquer tempo.",
+  "formato": "assertiva",
+  "c": "RC art. 45, §§ 1º a 3º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca legitimados e prazo",
+  "par": "Q-RC-0099",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 45",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0101",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0046"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "O processo nominal utiliza-se em quórum especial, por deliberação do Plenário ou em verificação, fazendo-se pelo painel eletrônico ou, nos vetos, por cédula que permita apuração eletrônica.",
+  "formato": "assertiva",
+  "c": "RC art. 46.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0102",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 46",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0102",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0046"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "O processo nominal utiliza-se em todas as votações, fazendo-se sempre por chamada em voz alta.",
+  "formato": "assertiva",
+  "c": "RC art. 46.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "generaliza o nominal",
+  "par": "Q-RC-0101",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 46",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0103",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0047"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Na votação secreta, o Congressista recebe sobrecarta opaca e se dirige a cabina indevassável; a apuração é feita pela Mesa, com um Senador e um Deputado escrutinadores, preferentemente de partidos diversos.",
+  "formato": "assertiva",
+  "c": "RC art. 47.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0104",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 47",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0104",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0047"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Na votação secreta, o Congressista vota por painel eletrônico; a apuração é feita por três Senadores escolhidos pelo Presidente.",
+  "formato": "assertiva",
+  "c": "RC art. 47.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca o método",
+  "par": "Q-RC-0103",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 47",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0105",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0048"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Presente à sessão, o Congressista só pode deixar de votar em assunto de interesse pessoal, comunicando seu impedimento à Mesa, com o comparecimento computado para quórum.",
+  "formato": "assertiva",
+  "c": "RC art. 48.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0106",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 48",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0106",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0048"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Presente à sessão, o Congressista pode deixar de votar livremente, sem comunicação, e o comparecimento não é computado para quórum.",
+  "formato": "assertiva",
+  "c": "RC art. 48.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "admite abstenção livre",
+  "par": "Q-RC-0105",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 48",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0107",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0049"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Encerrada a discussão, passa-se à votação, encaminhada por quatro Senadores e quatro Deputados, cinco minutos cada; vota-se primeiro o projeto, ressalvados destaques e emendas.",
+  "formato": "assertiva",
+  "c": "RC art. 49.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0108",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 49",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0108",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0049"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Encerrada a discussão, passa-se à votação sem encaminhamento; vota-se primeiro as emendas e depois o projeto.",
+  "formato": "assertiva",
+  "c": "RC art. 49.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte a ordem",
+  "par": "Q-RC-0107",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 49",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0109",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0049"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Das emendas destacadas, votam-se inicialmente as supressivas, depois as substitutivas, as modificativas e as aditivas; as emendas são votadas em grupos, conforme parecer favorável ou contrário.",
+  "formato": "assertiva",
+  "c": "RC art. 49, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0110",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 49",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0110",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0049"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Das emendas destacadas, votam-se inicialmente as aditivas, depois as modificativas, as substitutivas e as supressivas; as emendas são votadas uma a uma.",
+  "formato": "assertiva",
+  "c": "RC art. 49, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte a ordem e o método",
+  "par": "Q-RC-0109",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 49",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0111",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0049"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "O substitutivo tem preferência sobre o projeto se for de autoria da Comissão ou tiver parecer favorável dela; aprovado o substitutivo, ficam prejudicados o projeto e as emendas, salvo o disposto no § 5º.",
+  "formato": "assertiva",
+  "c": "RC art. 49, §§ 4º a 6º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0112",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 49",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0112",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0049"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "O projeto tem sempre preferência sobre o substitutivo; aprovado o substitutivo, o projeto e as emendas continuam em votação.",
+  "formato": "assertiva",
+  "c": "RC art. 49, §§ 4º a 6º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte a preferência",
+  "par": "Q-RC-0111",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 49",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0113",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0050"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Os requerimentos de preferência e de destaque só podem ser formulados por Líder, devem ser apresentados até o anúncio da votação, não são discutidos e não têm encaminhamento.",
+  "formato": "assertiva",
+  "c": "RC art. 50.",
+  "padrao": "atribuicao_autor",
+  "tipo_erro": "",
+  "par": "Q-RC-0114",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 50",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0114",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0050"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Os requerimentos de preferência e de destaque podem ser formulados por qualquer Congressista, até o encerramento da votação.",
+  "formato": "assertiva",
+  "c": "RC art. 50.",
+  "padrao": "atribuicao_autor",
+  "tipo_erro": "amplia legitimados e prazo",
+  "par": "Q-RC-0113",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 50",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0115",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0051"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Concluída a votação, a matéria volta à Comissão Mista para a redação final, com prazo máximo de vinte e quatro horas; é dispensada se aprovada sem emendas ou em substitutivo integral.",
+  "formato": "assertiva",
+  "c": "RC art. 51.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0116",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 51",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0116",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0051"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Concluída a votação, a matéria vai à CCJ da Câmara para a redação final, com prazo de cinco sessões; é sempre obrigatória.",
+  "formato": "assertiva",
+  "c": "RC art. 51.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca o órgão e prazo",
+  "par": "Q-RC-0115",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 51",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0117",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0052"
+  ],
+  "ponto": "R43",
+  "g": "C",
+  "e": "Aprovado em definitivo o projeto, o texto é encaminhado em autógrafos ao Presidente da República para sanção; se de competência exclusiva do Congresso, é promulgado pelo Presidente do Senado.",
+  "formato": "assertiva",
+  "c": "RC art. 52.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0118",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 52",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0118",
+  "t": "P2-M8-3.4",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.4",
+  "a": [
+   "A-RC-0052"
+  ],
+  "ponto": "R43",
+  "g": "E",
+  "e": "Aprovado em definitivo o projeto, o texto é promulgado pelo Presidente da Câmara, ainda que de competência exclusiva do Congresso.",
+  "formato": "assertiva",
+  "c": "RC art. 52.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca o promulgador",
+  "par": "Q-RC-0117",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 52",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0119",
+  "t": "P2-M8-3.5",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.5",
+  "a": [
+   "A-RC-0053"
+  ],
+  "ponto": "R44",
+  "g": "C",
+  "e": "Nas sessões solenes integram a Mesa o Presidente da Câmara e, mediante convite, o Presidente do Supremo Tribunal Federal; realizam-se com qualquer número.",
+  "formato": "assertiva",
+  "c": "RC art. 53.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0120",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 53",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0120",
+  "t": "P2-M8-3.5",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.5",
+  "a": [
+   "A-RC-0053"
+  ],
+  "ponto": "R44",
+  "g": "E",
+  "e": "Nas sessões solenes integram a Mesa o Presidente da Câmara e o Presidente do STF, em caráter obrigatório; exigem quórum de um sexto.",
+  "formato": "assertiva",
+  "c": "RC art. 53.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca convite e quórum",
+  "par": "Q-RC-0119",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 53",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0121",
+  "t": "P2-M8-3.5",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.5",
+  "a": [
+   "A-RC-0054"
+  ],
+  "ponto": "R44",
+  "g": "C",
+  "e": "Nas sessões solenes não há expediente; composta a Mesa, o Presidente declara aberta a sessão e o fim para que foi convocada.",
+  "formato": "assertiva",
+  "c": "RC art. 54.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0122",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 54",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0122",
+  "t": "P2-M8-3.5",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.5",
+  "a": [
+   "A-RC-0054"
+  ],
+  "ponto": "R44",
+  "g": "E",
+  "e": "Nas sessões solenes há expediente de trinta minutos; composta a Mesa, o Presidente declara aberta a sessão.",
+  "formato": "assertiva",
+  "c": "RC art. 54.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "cria expediente",
+  "par": "Q-RC-0121",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 54",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0123",
+  "t": "P2-M8-3.5",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.5",
+  "a": [
+   "A-RC-0055"
+  ],
+  "ponto": "R44",
+  "g": "C",
+  "e": "Nas sessões solenes só podem falar um Senador e um Deputado, previamente designados pelas respectivas Casas; na inauguração e na posse do Presidente da República não há oradores.",
+  "formato": "assertiva",
+  "c": "RC art. 55.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0124",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 55",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0124",
+  "t": "P2-M8-3.5",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.5",
+  "a": [
+   "A-RC-0055"
+  ],
+  "ponto": "R44",
+  "g": "E",
+  "e": "Nas sessões solenes podem falar todos os Líderes; na inauguração e na posse do Presidente da República falam o Presidente do Senado e o da Câmara.",
+  "formato": "assertiva",
+  "c": "RC art. 55.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "amplia oradores",
+  "par": "Q-RC-0123",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 55",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0125",
+  "t": "P2-M8-3.5",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.5",
+  "a": [
+   "A-RC-0056"
+  ],
+  "ponto": "R44",
+  "g": "C",
+  "e": "Nas sessões solenes não se admitem questões de ordem.",
+  "formato": "assertiva",
+  "c": "RC art. 56.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0126",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 56",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0126",
+  "t": "P2-M8-3.5",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "bloco": "P2",
+  "item_edital": "8.3.5",
+  "a": [
+   "A-RC-0056"
+  ],
+  "ponto": "R44",
+  "g": "E",
+  "e": "Nas sessões solenes admitem-se questões de ordem, desde que formuladas por Líder.",
+  "formato": "assertiva",
+  "c": "RC art. 56.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "admite questões de ordem",
+  "par": "Q-RC-0125",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 56",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0127",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0057"
+  ],
+  "ponto": "R44b",
+  "g": "C",
+  "e": "Na inauguração da sessão legislativa, o enviado do Presidente da República é conduzido à Mesa pelos Diretores das Secretarias do Senado e da Câmara, sem atravessar o plenário, e a sessão se encerra finda a leitura da Mensagem.",
+  "formato": "assertiva",
+  "c": "RC arts. 57 a 59.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0128",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 57",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0128",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0057"
+  ],
+  "ponto": "R44b",
+  "g": "E",
+  "e": "Na inauguração da sessão legislativa, o próprio Presidente da República lê a Mensagem e a sessão segue com debates.",
+  "formato": "assertiva",
+  "c": "RC arts. 57 a 59.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca o portador",
+  "par": "Q-RC-0127",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 57",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0129",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0060"
+  ],
+  "ponto": "R44b",
+  "g": "C",
+  "e": "Na posse do Presidente e do Vice da República, o Presidente da Mesa designa cinco Senadores e cinco Deputados para a comissão que recebe os empossandos e os conduz ao Salão de Honra.",
+  "formato": "assertiva",
+  "c": "RC art. 60.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0130",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 60",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0130",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0060"
+  ],
+  "ponto": "R44b",
+  "g": "E",
+  "e": "Na posse do Presidente e do Vice da República, o Presidente da Mesa designa três Senadores e três Deputados para a comissão de recepção.",
+  "formato": "assertiva",
+  "c": "RC art. 60.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca número",
+  "par": "Q-RC-0129",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 60",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0131",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0061"
+  ],
+  "ponto": "R44b",
+  "g": "C",
+  "e": "Os empossandos ocupam, respectivamente, os lugares à direita (Presidente da República) e à esquerda (Vice) do Presidente da Mesa; o compromisso é prestado nos termos do art. 78 da Constituição.",
+  "formato": "assertiva",
+  "c": "RC arts. 61 e 62.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0132",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 61",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0132",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0061"
+  ],
+  "ponto": "R44b",
+  "g": "E",
+  "e": "Os empossandos ocupam, respectivamente, os lugares à esquerda (Presidente da República) e à direita (Vice) do Presidente da Mesa.",
+  "formato": "assertiva",
+  "c": "RC arts. 61 e 62.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte lados",
+  "par": "Q-RC-0131",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 61",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0133",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0065"
+  ],
+  "ponto": "R44b",
+  "g": "C",
+  "e": "Após a prestação dos compromissos, o 1º Secretário lê o termo de posse, assinado pelos empossados e pelos membros da Mesa; ao Presidente da República pode ser concedida a palavra.",
+  "formato": "assertiva",
+  "c": "RC arts. 65 e 66.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0134",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 65",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0134",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0065"
+  ],
+  "ponto": "R44b",
+  "g": "E",
+  "e": "Após a prestação dos compromissos, o 2º Secretário lê o termo de posse, assinado apenas pelos empossados; o Presidente da República não pode usar da palavra.",
+  "formato": "assertiva",
+  "c": "RC arts. 65 e 66.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca leitor e palavra",
+  "par": "Q-RC-0133",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 65",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0135",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0068"
+  ],
+  "ponto": "R44b",
+  "g": "C",
+  "e": "Na recepção a Chefe de Estado estrangeiro, o Presidente da Mesa designa três Senadores e três Deputados; o visitante ocupa na Mesa o lugar à direita do Presidente e só fala após os oradores da sessão.",
+  "formato": "assertiva",
+  "c": "RC arts. 68 a 70.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0136",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 68",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0136",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0068"
+  ],
+  "ponto": "R44b",
+  "g": "E",
+  "e": "Na recepção a Chefe de Estado estrangeiro, o Presidente da Mesa designa cinco Senadores e cinco Deputados; o visitante ocupa o lugar à esquerda do Presidente e fala antes dos oradores.",
+  "formato": "assertiva",
+  "c": "RC arts. 68 a 70.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca número, lado e ordem",
+  "par": "Q-RC-0135",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 68",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0137",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0085"
+  ],
+  "ponto": "R45",
+  "g": "C",
+  "e": "Aprovada a PEC em segundo turno, as Mesas da Câmara e do Senado promulgam, em sessão conjunta solene, a emenda à Constituição com o respectivo número de ordem.",
+  "formato": "assertiva",
+  "c": "RC art. 85; CF art. 60, § 3º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0138",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 85",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0138",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0085"
+  ],
+  "ponto": "R45",
+  "g": "E",
+  "e": "Aprovada a PEC em segundo turno, o Presidente da República promulga, em sessão conjunta solene, a emenda à Constituição.",
+  "formato": "assertiva",
+  "c": "RC art. 85; CF art. 60, § 3º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca o promulgador",
+  "par": "Q-RC-0137",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 85",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0139",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0089"
+  ],
+  "ponto": "R45",
+  "g": "C",
+  "e": "A Mensagem do Presidente da República com o projeto de lei orçamentária é recebida e lida em sessão conjunta especialmente convocada, em até quarenta e oito horas de sua entrega ao Presidente do Senado.",
+  "formato": "assertiva",
+  "c": "RC art. 89.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0140",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 89",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0140",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0089"
+  ],
+  "ponto": "R45",
+  "g": "E",
+  "e": "A Mensagem do Presidente da República com o projeto de lei orçamentária é recebida e lida em sessão conjunta especialmente convocada, em até trinta dias de sua entrega ao Presidente do Senado.",
+  "formato": "assertiva",
+  "c": "RC art. 89.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca prazo",
+  "par": "Q-RC-0139",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 89",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0141",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0090"
+  ],
+  "ponto": "R45",
+  "g": "C",
+  "e": "O projeto de lei orçamentária é apreciado por uma Comissão Mista, com colaboração das Comissões Permanentes da Câmara e do Senado.",
+  "formato": "assertiva",
+  "c": "RC art. 90.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0142",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 90",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0142",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0090"
+  ],
+  "ponto": "R45",
+  "g": "E",
+  "e": "O projeto de lei orçamentária é apreciado exclusivamente pela Comissão de Finanças e Tributação da Câmara, ouvido o Senado em Plenário.",
+  "formato": "assertiva",
+  "c": "RC art. 90.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca o órgão",
+  "par": "Q-RC-0141",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 90",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0143",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0090"
+  ],
+  "ponto": "R45",
+  "g": "C",
+  "e": "Nas deliberações da Comissão Mista do Orçamento, o voto contrário da maioria dos representantes de uma das Casas importa a rejeição da matéria; as deliberações iniciam-se pelos representantes da Câmara.",
+  "formato": "assertiva",
+  "c": "RC art. 90, § 4º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0144",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 90",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0144",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0090"
+  ],
+  "ponto": "R45",
+  "g": "E",
+  "e": "Nas deliberações da Comissão Mista do Orçamento, os votos são somados sem distinção de Casa, e as deliberações iniciam-se pelos representantes do Senado.",
+  "formato": "assertiva",
+  "c": "RC art. 90, § 4º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "soma votos e inverte início",
+  "par": "Q-RC-0143",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 90",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0145",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0090"
+  ],
+  "ponto": "R45",
+  "g": "C",
+  "e": "O suplente só participa dos trabalhos da Comissão Mista na ausência ou impedimento de titular.",
+  "formato": "assertiva",
+  "c": "RC art. 90, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0146",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 90",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0146",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0090"
+  ],
+  "ponto": "R45",
+  "g": "E",
+  "e": "O suplente participa dos trabalhos da Comissão Mista em igualdade com o titular, com direito a voto.",
+  "formato": "assertiva",
+  "c": "RC art. 90, § 2º.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "iguala suplente",
+  "par": "Q-RC-0145",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 90",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0147",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0093"
+  ],
+  "ponto": "R45",
+  "g": "C",
+  "e": "O projeto de lei orçamentária é distribuído em avulsos eletrônicos nos cinco dias seguintes à sua leitura.",
+  "formato": "assertiva",
+  "c": "RC art. 93.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0148",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 93",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0148",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0093"
+  ],
+  "ponto": "R45",
+  "g": "E",
+  "e": "O projeto de lei orçamentária é distribuído em avulsos eletrônicos em até quarenta e oito horas da sua leitura.",
+  "formato": "assertiva",
+  "c": "RC art. 93.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "troca prazo",
+  "par": "Q-RC-0147",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 93",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0149",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0099"
+  ],
+  "ponto": "R45",
+  "g": "C",
+  "e": "As emendas ao orçamento pendentes de decisão do Plenário são discutidas e votadas em grupos, conforme parecer favorável ou contrário, ressalvados os destaques.",
+  "formato": "assertiva",
+  "c": "RC art. 99.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0150",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 99",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0150",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0099"
+  ],
+  "ponto": "R45",
+  "g": "E",
+  "e": "As emendas ao orçamento pendentes de decisão do Plenário são discutidas e votadas uma a uma, vedada a votação em grupos.",
+  "formato": "assertiva",
+  "c": "RC art. 99.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "veda grupos",
+  "par": "Q-RC-0149",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 99",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0151",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0100"
+  ],
+  "ponto": "R45",
+  "g": "C",
+  "e": "Se a Comissão Mista do Orçamento não apresentar parecer no prazo, o Presidente do Senado convoca sessão conjunta para apreciar a matéria, designando Relator que profere parecer oral.",
+  "formato": "assertiva",
+  "c": "RC art. 100.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0152",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 100",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0152",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0100"
+  ],
+  "ponto": "R45",
+  "g": "E",
+  "e": "Se a Comissão Mista do Orçamento não apresentar parecer no prazo, o projeto é considerado rejeitado e arquivado.",
+  "formato": "assertiva",
+  "c": "RC art. 100.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "presume rejeição",
+  "par": "Q-RC-0151",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 100",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0153",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0102"
+  ],
+  "ponto": "R45",
+  "g": "C",
+  "e": "Na tramitação do projeto de lei orçamentária anual, aplicam-se, no que couber, além da Seção própria, as normas do Regimento Comum para os demais projetos de lei.",
+  "formato": "assertiva",
+  "c": "RC art. 102.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-RC-0154",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 102",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-RC-0154",
+  "t": "P1-M4-8.2",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "bloco": "P1",
+  "item_edital": "4.-8.2",
+  "a": [
+   "A-RC-0102"
+  ],
+  "ponto": "R45",
+  "g": "E",
+  "e": "Na tramitação do projeto de lei orçamentária anual, aplicam-se exclusivamente as normas da Seção própria, vedada a aplicação das regras dos demais projetos.",
+  "formato": "assertiva",
+  "c": "RC art. 102.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "veda aplicação subsidiária",
+  "par": "Q-RC-0153",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "regimento",
+   "ref": "Regimento Comum do Congresso Nacional (Res. nº 1/1970-CN), texto compilado na 29ª ed. do RICD, Edições Câmara, 2025, art. 102",
+   "versao": "texto compilado em 2025",
+   "conferida": "texto-fonte"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L25",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ }
+]
