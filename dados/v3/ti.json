@@ -15808,5 +15808,5979 @@
    "cega": "ok",
    "humana": false
   }
+ },
+ {
+  "id": "Q-TI-0387",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Outlook, os convites de reunião são enviados pelo calendário, e os destinatários podem responder aceitando, recusando ou aceitando provisoriamente.",
+  "formato": "assertiva",
+  "c": "Outlook, calendário.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0388",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0388",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Outlook, os convites de reunião são enviados pela pasta Caixa de Saída, e os destinatários só podem responder aceitando, sem opção de recusar ou de aceitar provisoriamente.",
+  "formato": "assertiva",
+  "c": "Outlook, calendário.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "limita as respostas ao convite",
+  "par": "Q-TI-0387",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0389",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Outlook, uma regra pode mover ou marcar automaticamente as mensagens recebidas que atendam a critérios definidos pelo usuário, como remetente ou assunto.",
+  "formato": "assertiva",
+  "c": "Outlook, regras.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-TI-0390",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0390",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Outlook, as regras só se aplicam às mensagens enviadas, e não é possível mover ou marcar automaticamente as mensagens recebidas com base em critérios definidos pelo usuário.",
+  "formato": "assertiva",
+  "c": "Outlook, regras.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "restringe regras a mensagens enviadas",
+  "par": "Q-TI-0389",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0391",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Outlook, as mensagens excluídas vão primeiro para a pasta Itens Excluídos, de onde podem ser recuperadas até que essa pasta seja esvaziada ou a remoção definitiva ocorra.",
+  "formato": "assertiva",
+  "c": "Outlook, Itens Excluídos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0392",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0392",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Outlook, as mensagens excluídas são removidas definitivamente no mesmo instante, sem passar por pasta intermediária, e não podem ser recuperadas em hipótese alguma.",
+  "formato": "assertiva",
+  "c": "Outlook, Itens Excluídos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "afirma exclusão definitiva imediata",
+  "par": "Q-TI-0391",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0393",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "O SharePoint organiza sites e bibliotecas de documentos com controle de permissões e histórico de versões, e é o local onde ficam armazenados os arquivos das equipes do Microsoft Teams.",
+  "formato": "assertiva",
+  "c": "SharePoint.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0394",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0394",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "O SharePoint é um cliente de e-mail instalado no computador e é o local onde ficam armazenados os arquivos de conversas individuais do Microsoft Teams. Trata-se de prática corrente.",
+  "formato": "assertiva",
+  "c": "SharePoint.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde SharePoint com cliente de e-mail",
+  "par": "Q-TI-0393",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0395",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "O Microsoft 365 Copilot é um assistente de IA generativa integrado aos aplicativos do pacote, que pode redigir, resumir e analisar conteúdo, operando dentro das permissões de acesso do usuário.",
+  "formato": "assertiva",
+  "c": "Copilot do Microsoft 365.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0396",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0396",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "O Microsoft 365 Copilot é um assistente de IA generativa que acessa todo o conteúdo da organização, independentemente das permissões do usuário que o utiliza, o que dispensa a verificação humana das respostas.",
+  "formato": "assertiva",
+  "c": "Copilot do Microsoft 365.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "ignora permissões e verificação humana",
+  "par": "Q-TI-0395",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0397",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Excel, a fórmula =ARRED(2,567;2) resulta em 2,57.",
+  "formato": "assertiva",
+  "c": "ARRED arredonda.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-TI-0398",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0398",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Excel, a fórmula =ARRED(2,567;2) resulta em 2,56, pois o Excel descarta as casas decimais excedentes sem arredondar.",
+  "formato": "assertiva",
+  "c": "ARRED arredonda.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "confunde arredondar com truncar",
+  "par": "Q-TI-0397",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0399",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "Se as células A1 a A5 do Excel contêm 10, 40, 20, 50 e 30, a fórmula =MAIOR(A1:A5;2) resulta em 40, e a fórmula =MENOR(A1:A5;2) resulta em 20.",
+  "formato": "caso_concreto",
+  "c": "Segundo maior = 40; segundo menor = 20.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0400",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0400",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "Se as células A1 a A5 do Excel contêm 10, 40, 20, 50 e 30, a fórmula =MAIOR(A1:A5;2) resulta em 50, e a fórmula =MENOR(A1:A5;2) resulta em 10.",
+  "formato": "caso_concreto",
+  "c": "Segundo maior = 40; segundo menor = 20.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "confunde k-ésimo com extremo",
+  "par": "Q-TI-0399",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0401",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Excel, a função E devolve verdadeiro apenas quando todas as condições testadas são verdadeiras, ao passo que a função OU devolve verdadeiro quando ao menos uma das condições é verdadeira.",
+  "formato": "assertiva",
+  "c": "Funções lógicas.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0402",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0402",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Excel, a função E devolve verdadeiro quando ao menos uma das condições testadas é verdadeira, ao passo que a função OU devolve verdadeiro apenas quando todas as condições são verdadeiras.",
+  "formato": "assertiva",
+  "c": "Funções lógicas.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "troca E e OU",
+  "par": "Q-TI-0401",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0403",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "Se as células A1 a A5 do Excel contêm 3, 8, 6, 9 e 2, a fórmula =CONT.SE(A1:A5;\">5\") resulta em 3.",
+  "formato": "caso_concreto",
+  "c": "8, 6 e 9 são maiores que 5.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0404",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0404",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "Se as células A1 a A5 do Excel contêm 3, 8, 6, 9 e 2, a fórmula =CONT.SE(A1:A5;\">5\") resulta em 2.",
+  "formato": "caso_concreto",
+  "c": "8, 6 e 9 são maiores que 5.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "erra a contagem",
+  "par": "Q-TI-0403",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0405",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Excel, a função MÉDIA ignora as células vazias e as que contêm texto no intervalo informado, considerando apenas os valores numéricos.",
+  "formato": "assertiva",
+  "c": "MÉDIA ignora texto e vazias.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0406",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0406",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Excel, a função MÉDIA considera as células vazias e as que contêm texto como zero, incluindo-as na contagem de valores do intervalo informado.",
+  "formato": "assertiva",
+  "c": "MÉDIA ignora texto e vazias.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "trata texto e vazias como zero",
+  "par": "Q-TI-0405",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0407",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "Se a célula A1 do Excel contém Ana e a célula B1 contém Silva, a fórmula =A1&\" \"&B1 resulta em Ana Silva.",
+  "formato": "caso_concreto",
+  "c": "Operador & concatena.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0408",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0408",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "Se a célula A1 do Excel contém Ana e a célula B1 contém Silva, a fórmula =A1&\" \"&B1 resulta em um erro, pois o operador & só pode ser usado com números.",
+  "formato": "caso_concreto",
+  "c": "Operador & concatena.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "afirma que & só serve para números",
+  "par": "Q-TI-0407",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0409",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Excel, a fórmula =ESQUERDA(\"Brasília\";3) resulta em Bra.",
+  "formato": "caso_concreto",
+  "c": "ESQUERDA extrai do início.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0410",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0410",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Excel, a fórmula =ESQUERDA(\"Brasília\";3) resulta em lia, pois extrai os últimos três caracteres do texto.",
+  "formato": "caso_concreto",
+  "c": "ESQUERDA extrai do início.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "troca ESQUERDA e DIREITA",
+  "par": "Q-TI-0409",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0411",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Excel, a alça de preenchimento, no canto inferior direito da célula selecionada, permite copiar fórmulas para as células vizinhas e estender séries, como dias da semana e sequências numéricas.",
+  "formato": "assertiva",
+  "c": "Alça de preenchimento.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0412",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0412",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Excel, a alça de preenchimento, no canto inferior direito da célula selecionada, permite apenas copiar valores, sem copiar fórmulas e sem estender séries de dias ou números. Isso é consenso na área.",
+  "formato": "assertiva",
+  "c": "Alça de preenchimento.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "limita o recurso",
+  "par": "Q-TI-0411",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0413",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Excel, o recurso Colar Especial permite colar apenas os valores, as fórmulas ou os formatos do conteúdo copiado, em vez de colar tudo.",
+  "formato": "assertiva",
+  "c": "Colar Especial.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0414",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0414",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Excel, o recurso Colar Especial só permite colar o conteúdo copiado integralmente, sem possibilidade de escolher apenas valores, fórmulas ou formatos.",
+  "formato": "assertiva",
+  "c": "Colar Especial.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "nega as opções de colagem",
+  "par": "Q-TI-0413",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0415",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Word, a quebra de seção permite aplicar, em partes distintas do mesmo documento, configurações diferentes de orientação da página, número de colunas, cabeçalho e rodapé.",
+  "formato": "assertiva",
+  "c": "Word, seções.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0416",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0416",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Word, a quebra de seção serve apenas para iniciar uma nova linha, sem permitir configurações diferentes de orientação, colunas, cabeçalho ou rodapé em partes do documento.",
+  "formato": "assertiva",
+  "c": "Word, seções.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde seção com quebra de linha",
+  "par": "Q-TI-0415",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0417",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Word, o recurso Comparar documentos destaca as diferenças entre duas versões de um texto, e o recurso Proteger Documento permite restringir a edição.",
+  "formato": "assertiva",
+  "c": "Word, comparar e proteger.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0418",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0418",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Word, o recurso Comparar documentos unifica automaticamente duas versões de um texto, sem destacar diferenças, e o recurso Proteger Documento serve apenas para imprimir.",
+  "formato": "assertiva",
+  "c": "Word, comparar e proteger.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "desfigura os recursos",
+  "par": "Q-TI-0417",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0419",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Word, o cabeçalho e o rodapé repetem o conteúdo definido nas páginas do documento, e a numeração de páginas pode ser inserida na guia Inserir.",
+  "formato": "assertiva",
+  "c": "Word, cabeçalho, rodapé e numeração.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0420",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0420",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Word, o cabeçalho e o rodapé aparecem apenas na primeira página, e a numeração de páginas só pode ser inserida na guia Revisão. Isso é consenso na área.",
+  "formato": "assertiva",
+  "c": "Word, cabeçalho, rodapé e numeração.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "limita o alcance e erra a guia",
+  "par": "Q-TI-0419",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0421",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No PowerPoint, a apresentação pode ser exportada como PDF ou como vídeo, e o Modo Apresentador exibe notas e cronômetro apenas ao apresentador.",
+  "formato": "assertiva",
+  "c": "PowerPoint, exportação e Modo Apresentador.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0422",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0422",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No PowerPoint, a apresentação não pode ser exportada como PDF nem como vídeo, e o Modo Apresentador exibe as notas e o cronômetro também ao público.",
+  "formato": "assertiva",
+  "c": "PowerPoint, exportação e Modo Apresentador.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega exportações e expõe notas ao público",
+  "par": "Q-TI-0421",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0423",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "No Excel, os gráficos são criados na guia Inserir, na qual é possível escolher, entre outros, os tipos colunas, linhas, pizza e dispersão.",
+  "formato": "assertiva",
+  "c": "Excel, gráficos.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0424",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0424",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "No Excel, os gráficos são criados na guia Revisão, na qual só é possível escolher o tipo pizza, pois os demais tipos exigem programa externo.",
+  "formato": "assertiva",
+  "c": "Excel, gráficos.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "erra a guia e limita os tipos",
+  "par": "Q-TI-0423",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0425",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "C",
+  "e": "As versões web dos aplicativos do Microsoft 365 permitem editar documentos pelo navegador e coautoria, embora ofereçam menos recursos do que as versões instaladas no computador.",
+  "formato": "assertiva",
+  "c": "Versões web x desktop.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0426",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0426",
+  "t": "P1-M5-1",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.1",
+  "a": [
+   "A-TI-0001"
+  ],
+  "ponto": "T01",
+  "g": "E",
+  "e": "As versões web dos aplicativos do Microsoft 365 oferecem todos os recursos das versões instaladas no computador e dispensam conexão com a Internet para edição. Trata-se de prática corrente.",
+  "formato": "assertiva",
+  "c": "Versões web x desktop.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "iguala recursos e dispensa Internet",
+  "par": "Q-TI-0425",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0427",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "No modelo OSI, a camada de transporte situa-se acima da camada de rede e abaixo da camada de sessão, e a camada física é a mais baixa, responsável pela transmissão dos bits no meio.",
+  "formato": "assertiva",
+  "c": "Modelo OSI.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0428",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0428",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "No modelo OSI, a camada de transporte situa-se acima da camada de aplicação, e a camada física é a mais alta, responsável pela interface com o usuário. Isso é consenso na área.",
+  "formato": "assertiva",
+  "c": "Modelo OSI.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte a ordem das camadas",
+  "par": "Q-TI-0427",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0429",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "O modelo OSI possui sete camadas, ao passo que o modelo TCP/IP, em sua representação mais comum, possui quatro.",
+  "formato": "assertiva",
+  "c": "OSI 7; TCP/IP 4.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-TI-0430",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0430",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "O modelo OSI possui quatro camadas, ao passo que o modelo TCP/IP, em sua representação mais comum, possui sete.",
+  "formato": "assertiva",
+  "c": "OSI 7; TCP/IP 4.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca o número de camadas",
+  "par": "Q-TI-0429",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0431",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "Na notação CIDR, o prefixo /24 corresponde à máscara 255.255.255.0, que oferece 256 endereços, dos quais 254 podem ser atribuídos a equipamentos.",
+  "formato": "caso_concreto",
+  "c": "/24 → 255.255.255.0; 254 hosts.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0432",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0432",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "Na notação CIDR, o prefixo /24 corresponde à máscara 255.255.0.0, que oferece 256 endereços, todos eles podendo ser atribuídos a equipamentos.",
+  "formato": "caso_concreto",
+  "c": "/24 → 255.255.255.0; 254 hosts.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "erra a máscara e os endereços utilizáveis",
+  "par": "Q-TI-0431",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0433",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "O endereço 127.0.0.1 é o endereço de loopback, que designa o próprio equipamento, e é utilizado em testes locais.",
+  "formato": "caso_concreto",
+  "c": "Loopback.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0434",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0434",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "O endereço 127.0.0.1 designa o servidor DNS padrão da Internet e é utilizado para resolver nomes de domínio.",
+  "formato": "caso_concreto",
+  "c": "Loopback.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "atribui ao loopback função de DNS",
+  "par": "Q-TI-0433",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0435",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "O comando ping testa a conectividade com outro equipamento e mede o tempo de resposta, utilizando mensagens do protocolo ICMP.",
+  "formato": "assertiva",
+  "c": "ping.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0436",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0436",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "O comando ping exibe a rota percorrida pelos pacotes até o destino, salto a salto, utilizando mensagens do protocolo SMTP.",
+  "formato": "assertiva",
+  "c": "ping.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde ping com traceroute",
+  "par": "Q-TI-0435",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0437",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "O comando tracert (Windows) mostra a rota seguida pelos pacotes até o destino, ao passo que o comando nslookup consulta servidores DNS para resolver nomes de domínio.",
+  "formato": "assertiva",
+  "c": "tracert x nslookup.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0438",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0438",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "O comando tracert (Windows) consulta servidores DNS para resolver nomes de domínio, ao passo que o comando nslookup mostra a rota seguida pelos pacotes até o destino.",
+  "formato": "assertiva",
+  "c": "tracert x nslookup.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "troca tracert e nslookup",
+  "par": "Q-TI-0437",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0439",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "O comando ipconfig exibe a configuração IP do equipamento, como endereço, máscara e gateway padrão.",
+  "formato": "assertiva",
+  "c": "ipconfig.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0440",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0440",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "O comando ipconfig cifra o tráfego de rede do equipamento, impedindo que o endereço e a máscara sejam exibidos.",
+  "formato": "assertiva",
+  "c": "ipconfig.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "atribui função de cifragem",
+  "par": "Q-TI-0439",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0441",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "No Wi-Fi, o SSID é o nome da rede sem fio, e os protocolos WPA2 e WPA3 oferecem mais segurança do que o WEP, considerado antigo e vulnerável.",
+  "formato": "assertiva",
+  "c": "Segurança Wi-Fi.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0442",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0442",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "No Wi-Fi, o SSID é a senha da rede sem fio, e o protocolo WEP oferece mais segurança do que os protocolos WPA2 e WPA3, considerados antigos.",
+  "formato": "assertiva",
+  "c": "Segurança Wi-Fi.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte segurança e confunde SSID com senha",
+  "par": "Q-TI-0441",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0443",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "A banda de 2,4 GHz do Wi-Fi tem, em regra, maior alcance e menor velocidade, e a de 5 GHz oferece maior velocidade e menor alcance.",
+  "formato": "assertiva",
+  "c": "Bandas do Wi-Fi.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0444",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0444",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "A banda de 2,4 GHz do Wi-Fi tem, em regra, menor alcance e maior velocidade, e a de 5 GHz oferece menor velocidade e maior alcance.",
+  "formato": "assertiva",
+  "c": "Bandas do Wi-Fi.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte alcance e velocidade",
+  "par": "Q-TI-0443",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0445",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "Na computação em nuvem, o modelo de implantação pública é oferecido por provedor a diversos clientes, o privado atende a uma única organização e o híbrido combina ambos.",
+  "formato": "assertiva",
+  "c": "Modelos de nuvem.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0446",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0446",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "Na computação em nuvem, o modelo de implantação privado é oferecido por provedor a diversos clientes, o público atende a uma única organização e o híbrido combina ambos.",
+  "formato": "assertiva",
+  "c": "Modelos de nuvem.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "troca público e privado",
+  "par": "Q-TI-0445",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0447",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "Em IaaS, o provedor oferece infraestrutura virtualizada (servidores, armazenamento e redes); em PaaS, oferece plataforma para desenvolver e executar aplicações; em SaaS, oferece o software pronto para uso.",
+  "formato": "assertiva",
+  "c": "IaaS, PaaS e SaaS.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0448",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0448",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "Em IaaS, o provedor oferece o software pronto para uso; em PaaS, oferece infraestrutura virtualizada; em SaaS, oferece plataforma para desenvolver e executar aplicações. Isso é consenso na área.",
+  "formato": "assertiva",
+  "c": "IaaS, PaaS e SaaS.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "embaralha os modelos de serviço",
+  "par": "Q-TI-0447",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0449",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "O FTP transfere arquivos sem cifragem, ao passo que o SFTP realiza a transferência de modo cifrado, com base no protocolo SSH.",
+  "formato": "assertiva",
+  "c": "FTP x SFTP.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0450",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0450",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "O FTP transfere arquivos de modo cifrado, ao passo que o SFTP realiza a transferência sem cifragem, com base no protocolo HTTP.",
+  "formato": "assertiva",
+  "c": "FTP x SFTP.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte cifragem de FTP e SFTP",
+  "par": "Q-TI-0449",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0451",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "O proxy atua como intermediário entre o cliente e o servidor, podendo filtrar o acesso e armazenar em cache conteúdos solicitados.",
+  "formato": "assertiva",
+  "c": "Proxy.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0452",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0452",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "O proxy atua como equipamento de enlace que encaminha quadros pelo endereço MAC, sem capacidade de filtrar o acesso nem de armazenar conteúdos em cache.",
+  "formato": "assertiva",
+  "c": "Proxy.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde proxy com switch",
+  "par": "Q-TI-0451",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0453",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "A velocidade de uma conexão costuma ser expressa em bits por segundo (por exemplo, Mbps), ao passo que o tamanho de arquivos costuma ser expresso em bytes (por exemplo, MB).",
+  "formato": "assertiva",
+  "c": "bit x byte.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0454",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0454",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "A velocidade de uma conexão costuma ser expressa em bytes por segundo, e o tamanho de arquivos, em bits, razão pela qual 1 Mbps equivale a 1 MB por segundo. Trata-se de prática corrente.",
+  "formato": "assertiva",
+  "c": "bit x byte.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca as unidades",
+  "par": "Q-TI-0453",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0455",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "C",
+  "e": "Um servidor conecta-se à intranet do órgão de casa por meio de VPN: o tráfego trafega por túnel cifrado sobre a Internet, e o acesso permanece restrito a usuários autorizados.",
+  "formato": "caso_concreto",
+  "c": "VPN.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0456",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0456",
+  "t": "P1-M5-2",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.2",
+  "a": [
+   "A-TI-0002"
+  ],
+  "ponto": "T02",
+  "g": "E",
+  "e": "Um servidor conecta-se à intranet do órgão de casa por meio de VPN: o tráfego trafega em texto claro sobre a Internet, e o acesso fica aberto a qualquer usuário da rede.",
+  "formato": "caso_concreto",
+  "c": "VPN.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "nega cifragem e controle de acesso",
+  "par": "Q-TI-0455",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0457",
+  "t": "P1-M5-3",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.3",
+  "a": [
+   "A-TI-0003"
+  ],
+  "ponto": "T03",
+  "g": "C",
+  "e": "No Teams, o canal privado restringe o acesso às pessoas que são membros desse canal, ao passo que o canal padrão é acessível a todos os membros da equipe.",
+  "formato": "assertiva",
+  "c": "Canais do Teams.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0458",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0458",
+  "t": "P1-M5-3",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.3",
+  "a": [
+   "A-TI-0003"
+  ],
+  "ponto": "T03",
+  "g": "E",
+  "e": "No Teams, o canal privado é acessível a todos os membros da equipe, ao passo que o canal padrão restringe o acesso às pessoas escolhidas como membros.",
+  "formato": "assertiva",
+  "c": "Canais do Teams.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte canal privado e padrão",
+  "par": "Q-TI-0457",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0459",
+  "t": "P1-M5-3",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.3",
+  "a": [
+   "A-TI-0003"
+  ],
+  "ponto": "T03",
+  "g": "C",
+  "e": "No Teams, o status de presença (disponível, ocupado, ausente) informa aos colegas a disponibilidade do usuário para comunicação.",
+  "formato": "assertiva",
+  "c": "Presença no Teams.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0460",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0460",
+  "t": "P1-M5-3",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.3",
+  "a": [
+   "A-TI-0003"
+  ],
+  "ponto": "T03",
+  "g": "E",
+  "e": "No Teams, o status de presença só pode ser definido pelo administrador, e serve apenas para registrar o horário em que o usuário saiu do sistema.",
+  "formato": "assertiva",
+  "c": "Presença no Teams.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "atribui o status só ao administrador",
+  "par": "Q-TI-0459",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0461",
+  "t": "P1-M5-3",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.3",
+  "a": [
+   "A-TI-0003"
+  ],
+  "ponto": "T03",
+  "g": "C",
+  "e": "Um servidor precisa conversar imediatamente com um colega: pode iniciar uma reunião instantânea no Teams, sem precisar agendá-la previamente no calendário.",
+  "formato": "caso_concreto",
+  "c": "Reuniões instantâneas.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0462",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0462",
+  "t": "P1-M5-3",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.3",
+  "a": [
+   "A-TI-0003"
+  ],
+  "ponto": "T03",
+  "g": "E",
+  "e": "Um servidor precisa conversar imediatamente com um colega: só pode iniciar reunião no Teams se a tiver agendado previamente no calendário com antecedência mínima de um dia.",
+  "formato": "caso_concreto",
+  "c": "Reuniões instantâneas.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "inventa exigência de agendamento",
+  "par": "Q-TI-0461",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0463",
+  "t": "P1-M5-3",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.3",
+  "a": [
+   "A-TI-0003"
+  ],
+  "ponto": "T03",
+  "g": "C",
+  "e": "No Google Meet, recursos como legendas automáticas e compartilhamento de tela estão disponíveis conforme a edição contratada e a política definida pelo administrador do domínio.",
+  "formato": "assertiva",
+  "c": "Recursos do Meet.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0464",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0464",
+  "t": "P1-M5-3",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.3",
+  "a": [
+   "A-TI-0003"
+  ],
+  "ponto": "T03",
+  "g": "E",
+  "e": "No Google Meet, as legendas automáticas e o compartilhamento de tela estão disponíveis em todas as contas, sem influência da edição contratada ou da política do administrador.",
+  "formato": "assertiva",
+  "c": "Recursos do Meet.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "ignora edição e política",
+  "par": "Q-TI-0463",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0465",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "C",
+  "e": "No certificado digital do tipo A1, a chave privada é armazenada como arquivo no computador, ao passo que no tipo A3 ela fica em dispositivo criptográfico, como token ou cartão.",
+  "formato": "assertiva",
+  "c": "A1 x A3.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0466",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0466",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "E",
+  "e": "No certificado digital do tipo A3, a chave privada é armazenada como arquivo no computador, ao passo que no tipo A1 ela fica em dispositivo criptográfico, como token ou cartão.",
+  "formato": "assertiva",
+  "c": "A1 x A3.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "troca A1 e A3",
+  "par": "Q-TI-0465",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0467",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "C",
+  "e": "O princípio do menor privilégio determina que cada usuário receba apenas os acessos necessários ao desempenho de suas funções.",
+  "formato": "assertiva",
+  "c": "Menor privilégio.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0468",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0468",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "E",
+  "e": "O princípio do menor privilégio determina que todos os usuários recebam acesso administrativo ao sistema, para evitar que dependam de terceiros no desempenho de suas funções.",
+  "formato": "assertiva",
+  "c": "Menor privilégio.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte o princípio",
+  "par": "Q-TI-0467",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0469",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "C",
+  "e": "As atualizações de segurança (patches) corrigem vulnerabilidades conhecidas, razão pela qual manter o sistema e os aplicativos atualizados reduz a exposição a ataques.",
+  "formato": "assertiva",
+  "c": "Patches.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0470",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0470",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "E",
+  "e": "As atualizações de segurança (patches) servem apenas para acrescentar novos recursos visuais, razão pela qual a falta delas não aumenta a exposição a ataques. Trata-se de prática corrente.",
+  "formato": "assertiva",
+  "c": "Patches.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega a função das atualizações",
+  "par": "Q-TI-0469",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0471",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "C",
+  "e": "O ataque de dia zero (zero-day) explora uma vulnerabilidade ainda desconhecida do fabricante ou para a qual não há correção disponível.",
+  "formato": "assertiva",
+  "c": "Zero-day.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0472",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0472",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "E",
+  "e": "O ataque de dia zero (zero-day) explora uma vulnerabilidade já corrigida pelo fabricante há mais de um ano, mas ainda não instalada pelo usuário.",
+  "formato": "assertiva",
+  "c": "Zero-day.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "descreve vulnerabilidade já corrigida",
+  "par": "Q-TI-0471",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0473",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "C",
+  "e": "Em caso de incidente de segurança que possa acarretar risco ou dano relevante aos titulares, a LGPD exige que o controlador comunique o fato à ANPD e ao titular dos dados.",
+  "formato": "caso_concreto",
+  "c": "LGPD, art. 48.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0474",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 14.129/2021; Lei 14.063/2020; LGPD",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0474",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "E",
+  "e": "Em caso de incidente de segurança que possa acarretar risco ou dano relevante aos titulares, a LGPD dispensa a comunicação à ANPD, bastando que o controlador registre o fato internamente.",
+  "formato": "caso_concreto",
+  "c": "LGPD, art. 48.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "dispensa a comunicação",
+  "par": "Q-TI-0473",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 14.129/2021; Lei 14.063/2020; LGPD",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0475",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "C",
+  "e": "A engenharia social explora o fator humano, induzindo pessoas a fornecer informações ou realizar ações que comprometam a segurança, sem depender de falha técnica do sistema.",
+  "formato": "assertiva",
+  "c": "Engenharia social.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0476",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0476",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "E",
+  "e": "A engenharia social explora exclusivamente falhas técnicas de software, sem qualquer interação com pessoas, e só é possível mediante invasão do servidor. Isso é consenso na área.",
+  "formato": "assertiva",
+  "c": "Engenharia social.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "nega o fator humano",
+  "par": "Q-TI-0475",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0477",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "C",
+  "e": "Uma organização mantém cópia de segurança em nuvem e outra em disco externo guardado em local distinto, e testa periodicamente a restauração. Essas práticas atendem à ideia de múltiplas cópias, em locais e mídias diferentes, com verificação de que podem ser restauradas.",
+  "formato": "caso_concreto",
+  "c": "Boas práticas de backup.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0478",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0478",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "E",
+  "e": "Uma organização mantém todas as cópias de segurança em um único disco externo, guardado ao lado do servidor, e nunca testa a restauração. Essas práticas atendem à ideia de múltiplas cópias, em locais e mídias diferentes, com verificação de que podem ser restauradas.",
+  "formato": "caso_concreto",
+  "c": "Boas práticas de backup.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "considera adequado o backup único e sem teste",
+  "par": "Q-TI-0477",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0479",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "C",
+  "e": "A criptografia protege o conteúdo contra leitura por quem não detém a chave, mas não impede, por si só, a perda dos dados por falha, exclusão acidental ou ataque, o que exige também cópias de segurança.",
+  "formato": "assertiva",
+  "c": "Criptografia x backup.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0480",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0480",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "E",
+  "e": "A criptografia impede, por si só, a perda dos dados por falha, exclusão acidental ou ataque, o que dispensa a realização de cópias de segurança. Isso é consenso na área.",
+  "formato": "assertiva",
+  "c": "Criptografia x backup.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "atribui à criptografia função de backup",
+  "par": "Q-TI-0479",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0481",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "C",
+  "e": "A autenticação multifator reduz o risco de acesso indevido mesmo quando a senha é descoberta, pois exige ao menos um fator adicional de categoria diferente, como um código gerado em aplicativo ou a biometria.",
+  "formato": "assertiva",
+  "c": "MFA.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0482",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0482",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "E",
+  "e": "A autenticação multifator não reduz o risco de acesso indevido quando a senha é descoberta, pois o segundo fator pode ser uma segunda senha criada pelo próprio usuário. Trata-se de prática corrente.",
+  "formato": "assertiva",
+  "c": "MFA.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "considera segunda senha como fator",
+  "par": "Q-TI-0481",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0483",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "C",
+  "e": "O cadeado exibido na barra de endereços indica que a conexão com o site é cifrada, mas não garante, por si só, que o site seja legítimo ou confiável, pois páginas fraudulentas também podem usar HTTPS.",
+  "formato": "assertiva",
+  "c": "Cadeado e HTTPS.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0484",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0484",
+  "t": "P1-M5-4",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.4",
+  "a": [
+   "A-TI-0004"
+  ],
+  "ponto": "T04",
+  "g": "E",
+  "e": "O cadeado exibido na barra de endereços garante que o site é legítimo e confiável, pois páginas fraudulentas não podem usar HTTPS. Essa seria a posição predominante na literatura técnica.",
+  "formato": "assertiva",
+  "c": "Cadeado e HTTPS.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "iguala cadeado a legitimidade",
+  "par": "Q-TI-0483",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0485",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "ChatGPT, Gemini, Claude e Microsoft Copilot são exemplos de assistentes baseados em IA generativa, que produzem respostas em linguagem natural a partir de instruções do usuário.",
+  "formato": "assertiva",
+  "c": "Exemplos de IA generativa.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0486",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0486",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "ChatGPT, Gemini, Claude e Microsoft Copilot são exemplos de sistemas gerenciadores de bancos de dados relacionais, que armazenam registros em tabelas. Trata-se de prática corrente.",
+  "formato": "assertiva",
+  "c": "Exemplos de IA generativa.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "confunde assistentes com SGBD",
+  "par": "Q-TI-0485",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0487",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "Os modelos multimodais são capazes de processar mais de um tipo de dado, como texto, imagem e áudio.",
+  "formato": "assertiva",
+  "c": "Modelos multimodais.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0488",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0488",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "Os modelos multimodais são aqueles que só processam texto, mas em vários idiomas simultaneamente.",
+  "formato": "assertiva",
+  "c": "Modelos multimodais.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde multimodal com multilíngue",
+  "par": "Q-TI-0487",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0489",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "Nos modelos generativos, valores baixos do parâmetro de temperatura tornam as respostas mais previsíveis e determinísticas, ao passo que valores altos aumentam a variação e a criatividade.",
+  "formato": "assertiva",
+  "c": "Temperatura.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0490",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0490",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "Nos modelos generativos, valores baixos do parâmetro de temperatura aumentam a variação e a criatividade das respostas, ao passo que valores altos as tornam mais previsíveis e determinísticas.",
+  "formato": "assertiva",
+  "c": "Temperatura.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte temperatura",
+  "par": "Q-TI-0489",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0491",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "O fine-tuning ajusta os parâmetros de um modelo já treinado com dados adicionais, ao passo que o prompt apenas orienta o uso do modelo, sem alterar seus parâmetros.",
+  "formato": "assertiva",
+  "c": "Fine-tuning x prompt.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0492",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0492",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "O fine-tuning consiste em redigir instruções melhores no prompt, sem alterar os parâmetros do modelo, ao passo que o prompt ajusta os parâmetros do modelo com dados adicionais.",
+  "formato": "assertiva",
+  "c": "Fine-tuning x prompt.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "troca fine-tuning e prompt",
+  "par": "Q-TI-0491",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0493",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "Em um classificador, falso positivo é o caso em que o modelo prevê a classe positiva, mas o valor real é negativo, e falso negativo é o caso em que o modelo prevê a classe negativa, mas o valor real é positivo.",
+  "formato": "assertiva",
+  "c": "Matriz de confusão.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0494",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0494",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "Em um classificador, falso positivo é o caso em que o modelo prevê a classe negativa, mas o valor real é positivo, e falso negativo é o caso em que o modelo prevê a classe positiva, mas o valor real é negativo.",
+  "formato": "assertiva",
+  "c": "Matriz de confusão.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "troca falso positivo e falso negativo",
+  "par": "Q-TI-0493",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0495",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "Um filtro antispam baseado em aprendizado de máquina que classifica como spam uma mensagem legítima produz um falso positivo.",
+  "formato": "caso_concreto",
+  "c": "Spam positivo; mensagem legítima é negativa.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0496",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0496",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "Um filtro antispam baseado em aprendizado de máquina que classifica como spam uma mensagem legítima produz um falso negativo.",
+  "formato": "caso_concreto",
+  "c": "Spam positivo; mensagem legítima é negativa.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "chama de falso negativo o falso positivo",
+  "par": "Q-TI-0495",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0497",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "Um modelo de caixa-preta é aquele cujo funcionamento interno é difícil de interpretar, o que limita a explicabilidade de suas decisões.",
+  "formato": "assertiva",
+  "c": "Explicabilidade.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0498",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0498",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "Um modelo de caixa-preta é aquele cujo funcionamento interno é totalmente transparente, o que garante a explicabilidade de suas decisões.",
+  "formato": "assertiva",
+  "c": "Explicabilidade.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte a transparência",
+  "par": "Q-TI-0497",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0499",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "Dados sintéticos são gerados artificialmente e podem ser usados para ampliar conjuntos de treinamento, mas podem reproduzir vieses dos dados e dos modelos que os geraram.",
+  "formato": "assertiva",
+  "c": "Dados sintéticos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0500",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0500",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "Dados sintéticos são sempre idênticos aos dados reais, não podendo reproduzir nenhum viés, razão pela qual dispensam avaliação de qualidade. Isso é consenso na área.",
+  "formato": "assertiva",
+  "c": "Dados sintéticos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "afirma neutralidade e dispensa avaliação",
+  "par": "Q-TI-0499",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0501",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "O viés de confirmação pode levar o usuário a formular perguntas e a aceitar respostas que confirmem suas expectativas, razão pela qual convém checar as respostas de uma IA com fontes independentes.",
+  "formato": "assertiva",
+  "c": "Viés de confirmação.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0502",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0502",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "O viés de confirmação ocorre apenas em modelos de aprendizado por reforço e não afeta o modo como o usuário interpreta as respostas de uma IA. Trata-se de prática corrente.",
+  "formato": "assertiva",
+  "c": "Viés de confirmação.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "limita o viés ao modelo",
+  "par": "Q-TI-0501",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0503",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "Um servidor pede a uma IA generativa que cite a jurisprudência aplicável a um tema e recebe precedentes com número e data. Antes de usá-los, deve conferir sua existência e seu teor em fonte oficial, pois a ferramenta pode inventar referências.",
+  "formato": "caso_concreto",
+  "c": "Alucinação de referências.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0504",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0504",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "Um servidor pede a uma IA generativa que cite a jurisprudência aplicável a um tema e recebe precedentes com número e data. Como constam número e data, pode citá-los sem conferência, pois a ferramenta não inventa referências. Isso é consenso na área.",
+  "formato": "caso_concreto",
+  "c": "Alucinação de referências.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "presume veracidade de referências",
+  "par": "Q-TI-0503",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0505",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "No aprendizado de máquina, os dados são em geral divididos em conjuntos de treinamento, validação e teste, e o conjunto de teste é reservado para a avaliação final do modelo.",
+  "formato": "assertiva",
+  "c": "Divisão dos dados.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0506",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0506",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "No aprendizado de máquina, os dados são sempre usados integralmente para o treinamento, e o conjunto de teste é o primeiro a ser utilizado para ajustar os parâmetros do modelo.",
+  "formato": "assertiva",
+  "c": "Divisão dos dados.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte o papel do conjunto de teste",
+  "par": "Q-TI-0505",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0507",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "C",
+  "e": "Um modelo que prevê o valor de um imóvel a partir de área e localização executa tarefa de regressão, ao passo que um modelo que indica se um e-mail é spam executa tarefa de classificação.",
+  "formato": "caso_concreto",
+  "c": "Regressão: valor numérico; classificação: categoria.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0508",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0508",
+  "t": "P1-M5-5",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.5",
+  "a": [
+   "A-TI-0005"
+  ],
+  "ponto": "T05",
+  "g": "E",
+  "e": "Um modelo que prevê o valor de um imóvel a partir de área e localização executa tarefa de classificação, ao passo que um modelo que indica se um e-mail é spam executa tarefa de regressão.",
+  "formato": "caso_concreto",
+  "c": "Regressão: valor numérico; classificação: categoria.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "troca regressão e classificação",
+  "par": "Q-TI-0507",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0509",
+  "t": "P1-M5-6",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.6",
+  "a": [
+   "A-TI-0006"
+  ],
+  "ponto": "T06",
+  "g": "C",
+  "e": "O Marco Civil da Internet (Lei 12.965/2014) estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, entre eles a neutralidade da rede e a proteção da privacidade e dos dados pessoais.",
+  "formato": "assertiva",
+  "c": "Marco Civil.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0510",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 14.129/2021; Lei 14.063/2020; LGPD",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0510",
+  "t": "P1-M5-6",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.6",
+  "a": [
+   "A-TI-0006"
+  ],
+  "ponto": "T06",
+  "g": "E",
+  "e": "O Marco Civil da Internet (Lei 12.965/2014) trata exclusivamente de crimes cibernéticos, e não de princípios e direitos para o uso da Internet, nem de neutralidade da rede. Trata-se de prática corrente.",
+  "formato": "assertiva",
+  "c": "Marco Civil.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde com lei penal",
+  "par": "Q-TI-0509",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 14.129/2021; Lei 14.063/2020; LGPD",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0511",
+  "t": "P1-M5-6",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.6",
+  "a": [
+   "A-TI-0006"
+  ],
+  "ponto": "T06",
+  "g": "C",
+  "e": "Pelo Marco Civil da Internet, o provedor de conexão deve guardar os registros de conexão por um ano, e o provedor de aplicações, os registros de acesso a aplicações, por seis meses.",
+  "formato": "assertiva",
+  "c": "Prazos de guarda de registros.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-TI-0512",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 14.129/2021; Lei 14.063/2020; LGPD",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0512",
+  "t": "P1-M5-6",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.6",
+  "a": [
+   "A-TI-0006"
+  ],
+  "ponto": "T06",
+  "g": "E",
+  "e": "Pelo Marco Civil da Internet, o provedor de conexão deve guardar os registros de conexão por seis meses, e o provedor de aplicações, os registros de acesso a aplicações, por um ano.",
+  "formato": "assertiva",
+  "c": "Prazos de guarda de registros.",
+  "padrao": "troca_numero",
+  "tipo_erro": "inverte os prazos",
+  "par": "Q-TI-0511",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 14.129/2021; Lei 14.063/2020; LGPD",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0513",
+  "t": "P1-M5-6",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.6",
+  "a": [
+   "A-TI-0006"
+  ],
+  "ponto": "T06",
+  "g": "C",
+  "e": "O servidor deve usar com cautela as ferramentas de IA, observando a política do órgão, e responde pelo conteúdo que produz e divulga com apoio dessas ferramentas, ainda que parte do texto tenha sido gerada automaticamente.",
+  "formato": "assertiva",
+  "c": "Responsabilidade pelo conteúdo.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0514",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0514",
+  "t": "P1-M5-6",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.6",
+  "a": [
+   "A-TI-0006"
+  ],
+  "ponto": "T06",
+  "g": "E",
+  "e": "O servidor que divulga conteúdo produzido com apoio de ferramenta de IA não responde por eventuais erros ou ofensas, pois o texto foi gerado automaticamente. Tal conclusão decorreria, segundo esse entendimento, das características do fenômeno descrito.",
+  "formato": "assertiva",
+  "c": "Responsabilidade pelo conteúdo.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "afasta a responsabilidade",
+  "par": "Q-TI-0513",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0515",
+  "t": "P1-M5-6",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.6",
+  "a": [
+   "A-TI-0006"
+  ],
+  "ponto": "T06",
+  "g": "C",
+  "e": "Ao enviar documento com dados pessoais por e-mail, o servidor deve verificar se o envio é necessário e autorizado, se o destinatário está correto e se há necessidade de proteção, como senha ou cifragem do arquivo.",
+  "formato": "caso_concreto",
+  "c": "Cuidado com dados pessoais.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0516",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0516",
+  "t": "P1-M5-6",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.6",
+  "a": [
+   "A-TI-0006"
+  ],
+  "ponto": "T06",
+  "g": "E",
+  "e": "Ao enviar documento com dados pessoais por e-mail, o servidor não precisa verificar a finalidade do envio nem o destinatário, pois o correio institucional garante, por si só, que não haverá acesso indevido.",
+  "formato": "caso_concreto",
+  "c": "Cuidado com dados pessoais.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "presume segurança absoluta do e-mail",
+  "par": "Q-TI-0515",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0517",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "C",
+  "e": "O gráfico de colunas empilhadas mostra a composição de cada categoria em segmentos, mas dificulta a comparação entre segmentos que não estão apoiados na base comum.",
+  "formato": "assertiva",
+  "c": "Colunas empilhadas.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0518",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0518",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "E",
+  "e": "O gráfico de colunas empilhadas facilita a comparação precisa de todos os segmentos, pois todos estão apoiados em uma base comum, independentemente da posição na coluna.",
+  "formato": "assertiva",
+  "c": "Colunas empilhadas.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "afirma comparação precisa para todos os segmentos",
+  "par": "Q-TI-0517",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0519",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "C",
+  "e": "Gráficos com dois eixos verticais podem induzir a falsas conclusões quando as escalas são escolhidas de modo arbitrário, pois a aparência de correlação pode ser produzida pela escolha das escalas.",
+  "formato": "assertiva",
+  "c": "Eixos duplos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0520",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0520",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "E",
+  "e": "Gráficos com dois eixos verticais nunca induzem a falsas conclusões, pois a aparência de correlação independe da escolha das escalas. Essa seria a posição predominante na literatura técnica.",
+  "formato": "assertiva",
+  "c": "Eixos duplos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega o risco de distorção",
+  "par": "Q-TI-0519",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0521",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "C",
+  "e": "O treemap representa dados hierárquicos por retângulos aninhados, cuja área é proporcional ao valor de cada categoria.",
+  "formato": "assertiva",
+  "c": "Treemap.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0522",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0522",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "E",
+  "e": "O treemap representa a evolução de uma variável no tempo por uma linha contínua, cuja inclinação é proporcional ao valor de cada categoria.",
+  "formato": "assertiva",
+  "c": "Treemap.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde treemap com linha",
+  "par": "Q-TI-0521",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0523",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "C",
+  "e": "A sparkline é um minigráfico inserido no interior de uma célula, útil para mostrar a tendência de uma série em pouco espaço.",
+  "formato": "assertiva",
+  "c": "Sparkline.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-TI-0524",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0524",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "E",
+  "e": "A sparkline é um gráfico tridimensional que ocupa a planilha inteira, usado para comparar muitas categorias com precisão.",
+  "formato": "assertiva",
+  "c": "Sparkline.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "descreve gráfico distinto",
+  "par": "Q-TI-0523",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0525",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "C",
+  "e": "A acessibilidade em visualizações envolve contraste adequado, texto alternativo para elementos gráficos e o uso de recursos além da cor para transmitir informação.",
+  "formato": "assertiva",
+  "c": "Acessibilidade.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0526",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0526",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "E",
+  "e": "A acessibilidade em visualizações dispensa texto alternativo e contraste adequado, pois a cor é suficiente para transmitir informação a todos os usuários. Trata-se de prática corrente.",
+  "formato": "assertiva",
+  "c": "Acessibilidade.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "considera a cor suficiente",
+  "par": "Q-TI-0525",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0527",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "C",
+  "e": "Ordenar as barras de um gráfico por valor, do maior para o menor, em geral facilita a comparação entre as categorias, salvo quando as categorias têm ordem natural, como os meses do ano.",
+  "formato": "assertiva",
+  "c": "Ordenação de barras.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-TI-0528",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0528",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "E",
+  "e": "Ordenar as barras de um gráfico por valor prejudica a comparação em qualquer caso, e as categorias devem ser sempre dispostas em ordem alfabética. Isso é consenso na área.",
+  "formato": "assertiva",
+  "c": "Ordenação de barras.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "impõe ordem alfabética",
+  "par": "Q-TI-0527",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0529",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "C",
+  "e": "Um gestor quer mostrar a participação de cinco programas no orçamento total de um órgão: gráfico de pizza ou de barras horizontais ordenadas pode ser usado, sendo as barras preferíveis quando as participações são próximas e se deseja comparação precisa.",
+  "formato": "caso_concreto",
+  "c": "Pizza x barras.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0530",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0530",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "E",
+  "e": "Um gestor quer mostrar a participação de cinco programas no orçamento total de um órgão: o gráfico de pizza é sempre superior ao de barras, mesmo quando as participações são próximas e se deseja comparação precisa. Trata-se de prática corrente.",
+  "formato": "caso_concreto",
+  "c": "Pizza x barras.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "afirma superioridade absoluta da pizza",
+  "par": "Q-TI-0529",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0531",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "C",
+  "e": "Para evidenciar um único ponto de atenção em um gráfico de linhas de dez séries, convém destacar a série relevante com cor e deixar as demais em cinza, em vez de usar dez cores igualmente chamativas.",
+  "formato": "caso_concreto",
+  "c": "Destaque visual.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-TI-0532",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-TI-0532",
+  "t": "P1-M5-8",
+  "materia": "Tecnologia da Informação e Dados",
+  "bloco": "P1",
+  "item_edital": "5.8",
+  "a": [
+   "A-TI-0008"
+  ],
+  "ponto": "T08",
+  "g": "E",
+  "e": "Para evidenciar um único ponto de atenção em um gráfico de linhas de dez séries, convém usar dez cores igualmente chamativas, pois isso direciona a atenção do leitor para a série relevante. Isso é consenso na área.",
+  "formato": "caso_concreto",
+  "c": "Destaque visual.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "recomenda excesso de cores",
+  "par": "Q-TI-0531",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "documentação técnica e literatura de TI",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L17",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
  }
 ]
