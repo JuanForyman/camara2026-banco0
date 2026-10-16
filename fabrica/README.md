@@ -142,3 +142,4 @@ Prioridade de incidência, 2ª base (Taquígrafo 2012): `ferramentas/prioridade_
 - C04 (Ciência Política: eleitoral, partidos, governo; Linguística: enunciação, variação, gêneros): 49 itens, 9 átomos A-N4-*.
 - C05 (art. 5º incisos e competências do Congresso/Senado, átomos existentes): 64 itens.
 - C06 (Fala/Transcrição/IA, P2-M7: ASR, Whisper, diarização, ITN, tempo real, HITL, LGPD, busca): 41 itens, 10 átomos A-N6-* (síntese minha, conferir).
+- C07 (TI e Dados P1-M5: SOMASE/PROCV/PROCX, Word/PPT, Planner/Forms/Power Automate, IDS/IPS/Zero Trust/DDoS, criptografia, 5 Vs/SQL/NoSQL, dados abertos/API, IA): 47 itens, 9 átomos A-N7-* (síntese minha, conferir).
