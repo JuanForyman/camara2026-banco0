@@ -74,3 +74,6 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ### L14 — Ciência Política, segunda leva (POL: 404 itens, P2-M9)
 +258 itens (pol_b.py), átomos 16–37 (teorias da democracia, Tocqueville, Marx/Gramsci, Bobbio, poder, capital social, escolha racional, clivagens, indicadores, CF 14–16 e 44–46, impeachment, federalismo, políticas públicas, RI, nação, interpretações do Brasil 2, participação, política externa) e novos ângulos nos átomos 1–15. Lint 0; resolução cega embaralhada: 5 divergências, 2 itens reescritos (idades de elegibilidade ambíguas; EC 25/1985), 3 eram erro do resolvedor. Itens doutrinários: fonte "conhecimento" + risco; não reproduzem questões reais da banca.
+
+### L15 — Fala, Transcrição e IA (FIA: 314 itens, P2-M7, 25 tópicos 1.1–4.3)
+25 átomos doutrinários (um por tópico do edital 7), ~12 itens por tópico, ~50% C/E. Fonte: conhecimento técnico (ASR, Whisper, CTC/RNN-T, diarização, degravação, HITL, busca semântica/RAG) e LGPD/Lei 9.610/1998 (arts. citados marcados lei=True, ainda a conferir no texto oficial). Lint 0; resolução cega embaralhada: 1 divergência em 314 (item de ITN, gabarito mantido). Pendências: padrão de formatação parlamentar da Câmara não verificado em manual oficial; sem itens reais da banca.

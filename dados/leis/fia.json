@@ -1,0 +1,167 @@
+{
+ "1": [
+  "Como o ASR funciona: o pipeline híbrido clássico",
+  "ASR (Automatic Speech Recognition) converte sinal de fala em texto. O sinal de áudio é digitalizado (amostragem, por exemplo, 16 kHz para fala) e convertido em características acústicas, como espectrogramas na escala mel e MFCCs, calculadas em janelas curtas (cerca de 25 ms, com deslocamento de 10 ms).",
+  "Pipeline híbrido clássico: modelo acústico (tradicionalmente HMM com GMM, depois HMM com redes neurais profundas) estima a probabilidade de unidades sonoras (fonemas) a partir do áudio; léxico (dicionário de pronúncia) liga palavras a sequências de fonemas; modelo de linguagem (n-gramas, depois redes neurais) estima a probabilidade de sequências de palavras; o decodificador busca a hipótese de maior probabilidade combinando acústico, léxico e linguagem.",
+  "A métrica padrão é a taxa de erro de palavras (WER, word error rate): soma de substituições, inserções e remoções dividida pelo número de palavras da referência; pode ultrapassar 100%. Taxa de erro de caracteres (CER) é usada em línguas sem separação clara de palavras e como métrica complementar.",
+  "No pipeline clássico, palavras fora do vocabulário (OOV) não podem ser reconhecidas, e o desempenho depende de domínio: modelos treinados em fala de uso geral erram termos técnicos e nomes próprios."
+ ],
+ "2": [
+  "Modelos end-to-end: CTC, atenção e transducer",
+  "Modelos end-to-end mapeiam diretamente o áudio para texto (caracteres ou subpalavras) em uma única rede neural, sem léxico de pronúncia e sem componentes treinados separadamente.",
+  "CTC (Connectionist Temporal Classification) usa um símbolo especial em branco (blank) e permite alinhamento implícito entre quadros de áudio e rótulos; assume independência condicional entre as saídas em cada quadro, o que costuma exigir modelo de linguagem externo para melhorar a fluência.",
+  "Modelos codificador-decodificador com atenção (attention encoder-decoder, como Listen, Attend and Spell) geram o texto de forma autorregressiva, atendendo a toda a sequência de áudio; tendem a ser precisos em lote, mas são menos naturais para streaming.",
+  "RNN-T (transducer) combina codificador acústico, rede de predição (modelo de linguagem interno) e rede de junção; é adequado a transcrição em tempo real, pois emite tokens de forma incremental, e por isso é muito usado em ASR de streaming em dispositivos.",
+  "Conformer combina convoluções e autoatenção para capturar contexto local e global. wav2vec 2.0 é um modelo de pré-treinamento auto-supervisionado em áudio sem rótulos, depois ajustado com poucos dados transcritos."
+ ],
+ "3": [
+  "LLMs multimodais de áudio nativo e pipeline ASR + LLM",
+  "No pipeline em cascata, um modelo de ASR produz o texto e um LLM processa esse texto (resumo, ata, classificação). Vantagens: modularidade, auditabilidade da transcrição intermediária e possibilidade de revisão humana do texto. Desvantagem: erros do ASR propagam-se ao LLM e informações paralinguísticas (entonação, emoção, pausas, ruídos) são perdidas.",
+  "LLMs multimodais de áudio nativo recebem o áudio como entrada, sem etapa explícita de transcrição, e podem responder, resumir ou transcrever diretamente; podem aproveitar prosódia e contexto acústico. Desvantagens: menor transparência sobre o que foi entendido, custo maior, risco de alucinação sobre o conteúdo do áudio e dificuldade de auditoria quando não se produz transcrição intermediária.",
+  "Para contextos que exigem rastreabilidade e fidelidade, como registros parlamentares, a transcrição intermediária revisável tende a ser preferida, mesmo quando um modelo nativo de áudio é usado como auxiliar."
+ ],
+ "4": [
+  "Diarização: quem falou quando",
+  "Diarização de falantes responde à pergunta quem falou quando: segmenta o áudio em trechos e agrupa os trechos por falante, rotulando-os de forma anônima (por exemplo, Falante 1 e Falante 2), sem necessariamente saber a identidade real.",
+  "Etapas típicas: detecção de atividade de voz (VAD), segmentação, extração de embeddings de falante (i-vectors, x-vectors, d-vectors) e agrupamento (clustering). Existem também modelos end-to-end de diarização neural. Ferramentas conhecidas incluem o pyannote.",
+  "Identificação de falante (speaker identification) associa a voz a uma identidade conhecida, usando perfis cadastrados; a diarização, por si só, não identifica nomes. Nos registros parlamentares, a atribuição do nome do orador costuma combinar diarização com lista de oradores, registro de presença e conferência humana.",
+  "Métrica principal: DER (diarization error rate), que soma fala não detectada (missed speech), falso alarme (false alarm) e confusão de falantes (speaker confusion). Fala sobreposta (interrupções, apartes) é o principal desafio, em especial em plenário e comissões."
+ ],
+ "5": [
+  "Pontuação, capitalização e normalização inversa",
+  "Modelos ASR clássicos produzem sequência de palavras sem pontuação e em minúsculas. Pontuação e capitalização automáticas são feitas por modelo de pós-processamento (rotulagem de sequência, por exemplo) ou emitidas diretamente por modelos end-to-end treinados com texto pontuado, como o Whisper.",
+  "Normalização inversa de texto (ITN, inverse text normalization) converte a forma falada em forma escrita: 'vinte e três por cento' em '23%'; 'artigo quinto' em 'art. 5º'; 'dois mil e vinte e seis' em '2026'. A normalização de texto (TN) faz o caminho contrário, da forma escrita para a falada, e é usada na síntese de fala.",
+  "Erros de pontuação alteram sentido: vírgulas, pontos e interrogações mudam a interpretação, de modo que pontuação automática exige revisão humana em textos oficiais. A pontuação não é capturada por métricas de WER tradicionais, que costumam ignorá-la."
+ ],
+ "6": [
+  "Desafios do ASR em português brasileiro",
+  "O português brasileiro apresenta variação regional (sotaques, ritmo de fala, vogais reduzidas), registros distintos (formal e informal) e fenômenos da oralidade (contrações, apagamento de sons, reduções como 'tá', 'né'), o que dificulta o reconhecimento.",
+  "Em contextos parlamentares: vocabulário técnico e jurídico (siglas como PEC, MPV, PLP; termos como 'questão de ordem', 'destaque', 'requerimento de urgência'), nomes próprios de parlamentares e municípios, números de proposições e artigos, citações de leis e latim, falas simultâneas, aplausos e ruídos de plenário, microfones distantes e qualidade variável do áudio.",
+  "Menos recursos: há menos dados rotulados de português do que de inglês; modelos multilíngues costumam ter desempenho menor em português do que em inglês, e a diferença cresce em áudio ruidoso e vocabulário especializado. Soluções: adaptação ao domínio, vocabulário personalizado, dados de sessões já degravadas e revisão humana.",
+  "Homófonos e palavras de baixa frequência ('cessão' e 'sessão', 'concerto' e 'conserto') exigem contexto linguístico, o que reforça o papel do modelo de linguagem e da revisão."
+ ],
+ "7": [
+  "Transcrição em tempo real e em lote",
+  "Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+  "Em lote, o modelo tem acesso a todo o contexto (passado e futuro) e permite múltiplas passagens, tendendo a maior acurácia; em tempo real, há compromisso entre latência e acurácia, porque o modelo vê menos contexto futuro (lookahead limitado). Arquiteturas como RNN-T e variantes de CTC com atenção limitada favorecem streaming.",
+  "Em streaming, a detecção de fim de enunciado (endpointing) decide quando finalizar uma hipótese. Uso típico: legendagem ao vivo de sessões, acessibilidade (legenda para surdos), acompanhamento em tempo real; em lote: produção de registro oficial revisado, indexação posterior de acervo."
+ ],
+ "8": [
+  "Whisper: o que é, como foi treinado, o que faz e não faz",
+  "Whisper é um modelo de ASR da OpenAI, lançado em 2022, treinado em cerca de 680 mil horas de áudio com transcrições coletadas da internet, em regime de supervisão fraca (weak supervision) e em larga escala. É um modelo codificador-decodificador baseado em Transformer, com pesos abertos (licença MIT).",
+  "Processa o áudio em janelas de 30 segundos, convertidas em espectrogramas log-mel; o decodificador gera texto de forma autorregressiva, com tokens especiais que indicam tarefa e idioma. Tarefas: transcrição multilíngue, tradução de fala para inglês, identificação do idioma, marcação de tempo (timestamps).",
+  "Limitações: pode alucinar, produzindo texto não dito, em especial em trechos de silêncio, ruído ou música, e repetir trechos; não faz diarização de falantes nativamente; o alinhamento fino por palavra exige técnicas adicionais; o desempenho varia entre idiomas e depende da quantidade de dados de cada língua. Existem versões de tamanhos diferentes (tiny a large), que trocam velocidade por acurácia.",
+  "Outros serviços citados no edital: Google Speech-to-Text, Azure Speech e AWS Transcribe são serviços de nuvem com APIs de transcrição em lote e em tempo real, com recursos como vocabulário personalizado e, conforme o serviço, diarização, redação de dados sensíveis e modelos customizados."
+ ],
+ "9": [
+  "Transcrição automática, degravação e revisão: três coisas diferentes",
+  "Transcrição automática é o texto produzido por máquina (ASR), sem intervenção humana, com erros de reconhecimento e de formatação.",
+  "Degravação é a conversão do conteúdo de áudio ou vídeo em texto escrito, feita por pessoa ou com apoio de ferramenta, com preocupação com a fidelidade e com o padrão de redação do órgão. A degravação assistida por IA parte do texto automático e o corrige.",
+  "Revisão humana é a etapa de conferência e correção do texto, por outro profissional, que verifica a fidelidade ao áudio, o respeito ao padrão de formatação e a correção linguística. Transcrição, degravação e revisão não são sinônimos: a revisão não substitui a degravação e a transcrição automática, por si só, não é registro oficial.",
+  "Taquigrafia, técnica de registro da fala por sinais abreviados, e a estenotipia, registro por máquina, foram historicamente a base do registro parlamentar; as ferramentas de ASR passam a integrar o fluxo, sem eliminar a necessidade de revisão."
+ ],
+ "10": [
+  "O fluxo human-in-the-loop",
+  "Human-in-the-loop (HITL) significa manter o ser humano na malha do processo: a IA produz uma primeira versão e o profissional corrige, valida e responde pelo resultado.",
+  "Fluxo típico de degravação assistida: captação do áudio; transcrição automática (ASR) com diarização; pós-processamento (pontuação, normalização); revisão humana com o áudio sincronizado ao texto; revisão final e controle de qualidade; publicação. Pode haver aprendizado contínuo: as correções humanas retroalimentam o vocabulário personalizado e as avaliações do modelo.",
+  "Razões do HITL: o ASR comete erros que mudam o sentido (negações, números, nomes); a responsabilidade pelo registro oficial é humana; a revisão evita propagação de alucinações para atas, resumos e índices. Automação total só é aceitável para usos de baixo risco, como busca preliminar, e não para registro oficial.",
+  "Medir ganho: tempo de revisão por hora de áudio, taxa de correção e WER antes e depois da revisão; o fluxo pode priorizar a revisão de trechos de baixa confiança, usando escores de confiança do modelo."
+ ],
+ "11": [
+  "Qualidade e fidelidade: transcrição verbatim e limpa",
+  "Transcrição verbatim (literal) registra tudo o que foi dito, inclusive hesitações, repetições, interjeições, falsos começos e marcas de oralidade. Transcrição limpa (clean verbatim, ou editada) elimina marcas de oralidade irrelevantes e corrige desvios gramaticais, sem alterar o sentido.",
+  "Fidelidade é o respeito ao conteúdo e ao sentido do que foi dito; não significa registrar tudo literalmente. Em registros parlamentares é comum adotar a fidelidade ao conteúdo, com adequação à norma culta e supressão de vícios de linguagem, mas sem alterar o sentido, sem omitir ou acrescentar ideias e sem corrigir o conteúdo (erros de fato ou de informação) do orador.",
+  "A escolha do padrão deve ser definida em manual de estilo do órgão; mudar o padrão entre documentos compromete a consistência. Editar para melhorar o texto nunca autoriza alterar o significado; em caso de dúvida sobre o que foi dito, o profissional deve consultar o áudio ou sinalizar o trecho (por exemplo, com marcação de trecho inaudível)."
+ ],
+ "12": [
+  "Formatação de transcrições parlamentares",
+  "A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+  "Marcações usuais são feitas entre parênteses ou colchetes, em itálico ou em texto distinto do da fala, como (Palmas.), (Risos.), (Pausa.), (Intervenção fora do microfone.), (Inaudível.). Apartes são registrados com identificação de quem apartea e de quem concede o aparte. O padrão exato é definido pelo manual de estilo do órgão.",
+  "Princípios: separar claramente fala e anotação do transcritor; não atribuir fala a quem não falou; não completar com conjecturas o que é inaudível; manter a ordem cronológica; padronizar tratamento de autoridades e pronomes de tratamento conforme o manual; preservar a cronologia e as referências às proposições e artigos citados."
+ ],
+ "13": [
+  "Normalização de texto: números, siglas, abreviações, termos técnicos",
+  "Normalização de texto na transcrição é a padronização de números, datas, valores, siglas, abreviações e termos técnicos conforme o manual de estilo.",
+  "Números: define-se regra uniforme para uso de algarismos ou extenso (por exemplo, extenso para números pequenos e algarismos para valores, datas, artigos, percentuais); valores monetários e percentuais seguem formato padronizado; numeração de proposições e artigos segue o formato oficial (por exemplo, PL 1234/2024; art. 5º).",
+  "Siglas: padronizar o uso de maiúsculas, a explicitação na primeira ocorrência quando o manual exigir e a grafia oficial (PEC, MPV, STF); abreviações devem seguir regra uniforme. Termos técnicos e latinismos devem ser grafados corretamente, com conferência em glossário ou fonte oficial; nomes próprios devem ser conferidos em lista de parlamentares.",
+  "Armadilhas do ASR: pontuação automática e ITN podem converter erroneamente (por exemplo, 'um' como numeral em vez de artigo; 'primeiro' ordinal e 'um' cardinal); a normalização automática é revisada pelo humano, que garante a consistência com o manual."
+ ],
+ "14": [
+  "Ferramentas de CAT e editores de transcrição",
+  "CAT (Computer Assisted Transcription) designa ferramentas que auxiliam a transcrição e a revisão: editor de texto sincronizado com o áudio (marcações de tempo), controle de velocidade de reprodução, retrocesso automático, atalhos de teclado, pedal de controle, substituição de termos, glossários, marcadores de orador e verificação ortográfica.",
+  "Um editor de transcrição moderno carrega o texto produzido pelo ASR, destaca trechos de baixa confiança, permite clicar em uma palavra e ouvir o trecho correspondente, aplica regras de normalização e exporta em formatos (texto, legenda, documento). Funções de comparação entre versões registram as alterações feitas pelo revisor.",
+  "CAT para transcrição (Computer Assisted Transcription) não deve ser confundido com CAT de tradução (Computer-Assisted Translation), que usa memórias de tradução e bases terminológicas, embora a sigla coincida."
+ ],
+ "15": [
+  "Controle de qualidade: revisão em dupla, auditoria de amostras, SLA",
+  "Controle de qualidade combina medidas preventivas (manual de estilo, treinamento, glossário) e detectivas (revisão em dupla, auditoria, métricas).",
+  "Revisão em dupla (ou por pares): um segundo profissional revisa o trabalho do primeiro, o que aumenta a detecção de erros e reduz vieses individuais. Auditoria de amostras: seleciona-se uma amostra do material (aleatória ou direcionada a risco) para conferência com o áudio e cálculo de taxa de erro, sem revisar todo o conteúdo.",
+  "SLA (Service Level Agreement, acordo de nível de serviço) define metas mensuráveis, como prazo de entrega, acurácia mínima, disponibilidade e tempo de resposta a correções. Métricas comuns: WER ou taxa de erros por mil palavras, tempo de retorno (turnaround), percentual de retrabalho e conformidade com o manual.",
+  "Em fluxos com IA, auditam-se também o desempenho do modelo ao longo do tempo (deriva), o impacto de atualizações do modelo e a ocorrência de alucinações."
+ ],
+ "16": [
+  "Vocabulário técnico parlamentar e adaptação de modelo de linguagem",
+  "Adaptação ao domínio melhora o reconhecimento de termos técnicos e nomes próprios. Meios: lista de palavras personalizadas (custom vocabulary, hotwords, phrase hints), que aumenta a probabilidade de certos termos; adaptação do modelo de linguagem com textos do domínio (anais, notas taquigráficas, proposições); ajuste fino (fine-tuning) do modelo acústico com áudio degravado.",
+  "Language model adaptation (adaptação do modelo de linguagem) usa corpus de texto do domínio, mesmo sem áudio correspondente, para reponderar a probabilidade das palavras; em ASR end-to-end pode-se integrar um modelo de linguagem externo (por exemplo, por fusão superficial, shallow fusion) ou reclassificar as hipóteses (rescoring).",
+  "Cuidados: vocabulário personalizado em excesso, ou com pesos muito altos, causa falsos positivos (o modelo passa a 'ouvir' termos do vocabulário onde não foram ditos); é preciso manter a lista atualizada com nomes de parlamentares de cada legislatura, siglas e proposições; a qualidade do corpus de adaptação (revisado e sem erros) determina a qualidade do resultado."
+ ],
+ "17": [
+  "Transcrição de sessões: o que muda no plenário e nas comissões",
+  "Sessões de plenário e de comissões têm características diferentes: no plenário há grande número de oradores, microfones fixos, regras de uso da palavra, apartes e votações nominais; em comissões e audiências públicas há convidados externos, debates mais livres, sobreposição de falas e menor controle sobre a qualidade do áudio.",
+  "Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes.",
+  "Aplicações: transcrição ao vivo para acessibilidade e acompanhamento, transcrição revisada para registro oficial, geração de legendas, indexação de vídeos por tema e orador."
+ ],
+ "18": [
+  "Sumarização: extrativa e abstrativa",
+  "Sumarização extrativa seleciona e combina trechos do texto original (frases ou parágrafos), sem criar texto novo; tende a preservar a literalidade e a reduzir o risco de alucinação, mas pode ficar fragmentada.",
+  "Sumarização abstrativa gera texto novo, reformulando o conteúdo; é mais fluente e condensada, mas tem risco de alucinação (informação não presente na fonte) e de distorção, como atribuição incorreta de falas, mudança de ênfase e omissão de ressalvas.",
+  "Para transcrições longas, usa-se divisão em partes (chunking) e sumarização hierárquica (map-reduce). Avaliação: métricas automáticas, como ROUGE, medem sobreposição lexical com resumos de referência, e não garantem fidelidade factual; a avaliação por pessoas e a checagem de fundamentação (atribuição à fonte) são necessárias.",
+  "Em contexto parlamentar, resumos devem indicar a fonte (minuto do vídeo, trecho da transcrição), permitindo verificação, e devem ser revisados antes de uso oficial."
+ ],
+ "19": [
+  "Indexação e busca em acervos de sessões",
+  "Indexação associa a cada documento ou trecho metadados e termos de busca. Em acervos de sessões, indexam-se a transcrição (texto integral), o orador, o partido, a data, o tipo de reunião, a proposição discutida e as marcações de tempo, que permitem levar o usuário ao ponto exato do vídeo.",
+  "Busca por palavras-chave (lexical, como BM25) encontra termos exatos e é transparente e previsível; é limitada por sinônimos e variações. Operadores booleanos, truncamento e filtros por metadados refinam a busca. Precisão é a proporção de resultados recuperados que são relevantes; revocação (recall) é a proporção dos relevantes que foram recuperados.",
+  "Indexação de transcrição automática sem revisão herda os erros do ASR: um termo errado não será encontrado; por isso, usam-se técnicas como correção por vocabulário, indexação de hipóteses alternativas e normalização. A indexação por tema pode usar classificação automática, com revisão por indexadores."
+ ],
+ "20": [
+  "Busca semântica em acervos: embeddings",
+  "Busca semântica recupera documentos por significado, e não apenas por coincidência de palavras. Textos (consultas e trechos) são convertidos em vetores numéricos (embeddings) em um espaço no qual textos de significado próximo ficam próximos; a similaridade é medida, por exemplo, pela similaridade do cosseno.",
+  "Vetores são armazenados em índices vetoriais (bancos de dados vetoriais) com busca aproximada de vizinhos mais próximos (ANN). A busca semântica encontra sinônimos e paráfrases, mas pode falhar em nomes próprios, siglas e números exatos, e é menos explicável que a busca lexical.",
+  "Busca híbrida combina busca lexical e semântica (por exemplo, fusão de rankings) e costuma superar cada uma isoladamente. Em sistemas RAG (retrieval-augmented generation), os trechos recuperados servem de contexto para um LLM responder com citação das fontes, reduzindo, mas não eliminando, o risco de alucinação.",
+  "A qualidade depende da divisão em trechos (chunking), do modelo de embeddings (idioma e domínio) e dos metadados; consultas em português exigem modelos multilíngues ou específicos para o idioma."
+ ],
+ "21": [
+  "Geração automática de atas e resumos: riscos",
+  "Geração automática de atas e resumos usa transcrição e LLM para produzir rascunhos de ata, relatório de reunião ou resumo de sessão.",
+  "Riscos: alucinação (fatos, decisões e votos que não ocorreram); atribuição incorreta de falas e de votos; omissão de ressalvas, divergências e retificações; erros herdados do ASR; viés de seleção do que é considerado relevante; vazamento de dados pessoais ou sigilosos em serviços externos; excesso de confiança do revisor (viés de automação).",
+  "Mitigação: manter humano na malha, exigir citação do trecho-fonte, usar modelos de ata e instruções claras (prompt) com restrição à fonte, auditar amostras, registrar o uso de IA no documento e submeter o texto à aprovação da autoridade competente. A ata de valor oficial depende de validação humana, e o rascunho gerado por IA não substitui essa validação."
+ ],
+ "22": [
+  "Modelos multilíngues e modelos especializados em português",
+  "Modelos multilíngues (como Whisper para fala e LLMs de uso geral) atendem muitos idiomas, mas o desempenho varia segundo a quantidade de dados em cada língua; o português é bem representado, mas geralmente com menos dados que o inglês.",
+  "Modelos especializados em português: BERTimbau (BERT para português do Brasil), modelos de linguagem como Sabiá (Maritaca AI), Albertina (Universidade de Lisboa, com variantes para o português europeu e o brasileiro) e versões de modelos de ASR ajustadas ao português brasileiro. Costumam ser melhores em nuances da língua, mas podem ser menores e menos gerais.",
+  "Escolha do modelo depende de tarefa, custo, latência, privacidade (modelo local ou serviço externo), licença e desempenho medido em dados do próprio domínio; recomenda-se avaliar em amostra representativa de sessões antes de adotar. Variações do português (brasileiro e europeu) devem ser consideradas."
+ ],
+ "23": [
+  "LGPD: conceitos que a transcrição aciona",
+  "LGPD (Lei 13.709/2018): dado pessoal é informação relacionada a pessoa natural identificada ou identificável (art. 5º, I); a voz e o conteúdo da fala podem ser dado pessoal. Dado pessoal sensível inclui origem racial ou étnica, convicção religiosa, opinião política, filiação sindical ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a pessoa natural (art. 5º, II).",
+  "Voz usada para identificar o falante (biometria de voz) pode constituir dado biométrico. Opiniões políticas expressas em discursos podem aparecer como dado sensível, mas o tratamento pelo poder público segue regras próprias (arts. 23 a 30), e a publicidade de sessões parlamentares decorre do princípio da publicidade.",
+  "Controlador é a pessoa a quem competem as decisões sobre o tratamento; operador realiza o tratamento em nome do controlador (art. 5º, VI e VII); o encarregado é o canal de comunicação com titulares e a ANPD (art. 5º, VIII). Princípios do art. 6º: finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas.",
+  "Anonimização torna o dado incapaz de identificar o titular por meios técnicos razoáveis (art. 5º, XI); dado anonimizado não é considerado dado pessoal, salvo se o processo puder ser revertido (art. 12). Uso de serviço de transcrição em nuvem, inclusive no exterior, aciona as regras de transferência internacional (arts. 33 a 36) e a relação controlador-operador."
+ ],
+ "24": [
+  "Direitos autorais e ética no uso de IA",
+  "Lei 9.610/1998: são obras protegidas, entre outras, as conferências, alocuções, sermões e outras obras da mesma natureza (art. 7º, V). O orador é, em regra, titular de direitos sobre seu discurso, e a transcrição é reprodução da obra. Não são objeto de proteção os textos de tratados, leis, decretos, regulamentos e decisões judiciais, as informações de uso comum, as ideias e os nomes e títulos isolados (art. 8º).",
+  "A Lei de Direitos Autorais permite a reprodução em diários ou periódicos de discursos pronunciados em reuniões públicas de qualquer natureza (art. 46, I, b). Direitos morais do autor, como o de ter seu nome indicado e o de assegurar a integridade da obra (art. 24), não se esgotam na transcrição; alterar o sentido do discurso pode ferir a integridade.",
+  "Ética no uso de IA: transparência (informar que houve uso de IA), responsabilidade humana pelo conteúdo, revisão, não discriminação (vieses de sotaque, gênero e região podem gerar taxas de erro diferentes entre grupos de falantes), proteção de dados, prevenção de desinformação (conteúdo gerado ou clonado de voz, deepfakes) e respeito à propriedade intelectual dos dados de treinamento.",
+  "Conteúdo gerado por IA levanta debate sobre autoria e proteção; a legislação autoral brasileira pressupõe autoria humana (pessoa física), e a questão de titularidade de obras geradas por IA permanece em debate, sem regra expressa na Lei 9.610/1998."
+ ],
+ "25": [
+  "Segurança em pipelines de áudio e transcrição",
+  "Segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade. Em pipelines de áudio e transcrição, o dado percorre captação, transporte, armazenamento, processamento por modelos, revisão e publicação, e cada etapa exige controles.",
+  "Controles: criptografia em trânsito (por exemplo, TLS) e em repouso; controle de acesso por perfil e mínimo privilégio; autenticação forte; registros de acesso (logs) e trilhas de auditoria; segregação de ambientes; política de retenção e descarte do áudio e dos textos; backup; hash para comprovar a integridade de gravações e de arquivos finais; gestão de fornecedores e cláusulas contratuais com serviços de nuvem.",
+  "Riscos específicos: envio de áudio sigiloso a serviços externos sem garantias; uso do dado para treinar modelos de terceiros; vazamento por armazenamento inadequado; adulteração de gravações; falsificação de voz (deepfake de áudio) e fraude; injeção de instruções (prompt injection) em conteúdo transcrito processado por LLM; alucinação que expõe informação.",
+  "Alternativas: implantação local (on-premises) de modelos abertos, como o Whisper, para dados sensíveis, ou serviços de nuvem com contrato que vede o uso dos dados para treinamento, localização dos dados definida e certificações. Incidentes de segurança que possam acarretar risco ou dano relevante aos titulares devem ser comunicados à ANPD e aos titulares (LGPD, art. 48)."
+ ]
+}

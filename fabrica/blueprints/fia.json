@@ -1,0 +1,254 @@
+{
+ "parte": "Reconhecimento de Fala, Transcrição e IA (P2, edital 7)",
+ "sigla": "FIA",
+ "topico": "P2-M7-1.1",
+ "materia": "Reconhecimento de Fala, Transcrição e IA",
+ "bloco": "P2",
+ "item_edital": "7.1.1",
+ "nome_curto": "Fala e IA",
+ "fonte": {
+  "tipo": "doutrina_lei",
+  "ref": "literatura técnica de ASR (Whisper, CTC, RNN-T, wav2vec 2.0, pyannote); LGPD (Lei 13.709/2018); Lei 9.610/1998 (arts. 7º, 8º, 24 e 46)",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "nota_calibracao": "Matéria de P2 sem histórico Cebraspe verificável no órgão. Itens modelam a forma Cebraspe (trocas de conceito, absolutos, casos práticos) sobre conteúdo técnico do edital. Não reproduz questões reais.",
+ "pendencias": [
+  "conteúdo técnico por conhecimento; conferir arts. citados de LGPD e Lei 9.610/1998 no texto oficial",
+  "padrão de formatação de transcrição parlamentar da Câmara não verificado em manual oficial"
+ ],
+ "descartar_tags": [],
+ "rotulos": {
+  "1": "Como o ASR funciona: o pipeline híbrido clássico",
+  "2": "Modelos end-to-end: CTC, atenção e transducer",
+  "3": "LLMs multimodais de áudio nativo e pipeline ASR + LLM",
+  "4": "Diarização: quem falou quando",
+  "5": "Pontuação, capitalização e normalização inversa",
+  "6": "Desafios do ASR em português brasileiro",
+  "7": "Transcrição em tempo real e em lote",
+  "8": "Whisper: o que é, como foi treinado, o que faz e não faz",
+  "9": "Transcrição automática, degravação e revisão: três coisas diferentes",
+  "10": "O fluxo human-in-the-loop",
+  "11": "Qualidade e fidelidade: transcrição verbatim e limpa",
+  "12": "Formatação de transcrições parlamentares",
+  "13": "Normalização de texto: números, siglas, abreviações, termos técnicos",
+  "14": "Ferramentas de CAT e editores de transcrição",
+  "15": "Controle de qualidade: revisão em dupla, auditoria de amostras, SLA",
+  "16": "Vocabulário técnico parlamentar e adaptação de modelo de linguagem",
+  "17": "Transcrição de sessões: o que muda no plenário e nas comissões",
+  "18": "Sumarização: extrativa e abstrativa",
+  "19": "Indexação e busca em acervos de sessões",
+  "20": "Busca semântica em acervos: embeddings",
+  "21": "Geração automática de atas e resumos: riscos",
+  "22": "Modelos multilíngues e modelos especializados em português",
+  "23": "LGPD: conceitos que a transcrição aciona",
+  "24": "Direitos autorais e ética no uso de IA",
+  "25": "Segurança em pipelines de áudio e transcrição"
+ },
+ "pontos": [
+  {
+   "id": "F01",
+   "titulo": "Como o ASR funciona: o pipeline híbrido clássico",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F02",
+   "titulo": "Modelos end-to-end: CTC, atenção e transducer",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F03",
+   "titulo": "LLMs multimodais de áudio nativo e pipeline ASR + LLM",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F04",
+   "titulo": "Diarização: quem falou quando",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F05",
+   "titulo": "Pontuação, capitalização e normalização inversa",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F06",
+   "titulo": "Desafios do ASR em português brasileiro",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F07",
+   "titulo": "Transcrição em tempo real e em lote",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F08",
+   "titulo": "Whisper: o que é, como foi treinado, o que faz e não faz",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F09",
+   "titulo": "Transcrição automática, degravação e revisão: três coisas diferentes",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F10",
+   "titulo": "O fluxo human-in-the-loop",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F11",
+   "titulo": "Qualidade e fidelidade: transcrição verbatim e limpa",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F12",
+   "titulo": "Formatação de transcrições parlamentares",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F13",
+   "titulo": "Normalização de texto: números, siglas, abreviações, termos técnicos",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F14",
+   "titulo": "Ferramentas de CAT e editores de transcrição",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F15",
+   "titulo": "Controle de qualidade: revisão em dupla, auditoria de amostras, SLA",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F16",
+   "titulo": "Vocabulário técnico parlamentar e adaptação de modelo de linguagem",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F17",
+   "titulo": "Transcrição de sessões: o que muda no plenário e nas comissões",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F18",
+   "titulo": "Sumarização: extrativa e abstrativa",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F19",
+   "titulo": "Indexação e busca em acervos de sessões",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F20",
+   "titulo": "Busca semântica em acervos: embeddings",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F21",
+   "titulo": "Geração automática de atas e resumos: riscos",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F22",
+   "titulo": "Modelos multilíngues e modelos especializados em português",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "F23",
+   "titulo": "LGPD: conceitos que a transcrição aciona",
+   "incidencia": "media",
+   "armadilhas": []
+  },
+  {
+   "id": "F24",
+   "titulo": "Direitos autorais e ética no uso de IA",
+   "incidencia": "media",
+   "armadilhas": []
+  },
+  {
+   "id": "F25",
+   "titulo": "Segurança em pipelines de áudio e transcrição",
+   "incidencia": "media",
+   "armadilhas": []
+  }
+ ],
+ "topico_por_ponto": {
+  "F01": "P2-M7-1.1",
+  "F02": "P2-M7-1.2",
+  "F03": "P2-M7-1.3",
+  "F04": "P2-M7-1.4",
+  "F05": "P2-M7-1.5",
+  "F06": "P2-M7-1.6",
+  "F07": "P2-M7-1.7",
+  "F08": "P2-M7-1.8",
+  "F09": "P2-M7-2.1",
+  "F10": "P2-M7-2.2",
+  "F11": "P2-M7-2.3",
+  "F12": "P2-M7-2.4",
+  "F13": "P2-M7-2.5",
+  "F14": "P2-M7-2.6",
+  "F15": "P2-M7-2.7",
+  "F16": "P2-M7-2.8",
+  "F17": "P2-M7-3.1",
+  "F18": "P2-M7-3.2",
+  "F19": "P2-M7-3.3",
+  "F20": "P2-M7-3.4",
+  "F21": "P2-M7-3.5",
+  "F22": "P2-M7-3.6",
+  "F23": "P2-M7-4.1",
+  "F24": "P2-M7-4.2",
+  "F25": "P2-M7-4.3"
+ },
+ "item_edital_por_ponto": {
+  "F01": "7.1.1",
+  "F02": "7.1.2",
+  "F03": "7.1.3",
+  "F04": "7.1.4",
+  "F05": "7.1.5",
+  "F06": "7.1.6",
+  "F07": "7.1.7",
+  "F08": "7.1.8",
+  "F09": "7.2.1",
+  "F10": "7.2.2",
+  "F11": "7.2.3",
+  "F12": "7.2.4",
+  "F13": "7.2.5",
+  "F14": "7.2.6",
+  "F15": "7.2.7",
+  "F16": "7.2.8",
+  "F17": "7.3.1",
+  "F18": "7.3.2",
+  "F19": "7.3.3",
+  "F20": "7.3.4",
+  "F21": "7.3.5",
+  "F22": "7.3.6",
+  "F23": "7.4.1",
+  "F24": "7.4.2",
+  "F25": "7.4.3"
+ }
+}

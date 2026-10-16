@@ -89,7 +89,11 @@ POL[35] = ('POL-governo', 'Ciência Política: sistemas de governo, representaç
 POL[36] = ('POL-eleitoral', 'Ciência Política: sistemas eleitorais e partidos')
 POL[37] = ('POL-estado', 'Ciência Política: teoria do Estado e relações internacionais')
 
+FIA = {1: ('FIA-asr', 'Fala e IA: reconhecimento automático de fala'), 2: ('FIA-asr', 'Fala e IA: reconhecimento automático de fala'), 3: ('FIA-asr', 'Fala e IA: reconhecimento automático de fala'), 4: ('FIA-asr', 'Fala e IA: reconhecimento automático de fala'), 5: ('FIA-asr', 'Fala e IA: reconhecimento automático de fala'), 6: ('FIA-asr', 'Fala e IA: reconhecimento automático de fala'), 7: ('FIA-asr', 'Fala e IA: reconhecimento automático de fala'), 8: ('FIA-asr', 'Fala e IA: reconhecimento automático de fala'), 9: ('FIA-degravacao', 'Fala e IA: degravação e pós-processamento'), 10: ('FIA-degravacao', 'Fala e IA: degravação e pós-processamento'), 11: ('FIA-degravacao', 'Fala e IA: degravação e pós-processamento'), 12: ('FIA-degravacao', 'Fala e IA: degravação e pós-processamento'), 13: ('FIA-degravacao', 'Fala e IA: degravação e pós-processamento'), 14: ('FIA-degravacao', 'Fala e IA: degravação e pós-processamento'), 15: ('FIA-degravacao', 'Fala e IA: degravação e pós-processamento'), 16: ('FIA-degravacao', 'Fala e IA: degravação e pós-processamento'), 17: ('FIA-parlamento', 'Fala e IA: IA aplicada ao contexto parlamentar'), 18: ('FIA-parlamento', 'Fala e IA: IA aplicada ao contexto parlamentar'), 19: ('FIA-parlamento', 'Fala e IA: IA aplicada ao contexto parlamentar'), 20: ('FIA-parlamento', 'Fala e IA: IA aplicada ao contexto parlamentar'), 21: ('FIA-parlamento', 'Fala e IA: IA aplicada ao contexto parlamentar'), 22: ('FIA-parlamento', 'Fala e IA: IA aplicada ao contexto parlamentar'), 23: ('FIA-protecao', 'Fala e IA: proteção e segurança da informação'), 24: ('FIA-protecao', 'Fala e IA: proteção e segurança da informação'), 25: ('FIA-protecao', 'Fala e IA: proteção e segurança da informação')}
+
 def campo(atom):
+    mfi = re.match(r"A-FIA-(\d+)", atom)
+    if mfi: return FIA[int(mfi.group(1))]
     mpo = re.match(r"A-POL-(\d+)", atom)
     if mpo: return POL[int(mpo.group(1))]
     mdi = re.match(r"A-DIS-(\d+)", atom)
