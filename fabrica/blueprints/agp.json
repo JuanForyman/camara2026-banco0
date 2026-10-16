@@ -1,0 +1,94 @@
+{
+ "parte": "Agentes públicos — disposições constitucionais, cargo/emprego/função, requisição (edital 3)",
+ "sigla": "AGP",
+ "topico": "P1-M3-3",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.3",
+ "nome_curto": "Agentes públicos",
+ "fonte": {
+  "tipo": "lei_doutrina",
+  "ref": "CF arts. 37, 38 e 41; Lei 8.745/93; Súmulas e Súmulas Vinculantes do STF; MI 708; Temas 161 e 531",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "rotulos": {
+  "1": "CF, art. 37, I a IV: acesso, concurso público e prazo de validade",
+  "2": "Concurso público: jurisprudência do STF",
+  "3": "CF, art. 37, V e IX: funções de confiança, cargos em comissão e contratação temporária",
+  "4": "Direitos coletivos: sindicalização, greve e reserva para pessoas com deficiência",
+  "5": "CF, art. 37, X, XI, XIII e XIV: remuneração, subsídio e teto",
+  "6": "CF, art. 37, XVI e XVII, e §10: acumulação",
+  "7": "CF, art. 38: servidor no exercício de mandato eletivo",
+  "8": "CF, art. 41: estabilidade",
+  "9": "Cargo, emprego e função pública; regimes",
+  "10": "Agentes públicos: conceito e classificação",
+  "11": "Requisição de pessoas e bens"
+ },
+ "nota_calibracao": "Alta incidência: CF 37 a 41 (concurso, comissão, greve, teto, acumulação, estabilidade), súmulas e SVs, classificação dos agentes.",
+ "pendencias": [
+  "texto constitucional por conhecimento (conferir redação vigente de arts. 37, 38 e 41)",
+  "Lei 8.112 coberta no lote L2"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "S01",
+   "titulo": "Concurso público",
+   "incidencia": "alta",
+   "armadilhas": [
+    "prazo de validade",
+    "direito subjetivo à nomeação",
+    "súmulas"
+   ]
+  },
+  {
+   "id": "S02",
+   "titulo": "Cargo em comissão, função de confiança e temporários",
+   "incidencia": "alta",
+   "armadilhas": [
+    "ad nutum",
+    "apenas direção, chefia e assessoramento"
+   ]
+  },
+  {
+   "id": "S03",
+   "titulo": "Sindicalização, greve e reserva para PcD",
+   "incidencia": "alta",
+   "armadilhas": [
+    "MI 708",
+    "Tema 531"
+   ]
+  },
+  {
+   "id": "S04",
+   "titulo": "Remuneração, teto e acumulação",
+   "incidencia": "alta",
+   "armadilhas": [
+    "teto por vínculo",
+    "professor + técnico",
+    "efeito cascata"
+   ]
+  },
+  {
+   "id": "S05",
+   "titulo": "Mandato eletivo e estabilidade",
+   "incidencia": "alta",
+   "armadilhas": [
+    "prefeito x vereador",
+    "3 anos",
+    "avaliação especial"
+   ]
+  },
+  {
+   "id": "S06",
+   "titulo": "Conceitos: cargo, emprego, função, agentes e requisição",
+   "incidencia": "alta",
+   "armadilhas": [
+    "classificação",
+    "vitaliciedade",
+    "particular em colaboração"
+   ]
+  }
+ ]
+}

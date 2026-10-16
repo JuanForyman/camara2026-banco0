@@ -62,3 +62,6 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ## Lote L11 — Modelos de gestão e governança (P1-M3-8 e P1-M3-9, edital 8 e 9)
 58 itens (29 C/29 E), pontos G01–G06, 12 átomos doutrinários em dados/leis/ges.json (Weber, Plano Diretor 1995, EC 19/98, NPM, NPG, Moore, Decreto 9.203 arts. 2º e 3º). Fonte conferida = "conhecimento" com risco; resolução cega embaralhada 58/58 sem divergência. Itens de governança (G05, G06) gravados no tópico P1-M3-9.
+
+## Lote L12 — Agentes públicos (P1-M3-3, edital 3)
+74 itens (37 C/37 E), pontos S01–S06, 11 átomos em dados/leis/agp.json (CF arts. 37, 38 e 41, MI 708, Temas 161 e 531, SV 13/37/43/44, Súmulas 15 e 683, conceitos). Texto constitucional reproduzido por conhecimento: conferir a redação vigente. Resolução cega embaralhada 73/74; a divergência (Q-AGP-0017, redação ambígua do C) foi corrigida para o texto literal do art. 37, V. Lei 8.112 está no lote L2.

@@ -138,12 +138,12 @@
     {
      "id": "P1-M3-3",
      "titulo": "Agentes públicos",
-     "itens_atuais": 324,
-     "itens_aprovados_v3": 324,
+     "itens_atuais": 37,
+     "itens_aprovados_v3": 37,
      "meta": 324,
-     "fonte": "Lei 8.112/90 (PDF do usuário, atualizado até Lei 13.172/2015)",
-     "blueprint": "blueprints/l8112.json",
-     "status": "lote_L2_concluido"
+     "fonte": "CF 37-41, súmulas STF (conhecimento)",
+     "blueprint": "agp.json",
+     "status": "lote_L12"
     },
     {
      "id": "P1-M3-4",

@@ -1,0 +1,2930 @@
+[
+ {
+  "id": "Q-AGP-0001",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0001"
+  ],
+  "ponto": "S01",
+  "g": "C",
+  "e": "O prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, III.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-AGP-0002",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0002",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0001"
+  ],
+  "ponto": "S01",
+  "g": "E",
+  "e": "O prazo de validade do concurso público será de até dois anos, prorrogável por tantas vezes quantas forem necessárias, por igual período.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, III.",
+  "padrao": "troca_numero",
+  "tipo_erro": "admite prorrogações ilimitadas",
+  "par": "Q-AGP-0001",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0003",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0001"
+  ],
+  "ponto": "S01",
+  "g": "C",
+  "e": "Durante o prazo improrrogável previsto no edital de convocação, o aprovado em concurso público será convocado com prioridade sobre novos concursados para assumir cargo ou emprego, na carreira.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, IV.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-AGP-0004",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0004",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0001"
+  ],
+  "ponto": "S01",
+  "g": "E",
+  "e": "Durante o prazo improrrogável previsto no edital de convocação, o aprovado em concurso público será convocado com a mesma prioridade dos novos concursados para assumir cargo ou emprego, na carreira.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, IV.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "equipara aprovados e novos concursados",
+  "par": "Q-AGP-0003",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0005",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0001"
+  ],
+  "ponto": "S01",
+  "g": "C",
+  "e": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público, ressalvadas as nomeações para cargo em comissão declarado em lei de livre nomeação e exoneração.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, II.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0006",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0006",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0001"
+  ],
+  "ponto": "S01",
+  "g": "E",
+  "e": "A investidura em cargo ou emprego público depende de aprovação prévia em concurso público, sem nenhuma ressalva, inclusive para os cargos em comissão e as funções de confiança.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, II.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "omite ressalva dos cargos em comissão",
+  "par": "Q-AGP-0005",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0007",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0001"
+  ],
+  "ponto": "S01",
+  "g": "C",
+  "e": "Os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, I.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0008",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0008",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0001"
+  ],
+  "ponto": "S01",
+  "g": "E",
+  "e": "Os cargos, empregos e funções públicas são acessíveis exclusivamente aos brasileiros natos, vedado o acesso de estrangeiros em qualquer hipótese.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, I.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "exclui estrangeiros",
+  "par": "Q-AGP-0007",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0009",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0002"
+  ],
+  "ponto": "S01",
+  "g": "C",
+  "e": "Segundo o STF, o candidato aprovado dentro do número de vagas previsto no edital tem direito subjetivo à nomeação durante o prazo de validade do concurso, ressalvadas situações excepcionais, devidamente motivadas, de superveniência, imprevisibilidade e gravidade.",
+  "formato": "assertiva",
+  "c": "STF, RE 598.099 (Tema 161).",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0010",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0010",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0002"
+  ],
+  "ponto": "S01",
+  "g": "E",
+  "e": "Segundo o STF, o candidato aprovado dentro do número de vagas previsto no edital tem mera expectativa de direito à nomeação, cabendo à Administração decidir livremente sobre a convocação, sem necessidade de motivação.",
+  "formato": "assertiva",
+  "c": "STF, RE 598.099 (Tema 161).",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "reduz a expectativa de direito",
+  "par": "Q-AGP-0009",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0011",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0002"
+  ],
+  "ponto": "S01",
+  "g": "C",
+  "e": "Segundo a Súmula Vinculante 44, só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público.",
+  "formato": "assertiva",
+  "c": "SV 44.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-AGP-0012",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0012",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0002"
+  ],
+  "ponto": "S01",
+  "g": "E",
+  "e": "Segundo a Súmula Vinculante 44, a exigência de exame psicotécnico para a habilitação de candidato a cargo público pode ser instituída por previsão exclusiva do edital do concurso.",
+  "formato": "assertiva",
+  "c": "SV 44.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "admite previsão apenas em edital",
+  "par": "Q-AGP-0011",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0013",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0002"
+  ],
+  "ponto": "S01",
+  "g": "C",
+  "e": "Segundo a Súmula 683 do STF, o limite de idade para a inscrição em concurso público só se legitima quando possa ser justificado pela natureza das atribuições do cargo a ser preenchido.",
+  "formato": "assertiva",
+  "c": "STF, Súmula 683.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0014",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0014",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0002"
+  ],
+  "ponto": "S01",
+  "g": "E",
+  "e": "Segundo a Súmula 683 do STF, o limite de idade para a inscrição em concurso público pode ser fixado livremente pela Administração, independentemente da natureza das atribuições do cargo.",
+  "formato": "assertiva",
+  "c": "STF, Súmula 683.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "admite limite livre de idade",
+  "par": "Q-AGP-0013",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0015",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0002"
+  ],
+  "ponto": "S01",
+  "g": "C",
+  "e": "A Súmula Vinculante 43 reputa inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido.",
+  "formato": "assertiva",
+  "c": "SV 43.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-AGP-0016",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0016",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0002"
+  ],
+  "ponto": "S01",
+  "g": "E",
+  "e": "A Súmula Vinculante 43 reputa constitucional a ascensão funcional, que permite ao servidor investir-se, sem concurso, em cargo de carreira diversa da sua, desde que tenha mais de cinco anos de serviço.",
+  "formato": "assertiva",
+  "c": "SV 43.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "valida ascensão",
+  "par": "Q-AGP-0015",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0017",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0003"
+  ],
+  "ponto": "S02",
+  "g": "C",
+  "e": "As funções de confiança são exercidas exclusivamente por servidores ocupantes de cargo efetivo, e os cargos em comissão devem ser preenchidos por servidores de carreira nos casos, condições e percentuais mínimos previstos em lei.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, V.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-AGP-0018",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0018",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0003"
+  ],
+  "ponto": "S02",
+  "g": "E",
+  "e": "Os cargos em comissão são exercidos exclusivamente por servidores ocupantes de cargo efetivo, ao passo que as funções de confiança podem ser ocupadas por pessoas sem vínculo efetivo, de livre escolha da autoridade.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, V.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte funções e cargos",
+  "par": "Q-AGP-0017",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0019",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0003"
+  ],
+  "ponto": "S02",
+  "g": "C",
+  "e": "As funções de confiança e os cargos em comissão destinam-se apenas às atribuições de direção, chefia e assessoramento.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, V.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0020",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0020",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0003"
+  ],
+  "ponto": "S02",
+  "g": "E",
+  "e": "As funções de confiança e os cargos em comissão destinam-se a quaisquer atribuições, inclusive as de natureza técnica, burocrática ou operacional, a critério da autoridade nomeante.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, V.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "amplia atribuições",
+  "par": "Q-AGP-0019",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0021",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0003"
+  ],
+  "ponto": "S02",
+  "g": "C",
+  "e": "A lei estabelecerá os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, IX.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0022",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0022",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0003"
+  ],
+  "ponto": "S02",
+  "g": "E",
+  "e": "A Administração poderá contratar por tempo determinado, independentemente de lei que estabeleça os casos, sempre que houver necessidade de pessoal, inclusive para atividades permanentes.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, IX.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "dispensa lei",
+  "par": "Q-AGP-0021",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0023",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0004"
+  ],
+  "ponto": "S03",
+  "g": "C",
+  "e": "O direito de greve dos servidores públicos civis será exercido nos termos e nos limites definidos em lei específica, e, enquanto não editada, o STF determinou a aplicação, por analogia, da Lei 7.783/1989.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, VII; STF, MI 708.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0024",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0024",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0004"
+  ],
+  "ponto": "S03",
+  "g": "E",
+  "e": "O direito de greve dos servidores públicos civis é norma constitucional de eficácia plena e independe de lei, sendo vedado ao Judiciário determinar a aplicação, por analogia, da Lei 7.783/1989.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, VII; STF, MI 708.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega necessidade de lei",
+  "par": "Q-AGP-0023",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0025",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0004"
+  ],
+  "ponto": "S03",
+  "g": "C",
+  "e": "Segundo o STF, a Administração deve proceder ao desconto dos dias não trabalhados em razão de greve, permitida a compensação em caso de acordo, salvo se a greve tiver sido provocada por conduta ilícita do Poder Público.",
+  "formato": "assertiva",
+  "c": "STF, RE 693.456 (Tema 531).",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-AGP-0026",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0026",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0004"
+  ],
+  "ponto": "S03",
+  "g": "E",
+  "e": "Segundo o STF, a Administração não pode proceder ao desconto dos dias não trabalhados em razão de greve, por se tratar de direito constitucional, ainda que a greve não tenha sido provocada por conduta ilícita do Poder Público.",
+  "formato": "assertiva",
+  "c": "STF, RE 693.456 (Tema 531).",
+  "padrao": "troca_efeito",
+  "tipo_erro": "veda desconto",
+  "par": "Q-AGP-0025",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0027",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0004"
+  ],
+  "ponto": "S03",
+  "g": "C",
+  "e": "A Constituição garante ao servidor público civil o direito à livre associação sindical, e veda aos militares a sindicalização e a greve.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, VI, e art. 142, § 3º, IV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0028",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0028",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0004"
+  ],
+  "ponto": "S03",
+  "g": "E",
+  "e": "A Constituição veda ao servidor público civil o direito à livre associação sindical, e garante aos militares a sindicalização e a greve.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, VI, e art. 142, § 3º, IV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte direitos",
+  "par": "Q-AGP-0027",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0029",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0004"
+  ],
+  "ponto": "S03",
+  "g": "C",
+  "e": "A lei reservará percentual dos cargos e empregos públicos para as pessoas com deficiência e definirá os critérios de sua admissão.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, VIII.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0030",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0030",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0004"
+  ],
+  "ponto": "S03",
+  "g": "E",
+  "e": "A Constituição fixa, diretamente, o percentual de vinte por cento dos cargos e empregos públicos para as pessoas com deficiência, dispensando a edição de lei.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, VIII.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "fixa percentual constitucional",
+  "par": "Q-AGP-0029",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0031",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0005"
+  ],
+  "ponto": "S04",
+  "g": "C",
+  "e": "A remuneração e o subsídio dos servidores somente poderão ser fixados ou alterados por lei específica, assegurada revisão geral anual, sempre na mesma data e sem distinção de índices.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, X.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0032",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0032",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0005"
+  ],
+  "ponto": "S04",
+  "g": "E",
+  "e": "A remuneração e o subsídio dos servidores poderão ser fixados ou alterados por decreto do chefe do Executivo, assegurada revisão geral anual, em datas e com índices distintos para cada categoria.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, X.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "admite decreto e índices distintos",
+  "par": "Q-AGP-0031",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0033",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0005"
+  ],
+  "ponto": "S04",
+  "g": "C",
+  "e": "Nos Estados, o limite remuneratório no Poder Judiciário é o subsídio mensal dos Desembargadores do Tribunal de Justiça, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal dos Ministros do Supremo Tribunal Federal.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, XI.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-AGP-0034",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0034",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0005"
+  ],
+  "ponto": "S04",
+  "g": "E",
+  "e": "Nos Estados, o limite remuneratório no Poder Judiciário é o subsídio mensal do Governador, limitado a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal dos Ministros do Supremo Tribunal Federal.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, XI.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "troca limite do Judiciário",
+  "par": "Q-AGP-0033",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0035",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0005"
+  ],
+  "ponto": "S04",
+  "g": "C",
+  "e": "Segundo o STF, nos casos de acumulação de cargos constitucionalmente autorizada, o teto remuneratório incide sobre a remuneração de cada vínculo isoladamente, e não sobre o somatório.",
+  "formato": "assertiva",
+  "c": "STF, RE 612.975 e RE 602.043.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0036",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0036",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0005"
+  ],
+  "ponto": "S04",
+  "g": "E",
+  "e": "Segundo o STF, nos casos de acumulação de cargos constitucionalmente autorizada, o teto remuneratório incide sobre o somatório das remunerações percebidas nos dois vínculos.",
+  "formato": "assertiva",
+  "c": "STF, RE 612.975 e RE 602.043.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "aplica teto ao somatório",
+  "par": "Q-AGP-0035",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0037",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0005"
+  ],
+  "ponto": "S04",
+  "g": "C",
+  "e": "É vedada a vinculação ou equiparação de quaisquer espécies remuneratórias para o efeito de remuneração de pessoal do serviço público, e os acréscimos pecuniários não serão computados nem acumulados para fins de concessão de acréscimos ulteriores.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, XIII e XIV.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-AGP-0038",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0038",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0005"
+  ],
+  "ponto": "S04",
+  "g": "E",
+  "e": "É permitida a vinculação de espécies remuneratórias entre cargos de mesmo nível dos diferentes Poderes, e os acréscimos pecuniários serão computados cumulativamente para fins de concessão de acréscimos ulteriores.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, XIII e XIV.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "admite vinculação e efeito cascata",
+  "par": "Q-AGP-0037",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0039",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0005"
+  ],
+  "ponto": "S04",
+  "g": "C",
+  "e": "Nos termos da Súmula Vinculante 37, não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia.",
+  "formato": "assertiva",
+  "c": "SV 37.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0040",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0040",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0005"
+  ],
+  "ponto": "S04",
+  "g": "E",
+  "e": "Nos termos da Súmula Vinculante 37, cabe ao Poder Judiciário aumentar vencimentos de servidores públicos sob o fundamento de isonomia, quando a distinção entre cargos for injustificada.",
+  "formato": "assertiva",
+  "c": "SV 37.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "admite aumento judicial",
+  "par": "Q-AGP-0039",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0041",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0006"
+  ],
+  "ponto": "S04",
+  "g": "C",
+  "e": "É vedada a acumulação remunerada de cargos públicos, exceto, havendo compatibilidade de horários, a de dois cargos de professor, a de um cargo de professor com outro técnico ou científico e a de dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, XVI.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0042",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0042",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0006"
+  ],
+  "ponto": "S04",
+  "g": "E",
+  "e": "É vedada a acumulação remunerada de cargos públicos, exceto, havendo compatibilidade de horários, a de dois cargos de professor, a de um cargo de professor com outro de natureza administrativa e a de três cargos privativos de profissionais de saúde.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, XVI.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "altera hipóteses",
+  "par": "Q-AGP-0041",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0043",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0006"
+  ],
+  "ponto": "S04",
+  "g": "C",
+  "e": "A proibição de acumular cargos estende-se a empregos e funções e abrange autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias e as sociedades controladas, direta ou indiretamente, pelo poder público.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, XVII.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0044",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0044",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0006"
+  ],
+  "ponto": "S04",
+  "g": "E",
+  "e": "A proibição de acumular cargos alcança apenas os cargos da Administração direta, não se estendendo a empregos e funções nem às entidades da Administração indireta. Tal conclusão decorreria, segundo esse entendimento, da sistemática constitucional da responsabilidade do Estado.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, XVII.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "restringe a vedação",
+  "par": "Q-AGP-0043",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0045",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0006"
+  ],
+  "ponto": "S04",
+  "g": "C",
+  "e": "É vedada a percepção simultânea de proventos de aposentadoria decorrentes do art. 40 da Constituição com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, § 10.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0046",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0046",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0006"
+  ],
+  "ponto": "S04",
+  "g": "E",
+  "e": "É permitida a percepção simultânea de proventos de aposentadoria decorrentes do art. 40 da Constituição com a remuneração de qualquer cargo, emprego ou função pública, sem nenhuma ressalva. Essa seria a orientação adotada pela doutrina e pela jurisprudência no direito brasileiro.",
+  "formato": "assertiva",
+  "c": "CF, art. 37, § 10.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "permite sem ressalva",
+  "par": "Q-AGP-0045",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0047",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0007"
+  ],
+  "ponto": "S05",
+  "g": "C",
+  "e": "O servidor da Administração direta, autárquica e fundacional investido no mandato de Prefeito será afastado do cargo, emprego ou função, sendo-lhe facultado optar pela sua remuneração.",
+  "formato": "assertiva",
+  "c": "CF, art. 38, II.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-AGP-0048",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0048",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0007"
+  ],
+  "ponto": "S05",
+  "g": "E",
+  "e": "O servidor da Administração direta, autárquica e fundacional investido no mandato de Prefeito permanece no exercício do cargo, desde que haja compatibilidade de horários, percebendo as duas remunerações.",
+  "formato": "assertiva",
+  "c": "CF, art. 38, II.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "confunde com vereador",
+  "par": "Q-AGP-0047",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0049",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0007"
+  ],
+  "ponto": "S05",
+  "g": "C",
+  "e": "O servidor investido no mandato de Vereador, havendo compatibilidade de horários, perceberá as vantagens de seu cargo sem prejuízo da remuneração do cargo eletivo, e, não havendo compatibilidade, aplica-se a regra do Prefeito.",
+  "formato": "assertiva",
+  "c": "CF, art. 38, III.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0050",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0050",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0007"
+  ],
+  "ponto": "S05",
+  "g": "E",
+  "e": "O servidor investido no mandato de Vereador será sempre afastado de seu cargo, emprego ou função, sendo-lhe facultado optar pela remuneração, ainda que haja compatibilidade de horários.",
+  "formato": "assertiva",
+  "c": "CF, art. 38, III.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "ignora compatibilidade de horários",
+  "par": "Q-AGP-0049",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0051",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0007"
+  ],
+  "ponto": "S05",
+  "g": "C",
+  "e": "Em qualquer caso que exija o afastamento para o exercício de mandato eletivo, o tempo de serviço do servidor será contado para todos os efeitos legais, exceto para promoção por merecimento.",
+  "formato": "assertiva",
+  "c": "CF, art. 38, IV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0052",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0052",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0007"
+  ],
+  "ponto": "S05",
+  "g": "E",
+  "e": "Em qualquer caso que exija o afastamento para o exercício de mandato eletivo, o tempo de serviço do servidor será contado para todos os efeitos legais, inclusive para promoção por merecimento.",
+  "formato": "assertiva",
+  "c": "CF, art. 38, IV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "omite exceção",
+  "par": "Q-AGP-0051",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0053",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0008"
+  ],
+  "ponto": "S05",
+  "g": "C",
+  "e": "São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.",
+  "formato": "assertiva",
+  "c": "CF, art. 41, caput.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-AGP-0054",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0054",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0008"
+  ],
+  "ponto": "S05",
+  "g": "E",
+  "e": "São estáveis após dois anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo ou em comissão, em virtude de concurso público.",
+  "formato": "assertiva",
+  "c": "CF, art. 41, caput.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca prazo e abrangência",
+  "par": "Q-AGP-0053",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0055",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0008"
+  ],
+  "ponto": "S05",
+  "g": "C",
+  "e": "O servidor público estável só perderá o cargo em virtude de sentença judicial transitada em julgado, mediante processo administrativo em que lhe seja assegurada ampla defesa, ou mediante procedimento de avaliação periódica de desempenho, na forma de lei complementar.",
+  "formato": "assertiva",
+  "c": "CF, art. 41, § 1º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0056",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0056",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0008"
+  ],
+  "ponto": "S05",
+  "g": "E",
+  "e": "O servidor público estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou mediante procedimento de avaliação periódica de desempenho, na forma de lei ordinária, vedada a perda do cargo por processo administrativo.",
+  "formato": "assertiva",
+  "c": "CF, art. 41, § 1º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "exclui processo administrativo",
+  "par": "Q-AGP-0055",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0057",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0008"
+  ],
+  "ponto": "S05",
+  "g": "C",
+  "e": "Extinto o cargo ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo.",
+  "formato": "assertiva",
+  "c": "CF, art. 41, § 3º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0058",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0058",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0008"
+  ],
+  "ponto": "S05",
+  "g": "E",
+  "e": "Extinto o cargo ou declarada a sua desnecessidade, o servidor estável será exonerado, com direito à indenização, sem direito a aproveitamento em outro cargo.",
+  "formato": "assertiva",
+  "c": "CF, art. 41, § 3º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca disponibilidade por exoneração",
+  "par": "Q-AGP-0057",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0059",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0008"
+  ],
+  "ponto": "S05",
+  "g": "C",
+  "e": "Invalidada por sentença judicial a demissão do servidor estável, será ele reintegrado, e o eventual ocupante da vaga, se estável, reconduzido ao cargo de origem, sem direito a indenização, aproveitado em outro cargo ou posto em disponibilidade.",
+  "formato": "assertiva",
+  "c": "CF, art. 41, § 2º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0060",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0060",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0008"
+  ],
+  "ponto": "S05",
+  "g": "E",
+  "e": "Invalidada por sentença judicial a demissão do servidor estável, será ele reintegrado, e o eventual ocupante da vaga, se estável, será exonerado, com direito a indenização. Tal conclusão decorreria, segundo esse entendimento, da sistemática constitucional da responsabilidade do Estado.",
+  "formato": "assertiva",
+  "c": "CF, art. 41, § 2º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca destino do ocupante",
+  "par": "Q-AGP-0059",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0061",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0008"
+  ],
+  "ponto": "S05",
+  "g": "C",
+  "e": "Como condição para a aquisição da estabilidade, é obrigatória a avaliação especial de desempenho por comissão instituída para essa finalidade, e a estabilidade não alcança os ocupantes de cargo em comissão.",
+  "formato": "assertiva",
+  "c": "CF, art. 41, § 4º.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-AGP-0062",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0062",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0008"
+  ],
+  "ponto": "S05",
+  "g": "E",
+  "e": "Como condição para a aquisição da estabilidade, basta o decurso do prazo de efetivo exercício, dispensada a avaliação especial de desempenho, e a estabilidade alcança os ocupantes de cargo em comissão.",
+  "formato": "assertiva",
+  "c": "CF, art. 41, § 4º.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "dispensa avaliação e inclui comissão",
+  "par": "Q-AGP-0061",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0063",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0009"
+  ],
+  "ponto": "S06",
+  "g": "C",
+  "e": "Cargo público é o conjunto de atribuições e responsabilidades previstas na estrutura organizacional e cometidas a um servidor, ao passo que a função pública é a atribuição exercida sem a ocupação de cargo ou emprego, como as funções de confiança.",
+  "formato": "assertiva",
+  "c": "Lei 8.112/1990, art. 3º.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-AGP-0064",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0064",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0009"
+  ],
+  "ponto": "S06",
+  "g": "E",
+  "e": "Função pública é o conjunto de atribuições e responsabilidades previstas na estrutura organizacional e cometidas a um servidor, ao passo que o cargo público é a atribuição exercida sem a ocupação de emprego, como as funções de confiança.",
+  "formato": "assertiva",
+  "c": "Lei 8.112/1990, art. 3º.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte cargo e função",
+  "par": "Q-AGP-0063",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0065",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0009"
+  ],
+  "ponto": "S06",
+  "g": "C",
+  "e": "O regime estatutário aplica-se aos ocupantes de cargo público, o regime celetista aos ocupantes de emprego público, e o regime especial ou temporário aos contratados por tempo determinado para necessidade temporária de excepcional interesse público.",
+  "formato": "assertiva",
+  "c": "Regimes de pessoal.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0066",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; CF arts. 37 a 41",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0066",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0009"
+  ],
+  "ponto": "S06",
+  "g": "E",
+  "e": "O regime celetista aplica-se aos ocupantes de cargo público, o regime estatutário aos ocupantes de emprego público, e o regime especial ou temporário aos ocupantes de cargo em comissão. Essa seria a orientação adotada pela doutrina e pela jurisprudência no direito brasileiro.",
+  "formato": "assertiva",
+  "c": "Regimes de pessoal.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte regimes",
+  "par": "Q-AGP-0065",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; CF arts. 37 a 41",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0067",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0009"
+  ],
+  "ponto": "S06",
+  "g": "C",
+  "e": "Os cargos vitalícios, como os dos magistrados, só podem ser perdidos por sentença judicial transitada em julgado, e a vitaliciedade dos magistrados de primeiro grau é adquirida, em regra, após dois anos de exercício.",
+  "formato": "assertiva",
+  "c": "CF, art. 95, I.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0068",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0068",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0009"
+  ],
+  "ponto": "S06",
+  "g": "E",
+  "e": "Os cargos vitalícios, como os dos magistrados, podem ser perdidos por decisão administrativa do tribunal a que o magistrado esteja vinculado, e a vitaliciedade é adquirida desde a posse.",
+  "formato": "assertiva",
+  "c": "CF, art. 95, I.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "admite perda por decisão administrativa",
+  "par": "Q-AGP-0067",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0069",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0010"
+  ],
+  "ponto": "S06",
+  "g": "C",
+  "e": "Considera-se agente público toda pessoa física que exerce função pública, ainda que transitoriamente ou sem remuneração, o que inclui os particulares em colaboração com o Poder Público.",
+  "formato": "assertiva",
+  "c": "Lei 8.429/1992, art. 2º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0070",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0070",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0010"
+  ],
+  "ponto": "S06",
+  "g": "E",
+  "e": "Considera-se agente público somente a pessoa física que ocupa cargo público remunerado, o que exclui os particulares em colaboração com o Poder Público.",
+  "formato": "assertiva",
+  "c": "Lei 8.429/1992, art. 2º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "restringe agente a ocupante de cargo",
+  "par": "Q-AGP-0069",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0071",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0010",
+   "A-AGP-0011"
+  ],
+  "ponto": "S06",
+  "g": "C",
+  "e": "Os jurados e os mesários requisitados exercem função pública sem serem servidores e enquadram-se, segundo a doutrina, na categoria dos particulares em colaboração com o Poder Público.",
+  "formato": "assertiva",
+  "c": "Particulares em colaboração.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-AGP-0072",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; CF arts. 37 a 41",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0072",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0010",
+   "A-AGP-0011"
+  ],
+  "ponto": "S06",
+  "g": "E",
+  "e": "Os jurados e os mesários requisitados são servidores públicos estatutários e enquadram-se, segundo a doutrina, na categoria dos agentes políticos.",
+  "formato": "assertiva",
+  "c": "Particulares em colaboração.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "classifica como servidores",
+  "par": "Q-AGP-0071",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; CF arts. 37 a 41",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0073",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0011"
+  ],
+  "ponto": "S06",
+  "g": "C",
+  "e": "No caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano.",
+  "formato": "assertiva",
+  "c": "CF, art. 5º, XXV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-AGP-0074",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-AGP-0074",
+  "t": "P1-M3-3",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.3",
+  "a": [
+   "A-AGP-0011"
+  ],
+  "ponto": "S06",
+  "g": "E",
+  "e": "No caso de iminente perigo público, a autoridade competente poderá usar de propriedade particular, assegurada ao proprietário indenização prévia e em dinheiro, em qualquer hipótese.",
+  "formato": "assertiva",
+  "c": "CF, art. 5º, XXV.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "exige indenização prévia",
+  "par": "Q-AGP-0073",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF arts. 37, 38 e 41",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L12",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ }
+]
