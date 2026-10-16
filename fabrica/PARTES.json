@@ -168,12 +168,12 @@
     {
      "id": "P1-M3-6",
      "titulo": "Responsabilidade civil do Estado",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 64,
+     "itens_aprovados_v3": 64,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "doutrina/jurisprudência (conhecimento + teses STF)",
+     "blueprint": "rce.json",
+     "status": "lote_L8"
     },
     {
      "id": "P1-M3-7",

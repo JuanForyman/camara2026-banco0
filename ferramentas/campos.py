@@ -59,7 +59,10 @@ L14133 = [(1,4,"L14133-ambito","Lei 14.133: âmbito, objetivos e princípios (ar
  (115,123,"L14133-exec","Lei 14.133: execução, fiscalização e responsabilidades (arts. 115 a 123)"),(124,139,"L14133-alt","Lei 14.133: alterações, equilíbrio e extinção (arts. 124 a 139)"),(140,146,"L14133-rec","Lei 14.133: recebimento e pagamento (arts. 140 a 146)"),
  (147,154,"L14133-nul","Lei 14.133: nulidade e meios alternativos (arts. 147 a 154)"),(155,163,"L14133-sanc","Lei 14.133: infrações e sanções (arts. 155 a 163)"),(164,168,"L14133-recurso","Lei 14.133: impugnação e recursos (arts. 164 a 168)"),(169,173,"L14133-ctrl","Lei 14.133: controle das contratações (arts. 169 a 173)"),
  (174,200,"L14133-fim","Lei 14.133: PNCP e disposições finais (arts. 174 a 194)")]
+RCE = {1:("RCE-fundamento","Responsabilidade civil do Estado: fundamento, teorias e pressupostos"),2:("RCE-fundamento","Responsabilidade civil do Estado: fundamento, teorias e pressupostos"),3:("RCE-fundamento","Responsabilidade civil do Estado: fundamento, teorias e pressupostos"),4:("RCE-fundamento","Responsabilidade civil do Estado: fundamento, teorias e pressupostos"),5:("RCE-prestadoras","Responsabilidade civil do Estado: prestadoras de serviço público e usuários"),6:("RCE-omissao","Responsabilidade civil do Estado: omissão"),7:("RCE-presos","Responsabilidade civil do Estado: presos e dever específico"),8:("RCE-excludentes","Responsabilidade civil do Estado: excludentes, atenuantes e risco integral"),9:("RCE-excludentes","Responsabilidade civil do Estado: excludentes, atenuantes e risco integral"),10:("RCE-regresso","Responsabilidade civil do Estado: regresso, legitimidade e prescrição"),11:("RCE-regresso","Responsabilidade civil do Estado: regresso, legitimidade e prescrição")}
 def campo(atom):
+    mr = re.match(r"A-RCE-(\d+)", atom)
+    if mr: return RCE.get(int(mr.group(1)), ("RCE-casos","Responsabilidade civil do Estado: atos legislativos, judiciais e casos específicos"))
     m14 = re.match(r"A-L14133-(\d+)", atom)
     if m14:
         a = int(m14.group(1))

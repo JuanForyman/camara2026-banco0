@@ -1,0 +1,112 @@
+{
+ "parte": "Direito Administrativo — Responsabilidade civil do Estado (edital 6)",
+ "sigla": "RCE",
+ "topico": "P1-M3-6",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.6",
+ "nome_curto": "Responsabilidade civil do Estado",
+ "fonte": {
+  "tipo": "doutrina_jurisprudencia",
+  "ref": "CF art. 37 §6º; CC art. 43; teses do STF (Temas 130, 362, 365, 366, 512, 592, 666, 777, 897, 940, 950, 1055, 1237, 1347)",
+  "versao": "conhecimento do autor, teses do STF conferidas em tesesesumulas.com.br (2026-10-16)",
+  "conferida": "conhecimento"
+ },
+ "rotulos": {
+  "1": "CF, art. 37, § 6º",
+  "2": "Código Civil, art. 43",
+  "3": "Evolução e teorias da responsabilidade do Estado",
+  "4": "Pressupostos da responsabilidade objetiva",
+  "5": "Prestadoras de serviço público (STF, Tema 130, RE 591.874)",
+  "6": "Omissão do Estado",
+  "7": "Presos e dever específico (STF, Temas 592, 365 e 362)",
+  "8": "Excludentes e atenuantes",
+  "9": "Risco integral",
+  "10": "Regresso e legitimidade passiva (STF, Tema 940, RE 1.027.633)",
+  "11": "Prescrição",
+  "12": "Atos legislativos, judiciais e obras públicas",
+  "13": "Notários e registradores (STF, Tema 777, RE 842.846)",
+  "14": "Segurança pública e imunidade parlamentar (STF, Temas 1.237, 1.055 e 950)",
+  "15": "Concursos e licença (STF, Temas 512, 1.347 e 366)"
+ },
+ "nota_calibracao": "Tema de alta incidência no Cebraspe: objetiva x subjetiva, omissão, excludentes, risco integral e teses do STF.",
+ "pendencias": [
+  "sem texto-fonte literal além da CF/CC; doutrina e jurisprudência por conhecimento, com risco",
+  "verificar teses posteriores a 2025"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "R01",
+   "titulo": "Fundamento e teorias",
+   "incidencia": "alta",
+   "armadilhas": [
+    "risco administrativo x integral",
+    "culpa administrativa"
+   ]
+  },
+  {
+   "id": "R02",
+   "titulo": "Pressupostos e ato comissivo",
+   "incidencia": "alta",
+   "armadilhas": [
+    "dispensa culpa",
+    "dano especial e anormal",
+    "ato lícito"
+   ]
+  },
+  {
+   "id": "R03",
+   "titulo": "Prestadoras de serviço público e usuários/não usuários",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Tema 130"
+   ]
+  },
+  {
+   "id": "R04",
+   "titulo": "Omissão",
+   "incidencia": "alta",
+   "armadilhas": [
+    "genérica x específica",
+    "garantidor"
+   ]
+  },
+  {
+   "id": "R05",
+   "titulo": "Presos e dever específico",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Temas 592, 365, 362"
+   ]
+  },
+  {
+   "id": "R06",
+   "titulo": "Excludentes e atenuantes; risco integral",
+   "incidencia": "alta",
+   "armadilhas": [
+    "culpa concorrente atenua",
+    "ônus da prova"
+   ]
+  },
+  {
+   "id": "R07",
+   "titulo": "Regresso, legitimidade e prescrição",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Tema 940",
+    "5 anos"
+   ]
+  },
+  {
+   "id": "R08",
+   "titulo": "Atos legislativos, judiciais, obras e casos específicos",
+   "incidencia": "media",
+   "armadilhas": [
+    "notários",
+    "imunidade",
+    "concurso"
+   ]
+  }
+ ]
+}

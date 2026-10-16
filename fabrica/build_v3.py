@@ -26,7 +26,7 @@ for n, (ponto, arts, g, padrao, dif, e, c, terro, tag, ex) in enumerate(rows, 1)
     for a in arts:
         m = re.match(r"(\d+[A-Z]?)(?:\.([IVXLC]+))?$", a); assert m and m.group(1) in T, (a, e)
         aid = f"A-{SIG}-{int(re.match(r'\d+', m.group(1)).group(0)):04d}{re.sub(r'\d+', '', m.group(1))}" + (f".{m.group(2)}" if m.group(2) else "")
-        ids.append(aid); atoms[aid] = {"t": f"{bp.get('nome_curto','Lei 9.784/99')} art. {m.group(1)}" + (f", {m.group(2)}" if m.group(2) else ""), "x": corpo(m.group(1), m.group(2))}
+        ids.append(aid); atoms[aid] = {"t": bp.get("rotulos", {}).get(m.group(1)) or (f"{bp.get('nome_curto','Lei 9.784/99')} art. {m.group(1)}" + (f", {m.group(2)}" if m.group(2) else "")), "x": corpo(m.group(1), m.group(2))}
     qid = f"Q-{SIG}-{n:04d}"; bytag[tag].append(qid)
     i = inc[ponto]; r = 1 if i == "alta" else 2 if i == "media" else 3
     fonte = ex.get("fonte") or {"tipo": "lei", "ref": bp["fonte"]["ref"] + ", " + ", ".join("art. " + a for a in arts), "versao": bp["fonte"]["versao"], "conferida": bp["fonte"]["conferida"]}
