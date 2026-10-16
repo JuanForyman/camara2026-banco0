@@ -111,3 +111,6 @@ Lote LP: itens curtos (frases de ~20 palavras), gabarito de ≤25 palavras e "sa
 
 ## L21 — Língua Portuguesa, onda 4 (regência, crase, pronomes, classes, verbos, léxico, tipologia, ortografia)
 84 pares (168 itens), átomos A-LP-30..41 (atomos/lp_d.py, questoes/lp_d.py). Resolução cega 165/168; as 3 divergências (crase em "às nove horas", tem/têm, pôr/por) são itens simples e corretos, tidos como erro do resolvedor. Itens de regência aceitos por parte dos dicionários (implicar em, assistir o, desobedecer o) seguem a norma-padrão tradicional e o resolvedor concordou. Lint 0 alertas.
+
+## L22 — Língua Portuguesa, onda 5 (reforço)
+97 pares (194 itens) distribuídos nos átomos A-LP-1..29 já existentes (questoes/lp_e.py, tags t##): interpretação (30 pares, microtextos), reescrita, coesão, orações, sintaxe, pontuação e concordância. Quase-duplicatas do lint resolvidas removendo 4 pares redundantes. Resolução cega 194/194; um par de catáfora/anáfora ambíguo ("dois temas") trocado por "isto…: …". Lint 0 alertas.
