@@ -139,3 +139,4 @@ Prioridade de incidência, 2ª base (Taquígrafo 2012): `ferramentas/prioridade_
 - C01 (Processo Legislativo, CF 59–69): 58 itens em P2-M8-1.1 a 1.5.
 - C02 (RICD/RC, átomos com ≤2 itens): 61 itens.
 - C03 (Poderes administrativos, Tipos/gêneros, Ortografia): 51 itens e 11 átomos novos A-N3-*.
+- C04 (Ciência Política: eleitoral, partidos, governo; Linguística: enunciação, variação, gêneros): 49 itens, 9 átomos A-N4-*.
