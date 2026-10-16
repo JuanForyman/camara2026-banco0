@@ -29,7 +29,18 @@
   "9": "Concordância verbal: coletivos, 'mais de um', 'um dos que', 'cerca de', 'que/quem', 'cada um'",
   "10": "Concordância verbal: horas, datas e verbos que indicam horas",
   "11": "Concordância nominal: meio, bastante, anexo, obrigado, mesmo, menos, possível, proibido",
-  "12": "Concordância: locuções verbais com impessoais e voz passiva"
+  "12": "Concordância: locuções verbais com impessoais e voz passiva",
+  "13": "Conectores coordenativos e relações de sentido",
+  "14": "Conjunções subordinativas e seus valores",
+  "15": "Referenciação: anáfora, catáfora e pronomes",
+  "16": "Orações coordenadas",
+  "17": "Orações subordinadas substantivas",
+  "18": "Adjetivas e orações reduzidas",
+  "19": "Equivalência entre orações adverbiais",
+  "20": "Sintaxe: sujeito, objetos, predicativo e complementos",
+  "21": "Reescrita: voz, nominalização e deslocamento",
+  "22": "Reescrita: gramática disfarçada",
+  "23": "Reescrita: substituição de expressões"
  },
  "pontos": [
   {

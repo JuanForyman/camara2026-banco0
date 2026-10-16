@@ -102,3 +102,6 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ## L18 — Língua Portuguesa, onda 1 (pontuação e concordância)
 Lote LP: itens curtos (frases de ~20 palavras), gabarito de ≤25 palavras e "saiba mais" em mini-aula por átomo (regra, dois exemplos, pegadinha). Incidência baseada no raio-x Cebraspe 2025–2026. Onda 1: 36 pares de pontuação + 34 de concordância (140 itens, 12 átomos, 0 alertas no lint). Resolução cega: 135/140; os 5 divergentes eram 1 par ambíguo (vírgulas de adjunto intercalado, reescrito) e 3 itens corretos de adjetivas restritiva/explicativa, mantidos. Faltam ondas: interpretação, orações, reescrita, coesão, pronomes/classes, sentido, tipologia, verbos, regência, crase, ortografia.
+
+## L19 — Língua Portuguesa, onda 2 (conectores, orações, sintaxe, reescrita)
+77 pares (154 itens), átomos A-LP-13..23 (atomos/lp_b.py, questoes/lp_b.py): conectores coordenativos e subordinativos, referenciação, orações coordenadas/substantivas/adjetivas/reduzidas, equivalência de adverbiais, sintaxe (sujeito, objetos, predicativo, complemento nominal) e três átomos de reescrita (voz, gramática disfarçada, substituição de expressões). Resolução cega 153/154; o par "haver + dúvidas" (objeto direto × sujeito, discutível) foi trocado por singular × plural. Lint 0 alertas.
