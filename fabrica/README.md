@@ -108,3 +108,6 @@ Lote LP: itens curtos (frases de ~20 palavras), gabarito de ≤25 palavras e "sa
 
 ## L20 — Língua Portuguesa, onda 3 (interpretação)
 47 pares (94 itens), átomos A-LP-24..29 (atomos/lp_c.py, questoes/lp_c.py): inferência × extrapolação, ideia central, sentido contextual/ironia, autoria e modalização, relações lógicas, armadilhas de ressalva. Formato: microtexto (≤45 palavras) entre aspas + afirmativa. Resolução cega 94/94; duas formulações ambíguas ajustadas. Lint 0 alertas.
+
+## L21 — Língua Portuguesa, onda 4 (regência, crase, pronomes, classes, verbos, léxico, tipologia, ortografia)
+84 pares (168 itens), átomos A-LP-30..41 (atomos/lp_d.py, questoes/lp_d.py). Resolução cega 165/168; as 3 divergências (crase em "às nove horas", tem/têm, pôr/por) são itens simples e corretos, tidos como erro do resolvedor. Itens de regência aceitos por parte dos dicionários (implicar em, assistir o, desobedecer o) seguem a norma-padrão tradicional e o resolvedor concordou. Lint 0 alertas.
