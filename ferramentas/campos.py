@@ -66,6 +66,29 @@ GES = {1: ('GES-modelos', 'Modelos de gestão pública: patrimonialismo, burocra
 AGP = {1: ('AGP-ingresso', 'Agentes públicos: ingresso, concurso e cargos em comissão'), 2: ('AGP-ingresso', 'Agentes públicos: ingresso, concurso e cargos em comissão'), 3: ('AGP-ingresso', 'Agentes públicos: ingresso, concurso e cargos em comissão'), 4: ('AGP-direitos', 'Agentes públicos: greve, remuneração, teto e acumulação'), 5: ('AGP-direitos', 'Agentes públicos: greve, remuneração, teto e acumulação'), 6: ('AGP-direitos', 'Agentes públicos: greve, remuneração, teto e acumulação'), 7: ('AGP-regime', 'Agentes públicos: mandato eletivo, estabilidade e conceitos'), 8: ('AGP-regime', 'Agentes públicos: mandato eletivo, estabilidade e conceitos'), 9: ('AGP-regime', 'Agentes públicos: mandato eletivo, estabilidade e conceitos'), 10: ('AGP-regime', 'Agentes públicos: mandato eletivo, estabilidade e conceitos'), 11: ('AGP-regime', 'Agentes públicos: mandato eletivo, estabilidade e conceitos')}
 DIS = {1: ('DIS-principios', 'Direito disciplinar: fontes, princípios e independência das instâncias'), 2: ('DIS-principios', 'Direito disciplinar: fontes, princípios e independência das instâncias'), 3: ('DIS-principios', 'Direito disciplinar: fontes, princípios e independência das instâncias'), 4: ('DIS-principios', 'Direito disciplinar: fontes, princípios e independência das instâncias'), 5: ('DIS-procedimento', 'Direito disciplinar: sindicância, PAD e julgamento'), 6: ('DIS-procedimento', 'Direito disciplinar: sindicância, PAD e julgamento'), 7: ('DIS-sumulas', 'Direito disciplinar: súmulas, prescrição e penalidades'), 8: ('DIS-sumulas', 'Direito disciplinar: súmulas, prescrição e penalidades'), 9: ('DIS-sumulas', 'Direito disciplinar: súmulas, prescrição e penalidades')}
 POL = {1: ('POL-regimes', 'Ciência Política: regimes políticos e democracia'), 2: ('POL-regimes', 'Ciência Política: regimes políticos e democracia'), 3: ('POL-governo', 'Ciência Política: sistemas de governo, representação e poderes'), 4: ('POL-governo', 'Ciência Política: sistemas de governo, representação e poderes'), 5: ('POL-governo', 'Ciência Política: sistemas de governo, representação e poderes'), 6: ('POL-eleitoral', 'Ciência Política: sistemas eleitorais e partidos'), 7: ('POL-eleitoral', 'Ciência Política: sistemas eleitorais e partidos'), 8: ('POL-eleitoral', 'Ciência Política: sistemas eleitorais e partidos'), 9: ('POL-brasil', 'Ciência Política: organização política e formação do Estado brasileiro'), 10: ('POL-estado', 'Ciência Política: teoria do Estado e relações internacionais'), 11: ('POL-estado', 'Ciência Política: teoria do Estado e relações internacionais'), 12: ('POL-estado', 'Ciência Política: teoria do Estado e relações internacionais'), 13: ('POL-brasil', 'Ciência Política: organização política e formação do Estado brasileiro'), 14: ('POL-historia', 'Ciência Política: história do voto e dos partidos'), 15: ('POL-historia', 'Ciência Política: história do voto e dos partidos')}
+POL[16] = ('POL-regimes', 'Ciência Política: regimes políticos e democracia')
+POL[17] = ('POL-governo', 'Ciência Política: sistemas de governo, representação e poderes')
+POL[18] = ('POL-estado', 'Ciência Política: teoria do Estado e relações internacionais')
+POL[19] = ('POL-regimes', 'Ciência Política: regimes políticos e democracia')
+POL[20] = ('POL-governo', 'Ciência Política: sistemas de governo, representação e poderes')
+POL[21] = ('POL-governo', 'Ciência Política: sistemas de governo, representação e poderes')
+POL[22] = ('POL-eleitoral', 'Ciência Política: sistemas eleitorais e partidos')
+POL[23] = ('POL-eleitoral', 'Ciência Política: sistemas eleitorais e partidos')
+POL[24] = ('POL-eleitoral', 'Ciência Política: sistemas eleitorais e partidos')
+POL[25] = ('POL-eleitoral', 'Ciência Política: sistemas eleitorais e partidos')
+POL[26] = ('POL-brasil', 'Ciência Política: organização política e formação do Estado brasileiro')
+POL[27] = ('POL-governo', 'Ciência Política: sistemas de governo, representação e poderes')
+POL[28] = ('POL-governo', 'Ciência Política: sistemas de governo, representação e poderes')
+POL[29] = ('POL-estado', 'Ciência Política: teoria do Estado e relações internacionais')
+POL[30] = ('POL-governo', 'Ciência Política: sistemas de governo, representação e poderes')
+POL[31] = ('POL-brasil', 'Ciência Política: organização política e formação do Estado brasileiro')
+POL[32] = ('POL-estado', 'Ciência Política: teoria do Estado e relações internacionais')
+POL[33] = ('POL-estado', 'Ciência Política: teoria do Estado e relações internacionais')
+POL[34] = ('POL-brasil', 'Ciência Política: organização política e formação do Estado brasileiro')
+POL[35] = ('POL-governo', 'Ciência Política: sistemas de governo, representação e poderes')
+POL[36] = ('POL-eleitoral', 'Ciência Política: sistemas eleitorais e partidos')
+POL[37] = ('POL-estado', 'Ciência Política: teoria do Estado e relações internacionais')
+
 def campo(atom):
     mpo = re.match(r"A-POL-(\d+)", atom)
     if mpo: return POL[int(mpo.group(1))]
