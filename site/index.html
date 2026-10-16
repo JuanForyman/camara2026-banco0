@@ -293,7 +293,7 @@ function fullHtml(q){
 function artHtml(q){
  if(!q.s||!q.s.length)return fullHtml(q);
  const t=q.s.map(b=>`<h4>${esc(b.t)}</h4>`+(b.c?`<p class="cab">${esc(b.c)}</p>`:"")+b.l.map(l=>`<p class="sel">${esc(l)}</p>`).join("")).join("");
- return t+`<details class="full"><summary>Artigo completo</summary>${fullHtml(q)}</details>`;
+ return t+`<details class="full"><summary>Texto completo do artigo ou da aula</summary>${fullHtml(q)}</details>`;
 }
 const MK=[["boa","Boa","g"],["ruim","Ruim","r"],["dif","Difícil","d"],["rev","Rever","v"],["lix","Lixeira","x"]];
 function drawTreino(){
@@ -309,7 +309,7 @@ function drawTreino(){
   const a=answered,cls=a.branco?"bl":a.acertou?"ok":"no";
   const msg=a.branco?"Em branco":a.acertou?"Você acertou":"Você errou";
   h+=`<div class="res ${cls}"><div><b>${msg}.</b> Gabarito: <b>${cur.g==="C"?"Certo":"Errado"}</b></div><p class="com">${esc(cur.c)}</p></div>
-  <details class="mais"><summary>Saiba mais: ${cur.s&&cur.s.length?"o dispositivo da questão":"texto do artigo"}</summary><div class="art">${artHtml(cur)}</div></details>
+  <details class="mais"><summary>Saiba mais: ${cur.s&&cur.s.length?"o ponto da questão":"texto do artigo"}</summary><div class="art">${artHtml(cur)}</div></details>
   <div class="marks" role="group" aria-label="Marcações">${MK.map(([k,l,key])=>`<button data-m="${k}" aria-pressed="${!!S(cur).m[k]}">${l}<kbd>${key}</kbd></button>`).join("")}</div>
   <div class="prox"><button id="bNext">Próxima <span style="opacity:.7;font-family:var(--f-mono);font-size:.75rem">Enter</span></button></div>`}
  h+="</div>";
