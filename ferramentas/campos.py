@@ -113,10 +113,16 @@ for _i in range(14,18): LIN[_i] = LIN[11]
 for _i in range(18,22): LIN[_i] = LIN[13]
 
 TI = {1: ('TI-office', 'TI: Microsoft 365'), 2: ('TI-redes', 'TI: redes e Internet'), 3: ('TI-comunicacao', 'TI: e-mail, Teams e Meet'), 4: ('TI-seguranca', 'TI: segurança da informação'), 5: ('TI-ia', 'TI: inteligência artificial'), 6: ('TI-etica', 'TI: ética e responsabilidade digital'), 7: ('TI-dados', 'TI: dados'), 8: ('TI-visualizacao', 'TI: visualização de dados')}
+LP = {}
+for _i in range(1,7): LP[_i] = ('LP-pontuacao', 'Português: pontuação')
+for _i in range(7,13): LP[_i] = ('LP-concordancia', 'Português: concordância')
+
 
 def campo(atom):
     mti = re.match(r"A-TI-(\d+)", atom)
     if mti: return TI[int(mti.group(1))]
+    mlp = re.match(r"A-LP-(\d+)", atom)
+    if mlp: return LP[int(mlp.group(1))]
     mli = re.match(r"A-LIN-(\d+)", atom)
     if mli: return LIN[int(mli.group(1))]
     mfi = re.match(r"A-FIA-(\d+)", atom)

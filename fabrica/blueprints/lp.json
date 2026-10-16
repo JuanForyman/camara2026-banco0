@@ -1,0 +1,160 @@
+{
+ "parte": "Língua Portuguesa (P1, edital 1)",
+ "sigla": "LP",
+ "topico": "P1-M1-5",
+ "materia": "Língua Portuguesa",
+ "bloco": "P1",
+ "item_edital": "1.5",
+ "nome_curto": "LP",
+ "fonte": {
+  "tipo": "gramatica",
+  "ref": "norma-padrão (Bechara, Cegalla, Cunha e Cintra); Manual de Redação da Presidência; raio-x de questões do Cebraspe 2025–2026",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "nota_calibracao": "Matéria de P1 (Língua Portuguesa, edital 1). Pesos pelo raio-x de 1.661 questões do Cebraspe (2025–2026): interpretação 25,6%, pontuação 7,6%, reescrita 7,6%, concordância 7,1%, coesão 7%, sintaxe da oração e orações ~17%, sentido de palavras 5,7%. Itens curtos (frase-regra, reescrita, microtexto até ~50 palavras). Não reproduz questões reais.",
+ "pendencias": [
+  "Gramática por conhecimento do autor; itens controversos (vírgula facultativa, concordância facultativa) evitados ou marcados na explicação"
+ ],
+ "descartar_tags": [],
+ "rotulos": {
+  "1": "Vírgula entre sujeito, verbo e complementos",
+  "2": "Vírgula e orações adjetivas; apostos",
+  "3": "Vírgula com adjuntos adverbiais, conjunções e conectivos",
+  "4": "Vírgula: subordinadas adverbiais, expressões explicativas, enumeração, elipse e datas",
+  "5": "Ponto e vírgula, dois-pontos, travessão, parênteses e aspas",
+  "6": "Pontuação e efeito de sentido",
+  "7": "Concordância verbal: sujeito composto",
+  "8": "Concordância verbal: verbos impessoais e partícula 'se'",
+  "9": "Concordância verbal: coletivos, 'mais de um', 'um dos que', 'cerca de', 'que/quem', 'cada um'",
+  "10": "Concordância verbal: horas, datas e verbos que indicam horas",
+  "11": "Concordância nominal: meio, bastante, anexo, obrigado, mesmo, menos, possível, proibido",
+  "12": "Concordância: locuções verbais com impessoais e voz passiva"
+ },
+ "pontos": [
+  {
+   "id": "LP01",
+   "titulo": "Pontuação",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "LP02",
+   "titulo": "Concordância verbal e nominal",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "LP03",
+   "titulo": "Reescrita de frases e parágrafos",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "LP04",
+   "titulo": "Coesão textual: conectores e referenciação",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "LP05",
+   "titulo": "Interpretação de textos",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "LP06",
+   "titulo": "Orações coordenadas e subordinadas",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "LP07",
+   "titulo": "Sintaxe da oração e termos",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "LP08",
+   "titulo": "Significação das palavras",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "LP09",
+   "titulo": "Tempos e modos verbais",
+   "incidencia": "media",
+   "armadilhas": []
+  },
+  {
+   "id": "LP10",
+   "titulo": "Regência verbal e nominal",
+   "incidencia": "media",
+   "armadilhas": []
+  },
+  {
+   "id": "LP11",
+   "titulo": "Crase",
+   "incidencia": "media",
+   "armadilhas": []
+  },
+  {
+   "id": "LP12",
+   "titulo": "Pronomes e colocação pronominal",
+   "incidencia": "media",
+   "armadilhas": []
+  },
+  {
+   "id": "LP13",
+   "titulo": "Classes de palavras",
+   "incidencia": "media",
+   "armadilhas": []
+  },
+  {
+   "id": "LP14",
+   "titulo": "Tipos e gêneros textuais",
+   "incidencia": "media",
+   "armadilhas": []
+  },
+  {
+   "id": "LP15",
+   "titulo": "Ortografia e acentuação",
+   "incidencia": "media",
+   "armadilhas": []
+  }
+ ],
+ "topico_por_ponto": {
+  "LP01": "P1-M1-5",
+  "LP02": "P1-M1-5",
+  "LP03": "P1-M1-6",
+  "LP04": "P1-M1-4",
+  "LP05": "P1-M1-1",
+  "LP06": "P1-M1-5",
+  "LP07": "P1-M1-5",
+  "LP08": "P1-M1-6",
+  "LP09": "P1-M1-4",
+  "LP10": "P1-M1-5",
+  "LP11": "P1-M1-5",
+  "LP12": "P1-M1-5",
+  "LP13": "P1-M1-5",
+  "LP14": "P1-M1-2",
+  "LP15": "P1-M1-3"
+ },
+ "item_edital_por_ponto": {
+  "LP01": "1.5.4",
+  "LP02": "1.5.5",
+  "LP03": "1.6",
+  "LP04": "1.4",
+  "LP05": "1.1",
+  "LP06": "1.5.3",
+  "LP07": "1.5",
+  "LP08": "1.6.1",
+  "LP09": "1.4.2",
+  "LP10": "1.5.6",
+  "LP11": "1.5.7",
+  "LP12": "1.5.8",
+  "LP13": "1.5.1",
+  "LP14": "1.2",
+  "LP15": "1.3"
+ }
+}
