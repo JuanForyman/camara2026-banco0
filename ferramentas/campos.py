@@ -119,6 +119,9 @@ for _i in range(7,13): LP[_i] = ('LP-concordancia', 'Português: concordância')
 for _i in range(13,16): LP[_i] = ('LP-coesao', 'Português: conectores e referenciação')
 for _i in range(16,20): LP[_i] = ('LP-oracoes', 'Português: orações coordenadas e subordinadas')
 LP[20] = ('LP-sintaxe', 'Português: sintaxe da oração')
+LP[24] = LP[29] = ('LP-inferencia', 'Português: inferência e armadilhas de interpretação')
+LP[25] = LP[26] = ('LP-sentido', 'Português: ideia central e sentido contextual')
+LP[27] = LP[28] = ('LP-autoria', 'Português: autoria, modalização e relações lógicas')
 for _i in range(21,24): LP[_i] = ('LP-reescrita', 'Português: reescrita de frases')
 
 

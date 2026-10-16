@@ -105,3 +105,6 @@ Lote LP: itens curtos (frases de ~20 palavras), gabarito de ≤25 palavras e "sa
 
 ## L19 — Língua Portuguesa, onda 2 (conectores, orações, sintaxe, reescrita)
 77 pares (154 itens), átomos A-LP-13..23 (atomos/lp_b.py, questoes/lp_b.py): conectores coordenativos e subordinativos, referenciação, orações coordenadas/substantivas/adjetivas/reduzidas, equivalência de adverbiais, sintaxe (sujeito, objetos, predicativo, complemento nominal) e três átomos de reescrita (voz, gramática disfarçada, substituição de expressões). Resolução cega 153/154; o par "haver + dúvidas" (objeto direto × sujeito, discutível) foi trocado por singular × plural. Lint 0 alertas.
+
+## L20 — Língua Portuguesa, onda 3 (interpretação)
+47 pares (94 itens), átomos A-LP-24..29 (atomos/lp_c.py, questoes/lp_c.py): inferência × extrapolação, ideia central, sentido contextual/ironia, autoria e modalização, relações lógicas, armadilhas de ressalva. Formato: microtexto (≤45 palavras) entre aspas + afirmativa. Resolução cega 94/94; duas formulações ambíguas ajustadas. Lint 0 alertas.
