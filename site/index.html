@@ -417,7 +417,21 @@ function pickNext(){
  if(sess.mode==="erros"){const d=dueList().filter(inScope);why=d.length?"caderno de erros":"";return d[0]||null}
  const due=dueList().filter(inScope);sess.k++;
  if(due.length&&(sess.k%3===0||due.length>10)){why="revisão de erro";return due[0]}
- const r=Motor.pick(Q.filter(inScope),EV,now());why=r?r.motivo:"";return r?r.q:null;
+ const list=Q.filter(inScope);
+ for(const m of pickMods(list)){const r=Motor.pick(list.filter(q=>mod(q)===m),EV,now());if(r){why=r.motivo+" · "+m;return r.q}}
+ return null;
+}
+/* Equilíbrio entre matérias: o motor escolhe o artigo; aqui se escolhe a matéria. Meta = peso na prova, reforçado onde o líquido está abaixo da meta ou onde falta cobertura. Compara com as últimas 60 respostas de treino. */
+function pickMods(list){
+ const S0=stats(),mods=[...new Set(list.map(mod))];
+ if(mods.length<2)return mods;
+ const rec=EV.filter(e=>e.m!=="sim"&&(e.ok===true||e.ok===false)).slice(-60),cnt={};
+ rec.forEach(e=>{const q=QM.get(e.q);if(q)cnt[mod(q)]=(cnt[mod(q)]||0)+1});
+ const tot=Math.max(1,rec.length),w={};let ws=0;
+ for(const m of mods){const o=S0.by[m],base=(WT[o?o.b:"P1"]||{})[m]||5;
+  const weak=o&&o.tot>=10?Math.max(0,Motor.META.pp-o.liq):0.4*(1-(o?o.cov1:0));
+  w[m]=base*(1+weak);ws+=w[m]}
+ return mods.map(m=>[w[m]/ws-(cnt[m]||0)/tot+(Math.random()-0.5)*0.03,m]).sort((x,y)=>y[0]-x[0]).map(x=>x[1]);
 }
 function newSess(o){return{mode:o.mode||"misto",f:{blk:o.blk||"",mod:o.mod||"",top:o.top||""},k:0,n:0,ok:0,er:0,bl:0,t0:now(),mods:{},novos:0}}
 function go(o){sess=newSess(o||{});cur=null;answered=null;view="treino";render();window.scrollTo(0,0)}
