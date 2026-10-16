@@ -1,0 +1,98 @@
+{
+ "parte": "Direito administrativo disciplinar (edital 4)",
+ "sigla": "DIS",
+ "topico": "P1-M3-4",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.4",
+ "nome_curto": "Direito administrativo disciplinar",
+ "fonte": {
+  "tipo": "lei_jurisprudencia",
+  "ref": "Lei 8.112/1990 arts. 121-131, 142-146, 149-152, 167-169; Lei 9.784/1999 art. 69; SV 5; Súmulas 18-21 STF; Súmulas 591, 592, 611, 635, 650 e 651 STJ",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "rotulos": {
+  "1": "Fontes do direito administrativo disciplinar",
+  "2": "Princípios do direito administrativo disciplinar",
+  "3": "Ilícito administrativo disciplinar e independência das instâncias",
+  "4": "Poder disciplinar e controle judicial",
+  "5": "Sindicância e processo administrativo disciplinar: espécies e prazos",
+  "6": "Comissão processante, relatório e julgamento",
+  "7": "Súmulas e teses sobre processo disciplinar (STF e STJ)",
+  "8": "Prescrição da pretensão punitiva disciplinar",
+  "9": "Penalidades disciplinares e dosimetria"
+ },
+ "nota_calibracao": "Alta incidência: princípios, independência das instâncias, sindicância x PAD, prazos, prescrição, súmulas STF/STJ. Complementa L2 (Lei 8.112) e L1 (Lei 9.784).",
+ "pendencias": [
+  "artigos da Lei 8.112 citados por conhecimento (conferir com o texto do lote L2)",
+  "súmulas por conhecimento"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "D01",
+   "titulo": "Fontes e princípios",
+   "incidencia": "alta",
+   "armadilhas": [
+    "tipicidade atenuada",
+    "non bis in idem"
+   ]
+  },
+  {
+   "id": "D02",
+   "titulo": "Ilícito e independência das instâncias",
+   "incidencia": "alta",
+   "armadilhas": [
+    "art. 125 e 126",
+    "falta residual"
+   ]
+  },
+  {
+   "id": "D03",
+   "titulo": "Poder disciplinar e controle judicial",
+   "incidencia": "alta",
+   "armadilhas": [
+    "art. 132 sem discricionariedade",
+    "mérito"
+   ]
+  },
+  {
+   "id": "D04",
+   "titulo": "Sindicância e processo disciplinar",
+   "incidencia": "alta",
+   "armadilhas": [
+    "investigativa x punitiva",
+    "prazos 30 e 60 dias"
+   ]
+  },
+  {
+   "id": "D05",
+   "titulo": "Comissão, relatório e julgamento",
+   "incidencia": "alta",
+   "armadilhas": [
+    "três servidores estáveis",
+    "relatório contrário às provas"
+   ]
+  },
+  {
+   "id": "D06",
+   "titulo": "Súmulas do STF e do STJ",
+   "incidencia": "alta",
+   "armadilhas": [
+    "SV 5",
+    "Súm. 591, 592, 611"
+   ]
+  },
+  {
+   "id": "D07",
+   "titulo": "Prescrição e penalidades",
+   "incidencia": "alta",
+   "armadilhas": [
+    "5 anos, 2 anos, 180 dias",
+    "Súm. 635",
+    "dosimetria"
+   ]
+  }
+ ]
+}

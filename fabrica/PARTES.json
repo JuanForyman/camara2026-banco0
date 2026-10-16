@@ -151,9 +151,9 @@
      "itens_atuais": 330,
      "itens_aprovados_v3": 330,
      "meta": 247,
-     "fonte": "Lei 9.784/99 (PDF do usuário)",
-     "blueprint": "blueprints/l9784.json",
-     "status": "piloto_concluido_lote_L1"
+     "fonte": "Lei 8.112, 9.784 e súmulas (L1, L2 e L13)",
+     "blueprint": "dis.json",
+     "status": "lote_L13"
     },
     {
      "id": "P1-M3-5",

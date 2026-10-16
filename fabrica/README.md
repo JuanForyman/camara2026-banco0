@@ -65,3 +65,6 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ## Lote L12 — Agentes públicos (P1-M3-3, edital 3)
 74 itens (37 C/37 E), pontos S01–S06, 11 átomos em dados/leis/agp.json (CF arts. 37, 38 e 41, MI 708, Temas 161 e 531, SV 13/37/43/44, Súmulas 15 e 683, conceitos). Texto constitucional reproduzido por conhecimento: conferir a redação vigente. Resolução cega embaralhada 73/74; a divergência (Q-AGP-0017, redação ambígua do C) foi corrigida para o texto literal do art. 37, V. Lei 8.112 está no lote L2.
+
+## Lote L13 — Direito administrativo disciplinar (P1-M3-4, edital 4)
+66 itens (33 C/33 E), pontos D01–D07, 9 átomos em dados/leis/dis.json (Lei 8.112 arts. 121–131, 142–152, 167–169, conferidos contra dados/leis/l8112.json; Lei 9.784 art. 69; SV 5; Súmulas 18–21 do STF; Súmulas 591, 592, 611, 635, 650 e 651 do STJ). Súmulas por conhecimento, com risco. Resolução cega embaralhada 66/66 sem divergência. Complementa L1 e L2.
