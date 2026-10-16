@@ -1,0 +1,2520 @@
+[
+ {
+  "id": "Q-ATO-0001",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0001"
+  ],
+  "ponto": "A01",
+  "g": "C",
+  "e": "São elementos do ato administrativo a competência, a finalidade, a forma, o motivo e o objeto, sendo a competência, a finalidade e a forma sempre vinculadas.",
+  "formato": "assertiva",
+  "c": "Elementos do ato.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-ATO-0002",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0002",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0001"
+  ],
+  "ponto": "A01",
+  "g": "E",
+  "e": "São elementos do ato administrativo a competência, a finalidade, a forma, o motivo e o objeto, sendo a competência, o motivo e o objeto sempre vinculados.",
+  "formato": "assertiva",
+  "c": "Elementos do ato.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca elementos vinculados",
+  "par": "Q-ATO-0001",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0003",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0001"
+  ],
+  "ponto": "A01",
+  "g": "C",
+  "e": "O desvio de finalidade ocorre quando o agente, embora competente, pratica o ato com finalidade diversa da prevista em lei ou do interesse público, sendo vício insanável.",
+  "formato": "assertiva",
+  "c": "Desvio de finalidade.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-ATO-0004",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0004",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0001"
+  ],
+  "ponto": "A01",
+  "g": "E",
+  "e": "O desvio de finalidade ocorre quando o agente pratica o ato fora dos limites de sua competência, sendo vício sanável mediante convalidação.",
+  "formato": "assertiva",
+  "c": "Desvio de finalidade.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde com excesso de poder",
+  "par": "Q-ATO-0003",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0005",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0001"
+  ],
+  "ponto": "A01",
+  "g": "C",
+  "e": "A competência administrativa é irrenunciável e, salvo vedação legal, pode ser delegada ou avocada em caráter excepcional e por motivos relevantes devidamente justificados.",
+  "formato": "assertiva",
+  "c": "Lei 9.784/99, arts. 11 a 15.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0006",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0006",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0001"
+  ],
+  "ponto": "A01",
+  "g": "E",
+  "e": "A competência administrativa é irrenunciável e, mesmo quando houver vedação legal, pode ser delegada ou avocada por simples conveniência da autoridade.",
+  "formato": "assertiva",
+  "c": "Lei 9.784/99, arts. 11 a 15.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "ignora vedação legal",
+  "par": "Q-ATO-0005",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0007",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0001",
+   "A-ATO-0010"
+  ],
+  "ponto": "A01",
+  "g": "C",
+  "e": "Pela teoria dos motivos determinantes, a validade do ato vincula-se à existência dos motivos declarados pela Administração, de modo que a falsidade do motivo apresentado pode acarretar a nulidade do ato, ainda que a lei não exigisse a motivação.",
+  "formato": "assertiva",
+  "c": "Teoria dos motivos determinantes.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-ATO-0008",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0008",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0001",
+   "A-ATO-0010"
+  ],
+  "ponto": "A01",
+  "g": "E",
+  "e": "Pela teoria dos motivos determinantes, a Administração, quando não é obrigada por lei a motivar o ato, não se vincula aos motivos que declarar, de modo que a falsidade do motivo apresentado não afeta a validade do ato.",
+  "formato": "assertiva",
+  "c": "Teoria dos motivos determinantes.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "nega vinculação aos motivos declarados",
+  "par": "Q-ATO-0007",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0009",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0002"
+  ],
+  "ponto": "A02",
+  "g": "C",
+  "e": "A presunção de legitimidade e veracidade dos atos administrativos é relativa, admitindo prova em contrário, e transfere ao administrado o ônus de demonstrar a ilegalidade do ato.",
+  "formato": "assertiva",
+  "c": "Atributos do ato.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-ATO-0010",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0010",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0002"
+  ],
+  "ponto": "A02",
+  "g": "E",
+  "e": "A presunção de legitimidade e veracidade dos atos administrativos é absoluta, não admitindo prova em contrário, o que impede o controle judicial de sua legalidade.",
+  "formato": "assertiva",
+  "c": "Atributos do ato.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "presunção absoluta",
+  "par": "Q-ATO-0009",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0011",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0002"
+  ],
+  "ponto": "A02",
+  "g": "C",
+  "e": "A autoexecutoriedade permite à Administração executar suas decisões sem prévia autorização judicial, desde que haja previsão legal ou situação de urgência, e em regra não alcança a cobrança de multas, que depende de execução judicial.",
+  "formato": "assertiva",
+  "c": "Autoexecutoriedade.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0012",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0012",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0002"
+  ],
+  "ponto": "A02",
+  "g": "E",
+  "e": "A autoexecutoriedade permite à Administração executar suas decisões sem prévia autorização judicial, ainda que não haja previsão legal ou urgência, alcançando inclusive a cobrança compulsória de multas.",
+  "formato": "assertiva",
+  "c": "Autoexecutoriedade.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "amplia autoexecutoriedade",
+  "par": "Q-ATO-0011",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0013",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0002"
+  ],
+  "ponto": "A02",
+  "g": "C",
+  "e": "A imperatividade é o atributo pelo qual o ato impõe obrigações a terceiros independentemente de sua concordância, e não está presente nos atos negociais e nos enunciativos.",
+  "formato": "assertiva",
+  "c": "Imperatividade.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0014",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0014",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0002"
+  ],
+  "ponto": "A02",
+  "g": "E",
+  "e": "A imperatividade é atributo presente em todos os atos administrativos, inclusive nos atos negociais e nos enunciativos, como certidões e pareceres.",
+  "formato": "assertiva",
+  "c": "Imperatividade.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "generaliza imperatividade",
+  "par": "Q-ATO-0013",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0015",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0003"
+  ],
+  "ponto": "A03",
+  "g": "C",
+  "e": "O Poder Judiciário pode controlar a legalidade, a razoabilidade e a proporcionalidade do ato discricionário, mas não pode substituir o juízo de conveniência e oportunidade do administrador.",
+  "formato": "assertiva",
+  "c": "Mérito e controle judicial.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0016",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0016",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0003"
+  ],
+  "ponto": "A03",
+  "g": "E",
+  "e": "O Poder Judiciário pode substituir o juízo de conveniência e oportunidade do administrador sempre que considerar o ato inadequado, pois o controle judicial alcança o mérito administrativo.",
+  "formato": "assertiva",
+  "c": "Mérito e controle judicial.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "admite substituição do mérito",
+  "par": "Q-ATO-0015",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0017",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0003"
+  ],
+  "ponto": "A03",
+  "g": "C",
+  "e": "A discricionariedade administrativa é a margem de escolha conferida pela lei quanto à conveniência e à oportunidade, e se distingue da arbitrariedade, que é conduta contrária à lei.",
+  "formato": "assertiva",
+  "c": "Discricionariedade.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-ATO-0018",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0018",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0003"
+  ],
+  "ponto": "A03",
+  "g": "E",
+  "e": "A discricionariedade administrativa é a liberdade ilimitada conferida ao administrador, que independe da lei e dos princípios, e se identifica com a arbitrariedade.",
+  "formato": "assertiva",
+  "c": "Discricionariedade.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde com arbitrariedade",
+  "par": "Q-ATO-0017",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0019",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0003"
+  ],
+  "ponto": "A03",
+  "g": "C",
+  "e": "Servidor é aprovado em concurso e, tendo cumprido todos os requisitos legais, tem a posse negada por autoridade que alega conveniência. Como o ato de posse nessa situação é vinculado, o Judiciário pode determinar sua prática, sem violar a separação de poderes.",
+  "formato": "caso_concreto",
+  "c": "Atos vinculados.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-ATO-0020",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0020",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0003"
+  ],
+  "ponto": "A03",
+  "g": "E",
+  "e": "Servidor é aprovado em concurso e, tendo cumprido todos os requisitos legais, tem a posse negada por autoridade que alega conveniência. Como o ato de posse é discricionário, o Judiciário não pode determinar sua prática, sob pena de violar a separação de poderes.",
+  "formato": "caso_concreto",
+  "c": "Atos vinculados.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "trata ato vinculado como discricionário",
+  "par": "Q-ATO-0019",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0021",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0004"
+  ],
+  "ponto": "A04",
+  "g": "C",
+  "e": "O ato complexo resulta da fusão de vontades de órgãos diversos em um único ato, ao passo que o ato composto resulta de um ato principal e de um ato acessório, como o visto, que o confirma.",
+  "formato": "assertiva",
+  "c": "Ato complexo e composto.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-ATO-0022",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0022",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0004"
+  ],
+  "ponto": "A04",
+  "g": "E",
+  "e": "O ato composto resulta da fusão de vontades de órgãos diversos em um único ato, ao passo que o ato complexo resulta de um ato principal e de um ato acessório, como o visto, que o confirma.",
+  "formato": "assertiva",
+  "c": "Ato complexo e composto.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte conceitos",
+  "par": "Q-ATO-0021",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0023",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0004"
+  ],
+  "ponto": "A04",
+  "g": "C",
+  "e": "O ato administrativo pode ser perfeito, por ter completado seu ciclo de formação, mas inválido, por contrariar a lei, e, ainda assim, eficaz, enquanto não for retirado.",
+  "formato": "assertiva",
+  "c": "Perfeição, validade e eficácia.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0024",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0024",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0004"
+  ],
+  "ponto": "A04",
+  "g": "E",
+  "e": "O ato administrativo perfeito é necessariamente válido, e o ato inválido nunca pode produzir efeitos, pois a eficácia depende da conformidade do ato com a lei.",
+  "formato": "assertiva",
+  "c": "Perfeição, validade e eficácia.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "vincula perfeição e validade",
+  "par": "Q-ATO-0023",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0025",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0005"
+  ],
+  "ponto": "A04",
+  "g": "C",
+  "e": "A licença é ato administrativo vinculado e definitivo, ao passo que a autorização é ato discricionário e precário.",
+  "formato": "assertiva",
+  "c": "Licença e autorização.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-ATO-0026",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0026",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0005"
+  ],
+  "ponto": "A04",
+  "g": "E",
+  "e": "A licença é ato administrativo discricionário e precário, ao passo que a autorização é ato vinculado e definitivo.",
+  "formato": "assertiva",
+  "c": "Licença e autorização.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte características",
+  "par": "Q-ATO-0025",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0027",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0005"
+  ],
+  "ponto": "A04",
+  "g": "C",
+  "e": "A aprovação é ato de controle que examina a conveniência e a oportunidade, podendo ser prévia ou posterior, ao passo que a homologação é ato de controle posterior que examina a legalidade do ato.",
+  "formato": "assertiva",
+  "c": "Aprovação e homologação.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0028",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0028",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0005"
+  ],
+  "ponto": "A04",
+  "g": "E",
+  "e": "A homologação é ato de controle que examina a conveniência e a oportunidade, podendo ser prévia ou posterior, ao passo que a aprovação é ato de controle posterior que examina apenas a legalidade do ato.",
+  "formato": "assertiva",
+  "c": "Aprovação e homologação.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte controles",
+  "par": "Q-ATO-0027",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0029",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0005"
+  ],
+  "ponto": "A04",
+  "g": "C",
+  "e": "Certidões, atestados e pareceres são atos enunciativos, que apenas declaram uma situação ou emitem opinião, sem criar, por si, obrigações para o administrado.",
+  "formato": "assertiva",
+  "c": "Atos enunciativos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0030",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0030",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0005"
+  ],
+  "ponto": "A04",
+  "g": "E",
+  "e": "Certidões, atestados e pareceres são atos normativos, pois estabelecem regras gerais e abstratas de observância obrigatória pela Administração.",
+  "formato": "assertiva",
+  "c": "Atos enunciativos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "classifica como normativo",
+  "par": "Q-ATO-0029",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0031",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0006"
+  ],
+  "ponto": "A05",
+  "g": "C",
+  "e": "O parecer obrigatório deve ser solicitado pela autoridade, mas, em regra, não a vincula, podendo ela decidir em sentido contrário mediante motivação; já no parecer vinculante a autoridade não pode decidir contra a conclusão do parecerista.",
+  "formato": "assertiva",
+  "c": "Espécies de parecer.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0032",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0032",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0006"
+  ],
+  "ponto": "A05",
+  "g": "E",
+  "e": "O parecer obrigatório deve ser solicitado pela autoridade e a vincula necessariamente, de modo que ela não pode decidir em sentido contrário, ainda que motive sua decisão. Tal conclusão decorreria, segundo esse entendimento, da sistemática constitucional da responsabilidade do Estado.",
+  "formato": "assertiva",
+  "c": "Espécies de parecer.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "torna obrigatório vinculante",
+  "par": "Q-ATO-0031",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0033",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0006"
+  ],
+  "ponto": "A05",
+  "g": "C",
+  "e": "Segundo o STF, o parecerista jurídico não responde, em regra, pela opinião técnica emitida, mas pode ser responsabilizado em caso de erro grosseiro, culpa grave ou dolo.",
+  "formato": "assertiva",
+  "c": "STF, MS 24.631 e MS 24.073.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-ATO-0034",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0034",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0006"
+  ],
+  "ponto": "A05",
+  "g": "E",
+  "e": "Segundo o STF, o parecerista jurídico responde objetivamente por qualquer opinião técnica emitida, ainda que ausentes erro grosseiro, culpa grave ou dolo, em razão do caráter vinculante do parecer.",
+  "formato": "assertiva",
+  "c": "STF, MS 24.631 e MS 24.073.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "objetiva",
+  "par": "Q-ATO-0033",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0035",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0006"
+  ],
+  "ponto": "A05",
+  "g": "C",
+  "e": "De acordo com a LINDB, o agente público responde pessoalmente por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro.",
+  "formato": "assertiva",
+  "c": "LINDB, art. 28.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0036",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0036",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0006"
+  ],
+  "ponto": "A05",
+  "g": "E",
+  "e": "De acordo com a LINDB, o agente público responde pessoalmente por suas decisões ou opiniões técnicas em caso de simples culpa leve, não se exigindo dolo ou erro grosseiro.",
+  "formato": "assertiva",
+  "c": "LINDB, art. 28.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "reduz o grau de culpa",
+  "par": "Q-ATO-0035",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0037",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0007"
+  ],
+  "ponto": "A06",
+  "g": "C",
+  "e": "A anulação do ato administrativo decorre de ilegalidade e produz, em regra, efeitos retroativos (ex tunc), ao passo que a revogação decorre de conveniência e oportunidade e produz efeitos prospectivos (ex nunc).",
+  "formato": "assertiva",
+  "c": "Anulação e revogação.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "",
+  "par": "Q-ATO-0038",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0038",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0007"
+  ],
+  "ponto": "A06",
+  "g": "E",
+  "e": "A anulação do ato administrativo decorre de conveniência e oportunidade e produz efeitos prospectivos (ex nunc), ao passo que a revogação decorre de ilegalidade e produz efeitos retroativos (ex tunc).",
+  "formato": "assertiva",
+  "c": "Anulação e revogação.",
+  "padrao": "troca_efeito",
+  "tipo_erro": "inverte efeitos",
+  "par": "Q-ATO-0037",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0039",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0007"
+  ],
+  "ponto": "A06",
+  "g": "C",
+  "e": "A anulação do ato administrativo pode ser realizada pela própria Administração ou pelo Poder Judiciário, ao passo que a revogação somente pode ser realizada pela Administração.",
+  "formato": "assertiva",
+  "c": "Súmulas 346 e 473 do STF.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-ATO-0040",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0040",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0007"
+  ],
+  "ponto": "A06",
+  "g": "E",
+  "e": "A revogação do ato administrativo pode ser realizada pela própria Administração ou pelo Poder Judiciário, ao passo que a anulação somente pode ser realizada pela Administração.",
+  "formato": "assertiva",
+  "c": "Súmulas 346 e 473 do STF.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "troca autoridade",
+  "par": "Q-ATO-0039",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0041",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0007"
+  ],
+  "ponto": "A06",
+  "g": "C",
+  "e": "Não podem ser revogados os atos vinculados, os que geraram direito adquirido, os já exauridos e os meramente enunciativos, como certidões e pareceres.",
+  "formato": "assertiva",
+  "c": "Limites à revogação.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0042",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0042",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0007"
+  ],
+  "ponto": "A06",
+  "g": "E",
+  "e": "Podem ser revogados os atos vinculados e os que geraram direito adquirido, desde que haja conveniência e oportunidade, ressalvados apenas os atos enunciativos.",
+  "formato": "assertiva",
+  "c": "Limites à revogação.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "admite revogar vinculado",
+  "par": "Q-ATO-0041",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0043",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0007"
+  ],
+  "ponto": "A06",
+  "g": "C",
+  "e": "A cassação é a retirada do ato em razão de descumprimento, pelo beneficiário, das condições que deveria manter, e a caducidade decorre de norma superveniente que torna o ato incompatível com o ordenamento.",
+  "formato": "assertiva",
+  "c": "Formas de extinção.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-ATO-0044",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0044",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0007"
+  ],
+  "ponto": "A06",
+  "g": "E",
+  "e": "A cassação é a retirada do ato em razão de norma superveniente que o torna incompatível com o ordenamento, e a caducidade decorre do descumprimento, pelo beneficiário, das condições que deveria manter.",
+  "formato": "assertiva",
+  "c": "Formas de extinção.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte cassação e caducidade",
+  "par": "Q-ATO-0043",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0045",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0008"
+  ],
+  "ponto": "A07",
+  "g": "C",
+  "e": "Os vícios de competência, desde que não se trate de competência exclusiva, e os de forma não essencial são sanáveis, podendo o ato ser convalidado pela Administração, desde que não haja lesão ao interesse público nem prejuízo a terceiros.",
+  "formato": "assertiva",
+  "c": "Lei 9.784/99, art. 55.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0046",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0046",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0008"
+  ],
+  "ponto": "A07",
+  "g": "E",
+  "e": "Os vícios de finalidade, de motivo e de objeto são sanáveis, podendo o ato ser convalidado pela Administração mesmo que haja lesão ao interesse público ou prejuízo a terceiros. Essa seria a orientação adotada pela doutrina e pela jurisprudência no direito brasileiro.",
+  "formato": "assertiva",
+  "c": "Lei 9.784/99, art. 55.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte vícios sanáveis",
+  "par": "Q-ATO-0045",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0047",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0008",
+   "A-ATO-0009"
+  ],
+  "ponto": "A07",
+  "g": "C",
+  "e": "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis aos destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.",
+  "formato": "assertiva",
+  "c": "Lei 9.784/99, art. 54.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-ATO-0048",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0048",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0008",
+   "A-ATO-0009"
+  ],
+  "ponto": "A07",
+  "g": "E",
+  "e": "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis aos destinatários decai em dez anos, contados da data em que foram praticados, mesmo que comprovada a boa-fé.",
+  "formato": "assertiva",
+  "c": "Lei 9.784/99, art. 54.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca prazo",
+  "par": "Q-ATO-0047",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0049",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0009"
+  ],
+  "ponto": "A07",
+  "g": "C",
+  "e": "Segundo o STF, o TCU deve apreciar a legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão no prazo de cinco anos, contados da chegada do processo à Corte, sob pena de decadência, e dispensa-se contraditório nessa apreciação.",
+  "formato": "assertiva",
+  "c": "STF, Tema 445 e SV 3.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0050",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0050",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0009"
+  ],
+  "ponto": "A07",
+  "g": "E",
+  "e": "Segundo o STF, o TCU não se sujeita a prazo para apreciar a legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, e deve garantir contraditório e ampla defesa ao interessado em todos os casos.",
+  "formato": "assertiva",
+  "c": "STF, Tema 445 e SV 3.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "retira prazo e exige contraditório",
+  "par": "Q-ATO-0049",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0051",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0010"
+  ],
+  "ponto": "A07",
+  "g": "C",
+  "e": "A motivação é exigida, nos termos da Lei 9.784/99, nos atos que neguem, limitem ou afetem direitos ou interesses e nos que imponham sanções, podendo ser feita por referência a pareceres ou informações anteriores, e não se exige para a exoneração de cargo em comissão.",
+  "formato": "assertiva",
+  "c": "Lei 9.784/99, art. 50.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0052",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0052",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0010"
+  ],
+  "ponto": "A07",
+  "g": "E",
+  "e": "A motivação é exigida, nos termos da Lei 9.784/99, para todo e qualquer ato administrativo, inclusive a exoneração de cargo em comissão, e não pode ser feita por referência a pareceres ou informações anteriores.",
+  "formato": "assertiva",
+  "c": "Lei 9.784/99, art. 50.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "generaliza motivação",
+  "par": "Q-ATO-0051",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0053",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0011"
+  ],
+  "ponto": "A08",
+  "g": "C",
+  "e": "O excesso de poder ocorre quando o agente atua fora dos limites de sua competência, ao passo que o desvio de poder ocorre quando, embora competente, o agente persegue finalidade diversa da prevista em lei.",
+  "formato": "assertiva",
+  "c": "Abuso de poder.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-ATO-0054",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0054",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0011"
+  ],
+  "ponto": "A08",
+  "g": "E",
+  "e": "O excesso de poder ocorre quando, embora competente, o agente persegue finalidade diversa da prevista em lei, ao passo que o desvio de poder ocorre quando o agente atua fora dos limites de sua competência.",
+  "formato": "assertiva",
+  "c": "Abuso de poder.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte espécies",
+  "par": "Q-ATO-0053",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0055",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0012"
+  ],
+  "ponto": "A08",
+  "g": "C",
+  "e": "O poder hierárquico compreende as prerrogativas de ordenar, coordenar, controlar e corrigir as atividades dos subordinados, bem como de delegar e avocar competências.",
+  "formato": "assertiva",
+  "c": "Poder hierárquico.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-ATO-0056",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0056",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0012"
+  ],
+  "ponto": "A08",
+  "g": "E",
+  "e": "O poder hierárquico limita-se à prerrogativa de punir os subordinados por infrações funcionais, não compreendendo a delegação e a avocação de competências.",
+  "formato": "assertiva",
+  "c": "Poder hierárquico.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "confunde com poder disciplinar",
+  "par": "Q-ATO-0055",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina_jurisprudencia",
+   "ref": "doutrina majoritária; Lei 9.784/99",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0057",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0012"
+  ],
+  "ponto": "A08",
+  "g": "C",
+  "e": "O poder regulamentar autoriza o chefe do Executivo a expedir decretos para a fiel execução das leis, sendo o decreto autônomo admitido apenas nas hipóteses previstas no art. 84, VI, da Constituição.",
+  "formato": "assertiva",
+  "c": "CF, art. 84, IV e VI.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0058",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0058",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0012"
+  ],
+  "ponto": "A08",
+  "g": "E",
+  "e": "O poder regulamentar autoriza o chefe do Executivo a expedir decretos que inovem livremente na ordem jurídica, criando direitos e obrigações, sendo o decreto autônomo admitido em qualquer matéria.",
+  "formato": "assertiva",
+  "c": "CF, art. 84, IV e VI.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "admite decreto autônomo amplo",
+  "par": "Q-ATO-0057",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0059",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0012"
+  ],
+  "ponto": "A08",
+  "g": "C",
+  "e": "O ciclo de polícia compreende a ordem, o consentimento, a fiscalização e a sanção, e, segundo o STF, é constitucional a delegação do poder de polícia, por lei, a pessoas jurídicas de direito privado da Administração indireta, de capital majoritariamente público, que prestem serviço público próprio do Estado em regime não concorrencial.",
+  "formato": "assertiva",
+  "c": "STF, Tema 532 (RE 633.782).",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-ATO-0060",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0060",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0012"
+  ],
+  "ponto": "A08",
+  "g": "E",
+  "e": "O ciclo de polícia compreende a ordem, o consentimento, a fiscalização e a sanção, e, segundo o STF, é constitucional a delegação do poder de polícia a qualquer pessoa jurídica de direito privado, inclusive empresas particulares que atuem em regime de concorrência. Tal conclusão decorreria, segundo esse entendimento, da sistemática constitucional da responsabilidade do Estado.",
+  "formato": "assertiva",
+  "c": "STF, Tema 532 (RE 633.782).",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "amplia delegação a particulares",
+  "par": "Q-ATO-0059",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "jurisprudencia",
+   "ref": "Teses de repercussão geral do STF (tesesesumulas.com.br, 2026-10-16)",
+   "versao": "conhecimento verificado em fonte secundária",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "jurisprudencia_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0061",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0012"
+  ],
+  "ponto": "A08",
+  "g": "C",
+  "e": "A ação punitiva da Administração Pública Federal, no exercício do poder de polícia, prescreve em cinco anos, contados da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver cessado.",
+  "formato": "assertiva",
+  "c": "Lei 9.873/99, art. 1º.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-ATO-0062",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-ATO-0062",
+  "t": "P1-M3-2",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "bloco": "P1",
+  "item_edital": "4.2",
+  "a": [
+   "A-ATO-0012"
+  ],
+  "ponto": "A08",
+  "g": "E",
+  "e": "A ação punitiva da Administração Pública Federal, no exercício do poder de polícia, prescreve em dois anos, contados da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver sido iniciada.",
+  "formato": "assertiva",
+  "c": "Lei 9.873/99, art. 1º.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca prazo e termo",
+  "par": "Q-ATO-0061",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "Lei 9.784/99",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L9",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ }
+]

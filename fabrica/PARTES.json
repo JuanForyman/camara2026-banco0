@@ -128,12 +128,12 @@
     {
      "id": "P1-M3-2",
      "titulo": "Ato administrativo",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 62,
+     "itens_aprovados_v3": 62,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "doutrina/jurisprudência",
+     "blueprint": "ato.json",
+     "status": "lote_L9"
     },
     {
      "id": "P1-M3-3",
@@ -158,12 +158,12 @@
     {
      "id": "P1-M3-5",
      "titulo": "Poderes administrativos",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 62,
+     "itens_aprovados_v3": 62,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "doutrina/jurisprudência",
+     "blueprint": "ato.json",
+     "status": "lote_L9"
     },
     {
      "id": "P1-M3-6",

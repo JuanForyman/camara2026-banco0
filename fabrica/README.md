@@ -53,3 +53,6 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ## Lote L8 — Responsabilidade civil do Estado (P1-M3-6, edital 6)
 64 itens (32 C/32 E), pontos R01–R08, 15 átomos doutrinários em dados/leis/rce.json. Fonte: CF 37 §6º, CC 43 e teses do STF (Temas 130, 362, 365, 366, 512, 592, 666, 777, 940, 950, 1055, 1237, 1347), conferência = "conhecimento" com risco; nenhum item r=1 sem fonte citada. Resolução cega: 64/64 sem divergência. Revisar teses contra os acórdãos antes de tratar como definitivo.
+
+## Lote L9 — Ato administrativo e poderes (P1-M3-2 e P1-M3-5, edital 2 e 5)
+62 itens (31 C/31 E), pontos A01–A08, 12 átomos doutrinários em dados/leis/ato.json. Fonte: Lei 9.784/99, Súmulas 346/473 e SV 3, Temas 445 e 532 do STF, LINDB art. 28, doutrina; conferida = "conhecimento" com risco. Resolução cega (ordem embaralhada): 62/62 sem divergência.

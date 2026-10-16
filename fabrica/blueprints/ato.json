@@ -1,0 +1,108 @@
+{
+ "parte": "Direito Administrativo — Ato administrativo e poderes (edital 2 e 5)",
+ "sigla": "ATO",
+ "topico": "P1-M3-2",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.2",
+ "nome_curto": "Ato administrativo e poderes",
+ "fonte": {
+  "tipo": "doutrina_jurisprudencia",
+  "ref": "Lei 9.784/99 arts. 50, 54 e 55; Súmulas 346 e 473 e SV 3 do STF; Temas 445 e 532; MS 24.631; LINDB art. 28; doutrina majoritária",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "rotulos": {
+  "1": "Conceito e elementos (requisitos) do ato administrativo",
+  "2": "Atributos do ato administrativo",
+  "3": "Vinculação e discricionariedade; mérito e controle judicial",
+  "4": "Classificação dos atos administrativos",
+  "5": "Espécies: ato normativo, ordinatório, negocial, enunciativo, punitivo",
+  "6": "Parecer jurídico e responsabilidade do parecerista",
+  "7": "Formação e extinção do ato: anulação, revogação, cassação, caducidade, contraposição",
+  "8": "Convalidação, vícios e nulidades",
+  "9": "Prazo de decadência para anular atos e atos de concessão de aposentadoria",
+  "10": "Teoria dos motivos determinantes e teoria da aparência",
+  "11": "Abuso de poder: excesso de poder e desvio de finalidade",
+  "12": "Poderes administrativos: vinculado, discricionário, hierárquico, disciplinar, regulamentar, de polícia"
+ },
+ "nota_calibracao": "Alta incidência: requisitos, atributos, vício de competência x finalidade, anulação x revogação, convalidação, decadência e parecer.",
+ "pendencias": [
+  "sem texto-fonte literal; doutrina e jurisprudência por conhecimento, com risco"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "A01",
+   "titulo": "Elementos do ato",
+   "incidencia": "alta",
+   "armadilhas": [
+    "vinculado x discricionário",
+    "vício sanável"
+   ]
+  },
+  {
+   "id": "A02",
+   "titulo": "Atributos",
+   "incidencia": "alta",
+   "armadilhas": [
+    "autoexecutoriedade",
+    "presunção relativa"
+   ]
+  },
+  {
+   "id": "A03",
+   "titulo": "Discricionariedade, mérito e controle judicial",
+   "incidencia": "alta",
+   "armadilhas": [
+    "substituição do mérito"
+   ]
+  },
+  {
+   "id": "A04",
+   "titulo": "Classificação e espécies",
+   "incidencia": "alta",
+   "armadilhas": [
+    "complexo x composto",
+    "licença x autorização"
+   ]
+  },
+  {
+   "id": "A05",
+   "titulo": "Parecer e responsabilidade",
+   "incidencia": "alta",
+   "armadilhas": [
+    "vinculante",
+    "erro grosseiro"
+   ]
+  },
+  {
+   "id": "A06",
+   "titulo": "Extinção: anulação, revogação e demais formas",
+   "incidencia": "alta",
+   "armadilhas": [
+    "efeitos ex tunc/ex nunc",
+    "súmulas 346 e 473"
+   ]
+  },
+  {
+   "id": "A07",
+   "titulo": "Convalidação, decadência e motivação",
+   "incidencia": "alta",
+   "armadilhas": [
+    "art. 54",
+    "art. 50",
+    "motivos determinantes"
+   ]
+  },
+  {
+   "id": "A08",
+   "titulo": "Abuso de poder e poderes administrativos",
+   "incidencia": "alta",
+   "armadilhas": [
+    "excesso x desvio",
+    "poder de polícia"
+   ]
+  }
+ ]
+}
