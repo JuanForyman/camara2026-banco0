@@ -8,7 +8,11 @@ norm = lambda s: re.sub(r"\s+", " ", " ".join(s) if isinstance(s, list) else s)
 B = [q for q in B if not q["id"].startswith(f"Q-N{nn}-")]  # idempotente
 fcamp = {t: collections.Counter(q.get("f") for q in B if q["t"] == t and q.get("f")).most_common(1) for t in T}
 novos = []
+atop = {}
+for q in B:
+    for a_ in q["a"]: atop.setdefault(a_, collections.Counter())[q["t"]] += 1
 for i, (t, a, g, e, c, fr, k) in enumerate(Q, 1):
+    if t == "auto": t = atop[a].most_common(1)[0][0]
     assert t in T and a in A, (t, a)
     txt = norm(A[a]["x"]); assert fr in txt, fr
     segs = re.split(r"(?= § \d+º| Parágrafo único| [IVX]+ [-–] | [a-z]\) )", txt)

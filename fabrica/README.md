@@ -137,3 +137,4 @@ Prioridade de incidência, 2ª base (Taquígrafo 2012): `ferramentas/prioridade_
 - `ferramentas/mapa_cobertura.py` → `dados/mapa_cobertura.json`: peso esperado por tópico (estimado) × tamanho do banco; ordena lacunas.
 - Camadas em `fabrica/camadas/cNN_*.py` (tuplas: tópico, átomo, C/E, enunciado, gabarito, trecho literal do átomo, k); inseridas por `python3 -I ferramentas/inserir_camada.py <arquivo> NN` (idempotente, ids `Q-NNN-xxx`, trecho validado contra o átomo).
 - C01 (Processo Legislativo, CF 59–69): 58 itens em P2-M8-1.1 a 1.5.
+- C02 (RICD/RC, átomos com ≤2 itens): 61 itens.
