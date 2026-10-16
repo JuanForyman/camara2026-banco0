@@ -118,12 +118,12 @@
     {
      "id": "P1-M3-1",
      "titulo": "Estado, governo e Administração Pública",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 62,
+     "itens_aprovados_v3": 62,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "DL 200/67, CF e leis do terceiro setor (conhecimento)",
+     "blueprint": "org.json",
+     "status": "lote_L10"
     },
     {
      "id": "P1-M3-2",

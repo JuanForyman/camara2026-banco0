@@ -1,0 +1,112 @@
+{
+ "parte": "Direito Administrativo — Estado, governo e organização administrativa (edital 1)",
+ "sigla": "ORG",
+ "topico": "P1-M3-1",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.1",
+ "nome_curto": "Organização administrativa",
+ "fonte": {
+  "tipo": "lei_doutrina",
+  "ref": "DL 200/67; CF art. 37, XIX e XX, e art. 173; Leis 9.637/98, 9.790/99, 13.019/14, 13.303/16, 11.107/05, 9.784/99 art. 1º; STF ADI 1.923 e RE 220.906",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "rotulos": {
+  "1": "Estado, governo e Administração Pública (conceitos)",
+  "2": "Centralização, descentralização e desconcentração",
+  "3": "Decreto-Lei 200/1967: Administração direta e indireta",
+  "4": "Criação das entidades: CF, art. 37, XIX e XX",
+  "5": "Autarquias e fundações públicas",
+  "6": "Empresas estatais (empresa pública e sociedade de economia mista)",
+  "7": "Terceiro setor: organizações sociais, OSCIP e organizações da sociedade civil",
+  "8": "Órgãos públicos e teoria do órgão",
+  "9": "Controle da Administração indireta: supervisão ministerial e tutela",
+  "10": "Consórcios públicos (Lei 11.107/2005)"
+ },
+ "nota_calibracao": "Alta incidência: direta x indireta, DL 200/67, criação por lei específica, regimes das entidades, terceiro setor, centralização x desconcentração.",
+ "pendencias": [
+  "sem texto-fonte literal além de DL 200/67 e CF; doutrina e jurisprudência por conhecimento, com risco"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "O01",
+   "titulo": "Estado, governo e Administração",
+   "incidencia": "alta",
+   "armadilhas": [
+    "sentido objetivo x subjetivo"
+   ]
+  },
+  {
+   "id": "O02",
+   "titulo": "Centralização, descentralização e desconcentração",
+   "incidencia": "alta",
+   "armadilhas": [
+    "outorga x delegação"
+   ]
+  },
+  {
+   "id": "O03",
+   "titulo": "Administração direta e indireta: DL 200/67",
+   "incidencia": "alta",
+   "armadilhas": [
+    "conceitos do art. 5º"
+   ]
+  },
+  {
+   "id": "O04",
+   "titulo": "Criação das entidades: art. 37, XIX e XX",
+   "incidencia": "alta",
+   "armadilhas": [
+    "lei específica x autorização"
+   ]
+  },
+  {
+   "id": "O05",
+   "titulo": "Autarquias e fundações",
+   "incidencia": "alta",
+   "armadilhas": [
+    "regime especial",
+    "fundação de direito público"
+   ]
+  },
+  {
+   "id": "O06",
+   "titulo": "Empresas estatais",
+   "incidencia": "alta",
+   "armadilhas": [
+    "art. 173",
+    "teto remuneratório",
+    "CLT"
+   ]
+  },
+  {
+   "id": "O07",
+   "titulo": "Terceiro setor",
+   "incidencia": "alta",
+   "armadilhas": [
+    "OS x OSCIP x OSC",
+    "sistema S"
+   ]
+  },
+  {
+   "id": "O08",
+   "titulo": "Órgãos públicos",
+   "incidencia": "alta",
+   "armadilhas": [
+    "personalidade",
+    "Súmula 525"
+   ]
+  },
+  {
+   "id": "O09",
+   "titulo": "Supervisão ministerial e consórcios",
+   "incidencia": "media",
+   "armadilhas": [
+    "tutela x hierarquia",
+    "associação pública"
+   ]
+  }
+ ]
+}

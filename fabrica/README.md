@@ -56,3 +56,6 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ## Lote L9 — Ato administrativo e poderes (P1-M3-2 e P1-M3-5, edital 2 e 5)
 62 itens (31 C/31 E), pontos A01–A08, 12 átomos doutrinários em dados/leis/ato.json. Fonte: Lei 9.784/99, Súmulas 346/473 e SV 3, Temas 445 e 532 do STF, LINDB art. 28, doutrina; conferida = "conhecimento" com risco. Resolução cega (ordem embaralhada): 62/62 sem divergência.
+
+## Lote L10 — Organização administrativa (P1-M3-1, edital 1)
+62 itens (31 C/31 E), pontos O01–O09, 10 átomos em dados/leis/org.json (DL 200/67, CF 37 XIX/XX e 173, Leis 9.637, 9.790, 13.019, 13.303, 11.107 e 9.784 art. 1º, ADI 1.923, RE 220.906, Súmula 525 STJ). Fonte conferida = "conhecimento" com risco; resolução cega embaralhada 62/62 sem divergência.
