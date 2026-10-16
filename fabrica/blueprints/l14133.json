@@ -1,0 +1,488 @@
+{
+ "parte": "Direito Administrativo — Lei 14.133/2021 (Nova Lei de Licitações e Contratos)",
+ "sigla": "L14133",
+ "topico": "P1-M3-10",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.10",
+ "nome_curto": "Lei 14.133/21",
+ "fonte": {
+  "tipo": "lei",
+  "ref": "Lei 14.133/2021",
+  "versao": "Lei 14.133/2021 Esquematizada (Herbert Almeida, 4ª ed.) anexada pelo usuário no Drive; texto legal extraído sem os comentários; atualizado até 2023",
+  "conferida": "pdf_usuario"
+ },
+ "nota_calibracao": "Lei de alta incidência em Cebraspe (modalidades, fases, dispensa/inexigibilidade, habilitação, contratos, sanções); valores monetários foram atualizados por decreto (Dec. 12.343/2024) e não devem ser cobrados pelo valor da lei sem ressalva.",
+ "pendencias": [
+  "valores em reais do texto legal (art. 6º XXII, 75 I e II, 95 §2º etc.) foram atualizados por decreto; itens com valor trazem risco de vigência",
+  "conferir alterações posteriores a 2023 (Lei 14.770/2023, Lei 14.945/2024, LC 182/2021 etc.)",
+  "parser perdeu os arts. 172 e 188 (revogados/vetados) — sem impacto"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "T01",
+   "titulo": "Âmbito de aplicação e exclusões (arts. 1º a 4º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "empresas estatais fora (Lei 13.303)",
+    "operação de crédito",
+    "LC 123 arts. 42 a 49"
+   ]
+  },
+  {
+   "id": "T02",
+   "titulo": "Princípios (art. 5º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "rol de 21 princípios + LINDB",
+    "segregação de funções, planejamento"
+   ]
+  },
+  {
+   "id": "T03",
+   "titulo": "Definições (art. 6º)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "grande vulto",
+    "modalidades",
+    "bens comuns x especiais",
+    "agente de contratação",
+    "regimes de execução"
+   ]
+  },
+  {
+   "id": "T04",
+   "titulo": "Agentes públicos, vedações e defesa (arts. 7º a 10)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "servidor efetivo",
+    "comissão mínimo 3",
+    "responde individualmente",
+    "parecer jurídico"
+   ]
+  },
+  {
+   "id": "T05",
+   "titulo": "Objetivos, processo, impedimentos, consórcio e fases (arts. 11 a 17)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "sete fases",
+    "inversão de fases",
+    "consórcio 10% a 30%",
+    "impedimentos do art. 14"
+   ]
+  },
+  {
+   "id": "T06",
+   "titulo": "Fase preparatória e planejamento (arts. 18 a 22)",
+   "incidencia": "media",
+   "armadilhas": [
+    "ETP",
+    "audiência pública 8 dias úteis",
+    "matriz de riscos obrigatória"
+   ]
+  },
+  {
+   "id": "T07",
+   "titulo": "Valor estimado e orçamento sigiloso (arts. 23 e 24)",
+   "incidencia": "media",
+   "armadilhas": [
+    "parâmetros em ordem",
+    "3 fornecedores/6 meses",
+    "sigilo não vale para controle"
+   ]
+  },
+  {
+   "id": "T08",
+   "titulo": "Edital (art. 25)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "programa de integridade em 6 meses",
+    "reajuste obrigatório",
+    "repactuação x reajuste"
+   ]
+  },
+  {
+   "id": "T09",
+   "titulo": "Margem de preferência (arts. 26 e 27)",
+   "incidencia": "media",
+   "armadilhas": [
+    "10% e 20%",
+    "decisão do Poder Executivo federal"
+   ]
+  },
+  {
+   "id": "T10",
+   "titulo": "Modalidades (arts. 28 a 32)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "cinco modalidades",
+    "vedada combinação",
+    "leilão sem habilitação",
+    "diálogo competitivo prazos"
+   ]
+  },
+  {
+   "id": "T11",
+   "titulo": "Critérios de julgamento (arts. 33 a 39)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "70% técnica",
+    "banca 3 membros",
+    "maior retorno econômico só em contrato de eficiência"
+   ]
+  },
+  {
+   "id": "T12",
+   "titulo": "Planejamento de compras, parcelamento e marca (arts. 40 e 41)",
+   "incidencia": "media",
+   "armadilhas": [
+    "parcelamento não adotado quando...",
+    "indicação de marca excepcional"
+   ]
+  },
+  {
+   "id": "T13",
+   "titulo": "Prova de qualidade, padronização, compra x locação e obras (arts. 42 a 45)",
+   "incidencia": "media",
+   "armadilhas": [
+    "amostra só do provisoriamente vencedor",
+    "processo de padronização"
+   ]
+  },
+  {
+   "id": "T14",
+   "titulo": "Regimes de execução e licitação de serviços (arts. 46 e 47)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "vedada obra sem projeto executivo",
+    "contratação integrada dispensa projeto básico",
+    "preço global"
+   ]
+  },
+  {
+   "id": "T15",
+   "titulo": "Terceirização, múltiplos contratados, locação e licitação internacional (arts. 48 a 52)",
+   "incidencia": "media",
+   "armadilhas": [
+    "vedações na terceirização",
+    "parente do dirigente",
+    "locação de imóvel"
+   ]
+  },
+  {
+   "id": "T16",
+   "titulo": "Controle prévio jurídico e publicidade do edital (arts. 53 e 54)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "PNCP",
+    "extrato no diário oficial e jornal",
+    "dispensa de parecer"
+   ]
+  },
+  {
+   "id": "T17",
+   "titulo": "Prazos, modos de disputa, lances e garantia de proposta (arts. 55 a 58)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "8, 10, 15, 25, 35, 60 dias úteis",
+    "modo fechado isolado vedado",
+    "garantia 1%"
+   ]
+  },
+  {
+   "id": "T18",
+   "titulo": "Desclassificação e desempate (arts. 59 e 60)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "75% e 85%",
+    "ordem dos desempates"
+   ]
+  },
+  {
+   "id": "T19",
+   "titulo": "Negociação e habilitação em geral (arts. 61 a 65)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "só o vencedor apresenta documentos",
+    "diligência x novos documentos",
+    "empresas recém-criadas: balanço de abertura"
+   ]
+  },
+  {
+   "id": "T20",
+   "titulo": "Habilitação jurídica e técnica (arts. 66 e 67)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "4% parcela de maior relevância",
+    "50% quantidades mínimas",
+    "3 anos serviços contínuos",
+    "25% subcontratado"
+   ]
+  },
+  {
+   "id": "T21",
+   "titulo": "Habilitação fiscal, econômico-financeira e documentação (arts. 68 a 70)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "2 últimos exercícios",
+    "10% capital mínimo",
+    "vedado faturamento mínimo"
+   ]
+  },
+  {
+   "id": "T22",
+   "titulo": "Encerramento da licitação (art. 71)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "revogação: fato superveniente",
+    "anulação: ilegalidade insanável",
+    "prévia manifestação"
+   ]
+  },
+  {
+   "id": "T23",
+   "titulo": "Processo de contratação direta (arts. 72 e 73)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "documentos do art. 72",
+    "responsabilidade solidária dolo/fraude/erro grosseiro"
+   ]
+  },
+  {
+   "id": "T24",
+   "titulo": "Inexigibilidade (art. 74)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "rol exemplificativo",
+    "notória especialização",
+    "vedada subcontratação",
+    "publicidade e divulgação"
+   ]
+  },
+  {
+   "id": "T25",
+   "titulo": "Dispensa de licitação (art. 75)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "rol taxativo",
+    "valores de baixo valor",
+    "emergência 1 ano e vedada prorrogação"
+   ]
+  },
+  {
+   "id": "T26",
+   "titulo": "Alienação de bens (arts. 76 e 77)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "leilão",
+    "autorização legislativa só imóveis",
+    "dispensas",
+    "investidura 50%",
+    "doação com encargo"
+   ]
+  },
+  {
+   "id": "T27",
+   "titulo": "Procedimentos auxiliares: credenciamento e pré-qualificação (arts. 78 a 80)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "rol de 5",
+    "hipóteses de credenciamento",
+    "validade 1 ano",
+    "10 dias úteis"
+   ]
+  },
+  {
+   "id": "T28",
+   "titulo": "Procedimento de manifestação de interesse (art. 81)",
+   "incidencia": "media",
+   "armadilhas": [
+    "sem preferência",
+    "sem obrigar licitar",
+    "ressarcimento só pelo vencedor",
+    "startups"
+   ]
+  },
+  {
+   "id": "T29",
+   "titulo": "Sistema de registro de preços (arts. 82 a 86)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "vigência 1 ano prorrogável",
+    "IRP 8 dias úteis",
+    "carona 50% e dobro",
+    "não obriga a contratar"
+   ]
+  },
+  {
+   "id": "T30",
+   "titulo": "Registro cadastral (arts. 87 e 88)",
+   "incidencia": "media",
+   "armadilhas": [
+    "PNCP",
+    "chamamento anual",
+    "vedado cadastro complementar"
+   ]
+  },
+  {
+   "id": "T31",
+   "titulo": "Formalização e convocação do contrato (arts. 89 a 91)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "direito público e supletivo privado",
+    "prorrogação do prazo 1 vez",
+    "remanescentes",
+    "forma escrita e sigilo excepcional",
+    "Ceis e Cnep"
+   ]
+  },
+  {
+   "id": "T32",
+   "titulo": "Cláusulas necessárias do contrato (art. 92)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "foro da sede",
+    "reajuste e repactuação",
+    "medição mensal"
+   ]
+  },
+  {
+   "id": "T33",
+   "titulo": "Cessão de direitos e eficácia pela divulgação no PNCP (arts. 93 e 94)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "20 e 10 dias úteis",
+    "condição de eficácia",
+    "urgência"
+   ]
+  },
+  {
+   "id": "T34",
+   "titulo": "Instrumento de contrato e garantias (arts. 95 a 102)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "5% e até 10%",
+    "30% grande vulto",
+    "opção do contratado",
+    "seguro 1 mês"
+   ]
+  },
+  {
+   "id": "T35",
+   "titulo": "Matriz de riscos e prerrogativas (arts. 103 e 104)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "riscos com seguro ao contratado",
+    "exceções ao equilíbrio",
+    "cláusulas econômicas só com concordância"
+   ]
+  },
+  {
+   "id": "T36",
+   "titulo": "Duração dos contratos (arts. 105 a 114)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "5 anos serviços contínuos",
+    "10 anos prorrogação",
+    "10 e 35 anos receita",
+    "15 anos TI",
+    "indeterminado monopólio"
+   ]
+  },
+  {
+   "id": "T37",
+   "titulo": "Execução, fiscalização e responsabilidades (arts. 115 a 123)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "fiscal e terceiros",
+    "responsabilidade trabalhista solidária/subsidiária",
+    "subcontratação vedada",
+    "prazo 1 mês"
+   ]
+  },
+  {
+   "id": "T38",
+   "titulo": "Alteração dos contratos (arts. 124 e 125)",
+   "incidencia": "alta",
+   "armadilhas": [
+    "25% e 50% reforma",
+    "unilateral x acordo",
+    "equilíbrio"
+   ]
+  },
+  {
+   "id": "T39",
+   "titulo": "Alterações e equilíbrio: regras complementares (arts. 126 a 136)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T40",
+   "titulo": "Extinção do contrato (arts. 137 a 139)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T41",
+   "titulo": "Recebimento do objeto (art. 140)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T42",
+   "titulo": "Pagamento (arts. 141 a 146)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T43",
+   "titulo": "Nulidade do contrato (arts. 147 a 150)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T44",
+   "titulo": "Meios alternativos de resolução de controvérsias (arts. 151 a 154)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T45",
+   "titulo": "Infrações e sanções (arts. 155 e 156)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T46",
+   "titulo": "Processo sancionador e desconsideração (arts. 157 a 161)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T47",
+   "titulo": "Multa de mora e reabilitação (arts. 162 e 163)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T48",
+   "titulo": "Impugnação e recursos (arts. 164 a 168)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T49",
+   "titulo": "Controle das contratações (arts. 169 a 173)",
+   "incidencia": "alta",
+   "armadilhas": []
+  },
+  {
+   "id": "T50",
+   "titulo": "PNCP e disposições finais (arts. 174 a 183)",
+   "incidencia": "alta",
+   "armadilhas": []
+  }
+ ]
+}
