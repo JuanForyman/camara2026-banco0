@@ -68,3 +68,6 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ## Lote L13 — Direito administrativo disciplinar (P1-M3-4, edital 4)
 66 itens (33 C/33 E), pontos D01–D07, 9 átomos em dados/leis/dis.json (Lei 8.112 arts. 121–131, 142–152, 167–169, conferidos contra dados/leis/l8112.json; Lei 9.784 art. 69; SV 5; Súmulas 18–21 do STF; Súmulas 591, 592, 611, 635, 650 e 651 do STJ). Súmulas por conhecimento, com risco. Resolução cega embaralhada 66/66 sem divergência. Complementa L1 e L2.
+
+## Lote L14 — Ciência Política (P2-M9-1 a P2-M9-11, edital 9)
+146 itens (73 C/73 E), pontos Q01–Q11 (um por tópico), 15 átomos doutrinários em dados/leis/pol.json (Weber, Dahl, Linz, Lijphart, Duverger, Sartori, Abranches, Limongi e Figueiredo, Faoro, Buarque de Holanda, Nunes Leal, Carvalho; CF arts. 1º, 2º, 4º, 14 e 17; Lei 9.096/1995; EC 97/2017). Os temas foram escolhidos por recorrência em provas de ciência política; não reproduzem questões reais do Cebraspe (sem acesso a texto confiável). Fonte conferida = "conhecimento" com risco. Resolução cega embaralhada 146/146. Pendente: conferir o regime das sobras eleitorais (STF 2024; fora dos itens), cláusula de desempenho e federações. O último concurso da Câmara (2023) foi da FGV, não do Cebraspe.

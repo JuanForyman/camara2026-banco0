@@ -1,0 +1,170 @@
+{
+ "parte": "Ciência Política (P2, edital 9)",
+ "sigla": "POL",
+ "topico": "P2-M9-1",
+ "materia": "Ciência Política",
+ "bloco": "P2",
+ "item_edital": "9.1",
+ "nome_curto": "Ciência Política",
+ "fonte": {
+  "tipo": "doutrina_lei",
+  "ref": "CF arts. 1º, 2º, 4º, 14, 17 e 18; Lei 9.096/1995; EC 97/2017; doutrina (Weber, Dahl, Linz, Lijphart, Duverger, Sartori, Abranches, Limongi e Figueiredo, Faoro, Buarque de Holanda, Nunes Leal, Carvalho)",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "rotulos": {
+  "1": "Democracia, autoritarismo e totalitarismo",
+  "2": "Democracia: ondas, consolidação e qualidade",
+  "3": "Sistemas e formas de governo",
+  "4": "Representação política e democracia semidireta",
+  "5": "Separação dos Poderes e relações entre Executivo e Legislativo",
+  "6": "Sistemas eleitorais",
+  "7": "Partidos políticos: teoria",
+  "8": "Partidos políticos no Brasil: Constituição e Lei 9.096/1995",
+  "9": "Organização política brasileira: Constituição",
+  "10": "Relações internacionais e política internacional",
+  "11": "Teoria do Estado: elementos, contratualismo e soberania",
+  "12": "Formação dos Estados nacionais e tipos de Estado",
+  "13": "Formação do Estado brasileiro: interpretações clássicas",
+  "14": "História do voto no Brasil",
+  "15": "História dos partidos no Brasil"
+ },
+ "nota_calibracao": "Matéria de P2. Temas escolhidos por recorrência em provas de ciência política (autores clássicos, sistemas eleitorais, partidos, regimes, presidencialismo de coalizão, formação do Estado brasileiro, história do voto). Não reproduz questões reais.",
+ "pendencias": [
+  "conteúdo doutrinário por conhecimento; conferir sobras (STF 2024), cláusula de desempenho e federações",
+  "sem texto literal de provas anteriores do Cebraspe"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "Q01",
+   "titulo": "Regimes políticos",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Dahl",
+    "Linz",
+    "delegativa"
+   ]
+  },
+  {
+   "id": "Q02",
+   "titulo": "Sistemas e formas de governo",
+   "incidencia": "alta",
+   "armadilhas": [
+    "presidencialismo x parlamentarismo",
+    "semipresidencialismo"
+   ]
+  },
+  {
+   "id": "Q03",
+   "titulo": "Representação política",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Burke",
+    "plebiscito x referendo"
+   ]
+  },
+  {
+   "id": "Q04",
+   "titulo": "Poderes e relações entre poderes",
+   "incidencia": "alta",
+   "armadilhas": [
+    "presidencialismo de coalizão",
+    "poder de agenda"
+   ]
+  },
+  {
+   "id": "Q05",
+   "titulo": "Sistemas eleitorais",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Duverger",
+    "quociente",
+    "distrital"
+   ]
+  },
+  {
+   "id": "Q06",
+   "titulo": "Teoria dos partidos",
+   "incidencia": "alta",
+   "armadilhas": [
+    "catch-all",
+    "cartel",
+    "Michels"
+   ]
+  },
+  {
+   "id": "Q07",
+   "titulo": "Organização política brasileira",
+   "incidencia": "media",
+   "armadilhas": [
+    "art. 1º",
+    "voto facultativo"
+   ]
+  },
+  {
+   "id": "Q08",
+   "titulo": "Política internacional",
+   "incidencia": "media",
+   "armadilhas": [
+    "art. 4º",
+    "Westfália"
+   ]
+  },
+  {
+   "id": "Q09",
+   "titulo": "Teoria do Estado e Estados nacionais",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Weber",
+    "contratualistas"
+   ]
+  },
+  {
+   "id": "Q10",
+   "titulo": "Formação do Estado brasileiro",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Faoro",
+    "Nunes Leal",
+    "cidadania regulada"
+   ]
+  },
+  {
+   "id": "Q11",
+   "titulo": "História do voto e dos partidos",
+   "incidencia": "alta",
+   "armadilhas": [
+    "Lei Saraiva",
+    "1932",
+    "AI-2"
+   ]
+  }
+ ],
+ "topico_por_ponto": {
+  "Q01": "P2-M9-1",
+  "Q02": "P2-M9-2",
+  "Q03": "P2-M9-3",
+  "Q04": "P2-M9-4",
+  "Q05": "P2-M9-5",
+  "Q06": "P2-M9-6",
+  "Q07": "P2-M9-7",
+  "Q08": "P2-M9-8",
+  "Q09": "P2-M9-9",
+  "Q10": "P2-M9-10",
+  "Q11": "P2-M9-11"
+ },
+ "item_edital_por_ponto": {
+  "Q01": "9.1",
+  "Q02": "9.2",
+  "Q03": "9.3",
+  "Q04": "9.4",
+  "Q05": "9.5",
+  "Q06": "9.6",
+  "Q07": "9.7",
+  "Q08": "9.8",
+  "Q09": "9.9",
+  "Q10": "9.10",
+  "Q11": "9.11"
+ }
+}

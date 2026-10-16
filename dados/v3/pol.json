@@ -1,0 +1,5928 @@
+[
+ {
+  "id": "Q-POL-0001",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0001"
+  ],
+  "ponto": "Q01",
+  "g": "C",
+  "e": "Para Robert Dahl, as poliarquias são regimes reais de ampla contestação pública e participação inclusiva, e não a democracia ideal, e entre suas instituições estão eleições livres, justas e frequentes, liberdade de expressão e de associação e fontes alternativas de informação.",
+  "formato": "assertiva",
+  "c": "Dahl, Poliarquia.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0002",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0002",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0001"
+  ],
+  "ponto": "Q01",
+  "g": "E",
+  "e": "Para Robert Dahl, a poliarquia é a democracia ideal, plenamente realizada, em que há igualdade política absoluta entre os cidadãos e participação direta de todos nas decisões, dispensadas eleições periódicas. Essa seria a posição predominante na literatura especializada de ciência política.",
+  "formato": "assertiva",
+  "c": "Dahl, Poliarquia.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "confunde poliarquia com democracia ideal",
+  "par": "Q-POL-0001",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0003",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0001"
+  ],
+  "ponto": "Q01",
+  "g": "C",
+  "e": "Segundo Schumpeter, a democracia é um método institucional para chegar a decisões políticas, em que indivíduos adquirem o poder de decidir mediante a competição pelo voto do povo.",
+  "formato": "assertiva",
+  "c": "Schumpeter, Capitalismo, Socialismo e Democracia.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0004",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0004",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0001"
+  ],
+  "ponto": "Q01",
+  "g": "E",
+  "e": "Segundo Schumpeter, a democracia é a realização da vontade geral por meio da participação direta e permanente dos cidadãos, o que dispensa a competição entre elites pelo voto.",
+  "formato": "assertiva",
+  "c": "Schumpeter, Capitalismo, Socialismo e Democracia.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "atribui concepção de Rousseau",
+  "par": "Q-POL-0003",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0005",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0001"
+  ],
+  "ponto": "Q01",
+  "g": "C",
+  "e": "Na tipologia de Juan Linz, os regimes autoritários se distinguem dos totalitários por apresentarem pluralismo político limitado e baixa mobilização política, sem uma ideologia oficial abrangente e elaborada.",
+  "formato": "assertiva",
+  "c": "Linz, regimes totalitários e autoritários.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0006",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0006",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0001"
+  ],
+  "ponto": "Q01",
+  "g": "E",
+  "e": "Na tipologia de Juan Linz, os regimes autoritários se distinguem dos totalitários por apresentarem partido único de massa, ideologia oficial abrangente e mobilização política intensa, com controle monopolista dos meios de comunicação.",
+  "formato": "assertiva",
+  "c": "Linz, regimes totalitários e autoritários.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "atribui traços do totalitarismo ao autoritarismo",
+  "par": "Q-POL-0005",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0007",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0001"
+  ],
+  "ponto": "Q01",
+  "g": "C",
+  "e": "O conceito de democracia delegativa, de Guillermo O'Donnell, designa regimes em que o presidente eleito se considera autorizado a governar como entender conveniente, com fraca accountability horizontal.",
+  "formato": "assertiva",
+  "c": "O'Donnell, democracia delegativa.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0008",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0008",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0001"
+  ],
+  "ponto": "Q01",
+  "g": "E",
+  "e": "O conceito de democracia delegativa, de Guillermo O'Donnell, designa regimes em que o presidente eleito compartilha o poder com assembleias, com forte accountability horizontal e controle mútuo entre os Poderes.",
+  "formato": "assertiva",
+  "c": "O'Donnell, democracia delegativa.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte accountability",
+  "par": "Q-POL-0007",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0009",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0002"
+  ],
+  "ponto": "Q01",
+  "g": "C",
+  "e": "Segundo Huntington, a terceira onda de democratização teve início em 1974, com a transição em Portugal, e foi seguida de países do sul da Europa, da América Latina e do Leste Europeu.",
+  "formato": "assertiva",
+  "c": "Huntington, A Terceira Onda.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0010",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0010",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0002"
+  ],
+  "ponto": "Q01",
+  "g": "E",
+  "e": "Segundo Huntington, a terceira onda de democratização teve início em 1945, após a Segunda Guerra Mundial, e se encerrou com a queda do Muro de Berlim, em 1989.",
+  "formato": "assertiva",
+  "c": "Huntington, A Terceira Onda.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca marco temporal",
+  "par": "Q-POL-0009",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0011",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0002"
+  ],
+  "ponto": "Q01",
+  "g": "C",
+  "e": "Na classificação de Arend Lijphart, a democracia majoritária concentra o poder na maioria, com tendência ao bipartidarismo e ao sistema eleitoral majoritário, ao passo que a democracia consensual partilha o poder, com multipartidarismo, representação proporcional e federalismo.",
+  "formato": "assertiva",
+  "c": "Lijphart, Modelos de Democracia.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0012",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0012",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0002"
+  ],
+  "ponto": "Q01",
+  "g": "E",
+  "e": "Na classificação de Arend Lijphart, a democracia consensual concentra o poder na maioria, com tendência ao bipartidarismo e ao sistema eleitoral majoritário, ao passo que a democracia majoritária partilha o poder, com multipartidarismo e representação proporcional.",
+  "formato": "assertiva",
+  "c": "Lijphart, Modelos de Democracia.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte modelos",
+  "par": "Q-POL-0011",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0013",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0002"
+  ],
+  "ponto": "Q01",
+  "g": "C",
+  "e": "Para Linz e Stepan, a democracia está consolidada quando se torna the only game in town, isto é, quando nenhum ator relevante tenta derrubar o regime democrático e a disputa política se dá segundo suas regras.",
+  "formato": "assertiva",
+  "c": "Linz e Stepan, consolidação democrática.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0014",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0014",
+  "t": "P2-M9-1",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.1",
+  "a": [
+   "A-POL-0002"
+  ],
+  "ponto": "Q01",
+  "g": "E",
+  "e": "Para Linz e Stepan, a democracia está consolidada quando o primeiro governo eleito conclui seu mandato, o que basta para caracterizar a ausência de risco de reversão autoritária.",
+  "formato": "assertiva",
+  "c": "Linz e Stepan, consolidação democrática.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "reduz consolidação a um mandato",
+  "par": "Q-POL-0013",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0015",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "C",
+  "e": "No presidencialismo, o chefe de Estado e o chefe de governo são a mesma pessoa, eleita para mandato fixo, e a sobrevivência do governo não depende da confiança da maioria parlamentar.",
+  "formato": "assertiva",
+  "c": "Sistemas de governo.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0016",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0016",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "E",
+  "e": "No presidencialismo, o chefe de Estado e o chefe de governo são pessoas distintas, e a sobrevivência do governo depende da confiança da maioria parlamentar, que pode destituí-lo por moção de desconfiança.",
+  "formato": "assertiva",
+  "c": "Sistemas de governo.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "atribui traços do parlamentarismo",
+  "par": "Q-POL-0015",
+  "dif": 2,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0017",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "C",
+  "e": "No parlamentarismo, o Gabinete depende da confiança do Parlamento, e o chefe de Estado, monarca ou presidente, em regra não exerce a chefia do governo.",
+  "formato": "assertiva",
+  "c": "Sistemas de governo.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0018",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0018",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "E",
+  "e": "No parlamentarismo, o Gabinete independe da confiança do Parlamento, e o chefe de Estado exerce a chefia do governo por mandato fixo, não podendo o Parlamento ser dissolvido.",
+  "formato": "assertiva",
+  "c": "Sistemas de governo.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "atribui traços do presidencialismo",
+  "par": "Q-POL-0017",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0019",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "C",
+  "e": "O semipresidencialismo caracteriza-se por um Presidente eleito diretamente pelo povo, com poderes relevantes, que convive com um Primeiro-Ministro responsável perante o Parlamento, como ocorre na França.",
+  "formato": "assertiva",
+  "c": "Semipresidencialismo.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0020",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0020",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "E",
+  "e": "O semipresidencialismo caracteriza-se por um Presidente escolhido pelo Parlamento, sem poderes relevantes, que convive com um Primeiro-Ministro responsável apenas perante o Presidente, como ocorre na França.",
+  "formato": "assertiva",
+  "c": "Semipresidencialismo.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca origem e responsabilidade",
+  "par": "Q-POL-0019",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0021",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "C",
+  "e": "Monarquia e república distinguem-se, quanto à forma de governo, pela hereditariedade, vitaliciedade e irresponsabilidade política do monarca, em contraste com a eletividade, a temporariedade e a responsabilidade do governante republicano.",
+  "formato": "assertiva",
+  "c": "Formas de governo.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0022",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0022",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "E",
+  "e": "Monarquia e república distinguem-se, quanto à forma de governo, pela eletividade, temporariedade e responsabilidade do monarca, em contraste com a hereditariedade e a vitaliciedade do governante republicano.",
+  "formato": "assertiva",
+  "c": "Formas de governo.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte características",
+  "par": "Q-POL-0021",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0023",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "C",
+  "e": "Na federação, os entes possuem autonomia política e repartição constitucional de competências, ao passo que na confederação a união ocorre entre Estados soberanos, com direito de secessão.",
+  "formato": "assertiva",
+  "c": "Formas de Estado.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0024",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0024",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "E",
+  "e": "Na federação, os entes são soberanos e podem separar-se da união por decisão própria, ao passo que na confederação há autonomia dos entes sem direito de secessão.",
+  "formato": "assertiva",
+  "c": "Formas de Estado.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "atribui soberania e secessão à federação",
+  "par": "Q-POL-0023",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0025",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "C",
+  "e": "Em um país, o Primeiro-Ministro precisa manter a confiança da maioria parlamentar e pode ser destituído por moção de censura, enquanto o Presidente da República, eleito pelo voto popular direto, nomeia o Primeiro-Ministro e dispõe de poderes próprios em política externa e defesa. Esse arranjo corresponde ao semipresidencialismo.",
+  "formato": "caso_concreto",
+  "c": "Semipresidencialismo.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "",
+  "par": "Q-POL-0026",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0026",
+  "t": "P2-M9-2",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.2",
+  "a": [
+   "A-POL-0003"
+  ],
+  "ponto": "Q02",
+  "g": "E",
+  "e": "Em um país, o Primeiro-Ministro precisa manter a confiança da maioria parlamentar e pode ser destituído por moção de censura, enquanto o Presidente da República, eleito pelo voto popular direto, nomeia o Primeiro-Ministro e dispõe de poderes próprios em política externa e defesa. Esse arranjo corresponde ao presidencialismo.",
+  "formato": "caso_concreto",
+  "c": "Semipresidencialismo.",
+  "padrao": "caso_concreto",
+  "tipo_erro": "classifica como presidencialismo",
+  "par": "Q-POL-0025",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0027",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "C",
+  "e": "Para Burke, o representante é um fiduciário, que deve exercer seu julgamento em benefício do interesse nacional, e não um delegado vinculado às instruções de seus eleitores locais, o que corresponde ao mandato livre.",
+  "formato": "assertiva",
+  "c": "Burke, discurso aos eleitores de Bristol.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0028",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0028",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "E",
+  "e": "Para Burke, o representante é um delegado, que deve seguir fielmente as instruções de seus eleitores locais, o que corresponde ao mandato imperativo. Tal conclusão decorreria, segundo esse entendimento, das características do arranjo institucional descrito.",
+  "formato": "assertiva",
+  "c": "Burke, discurso aos eleitores de Bristol.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte mandato livre e imperativo",
+  "par": "Q-POL-0027",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0029",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "C",
+  "e": "No mandato livre o representante não está juridicamente vinculado às instruções de seus eleitores nem pode ser por eles revogado durante o mandato, ao passo que no mandato imperativo o representante age conforme instruções vinculantes e pode ser revogado.",
+  "formato": "assertiva",
+  "c": "Mandato livre e imperativo.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0030",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0030",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "E",
+  "e": "No mandato imperativo o representante não está vinculado às instruções de seus eleitores, ao passo que no mandato livre ele age conforme instruções vinculantes e pode ser revogado a qualquer tempo.",
+  "formato": "assertiva",
+  "c": "Mandato livre e imperativo.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte mandatos",
+  "par": "Q-POL-0029",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0031",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "C",
+  "e": "Segundo a Constituição, o plebiscito é a consulta prévia ao povo sobre determinada matéria, e o referendo é a consulta posterior, para ratificar ou rejeitar ato já editado.",
+  "formato": "assertiva",
+  "c": "CF, art. 14, I e II.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-POL-0032",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0032",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "E",
+  "e": "Segundo a Constituição, o referendo é a consulta prévia ao povo sobre determinada matéria, e o plebiscito é a consulta posterior, para ratificar ou rejeitar ato já editado.",
+  "formato": "assertiva",
+  "c": "CF, art. 14, I e II.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "inverte plebiscito e referendo",
+  "par": "Q-POL-0031",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0033",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "C",
+  "e": "A Constituição consagra a democracia semidireta, ao dispor que todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, e prevê, como instrumentos de participação direta, o plebiscito, o referendo e a iniciativa popular.",
+  "formato": "assertiva",
+  "c": "CF, art. 1º, parágrafo único, e art. 14.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0034",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0034",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "E",
+  "e": "A Constituição consagra a democracia exclusivamente representativa, ao dispor que o poder emana do povo, que o exerce somente por meio de representantes eleitos, sem previsão de instrumentos de participação direta.",
+  "formato": "assertiva",
+  "c": "CF, art. 1º, parágrafo único, e art. 14.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega participação direta",
+  "par": "Q-POL-0033",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0035",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "C",
+  "e": "Para Madison, no Federalista n. 10, a república representativa, em um território extenso, é um meio de controlar os efeitos das facções, em contraste com a democracia direta, mais vulnerável a elas.",
+  "formato": "assertiva",
+  "c": "Madison, O Federalista, n. 10.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0036",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0036",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "E",
+  "e": "Para Madison, no Federalista n. 10, a democracia direta, em território reduzido, é o melhor meio de controlar os efeitos das facções, em contraste com a república representativa em território extenso.",
+  "formato": "assertiva",
+  "c": "Madison, O Federalista, n. 10.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte conclusão",
+  "par": "Q-POL-0035",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0037",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "C",
+  "e": "Para Hanna Pitkin, a representação descritiva refere-se à semelhança entre representantes e representados, ao passo que a representação substantiva refere-se à atuação do representante em favor dos interesses dos representados.",
+  "formato": "assertiva",
+  "c": "Pitkin, O Conceito de Representação.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0038",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0038",
+  "t": "P2-M9-3",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.3",
+  "a": [
+   "A-POL-0004"
+  ],
+  "ponto": "Q03",
+  "g": "E",
+  "e": "Para Hanna Pitkin, a representação substantiva refere-se à semelhança de características entre representantes e representados, ao passo que a representação descritiva refere-se à atuação em favor dos interesses dos representados.",
+  "formato": "assertiva",
+  "c": "Pitkin, O Conceito de Representação.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte descritiva e substantiva",
+  "par": "Q-POL-0037",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0039",
+  "t": "P2-M9-4",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.4",
+  "a": [
+   "A-POL-0005"
+  ],
+  "ponto": "Q04",
+  "g": "C",
+  "e": "Em Montesquieu, a separação das funções de legislar, executar e julgar em órgãos distintos é concebida como meio de impedir o abuso, pois o poder deve limitar o poder.",
+  "formato": "assertiva",
+  "c": "Montesquieu, O Espírito das Leis.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0040",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0040",
+  "t": "P2-M9-4",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.4",
+  "a": [
+   "A-POL-0005"
+  ],
+  "ponto": "Q04",
+  "g": "E",
+  "e": "Em Montesquieu, a separação das funções de legislar, executar e julgar em órgãos distintos tem por objetivo concentrar o poder no Executivo, para garantir a eficiência do governo.",
+  "formato": "assertiva",
+  "c": "Montesquieu, O Espírito das Leis.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte objetivo",
+  "par": "Q-POL-0039",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0041",
+  "t": "P2-M9-4",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.4",
+  "a": [
+   "A-POL-0005"
+  ],
+  "ponto": "Q04",
+  "g": "C",
+  "e": "O conceito de presidencialismo de coalizão, de Sérgio Abranches, descreve a combinação, no Brasil, de presidencialismo, federalismo, representação proporcional e multipartidarismo, o que leva o Presidente a formar grandes coalizões para obter maioria no Congresso.",
+  "formato": "assertiva",
+  "c": "Abranches, Presidencialismo de coalizão.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0042",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0042",
+  "t": "P2-M9-4",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.4",
+  "a": [
+   "A-POL-0005"
+  ],
+  "ponto": "Q04",
+  "g": "E",
+  "e": "O conceito de presidencialismo de coalizão, de Sérgio Abranches, descreve a combinação, no Brasil, de parlamentarismo, unitarismo e bipartidarismo, o que dispensa o Presidente de formar coalizões para obter maioria no Congresso.",
+  "formato": "assertiva",
+  "c": "Abranches, Presidencialismo de coalizão.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca elementos",
+  "par": "Q-POL-0041",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0043",
+  "t": "P2-M9-4",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.4",
+  "a": [
+   "A-POL-0005"
+  ],
+  "ponto": "Q04",
+  "g": "C",
+  "e": "Segundo Limongi e Figueiredo, o Executivo brasileiro tem forte poder de agenda, devido a prerrogativas como a iniciativa legislativa, as medidas provisórias e o pedido de urgência, e os partidos votam de forma disciplinada, sob o comando de seus líderes.",
+  "formato": "assertiva",
+  "c": "Limongi e Figueiredo, Executivo e Legislativo na nova ordem constitucional.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0044",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0044",
+  "t": "P2-M9-4",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.4",
+  "a": [
+   "A-POL-0005"
+  ],
+  "ponto": "Q04",
+  "g": "E",
+  "e": "Segundo Limongi e Figueiredo, o Executivo brasileiro tem fraco poder de agenda, e os partidos votam de forma indisciplinada, de acordo com as preferências individuais dos parlamentares, que agem de forma paroquial.",
+  "formato": "assertiva",
+  "c": "Limongi e Figueiredo, Executivo e Legislativo na nova ordem constitucional.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte conclusão",
+  "par": "Q-POL-0043",
+  "dif": 5,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0045",
+  "t": "P2-M9-4",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.4",
+  "a": [
+   "A-POL-0005"
+  ],
+  "ponto": "Q04",
+  "g": "C",
+  "e": "A Constituição estabelece que são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",
+  "formato": "assertiva",
+  "c": "CF, art. 2º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0046",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0046",
+  "t": "P2-M9-4",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.4",
+  "a": [
+   "A-POL-0005"
+  ],
+  "ponto": "Q04",
+  "g": "E",
+  "e": "A Constituição estabelece que são Poderes da União, harmônicos e subordinados entre si, o Legislativo, o Executivo, o Judiciário e o Ministério Público.",
+  "formato": "assertiva",
+  "c": "CF, art. 2º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "altera rol e relação",
+  "par": "Q-POL-0045",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0047",
+  "t": "P2-M9-4",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.4",
+  "a": [
+   "A-POL-0005"
+  ],
+  "ponto": "Q04",
+  "g": "C",
+  "e": "A judicialização da política refere-se à transferência, para o Judiciário, de decisões políticas relevantes, favorecida pela ampliação do controle de constitucionalidade e dos legitimados para propor ações diretas.",
+  "formato": "assertiva",
+  "c": "Judicialização da política.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0048",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0048",
+  "t": "P2-M9-4",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.4",
+  "a": [
+   "A-POL-0005"
+  ],
+  "ponto": "Q04",
+  "g": "E",
+  "e": "A judicialização da política refere-se à transferência, para o Legislativo, de decisões que seriam do Judiciário, favorecida pela restrição do controle de constitucionalidade a poucos legitimados.",
+  "formato": "assertiva",
+  "c": "Judicialização da política.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte transferência",
+  "par": "Q-POL-0047",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0049",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "C",
+  "e": "No sistema majoritário vence o candidato mais votado, e no Brasil ele é adotado para as eleições de Presidente, Governador, Prefeito e Senador, ao passo que o sistema proporcional é adotado para Deputados Federais, Estaduais e Distritais e Vereadores.",
+  "formato": "assertiva",
+  "c": "Sistemas eleitorais brasileiros.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0050",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0050",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "E",
+  "e": "No sistema proporcional vence o candidato mais votado, e no Brasil ele é adotado para as eleições de Presidente, Governador e Senador, ao passo que o sistema majoritário é adotado para Deputados Federais e Vereadores.",
+  "formato": "assertiva",
+  "c": "Sistemas eleitorais brasileiros.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte sistemas",
+  "par": "Q-POL-0049",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0051",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "C",
+  "e": "O quociente eleitoral é obtido pela divisão dos votos válidos pelo número de cadeiras em disputa, e o quociente partidário, pela divisão dos votos do partido pelo quociente eleitoral.",
+  "formato": "assertiva",
+  "c": "Quociente eleitoral e partidário.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-POL-0052",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0052",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "E",
+  "e": "O quociente eleitoral é obtido pela divisão dos votos totais, incluídos brancos e nulos, pelo número de partidos, e o quociente partidário, pela divisão dos votos do partido pelo número de cadeiras.",
+  "formato": "assertiva",
+  "c": "Quociente eleitoral e partidário.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca fórmulas",
+  "par": "Q-POL-0051",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0053",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "C",
+  "e": "Segundo a lei de Duverger, o sistema majoritário de turno único tende ao bipartidarismo, ao passo que a representação proporcional tende ao multipartidarismo.",
+  "formato": "assertiva",
+  "c": "Duverger, leis sociológicas.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0054",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0054",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "E",
+  "e": "Segundo a lei de Duverger, o sistema majoritário de turno único tende ao multipartidarismo, ao passo que a representação proporcional tende ao bipartidarismo.",
+  "formato": "assertiva",
+  "c": "Duverger, leis sociológicas.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte tendências",
+  "par": "Q-POL-0053",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0055",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "C",
+  "e": "Para Duverger, o efeito mecânico do sistema eleitoral decorre da forma como os votos se convertem em cadeiras, e o efeito psicológico, do comportamento dos eleitores que evitam o desperdício do voto em partidos sem chances, o chamado voto útil.",
+  "formato": "assertiva",
+  "c": "Duverger, efeitos mecânico e psicológico.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0056",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0056",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "E",
+  "e": "Para Duverger, o efeito psicológico do sistema eleitoral decorre da forma como os votos se convertem em cadeiras, e o efeito mecânico, do comportamento dos eleitores que evitam o desperdício do voto, o chamado voto útil.",
+  "formato": "assertiva",
+  "c": "Duverger, efeitos mecânico e psicológico.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte efeitos",
+  "par": "Q-POL-0055",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0057",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "C",
+  "e": "No sistema distrital puro, o território é dividido em distritos e, em cada um, elege-se um representante pelo critério majoritário, ao passo que, no distrital misto, parte das cadeiras é preenchida por voto distrital e parte por lista proporcional.",
+  "formato": "assertiva",
+  "c": "Sistemas distritais.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0058",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0058",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "E",
+  "e": "No sistema distrital puro, as cadeiras são distribuídas entre os partidos em proporção aos votos obtidos em todo o território, ao passo que, no distrital misto, todas as cadeiras são preenchidas por voto majoritário.",
+  "formato": "assertiva",
+  "c": "Sistemas distritais.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "confunde distrital e proporcional",
+  "par": "Q-POL-0057",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0059",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "C",
+  "e": "No Brasil, nos municípios com mais de duzentos mil eleitores, a eleição do Prefeito ocorre pelo sistema majoritário em dois turnos, se nenhum candidato alcançar a maioria absoluta dos votos válidos no primeiro.",
+  "formato": "assertiva",
+  "c": "CF, art. 29, II.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-POL-0060",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0060",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "E",
+  "e": "No Brasil, nos municípios com mais de cem mil eleitores, a eleição do Prefeito ocorre pelo sistema majoritário em turno único, vencendo o candidato que obtiver mais votos, sem exigência de maioria absoluta.",
+  "formato": "assertiva",
+  "c": "CF, art. 29, II.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca número de eleitores e turnos",
+  "par": "Q-POL-0059",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0061",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "C",
+  "e": "A lista aberta, adotada no Brasil nas eleições proporcionais, permite ao eleitor votar em candidato, e a ordem de eleição dos candidatos de cada partido é definida pelo número de votos nominais que recebem.",
+  "formato": "assertiva",
+  "c": "Lista aberta e fechada.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0062",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0062",
+  "t": "P2-M9-5",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.5",
+  "a": [
+   "A-POL-0006"
+  ],
+  "ponto": "Q05",
+  "g": "E",
+  "e": "A lista fechada, adotada no Brasil nas eleições proporcionais, permite ao eleitor votar somente na legenda, e a ordem de eleição dos candidatos de cada partido é definida pelo partido antes da eleição.",
+  "formato": "assertiva",
+  "c": "Lista aberta e fechada.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca lista aberta por fechada",
+  "par": "Q-POL-0061",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0063",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0007"
+  ],
+  "ponto": "Q06",
+  "g": "C",
+  "e": "Para Duverger, os partidos de quadros caracterizam-se por reunir notáveis, com caráter predominantemente eleitoral, ao passo que os partidos de massas se organizam com grande número de filiados e se financiam por suas contribuições.",
+  "formato": "assertiva",
+  "c": "Duverger, Os Partidos Políticos.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0064",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0064",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0007"
+  ],
+  "ponto": "Q06",
+  "g": "E",
+  "e": "Para Duverger, os partidos de massas caracterizam-se por reunir notáveis, com caráter predominantemente eleitoral, ao passo que os partidos de quadros se organizam com grande número de filiados e se financiam por suas contribuições.",
+  "formato": "assertiva",
+  "c": "Duverger, Os Partidos Políticos.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte quadros e massas",
+  "par": "Q-POL-0063",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0065",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0007"
+  ],
+  "ponto": "Q06",
+  "g": "C",
+  "e": "A lei de ferro da oligarquia, de Robert Michels, afirma que a organização partidária tende a concentrar o poder em uma elite dirigente, mesmo em partidos que se declaram democráticos.",
+  "formato": "assertiva",
+  "c": "Michels, Sociologia dos Partidos Políticos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0066",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0066",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0007"
+  ],
+  "ponto": "Q06",
+  "g": "E",
+  "e": "A lei de ferro da oligarquia, de Robert Michels, afirma que a organização partidária tende a distribuir o poder igualmente entre os filiados, especialmente nos partidos que se declaram democráticos.",
+  "formato": "assertiva",
+  "c": "Michels, Sociologia dos Partidos Políticos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte conclusão",
+  "par": "Q-POL-0065",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0067",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0007"
+  ],
+  "ponto": "Q06",
+  "g": "C",
+  "e": "O partido catch-all, formulado por Kirchheimer, atenua a ideologia para ampliar seu eleitorado, ao passo que o partido cartel, formulado por Katz e Mair, aproxima-se do Estado e depende de recursos públicos.",
+  "formato": "assertiva",
+  "c": "Kirchheimer; Katz e Mair.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0068",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0068",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0007"
+  ],
+  "ponto": "Q06",
+  "g": "E",
+  "e": "O partido catch-all, formulado por Kirchheimer, aproxima-se do Estado e depende de recursos públicos, ao passo que o partido cartel, formulado por Katz e Mair, atenua a ideologia para ampliar seu eleitorado.",
+  "formato": "assertiva",
+  "c": "Kirchheimer; Katz e Mair.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte catch-all e cartel",
+  "par": "Q-POL-0067",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0069",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0007"
+  ],
+  "ponto": "Q06",
+  "g": "C",
+  "e": "Para Sartori, os sistemas partidários classificam-se pelo número de partidos relevantes e pela distância ideológica entre eles, o que permite distinguir o pluralismo moderado do pluralismo polarizado.",
+  "formato": "assertiva",
+  "c": "Sartori, Partidos e Sistemas Partidários.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0070",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0070",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0007"
+  ],
+  "ponto": "Q06",
+  "g": "E",
+  "e": "Para Sartori, os sistemas partidários classificam-se apenas pelo número total de partidos registrados, sendo irrelevante a distância ideológica entre eles.",
+  "formato": "assertiva",
+  "c": "Sartori, Partidos e Sistemas Partidários.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "ignora relevância e distância ideológica",
+  "par": "Q-POL-0069",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0071",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0007"
+  ],
+  "ponto": "Q06",
+  "g": "C",
+  "e": "Entre as funções clássicas dos partidos políticos estão a agregação de interesses, o recrutamento de elites políticas, a organização do governo e a estruturação do debate político.",
+  "formato": "assertiva",
+  "c": "Funções dos partidos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0072",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0072",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0007"
+  ],
+  "ponto": "Q06",
+  "g": "E",
+  "e": "Entre as funções clássicas dos partidos políticos estão o julgamento de litígios eleitorais, a fiscalização do pleito e a diplomação dos eleitos.",
+  "formato": "assertiva",
+  "c": "Funções dos partidos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "atribui funções da Justiça Eleitoral",
+  "par": "Q-POL-0071",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0073",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0008"
+  ],
+  "ponto": "Q06",
+  "g": "C",
+  "e": "No Brasil, os partidos políticos são pessoas jurídicas de direito privado, que adquirem personalidade jurídica na forma da lei civil e registram seus estatutos no Tribunal Superior Eleitoral.",
+  "formato": "assertiva",
+  "c": "CF, art. 17, § 2º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0074",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0074",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0008"
+  ],
+  "ponto": "Q06",
+  "g": "E",
+  "e": "No Brasil, os partidos políticos são pessoas jurídicas de direito público, que adquirem personalidade jurídica mediante registro de seus estatutos no Tribunal Superior Eleitoral.",
+  "formato": "assertiva",
+  "c": "CF, art. 17, § 2º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "atribui natureza de direito público",
+  "par": "Q-POL-0073",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0075",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0008"
+  ],
+  "ponto": "Q06",
+  "g": "C",
+  "e": "A Constituição veda a celebração de coligações nas eleições proporcionais, e as federações partidárias permitem a atuação conjunta de dois ou mais partidos, como se fossem uma única agremiação, pelo prazo mínimo de quatro anos.",
+  "formato": "assertiva",
+  "c": "CF, art. 17, § 1º; Lei 9.096/1995, art. 11-A.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0076",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0076",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0008"
+  ],
+  "ponto": "Q06",
+  "g": "E",
+  "e": "A Constituição veda a celebração de coligações nas eleições majoritárias, e as federações partidárias permitem a atuação conjunta de dois ou mais partidos, como se fossem uma única agremiação, sem prazo mínimo de duração.",
+  "formato": "assertiva",
+  "c": "CF, art. 17, § 1º; Lei 9.096/1995, art. 11-A.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca eleições vedadas e prazo",
+  "par": "Q-POL-0075",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0077",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0008"
+  ],
+  "ponto": "Q06",
+  "g": "C",
+  "e": "A cláusula de desempenho condiciona o acesso aos recursos do fundo partidário e ao tempo gratuito de rádio e televisão, e seu percentual de votos válidos cresce gradualmente, tendo sido de 2% em 2022, e de 2,5% em 2026.",
+  "formato": "assertiva",
+  "c": "CF, art. 17, § 3º; EC 97/2017.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-POL-0078",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0078",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0008"
+  ],
+  "ponto": "Q06",
+  "g": "E",
+  "e": "A cláusula de desempenho condiciona o registro do partido no Tribunal Superior Eleitoral, e seu percentual de votos válidos é fixo, de 1,5%, para todas as eleições.",
+  "formato": "assertiva",
+  "c": "CF, art. 17, § 3º; EC 97/2017.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca efeito e percentual",
+  "par": "Q-POL-0077",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0079",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0008"
+  ],
+  "ponto": "Q06",
+  "g": "C",
+  "e": "A Constituição assegura aos partidos autonomia para definir sua estrutura interna, organização e funcionamento, vedando o recebimento de recursos de entidade ou governo estrangeiros e a subordinação a estes.",
+  "formato": "assertiva",
+  "c": "CF, art. 17.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0080",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0080",
+  "t": "P2-M9-6",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.6",
+  "a": [
+   "A-POL-0008"
+  ],
+  "ponto": "Q06",
+  "g": "E",
+  "e": "A Constituição assegura aos partidos autonomia para definir sua estrutura interna, organização e funcionamento, permitindo o recebimento de recursos de governos estrangeiros, desde que declarados à Justiça Eleitoral.",
+  "formato": "assertiva",
+  "c": "CF, art. 17.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "admite recursos estrangeiros",
+  "par": "Q-POL-0079",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0081",
+  "t": "P2-M9-7",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.7",
+  "a": [
+   "A-POL-0009"
+  ],
+  "ponto": "Q07",
+  "g": "C",
+  "e": "O voto no Brasil é obrigatório para os maiores de dezoito anos e facultativo para os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos.",
+  "formato": "assertiva",
+  "c": "CF, art. 14, § 1º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0082",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0082",
+  "t": "P2-M9-7",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.7",
+  "a": [
+   "A-POL-0009"
+  ],
+  "ponto": "Q07",
+  "g": "E",
+  "e": "O voto no Brasil é obrigatório para os maiores de dezesseis anos e facultativo para os analfabetos e os maiores de sessenta e cinco anos.",
+  "formato": "assertiva",
+  "c": "CF, art. 14, § 1º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca idades",
+  "par": "Q-POL-0081",
+  "dif": 2,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0083",
+  "t": "P2-M9-7",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.7",
+  "a": [
+   "A-POL-0009"
+  ],
+  "ponto": "Q07",
+  "g": "C",
+  "e": "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos da Constituição.",
+  "formato": "assertiva",
+  "c": "CF, art. 18.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0084",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0084",
+  "t": "P2-M9-7",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.7",
+  "a": [
+   "A-POL-0009"
+  ],
+  "ponto": "Q07",
+  "g": "E",
+  "e": "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal, os Municípios e os Territórios Federais, todos soberanos, nos termos da Constituição.",
+  "formato": "assertiva",
+  "c": "CF, art. 18.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inclui territórios e soberania",
+  "par": "Q-POL-0083",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0085",
+  "t": "P2-M9-7",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.7",
+  "a": [
+   "A-POL-0009"
+  ],
+  "ponto": "Q07",
+  "g": "C",
+  "e": "O pluralismo político é um dos fundamentos da República Federativa do Brasil, ao lado da soberania, da cidadania, da dignidade da pessoa humana e dos valores sociais do trabalho e da livre iniciativa.",
+  "formato": "assertiva",
+  "c": "CF, art. 1º e art. 3º.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "",
+  "par": "Q-POL-0086",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0086",
+  "t": "P2-M9-7",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.7",
+  "a": [
+   "A-POL-0009"
+  ],
+  "ponto": "Q07",
+  "g": "E",
+  "e": "O pluralismo político é um dos objetivos da República Federativa do Brasil, ao lado da construção de uma sociedade livre, justa e solidária e da erradicação da pobreza.",
+  "formato": "assertiva",
+  "c": "CF, art. 1º e art. 3º.",
+  "padrao": "troca_autoridade",
+  "tipo_erro": "troca fundamento por objetivo",
+  "par": "Q-POL-0085",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0087",
+  "t": "P2-M9-7",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.7",
+  "a": [
+   "A-POL-0009"
+  ],
+  "ponto": "Q07",
+  "g": "C",
+  "e": "O plebiscito de 1993, previsto no ADCT, consultou o eleitorado sobre a forma e o sistema de governo, e resultou na manutenção da república e do presidencialismo.",
+  "formato": "assertiva",
+  "c": "ADCT, art. 2º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0088",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0088",
+  "t": "P2-M9-7",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.7",
+  "a": [
+   "A-POL-0009"
+  ],
+  "ponto": "Q07",
+  "g": "E",
+  "e": "O plebiscito de 1993, previsto no ADCT, consultou o eleitorado sobre a forma e o sistema de governo, e resultou na adoção da república e do parlamentarismo.",
+  "formato": "assertiva",
+  "c": "ADCT, art. 2º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca resultado",
+  "par": "Q-POL-0087",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0089",
+  "t": "P2-M9-8",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.8",
+  "a": [
+   "A-POL-0010"
+  ],
+  "ponto": "Q08",
+  "g": "C",
+  "e": "Entre os princípios que regem as relações internacionais do Brasil estão a independência nacional, a prevalência dos direitos humanos, a autodeterminação dos povos, a não intervenção, a igualdade entre os Estados e a defesa da paz.",
+  "formato": "assertiva",
+  "c": "CF, art. 4º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0090",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0090",
+  "t": "P2-M9-8",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.8",
+  "a": [
+   "A-POL-0010"
+  ],
+  "ponto": "Q08",
+  "g": "E",
+  "e": "Entre os princípios que regem as relações internacionais do Brasil estão a intervenção humanitária, a hierarquia entre os Estados, a primazia do comércio exterior e o alinhamento automático às potências.",
+  "formato": "assertiva",
+  "c": "CF, art. 4º.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca princípios",
+  "par": "Q-POL-0089",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0091",
+  "t": "P2-M9-8",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.8",
+  "a": [
+   "A-POL-0010"
+  ],
+  "ponto": "Q08",
+  "g": "C",
+  "e": "A Constituição estabelece que o Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.",
+  "formato": "assertiva",
+  "c": "CF, art. 4º, parágrafo único.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0092",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0092",
+  "t": "P2-M9-8",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.8",
+  "a": [
+   "A-POL-0010"
+  ],
+  "ponto": "Q08",
+  "g": "E",
+  "e": "A Constituição estabelece que o Brasil buscará a integração econômica dos povos da América do Sul, com a criação de uma moeda única e a abdicação de parcela de sua soberania.",
+  "formato": "assertiva",
+  "c": "CF, art. 4º, parágrafo único.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "altera âmbito e efeitos",
+  "par": "Q-POL-0091",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0093",
+  "t": "P2-M9-8",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.8",
+  "a": [
+   "A-POL-0010"
+  ],
+  "ponto": "Q08",
+  "g": "C",
+  "e": "A Paz de Westfália, de 1648, é tradicionalmente apontada como marco do sistema de Estados soberanos, fundado nos princípios da soberania territorial e da não intervenção.",
+  "formato": "assertiva",
+  "c": "Ordem westfaliana.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0094",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0094",
+  "t": "P2-M9-8",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.8",
+  "a": [
+   "A-POL-0010"
+  ],
+  "ponto": "Q08",
+  "g": "E",
+  "e": "A Paz de Westfália, de 1648, é tradicionalmente apontada como marco do fim do sistema de Estados soberanos e da criação de um governo mundial supranacional.",
+  "formato": "assertiva",
+  "c": "Ordem westfaliana.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte significado",
+  "par": "Q-POL-0093",
+  "dif": 3,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0095",
+  "t": "P2-M9-8",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.8",
+  "a": [
+   "A-POL-0010"
+  ],
+  "ponto": "Q08",
+  "g": "C",
+  "e": "O Conselho de Segurança da ONU é composto por cinco membros permanentes com direito de veto, a saber, Estados Unidos, Rússia, China, Reino Unido e França.",
+  "formato": "assertiva",
+  "c": "ONU, Conselho de Segurança.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0096",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0096",
+  "t": "P2-M9-8",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.8",
+  "a": [
+   "A-POL-0010"
+  ],
+  "ponto": "Q08",
+  "g": "E",
+  "e": "O Conselho de Segurança da ONU é composto por cinco membros permanentes sem direito de veto, a saber, Estados Unidos, Alemanha, China, Japão e França.",
+  "formato": "assertiva",
+  "c": "ONU, Conselho de Segurança.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca membros e veto",
+  "par": "Q-POL-0095",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0097",
+  "t": "P2-M9-8",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.8",
+  "a": [
+   "A-POL-0010"
+  ],
+  "ponto": "Q08",
+  "g": "C",
+  "e": "Para a perspectiva realista das relações internacionais, os Estados são os atores centrais em um sistema internacional anárquico, em que poder e segurança são os principais objetivos, ao passo que a perspectiva liberal destaca o papel das instituições e da cooperação.",
+  "formato": "assertiva",
+  "c": "Teorias das relações internacionais.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0098",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0098",
+  "t": "P2-M9-8",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.8",
+  "a": [
+   "A-POL-0010"
+  ],
+  "ponto": "Q08",
+  "g": "E",
+  "e": "Para a perspectiva realista das relações internacionais, as organizações internacionais são os atores centrais, e a cooperação institucional é o principal objetivo, ao passo que a perspectiva liberal destaca o poder e a segurança dos Estados.",
+  "formato": "assertiva",
+  "c": "Teorias das relações internacionais.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte realismo e liberalismo",
+  "par": "Q-POL-0097",
+  "dif": 4,
+  "r": 2,
+  "incidencia": "media",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0099",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "C",
+  "e": "Os elementos constitutivos do Estado são o povo, o território e o governo soberano, e a nacionalidade distingue o povo, conjunto de nacionais, da população, conjunto de pessoas que residem no território.",
+  "formato": "assertiva",
+  "c": "Teoria do Estado, elementos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0100",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0100",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "E",
+  "e": "Os elementos constitutivos do Estado são o povo, o território e a nação, e a população se distingue do povo por abranger somente os nacionais residentes no território.",
+  "formato": "assertiva",
+  "c": "Teoria do Estado, elementos.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca elementos e conceito de população",
+  "par": "Q-POL-0099",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0101",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "C",
+  "e": "Para Hobbes, o estado de natureza é uma guerra de todos contra todos, e os indivíduos pactuam a submissão a um soberano absoluto, para garantir a paz e a segurança.",
+  "formato": "assertiva",
+  "c": "Hobbes, Leviatã.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0102",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0102",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "E",
+  "e": "Para Hobbes, o estado de natureza é um estado de paz e de liberdade, e os indivíduos pactuam a criação de um governo limitado, com direito de resistência, para proteger a propriedade.",
+  "formato": "assertiva",
+  "c": "Hobbes, Leviatã.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "atribui ideia de Locke",
+  "par": "Q-POL-0101",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0103",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "C",
+  "e": "Para Locke, o governo se funda no consentimento e tem por finalidade proteger os direitos naturais à vida, à liberdade e à propriedade, admitindo-se o direito de resistência quando o governo viola a confiança.",
+  "formato": "assertiva",
+  "c": "Locke, Segundo Tratado sobre o Governo.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0104",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0104",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "E",
+  "e": "Para Locke, o governo se funda na vontade geral e tem por finalidade a submissão total dos indivíduos ao soberano, sendo vedado o direito de resistência.",
+  "formato": "assertiva",
+  "c": "Locke, Segundo Tratado sobre o Governo.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "atribui ideias de Hobbes e Rousseau",
+  "par": "Q-POL-0103",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0105",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "C",
+  "e": "Para Rousseau, a soberania pertence ao povo, expressa-se na vontade geral e é inalienável e indivisível.",
+  "formato": "assertiva",
+  "c": "Rousseau, Do Contrato Social.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0106",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0106",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "E",
+  "e": "Para Rousseau, a soberania pertence ao monarca, expressa-se na vontade de todos e é alienável e divisível entre os Poderes.",
+  "formato": "assertiva",
+  "c": "Rousseau, Do Contrato Social.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca titular e características",
+  "par": "Q-POL-0105",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0107",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "C",
+  "e": "Segundo Weber, o Estado é a comunidade humana que reivindica, com êxito, o monopólio do uso legítimo da força física dentro de um determinado território.",
+  "formato": "assertiva",
+  "c": "Weber, A Política como Vocação.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0108",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0108",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "E",
+  "e": "Segundo Weber, o Estado é a comunidade humana que reivindica, com êxito, o monopólio da propriedade dos meios de produção dentro de um determinado território.",
+  "formato": "assertiva",
+  "c": "Weber, A Política como Vocação.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca monopólio",
+  "par": "Q-POL-0107",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0109",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "C",
+  "e": "Os tipos puros de dominação legítima, em Weber, são a tradicional, fundada no costume, a carismática, fundada no dom do líder, e a legal-racional, fundada em regras impessoais.",
+  "formato": "assertiva",
+  "c": "Weber, tipos de dominação.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0110",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0110",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "E",
+  "e": "Os tipos puros de dominação legítima, em Weber, são a tradicional, fundada em regras impessoais, a carismática, fundada no costume, e a legal-racional, fundada no dom do líder.",
+  "formato": "assertiva",
+  "c": "Weber, tipos de dominação.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "troca fundamentos",
+  "par": "Q-POL-0109",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0111",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "C",
+  "e": "Em Maquiavel, a política possui autonomia em relação à moral tradicional, e a conservação do poder exige do príncipe virtù para enfrentar a fortuna.",
+  "formato": "assertiva",
+  "c": "Maquiavel, O Príncipe.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0112",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0112",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0011"
+  ],
+  "ponto": "Q09",
+  "g": "E",
+  "e": "Em Maquiavel, a política subordina-se à moral cristã, e a conservação do poder depende da vontade divina, sendo irrelevante a virtù do príncipe.",
+  "formato": "assertiva",
+  "c": "Maquiavel, O Príncipe.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "subordina política à moral",
+  "par": "Q-POL-0111",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0113",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0012"
+  ],
+  "ponto": "Q09",
+  "g": "C",
+  "e": "Segundo Tilly, a guerra foi decisiva para a formação dos Estados europeus, porque a necessidade de extrair recursos para a guerra impulsionou a construção de um aparato fiscal e administrativo.",
+  "formato": "assertiva",
+  "c": "Tilly, Coerção, Capital e Estados Europeus.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0114",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0114",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0012"
+  ],
+  "ponto": "Q09",
+  "g": "E",
+  "e": "Segundo Tilly, a guerra foi irrelevante para a formação dos Estados europeus, que resultaram do consentimento voluntário entre os povos, sem necessidade de aparato fiscal e administrativo.",
+  "formato": "assertiva",
+  "c": "Tilly, Coerção, Capital e Estados Europeus.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega papel da guerra",
+  "par": "Q-POL-0113",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0115",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0012"
+  ],
+  "ponto": "Q09",
+  "g": "C",
+  "e": "A Paz de Westfália, de 1648, consagrou a soberania territorial dos Estados, e as revoluções liberais inglesa, americana e francesa ocorreram, respectivamente, em 1688, 1776 e 1789.",
+  "formato": "assertiva",
+  "c": "Formação dos Estados nacionais.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-POL-0116",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0116",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0012"
+  ],
+  "ponto": "Q09",
+  "g": "E",
+  "e": "A Paz de Westfália, de 1648, consagrou o império universal do Papa, e as revoluções liberais inglesa, americana e francesa ocorreram, respectivamente, em 1789, 1688 e 1776.",
+  "formato": "assertiva",
+  "c": "Formação dos Estados nacionais.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca datas e conteúdo",
+  "par": "Q-POL-0115",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0117",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0012"
+  ],
+  "ponto": "Q09",
+  "g": "C",
+  "e": "O Estado social, ou de bem-estar, caracteriza-se pelo reconhecimento de direitos sociais e pela atuação estatal na provisão de serviços, ao passo que o Estado liberal clássico se caracteriza pela limitação do poder e pela proteção das liberdades individuais.",
+  "formato": "assertiva",
+  "c": "Estado liberal e social.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0118",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0118",
+  "t": "P2-M9-9",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.9",
+  "a": [
+   "A-POL-0012"
+  ],
+  "ponto": "Q09",
+  "g": "E",
+  "e": "O Estado liberal clássico caracteriza-se pelo reconhecimento de direitos sociais e pela ampla atuação estatal na provisão de serviços, ao passo que o Estado social se caracteriza pela abstenção estatal e pelo Estado mínimo.",
+  "formato": "assertiva",
+  "c": "Estado liberal e social.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "inverte características",
+  "par": "Q-POL-0117",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0119",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "C",
+  "e": "Para Raymundo Faoro, em Os Donos do Poder, o patrimonialismo estamental, com um estamento burocrático que se apropria do aparelho do Estado, é herança da formação portuguesa e marcou a vida política brasileira.",
+  "formato": "assertiva",
+  "c": "Faoro, Os Donos do Poder.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0120",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0120",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "E",
+  "e": "Para Raymundo Faoro, em Os Donos do Poder, o Estado brasileiro nasceu de uma burguesia industrial autônoma, que submeteu o aparelho estatal aos interesses de mercado, rompendo com a herança portuguesa.",
+  "formato": "assertiva",
+  "c": "Faoro, Os Donos do Poder.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega patrimonialismo",
+  "par": "Q-POL-0119",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0121",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "C",
+  "e": "Para Sérgio Buarque de Holanda, em Raízes do Brasil, o homem cordial expressa a dificuldade de separar o público do privado, em razão do predomínio das relações pessoais e afetivas na vida social e política.",
+  "formato": "assertiva",
+  "c": "Buarque de Holanda, Raízes do Brasil.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0122",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0122",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "E",
+  "e": "Para Sérgio Buarque de Holanda, em Raízes do Brasil, o homem cordial expressa a ética protestante, o que explica a nítida separação entre o público e o privado e a impessoalidade nas relações políticas.",
+  "formato": "assertiva",
+  "c": "Buarque de Holanda, Raízes do Brasil.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "atribui impessoalidade",
+  "par": "Q-POL-0121",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0123",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "C",
+  "e": "Para Victor Nunes Leal, o coronelismo resulta de um sistema de compromisso entre o poder público, em crescente fortalecimento, e o poder privado, decadente, dos grandes proprietários rurais.",
+  "formato": "assertiva",
+  "c": "Nunes Leal, Coronelismo, Enxada e Voto.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0124",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0124",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "E",
+  "e": "Para Victor Nunes Leal, o coronelismo resulta de uma ruptura entre o poder público e o poder privado dos grandes proprietários rurais, o que levou à extinção do mandonismo local na Primeira República.",
+  "formato": "assertiva",
+  "c": "Nunes Leal, Coronelismo, Enxada e Voto.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega compromisso",
+  "par": "Q-POL-0123",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0125",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "C",
+  "e": "Para José Murilo de Carvalho, no Brasil os direitos sociais antecederam os direitos políticos e civis, em contraste com a sequência inglesa descrita por Marshall, que parte dos direitos civis, passa pelos políticos e chega aos sociais.",
+  "formato": "assertiva",
+  "c": "Carvalho, Cidadania no Brasil.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0126",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0126",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "E",
+  "e": "Para José Murilo de Carvalho, no Brasil a cidadania seguiu a sequência inglesa descrita por Marshall, com os direitos civis, depois os políticos e por fim os sociais, em um processo linear e sem inversões.",
+  "formato": "assertiva",
+  "c": "Carvalho, Cidadania no Brasil.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega inversão da sequência",
+  "par": "Q-POL-0125",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0127",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "C",
+  "e": "A cidadania regulada, de Wanderley Guilherme dos Santos, designa o arranjo em que os direitos dependem da inserção do trabalhador em ocupação reconhecida e regulada pelo Estado, o que deixou à margem trabalhadores sem carteira de trabalho.",
+  "formato": "assertiva",
+  "c": "Santos, Cidadania e Justiça.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "",
+  "par": "Q-POL-0128",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0128",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "E",
+  "e": "A cidadania regulada, de Wanderley Guilherme dos Santos, designa o arranjo em que os direitos são universais e independem da ocupação profissional, o que assegurou proteção a todos os trabalhadores, com ou sem carteira de trabalho.",
+  "formato": "assertiva",
+  "c": "Santos, Cidadania e Justiça.",
+  "padrao": "confusao_instituto",
+  "tipo_erro": "atribui universalidade",
+  "par": "Q-POL-0127",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0129",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "C",
+  "e": "Entre os marcos da formação política brasileira estão a Independência, em 1822, a Proclamação da República, em 1889, a Revolução de 1930, o Estado Novo, em 1937, o golpe de 1964 e a Constituição de 1988.",
+  "formato": "assertiva",
+  "c": "Cronologia política brasileira.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-POL-0130",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0130",
+  "t": "P2-M9-10",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.10",
+  "a": [
+   "A-POL-0013"
+  ],
+  "ponto": "Q10",
+  "g": "E",
+  "e": "Entre os marcos da formação política brasileira estão a Independência, em 1808, a Proclamação da República, em 1899, a Revolução de 1930, o Estado Novo, em 1947, o golpe de 1964 e a Constituição de 1988.",
+  "formato": "assertiva",
+  "c": "Cronologia política brasileira.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca datas",
+  "par": "Q-POL-0129",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0131",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0014"
+  ],
+  "ponto": "Q11",
+  "g": "C",
+  "e": "A Constituição de 1824 adotou o voto censitário e as eleições indiretas em dois graus, e a Lei Saraiva, de 1881, instituiu a eleição direta, mantendo o critério censitário e excluindo os analfabetos.",
+  "formato": "assertiva",
+  "c": "História do voto no Império.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0132",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0132",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0014"
+  ],
+  "ponto": "Q11",
+  "g": "E",
+  "e": "A Constituição de 1824 adotou o voto universal e direto, e a Lei Saraiva, de 1881, instituiu as eleições indiretas, assegurando o direito de voto aos analfabetos.",
+  "formato": "assertiva",
+  "c": "História do voto no Império.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte sistemas e inclusão",
+  "par": "Q-POL-0131",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0133",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0014"
+  ],
+  "ponto": "Q11",
+  "g": "C",
+  "e": "O Código Eleitoral de 1932 instituiu o voto secreto, o voto feminino, a Justiça Eleitoral e a representação proporcional.",
+  "formato": "assertiva",
+  "c": "Código Eleitoral de 1932.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0134",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0134",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0014"
+  ],
+  "ponto": "Q11",
+  "g": "E",
+  "e": "O Código Eleitoral de 1932 manteve o voto aberto, vedou o voto feminino e atribuiu a verificação dos poderes ao Poder Legislativo, sem criar a Justiça Eleitoral.",
+  "formato": "assertiva",
+  "c": "Código Eleitoral de 1932.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "nega inovações",
+  "par": "Q-POL-0133",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0135",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0014"
+  ],
+  "ponto": "Q11",
+  "g": "C",
+  "e": "O voto dos analfabetos foi permitido pela Emenda Constitucional 25/1985, e a Constituição de 1988 o manteve de forma facultativa, assim como o voto dos maiores de setenta anos e dos maiores de dezesseis e menores de dezoito anos.",
+  "formato": "assertiva",
+  "c": "História do voto no Brasil.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-POL-0136",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0136",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0014"
+  ],
+  "ponto": "Q11",
+  "g": "E",
+  "e": "O voto dos analfabetos foi permitido pela Constituição de 1934, e a Constituição de 1988 o tornou obrigatório, assim como o voto dos maiores de setenta anos e dos maiores de dezesseis anos.",
+  "formato": "assertiva",
+  "c": "História do voto no Brasil.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca marco e obrigatoriedade",
+  "par": "Q-POL-0135",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0137",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0014"
+  ],
+  "ponto": "Q11",
+  "g": "C",
+  "e": "A Constituição de 1891 aboliu o critério censitário para o voto, mas manteve a exclusão dos analfabetos e das mulheres, e o voto era aberto.",
+  "formato": "assertiva",
+  "c": "Primeira República.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0138",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0138",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0014"
+  ],
+  "ponto": "Q11",
+  "g": "E",
+  "e": "A Constituição de 1891 manteve o critério censitário para o voto, mas assegurou o voto às mulheres e aos analfabetos, e o voto era secreto.",
+  "formato": "assertiva",
+  "c": "Primeira República.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca características",
+  "par": "Q-POL-0137",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0139",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0015"
+  ],
+  "ponto": "Q11",
+  "g": "C",
+  "e": "O Ato Institucional n. 2, de 1965, extinguiu os partidos existentes, e o Ato Complementar n. 4, de 1966, viabilizou a criação de duas organizações, a ARENA e o MDB, instituindo o bipartidarismo.",
+  "formato": "assertiva",
+  "c": "Bipartidarismo no regime militar.",
+  "padrao": "troca_numero",
+  "tipo_erro": "",
+  "par": "Q-POL-0140",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0140",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0015"
+  ],
+  "ponto": "Q11",
+  "g": "E",
+  "e": "O Ato Institucional n. 5, de 1968, extinguiu os partidos existentes, e o Ato Complementar n. 4, de 1966, viabilizou a criação de três organizações, a ARENA, o MDB e o PTB, instituindo o tripartidarismo.",
+  "formato": "assertiva",
+  "c": "Bipartidarismo no regime militar.",
+  "padrao": "troca_numero",
+  "tipo_erro": "troca ato e número de partidos",
+  "par": "Q-POL-0139",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0141",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0015"
+  ],
+  "ponto": "Q11",
+  "g": "C",
+  "e": "A reforma partidária de 1979 extinguiu o bipartidarismo e restabeleceu o pluripartidarismo, e a Constituição de 1988 assegurou ampla liberdade de criação de partidos.",
+  "formato": "assertiva",
+  "c": "Lei 6.767/1979; CF, art. 17.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0142",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0142",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0015"
+  ],
+  "ponto": "Q11",
+  "g": "E",
+  "e": "A reforma partidária de 1979 consolidou o bipartidarismo, e a Constituição de 1988 restabeleceu a exigência de autorização prévia do Estado para a criação de partidos.",
+  "formato": "assertiva",
+  "c": "Lei 6.767/1979; CF, art. 17.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "inverte reforma",
+  "par": "Q-POL-0141",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0143",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0015"
+  ],
+  "ponto": "Q11",
+  "g": "C",
+  "e": "A Emenda Constitucional 97/2017 vedou as coligações nas eleições proporcionais a partir de 2020 e instituiu a cláusula de desempenho, de aplicação gradual.",
+  "formato": "assertiva",
+  "c": "EC 97/2017.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0144",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0144",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0015"
+  ],
+  "ponto": "Q11",
+  "g": "E",
+  "e": "A Emenda Constitucional 97/2017 vedou as coligações nas eleições majoritárias a partir de 2020 e instituiu a cláusula de desempenho, de aplicação imediata e com percentual fixo.",
+  "formato": "assertiva",
+  "c": "EC 97/2017.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "troca eleições e gradualidade",
+  "par": "Q-POL-0143",
+  "dif": 4,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "lei",
+   "ref": "CF; Lei 9.096/1995",
+   "versao": "vigente",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0145",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0015"
+  ],
+  "ponto": "Q11",
+  "g": "C",
+  "e": "No Império, os principais partidos eram o Conservador e o Liberal, e a alternância entre os gabinetes era mediada pelo Poder Moderador do Imperador.",
+  "formato": "assertiva",
+  "c": "Partidos no Império.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "",
+  "par": "Q-POL-0146",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ },
+ {
+  "id": "Q-POL-0146",
+  "t": "P2-M9-11",
+  "materia": "Ciência Política",
+  "bloco": "P2",
+  "item_edital": "9.11",
+  "a": [
+   "A-POL-0015"
+  ],
+  "ponto": "Q11",
+  "g": "E",
+  "e": "No Império, os principais partidos eram o PSD e a UDN, e a alternância entre os gabinetes era definida diretamente pelo voto popular, sem interferência do Imperador.",
+  "formato": "assertiva",
+  "c": "Partidos no Império.",
+  "padrao": "excecao_omitida",
+  "tipo_erro": "anacronismo e nega Poder Moderador",
+  "par": "Q-POL-0145",
+  "dif": 3,
+  "r": 1,
+  "incidencia": "alta",
+  "fonte": {
+   "tipo": "doutrina",
+   "ref": "doutrina de ciência política; CF e Lei 9.096/1995",
+   "versao": "conhecimento do autor",
+   "conferida": "conhecimento"
+  },
+  "vigencia": "estavel",
+  "risco": [
+   "doutrina_conhecimento"
+  ],
+  "origem": "autoral",
+  "lote": "L14",
+  "criada": "2026-10-16",
+  "versao": 1,
+  "tags": [],
+  "val": {
+   "mecanica": true,
+   "cega": "ok",
+   "humana": false
+  }
+ }
+]
