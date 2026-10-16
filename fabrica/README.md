@@ -59,3 +59,6 @@ Painel por tópico: itens atuais (legado) × aprovados v3 × meta. Ordem sugerid
 
 ## Lote L10 — Organização administrativa (P1-M3-1, edital 1)
 62 itens (31 C/31 E), pontos O01–O09, 10 átomos em dados/leis/org.json (DL 200/67, CF 37 XIX/XX e 173, Leis 9.637, 9.790, 13.019, 13.303, 11.107 e 9.784 art. 1º, ADI 1.923, RE 220.906, Súmula 525 STJ). Fonte conferida = "conhecimento" com risco; resolução cega embaralhada 62/62 sem divergência.
+
+## Lote L11 — Modelos de gestão e governança (P1-M3-8 e P1-M3-9, edital 8 e 9)
+58 itens (29 C/29 E), pontos G01–G06, 12 átomos doutrinários em dados/leis/ges.json (Weber, Plano Diretor 1995, EC 19/98, NPM, NPG, Moore, Decreto 9.203 arts. 2º e 3º). Fonte conferida = "conhecimento" com risco; resolução cega embaralhada 58/58 sem divergência. Itens de governança (G05, G06) gravados no tópico P1-M3-9.

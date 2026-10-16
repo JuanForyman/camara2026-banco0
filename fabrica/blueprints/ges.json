@@ -1,0 +1,99 @@
+{
+ "parte": "Administração Pública — Modelos de gestão e governança (edital 8 e 9)",
+ "sigla": "GES",
+ "topico": "P1-M3-8",
+ "materia": "Noções de Direito Administrativo e Administração Pública",
+ "bloco": "P1",
+ "item_edital": "4.8",
+ "nome_curto": "Modelos de gestão e governança",
+ "fonte": {
+  "tipo": "doutrina",
+  "ref": "Plano Diretor da Reforma do Aparelho do Estado (1995); EC 19/98; Decreto 9.203/2017 arts. 2º e 3º; doutrina (Weber, Bresser-Pereira, Osborne, Moore); Referencial Básico de Governança do TCU",
+  "versao": "conhecimento do autor",
+  "conferida": "conhecimento"
+ },
+ "rotulos": {
+  "1": "Administração patrimonialista",
+  "2": "Administração burocrática (Weber)",
+  "3": "Administração gerencial e Nova Gestão Pública (NPM)",
+  "4": "Reforma do aparelho do Estado de 1995",
+  "5": "Evolução histórica da gestão pública no Brasil",
+  "6": "Nova Governança Pública (NPG)",
+  "7": "Redes de cooperação, articulação interinstitucional e parcerias",
+  "8": "Coprodução do bem público, participação cidadã e transparência ativa",
+  "9": "Valor público e cadeia de valor público",
+  "10": "Governança pública, governabilidade e alinhamento estratégico",
+  "11": "Mecanismos de governança: liderança, estratégia e controle",
+  "12": "Valor público, resultados, sustentabilidade e avaliação de impactos"
+ },
+ "nota_calibracao": "Alta incidência: patrimonialismo x burocracia x gerencial, NPM x NPG, reforma de 1995, valor público, governança x governabilidade, Decreto 9.203.",
+ "pendencias": [
+  "sem texto-fonte literal; conceitos doutrinários (Weber, Bresser-Pereira, Osborne, Moore) e Decreto 9.203 art. 2º e 3º por conhecimento, com risco"
+ ],
+ "descartar_tags": [],
+ "pontos": [
+  {
+   "id": "G01",
+   "titulo": "Patrimonialismo e burocracia",
+   "incidencia": "alta",
+   "armadilhas": [
+    "características de cada modelo"
+   ]
+  },
+  {
+   "id": "G02",
+   "titulo": "Administração gerencial e NPM",
+   "incidencia": "alta",
+   "armadilhas": [
+    "controle de resultados",
+    "críticas"
+   ]
+  },
+  {
+   "id": "G03",
+   "titulo": "Reforma de 1995 e evolução no Brasil",
+   "incidencia": "alta",
+   "armadilhas": [
+    "setores do Estado",
+    "EC 19/98",
+    "DASP",
+    "DL 200"
+   ]
+  },
+  {
+   "id": "G04",
+   "titulo": "Nova Governança Pública, redes, coprodução e valor público",
+   "incidencia": "alta",
+   "armadilhas": [
+    "NPM x NPG",
+    "transparência ativa",
+    "cadeia de valor"
+   ]
+  },
+  {
+   "id": "G05",
+   "titulo": "Governança, governabilidade e mecanismos",
+   "incidencia": "alta",
+   "armadilhas": [
+    "governança x governabilidade",
+    "governança x gestão"
+   ]
+  },
+  {
+   "id": "G06",
+   "titulo": "Valor público, impacto e sustentabilidade",
+   "incidencia": "media",
+   "armadilhas": [
+    "eficiência, eficácia e efetividade"
+   ]
+  }
+ ],
+ "topico_por_ponto": {
+  "G05": "P1-M3-9",
+  "G06": "P1-M3-9"
+ },
+ "item_edital_por_ponto": {
+  "G05": "4.9",
+  "G06": "4.9"
+ }
+}

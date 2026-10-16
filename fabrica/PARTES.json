@@ -188,22 +188,22 @@
     {
      "id": "P1-M3-8",
      "titulo": "Evolução dos modelos de gestão pública",
-     "itens_atuais": 0,
-     "itens_aprovados_v3": 0,
+     "itens_atuais": 29,
+     "itens_aprovados_v3": 29,
      "meta": 25,
-     "fonte": "pendente",
-     "blueprint": "pendente",
-     "status": "nao_iniciado"
+     "fonte": "doutrina; Decreto 9.203 (conhecimento)",
+     "blueprint": "ges.json",
+     "status": "lote_L11"
     },
     {
      "id": "P1-M3-9",
      "titulo": "Governança na Administração Pública",
-     "itens_atuais": 70,
-     "itens_aprovados_v3": 70,
+     "itens_atuais": 29,
+     "itens_aprovados_v3": 29,
      "meta": 25,
-     "fonte": "Decreto compilado (Drive)",
-     "blueprint": "d9203",
-     "status": "lote_pronto"
+     "fonte": "doutrina; Decreto 9.203 (conhecimento)",
+     "blueprint": "ges.json",
+     "status": "lote_L11"
     },
     {
      "id": "P1-M3-10",
