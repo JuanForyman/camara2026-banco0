@@ -1,0 +1,683 @@
+[
+{
+"id": "Q-FIA-0004",
+"g": "E",
+"e": "A taxa de erro de palavras (WER) é calculada pela soma de substituições e remoções dividida pelo número de palavras da hipótese gerada pelo sistema, de modo que nunca pode ultrapassar cem por cento.",
+"velho": "WER.",
+"aula": [
+"A métrica padrão é a taxa de erro de palavras (WER, word error rate): soma de substituições, inserções e remoções dividida pelo número de palavras da referência; pode ultrapassar 100%.",
+"Taxa de erro de caracteres (CER) é usada em línguas sem separação clara de palavras e como métrica complementar."
+]
+},
+{
+"id": "Q-FIA-0005",
+"g": "C",
+"e": "No pipeline híbrido clássico, uma palavra ausente do vocabulário do sistema (fora do vocabulário, OOV) não pode ser reconhecida como tal, o que prejudica a transcrição de nomes próprios e termos técnicos novos.",
+"velho": "OOV.",
+"aula": [
+"Pipeline híbrido clássico: modelo acústico (tradicionalmente HMM com GMM, depois HMM com redes neurais profundas) estima a probabilidade de unidades sonoras (fonemas) a partir do áudio; léxico (dicionário de pronúncia) liga palavras a sequências de fonemas; modelo de linguagem (n-gramas, depois redes neurais) estima a probabilidade de sequências de palavras; o decodificador busca a hipótese…",
+"No pipeline clássico, palavras fora do vocabulário (OOV) não podem ser reconhecidas, e o desempenho depende de domínio: modelos treinados em fala de uso geral erram termos técnicos e nomes próprios."
+]
+},
+{
+"id": "Q-FIA-0006",
+"g": "E",
+"e": "No pipeline híbrido clássico, uma palavra ausente do vocabulário do sistema (fora do vocabulário, OOV) é reconhecida normalmente, pois o modelo acústico dispensa o léxico. Isso é consenso na área.",
+"velho": "OOV.",
+"aula": [
+"Pipeline híbrido clássico: modelo acústico (tradicionalmente HMM com GMM, depois HMM com redes neurais profundas) estima a probabilidade de unidades sonoras (fonemas) a partir do áudio; léxico (dicionário de pronúncia) liga palavras a sequências de fonemas; modelo de linguagem (n-gramas, depois redes neurais) estima a probabilidade de sequências de palavras; o decodificador busca a hipótese…",
+"No pipeline clássico, palavras fora do vocabulário (OOV) não podem ser reconhecidas, e o desempenho depende de domínio: modelos treinados em fala de uso geral erram termos técnicos e nomes próprios."
+]
+},
+{
+"id": "Q-FIA-0007",
+"g": "C",
+"e": "Antes do reconhecimento, o sinal de áudio é convertido em características acústicas, como espectrogramas na escala mel ou MFCCs, calculadas em janelas curtas da ordem de dezenas de milissegundos.",
+"velho": "Extração de características.",
+"aula": [
+"O sinal de áudio é digitalizado (amostragem, por exemplo, 16 kHz para fala) e convertido em características acústicas, como espectrogramas na escala mel e MFCCs, calculadas em janelas curtas (cerca de 25 ms, com deslocamento de 10 ms)."
+]
+},
+{
+"id": "Q-FIA-0008",
+"g": "E",
+"e": "Antes do reconhecimento, o sinal de áudio é convertido em texto fonético, e as características acústicas, como os espectrogramas, são calculadas apenas depois da geração do texto final.",
+"velho": "Extração de características.",
+"aula": [
+"ASR (Automatic Speech Recognition) converte sinal de fala em texto.",
+"O sinal de áudio é digitalizado (amostragem, por exemplo, 16 kHz para fala) e convertido em características acústicas, como espectrogramas na escala mel e MFCCs, calculadas em janelas curtas (cerca de 25 ms, com deslocamento de 10 ms)."
+]
+},
+{
+"id": "Q-FIA-0009",
+"g": "C",
+"e": "A taxa de erro de caracteres (CER) é métrica complementar ao WER, útil em línguas sem separação clara entre palavras e em avaliações mais granulares.",
+"velho": "CER.",
+"aula": [
+"A métrica padrão é a taxa de erro de palavras (WER, word error rate): soma de substituições, inserções e remoções dividida pelo número de palavras da referência; pode ultrapassar 100%.",
+"Taxa de erro de caracteres (CER) é usada em línguas sem separação clara de palavras e como métrica complementar."
+]
+},
+{
+"id": "Q-FIA-0010",
+"g": "E",
+"e": "A taxa de erro de caracteres (CER) é métrica exclusiva de línguas ocidentais e não pode ser usada em conjunto com o WER. Isso é consenso na área.",
+"velho": "CER.",
+"aula": [
+"A métrica padrão é a taxa de erro de palavras (WER, word error rate): soma de substituições, inserções e remoções dividida pelo número de palavras da referência; pode ultrapassar 100%.",
+"Taxa de erro de caracteres (CER) é usada em línguas sem separação clara de palavras e como métrica complementar."
+]
+},
+{
+"id": "Q-FIA-0011",
+"g": "C",
+"e": "Um sistema de ASR treinado em fala de uso geral tende a apresentar mais erros em vocabulário técnico e em nomes próprios de um domínio específico, como o parlamentar, do que em fala corrente.",
+"velho": "Domínio.",
+"aula": [
+"No pipeline clássico, palavras fora do vocabulário (OOV) não podem ser reconhecidas, e o desempenho depende de domínio: modelos treinados em fala de uso geral erram termos técnicos e nomes próprios."
+]
+},
+{
+"id": "Q-FIA-0012",
+"g": "E",
+"e": "Um sistema de ASR treinado em fala de uso geral apresenta, necessariamente, o mesmo desempenho em fala corrente e em vocabulário técnico de um domínio específico. Trata-se de prática corrente.",
+"velho": "Domínio.",
+"aula": [
+"No pipeline clássico, palavras fora do vocabulário (OOV) não podem ser reconhecidas, e o desempenho depende de domínio: modelos treinados em fala de uso geral erram termos técnicos e nomes próprios."
+]
+},
+{
+"id": "Q-FIA-0013",
+"g": "C",
+"e": "No CTC (Connectionist Temporal Classification), usa-se um símbolo especial em branco para permitir o alinhamento implícito entre quadros de áudio e rótulos, sem necessidade de alinhamento prévio.",
+"velho": "CTC.",
+"aula": [
+"CTC (Connectionist Temporal Classification) usa um símbolo especial em branco (blank) e permite alinhamento implícito entre quadros de áudio e rótulos; assume independência condicional entre as saídas em cada quadro, o que costuma exigir modelo de linguagem externo para melhorar a fluência.",
+"Conformer combina convoluções e autoatenção para capturar contexto local e global. wav2vec 2.0 é um modelo de pré-treinamento auto-supervisionado em áudio sem rótulos, depois ajustado com poucos dados transcritos."
+]
+},
+{
+"id": "Q-FIA-0014",
+"g": "E",
+"e": "No CTC (Connectionist Temporal Classification), é indispensável o alinhamento manual prévio entre cada quadro de áudio e cada rótulo, e não existe símbolo especial em branco. Isso é consenso na área.",
+"velho": "CTC.",
+"aula": [
+"CTC (Connectionist Temporal Classification) usa um símbolo especial em branco (blank) e permite alinhamento implícito entre quadros de áudio e rótulos; assume independência condicional entre as saídas em cada quadro, o que costuma exigir modelo de linguagem externo para melhorar a fluência."
+]
+},
+{
+"id": "Q-FIA-0015",
+"g": "C",
+"e": "O CTC assume independência condicional entre as saídas em cada quadro, razão pela qual costuma ser combinado com um modelo de linguagem externo para melhorar a fluência do texto.",
+"velho": "CTC e independência condicional.",
+"aula": [
+"CTC (Connectionist Temporal Classification) usa um símbolo especial em branco (blank) e permite alinhamento implícito entre quadros de áudio e rótulos; assume independência condicional entre as saídas em cada quadro, o que costuma exigir modelo de linguagem externo para melhorar a fluência.",
+"RNN-T (transducer) combina codificador acústico, rede de predição (modelo de linguagem interno) e rede de junção; é adequado a transcrição em tempo real, pois emite tokens de forma incremental, e por isso é muito usado em ASR de streaming em dispositivos."
+]
+},
+{
+"id": "Q-FIA-0016",
+"g": "E",
+"e": "O CTC modela explicitamente a dependência entre saídas sucessivas por meio de uma rede de predição interna, razão pela qual dispensa qualquer modelo de linguagem. Trata-se de prática corrente.",
+"velho": "CTC e independência condicional.",
+"aula": [
+"CTC (Connectionist Temporal Classification) usa um símbolo especial em branco (blank) e permite alinhamento implícito entre quadros de áudio e rótulos; assume independência condicional entre as saídas em cada quadro, o que costuma exigir modelo de linguagem externo para melhorar a fluência.",
+"RNN-T (transducer) combina codificador acústico, rede de predição (modelo de linguagem interno) e rede de junção; é adequado a transcrição em tempo real, pois emite tokens de forma incremental, e por isso é muito usado em ASR de streaming em dispositivos."
+]
+},
+{
+"id": "Q-FIA-0017",
+"g": "C",
+"e": "O RNN-T (transducer) combina codificador acústico, rede de predição e rede de junção e emite tokens de forma incremental, o que o torna adequado à transcrição em tempo real.",
+"velho": "RNN-T.",
+"aula": [
+"Modelos codificador-decodificador com atenção (attention encoder-decoder, como Listen, Attend and Spell) geram o texto de forma autorregressiva, atendendo a toda a sequência de áudio; tendem a ser precisos em lote, mas são menos naturais para streaming.",
+"RNN-T (transducer) combina codificador acústico, rede de predição (modelo de linguagem interno) e rede de junção; é adequado a transcrição em tempo real, pois emite tokens de forma incremental, e por isso é muito usado em ASR de streaming em dispositivos."
+]
+},
+{
+"id": "Q-FIA-0018",
+"g": "E",
+"e": "O RNN-T (transducer) depende do áudio completo antes de emitir qualquer token, o que o torna inadequado à transcrição em tempo real. Isso é consenso na área.",
+"velho": "RNN-T.",
+"aula": [
+"RNN-T (transducer) combina codificador acústico, rede de predição (modelo de linguagem interno) e rede de junção; é adequado a transcrição em tempo real, pois emite tokens de forma incremental, e por isso é muito usado em ASR de streaming em dispositivos."
+]
+},
+{
+"id": "Q-FIA-0019",
+"g": "C",
+"e": "Os modelos end-to-end mapeiam o áudio diretamente para texto, em geral em caracteres ou subpalavras, dispensando léxico de pronúncia e componentes treinados separadamente.",
+"velho": "End-to-end.",
+"aula": [
+"Modelos end-to-end mapeiam diretamente o áudio para texto (caracteres ou subpalavras) em uma única rede neural, sem léxico de pronúncia e sem componentes treinados separadamente.",
+"Modelos codificador-decodificador com atenção (attention encoder-decoder, como Listen, Attend and Spell) geram o texto de forma autorregressiva, atendendo a toda a sequência de áudio; tendem a ser precisos em lote, mas são menos naturais para streaming."
+]
+},
+{
+"id": "Q-FIA-0020",
+"g": "E",
+"e": "Os modelos end-to-end exigem léxico de pronúncia e treinamento separado dos componentes acústico e de linguagem, como no pipeline híbrido. Trata-se de prática corrente.",
+"velho": "End-to-end.",
+"aula": [
+"Modelos end-to-end mapeiam diretamente o áudio para texto (caracteres ou subpalavras) em uma única rede neural, sem léxico de pronúncia e sem componentes treinados separadamente.",
+"RNN-T (transducer) combina codificador acústico, rede de predição (modelo de linguagem interno) e rede de junção; é adequado a transcrição em tempo real, pois emite tokens de forma incremental, e por isso é muito usado em ASR de streaming em dispositivos."
+]
+},
+{
+"id": "Q-FIA-0021",
+"g": "C",
+"e": "O wav2vec 2.0 é um modelo de pré-treinamento auto-supervisionado em áudio sem rótulos, que depois pode ser ajustado com quantidade menor de dados transcritos.",
+"velho": "wav2vec 2.0.",
+"aula": [
+"CTC (Connectionist Temporal Classification) usa um símbolo especial em branco (blank) e permite alinhamento implícito entre quadros de áudio e rótulos; assume independência condicional entre as saídas em cada quadro, o que costuma exigir modelo de linguagem externo para melhorar a fluência.",
+"Conformer combina convoluções e autoatenção para capturar contexto local e global. wav2vec 2.0 é um modelo de pré-treinamento auto-supervisionado em áudio sem rótulos, depois ajustado com poucos dados transcritos."
+]
+},
+{
+"id": "Q-FIA-0022",
+"g": "E",
+"e": "O wav2vec 2.0 é um modelo exclusivamente supervisionado, que só pode ser treinado com grande volume de áudio transcrito, sem uso de áudio sem rótulos.",
+"velho": "wav2vec 2.0.",
+"aula": [
+"CTC (Connectionist Temporal Classification) usa um símbolo especial em branco (blank) e permite alinhamento implícito entre quadros de áudio e rótulos; assume independência condicional entre as saídas em cada quadro, o que costuma exigir modelo de linguagem externo para melhorar a fluência.",
+"Conformer combina convoluções e autoatenção para capturar contexto local e global. wav2vec 2.0 é um modelo de pré-treinamento auto-supervisionado em áudio sem rótulos, depois ajustado com poucos dados transcritos."
+]
+},
+{
+"id": "Q-FIA-0023",
+"g": "C",
+"e": "Modelos codificador-decodificador com atenção geram texto de forma autorregressiva, atendendo a toda a sequência de áudio, e tendem a ser mais naturais para processamento em lote do que para streaming.",
+"velho": "Atenção e streaming.",
+"aula": [
+"Modelos end-to-end mapeiam diretamente o áudio para texto (caracteres ou subpalavras) em uma única rede neural, sem léxico de pronúncia e sem componentes treinados separadamente.",
+"Modelos codificador-decodificador com atenção (attention encoder-decoder, como Listen, Attend and Spell) geram o texto de forma autorregressiva, atendendo a toda a sequência de áudio; tendem a ser precisos em lote, mas são menos naturais para streaming."
+]
+},
+{
+"id": "Q-FIA-0024",
+"g": "E",
+"e": "Modelos codificador-decodificador com atenção sobre toda a sequência de áudio são, por construção, os mais adequados ao streaming de baixa latência. Trata-se de prática corrente.",
+"velho": "Atenção e streaming.",
+"aula": [
+"Modelos end-to-end mapeiam diretamente o áudio para texto (caracteres ou subpalavras) em uma única rede neural, sem léxico de pronúncia e sem componentes treinados separadamente.",
+"Modelos codificador-decodificador com atenção (attention encoder-decoder, como Listen, Attend and Spell) geram o texto de forma autorregressiva, atendendo a toda a sequência de áudio; tendem a ser precisos em lote, mas são menos naturais para streaming."
+]
+},
+{
+"id": "Q-FIA-0025",
+"g": "C",
+"e": "No pipeline em cascata, a transcrição intermediária pode ser auditada e revisada por pessoas antes de ser processada por um LLM, o que favorece a rastreabilidade, e somente com ela é possível conferir palavra por palavra o que o ASR entendeu.",
+"velho": "Cascata.",
+"aula": [
+"No pipeline em cascata, um modelo de ASR produz o texto e um LLM processa esse texto (resumo, ata, classificação).",
+"Para contextos que exigem rastreabilidade e fidelidade, como registros parlamentares, a transcrição intermediária revisável tende a ser preferida, mesmo quando um modelo nativo de áudio é usado como auxiliar."
+]
+},
+{
+"id": "Q-FIA-0026",
+"g": "E",
+"e": "No pipeline em cascata, a transcrição intermediária não existe, pois o LLM processa diretamente o áudio, o que impede qualquer auditoria. Essa seria a posição predominante na literatura técnica da área.",
+"velho": "Cascata.",
+"aula": [
+"No pipeline em cascata, um modelo de ASR produz o texto e um LLM processa esse texto (resumo, ata, classificação).",
+"Desvantagens: menor transparência sobre o que foi entendido, custo maior, risco de alucinação sobre o conteúdo do áudio e dificuldade de auditoria quando não se produz transcrição intermediária."
+]
+},
+{
+"id": "Q-FIA-0027",
+"g": "C",
+"e": "No pipeline em cascata, erros do ASR propagam-se ao LLM, e informações paralinguísticas, como entonação e emoção, tendem a ser perdidas na conversão do áudio em texto.",
+"velho": "Propagação de erros.",
+"aula": [
+"No pipeline em cascata, um modelo de ASR produz o texto e um LLM processa esse texto (resumo, ata, classificação).",
+"Desvantagem: erros do ASR propagam-se ao LLM e informações paralinguísticas (entonação, emoção, pausas, ruídos) são perdidas."
+]
+},
+{
+"id": "Q-FIA-0028",
+"g": "E",
+"e": "No pipeline em cascata, os erros do ASR são automaticamente corrigidos pelo LLM, e as informações paralinguísticas são integralmente preservadas no texto.",
+"velho": "Propagação de erros.",
+"aula": [
+"No pipeline em cascata, um modelo de ASR produz o texto e um LLM processa esse texto (resumo, ata, classificação).",
+"Desvantagem: erros do ASR propagam-se ao LLM e informações paralinguísticas (entonação, emoção, pausas, ruídos) são perdidas."
+]
+},
+{
+"id": "Q-FIA-0029",
+"g": "C",
+"e": "LLMs multimodais de áudio nativo recebem o áudio como entrada, sem etapa explícita de transcrição, e podem aproveitar informações como prosódia e ruído ambiente.",
+"velho": "Áudio nativo.",
+"aula": [
+"LLMs multimodais de áudio nativo recebem o áudio como entrada, sem etapa explícita de transcrição, e podem responder, resumir ou transcrever diretamente; podem aproveitar prosódia e contexto acústico.",
+"Para contextos que exigem rastreabilidade e fidelidade, como registros parlamentares, a transcrição intermediária revisável tende a ser preferida, mesmo quando um modelo nativo de áudio é usado como auxiliar."
+]
+},
+{
+"id": "Q-FIA-0030",
+"g": "E",
+"e": "LLMs multimodais de áudio nativo exigem sempre uma transcrição prévia por modelo de ASR e só processam texto, razão pela qual ignoram a prosódia. Isso é consenso na área.",
+"velho": "Áudio nativo.",
+"aula": [
+"LLMs multimodais de áudio nativo recebem o áudio como entrada, sem etapa explícita de transcrição, e podem responder, resumir ou transcrever diretamente; podem aproveitar prosódia e contexto acústico.",
+"Para contextos que exigem rastreabilidade e fidelidade, como registros parlamentares, a transcrição intermediária revisável tende a ser preferida, mesmo quando um modelo nativo de áudio é usado como auxiliar."
+]
+},
+{
+"id": "Q-FIA-0031",
+"g": "C",
+"e": "Em contextos que exigem rastreabilidade, como registros parlamentares, a existência de uma transcrição intermediária revisável é vantagem relevante do pipeline em cascata em relação ao uso direto de um modelo de áudio nativo.",
+"velho": "Rastreabilidade.",
+"aula": [
+"No pipeline em cascata, um modelo de ASR produz o texto e um LLM processa esse texto (resumo, ata, classificação).",
+"Para contextos que exigem rastreabilidade e fidelidade, como registros parlamentares, a transcrição intermediária revisável tende a ser preferida, mesmo quando um modelo nativo de áudio é usado como auxiliar."
+]
+},
+{
+"id": "Q-FIA-0032",
+"g": "E",
+"e": "Em contextos que exigem rastreabilidade, como registros parlamentares, a ausência de transcrição intermediária é vantagem do modelo de áudio nativo, pois elimina o risco de alucinação. Trata-se de prática corrente.",
+"velho": "Rastreabilidade.",
+"aula": [
+"Desvantagens: menor transparência sobre o que foi entendido, custo maior, risco de alucinação sobre o conteúdo do áudio e dificuldade de auditoria quando não se produz transcrição intermediária.",
+"Para contextos que exigem rastreabilidade e fidelidade, como registros parlamentares, a transcrição intermediária revisável tende a ser preferida, mesmo quando um modelo nativo de áudio é usado como auxiliar."
+]
+},
+{
+"id": "Q-FIA-0033",
+"g": "C",
+"e": "Um órgão que precisa de um registro de sessão com possibilidade de conferência palavra por palavra pode optar por manter a transcrição como produto intermediário, ainda que utilize um LLM para tarefas auxiliares, como resumo.",
+"velho": "Escolha de arquitetura.",
+"aula": [
+"Vantagens: modularidade, auditabilidade da transcrição intermediária e possibilidade de revisão humana do texto."
+]
+},
+{
+"id": "Q-FIA-0034",
+"g": "E",
+"e": "Um órgão que precisa de um registro de sessão com possibilidade de conferência palavra por palavra deve preferir um modelo de áudio nativo que entregue apenas o resumo, dispensando o texto da transcrição. Isso é consenso na área.",
+"velho": "Escolha de arquitetura.",
+"aula": [
+"No pipeline em cascata, um modelo de ASR produz o texto e um LLM processa esse texto (resumo, ata, classificação).",
+"Para contextos que exigem rastreabilidade e fidelidade, como registros parlamentares, a transcrição intermediária revisável tende a ser preferida, mesmo quando um modelo nativo de áudio é usado como auxiliar."
+]
+},
+{
+"id": "Q-FIA-0035",
+"g": "C",
+"e": "Modelos de áudio nativo não oferecem, por si, garantia de ausência de alucinação sobre o conteúdo do áudio, e o custo computacional pode ser maior do que o de um pipeline especializado.",
+"velho": "Limites do áudio nativo.",
+"aula": [
+"LLMs multimodais de áudio nativo recebem o áudio como entrada, sem etapa explícita de transcrição, e podem responder, resumir ou transcrever diretamente; podem aproveitar prosódia e contexto acústico.",
+"Desvantagens: menor transparência sobre o que foi entendido, custo maior, risco de alucinação sobre o conteúdo do áudio e dificuldade de auditoria quando não se produz transcrição intermediária."
+]
+},
+{
+"id": "Q-FIA-0036",
+"g": "E",
+"e": "Modelos de áudio nativo garantem a ausência de alucinação sobre o conteúdo do áudio, e seu custo computacional é sempre menor do que o de um pipeline especializado. Trata-se de prática corrente.",
+"velho": "Limites do áudio nativo.",
+"aula": [
+"LLMs multimodais de áudio nativo recebem o áudio como entrada, sem etapa explícita de transcrição, e podem responder, resumir ou transcrever diretamente; podem aproveitar prosódia e contexto acústico.",
+"Desvantagens: menor transparência sobre o que foi entendido, custo maior, risco de alucinação sobre o conteúdo do áudio e dificuldade de auditoria quando não se produz transcrição intermediária."
+]
+},
+{
+"id": "Q-FIA-0037",
+"g": "C",
+"e": "A diarização de falantes segmenta o áudio e agrupa os trechos por falante, rotulando-os de forma anônima, sem necessariamente identificar quem é cada pessoa.",
+"velho": "Diarização.",
+"aula": [
+"Diarização de falantes responde à pergunta quem falou quando: segmenta o áudio em trechos e agrupa os trechos por falante, rotulando-os de forma anônima (por exemplo, Falante 1 e Falante 2), sem necessariamente saber a identidade real.",
+"Etapas típicas: detecção de atividade de voz (VAD), segmentação, extração de embeddings de falante (i-vectors, x-vectors, d-vectors) e agrupamento (clustering). Existem também modelos end-to-end de diarização neural. Ferramentas conhecidas incluem o pyannote."
+]
+},
+{
+"id": "Q-FIA-0038",
+"g": "E",
+"e": "A diarização de falantes identifica necessariamente o nome civil de cada orador, a partir da análise da voz, sem necessidade de cadastro prévio.",
+"velho": "Diarização.",
+"aula": [
+"Diarização de falantes responde à pergunta quem falou quando: segmenta o áudio em trechos e agrupa os trechos por falante, rotulando-os de forma anônima (por exemplo, Falante 1 e Falante 2), sem necessariamente saber a identidade real.",
+"Identificação de falante (speaker identification) associa a voz a uma identidade conhecida, usando perfis cadastrados; a diarização, por si só, não identifica nomes. Nos registros parlamentares, a atribuição do nome do orador costuma combinar diarização com lista de oradores, registro de presença e conferência humana."
+]
+},
+{
+"id": "Q-FIA-0039",
+"g": "C",
+"e": "A identificação de falante associa a voz a uma identidade conhecida, a partir de perfis previamente cadastrados, e é distinta da diarização.",
+"velho": "Identificação x diarização.",
+"aula": [
+"Diarização de falantes responde à pergunta quem falou quando: segmenta o áudio em trechos e agrupa os trechos por falante, rotulando-os de forma anônima (por exemplo, Falante 1 e Falante 2), sem necessariamente saber a identidade real.",
+"Identificação de falante (speaker identification) associa a voz a uma identidade conhecida, usando perfis cadastrados; a diarização, por si só, não identifica nomes. Nos registros parlamentares, a atribuição do nome do orador costuma combinar diarização com lista de oradores, registro de presença e conferência humana."
+]
+},
+{
+"id": "Q-FIA-0040",
+"g": "E",
+"e": "A identificação de falante e a diarização são sinônimos, pois ambas atribuem automaticamente o nome real da pessoa sem cadastro prévio.",
+"velho": "Identificação x diarização.",
+"aula": [
+"Diarização de falantes responde à pergunta quem falou quando: segmenta o áudio em trechos e agrupa os trechos por falante, rotulando-os de forma anônima (por exemplo, Falante 1 e Falante 2), sem necessariamente saber a identidade real.",
+"Identificação de falante (speaker identification) associa a voz a uma identidade conhecida, usando perfis cadastrados; a diarização, por si só, não identifica nomes. Nos registros parlamentares, a atribuição do nome do orador costuma combinar diarização com lista de oradores, registro de presença e conferência humana."
+]
+},
+{
+"id": "Q-FIA-0041",
+"g": "C",
+"e": "A taxa de erro de diarização (DER) soma a fala não detectada, o falso alarme e a confusão de falantes.",
+"velho": "DER.",
+"aula": [
+"Diarização de falantes responde à pergunta quem falou quando: segmenta o áudio em trechos e agrupa os trechos por falante, rotulando-os de forma anônima (por exemplo, Falante 1 e Falante 2), sem necessariamente saber a identidade real.",
+"Métrica principal: DER (diarization error rate), que soma fala não detectada (missed speech), falso alarme (false alarm) e confusão de falantes (speaker confusion). Fala sobreposta (interrupções, apartes) é o principal desafio, em especial em plenário e comissões."
+]
+},
+{
+"id": "Q-FIA-0042",
+"g": "E",
+"e": "A taxa de erro de diarização (DER) soma apenas os erros de palavra (substituições, inserções e remoções), como o WER.",
+"velho": "DER.",
+"aula": [
+"Diarização de falantes responde à pergunta quem falou quando: segmenta o áudio em trechos e agrupa os trechos por falante, rotulando-os de forma anônima (por exemplo, Falante 1 e Falante 2), sem necessariamente saber a identidade real."
+]
+},
+{
+"id": "Q-FIA-0043",
+"g": "C",
+"e": "A fala sobreposta, como em apartes e interrupções, é um dos principais desafios da diarização, especialmente em plenário e comissões.",
+"velho": "Sobreposição.",
+"aula": [
+"Métrica principal: DER (diarization error rate), que soma fala não detectada (missed speech), falso alarme (false alarm) e confusão de falantes (speaker confusion). Fala sobreposta (interrupções, apartes) é o principal desafio, em especial em plenário e comissões."
+]
+},
+{
+"id": "Q-FIA-0044",
+"g": "E",
+"e": "A fala sobreposta não representa desafio para a diarização, pois os sistemas atuais separam sempre sem erro vozes simultâneas.",
+"velho": "Sobreposição.",
+"aula": [
+"Métrica principal: DER (diarization error rate), que soma fala não detectada (missed speech), falso alarme (false alarm) e confusão de falantes (speaker confusion). Fala sobreposta (interrupções, apartes) é o principal desafio, em especial em plenário e comissões."
+]
+},
+{
+"id": "Q-FIA-0045",
+"g": "C",
+"e": "As etapas típicas da diarização incluem detecção de atividade de voz, segmentação, extração de embeddings de falante e agrupamento (clustering).",
+"velho": "Etapas.",
+"aula": [
+"Diarização de falantes responde à pergunta quem falou quando: segmenta o áudio em trechos e agrupa os trechos por falante, rotulando-os de forma anônima (por exemplo, Falante 1 e Falante 2), sem necessariamente saber a identidade real.",
+"Etapas típicas: detecção de atividade de voz (VAD), segmentação, extração de embeddings de falante (i-vectors, x-vectors, d-vectors) e agrupamento (clustering). Existem também modelos end-to-end de diarização neural. Ferramentas conhecidas incluem o pyannote."
+]
+},
+{
+"id": "Q-FIA-0046",
+"g": "E",
+"e": "As etapas típicas da diarização incluem normalização inversa, pontuação automática e sumarização do conteúdo, sem extração de embeddings de falante.",
+"velho": "Etapas.",
+"aula": [
+"Diarização de falantes responde à pergunta quem falou quando: segmenta o áudio em trechos e agrupa os trechos por falante, rotulando-os de forma anônima (por exemplo, Falante 1 e Falante 2), sem necessariamente saber a identidade real.",
+"Etapas típicas: detecção de atividade de voz (VAD), segmentação, extração de embeddings de falante (i-vectors, x-vectors, d-vectors) e agrupamento (clustering). Existem também modelos end-to-end de diarização neural. Ferramentas conhecidas incluem o pyannote."
+]
+},
+{
+"id": "Q-FIA-0047",
+"g": "C",
+"e": "Para atribuir o nome do orador em registros parlamentares, é comum combinar diarização com a lista de oradores, o registro de presença e a conferência humana.",
+"velho": "Atribuição de orador.",
+"aula": [
+"Identificação de falante (speaker identification) associa a voz a uma identidade conhecida, usando perfis cadastrados; a diarização, por si só, não identifica nomes. Nos registros parlamentares, a atribuição do nome do orador costuma combinar diarização com lista de oradores, registro de presença e conferência humana."
+]
+},
+{
+"id": "Q-FIA-0048",
+"g": "E",
+"e": "Para atribuir o nome do orador em registros parlamentares, basta o resultado da diarização, sendo dispensável a conferência humana, pois os rótulos de falante equivalem à identidade real.",
+"velho": "Atribuição de orador.",
+"aula": [
+"Diarização de falantes responde à pergunta quem falou quando: segmenta o áudio em trechos e agrupa os trechos por falante, rotulando-os de forma anônima (por exemplo, Falante 1 e Falante 2), sem necessariamente saber a identidade real.",
+"Identificação de falante (speaker identification) associa a voz a uma identidade conhecida, usando perfis cadastrados; a diarização, por si só, não identifica nomes. Nos registros parlamentares, a atribuição do nome do orador costuma combinar diarização com lista de oradores, registro de presença e conferência humana."
+]
+},
+{
+"id": "Q-FIA-0049",
+"g": "C",
+"e": "A normalização inversa de texto (ITN) converte a forma falada em forma escrita, como transformar 'vinte e três por cento' em '23%'.",
+"velho": "ITN.",
+"aula": [
+"Normalização inversa de texto (ITN, inverse text normalization) converte a forma falada em forma escrita: 'vinte e três por cento' em '23%'; 'artigo quinto' em 'art. 5º'; 'dois mil e vinte e seis' em '2026'.",
+"A normalização de texto (TN) faz o caminho contrário, da forma escrita para a falada, e é usada na síntese de fala."
+]
+},
+{
+"id": "Q-FIA-0050",
+"g": "E",
+"e": "A normalização inversa de texto (ITN) converte a forma escrita em forma falada, como transformar '23%' em 'vinte e três por cento', e é a etapa final da transcrição.",
+"velho": "ITN.",
+"aula": [
+"Normalização inversa de texto (ITN, inverse text normalization) converte a forma falada em forma escrita: 'vinte e três por cento' em '23%'; 'artigo quinto' em 'art. 5º'; 'dois mil e vinte e seis' em '2026'.",
+"A normalização de texto (TN) faz o caminho contrário, da forma escrita para a falada, e é usada na síntese de fala."
+]
+},
+{
+"id": "Q-FIA-0051",
+"g": "C",
+"e": "A normalização de texto (TN) faz o caminho da forma escrita para a forma falada e é usada, por exemplo, na síntese de fala.",
+"velho": "TN x ITN.",
+"aula": [
+"Normalização inversa de texto (ITN, inverse text normalization) converte a forma falada em forma escrita: 'vinte e três por cento' em '23%'; 'artigo quinto' em 'art. 5º'; 'dois mil e vinte e seis' em '2026'.",
+"A normalização de texto (TN) faz o caminho contrário, da forma escrita para a falada, e é usada na síntese de fala."
+]
+},
+{
+"id": "Q-FIA-0052",
+"g": "E",
+"e": "A normalização de texto (TN) faz o caminho da forma falada para a escrita e é usada, por exemplo, em transcrições de áudio.",
+"velho": "TN x ITN.",
+"aula": [
+"Normalização inversa de texto (ITN, inverse text normalization) converte a forma falada em forma escrita: 'vinte e três por cento' em '23%'; 'artigo quinto' em 'art. 5º'; 'dois mil e vinte e seis' em '2026'.",
+"A normalização de texto (TN) faz o caminho contrário, da forma escrita para a falada, e é usada na síntese de fala."
+]
+},
+{
+"id": "Q-FIA-0053",
+"g": "C",
+"e": "Modelos ASR clássicos costumam produzir sequência de palavras sem pontuação e sem capitalização, de modo que a pontuação é feita em etapa de pós-processamento ou por modelos treinados com texto pontuado.",
+"velho": "Pontuação automática.",
+"aula": [
+"Modelos ASR clássicos produzem sequência de palavras sem pontuação e em minúsculas. Pontuação e capitalização automáticas são feitas por modelo de pós-processamento (rotulagem de sequência, por exemplo) ou emitidas diretamente por modelos end-to-end treinados com texto pontuado, como o Whisper.",
+"Erros de pontuação alteram sentido: vírgulas, pontos e interrogações mudam a interpretação, de modo que pontuação automática exige revisão humana em textos oficiais. A pontuação não é capturada por métricas de WER tradicionais, que costumam ignorá-la."
+]
+},
+{
+"id": "Q-FIA-0054",
+"g": "E",
+"e": "Todos os modelos ASR produzem, desde sempre, texto já pontuado e capitalizado, dispensando qualquer etapa adicional. Essa seria a posição predominante na literatura técnica da área.",
+"velho": "Pontuação automática.",
+"aula": [
+"Modelos ASR clássicos produzem sequência de palavras sem pontuação e em minúsculas. Pontuação e capitalização automáticas são feitas por modelo de pós-processamento (rotulagem de sequência, por exemplo) ou emitidas diretamente por modelos end-to-end treinados com texto pontuado, como o Whisper.",
+"Erros de pontuação alteram sentido: vírgulas, pontos e interrogações mudam a interpretação, de modo que pontuação automática exige revisão humana em textos oficiais. A pontuação não é capturada por métricas de WER tradicionais, que costumam ignorá-la."
+]
+},
+{
+"id": "Q-FIA-0055",
+"g": "C",
+"e": "Erros de pontuação podem alterar o sentido do texto, de modo que a pontuação automática exige revisão humana em documentos oficiais.",
+"velho": "Pontuação e sentido.",
+"aula": [
+"Modelos ASR clássicos produzem sequência de palavras sem pontuação e em minúsculas. Pontuação e capitalização automáticas são feitas por modelo de pós-processamento (rotulagem de sequência, por exemplo) ou emitidas diretamente por modelos end-to-end treinados com texto pontuado, como o Whisper.",
+"Erros de pontuação alteram sentido: vírgulas, pontos e interrogações mudam a interpretação, de modo que pontuação automática exige revisão humana em textos oficiais. A pontuação não é capturada por métricas de WER tradicionais, que costumam ignorá-la."
+]
+},
+{
+"id": "Q-FIA-0056",
+"g": "E",
+"e": "Erros de pontuação não alteram o sentido do texto, de modo que a pontuação automática dispensa revisão em documentos oficiais.",
+"velho": "Pontuação e sentido.",
+"aula": [
+"Modelos ASR clássicos produzem sequência de palavras sem pontuação e em minúsculas. Pontuação e capitalização automáticas são feitas por modelo de pós-processamento (rotulagem de sequência, por exemplo) ou emitidas diretamente por modelos end-to-end treinados com texto pontuado, como o Whisper.",
+"Erros de pontuação alteram sentido: vírgulas, pontos e interrogações mudam a interpretação, de modo que pontuação automática exige revisão humana em textos oficiais. A pontuação não é capturada por métricas de WER tradicionais, que costumam ignorá-la."
+]
+},
+{
+"id": "Q-FIA-0057",
+"g": "C",
+"e": "As métricas tradicionais de WER costumam ignorar a pontuação, razão pela qual um texto com baixo WER pode ainda conter erros de pontuação relevantes.",
+"velho": "WER e pontuação.",
+"aula": [
+"Modelos ASR clássicos produzem sequência de palavras sem pontuação e em minúsculas. Pontuação e capitalização automáticas são feitas por modelo de pós-processamento (rotulagem de sequência, por exemplo) ou emitidas diretamente por modelos end-to-end treinados com texto pontuado, como o Whisper.",
+"Erros de pontuação alteram sentido: vírgulas, pontos e interrogações mudam a interpretação, de modo que pontuação automática exige revisão humana em textos oficiais. A pontuação não é capturada por métricas de WER tradicionais, que costumam ignorá-la."
+]
+},
+{
+"id": "Q-FIA-0058",
+"g": "E",
+"e": "As métricas tradicionais de WER penalizam pesadamente a pontuação, razão pela qual um texto com baixo WER não pode conter erros de pontuação.",
+"velho": "WER e pontuação.",
+"aula": [
+"Modelos ASR clássicos produzem sequência de palavras sem pontuação e em minúsculas. Pontuação e capitalização automáticas são feitas por modelo de pós-processamento (rotulagem de sequência, por exemplo) ou emitidas diretamente por modelos end-to-end treinados com texto pontuado, como o Whisper.",
+"Erros de pontuação alteram sentido: vírgulas, pontos e interrogações mudam a interpretação, de modo que pontuação automática exige revisão humana em textos oficiais. A pontuação não é capturada por métricas de WER tradicionais, que costumam ignorá-la."
+]
+},
+{
+"id": "Q-FIA-0059",
+"g": "C",
+"e": "A conversão automática de 'artigo quinto' em 'art. 5º' e de 'dois mil e vinte e seis' em '2026' é exemplo de normalização inversa de texto.",
+"velho": "Exemplos de ITN.",
+"aula": [
+"Modelos ASR clássicos produzem sequência de palavras sem pontuação e em minúsculas. Pontuação e capitalização automáticas são feitas por modelo de pós-processamento (rotulagem de sequência, por exemplo) ou emitidas diretamente por modelos end-to-end treinados com texto pontuado, como o Whisper.",
+"Normalização inversa de texto (ITN, inverse text normalization) converte a forma falada em forma escrita: 'vinte e três por cento' em '23%'; 'artigo quinto' em 'art. 5º'; 'dois mil e vinte e seis' em '2026'."
+]
+},
+{
+"id": "Q-FIA-0060",
+"g": "E",
+"e": "A conversão automática de 'art. 5º' em 'artigo quinto' e de '2026' em 'dois mil e vinte e seis' é exemplo de normalização inversa de texto.",
+"velho": "Exemplos de ITN.",
+"aula": [
+"Modelos ASR clássicos produzem sequência de palavras sem pontuação e em minúsculas. Pontuação e capitalização automáticas são feitas por modelo de pós-processamento (rotulagem de sequência, por exemplo) ou emitidas diretamente por modelos end-to-end treinados com texto pontuado, como o Whisper.",
+"Normalização inversa de texto (ITN, inverse text normalization) converte a forma falada em forma escrita: 'vinte e três por cento' em '23%'; 'artigo quinto' em 'art. 5º'; 'dois mil e vinte e seis' em '2026'."
+]
+},
+{
+"id": "Q-FIA-0061",
+"g": "C",
+"e": "O português brasileiro apresenta variação regional e fenômenos da oralidade, como reduções e contrações, que dificultam o reconhecimento automático de fala.",
+"velho": "Variação regional.",
+"aula": [
+"O português brasileiro apresenta variação regional (sotaques, ritmo de fala, vogais reduzidas), registros distintos (formal e informal) e fenômenos da oralidade (contrações, apagamento de sons, reduções como 'tá', 'né'), o que dificulta o reconhecimento."
+]
+},
+{
+"id": "Q-FIA-0062",
+"g": "E",
+"e": "O português brasileiro é uniforme em todo o território e não apresenta variação que prejudique o reconhecimento automático de fala. Isso é consenso na área.",
+"velho": "Variação regional.",
+"aula": [
+"O português brasileiro apresenta variação regional (sotaques, ritmo de fala, vogais reduzidas), registros distintos (formal e informal) e fenômenos da oralidade (contrações, apagamento de sons, reduções como 'tá', 'né'), o que dificulta o reconhecimento."
+]
+},
+{
+"id": "Q-FIA-0063",
+"g": "C",
+"e": "Em sessões parlamentares, siglas, nomes próprios de parlamentares, números de proposições e falas simultâneas figuram entre os fatores que dificultam o ASR.",
+"velho": "Desafios parlamentares.",
+"aula": [
+"Em contextos parlamentares: vocabulário técnico e jurídico (siglas como PEC, MPV, PLP; termos como 'questão de ordem', 'destaque', 'requerimento de urgência'), nomes próprios de parlamentares e municípios, números de proposições e artigos, citações de leis e latim, falas simultâneas, aplausos e ruídos de plenário, microfones distantes e qualidade variável do áudio."
+]
+},
+{
+"id": "Q-FIA-0064",
+"g": "E",
+"e": "Em sessões parlamentares, as siglas, os nomes próprios e os números de proposições não dificultam o ASR, pois são palavras de uso comum. Trata-se de prática corrente.",
+"velho": "Desafios parlamentares.",
+"aula": [
+"Em contextos parlamentares: vocabulário técnico e jurídico (siglas como PEC, MPV, PLP; termos como 'questão de ordem', 'destaque', 'requerimento de urgência'), nomes próprios de parlamentares e municípios, números de proposições e artigos, citações de leis e latim, falas simultâneas, aplausos e ruídos de plenário, microfones distantes e qualidade variável do áudio."
+]
+},
+{
+"id": "Q-FIA-0065",
+"g": "C",
+"e": "A existência de menos dados rotulados de português do que de inglês pode resultar em desempenho inferior em português em modelos multilíngues, em especial com áudio ruidoso e vocabulário especializado.",
+"velho": "Escassez de dados.",
+"aula": [
+"Em contextos parlamentares: vocabulário técnico e jurídico (siglas como PEC, MPV, PLP; termos como 'questão de ordem', 'destaque', 'requerimento de urgência'), nomes próprios de parlamentares e municípios, números de proposições e artigos, citações de leis e latim, falas simultâneas, aplausos e ruídos de plenário, microfones distantes e qualidade variável do áudio.",
+"Menos recursos: há menos dados rotulados de português do que de inglês; modelos multilíngues costumam ter desempenho menor em português do que em inglês, e a diferença cresce em áudio ruidoso e vocabulário especializado."
+]
+},
+{
+"id": "Q-FIA-0066",
+"g": "E",
+"e": "A existência de menos dados rotulados de português do que de inglês não tem efeito sobre o desempenho dos modelos multilíngues. Essa seria a posição predominante na literatura técnica da área.",
+"velho": "Escassez de dados.",
+"aula": [
+"Menos recursos: há menos dados rotulados de português do que de inglês; modelos multilíngues costumam ter desempenho menor em português do que em inglês, e a diferença cresce em áudio ruidoso e vocabulário especializado."
+]
+},
+{
+"id": "Q-FIA-0067",
+"g": "C",
+"e": "Homófonos como 'sessão' e 'cessão' exigem contexto linguístico para serem distinguidos, o que reforça o papel do modelo de linguagem e da revisão humana.",
+"velho": "Homófonos.",
+"aula": [
+"Soluções: adaptação ao domínio, vocabulário personalizado, dados de sessões já degravadas e revisão humana.",
+"Homófonos e palavras de baixa frequência ('cessão' e 'sessão', 'concerto' e 'conserto') exigem contexto linguístico, o que reforça o papel do modelo de linguagem e da revisão."
+]
+},
+{
+"id": "Q-FIA-0068",
+"g": "E",
+"e": "Homófonos como 'sessão' e 'cessão' são distinguidos sem erro pelo componente acústico, que dispensa o contexto linguístico e a revisão humana.",
+"velho": "Homófonos.",
+"aula": [
+"Soluções: adaptação ao domínio, vocabulário personalizado, dados de sessões já degravadas e revisão humana.",
+"Homófonos e palavras de baixa frequência ('cessão' e 'sessão', 'concerto' e 'conserto') exigem contexto linguístico, o que reforça o papel do modelo de linguagem e da revisão."
+]
+},
+{
+"id": "Q-FIA-0069",
+"g": "C",
+"e": "Entre as soluções para melhorar o ASR em domínio específico estão a adaptação ao domínio, o vocabulário personalizado e o uso de sessões já degravadas.",
+"velho": "Soluções.",
+"aula": [
+"Soluções: adaptação ao domínio, vocabulário personalizado, dados de sessões já degravadas e revisão humana."
+]
+},
+{
+"id": "Q-FIA-0070",
+"g": "E",
+"e": "A única solução para melhorar o ASR em domínio específico é a substituição total do modelo, sendo inútil o vocabulário personalizado. Isso é consenso na área.",
+"velho": "Soluções.",
+"aula": [
+"Soluções: adaptação ao domínio, vocabulário personalizado, dados de sessões já degravadas e revisão humana."
+]
+},
+{
+"id": "Q-FIA-0071",
+"g": "C",
+"e": "A microfonia distante, o ruído de plenário, os aplausos e a qualidade variável do áudio são fatores que reduzem a acurácia do ASR em sessões.",
+"velho": "Qualidade do áudio.",
+"aula": [
+"Em contextos parlamentares: vocabulário técnico e jurídico (siglas como PEC, MPV, PLP; termos como 'questão de ordem', 'destaque', 'requerimento de urgência'), nomes próprios de parlamentares e municípios, números de proposições e artigos, citações de leis e latim, falas simultâneas, aplausos e ruídos de plenário, microfones distantes e qualidade variável do áudio."
+]
+},
+{
+"id": "Q-FIA-0072",
+"g": "E",
+"e": "A qualidade do áudio não influencia a acurácia do ASR, que depende apenas do tamanho do modelo. Trata-se de prática corrente.",
+"velho": "Qualidade do áudio.",
+"aula": [
+"Em contextos parlamentares: vocabulário técnico e jurídico (siglas como PEC, MPV, PLP; termos como 'questão de ordem', 'destaque', 'requerimento de urgência'), nomes próprios de parlamentares e municípios, números de proposições e artigos, citações de leis e latim, falas simultâneas, aplausos e ruídos de plenário, microfones distantes e qualidade variável do áudio."
+]
+},
+{
+"id": "Q-FIA-0073",
+"g": "C",
+"e": "Na transcrição em tempo real, hipóteses parciais podem ser alteradas até serem finalizadas, ao passo que na transcrição em lote o áudio completo é processado depois de gravado.",
+"velho": "Streaming x batch.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Em streaming, a detecção de fim de enunciado (endpointing) decide quando finalizar uma hipótese. Uso típico: legendagem ao vivo de sessões, acessibilidade (legenda para surdos), acompanhamento em tempo real; em lote: produção de registro oficial revisado, indexação posterior de acervo."
+]
+}
+]

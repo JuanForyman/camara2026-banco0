@@ -1,0 +1,658 @@
+[
+{
+"id": "Q-FIA-0424",
+"g": "E",
+"e": "Citações textuais feitas pelo orador dispensam conferência com a fonte, e expressões em língua estrangeira devem ser traduzidas sem indicação.",
+"velho": "Citações.",
+"aula": [
+"Citações textuais devem ser conferidas com a fonte.",
+"Expressões em língua estrangeira costumam ser destacadas (itálico), e latinismos mantidos na forma original."
+]
+},
+{
+"id": "Q-FIA-0425",
+"g": "C",
+"e": "O aparte é a intervenção durante o discurso de outro orador, com consentimento deste, e o registro deve indicar quem apartea e a retomada da palavra pelo orador.",
+"velho": "Aparte.",
+"aula": [
+"O aparte é intervenção durante o discurso de outro orador, com consentimento deste; o registro deve indicar quem apartea, e a retomada da palavra pelo orador."
+]
+},
+{
+"id": "Q-FIA-0426",
+"g": "E",
+"e": "O aparte é a intervenção durante o discurso de outro orador, feita sem necessidade de consentimento deste, e seu registro dispensa a identificação de quem apartea.",
+"velho": "Aparte.",
+"aula": [
+"A identificação do orador segue padrão fixo (por exemplo, nome do parlamentar seguido de partido e unidade da Federação) e deve ser repetida a cada mudança de falante ou de reunião.",
+"O aparte é intervenção durante o discurso de outro orador, com consentimento deste; o registro deve indicar quem apartea, e a retomada da palavra pelo orador."
+]
+},
+{
+"id": "Q-FIA-0427",
+"g": "C",
+"e": "Marcações de evento, como (Palmas.), distinguem-se do texto falado e não devem ser incluídas em discurso direto como se fossem fala.",
+"velho": "Marcações de evento.",
+"aula": [
+"As marcações de evento são distintas do texto falado e não devem ser incluídas em discurso direto."
+]
+},
+{
+"id": "Q-FIA-0428",
+"g": "E",
+"e": "Marcações de evento, como (Palmas.), devem ser inseridas no discurso do orador como se fossem fala, para manter a continuidade do texto.",
+"velho": "Marcações de evento.",
+"aula": [
+"O aparte é intervenção durante o discurso de outro orador, com consentimento deste; o registro deve indicar quem apartea, e a retomada da palavra pelo orador.",
+"As marcações de evento são distintas do texto falado e não devem ser incluídas em discurso direto."
+]
+},
+{
+"id": "Q-FIA-0429",
+"g": "C",
+"e": "A identificação do orador deve ser repetida a cada mudança de falante, segundo padrão fixo do órgão, por exemplo com nome, partido e unidade da Federação.",
+"velho": "Identificação do orador.",
+"aula": [
+"A identificação do orador segue padrão fixo (por exemplo, nome do parlamentar seguido de partido e unidade da Federação) e deve ser repetida a cada mudança de falante ou de reunião.",
+"Parlamentares' seguem padrão do manual do órgão."
+]
+},
+{
+"id": "Q-FIA-0430",
+"g": "E",
+"e": "A identificação do orador deve ser feita apenas na primeira fala da sessão, ainda que haja mudança de falante. Trata-se de prática corrente.",
+"velho": "Identificação do orador.",
+"aula": [
+"A identificação do orador segue padrão fixo (por exemplo, nome do parlamentar seguido de partido e unidade da Federação) e deve ser repetida a cada mudança de falante ou de reunião."
+]
+},
+{
+"id": "Q-FIA-0431",
+"g": "C",
+"e": "A leitura de dispositivos legais em plenário deve reproduzir exatamente a redação oficial, e não a forma como foi dita se divergir dela.",
+"velho": "Leitura de dispositivos.",
+"aula": [
+"Textos lidos em plenário (requerimentos, projetos, pareceres) são, em geral, incorporados ao registro conforme regras do órgão, e leituras de dispositivos devem reproduzir exatamente a redação oficial."
+]
+},
+{
+"id": "Q-FIA-0432",
+"g": "E",
+"e": "A leitura de dispositivos legais em plenário deve reproduzir a forma como o orador a disse, ainda que divirja da redação oficial, sem qualquer conferência.",
+"velho": "Leitura de dispositivos.",
+"aula": [
+"Textos lidos em plenário (requerimentos, projetos, pareceres) são, em geral, incorporados ao registro conforme regras do órgão, e leituras de dispositivos devem reproduzir exatamente a redação oficial."
+]
+},
+{
+"id": "Q-FIA-0433",
+"g": "C",
+"e": "Em formatação de transcrições, a uniformidade na aplicação das convenções é mais importante do que a escolha de uma convenção particular.",
+"velho": "Uniformidade.",
+"aula": [
+"Uniformidade é mais importante do que a escolha de qualquer convenção em particular."
+]
+},
+{
+"id": "Q-FIA-0434",
+"g": "E",
+"e": "Em formatação de transcrições, a escolha de uma convenção particular é mais importante do que sua aplicação uniforme. Trata-se de prática corrente.",
+"velho": "Uniformidade.",
+"aula": [
+"Uniformidade é mais importante do que a escolha de qualquer convenção em particular."
+]
+},
+{
+"id": "Q-FIA-0435",
+"g": "C",
+"e": "O plural de siglas forma-se com 's' minúsculo e sem apóstrofo, como em ONGs.",
+"velho": "Plural de siglas.",
+"aula": [
+"Siglas: na primeira ocorrência, é usual escrever o nome por extenso seguido da sigla entre parênteses; plurais de siglas formam-se com 's' minúsculo, sem apóstrofo (ONGs)."
+]
+},
+{
+"id": "Q-FIA-0436",
+"g": "E",
+"e": "O plural de siglas forma-se com apóstrofo e 's' maiúsculo, como em ONG'S.",
+"velho": "Plural de siglas.",
+"aula": [
+"Siglas: na primeira ocorrência, é usual escrever o nome por extenso seguido da sigla entre parênteses; plurais de siglas formam-se com 's' minúsculo, sem apóstrofo (ONGs)."
+]
+},
+{
+"id": "Q-FIA-0437",
+"g": "C",
+"e": "Os símbolos de unidades do Sistema Internacional, como km e kg, são invariáveis no plural e não recebem ponto.",
+"velho": "Unidades de medida.",
+"aula": [
+"Unidades de medida seguem o Sistema Internacional (km, kg, m²), com símbolos invariáveis no plural e sem ponto."
+]
+},
+{
+"id": "Q-FIA-0438",
+"g": "E",
+"e": "Os símbolos de unidades do Sistema Internacional, como km e kg, recebem 's' no plural e ponto final obrigatório.",
+"velho": "Unidades de medida.",
+"aula": [
+"Unidades de medida seguem o Sistema Internacional (km, kg, m²), com símbolos invariáveis no plural e sem ponto."
+]
+},
+{
+"id": "Q-FIA-0439",
+"g": "C",
+"e": "Na primeira ocorrência de uma sigla, é usual escrever o nome por extenso seguido da sigla entre parênteses, regra a ser fixada pelo manual de estilo.",
+"velho": "Sigla na primeira ocorrência.",
+"aula": [
+"Cada manual de estilo fixa limiares para uso de algarismos e extenso; a regra deve ser aplicada de modo uniforme e consistente.",
+"Siglas: na primeira ocorrência, é usual escrever o nome por extenso seguido da sigla entre parênteses; plurais de siglas formam-se com 's' minúsculo, sem apóstrofo (ONGs)."
+]
+},
+{
+"id": "Q-FIA-0440",
+"g": "E",
+"e": "Na primeira ocorrência de uma sigla, é vedado escrever o nome por extenso, devendo-se usar sempre apenas a sigla. Isso é consenso na área.",
+"velho": "Sigla na primeira ocorrência.",
+"aula": [
+"Siglas: na primeira ocorrência, é usual escrever o nome por extenso seguido da sigla entre parênteses; plurais de siglas formam-se com 's' minúsculo, sem apóstrofo (ONGs)."
+]
+},
+{
+"id": "Q-FIA-0441",
+"g": "C",
+"e": "A fala 'projeto de lei mil duzentos e trinta e quatro de dois mil e vinte e quatro' deve ser normalizada, conforme padrão oficial de numeração de proposições, como PL 1234/2024.",
+"velho": "Numeração de proposições.",
+"aula": [
+"Datas e horários seguem formato padronizado; numeração de leis e proposições segue o padrão oficial (por exemplo, Lei nº 14.133, de 1º de abril de 2021;"
+]
+},
+{
+"id": "Q-FIA-0442",
+"g": "E",
+"e": "A fala 'projeto de lei mil duzentos e trinta e quatro de dois mil e vinte e quatro' deve ser mantida por extenso, porque a numeração de proposições nunca é escrita em algarismos.",
+"velho": "Numeração de proposições.",
+"aula": [
+"Cada manual de estilo fixa limiares para uso de algarismos e extenso; a regra deve ser aplicada de modo uniforme e consistente.",
+"Datas e horários seguem formato padronizado; numeração de leis e proposições segue o padrão oficial (por exemplo, Lei nº 14.133, de 1º de abril de 2021;"
+]
+},
+{
+"id": "Q-FIA-0443",
+"g": "C",
+"e": "A normalização por glossário e regras pode ser automatizada, mas casos ambíguos exigem revisão humana.",
+"velho": "Normalização automática.",
+"aula": [
+"Nomes de órgãos, cargos e partidos devem ser conferidos em fonte oficial; a normalização de termos técnicos pode ser automatizada por glossário e regras, mas casos ambíguos exigem revisão humana."
+]
+},
+{
+"id": "Q-FIA-0444",
+"g": "E",
+"e": "A normalização por glossário e regras dispensa a revisão humana, inclusive nos casos ambíguos.",
+"velho": "Normalização automática.",
+"aula": [
+"Nomes de órgãos, cargos e partidos devem ser conferidos em fonte oficial; a normalização de termos técnicos pode ser automatizada por glossário e regras, mas casos ambíguos exigem revisão humana."
+]
+},
+{
+"id": "Q-FIA-0445",
+"g": "C",
+"e": "Alinhamento forçado (forced alignment) ajusta um texto conhecido ao áudio, indicando o início e o fim de cada palavra, o que permite clicar numa palavra e ouvir o trecho correspondente.",
+"velho": "Forced alignment.",
+"aula": [
+"Alinhamento forçado (forced alignment) é o processo de ajustar um texto conhecido ao áudio, indicando o instante inicial e final de cada palavra; permite clicar numa palavra e ouvir o trecho. Marcas de tempo (timestamps) associadas às palavras servem a legendas, buscas e à revisão."
+]
+},
+{
+"id": "Q-FIA-0446",
+"g": "E",
+"e": "Alinhamento forçado (forced alignment) produz o texto a partir do áudio sem que se conheça a transcrição, indicando o falante de cada palavra. Trata-se de prática corrente.",
+"velho": "Forced alignment.",
+"aula": [
+"Alinhamento forçado (forced alignment) é o processo de ajustar um texto conhecido ao áudio, indicando o instante inicial e final de cada palavra; permite clicar numa palavra e ouvir o trecho. Marcas de tempo (timestamps) associadas às palavras servem a legendas, buscas e à revisão.",
+"JSON e XML são usados para guardar palavra, tempo, confiança e falante."
+]
+},
+{
+"id": "Q-FIA-0447",
+"g": "C",
+"e": "SRT e WebVTT são formatos de legenda, e este último é o formato de legendas para a web, com cabeçalho WEBVTT.",
+"velho": "Formatos de legenda.",
+"aula": [
+"Formatos de legenda: SRT (blocos numerados com tempo de início e fim) e WebVTT (formato de legendas para a web, com cabeçalho WEBVTT)."
+]
+},
+{
+"id": "Q-FIA-0448",
+"g": "E",
+"e": "SRT e WebVTT são formatos de criptografia de áudio, usados para proteger o conteúdo das gravações.",
+"velho": "Formatos de legenda.",
+"aula": [
+"Formatos de legenda: SRT (blocos numerados com tempo de início e fim) e WebVTT (formato de legendas para a web, com cabeçalho WEBVTT)."
+]
+},
+{
+"id": "Q-FIA-0449",
+"g": "C",
+"e": "A comparação entre o texto automático e o texto revisado permite auditar as alterações e medir o esforço de revisão.",
+"velho": "Histórico de versões.",
+"aula": [
+"Alinhamento forçado (forced alignment) é o processo de ajustar um texto conhecido ao áudio, indicando o instante inicial e final de cada palavra; permite clicar numa palavra e ouvir o trecho. Marcas de tempo (timestamps) associadas às palavras servem a legendas, buscas e à revisão.",
+"O histórico de versões e a comparação entre texto automático e texto revisado permitem auditar mudanças, medir o esforço de revisão e produzir dados para ajuste do modelo. Atalhos, pedal e controle de velocidade reduzem o tempo de revisão."
+]
+},
+{
+"id": "Q-FIA-0450",
+"g": "E",
+"e": "A comparação entre o texto automático e o texto revisado é desnecessária, porque o histórico de alterações não tem utilidade para auditoria.",
+"velho": "Histórico de versões.",
+"aula": [
+"O histórico de versões e a comparação entre texto automático e texto revisado permitem auditar mudanças, medir o esforço de revisão e produzir dados para ajuste do modelo. Atalhos, pedal e controle de velocidade reduzem o tempo de revisão."
+]
+},
+{
+"id": "Q-FIA-0451",
+"g": "C",
+"e": "Formatos como JSON e XML são usados para guardar, por palavra, o texto, o tempo, a confiança e o falante.",
+"velho": "Formatos de saída.",
+"aula": [
+"Alinhamento forçado (forced alignment) é o processo de ajustar um texto conhecido ao áudio, indicando o instante inicial e final de cada palavra; permite clicar numa palavra e ouvir o trecho. Marcas de tempo (timestamps) associadas às palavras servem a legendas, buscas e à revisão.",
+"JSON e XML são usados para guardar palavra, tempo, confiança e falante."
+]
+},
+{
+"id": "Q-FIA-0452",
+"g": "E",
+"e": "Formatos como JSON e XML não permitem guardar tempo, confiança ou falante, sendo restritos ao texto sem metadados.",
+"velho": "Formatos de saída.",
+"aula": [
+"JSON e XML são usados para guardar palavra, tempo, confiança e falante.",
+"O histórico de versões e a comparação entre texto automático e texto revisado permitem auditar mudanças, medir o esforço de revisão e produzir dados para ajuste do modelo. Atalhos, pedal e controle de velocidade reduzem o tempo de revisão."
+]
+},
+{
+"id": "Q-FIA-0453",
+"g": "C",
+"e": "Atalhos de teclado, pedal de controle e ajuste da velocidade de reprodução reduzem o tempo de revisão da transcrição.",
+"velho": "Recursos do editor.",
+"aula": [
+"Alinhamento forçado (forced alignment) é o processo de ajustar um texto conhecido ao áudio, indicando o instante inicial e final de cada palavra; permite clicar numa palavra e ouvir o trecho. Marcas de tempo (timestamps) associadas às palavras servem a legendas, buscas e à revisão.",
+"O histórico de versões e a comparação entre texto automático e texto revisado permitem auditar mudanças, medir o esforço de revisão e produzir dados para ajuste do modelo. Atalhos, pedal e controle de velocidade reduzem o tempo de revisão."
+]
+},
+{
+"id": "Q-FIA-0454",
+"g": "E",
+"e": "Atalhos de teclado, pedal de controle e ajuste da velocidade de reprodução aumentam necessariamente o tempo de revisão da transcrição.",
+"velho": "Recursos do editor.",
+"aula": [
+"Alinhamento forçado (forced alignment) é o processo de ajustar um texto conhecido ao áudio, indicando o instante inicial e final de cada palavra; permite clicar numa palavra e ouvir o trecho. Marcas de tempo (timestamps) associadas às palavras servem a legendas, buscas e à revisão.",
+"O histórico de versões e a comparação entre texto automático e texto revisado permitem auditar mudanças, medir o esforço de revisão e produzir dados para ajuste do modelo. Atalhos, pedal e controle de velocidade reduzem o tempo de revisão."
+]
+},
+{
+"id": "Q-FIA-0455",
+"g": "C",
+"e": "O WER é calculado pela soma de substituições, deleções e inserções dividida pelo número de palavras da referência, e pode ultrapassar 100%.",
+"velho": "WER.",
+"aula": [
+"WER = (S + D + I) / N, em que S é o número de substituições, D de remoções (deleções), I de inserções e N o de palavras da referência.",
+"O WER pode ultrapassar 100% quando há muitas inserções."
+]
+},
+{
+"id": "Q-FIA-0456",
+"g": "E",
+"e": "O WER é calculado pela soma de substituições, deleções e inserções dividida pelo número de palavras da hipótese, e nunca ultrapassa 100%.",
+"velho": "WER.",
+"aula": [
+"WER = (S + D + I) / N, em que S é o número de substituições, D de remoções (deleções), I de inserções e N o de palavras da referência."
+]
+},
+{
+"id": "Q-FIA-0457",
+"g": "C",
+"e": "O WER trata todos os erros como equivalentes, embora trocar 'não' por 'sim' seja muito mais grave do que trocar um artigo.",
+"velho": "Limitação do WER.",
+"aula": [
+"O WER trata todos os erros como iguais, embora trocar 'não' por 'sim' seja muito mais grave que trocar um artigo, e não mede a legibilidade do texto formatado."
+]
+},
+{
+"id": "Q-FIA-0458",
+"g": "E",
+"e": "O WER atribui pesos maiores aos erros que alteram o sentido, como trocar 'não' por 'sim', e menores aos demais.",
+"velho": "Limitação do WER.",
+"aula": [
+"O WER trata todos os erros como iguais, embora trocar 'não' por 'sim' seja muito mais grave que trocar um artigo, e não mede a legibilidade do texto formatado."
+]
+},
+{
+"id": "Q-FIA-0459",
+"g": "C",
+"e": "O coeficiente kappa de Cohen mede a concordância entre dois avaliadores descontando a concordância esperada ao acaso.",
+"velho": "Kappa.",
+"aula": [
+"O coeficiente kappa de Cohen mede concordância entre dois avaliadores descontada a concordância esperada ao acaso."
+]
+},
+{
+"id": "Q-FIA-0460",
+"g": "E",
+"e": "O coeficiente kappa de Cohen mede a taxa de erro de palavras de um sistema de ASR em relação à referência.",
+"velho": "Kappa.",
+"aula": [
+"CER é a taxa de erro de caracteres, útil para línguas sem separação de palavras e para nomes.",
+"O coeficiente kappa de Cohen mede concordância entre dois avaliadores descontada a concordância esperada ao acaso."
+]
+},
+{
+"id": "Q-FIA-0461",
+"g": "C",
+"e": "A amostragem dirigida por risco prioriza trechos de baixa confiança, áudios ruins ou falas de maior relevância, ao passo que a amostra aleatória permite estimar a taxa de erro do lote com margem calculável.",
+"velho": "Amostragem.",
+"aula": [
+"Classificação de erros por gravidade (crítico, maior, menor) permite definir limites de aceitação, como zero erro crítico.",
+"Amostragem estatística: auditoria de amostra aleatória estima a taxa de erro do lote com margem calculável; amostragem dirigida por risco prioriza trechos de baixa confiança, falas de maior relevância ou áudios ruins."
+]
+},
+{
+"id": "Q-FIA-0462",
+"g": "E",
+"e": "A amostragem dirigida por risco é a única que permite estimar a taxa de erro do lote com margem calculável, e a amostra aleatória é inadequada para isso. Trata-se de prática corrente.",
+"velho": "Amostragem.",
+"aula": [
+"CER é a taxa de erro de caracteres, útil para línguas sem separação de palavras e para nomes.",
+"Amostragem estatística: auditoria de amostra aleatória estima a taxa de erro do lote com margem calculável; amostragem dirigida por risco prioriza trechos de baixa confiança, falas de maior relevância ou áudios ruins."
+]
+},
+{
+"id": "Q-FIA-0463",
+"g": "C",
+"e": "A classificação de erros por gravidade (crítico, maior, menor) permite definir limites de aceitação, como a tolerância de zero erro crítico.",
+"velho": "Gravidade dos erros.",
+"aula": [
+"Classificação de erros por gravidade (crítico, maior, menor) permite definir limites de aceitação, como zero erro crítico.",
+"Amostragem estatística: auditoria de amostra aleatória estima a taxa de erro do lote com margem calculável; amostragem dirigida por risco prioriza trechos de baixa confiança, falas de maior relevância ou áudios ruins."
+]
+},
+{
+"id": "Q-FIA-0464",
+"g": "E",
+"e": "A classificação de erros por gravidade é inútil para controle de qualidade, pois todos os erros devem ser tratados com o mesmo peso.",
+"velho": "Gravidade dos erros.",
+"aula": [
+"Classificação de erros por gravidade (crítico, maior, menor) permite definir limites de aceitação, como zero erro crítico."
+]
+},
+{
+"id": "Q-FIA-0465",
+"g": "C",
+"e": "Contextual biasing eleva a probabilidade de palavras específicas, como nomes de parlamentares e proposições da pauta, sem necessidade de retreinar o modelo.",
+"velho": "Contextual biasing.",
+"aula": [
+"Contextual biasing eleva a probabilidade de palavras específicas (nomes dos parlamentares e das proposições da pauta do dia) sem retreinar o modelo."
+]
+},
+{
+"id": "Q-FIA-0466",
+"g": "E",
+"e": "Contextual biasing exige sempre o retreinamento completo do modelo acústico com milhares de horas de áudio do domínio. Trata-se de prática corrente.",
+"velho": "Contextual biasing.",
+"aula": [
+"Contextual biasing eleva a probabilidade de palavras específicas (nomes dos parlamentares e das proposições da pauta do dia) sem retreinar o modelo.",
+"Ajuste fino com áudio do domínio pode reduzir muito o erro, mas traz risco de esquecimento catastrófico (perda de desempenho em outros cenários) e de sobreajuste (overfitting) a poucos falantes."
+]
+},
+{
+"id": "Q-FIA-0467",
+"g": "C",
+"e": "Na shallow fusion, soma-se, durante a decodificação, a pontuação de um modelo de linguagem externo à do ASR end-to-end.",
+"velho": "Shallow fusion.",
+"aula": [
+"Shallow fusion soma, no momento da decodificação, a pontuação de um modelo de linguagem externo à do ASR end-to-end; o rescoring reavalia as hipóteses com um modelo de linguagem mais forte, como um LLM."
+]
+},
+{
+"id": "Q-FIA-0468",
+"g": "E",
+"e": "Na shallow fusion, substitui-se o modelo de linguagem do ASR por um classificador de falantes, durante a decodificação.",
+"velho": "Shallow fusion.",
+"aula": [
+"Shallow fusion soma, no momento da decodificação, a pontuação de um modelo de linguagem externo à do ASR end-to-end; o rescoring reavalia as hipóteses com um modelo de linguagem mais forte, como um LLM."
+]
+},
+{
+"id": "Q-FIA-0469",
+"g": "C",
+"e": "O ajuste fino com áudio do domínio pode reduzir muito o erro, mas traz risco de esquecimento catastrófico e de sobreajuste a poucos falantes.",
+"velho": "Fine-tuning.",
+"aula": [
+"Ajuste fino com áudio do domínio pode reduzir muito o erro, mas traz risco de esquecimento catastrófico (perda de desempenho em outros cenários) e de sobreajuste (overfitting) a poucos falantes."
+]
+},
+{
+"id": "Q-FIA-0470",
+"g": "E",
+"e": "O ajuste fino com áudio do domínio não traz risco de esquecimento catastrófico nem de sobreajuste, qualquer que seja a quantidade de falantes.",
+"velho": "Fine-tuning.",
+"aula": [
+"Ajuste fino com áudio do domínio pode reduzir muito o erro, mas traz risco de esquecimento catastrófico (perda de desempenho em outros cenários) e de sobreajuste (overfitting) a poucos falantes."
+]
+},
+{
+"id": "Q-FIA-0471",
+"g": "C",
+"e": "Adaptadores e LoRA são métodos eficientes em parâmetros que reduzem o custo do ajuste fino de modelos grandes.",
+"velho": "LoRA.",
+"aula": [
+"Ajuste fino com áudio do domínio pode reduzir muito o erro, mas traz risco de esquecimento catastrófico (perda de desempenho em outros cenários) e de sobreajuste (overfitting) a poucos falantes.",
+"Métodos eficientes em parâmetros, como adaptadores e LoRA, reduzem o custo do ajuste."
+]
+},
+{
+"id": "Q-FIA-0472",
+"g": "E",
+"e": "Adaptadores e LoRA são métodos de criptografia dos pesos do modelo, e aumentam o custo do ajuste fino.",
+"velho": "LoRA.",
+"aula": [
+"Ajuste fino com áudio do domínio pode reduzir muito o erro, mas traz risco de esquecimento catastrófico (perda de desempenho em outros cenários) e de sobreajuste (overfitting) a poucos falantes.",
+"Métodos eficientes em parâmetros, como adaptadores e LoRA, reduzem o custo do ajuste."
+]
+},
+{
+"id": "Q-FIA-0473",
+"g": "C",
+"e": "Áudios de sessões usados para treino contêm dados pessoais e exigem base legal e controles, além de separação entre dados de treino, validação e teste.",
+"velho": "Dados de treino.",
+"aula": [
+"Dados de treinamento extraídos de sessões contêm dados pessoais e devem ter base legal e controles; a separação entre dados de treino, validação e teste evita avaliação enviesada."
+]
+},
+{
+"id": "Q-FIA-0474",
+"g": "E",
+"e": "Áudios de sessões usados para treino não contêm dados pessoais, e podem ser misturados livremente entre treino, validação e teste. Trata-se de prática corrente.",
+"velho": "Dados de treino.",
+"aula": [
+"Dados de treinamento extraídos de sessões contêm dados pessoais e devem ter base legal e controles; a separação entre dados de treino, validação e teste evita avaliação enviesada."
+]
+},
+{
+"id": "Q-FIA-0475",
+"g": "C",
+"e": "Microfones individuais com captação em canais separados facilitam a diarização e o controle de qualidade em sessões de plenário.",
+"velho": "Canais por microfone.",
+"aula": [
+"Mesa de som e microfones individuais permitem capturar cada falante em canal próprio, o que facilita a diarização e o controle de qualidade.",
+"Beamforming com arranjos de microfones focaliza a captação na direção de quem fala."
+]
+},
+{
+"id": "Q-FIA-0476",
+"g": "E",
+"e": "Microfones individuais com captação em canais separados dificultam a diarização, pois impedem a separação dos falantes.",
+"velho": "Canais por microfone.",
+"aula": [
+"Mesa de som e microfones individuais permitem capturar cada falante em canal próprio, o que facilita a diarização e o controle de qualidade.",
+"Beamforming com arranjos de microfones focaliza a captação na direção de quem fala."
+]
+},
+{
+"id": "Q-FIA-0477",
+"g": "C",
+"e": "O beamforming com arranjos de microfones focaliza a captação na direção de quem fala.",
+"velho": "Beamforming.",
+"aula": [
+"Beamforming com arranjos de microfones focaliza a captação na direção de quem fala."
+]
+},
+{
+"id": "Q-FIA-0478",
+"g": "E",
+"e": "O beamforming com arranjos de microfones é técnica de pontuação automática aplicada ao texto transcrito.",
+"velho": "Beamforming.",
+"aula": [
+"Beamforming com arranjos de microfones focaliza a captação na direção de quem fala."
+]
+},
+{
+"id": "Q-FIA-0479",
+"g": "C",
+"e": "O cancelamento de ruído e de eco melhora a inteligibilidade para humanos, mas pode distorcer o sinal e prejudicar o desempenho do ASR.",
+"velho": "Pré-processamento.",
+"aula": [
+"Cancelamento de eco e de ruído melhora a inteligibilidade, mas pode distorcer o sinal e prejudicar o ASR."
+]
+},
+{
+"id": "Q-FIA-0480",
+"g": "E",
+"e": "O cancelamento de ruído e de eco sempre melhora o desempenho do ASR, pois não distorce o sinal. Isso é consenso na área.",
+"velho": "Pré-processamento.",
+"aula": [
+"Cancelamento de eco e de ruído melhora a inteligibilidade, mas pode distorcer o sinal e prejudicar o ASR."
+]
+},
+{
+"id": "Q-FIA-0481",
+"g": "C",
+"e": "Numa audiência pública com convidado remoto, a qualidade do áudio depende da conexão e do codec de videoconferência, e há risco de perdas e cortes que afetam a transcrição.",
+"velho": "Convidado remoto.",
+"aula": [
+"Intervenções fora do microfone (apartes e comentários) são normalmente captadas em baixa qualidade e podem ser inaudíveis; sua transcrição deve seguir regra do órgão.",
+"Em audiências públicas com convidados remotos, a qualidade depende da conexão e do codec de videoconferência, e há risco de áudios com perdas e cortes."
+]
+},
+{
+"id": "Q-FIA-0482",
+"g": "E",
+"e": "Numa audiência pública com convidado remoto, a qualidade do áudio independe da conexão e do codec, não havendo risco para a transcrição. Trata-se de prática corrente.",
+"velho": "Convidado remoto.",
+"aula": [
+"Intervenções fora do microfone (apartes e comentários) são normalmente captadas em baixa qualidade e podem ser inaudíveis; sua transcrição deve seguir regra do órgão.",
+"Em audiências públicas com convidados remotos, a qualidade depende da conexão e do codec de videoconferência, e há risco de áudios com perdas e cortes."
+]
+},
+{
+"id": "Q-FIA-0483",
+"g": "C",
+"e": "A pauta, a lista de presença e a lista de oradores são insumos úteis para identificar falantes e confirmar nomes e vocabulário.",
+"velho": "Insumos de contexto.",
+"aula": [
+"A pauta, a lista de presença e a lista de oradores inscritos são insumos para identificar falantes, adaptar vocabulário e confirmar nomes. O áudio e o vídeo devem ser sincronizados com o texto para consulta posterior."
+]
+},
+{
+"id": "Q-FIA-0484",
+"g": "E",
+"e": "A pauta, a lista de presença e a lista de oradores são inúteis para a transcrição, pois o ASR identifica sozinho todos os nomes.",
+"velho": "Insumos de contexto.",
+"aula": [
+"A pauta, a lista de presença e a lista de oradores inscritos são insumos para identificar falantes, adaptar vocabulário e confirmar nomes. O áudio e o vídeo devem ser sincronizados com o texto para consulta posterior."
+]
+},
+{
+"id": "Q-FIA-0485",
+"g": "C",
+"e": "O ROUGE mede a sobreposição de n-gramas entre o resumo gerado e o de referência, com foco em revocação, mas não mede com segurança a fidelidade factual.",
+"velho": "ROUGE.",
+"aula": [
+"ROUGE mede a sobreposição de n-gramas entre o resumo gerado e um resumo de referência (foco em revocação);",
+"Nenhuma das duas mede, de forma confiável, a fidelidade factual; é necessário avaliar consistência factual (faithfulness) e cobertura, de preferência com revisão humana."
+]
+},
+{
+"id": "Q-FIA-0486",
+"g": "E",
+"e": "O ROUGE mede com segurança a fidelidade factual do resumo, pois verifica se cada afirmação é sustentada pela fonte. Trata-se de prática corrente.",
+"velho": "ROUGE.",
+"aula": [
+"ROUGE mede a sobreposição de n-gramas entre o resumo gerado e um resumo de referência (foco em revocação);",
+"Nenhuma das duas mede, de forma confiável, a fidelidade factual; é necessário avaliar consistência factual (faithfulness) e cobertura, de preferência com revisão humana."
+]
+},
+{
+"id": "Q-FIA-0487",
+"g": "C",
+"e": "Para textos que excedem a janela de contexto, pode-se resumir por partes e depois resumir os resumos, com o risco de perder detalhes e acumular erros.",
+"velho": "Map-reduce.",
+"aula": [
+"Textos longos excedem a janela de contexto dos modelos: estratégias incluem dividir em partes (chunking), resumir cada parte e depois resumir os resumos (map-reduce ou resumo hierárquico), com o risco de perder detalhes e de acumular erros."
+]
+},
+{
+"id": "Q-FIA-0488",
+"g": "E",
+"e": "Para textos que excedem a janela de contexto, resumir por partes e depois resumir os resumos elimina o risco de perda de detalhes. Isso é consenso na área.",
+"velho": "Map-reduce.",
+"aula": [
+"Textos longos excedem a janela de contexto dos modelos: estratégias incluem dividir em partes (chunking), resumir cada parte e depois resumir os resumos (map-reduce ou resumo hierárquico), com o risco de perder detalhes e de acumular erros."
+]
+},
+{
+"id": "Q-FIA-0489",
+"g": "C",
+"e": "TextRank e LexRank são algoritmos extrativos baseados em grafos de similaridade entre sentenças.",
+"velho": "TextRank.",
+"aula": [
+"Resumos devem informar a origem (trecho da transcrição e minutagem), para permitir conferência. TextRank e LexRank são algoritmos extrativos baseados em grafos de similaridade entre sentenças."
+]
+},
+{
+"id": "Q-FIA-0490",
+"g": "E",
+"e": "TextRank e LexRank são algoritmos abstrativos que geram frases novas por meio de modelos de linguagem.",
+"velho": "TextRank.",
+"aula": [
+"Resumos devem informar a origem (trecho da transcrição e minutagem), para permitir conferência. TextRank e LexRank são algoritmos extrativos baseados em grafos de similaridade entre sentenças."
+]
+},
+{
+"id": "Q-FIA-0491",
+"g": "C",
+"e": "Extrair entidades e decisões antes do resumo ajuda a garantir que nomes, números e votos sejam preservados.",
+"velho": "NER antes do resumo.",
+"aula": [
+"Extração de entidades (NER) e de decisões pode ser feita antes do resumo para garantir que nomes, números e votos sejam preservados."
+]
+},
+{
+"id": "Q-FIA-0492",
+"g": "E",
+"e": "Extrair entidades e decisões antes do resumo é contraproducente, pois garante a perda de nomes, números e votos.",
+"velho": "NER antes do resumo.",
+"aula": [
+"Extração de entidades (NER) e de decisões pode ser feita antes do resumo para garantir que nomes, números e votos sejam preservados."
+]
+},
+{
+"id": "Q-FIA-0493",
+"g": "C",
+"e": "Resumos oficiais devem indicar a origem das informações, por exemplo com trecho da transcrição e minutagem, para permitir conferência.",
+"velho": "Rastreabilidade.",
+"aula": [
+"Resumos devem informar a origem (trecho da transcrição e minutagem), para permitir conferência. TextRank e LexRank são algoritmos extrativos baseados em grafos de similaridade entre sentenças."
+]
+}
+]

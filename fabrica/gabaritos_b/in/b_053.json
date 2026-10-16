@@ -1,0 +1,692 @@
+[
+{
+"id": "Q-TI-0109",
+"g": "C",
+"e": "O SSH permite acesso remoto cifrado a outro computador, ao passo que o Telnet, que também permite acesso remoto, trafega as informações, inclusive senhas, em texto claro.",
+"velho": "SSH x Telnet.",
+"aula": [
+"Telnet 23 trafega em texto claro.",
+"FTP trafega em texto claro."
+]
+},
+{
+"id": "Q-TI-0110",
+"g": "E",
+"e": "O SSH e o Telnet permitem acesso remoto a outro computador e ambos cifram as informações trafegadas, inclusive senhas, razão pela qual são equivalentes quanto à segurança.",
+"velho": "SSH x Telnet.",
+"aula": [
+"SSH 22 (acesso remoto seguro);"
+]
+},
+{
+"id": "Q-TI-0111",
+"g": "C",
+"e": "No correio eletrônico, os destinatários inseridos no campo Cco (cópia oculta) recebem a mensagem sem que os demais destinatários vejam seus endereços, ao passo que os endereços do campo Cc (cópia) são visíveis a todos.",
+"velho": "Cc x Cco.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Cco (cópia oculta; os demais destinatários não veem os endereços em Cco)."
+]
+},
+{
+"id": "Q-TI-0112",
+"g": "E",
+"e": "No correio eletrônico, os destinatários inseridos no campo Cc (cópia) recebem a mensagem sem que os demais destinatários vejam seus endereços, ao passo que os endereços do campo Cco (cópia oculta) são visíveis a todos.",
+"velho": "Cc x Cco.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Cco (cópia oculta; os demais destinatários não veem os endereços em Cco)."
+]
+},
+{
+"id": "Q-TI-0113",
+"g": "C",
+"e": "Um servidor envia mensagem com A e B no campo Para, C no campo Cc e D no campo Cco. Quando A usar Responder a todos, a resposta alcançará o remetente, B e C, mas não D, cuja presença A desconhece.",
+"velho": "Responder a todos não alcança quem está em Cco.",
+"aula": [
+"Responder responde ao remetente;",
+"Responder a todos alcança remetente e todos os destinatários dos campos Para e Cc (não os de Cco, que só o remetente conhece);"
+]
+},
+{
+"id": "Q-TI-0114",
+"g": "E",
+"e": "Um servidor envia mensagem com A e B no campo Para, C no campo Cc e D no campo Cco. Quando A usar Responder a todos, a resposta alcançará o remetente, B, C e D, pois todos os destinatários são incluídos.",
+"velho": "Responder a todos não alcança quem está em Cco.",
+"aula": [
+"Responder responde ao remetente;",
+"Responder a todos alcança remetente e todos os destinatários dos campos Para e Cc (não os de Cco, que só o remetente conhece);"
+]
+},
+{
+"id": "Q-TI-0115",
+"g": "C",
+"e": "No correio eletrônico, a opção Responder envia a resposta apenas ao remetente da mensagem, ao passo que a opção Encaminhar permite enviar a mensagem recebida a terceiros.",
+"velho": "Responder x Encaminhar.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Encaminhar envia a mensagem a terceiros."
+]
+},
+{
+"id": "Q-TI-0116",
+"g": "E",
+"e": "No correio eletrônico, a opção Encaminhar envia a resposta apenas ao remetente da mensagem, ao passo que a opção Responder permite enviar a mensagem recebida a terceiros.",
+"velho": "Responder x Encaminhar.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Encaminhar envia a mensagem a terceiros."
+]
+},
+{
+"id": "Q-TI-0117",
+"g": "C",
+"e": "O webmail é acessado por meio do navegador, dispensando a instalação de programa específico, ao passo que o cliente de e-mail é um programa instalado no computador ou no dispositivo que se conecta ao servidor de correio.",
+"velho": "Webmail x cliente de e-mail.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda."
+]
+},
+{
+"id": "Q-TI-0118",
+"g": "E",
+"e": "O webmail exige um programa específico instalado no computador, ao passo que o cliente de e-mail é acessado exclusivamente pelo navegador, dispensando instalação. Isso é consenso na área.",
+"velho": "Webmail x cliente de e-mail.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda."
+]
+},
+{
+"id": "Q-TI-0119",
+"g": "C",
+"e": "No envio de mensagens de correio eletrônico utiliza-se o protocolo SMTP; para o recebimento, os protocolos mais comuns são POP3 e IMAP.",
+"velho": "Protocolos de e-mail.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Envio usa SMTP; recebimento usa POP3 ou IMAP."
+]
+},
+{
+"id": "Q-TI-0120",
+"g": "E",
+"e": "No envio de mensagens de correio eletrônico utilizam-se os protocolos POP3 e IMAP; para o recebimento, o protocolo mais comum é o SMTP.",
+"velho": "Protocolos de e-mail.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Envio usa SMTP; recebimento usa POP3 ou IMAP."
+]
+},
+{
+"id": "Q-TI-0121",
+"g": "C",
+"e": "Os serviços de correio impõem limite ao tamanho dos anexos; por isso, arquivos muito grandes costumam ser compartilhados por meio de link para armazenamento em nuvem, em vez de anexados à mensagem.",
+"velho": "Anexos.",
+"aula": [
+"Anexos têm limite de tamanho do servidor (em regra, dezenas de megabytes); arquivos grandes são enviados por link na nuvem.",
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…"
+]
+},
+{
+"id": "Q-TI-0122",
+"g": "E",
+"e": "Os serviços de correio não impõem limite ao tamanho dos anexos; por isso, arquivos de qualquer tamanho podem ser anexados à mensagem, sendo desnecessário o uso de armazenamento em nuvem. Isso é consenso na área.",
+"velho": "Anexos.",
+"aula": [
+"Anexos têm limite de tamanho do servidor (em regra, dezenas de megabytes); arquivos grandes são enviados por link na nuvem."
+]
+},
+{
+"id": "Q-TI-0123",
+"g": "C",
+"e": "Um servidor que ficará de férias pode configurar, no correio eletrônico, uma resposta automática (fora do escritório) para informar a quem lhe escreve sobre a ausência, sem precisar responder a cada mensagem.",
+"velho": "Resposta automática.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Regras e filtros organizam mensagens automaticamente; resposta automática (fora do escritório) é configurável; assinatura é bloco de texto adicionado ao final."
+]
+},
+{
+"id": "Q-TI-0124",
+"g": "E",
+"e": "Um servidor que ficará de férias não pode configurar resposta automática no correio eletrônico, pois esse recurso exige que cada mensagem recebida seja respondida manualmente pelo usuário. Trata-se de prática corrente.",
+"velho": "Resposta automática.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Regras e filtros organizam mensagens automaticamente; resposta automática (fora do escritório) é configurável; assinatura é bloco de texto adicionado ao final."
+]
+},
+{
+"id": "Q-TI-0125",
+"g": "C",
+"e": "No Microsoft Teams, as equipes são organizadas em canais, nos quais são mantidas conversas e arquivos de um assunto ou projeto, e os usuários podem ainda trocar mensagens em chats individuais ou em grupo.",
+"velho": "Teams: equipes e canais.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"No Teams, canais privados restringem o acesso aos membros do canal, e o status de presença (disponível, ocupado, ausente) informa a disponibilidade."
+]
+},
+{
+"id": "Q-TI-0126",
+"g": "E",
+"e": "No Microsoft Teams, as equipes são organizadas apenas em chats individuais, pois o programa não admite canais nem conversas em grupo, e serve exclusivamente para reuniões por vídeo. Isso é consenso na área.",
+"velho": "Teams: equipes e canais.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"No Teams, canais privados restringem o acesso aos membros do canal, e o status de presença (disponível, ocupado, ausente) informa a disponibilidade."
+]
+},
+{
+"id": "Q-TI-0127",
+"g": "C",
+"e": "No Microsoft Teams, os arquivos postados em um canal de equipe ficam armazenados no SharePoint associado à equipe, ao passo que os arquivos compartilhados em chats ficam armazenados no OneDrive de quem os enviou.",
+"velho": "Teams: onde ficam os arquivos.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"No Teams, canais privados restringem o acesso aos membros do canal, e o status de presença (disponível, ocupado, ausente) informa a disponibilidade."
+]
+},
+{
+"id": "Q-TI-0128",
+"g": "E",
+"e": "No Microsoft Teams, os arquivos postados em um canal de equipe ficam armazenados no OneDrive de quem os enviou, ao passo que os arquivos compartilhados em chats ficam armazenados no SharePoint associado à equipe.",
+"velho": "Teams: onde ficam os arquivos.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"No Teams, canais privados restringem o acesso aos membros do canal, e o status de presença (disponível, ocupado, ausente) informa a disponibilidade."
+]
+},
+{
+"id": "Q-TI-0129",
+"g": "C",
+"e": "Nas reuniões do Microsoft Teams, a sala de espera (lobby) permite controlar a admissão de participantes, e recursos como compartilhamento de tela, gravação e transcrição podem ser utilizados conforme as permissões e as políticas da organização.",
+"velho": "Teams: reuniões.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda."
+]
+},
+{
+"id": "Q-TI-0130",
+"g": "E",
+"e": "Nas reuniões do Microsoft Teams, a sala de espera (lobby) é recurso obrigatório que impede o compartilhamento de tela, e a gravação e a transcrição não podem ser utilizadas em nenhuma hipótese. Isso é consenso na área.",
+"velho": "Teams: reuniões.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda."
+]
+},
+{
+"id": "Q-TI-0131",
+"g": "C",
+"e": "Ao compartilhar a tela em uma videoconferência, o servidor deve fechar previamente documentos, abas e notificações com informações sigilosas, pois tudo o que estiver visível na tela compartilhada será exibido aos participantes.",
+"velho": "Cuidados ao compartilhar tela.",
+"aula": [
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda.",
+"Etiqueta digital: manter microfone desligado quando não falar, câmera conforme a pauta, atenção ao compartilhar tela (fechar abas e documentos sigilosos) e consentimento para gravação."
+]
+},
+{
+"id": "Q-TI-0132",
+"g": "E",
+"e": "Ao compartilhar a tela em uma videoconferência, o servidor não precisa se preocupar com documentos, abas e notificações abertos, pois apenas a janela que ele selecionar será sempre exibida, mesmo que se escolha compartilhar a tela inteira.",
+"velho": "Cuidados ao compartilhar tela.",
+"aula": [
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda.",
+"Etiqueta digital: manter microfone desligado quando não falar, câmera conforme a pauta, atenção ao compartilhar tela (fechar abas e documentos sigilosos) e consentimento para gravação."
+]
+},
+{
+"id": "Q-TI-0133",
+"g": "C",
+"e": "O Google Meet é um serviço de videoconferência do Google, acessível por navegador ou aplicativo, cuja reunião pode ser acessada por meio de um link e integrada ao Google Agenda.",
+"velho": "Google Meet.",
+"aula": [
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda.",
+"No Google Meet, legendas automáticas e compartilhamento de tela estão disponíveis conforme a edição e a política do administrador."
+]
+},
+{
+"id": "Q-TI-0134",
+"g": "E",
+"e": "O Google Meet é um serviço de armazenamento em nuvem do Google, voltado a guardar arquivos e sincronizá-los entre dispositivos, sem recursos de videoconferência. Isso é consenso na área.",
+"velho": "Google Meet.",
+"aula": [
+"Anexos têm limite de tamanho do servidor (em regra, dezenas de megabytes); arquivos grandes são enviados por link na nuvem.",
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda."
+]
+},
+{
+"id": "Q-TI-0135",
+"g": "C",
+"e": "A qualidade de uma videoconferência depende, entre outros fatores, da largura de banda e da latência da conexão; a baixa qualidade da rede pode causar travamentos, atrasos e perda de nitidez de áudio e vídeo.",
+"velho": "Videoconferência e rede.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"Ambos os serviços exigem boa conexão; a qualidade depende da largura de banda e da latência."
+]
+},
+{
+"id": "Q-TI-0136",
+"g": "E",
+"e": "A qualidade de uma videoconferência independe da largura de banda e da latência da conexão, razão pela qual a baixa qualidade da rede nunca interfere em áudio e vídeo. Trata-se de prática corrente.",
+"velho": "Videoconferência e rede.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"Ambos os serviços exigem boa conexão; a qualidade depende da largura de banda e da latência."
+]
+},
+{
+"id": "Q-TI-0137",
+"g": "C",
+"e": "O Microsoft Teams integra-se ao Microsoft 365, ao passo que o Google Meet integra-se ao Google Workspace; ambos podem ser usados para reuniões on-line.",
+"velho": "Ecossistemas.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda."
+]
+},
+{
+"id": "Q-TI-0138",
+"g": "E",
+"e": "O Microsoft Teams integra-se ao Google Workspace, ao passo que o Google Meet integra-se ao Microsoft 365; ambos são exclusivos para troca de mensagens de texto.",
+"velho": "Ecossistemas.",
+"aula": [
+"Regras e filtros organizam mensagens automaticamente; resposta automática (fora do escritório) é configurável; assinatura é bloco de texto adicionado ao final.",
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda."
+]
+},
+{
+"id": "Q-TI-0139",
+"g": "C",
+"e": "Um organizador agenda uma reunião pelo Teams e convida participantes externos à organização. A entrada dos convidados externos pode ocorrer como visitantes, conforme a política definida pela organização.",
+"velho": "Visitantes em reuniões do Teams.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"Reuniões podem ser agendadas pelo calendário, com link; convidados externos entram como visitantes conforme a política da organização."
+]
+},
+{
+"id": "Q-TI-0140",
+"g": "E",
+"e": "Um organizador agenda uma reunião pelo Teams e convida participantes externos à organização. Os convidados externos jamais poderão entrar, pois o Teams só admite participantes da própria organização.",
+"velho": "Visitantes em reuniões do Teams.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"Reuniões podem ser agendadas pelo calendário, com link; convidados externos entram como visitantes conforme a política da organização."
+]
+},
+{
+"id": "Q-TI-0141",
+"g": "C",
+"e": "O spam consiste em mensagens não solicitadas, em geral enviadas em massa, e muitas mensagens de phishing chegam por correio eletrônico, razão pela qual links e anexos de remetentes desconhecidos exigem cautela.",
+"velho": "Spam e phishing.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Spam é mensagem não solicitada; phishing costuma chegar por e-mail."
+]
+},
+{
+"id": "Q-TI-0142",
+"g": "E",
+"e": "O spam consiste em mensagens solicitadas pelo destinatário, enviadas de modo individual, e as mensagens de phishing nunca chegam por correio eletrônico, razão pela qual links e anexos dispensam cautela.",
+"velho": "Spam e phishing.",
+"aula": [
+"Correio eletrônico: o cliente de e-mail (Outlook, Thunderbird) é um programa instalado que se conecta ao servidor; o webmail é acessado pelo navegador (Outlook na web, Gmail).",
+"Spam é mensagem não solicitada; phishing costuma chegar por e-mail."
+]
+},
+{
+"id": "Q-TI-0143",
+"g": "C",
+"e": "Confidencialidade é o princípio que garante que a informação seja acessada apenas por quem está autorizado, ao passo que integridade é o princípio que garante que a informação não seja alterada de modo indevido.",
+"velho": "CIA.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0144",
+"g": "E",
+"e": "Confidencialidade é o princípio que garante que a informação não seja alterada de modo indevido, ao passo que integridade é o princípio que garante que a informação seja acessada apenas por quem está autorizado.",
+"velho": "CIA.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0145",
+"g": "C",
+"e": "Disponibilidade é o princípio que assegura o acesso à informação e aos recursos pelos usuários autorizados sempre que necessário, e um ataque de negação de serviço visa comprometer esse princípio.",
+"velho": "Disponibilidade e DoS.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…"
+]
+},
+{
+"id": "Q-TI-0146",
+"g": "E",
+"e": "Disponibilidade é o princípio que assegura que a informação seja acessada apenas por usuários autorizados, e um ataque de negação de serviço visa comprometer o princípio da confidencialidade.",
+"velho": "Disponibilidade e DoS.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…"
+]
+},
+{
+"id": "Q-TI-0147",
+"g": "C",
+"e": "Autenticidade garante que a origem e a autoria da informação são verdadeiras, e o não repúdio impede que o autor de uma ação ou documento negue posteriormente sua autoria.",
+"velho": "Autenticidade e não repúdio.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0148",
+"g": "E",
+"e": "Autenticidade garante que a informação esteja disponível sempre que necessário, e o não repúdio impede que a informação seja acessada por quem não esteja autorizado.",
+"velho": "Autenticidade e não repúdio.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0149",
+"g": "C",
+"e": "A autenticação confirma a identidade do usuário, a autorização define o que o usuário autenticado pode fazer, e a auditoria registra as ações realizadas.",
+"velho": "AAA.",
+"aula": [
+"Autenticação confirma quem é o usuário; autorização define o que ele pode fazer; auditoria registra o que fez.",
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…"
+]
+},
+{
+"id": "Q-TI-0150",
+"g": "E",
+"e": "A autorização confirma a identidade do usuário, a autenticação define o que o usuário pode fazer depois de identificado, e a auditoria impede que ações indevidas sejam executadas.",
+"velho": "AAA.",
+"aula": [
+"Autenticação confirma quem é o usuário; autorização define o que ele pode fazer; auditoria registra o que fez.",
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…"
+]
+},
+{
+"id": "Q-TI-0151",
+"g": "C",
+"e": "Um sistema que exige senha e, em seguida, um código enviado ao celular do usuário adota autenticação em dois fatores, pois combina algo que o usuário sabe com algo que ele possui.",
+"velho": "Dois fatores devem ser de categorias diferentes.",
+"aula": [
+"Fatores de autenticação: o que se sabe (senha), o que se tem (token, celular) e o que se é (biometria).",
+"Autenticação em dois fatores (2FA/MFA) combina fatores de categorias diferentes; duas senhas não são dois fatores."
+]
+},
+{
+"id": "Q-TI-0152",
+"g": "E",
+"e": "Um sistema que exige duas senhas distintas em sequência adota autenticação em dois fatores, pois utiliza dois mecanismos de verificação de identidade independentes. Trata-se de prática corrente.",
+"velho": "Dois fatores devem ser de categorias diferentes.",
+"aula": [
+"Fatores de autenticação: o que se sabe (senha), o que se tem (token, celular) e o que se é (biometria).",
+"Autenticação em dois fatores (2FA/MFA) combina fatores de categorias diferentes; duas senhas não são dois fatores."
+]
+},
+{
+"id": "Q-TI-0153",
+"g": "C",
+"e": "O worm se propaga automaticamente pelas redes, explorando vulnerabilidades, sem depender de hospedeiro nem de ação do usuário, ao passo que o vírus depende da execução de um arquivo hospedeiro infectado para se propagar.",
+"velho": "Vírus x worm.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0154",
+"g": "E",
+"e": "O vírus se propaga automaticamente pelas redes, explorando vulnerabilidades, sem depender de hospedeiro nem de ação do usuário, ao passo que o worm depende da execução de um arquivo hospedeiro infectado para se propagar.",
+"velho": "Vírus x worm.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0155",
+"g": "C",
+"e": "O cavalo de troia (trojan) aparenta ser um programa legítimo, mas executa funções maliciosas ocultas, e em regra não se replica por si só.",
+"velho": "Trojan.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…"
+]
+},
+{
+"id": "Q-TI-0156",
+"g": "E",
+"e": "O cavalo de troia (trojan) é o malware que se replica de modo automático pelas redes, sem aparentar ser programa legítimo, e dispensa qualquer ação do usuário.",
+"velho": "Trojan.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0157",
+"g": "C",
+"e": "O spyware coleta informações sobre o usuário e as envia a terceiros sem o conhecimento dele, ao passo que o keylogger é um tipo de programa que registra as teclas digitadas.",
+"velho": "Spyware e keylogger.",
+"aula": [
+"Autenticação confirma quem é o usuário; autorização define o que ele pode fazer; auditoria registra o que fez.",
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…"
+]
+},
+{
+"id": "Q-TI-0158",
+"g": "E",
+"e": "O spyware é o programa que exibe publicidade indesejada ao usuário, sem coletar informações, ao passo que o keylogger é um tipo de programa que bloqueia o teclado até o pagamento de resgate.",
+"velho": "Spyware e keylogger.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0159",
+"g": "C",
+"e": "O ransomware torna inacessíveis os dados do usuário, em geral por criptografia, e exige pagamento de resgate para restabelecer o acesso; um backup mantido fora do alcance da rede é a defesa mais eficaz para recuperar os dados.",
+"velho": "Ransomware.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…"
+]
+},
+{
+"id": "Q-TI-0160",
+"g": "E",
+"e": "O ransomware apenas exibe publicidade indesejada no navegador do usuário, sem tornar os dados inacessíveis, razão pela qual o backup é desnecessário como defesa. Tal conclusão decorreria, segundo esse entendimento, das características do fenômeno descrito.",
+"velho": "Ransomware.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…"
+]
+},
+{
+"id": "Q-TI-0161",
+"g": "C",
+"e": "Botnet é uma rede de computadores infectados (zumbis) controlados remotamente por um atacante, que pode utilizá-la, por exemplo, para disparar ataques de negação de serviço distribuídos (DDoS).",
+"velho": "Botnet.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…"
+]
+},
+{
+"id": "Q-TI-0162",
+"g": "E",
+"e": "Botnet é uma rede privada e segura de computadores configurados por uma organização para se protegerem de ataques de negação de serviço distribuídos (DDoS). Isso é consenso na área.",
+"velho": "Botnet.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…"
+]
+},
+{
+"id": "Q-TI-0163",
+"g": "C",
+"e": "O rootkit é um conjunto de programas que oculta a presença do invasor e de outros códigos maliciosos no sistema, ao passo que o backdoor é um mecanismo que permite o retorno do invasor ao equipamento comprometido.",
+"velho": "Rootkit e backdoor.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0164",
+"g": "E",
+"e": "O rootkit é o programa que permite apenas exibir propagandas no navegador, ao passo que o backdoor é um programa de proteção que impede o acesso remoto não autorizado ao equipamento. Trata-se de prática corrente.",
+"velho": "Rootkit e backdoor.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0165",
+"g": "C",
+"e": "O phishing consiste em enganar a vítima, por mensagens ou sites falsos que se passam por instituições confiáveis, para que ela forneça dados pessoais ou financeiros ou execute ações indevidas.",
+"velho": "Phishing x pharming.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…"
+]
+},
+{
+"id": "Q-TI-0166",
+"g": "E",
+"e": "O phishing consiste em redirecionar o usuário para um site falso por meio da adulteração do servidor DNS, ainda que ele digite corretamente o endereço do site legítimo, sem necessidade de engano por mensagens.",
+"velho": "Phishing x pharming.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…"
+]
+},
+{
+"id": "Q-TI-0167",
+"g": "C",
+"e": "No pharming, o usuário é direcionado a um site falso mesmo digitando corretamente o endereço do site legítimo, porque o mecanismo de resolução de nomes (DNS) foi adulterado.",
+"velho": "Pharming.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…"
+]
+},
+{
+"id": "Q-TI-0168",
+"g": "E",
+"e": "No pharming, o usuário é levado a um site falso porque clicou em link enviado por e-mail fraudulento que se passava por instituição conhecida, sem adulteração do mecanismo de resolução de nomes.",
+"velho": "Pharming.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…"
+]
+},
+{
+"id": "Q-TI-0169",
+"g": "C",
+"e": "O spear phishing é a modalidade de phishing direcionada a pessoa ou organização específica, com mensagem personalizada, ao passo que o smishing utiliza mensagens SMS e o vishing, ligações de voz.",
+"velho": "Variações de phishing.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…"
+]
+},
+{
+"id": "Q-TI-0170",
+"g": "E",
+"e": "O spear phishing é a modalidade de phishing disparada em massa, sem personalização, ao passo que o smishing utiliza ligações de voz e o vishing, mensagens SMS. Isso é consenso na área.",
+"velho": "Variações de phishing.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…"
+]
+},
+{
+"id": "Q-TI-0171",
+"g": "C",
+"e": "O ataque man-in-the-middle consiste na interceptação da comunicação entre duas partes por um terceiro, que pode ler ou alterar as mensagens, ao passo que o sniffing consiste na captura do tráfego que circula pela rede.",
+"velho": "MITM e sniffing.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…"
+]
+},
+{
+"id": "Q-TI-0172",
+"g": "E",
+"e": "O ataque man-in-the-middle consiste na tentativa exaustiva de senhas até acertar a correta, ao passo que o sniffing consiste na inserção de comandos maliciosos em campos de formulários para manipular o banco de dados.",
+"velho": "MITM e sniffing.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"SQL injection (inserção de comandos em campos de entrada para manipular o banco de dados); força bruta (tentativa exaustiva de senhas)."
+]
+},
+{
+"id": "Q-TI-0173",
+"g": "C",
+"e": "A injeção de SQL (SQL injection) consiste na inserção de comandos em campos de entrada de uma aplicação para manipular a consulta ao banco de dados, e a validação das entradas é uma das medidas de proteção.",
+"velho": "SQL injection.",
+"aula": [
+"SQL injection (inserção de comandos em campos de entrada para manipular o banco de dados); força bruta (tentativa exaustiva de senhas)."
+]
+},
+{
+"id": "Q-TI-0174",
+"g": "E",
+"e": "A injeção de SQL (SQL injection) consiste na tentativa exaustiva de senhas por meio de programas automatizados, e o bloqueio de contas após erros sucessivos é a única medida de proteção. Isso é consenso na área.",
+"velho": "SQL injection.",
+"aula": [
+"SQL injection (inserção de comandos em campos de entrada para manipular o banco de dados); força bruta (tentativa exaustiva de senhas).",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0175",
+"g": "C",
+"e": "O antivírus detecta, bloqueia e remove códigos maliciosos, mas não oferece proteção total: precisa ser atualizado constantemente e não substitui o backup nem a cautela do usuário ao abrir arquivos e links.",
+"velho": "Antivírus.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0176",
+"g": "E",
+"e": "O antivírus oferece proteção total contra todos os códigos maliciosos, mesmo sem atualização, e substitui o backup e a cautela do usuário ao abrir arquivos e links. Trata-se de prática corrente.",
+"velho": "Antivírus.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0177",
+"g": "C",
+"e": "O firewall filtra o tráfego de rede conforme regras previamente definidas, podendo ser implementado em software ou em hardware, e não impede, por si só, que o usuário seja enganado por uma mensagem de phishing.",
+"velho": "Firewall.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0178",
+"g": "E",
+"e": "O firewall remove vírus já instalados no computador e impede, por si só, que o usuário seja enganado por uma mensagem de phishing, dispensando o uso de antivírus. Isso é consenso na área.",
+"velho": "Firewall.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+}
+]

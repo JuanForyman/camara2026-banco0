@@ -1,0 +1,42 @@
+[
+{
+"id": "Q-TI-0529",
+"g": "C",
+"e": "Um gestor quer mostrar a participação de cinco programas no orçamento total de um órgão: gráfico de pizza ou de barras horizontais ordenadas pode ser usado, sendo as barras preferíveis quando as participações são próximas e se deseja comparação precisa.",
+"velho": "Pizza x barras.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0530",
+"g": "E",
+"e": "Um gestor quer mostrar a participação de cinco programas no orçamento total de um órgão: o gráfico de pizza é sempre superior ao de barras, mesmo quando as participações são próximas e se deseja comparação precisa. Trata-se de prática corrente.",
+"velho": "Pizza x barras.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0531",
+"g": "C",
+"e": "Para evidenciar um único ponto de atenção em um gráfico de linhas de dez séries, convém destacar a série relevante com cor e deixar as demais em cinza, em vez de usar dez cores igualmente chamativas.",
+"velho": "Destaque visual.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0532",
+"g": "E",
+"e": "Para evidenciar um único ponto de atenção em um gráfico de linhas de dez séries, convém usar dez cores igualmente chamativas, pois isso direciona a atenção do leitor para a série relevante. Isso é consenso na área.",
+"velho": "Destaque visual.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+}
+]

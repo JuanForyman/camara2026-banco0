@@ -1,0 +1,673 @@
+[
+{
+"id": "Q-LIN-0010",
+"g": "E",
+"e": "Saussure sustenta que a arbitrariedade é absoluta em todos os signos, de modo que nenhum signo, nem mesmo os derivados e compostos, mantém qualquer motivação relativa. Isso é consenso na área.",
+"velho": "Arbitrariedade relativa.",
+"aula": [
+"Saussure: linguagem é a faculdade humana de se comunicar por signos, de caráter heterogêneo e multiforme; língua (langue) é o sistema social, abstrato e convencional, compartilhado pela comunidade; fala (parole) é o uso individual, concreto e momentâneo da língua.",
+"Saussure admite arbitrariedade relativa: palavras derivadas e compostas (dezenove, pereira) são relativamente motivadas, e as onomatopeias têm motivação limitada, pois também variam entre línguas."
+]
+},
+{
+"id": "Q-LIN-0011",
+"g": "C",
+"e": "A sincronia estuda o estado de uma língua em determinado momento, ao passo que a diacronia estuda sua evolução ao longo do tempo.",
+"velho": "Sincronia e diacronia.",
+"aula": [
+"Imutabilidade e mutabilidade: o signo é imposto à comunidade (imutável para o indivíduo), mas se altera ao longo do tempo (mutável historicamente).",
+"Sincronia estuda o estado da língua em um momento; diacronia estuda sua evolução."
+]
+},
+{
+"id": "Q-LIN-0012",
+"g": "E",
+"e": "A sincronia estuda a evolução de uma língua ao longo do tempo, ao passo que a diacronia estuda o estado da língua em determinado momento.",
+"velho": "Sincronia e diacronia.",
+"aula": [
+"Imutabilidade e mutabilidade: o signo é imposto à comunidade (imutável para o indivíduo), mas se altera ao longo do tempo (mutável historicamente).",
+"Sincronia estuda o estado da língua em um momento; diacronia estuda sua evolução."
+]
+},
+{
+"id": "Q-LIN-0013",
+"g": "C",
+"e": "O signo é imutável para o indivíduo, que não pode alterá-lo por decisão própria, mas é mutável historicamente, pois se transforma com o tempo.",
+"velho": "Mutabilidade e imutabilidade.",
+"aula": [
+"Imutabilidade e mutabilidade: o signo é imposto à comunidade (imutável para o indivíduo), mas se altera ao longo do tempo (mutável historicamente)."
+]
+},
+{
+"id": "Q-LIN-0014",
+"g": "E",
+"e": "O signo é mutável para o indivíduo, que pode alterá-lo livremente por decisão própria, e imutável historicamente, pois não se transforma com o tempo.",
+"velho": "Mutabilidade e imutabilidade.",
+"aula": [
+"Imutabilidade e mutabilidade: o signo é imposto à comunidade (imutável para o indivíduo), mas se altera ao longo do tempo (mutável historicamente)."
+]
+},
+{
+"id": "Q-LIN-0015",
+"g": "C",
+"e": "Referente é o objeto, ser ou fato do mundo a que o signo remete, e não se confunde com o significado, que é o conceito associado ao significante.",
+"velho": "Referente.",
+"aula": [
+"Signo linguístico é a união de um significante (imagem acústica, a forma sonora ou gráfica) e um significado (conceito).",
+"Referente é o objeto, ser ou fato do mundo a que o signo remete; referência é a relação do signo com o referente; representação é o conteúdo mental associado."
+]
+},
+{
+"id": "Q-LIN-0016",
+"g": "E",
+"e": "Referente é o conceito associado ao significante no interior do signo, e não se confunde com o objeto do mundo a que o signo remete. Trata-se de prática corrente.",
+"velho": "Referente.",
+"aula": [
+"Signo linguístico é a união de um significante (imagem acústica, a forma sonora ou gráfica) e um significado (conceito).",
+"Referente é o objeto, ser ou fato do mundo a que o signo remete; referência é a relação do signo com o referente; representação é o conteúdo mental associado."
+]
+},
+{
+"id": "Q-LIN-0017",
+"g": "C",
+"e": "No triângulo de Ogden e Richards, os vértices correspondem ao símbolo (a palavra), ao pensamento ou referência (o conceito) e ao referente (a coisa).",
+"velho": "Ogden e Richards.",
+"aula": [
+"Referente é o objeto, ser ou fato do mundo a que o signo remete; referência é a relação do signo com o referente; representação é o conteúdo mental associado.",
+"No triângulo de Ogden e Richards: símbolo (palavra), pensamento ou referência (conceito) e referente (coisa)."
+]
+},
+{
+"id": "Q-LIN-0018",
+"g": "E",
+"e": "No triângulo de Ogden e Richards, os vértices correspondem ao emissor, ao receptor e à mensagem, que formam o esquema da comunicação. Isso é consenso na área.",
+"velho": "Ogden e Richards.",
+"aula": [
+"No triângulo de Ogden e Richards: símbolo (palavra), pensamento ou referência (conceito) e referente (coisa)."
+]
+},
+{
+"id": "Q-LIN-0019",
+"g": "C",
+"e": "Para Frege, 'estrela da manhã' e 'estrela da tarde' têm sentidos diferentes e a mesma referência, pois designam o mesmo astro.",
+"velho": "Frege, sentido e referência.",
+"aula": [
+"Frege distingue sentido (modo de apresentação) e referência (objeto designado): 'estrela da manhã' e 'estrela da tarde' têm sentidos diferentes e a mesma referência (Vênus).",
+"Uma mesma palavra pode ter sentido denotativo ('pedra' mineral) e conotativo ('ele tem coração de pedra')."
+]
+},
+{
+"id": "Q-LIN-0020",
+"g": "E",
+"e": "Para Frege, 'estrela da manhã' e 'estrela da tarde' têm o mesmo sentido e referências diferentes, pois designam astros distintos.",
+"velho": "Frege, sentido e referência.",
+"aula": [
+"Frege distingue sentido (modo de apresentação) e referência (objeto designado): 'estrela da manhã' e 'estrela da tarde' têm sentidos diferentes e a mesma referência (Vênus)."
+]
+},
+{
+"id": "Q-LIN-0021",
+"g": "C",
+"e": "A denotação é o sentido básico, objetivo e dicionarizado de uma palavra, ao passo que a conotação é o sentido figurado, associativo, que acrescenta valores subjetivos ou culturais.",
+"velho": "Denotação e conotação.",
+"aula": [
+"Denotação é o sentido básico, dicionarizado, objetivo, em geral ligado à função referencial; conotação é o sentido figurado, associativo, que acrescenta valores subjetivos, culturais ou emotivos, típico da linguagem literária e publicitária, mas presente também na fala cotidiana.",
+"Uma mesma palavra pode ter sentido denotativo ('pedra' mineral) e conotativo ('ele tem coração de pedra')."
+]
+},
+{
+"id": "Q-LIN-0022",
+"g": "E",
+"e": "A denotação é o sentido figurado e associativo de uma palavra, ao passo que a conotação é o sentido básico, objetivo e dicionarizado. Isso é consenso na área.",
+"velho": "Denotação e conotação.",
+"aula": [
+"Denotação é o sentido básico, dicionarizado, objetivo, em geral ligado à função referencial; conotação é o sentido figurado, associativo, que acrescenta valores subjetivos, culturais ou emotivos, típico da linguagem literária e publicitária, mas presente também na fala cotidiana.",
+"Uma mesma palavra pode ter sentido denotativo ('pedra' mineral) e conotativo ('ele tem coração de pedra')."
+]
+},
+{
+"id": "Q-LIN-0023",
+"g": "C",
+"e": "Em 'O ministro tem sangue frio', a expressão 'sangue frio' é usada com sentido conotativo, pois não se refere à temperatura do sangue, e sim à serenidade diante de situações difíceis.",
+"velho": "Conotação.",
+"aula": [
+"Denotação é o sentido básico, dicionarizado, objetivo, em geral ligado à função referencial; conotação é o sentido figurado, associativo, que acrescenta valores subjetivos, culturais ou emotivos, típico da linguagem literária e publicitária, mas presente também na fala cotidiana.",
+"Uma mesma palavra pode ter sentido denotativo ('pedra' mineral) e conotativo ('ele tem coração de pedra')."
+]
+},
+{
+"id": "Q-LIN-0024",
+"g": "E",
+"e": "Em 'O ministro tem sangue frio', a expressão 'sangue frio' é usada com sentido denotativo, pois se refere, de modo literal, à temperatura do sangue do ministro. Trata-se de prática corrente.",
+"velho": "Conotação.",
+"aula": [
+"Frege distingue sentido (modo de apresentação) e referência (objeto designado): 'estrela da manhã' e 'estrela da tarde' têm sentidos diferentes e a mesma referência (Vênus).",
+"Denotação é o sentido básico, dicionarizado, objetivo, em geral ligado à função referencial; conotação é o sentido figurado, associativo, que acrescenta valores subjetivos, culturais ou emotivos, típico da linguagem literária e publicitária, mas presente também na fala cotidiana."
+]
+},
+{
+"id": "Q-LIN-0025",
+"g": "C",
+"e": "A conotação é típica da linguagem literária e publicitária, mas também está presente na fala cotidiana.",
+"velho": "Conotação.",
+"aula": [
+"Saussure: linguagem é a faculdade humana de se comunicar por signos, de caráter heterogêneo e multiforme; língua (langue) é o sistema social, abstrato e convencional, compartilhado pela comunidade; fala (parole) é o uso individual, concreto e momentâneo da língua.",
+"Denotação é o sentido básico, dicionarizado, objetivo, em geral ligado à função referencial; conotação é o sentido figurado, associativo, que acrescenta valores subjetivos, culturais ou emotivos, típico da linguagem literária e publicitária, mas presente também na fala cotidiana."
+]
+},
+{
+"id": "Q-LIN-0026",
+"g": "E",
+"e": "A conotação é exclusiva da linguagem literária, não ocorrendo na fala cotidiana nem na linguagem publicitária.",
+"velho": "Conotação.",
+"aula": [
+"Saussure: linguagem é a faculdade humana de se comunicar por signos, de caráter heterogêneo e multiforme; língua (langue) é o sistema social, abstrato e convencional, compartilhado pela comunidade; fala (parole) é o uso individual, concreto e momentâneo da língua.",
+"Denotação é o sentido básico, dicionarizado, objetivo, em geral ligado à função referencial; conotação é o sentido figurado, associativo, que acrescenta valores subjetivos, culturais ou emotivos, típico da linguagem literária e publicitária, mas presente também na fala cotidiana."
+]
+},
+{
+"id": "Q-LIN-0027",
+"g": "C",
+"e": "A linguagem, em sentido saussuriano, é a faculdade humana de comunicar-se por signos, de caráter heterogêneo, ao passo que a língua é seu aspecto social e sistemático.",
+"velho": "Linguagem, língua e fala.",
+"aula": [
+"Saussure: linguagem é a faculdade humana de se comunicar por signos, de caráter heterogêneo e multiforme; língua (langue) é o sistema social, abstrato e convencional, compartilhado pela comunidade; fala (parole) é o uso individual, concreto e momentâneo da língua.",
+"Denotação é o sentido básico, dicionarizado, objetivo, em geral ligado à função referencial; conotação é o sentido figurado, associativo, que acrescenta valores subjetivos, culturais ou emotivos, típico da linguagem literária e publicitária, mas presente também na fala cotidiana."
+]
+},
+{
+"id": "Q-LIN-0028",
+"g": "E",
+"e": "A linguagem, em sentido saussuriano, é um sistema social e homogêneo, e coincide em tudo com a língua, sem caráter heterogêneo. Trata-se de prática corrente.",
+"velho": "Linguagem, língua e fala.",
+"aula": [
+"Saussure: linguagem é a faculdade humana de se comunicar por signos, de caráter heterogêneo e multiforme; língua (langue) é o sistema social, abstrato e convencional, compartilhado pela comunidade; fala (parole) é o uso individual, concreto e momentâneo da língua.",
+"Denotação é o sentido básico, dicionarizado, objetivo, em geral ligado à função referencial; conotação é o sentido figurado, associativo, que acrescenta valores subjetivos, culturais ou emotivos, típico da linguagem literária e publicitária, mas presente também na fala cotidiana."
+]
+},
+{
+"id": "Q-LIN-0029",
+"g": "C",
+"e": "Saussure elegeu a língua, e não a fala, como objeto da linguística, por considerá-la um sistema homogêneo e passível de estudo sistemático.",
+"velho": "Objeto da linguística.",
+"aula": [
+"Saussure: linguagem é a faculdade humana de se comunicar por signos, de caráter heterogêneo e multiforme; língua (langue) é o sistema social, abstrato e convencional, compartilhado pela comunidade; fala (parole) é o uso individual, concreto e momentâneo da língua.",
+"A língua é objeto de estudo da linguística saussuriana, por ser homogênea e sistemática."
+]
+},
+{
+"id": "Q-LIN-0030",
+"g": "E",
+"e": "Saussure elegeu a fala, e não a língua, como objeto da linguística, por considerá-la um sistema homogêneo e passível de estudo sistemático.",
+"velho": "Objeto da linguística.",
+"aula": [
+"Saussure: linguagem é a faculdade humana de se comunicar por signos, de caráter heterogêneo e multiforme; língua (langue) é o sistema social, abstrato e convencional, compartilhado pela comunidade; fala (parole) é o uso individual, concreto e momentâneo da língua.",
+"A língua é objeto de estudo da linguística saussuriana, por ser homogênea e sistemática."
+]
+},
+{
+"id": "Q-LIN-0031",
+"g": "C",
+"e": "Quando um falante pronuncia com sotaque próprio uma palavra do português, a pronúncia individual pertence à fala, ao passo que o sistema de sons e regras compartilhado pela comunidade pertence à língua.",
+"velho": "Língua e fala.",
+"aula": [
+"Saussure: linguagem é a faculdade humana de se comunicar por signos, de caráter heterogêneo e multiforme; língua (langue) é o sistema social, abstrato e convencional, compartilhado pela comunidade; fala (parole) é o uso individual, concreto e momentâneo da língua."
+]
+},
+{
+"id": "Q-LIN-0032",
+"g": "E",
+"e": "Quando um falante pronuncia com sotaque próprio uma palavra do português, a pronúncia individual pertence à língua, ao passo que o sistema de sons compartilhado pela comunidade pertence à fala.",
+"velho": "Língua e fala.",
+"aula": [
+"Saussure: linguagem é a faculdade humana de se comunicar por signos, de caráter heterogêneo e multiforme; língua (langue) é o sistema social, abstrato e convencional, compartilhado pela comunidade; fala (parole) é o uso individual, concreto e momentâneo da língua."
+]
+},
+{
+"id": "Q-LIN-0033",
+"g": "C",
+"e": "As onomatopeias têm motivação limitada, pois a imitação do som é convencionalizada, e por isso uma mesma ação sonora recebe formas distintas em línguas diferentes.",
+"velho": "Onomatopeia.",
+"aula": [
+"Saussure admite arbitrariedade relativa: palavras derivadas e compostas (dezenove, pereira) são relativamente motivadas, e as onomatopeias têm motivação limitada, pois também variam entre línguas.",
+"Frege distingue sentido (modo de apresentação) e referência (objeto designado): 'estrela da manhã' e 'estrela da tarde' têm sentidos diferentes e a mesma referência (Vênus)."
+]
+},
+{
+"id": "Q-LIN-0034",
+"g": "E",
+"e": "As onomatopeias constituem prova de que o signo é sempre motivado, pois reproduzem o som de modo idêntico em todas as línguas. Isso é consenso na área.",
+"velho": "Onomatopeia.",
+"aula": [
+"A relação entre eles é arbitrária (imotivada): não há laço natural entre o conceito de 'árvore' e a sequência de sons que o designa, o que se prova pela diversidade das línguas.",
+"Saussure admite arbitrariedade relativa: palavras derivadas e compostas (dezenove, pereira) são relativamente motivadas, e as onomatopeias têm motivação limitada, pois também variam entre línguas."
+]
+},
+{
+"id": "Q-LIN-0035",
+"g": "C",
+"e": "Em português, o gênero gramatical é, em geral, arbitrário e só se relaciona com o sexo biológico em seres animados, como em 'o menino' e 'a menina'.",
+"velho": "Gênero.",
+"aula": [
+"Gênero: categoria gramatical que pode ou não refletir o sexo; em português, o gênero gramatical é, em geral, arbitrário (a mesa, o livro) e só em seres animados se relaciona com o sexo biológico (o menino, a menina); há substantivos comuns de dois gêneros (o/a colega, o/a jovem), sobrecomuns (a testemunha, a criança) e epicenos…"
+]
+},
+{
+"id": "Q-LIN-0036",
+"g": "E",
+"e": "Em português, o gênero gramatical corresponde sempre ao sexo biológico do ser designado, inclusive em substantivos como 'mesa' e 'livro'. Trata-se de prática corrente.",
+"velho": "Gênero.",
+"aula": [
+"Gênero: categoria gramatical que pode ou não refletir o sexo; em português, o gênero gramatical é, em geral, arbitrário (a mesa, o livro) e só em seres animados se relaciona com o sexo biológico (o menino, a menina); há substantivos comuns de dois gêneros (o/a colega, o/a jovem), sobrecomuns (a testemunha, a criança) e epicenos…"
+]
+},
+{
+"id": "Q-LIN-0037",
+"g": "C",
+"e": "São substantivos sobrecomuns, com um só gênero gramatical para ambos os sexos, 'testemunha' e 'criança', ao passo que 'colega' e 'jovem' são comuns de dois gêneros, distinguidos pelo determinante.",
+"velho": "Gênero dos substantivos.",
+"aula": [
+"Gênero: categoria gramatical que pode ou não refletir o sexo; em português, o gênero gramatical é, em geral, arbitrário (a mesa, o livro) e só em seres animados se relaciona com o sexo biológico (o menino, a menina); há substantivos comuns de dois gêneros (o/a colega, o/a jovem), sobrecomuns (a testemunha, a criança) e epicenos…"
+]
+},
+{
+"id": "Q-LIN-0038",
+"g": "E",
+"e": "São substantivos comuns de dois gêneros 'testemunha' e 'criança', distinguidos pelo determinante, ao passo que 'colega' e 'jovem' são sobrecomuns, com um só gênero para ambos os sexos. Isso é consenso na área.",
+"velho": "Gênero dos substantivos.",
+"aula": [
+"Gênero: categoria gramatical que pode ou não refletir o sexo; em português, o gênero gramatical é, em geral, arbitrário (a mesa, o livro) e só em seres animados se relaciona com o sexo biológico (o menino, a menina); há substantivos comuns de dois gêneros (o/a colega, o/a jovem), sobrecomuns (a testemunha, a criança) e epicenos…"
+]
+},
+{
+"id": "Q-LIN-0039",
+"g": "C",
+"e": "A pessoa é categoria dêitica, pois a identificação de quem fala, de com quem se fala e de de quem se fala depende da situação de enunciação.",
+"velho": "Pessoa.",
+"aula": [
+"Pessoa: categoria dêitica ligada à enunciação: 1ª pessoa (quem fala), 2ª (com quem se fala), 3ª (de quem ou de que se fala, a não-pessoa em Benveniste)."
+]
+},
+{
+"id": "Q-LIN-0040",
+"g": "E",
+"e": "A pessoa é categoria independente da situação de enunciação, pois o significado de 'eu' e 'tu' é fixo e idêntico em todos os contextos.",
+"velho": "Pessoa.",
+"aula": [
+"Pessoa: categoria dêitica ligada à enunciação: 1ª pessoa (quem fala), 2ª (com quem se fala), 3ª (de quem ou de que se fala, a não-pessoa em Benveniste)."
+]
+},
+{
+"id": "Q-LIN-0041",
+"g": "C",
+"e": "O número plural pode ter sentido diferente da simples multiplicação, como em 'férias' e 'óculos', e há substantivos usados somente no plural, como 'núpcias'.",
+"velho": "Número.",
+"aula": [
+"Número: singular e plural; o plural pode indicar mais de um, mas também sentido coletivo ou diferente (óculos, férias, núpcias) e há substantivos que só existem no plural (pluralia tantum)."
+]
+},
+{
+"id": "Q-LIN-0042",
+"g": "E",
+"e": "O número plural indica, em todos os casos, a mera multiplicação do referente, e não existem substantivos usados somente no plural. Isso é consenso na área.",
+"velho": "Número.",
+"aula": [
+"Número: singular e plural; o plural pode indicar mais de um, mas também sentido coletivo ou diferente (óculos, férias, núpcias) e há substantivos que só existem no plural (pluralia tantum)."
+]
+},
+{
+"id": "Q-LIN-0043",
+"g": "C",
+"e": "A categoria de tempo localiza o evento em relação ao momento da fala ou a outro momento de referência, ao passo que o aspecto diz respeito ao modo como a ação se desenvolve.",
+"velho": "Tempo e aspecto.",
+"aula": [
+"Tempo: localiza o evento em relação ao momento da fala (presente, pretérito, futuro) ou a outro momento de referência (tempos relativos).",
+"Aspecto: distribui-se por como a ação se desenvolve no tempo, e não por quando: perfectivo (ação concluída, vista como um todo) e imperfectivo (ação em curso, repetida ou habitual); há ainda aspecto incoativo (começo), durativo, iterativo (repetição) e terminativo."
+]
+},
+{
+"id": "Q-LIN-0044",
+"g": "E",
+"e": "A categoria de tempo diz respeito ao modo como a ação se desenvolve, ao passo que o aspecto localiza o evento em relação ao momento da fala. Trata-se de prática corrente.",
+"velho": "Tempo e aspecto.",
+"aula": [
+"Tempo: localiza o evento em relação ao momento da fala (presente, pretérito, futuro) ou a outro momento de referência (tempos relativos).",
+"Aspecto: distribui-se por como a ação se desenvolve no tempo, e não por quando: perfectivo (ação concluída, vista como um todo) e imperfectivo (ação em curso, repetida ou habitual); há ainda aspecto incoativo (começo), durativo, iterativo (repetição) e terminativo."
+]
+},
+{
+"id": "Q-LIN-0045",
+"g": "C",
+"e": "O modo verbal expressa a atitude do falante diante do enunciado: o indicativo associa-se à certeza, o subjuntivo à dúvida ou hipótese, e o imperativo à ordem, ao pedido ou ao conselho.",
+"velho": "Modo.",
+"aula": [
+"Modo: atitude do falante diante do enunciado: indicativo (fato, certeza, realis), subjuntivo (dúvida, hipótese, desejo, irrealis) e imperativo (ordem, pedido, conselho)."
+]
+},
+{
+"id": "Q-LIN-0046",
+"g": "E",
+"e": "O modo verbal localiza a ação no tempo: o indicativo expressa passado, o subjuntivo presente e o imperativo futuro. Essa seria a posição predominante na literatura linguística.",
+"velho": "Modo.",
+"aula": [
+"Tempo: localiza o evento em relação ao momento da fala (presente, pretérito, futuro) ou a outro momento de referência (tempos relativos).",
+"Modo: atitude do falante diante do enunciado: indicativo (fato, certeza, realis), subjuntivo (dúvida, hipótese, desejo, irrealis) e imperativo (ordem, pedido, conselho)."
+]
+},
+{
+"id": "Q-LIN-0047",
+"g": "C",
+"e": "A diferença entre 'ela cantou' e 'ela cantava' é aspectual: o pretérito perfeito apresenta a ação como concluída e vista como um todo, e o imperfeito, como ação em curso, repetida ou habitual, no passado.",
+"velho": "Aspecto.",
+"aula": [
+"Aspecto: distribui-se por como a ação se desenvolve no tempo, e não por quando: perfectivo (ação concluída, vista como um todo) e imperfectivo (ação em curso, repetida ou habitual); há ainda aspecto incoativo (começo), durativo, iterativo (repetição) e terminativo.",
+"A diferença entre 'cantou' e 'cantava' é aspectual (perfectivo x imperfectivo), além de temporal."
+]
+},
+{
+"id": "Q-LIN-0048",
+"g": "E",
+"e": "A diferença entre 'ela cantou' e 'ela cantava' é apenas de pessoa gramatical, pois ambos os verbos apresentam a ação com o mesmo aspecto. Tal conclusão decorreria, segundo esse entendimento, das características do fenômeno descrito.",
+"velho": "Aspecto.",
+"aula": [
+"Aspecto: distribui-se por como a ação se desenvolve no tempo, e não por quando: perfectivo (ação concluída, vista como um todo) e imperfectivo (ação em curso, repetida ou habitual); há ainda aspecto incoativo (começo), durativo, iterativo (repetição) e terminativo.",
+"A diferença entre 'cantou' e 'cantava' é aspectual (perfectivo x imperfectivo), além de temporal."
+]
+},
+{
+"id": "Q-LIN-0049",
+"g": "C",
+"e": "Aspectos como o incoativo (início da ação), o durativo, o iterativo (repetição) e o terminativo (fim) descrevem fases ou modos de realização do evento, não sua localização temporal.",
+"velho": "Tipos de aspecto.",
+"aula": [
+"Aspecto: distribui-se por como a ação se desenvolve no tempo, e não por quando: perfectivo (ação concluída, vista como um todo) e imperfectivo (ação em curso, repetida ou habitual); há ainda aspecto incoativo (começo), durativo, iterativo (repetição) e terminativo."
+]
+},
+{
+"id": "Q-LIN-0050",
+"g": "E",
+"e": "Aspectos como o incoativo, o durativo, o iterativo e o terminativo localizam o evento em relação ao momento da fala e substituem a categoria de tempo. Isso é consenso na área.",
+"velho": "Tipos de aspecto.",
+"aula": [
+"Tempo: localiza o evento em relação ao momento da fala (presente, pretérito, futuro) ou a outro momento de referência (tempos relativos).",
+"Aspecto: distribui-se por como a ação se desenvolve no tempo, e não por quando: perfectivo (ação concluída, vista como um todo) e imperfectivo (ação em curso, repetida ou habitual); há ainda aspecto incoativo (começo), durativo, iterativo (repetição) e terminativo."
+]
+},
+{
+"id": "Q-LIN-0051",
+"g": "C",
+"e": "Papéis semânticos são relações desempenhadas pelos participantes em relação ao verbo, como agente, paciente, experienciador, beneficiário e instrumento.",
+"velho": "Papéis semânticos.",
+"aula": [
+"Papéis semânticos (papéis temáticos) são as relações que os participantes desempenham em relação ao verbo: agente (quem pratica a ação voluntariamente), paciente (quem sofre a ação), experienciador (quem percebe ou sente), tema, beneficiário, instrumento, locativo, origem e meta.",
+"Na voz passiva ('O projeto foi entregue pelo deputado'), o paciente ocupa a posição de sujeito, mas os papéis semânticos se mantêm: o sujeito sintático não coincide sempre com o agente."
+]
+},
+{
+"id": "Q-LIN-0052",
+"g": "E",
+"e": "Papéis semânticos são as funções sintáticas exercidas pelos termos da oração, como sujeito, objeto direto e adjunto adverbial. Trata-se de prática corrente.",
+"velho": "Papéis semânticos.",
+"aula": [
+"Papéis semânticos (papéis temáticos) são as relações que os participantes desempenham em relação ao verbo: agente (quem pratica a ação voluntariamente), paciente (quem sofre a ação), experienciador (quem percebe ou sente), tema, beneficiário, instrumento, locativo, origem e meta.",
+"Na voz passiva ('O projeto foi entregue pelo deputado'), o paciente ocupa a posição de sujeito, mas os papéis semânticos se mantêm: o sujeito sintático não coincide sempre com o agente."
+]
+},
+{
+"id": "Q-LIN-0053",
+"g": "C",
+"e": "Em 'O projeto foi entregue pelo deputado', o deputado é o agente e o projeto, o paciente (ou tema), embora o projeto ocupe a posição de sujeito sintático.",
+"velho": "Papéis e voz passiva.",
+"aula": [
+"Papéis semânticos (papéis temáticos) são as relações que os participantes desempenham em relação ao verbo: agente (quem pratica a ação voluntariamente), paciente (quem sofre a ação), experienciador (quem percebe ou sente), tema, beneficiário, instrumento, locativo, origem e meta.",
+"Na voz passiva ('O projeto foi entregue pelo deputado'), o paciente ocupa a posição de sujeito, mas os papéis semânticos se mantêm: o sujeito sintático não coincide sempre com o agente."
+]
+},
+{
+"id": "Q-LIN-0054",
+"g": "E",
+"e": "Em 'O projeto foi entregue pelo deputado', o projeto é o agente, por ocupar a posição de sujeito sintático, e o deputado é o paciente. Isso é consenso na área.",
+"velho": "Papéis e voz passiva.",
+"aula": [
+"Papéis semânticos (papéis temáticos) são as relações que os participantes desempenham em relação ao verbo: agente (quem pratica a ação voluntariamente), paciente (quem sofre a ação), experienciador (quem percebe ou sente), tema, beneficiário, instrumento, locativo, origem e meta.",
+"Na voz passiva ('O projeto foi entregue pelo deputado'), o paciente ocupa a posição de sujeito, mas os papéis semânticos se mantêm: o sujeito sintático não coincide sempre com o agente."
+]
+},
+{
+"id": "Q-LIN-0055",
+"g": "C",
+"e": "Em 'Maria sentiu medo', Maria desempenha o papel de experienciador, pois percebe ou vivencia um estado, e não pratica ação voluntária.",
+"velho": "Experienciador.",
+"aula": [
+"Papéis semânticos (papéis temáticos) são as relações que os participantes desempenham em relação ao verbo: agente (quem pratica a ação voluntariamente), paciente (quem sofre a ação), experienciador (quem percebe ou sente), tema, beneficiário, instrumento, locativo, origem e meta."
+]
+},
+{
+"id": "Q-LIN-0056",
+"g": "E",
+"e": "Em 'Maria sentiu medo', Maria desempenha o papel de agente, pois pratica voluntariamente a ação de sentir. Trata-se de prática corrente.",
+"velho": "Experienciador.",
+"aula": [
+"Papéis semânticos (papéis temáticos) são as relações que os participantes desempenham em relação ao verbo: agente (quem pratica a ação voluntariamente), paciente (quem sofre a ação), experienciador (quem percebe ou sente), tema, beneficiário, instrumento, locativo, origem e meta."
+]
+},
+{
+"id": "Q-LIN-0057",
+"g": "C",
+"e": "O sujeito sintático nem sempre coincide com o agente da ação, o que se vê nas construções passivas.",
+"velho": "Sujeito e agente.",
+"aula": [
+"Papéis semânticos (papéis temáticos) são as relações que os participantes desempenham em relação ao verbo: agente (quem pratica a ação voluntariamente), paciente (quem sofre a ação), experienciador (quem percebe ou sente), tema, beneficiário, instrumento, locativo, origem e meta.",
+"Na voz passiva ('O projeto foi entregue pelo deputado'), o paciente ocupa a posição de sujeito, mas os papéis semânticos se mantêm: o sujeito sintático não coincide sempre com o agente."
+]
+},
+{
+"id": "Q-LIN-0058",
+"g": "E",
+"e": "O sujeito sintático coincide sempre com o agente da ação, inclusive nas construções passivas.",
+"velho": "Sujeito e agente.",
+"aula": [
+"Papéis semânticos (papéis temáticos) são as relações que os participantes desempenham em relação ao verbo: agente (quem pratica a ação voluntariamente), paciente (quem sofre a ação), experienciador (quem percebe ou sente), tema, beneficiário, instrumento, locativo, origem e meta.",
+"Na voz passiva ('O projeto foi entregue pelo deputado'), o paciente ocupa a posição de sujeito, mas os papéis semânticos se mantêm: o sujeito sintático não coincide sempre com o agente."
+]
+},
+{
+"id": "Q-LIN-0059",
+"g": "C",
+"e": "Coesão é a ligação entre elementos da superfície textual por meios linguísticos, ao passo que coerência é a continuidade de sentido, que depende também do conhecimento de mundo e da situação.",
+"velho": "Coesão e coerência.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor."
+]
+},
+{
+"id": "Q-LIN-0060",
+"g": "E",
+"e": "Coerência é a ligação entre elementos da superfície textual por meios linguísticos, ao passo que coesão é a continuidade de sentido, que depende do conhecimento de mundo. Trata-se de prática corrente.",
+"velho": "Coesão e coerência.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor."
+]
+},
+{
+"id": "Q-LIN-0061",
+"g": "C",
+"e": "Um texto pode ser coeso e incoerente, assim como pode ser coerente com poucos recursos coesivos explícitos.",
+"velho": "Coesão sem coerência.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor.",
+"Um texto pode ser coeso e incoerente, e coerente com poucos elementos coesivos."
+]
+},
+{
+"id": "Q-LIN-0062",
+"g": "E",
+"e": "A presença de recursos coesivos garante, necessariamente, a coerência do texto, e a coerência exige sempre elementos coesivos explícitos.",
+"velho": "Coesão sem coerência.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor.",
+"Um texto pode ser coeso e incoerente, e coerente com poucos elementos coesivos."
+]
+},
+{
+"id": "Q-LIN-0063",
+"g": "C",
+"e": "Na referência anafórica, o termo retoma algo já dito; na catafórica, antecipa o que será dito; na exofórica, remete a elemento da situação, fora do texto.",
+"velho": "Anáfora, catáfora, exófora.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor.",
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…"
+]
+},
+{
+"id": "Q-LIN-0064",
+"g": "E",
+"e": "Na referência anafórica, o termo antecipa o que será dito; na catafórica, retoma algo já dito; na exofórica, remete a elemento do próprio texto. Trata-se de prática corrente.",
+"velho": "Anáfora, catáfora, exófora.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…"
+]
+},
+{
+"id": "Q-LIN-0065",
+"g": "C",
+"e": "Em 'Só quero dizer isto: a votação será adiada', o pronome 'isto' tem função catafórica, pois antecipa a informação que se segue.",
+"velho": "Catáfora.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…"
+]
+},
+{
+"id": "Q-LIN-0066",
+"g": "E",
+"e": "Em 'Só quero dizer isto: a votação será adiada', o pronome 'isto' tem função anafórica, pois retoma informação já expressa antes.",
+"velho": "Catáfora.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…"
+]
+},
+{
+"id": "Q-LIN-0067",
+"g": "C",
+"e": "Em 'Os deputados votaram o projeto. Eles aprovaram a urgência', o pronome 'eles' retoma 'os deputados' e constitui coesão referencial por anáfora.",
+"velho": "Anáfora.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"A coesão pode ser referencial (retomada) e sequencial (progressão)."
+]
+},
+{
+"id": "Q-LIN-0068",
+"g": "E",
+"e": "Em 'Os deputados votaram o projeto. Eles aprovaram a urgência', o pronome 'eles' antecipa 'os deputados' e constitui coesão por catáfora. Trata-se de prática corrente.",
+"velho": "Anáfora.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…"
+]
+},
+{
+"id": "Q-LIN-0069",
+"g": "C",
+"e": "A elipse é a omissão de um termo recuperável pelo contexto e é recurso de coesão, como em 'Fui ao plenário e votei' (o sujeito 'eu' fica omitido).",
+"velho": "Elipse.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…"
+]
+},
+{
+"id": "Q-LIN-0070",
+"g": "E",
+"e": "A elipse é a repetição de um termo para reforçar a ideia e não constitui recurso de coesão. Isso é consenso na área.",
+"velho": "Elipse.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0071",
+"g": "C",
+"e": "A substituição de um termo por sinônimo, hiperônimo ou pronome é recurso de coesão referencial, que evita repetições desnecessárias.",
+"velho": "Substituição.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"A coesão pode ser referencial (retomada) e sequencial (progressão)."
+]
+},
+{
+"id": "Q-LIN-0072",
+"g": "E",
+"e": "A substituição de um termo por sinônimo, hiperônimo ou pronome rompe a coesão, pois impede a retomada do referente. Trata-se de prática corrente.",
+"velho": "Substituição.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"A coesão pode ser referencial (retomada) e sequencial (progressão)."
+]
+},
+{
+"id": "Q-LIN-0073",
+"g": "C",
+"e": "A repetição de palavras ou de estruturas pode ser recurso coesivo, e em textos jurídicos e oficiais é frequente para garantir precisão.",
+"velho": "Repetição.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…"
+]
+},
+{
+"id": "Q-LIN-0074",
+"g": "E",
+"e": "A repetição de palavras jamais pode constituir recurso coesivo, e é sempre considerada defeito do texto. Isso é consenso na área.",
+"velho": "Repetição.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0075",
+"g": "C",
+"e": "A compreensão literal é a leitura do que está explícito, a interpretativa depreende o implícito e o propósito do autor, e a crítica avalia e seleciona inferências, distinguindo fato e opinião.",
+"velho": "Níveis de leitura.",
+"aula": [
+"Compreensão literal é a leitura do que está explícito; interpretativa depreende o implícito, o propósito do autor; crítica avalia, compara e seleciona inferências, distinguindo fato e opinião.",
+"Fato é o que é verificável (dado, data, ocorrência); opinião é avaliação ou juízo (adjetivos avaliativos, infelizmente, acho que, deveria)."
+]
+},
+{
+"id": "Q-LIN-0076",
+"g": "E",
+"e": "A compreensão literal é a leitura do que está implícito, a interpretativa limita-se ao que está explícito, e a crítica dispensa qualquer avaliação do texto. Trata-se de prática corrente.",
+"velho": "Níveis de leitura.",
+"aula": [
+"Compreensão literal é a leitura do que está explícito; interpretativa depreende o implícito, o propósito do autor; crítica avalia, compara e seleciona inferências, distinguindo fato e opinião."
+]
+},
+{
+"id": "Q-LIN-0077",
+"g": "C",
+"e": "A ideia principal costuma ser expressa no tópico frasal do parágrafo, e os detalhes de apoio, como exemplos e dados, sustentam essa ideia.",
+"velho": "Ideia principal.",
+"aula": [
+"Ideia principal é o núcleo semântico do texto ou do parágrafo, em geral expressa no tópico frasal; detalhes de apoio são exemplos, dados, explicações, argumentos que sustentam a ideia principal."
+]
+},
+{
+"id": "Q-LIN-0078",
+"g": "E",
+"e": "Os detalhes de apoio, como exemplos e dados, constituem a ideia principal do parágrafo, e o tópico frasal é mero detalhe secundário.",
+"velho": "Ideia principal.",
+"aula": [
+"Ideia principal é o núcleo semântico do texto ou do parágrafo, em geral expressa no tópico frasal; detalhes de apoio são exemplos, dados, explicações, argumentos que sustentam a ideia principal."
+]
+},
+{
+"id": "Q-LIN-0079",
+"g": "C",
+"e": "Conjunções como 'porém', 'contudo', 'todavia' e 'no entanto' expressam contraste, ao passo que 'pois', 'visto que' e 'porque' expressam relações de causa ou explicação.",
+"velho": "Relações lógicas.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"Relações lógico-semânticas: comparação (como, tal qual, assim como, mais que), causa e consequência (porque, pois, visto que, logo, de modo que, portanto), contraste ou oposição (mas, porém, contudo, entretanto, todavia, no entanto, embora, ainda que) e concessão, em que o fato contrário não impede a conclusão."
+]
+}
+]

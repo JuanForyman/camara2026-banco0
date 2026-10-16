@@ -1,0 +1,676 @@
+[
+{
+"id": "Q-LIN-0080",
+"g": "E",
+"e": "Conjunções como 'porém', 'contudo', 'todavia' e 'no entanto' expressam causa, ao passo que 'pois', 'visto que' e 'porque' expressam contraste. Trata-se de prática corrente.",
+"velho": "Relações lógicas.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"Relações lógico-semânticas: comparação (como, tal qual, assim como, mais que), causa e consequência (porque, pois, visto que, logo, de modo que, portanto), contraste ou oposição (mas, porém, contudo, entretanto, todavia, no entanto, embora, ainda que) e concessão, em que o fato contrário não impede a conclusão."
+]
+},
+{
+"id": "Q-LIN-0081",
+"g": "C",
+"e": "Em 'Embora tenha trabalhado muito, não foi promovido', a conjunção 'embora' introduz uma concessão: o fato apresentado não impede a conclusão que se segue.",
+"velho": "Concessão.",
+"aula": [
+"Relações lógico-semânticas: comparação (como, tal qual, assim como, mais que), causa e consequência (porque, pois, visto que, logo, de modo que, portanto), contraste ou oposição (mas, porém, contudo, entretanto, todavia, no entanto, embora, ainda que) e concessão, em que o fato contrário não impede a conclusão."
+]
+},
+{
+"id": "Q-LIN-0082",
+"g": "E",
+"e": "Em 'Embora tenha trabalhado muito, não foi promovido', a conjunção 'embora' introduz uma causa: o trabalho excessivo explica a ausência de promoção.",
+"velho": "Concessão.",
+"aula": [
+"Relações lógico-semânticas: comparação (como, tal qual, assim como, mais que), causa e consequência (porque, pois, visto que, logo, de modo que, portanto), contraste ou oposição (mas, porém, contudo, entretanto, todavia, no entanto, embora, ainda que) e concessão, em que o fato contrário não impede a conclusão."
+]
+},
+{
+"id": "Q-LIN-0083",
+"g": "C",
+"e": "Pressuposto é a ideia inegável, marcada na língua, como em 'Pedro parou de fumar', que pressupõe que Pedro fumava; subentendido é a sugestão dependente do contexto, que o falante pode negar.",
+"velho": "Pressuposto e subentendido (Ducrot).",
+"aula": [
+"Pressuposto é a ideia inegável, marcada na língua e que o enunciado transmite como já aceita (Pedro parou de fumar pressupõe que fumava; verbos como parar, continuar, voltar e advérbios como ainda e já indicam pressuposto).",
+"Subentendido é a sugestão que depende do contexto, e o falante pode negar ter dito (Está frio aqui, como pedido para fechar a janela), conforme Ducrot."
+]
+},
+{
+"id": "Q-LIN-0084",
+"g": "E",
+"e": "Subentendido é a ideia inegável, marcada na língua, como em 'Pedro parou de fumar'; pressuposto é a sugestão dependente do contexto, que o falante pode negar. Trata-se de prática corrente.",
+"velho": "Pressuposto e subentendido (Ducrot).",
+"aula": [
+"Pressuposto é a ideia inegável, marcada na língua e que o enunciado transmite como já aceita (Pedro parou de fumar pressupõe que fumava; verbos como parar, continuar, voltar e advérbios como ainda e já indicam pressuposto).",
+"Subentendido é a sugestão que depende do contexto, e o falante pode negar ter dito (Está frio aqui, como pedido para fechar a janela), conforme Ducrot."
+]
+},
+{
+"id": "Q-LIN-0085",
+"g": "C",
+"e": "Quem diz 'Está frio aqui' pode sugerir que a janela seja fechada, e, se questionado, pode negar essa intenção; trata-se de subentendido, e não de pressuposto.",
+"velho": "Subentendido.",
+"aula": [
+"Subentendido é a sugestão que depende do contexto, e o falante pode negar ter dito (Está frio aqui, como pedido para fechar a janela), conforme Ducrot."
+]
+},
+{
+"id": "Q-LIN-0086",
+"g": "E",
+"e": "Quem diz 'Está frio aqui' pressupõe, de modo inegável e marcado na língua, que a janela seja fechada; trata-se de pressuposto, e não de subentendido. Isso é consenso na área.",
+"velho": "Subentendido.",
+"aula": [
+"Pressuposto é a ideia inegável, marcada na língua e que o enunciado transmite como já aceita (Pedro parou de fumar pressupõe que fumava; verbos como parar, continuar, voltar e advérbios como ainda e já indicam pressuposto).",
+"Subentendido é a sugestão que depende do contexto, e o falante pode negar ter dito (Está frio aqui, como pedido para fechar a janela), conforme Ducrot."
+]
+},
+{
+"id": "Q-LIN-0087",
+"g": "C",
+"e": "A frase 'A reforma voltou a ser discutida' pressupõe que a reforma já havia sido discutida antes, pois o verbo 'voltar' é marcador de pressuposto.",
+"velho": "Pressuposto.",
+"aula": [
+"Pressuposto é a ideia inegável, marcada na língua e que o enunciado transmite como já aceita (Pedro parou de fumar pressupõe que fumava; verbos como parar, continuar, voltar e advérbios como ainda e já indicam pressuposto)."
+]
+},
+{
+"id": "Q-LIN-0088",
+"g": "E",
+"e": "A frase 'A reforma voltou a ser discutida' apenas sugere, como subentendido negável, que a reforma já havia sido discutida antes. Trata-se de prática corrente.",
+"velho": "Pressuposto.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor."
+]
+},
+{
+"id": "Q-LIN-0089",
+"g": "C",
+"e": "Fato é aquilo que se pode verificar, como um dado, uma data ou uma ocorrência, ao passo que opinião é uma avaliação ou juízo.",
+"velho": "Fato e opinião.",
+"aula": [
+"Compreensão literal é a leitura do que está explícito; interpretativa depreende o implícito, o propósito do autor; crítica avalia, compara e seleciona inferências, distinguindo fato e opinião.",
+"Fato é o que é verificável (dado, data, ocorrência); opinião é avaliação ou juízo (adjetivos avaliativos, infelizmente, acho que, deveria)."
+]
+},
+{
+"id": "Q-LIN-0090",
+"g": "E",
+"e": "A opinião atribuída a uma autoridade passa a ser fato do texto, pois a autoridade a sustenta. Isso é consenso na área.",
+"velho": "Fato e opinião.",
+"aula": [
+"Compreensão literal é a leitura do que está explícito; interpretativa depreende o implícito, o propósito do autor; crítica avalia, compara e seleciona inferências, distinguindo fato e opinião.",
+"Relações lógico-semânticas: comparação (como, tal qual, assim como, mais que), causa e consequência (porque, pois, visto que, logo, de modo que, portanto), contraste ou oposição (mas, porém, contudo, entretanto, todavia, no entanto, embora, ainda que) e concessão, em que o fato contrário não impede a conclusão."
+]
+},
+{
+"id": "Q-LIN-0091",
+"g": "C",
+"e": "Em 'Infelizmente, a sessão foi encerrada', o advérbio 'infelizmente' marca opinião do enunciador, ao passo que 'a sessão foi encerrada' é fato verificável.",
+"velho": "Marcas de opinião.",
+"aula": [
+"Compreensão literal é a leitura do que está explícito; interpretativa depreende o implícito, o propósito do autor; crítica avalia, compara e seleciona inferências, distinguindo fato e opinião.",
+"Fato é o que é verificável (dado, data, ocorrência); opinião é avaliação ou juízo (adjetivos avaliativos, infelizmente, acho que, deveria)."
+]
+},
+{
+"id": "Q-LIN-0092",
+"g": "E",
+"e": "Em 'Infelizmente, a sessão foi encerrada', todo o enunciado é fato verificável, pois o advérbio 'infelizmente' não acrescenta avaliação. Trata-se de prática corrente.",
+"velho": "Marcas de opinião.",
+"aula": [
+"Compreensão literal é a leitura do que está explícito; interpretativa depreende o implícito, o propósito do autor; crítica avalia, compara e seleciona inferências, distinguindo fato e opinião.",
+"Fato é o que é verificável (dado, data, ocorrência); opinião é avaliação ou juízo (adjetivos avaliativos, infelizmente, acho que, deveria)."
+]
+},
+{
+"id": "Q-LIN-0093",
+"g": "C",
+"e": "A derivação parassintética forma palavras pelo acréscimo simultâneo de prefixo e sufixo, como em 'entardecer'; a derivação regressiva forma substantivos por redução de verbos, como em 'ataque' (de atacar).",
+"velho": "Formação de palavras.",
+"aula": [
+"Estrutura e formação de palavras: radical, prefixo, sufixo, desinências, vogal temática, tema.",
+"Processos: derivação (prefixal, sufixal, parassintética, regressiva, imprópria), composição (justaposição e aglutinação), hibridismo, onomatopeia, abreviação, siglas, neologismo."
+]
+},
+{
+"id": "Q-LIN-0094",
+"g": "E",
+"e": "A derivação parassintética forma palavras pela redução de verbos, como em 'ataque'; a regressiva forma palavras pelo acréscimo simultâneo de prefixo e sufixo, como em 'entardecer'. Isso é consenso na área.",
+"velho": "Formação de palavras.",
+"aula": [
+"Estrutura e formação de palavras: radical, prefixo, sufixo, desinências, vogal temática, tema.",
+"Processos: derivação (prefixal, sufixal, parassintética, regressiva, imprópria), composição (justaposição e aglutinação), hibridismo, onomatopeia, abreviação, siglas, neologismo."
+]
+},
+{
+"id": "Q-LIN-0095",
+"g": "C",
+"e": "Na composição por justaposição, os elementos mantêm sua integridade (guarda-chuva); na aglutinação, há perda de elementos ou de sons (planalto, de plano e alto).",
+"velho": "Composição.",
+"aula": [
+"Processos: derivação (prefixal, sufixal, parassintética, regressiva, imprópria), composição (justaposição e aglutinação), hibridismo, onomatopeia, abreviação, siglas, neologismo."
+]
+},
+{
+"id": "Q-LIN-0096",
+"g": "E",
+"e": "Na composição por aglutinação, os elementos mantêm sua integridade (guarda-chuva); na justaposição, há perda de sons de um dos elementos (planalto). Trata-se de prática corrente.",
+"velho": "Composição.",
+"aula": [
+"Processos: derivação (prefixal, sufixal, parassintética, regressiva, imprópria), composição (justaposição e aglutinação), hibridismo, onomatopeia, abreviação, siglas, neologismo."
+]
+},
+{
+"id": "Q-LIN-0097",
+"g": "C",
+"e": "Ditongo é o encontro de vogal e semivogal na mesma sílaba, ao passo que hiato é o encontro de duas vogais em sílabas separadas, como em 'saída'.",
+"velho": "Grupos vocálicos.",
+"aula": [
+"Grupos vocálicos: ditongo (vogal e semivogal na mesma sílaba), tritongo e hiato (vogais em sílabas separadas)."
+]
+},
+{
+"id": "Q-LIN-0098",
+"g": "E",
+"e": "Hiato é o encontro de vogal e semivogal na mesma sílaba, ao passo que ditongo é o encontro de duas vogais em sílabas separadas, como em 'saída'.",
+"velho": "Grupos vocálicos.",
+"aula": [
+"Grupos vocálicos: ditongo (vogal e semivogal na mesma sílaba), tritongo e hiato (vogais em sílabas separadas)."
+]
+},
+{
+"id": "Q-LIN-0099",
+"g": "C",
+"e": "São parônimas palavras semelhantes na forma e diferentes no sentido, como 'cumprimento' e 'comprimento', 'infligir' e 'infringir'; são homônimas as que têm mesma pronúncia ou grafia e sentidos diferentes.",
+"velho": "Homônimos e parônimos.",
+"aula": [
+"Homônimas têm mesma pronúncia ou grafia e sentidos distintos (homófonas, homógrafas, perfeitas); parônimas são semelhantes na forma e diferentes no sentido (cumprimento e comprimento, emergir e imergir, infligir e infringir); cognatas partilham o mesmo radical (terra, terreno, enterrar).",
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0100",
+"g": "E",
+"e": "São homônimas palavras semelhantes na forma e diferentes no sentido, como 'cumprimento' e 'comprimento'; são parônimas as que têm exatamente a mesma pronúncia e grafia. Trata-se de prática corrente.",
+"velho": "Homônimos e parônimos.",
+"aula": [
+"Homônimas têm mesma pronúncia ou grafia e sentidos distintos (homófonas, homógrafas, perfeitas); parônimas são semelhantes na forma e diferentes no sentido (cumprimento e comprimento, emergir e imergir, infligir e infringir); cognatas partilham o mesmo radical (terra, terreno, enterrar).",
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0101",
+"g": "C",
+"e": "Palavras cognatas partilham o mesmo radical, como 'terra', 'terreno' e 'enterrar'.",
+"velho": "Cognatas.",
+"aula": [
+"Estrutura e formação de palavras: radical, prefixo, sufixo, desinências, vogal temática, tema.",
+"Homônimas têm mesma pronúncia ou grafia e sentidos distintos (homófonas, homógrafas, perfeitas); parônimas são semelhantes na forma e diferentes no sentido (cumprimento e comprimento, emergir e imergir, infligir e infringir); cognatas partilham o mesmo radical (terra, terreno, enterrar)."
+]
+},
+{
+"id": "Q-LIN-0102",
+"g": "E",
+"e": "Palavras cognatas são as que têm sentidos opostos, como 'terra' e 'mar'. Isso é consenso na área.",
+"velho": "Cognatas.",
+"aula": [
+"Homônimas têm mesma pronúncia ou grafia e sentidos distintos (homófonas, homógrafas, perfeitas); parônimas são semelhantes na forma e diferentes no sentido (cumprimento e comprimento, emergir e imergir, infligir e infringir); cognatas partilham o mesmo radical (terra, terreno, enterrar).",
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0103",
+"g": "C",
+"e": "Hiperonímia é a relação entre um termo mais geral e outro mais específico, como 'flor' em relação a 'rosa'; a hiponímia é a relação inversa, do termo mais específico com o geral.",
+"velho": "Hiperonímia e hiponímia.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0104",
+"g": "E",
+"e": "Hiponímia é a relação entre um termo mais geral e outro mais específico, como 'flor' em relação a 'rosa'; a hiperonímia é a relação inversa. Trata-se de prática corrente.",
+"velho": "Hiperonímia e hiponímia.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0105",
+"g": "C",
+"e": "Campo semântico é o conjunto de palavras associadas a uma mesma área de significado, como 'juiz', 'sentença' e 'réu' no campo da justiça.",
+"velho": "Campo semântico.",
+"aula": [
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0106",
+"g": "E",
+"e": "Campo semântico é o conjunto de palavras que têm o mesmo radical, como 'terra', 'terreno' e 'enterrar'. Isso é consenso na área.",
+"velho": "Campo semântico.",
+"aula": [
+"Homônimas têm mesma pronúncia ou grafia e sentidos distintos (homófonas, homógrafas, perfeitas); parônimas são semelhantes na forma e diferentes no sentido (cumprimento e comprimento, emergir e imergir, infligir e infringir); cognatas partilham o mesmo radical (terra, terreno, enterrar).",
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0107",
+"g": "C",
+"e": "A sinonímia raramente é perfeita, pois palavras sinônimas costumam diferir em registro, conotação ou contexto de uso.",
+"velho": "Sinonímia.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0108",
+"g": "E",
+"e": "A sinonímia é sempre perfeita, e as palavras sinônimas são intercambiáveis em qualquer contexto, sem diferença de registro ou sentido.",
+"velho": "Sinonímia.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…",
+"Relações de sentido: sinonímia (sentidos próximos, raramente idênticos), antonímia (oposição), hiperonímia (termo mais geral, como 'flor' em relação a 'rosa') e hiponímia (termo mais específico), campo semântico (conjunto de palavras ligadas a uma área de significado, como justiça: juiz, sentença, réu), holonímia e meronímia (todo e parte)."
+]
+},
+{
+"id": "Q-LIN-0109",
+"g": "C",
+"e": "Na organização retórica do parágrafo, a definição explica o que algo é, a exemplificação ilustra a ideia com casos, a especificação detalha o geral e a descrição caracteriza ou apresenta atributos.",
+"velho": "Organização retórica.",
+"aula": [
+"Ideia principal é o núcleo semântico do texto ou do parágrafo, em geral expressa no tópico frasal; detalhes de apoio são exemplos, dados, explicações, argumentos que sustentam a ideia principal.",
+"Organização retórica do parágrafo: generalização, exemplificação, descrição, definição e especificação."
+]
+},
+{
+"id": "Q-LIN-0110",
+"g": "E",
+"e": "Na organização retórica do parágrafo, a exemplificação explica o que algo é, a definição ilustra a ideia com casos, e a generalização detalha o específico. Isso é consenso na área.",
+"velho": "Organização retórica.",
+"aula": [
+"Ideia principal é o núcleo semântico do texto ou do parágrafo, em geral expressa no tópico frasal; detalhes de apoio são exemplos, dados, explicações, argumentos que sustentam a ideia principal.",
+"Organização retórica do parágrafo: generalização, exemplificação, descrição, definição e especificação."
+]
+},
+{
+"id": "Q-LIN-0111",
+"g": "C",
+"e": "A generalização apresenta uma afirmação ampla, de que as demais ideias do parágrafo costumam decorrer ou que os exemplos ilustram.",
+"velho": "Generalização.",
+"aula": [
+"Ideia principal é o núcleo semântico do texto ou do parágrafo, em geral expressa no tópico frasal; detalhes de apoio são exemplos, dados, explicações, argumentos que sustentam a ideia principal.",
+"Organização retórica do parágrafo: generalização, exemplificação, descrição, definição e especificação."
+]
+},
+{
+"id": "Q-LIN-0112",
+"g": "E",
+"e": "A generalização é o recurso pelo qual o autor apresenta apenas casos particulares, sem qualquer afirmação ampla. Trata-se de prática corrente.",
+"velho": "Generalização.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor."
+]
+},
+{
+"id": "Q-LIN-0113",
+"g": "C",
+"e": "A compreensão crítica envolve a seleção de inferências cabíveis a partir do texto, e não de qualquer conclusão que o leitor queira atribuir ao autor.",
+"velho": "Inferência.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor.",
+"Compreensão literal é a leitura do que está explícito; interpretativa depreende o implícito, o propósito do autor; crítica avalia, compara e seleciona inferências, distinguindo fato e opinião."
+]
+},
+{
+"id": "Q-LIN-0114",
+"g": "E",
+"e": "A compreensão crítica permite ao leitor atribuir ao autor qualquer conclusão, ainda que sem apoio no texto. Isso é consenso na área.",
+"velho": "Inferência.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor.",
+"Compreensão literal é a leitura do que está explícito; interpretativa depreende o implícito, o propósito do autor; crítica avalia, compara e seleciona inferências, distinguindo fato e opinião."
+]
+},
+{
+"id": "Q-LIN-0115",
+"g": "C",
+"e": "A conexão é recurso coesivo realizado por conjunções e locuções que ligam orações, períodos e parágrafos.",
+"velho": "Conexão.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…"
+]
+},
+{
+"id": "Q-LIN-0116",
+"g": "E",
+"e": "A conexão é recurso coesivo realizado exclusivamente por pronomes, e não por conjunções ou locuções.",
+"velho": "Conexão.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…"
+]
+},
+{
+"id": "Q-LIN-0117",
+"g": "C",
+"e": "O propósito do autor é elemento da compreensão interpretativa, e sua identificação depende de pistas do texto, como escolha lexical e organização argumentativa.",
+"velho": "Propósito do autor.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor.",
+"Compreensão literal é a leitura do que está explícito; interpretativa depreende o implícito, o propósito do autor; crítica avalia, compara e seleciona inferências, distinguindo fato e opinião."
+]
+},
+{
+"id": "Q-LIN-0118",
+"g": "E",
+"e": "O propósito do autor está sempre explícito no texto, de modo que a compreensão interpretativa dispensa qualquer inferência. Isso é consenso na área.",
+"velho": "Propósito do autor.",
+"aula": [
+"Compreensão literal é a leitura do que está explícito; interpretativa depreende o implícito, o propósito do autor; crítica avalia, compara e seleciona inferências, distinguindo fato e opinião."
+]
+},
+{
+"id": "Q-LIN-0119",
+"g": "C",
+"e": "A repetição pode ser usada com valor enfático, mas, em texto oficial, deve ser evitada quando for mera redundância.",
+"velho": "Repetição.",
+"aula": [
+"Relações coesivas: referência (anáfora retoma o que já foi dito; catáfora antecipa o que será dito; exófora remete ao contexto situacional, fora do texto); substituição (uso de outro termo, hiperônimo, sinônimo ou pronome, no lugar de um elemento); elipse (omissão de um termo recuperável pelo contexto); repetição ou reiteração (de palavras ou de estruturas); conexão…"
+]
+},
+{
+"id": "Q-LIN-0120",
+"g": "E",
+"e": "A repetição é sempre vedada em qualquer gênero textual, ainda que tenha valor enfático. Trata-se de prática corrente.",
+"velho": "Repetição.",
+"aula": [
+"Coesão é a ligação entre os elementos da superfície do texto, por meios linguísticos; coerência é a continuidade de sentido, a possibilidade de interpretar o texto como um todo significativo, e depende também de conhecimento de mundo, da situação e do leitor."
+]
+},
+{
+"id": "Q-LIN-0121",
+"g": "C",
+"e": "Em um parágrafo que começa afirmando que 'a transparência fortalece a democracia' e a seguir cita o caso das sessões transmitidas ao vivo, o caso citado é recurso de exemplificação a serviço da ideia principal.",
+"velho": "Exemplificação.",
+"aula": [
+"Ideia principal é o núcleo semântico do texto ou do parágrafo, em geral expressa no tópico frasal; detalhes de apoio são exemplos, dados, explicações, argumentos que sustentam a ideia principal.",
+"Organização retórica do parágrafo: generalização, exemplificação, descrição, definição e especificação."
+]
+},
+{
+"id": "Q-LIN-0122",
+"g": "E",
+"e": "Em um parágrafo que começa afirmando que 'a transparência fortalece a democracia' e a seguir cita o caso das sessões transmitidas ao vivo, o caso citado é a ideia principal e a frase inicial é mero detalhe.",
+"velho": "Exemplificação.",
+"aula": [
+"Ideia principal é o núcleo semântico do texto ou do parágrafo, em geral expressa no tópico frasal; detalhes de apoio são exemplos, dados, explicações, argumentos que sustentam a ideia principal.",
+"Organização retórica do parágrafo: generalização, exemplificação, descrição, definição e especificação."
+]
+},
+{
+"id": "Q-LIN-0123",
+"g": "C",
+"e": "No texto oficial, os recursos estilísticos são contidos, em favor da impessoalidade, da clareza e da concisão.",
+"velho": "Texto oficial.",
+"aula": [
+"No texto oficial, os recursos estilísticos são contidos, em favor da impessoalidade, da clareza e da concisão.",
+"Cada gênero reclama recursos próprios: o texto jurídico e o oficial exigem precisão, objetividade, formalidade e impessoalidade; o literário admite a polissemia; a publicidade usa apelo e conotação; o jornalístico, objetividade e lide. A escolha de recursos deve atender ao propósito comunicativo e ao interlocutor."
+]
+},
+{
+"id": "Q-LIN-0124",
+"g": "E",
+"e": "No texto oficial, os recursos estilísticos devem ser ostensivos, em favor da expressividade pessoal do redator.",
+"velho": "Texto oficial.",
+"aula": [
+"No texto oficial, os recursos estilísticos são contidos, em favor da impessoalidade, da clareza e da concisão.",
+"Cada gênero reclama recursos próprios: o texto jurídico e o oficial exigem precisão, objetividade, formalidade e impessoalidade; o literário admite a polissemia; a publicidade usa apelo e conotação; o jornalístico, objetividade e lide. A escolha de recursos deve atender ao propósito comunicativo e ao interlocutor."
+]
+},
+{
+"id": "Q-LIN-0125",
+"g": "C",
+"e": "Entre os recursos estruturais de um texto estão a organização em introdução, desenvolvimento e conclusão, o parágrafo com tópico frasal e a progressão temática; entre os estilísticos, as figuras de linguagem e a escolha lexical.",
+"velho": "Recursos estruturais e estilísticos.",
+"aula": [
+"Recursos estruturais: organização em introdução, desenvolvimento e conclusão; parágrafo com tópico frasal, desenvolvimento e fecho; progressão temática (retomada do dado e acréscimo do novo); articuladores; títulos e subtítulos.",
+"Recursos estilísticos: figuras de linguagem, paralelismo, repetição enfática, inversão da ordem, pontuação expressiva, escolha lexical."
+]
+},
+{
+"id": "Q-LIN-0126",
+"g": "E",
+"e": "Entre os recursos estruturais de um texto estão as figuras de linguagem e a escolha lexical; entre os estilísticos, a organização em introdução, desenvolvimento e conclusão. Isso é consenso na área.",
+"velho": "Recursos estruturais e estilísticos.",
+"aula": [
+"Recursos estruturais: organização em introdução, desenvolvimento e conclusão; parágrafo com tópico frasal, desenvolvimento e fecho; progressão temática (retomada do dado e acréscimo do novo); articuladores; títulos e subtítulos.",
+"Recursos estilísticos: figuras de linguagem, paralelismo, repetição enfática, inversão da ordem, pontuação expressiva, escolha lexical."
+]
+},
+{
+"id": "Q-LIN-0127",
+"g": "C",
+"e": "Adequar a linguagem ao gênero não é o mesmo que corrigi-la: uma frase pode ser gramaticalmente correta e inadequada à situação de comunicação.",
+"velho": "Adequação.",
+"aula": [
+"Adequação é a escolha de registro, vocabulário e estrutura compatíveis com o gênero, a finalidade e o leitor.",
+"Adequar não é o mesmo que corrigir: uma frase pode ser gramaticalmente correta e inadequada à situação (por exemplo, gíria em um ofício), assim como uma construção desviante da norma pode ser adequada em um diálogo informal."
+]
+},
+{
+"id": "Q-LIN-0128",
+"g": "E",
+"e": "Adequar a linguagem ao gênero é o mesmo que corrigi-la, pois toda frase gramaticalmente correta é adequada a qualquer situação. Trata-se de prática corrente.",
+"velho": "Adequação.",
+"aula": [
+"Adequação é a escolha de registro, vocabulário e estrutura compatíveis com o gênero, a finalidade e o leitor.",
+"Adequar não é o mesmo que corrigir: uma frase pode ser gramaticalmente correta e inadequada à situação (por exemplo, gíria em um ofício), assim como uma construção desviante da norma pode ser adequada em um diálogo informal."
+]
+},
+{
+"id": "Q-LIN-0129",
+"g": "C",
+"e": "O uso de gíria em um ofício dirigido a um ministro é exemplo de inadequação ao gênero e ao interlocutor, ainda que a frase seja compreensível.",
+"velho": "Inadequação.",
+"aula": [
+"Adequar não é o mesmo que corrigir: uma frase pode ser gramaticalmente correta e inadequada à situação (por exemplo, gíria em um ofício), assim como uma construção desviante da norma pode ser adequada em um diálogo informal.",
+"Cada gênero reclama recursos próprios: o texto jurídico e o oficial exigem precisão, objetividade, formalidade e impessoalidade; o literário admite a polissemia; a publicidade usa apelo e conotação; o jornalístico, objetividade e lide. A escolha de recursos deve atender ao propósito comunicativo e ao interlocutor."
+]
+},
+{
+"id": "Q-LIN-0130",
+"g": "E",
+"e": "O uso de gíria em um ofício dirigido a um ministro é adequado ao gênero, desde que a frase seja compreensível. Isso é consenso na área.",
+"velho": "Inadequação.",
+"aula": [
+"Adequar não é o mesmo que corrigir: uma frase pode ser gramaticalmente correta e inadequada à situação (por exemplo, gíria em um ofício), assim como uma construção desviante da norma pode ser adequada em um diálogo informal."
+]
+},
+{
+"id": "Q-LIN-0131",
+"g": "C",
+"e": "A progressão temática combina a retomada de informação já conhecida (dado) com o acréscimo de informação nova.",
+"velho": "Progressão temática.",
+"aula": [
+"Recursos estruturais: organização em introdução, desenvolvimento e conclusão; parágrafo com tópico frasal, desenvolvimento e fecho; progressão temática (retomada do dado e acréscimo do novo); articuladores; títulos e subtítulos."
+]
+},
+{
+"id": "Q-LIN-0132",
+"g": "E",
+"e": "A progressão temática consiste em repetir a mesma informação, sem acréscimo de informação nova. Trata-se de prática corrente.",
+"velho": "Progressão temática.",
+"aula": [
+"Recursos estruturais: organização em introdução, desenvolvimento e conclusão; parágrafo com tópico frasal, desenvolvimento e fecho; progressão temática (retomada do dado e acréscimo do novo); articuladores; títulos e subtítulos."
+]
+},
+{
+"id": "Q-LIN-0133",
+"g": "C",
+"e": "Cada gênero reclama recursos próprios: o jurídico e o oficial exigem precisão e objetividade, ao passo que o literário admite a polissemia.",
+"velho": "Recursos por gênero.",
+"aula": [
+"No texto oficial, os recursos estilísticos são contidos, em favor da impessoalidade, da clareza e da concisão.",
+"Cada gênero reclama recursos próprios: o texto jurídico e o oficial exigem precisão, objetividade, formalidade e impessoalidade; o literário admite a polissemia; a publicidade usa apelo e conotação; o jornalístico, objetividade e lide. A escolha de recursos deve atender ao propósito comunicativo e ao interlocutor."
+]
+},
+{
+"id": "Q-LIN-0134",
+"g": "E",
+"e": "Os mesmos recursos estilísticos servem a qualquer gênero, e o texto jurídico deve, tanto quanto o literário, explorar a polissemia.",
+"velho": "Recursos por gênero.",
+"aula": [
+"No texto oficial, os recursos estilísticos são contidos, em favor da impessoalidade, da clareza e da concisão.",
+"Cada gênero reclama recursos próprios: o texto jurídico e o oficial exigem precisão, objetividade, formalidade e impessoalidade; o literário admite a polissemia; a publicidade usa apelo e conotação; o jornalístico, objetividade e lide. A escolha de recursos deve atender ao propósito comunicativo e ao interlocutor."
+]
+},
+{
+"id": "Q-LIN-0135",
+"g": "C",
+"e": "As convenções da escrita abrangem ortografia, pontuação, paragrafação e formatação, além das normas específicas do gênero.",
+"velho": "Convenções da escrita.",
+"aula": [
+"As convenções da escrita abrangem ortografia, pontuação, paragrafação, formatação e normas do gênero."
+]
+},
+{
+"id": "Q-LIN-0136",
+"g": "E",
+"e": "As convenções da escrita limitam-se à ortografia, sendo irrelevantes a pontuação, a paragrafação e as normas do gênero.",
+"velho": "Convenções da escrita.",
+"aula": [
+"As convenções da escrita abrangem ortografia, pontuação, paragrafação, formatação e normas do gênero."
+]
+},
+{
+"id": "Q-LIN-0137",
+"g": "C",
+"e": "O parágrafo bem estruturado costuma ter tópico frasal, desenvolvimento e fecho.",
+"velho": "Parágrafo.",
+"aula": [
+"Recursos estruturais: organização em introdução, desenvolvimento e conclusão; parágrafo com tópico frasal, desenvolvimento e fecho; progressão temática (retomada do dado e acréscimo do novo); articuladores; títulos e subtítulos."
+]
+},
+{
+"id": "Q-LIN-0138",
+"g": "E",
+"e": "O parágrafo bem estruturado dispensa tópico frasal e deve conter apenas o desenvolvimento, sem fecho.",
+"velho": "Parágrafo.",
+"aula": [
+"Recursos estruturais: organização em introdução, desenvolvimento e conclusão; parágrafo com tópico frasal, desenvolvimento e fecho; progressão temática (retomada do dado e acréscimo do novo); articuladores; títulos e subtítulos."
+]
+},
+{
+"id": "Q-LIN-0139",
+"g": "C",
+"e": "Um redator que, em um relatório técnico, usa linguagem direta, frases curtas e vocabulário preciso está adotando recursos adequados ao gênero.",
+"velho": "Recursos do relatório.",
+"aula": [
+"Recursos estilísticos: figuras de linguagem, paralelismo, repetição enfática, inversão da ordem, pontuação expressiva, escolha lexical.",
+"Adequação é a escolha de registro, vocabulário e estrutura compatíveis com o gênero, a finalidade e o leitor."
+]
+},
+{
+"id": "Q-LIN-0140",
+"g": "E",
+"e": "Um redator que, em um relatório técnico, usa linguagem rebuscada, frases longas e figuras de linguagem está adotando recursos adequados ao gênero.",
+"velho": "Recursos do relatório.",
+"aula": [
+"Recursos estilísticos: figuras de linguagem, paralelismo, repetição enfática, inversão da ordem, pontuação expressiva, escolha lexical.",
+"Cada gênero reclama recursos próprios: o texto jurídico e o oficial exigem precisão, objetividade, formalidade e impessoalidade; o literário admite a polissemia; a publicidade usa apelo e conotação; o jornalístico, objetividade e lide. A escolha de recursos deve atender ao propósito comunicativo e ao interlocutor."
+]
+},
+{
+"id": "Q-LIN-0141",
+"g": "C",
+"e": "Títulos e subtítulos são recursos estruturais que organizam a leitura e indicam a progressão do texto.",
+"velho": "Títulos e subtítulos.",
+"aula": [
+"Recursos estruturais: organização em introdução, desenvolvimento e conclusão; parágrafo com tópico frasal, desenvolvimento e fecho; progressão temática (retomada do dado e acréscimo do novo); articuladores; títulos e subtítulos.",
+"No texto oficial, os recursos estilísticos são contidos, em favor da impessoalidade, da clareza e da concisão."
+]
+},
+{
+"id": "Q-LIN-0142",
+"g": "E",
+"e": "Títulos e subtítulos são recursos estilísticos sem função na organização da leitura. Isso é consenso na área.",
+"velho": "Títulos e subtítulos.",
+"aula": [
+"Recursos estruturais: organização em introdução, desenvolvimento e conclusão; parágrafo com tópico frasal, desenvolvimento e fecho; progressão temática (retomada do dado e acréscimo do novo); articuladores; títulos e subtítulos.",
+"Recursos estilísticos: figuras de linguagem, paralelismo, repetição enfática, inversão da ordem, pontuação expressiva, escolha lexical."
+]
+},
+{
+"id": "Q-LIN-0143",
+"g": "C",
+"e": "A inversão da ordem e a pontuação expressiva são recursos estilísticos que, no texto oficial, devem ser evitados em favor da ordem direta.",
+"velho": "Inversão e pontuação expressiva.",
+"aula": [
+"Recursos estilísticos: figuras de linguagem, paralelismo, repetição enfática, inversão da ordem, pontuação expressiva, escolha lexical.",
+"No texto oficial, os recursos estilísticos são contidos, em favor da impessoalidade, da clareza e da concisão."
+]
+},
+{
+"id": "Q-LIN-0144",
+"g": "E",
+"e": "A inversão da ordem e a pontuação expressiva são recursos estruturais de uso obrigatório no texto oficial. Trata-se de prática corrente.",
+"velho": "Inversão e pontuação expressiva.",
+"aula": [
+"Recursos estilísticos: figuras de linguagem, paralelismo, repetição enfática, inversão da ordem, pontuação expressiva, escolha lexical.",
+"No texto oficial, os recursos estilísticos são contidos, em favor da impessoalidade, da clareza e da concisão."
+]
+},
+{
+"id": "Q-LIN-0145",
+"g": "C",
+"e": "Enunciação é o ato de dizer, e enunciado é o produto desse ato, aquilo que foi dito.",
+"velho": "Benveniste.",
+"aula": [
+"Para Benveniste, enunciação é o ato individual de utilização da língua, o colocar a língua em funcionamento; enunciado é o produto, o que foi dito.",
+"A enunciação marca-se no enunciado por dêiticos de pessoa (eu, tu), de tempo (agora, ontem) e de espaço (aqui, ali), que só se interpretam em relação ao ato de dizer."
+]
+},
+{
+"id": "Q-LIN-0146",
+"g": "E",
+"e": "Enunciação é o produto do ato de dizer, aquilo que foi dito, e enunciado é o ato de dizer.",
+"velho": "Benveniste.",
+"aula": [
+"Para Benveniste, enunciação é o ato individual de utilização da língua, o colocar a língua em funcionamento; enunciado é o produto, o que foi dito.",
+"A enunciação marca-se no enunciado por dêiticos de pessoa (eu, tu), de tempo (agora, ontem) e de espaço (aqui, ali), que só se interpretam em relação ao ato de dizer."
+]
+},
+{
+"id": "Q-LIN-0147",
+"g": "C",
+"e": "Os dêiticos de pessoa, tempo e espaço, como 'eu', 'agora' e 'aqui', só se interpretam em relação à situação de enunciação.",
+"velho": "Dêixis.",
+"aula": [
+"A enunciação marca-se no enunciado por dêiticos de pessoa (eu, tu), de tempo (agora, ontem) e de espaço (aqui, ali), que só se interpretam em relação ao ato de dizer."
+]
+},
+{
+"id": "Q-LIN-0148",
+"g": "E",
+"e": "Os dêiticos de pessoa, tempo e espaço, como 'eu', 'agora' e 'aqui', têm sentido fixo e independente da situação de enunciação.",
+"velho": "Dêixis.",
+"aula": [
+"A enunciação marca-se no enunciado por dêiticos de pessoa (eu, tu), de tempo (agora, ontem) e de espaço (aqui, ali), que só se interpretam em relação ao ato de dizer."
+]
+},
+{
+"id": "Q-LIN-0149",
+"g": "C",
+"e": "Em um discurso lido em plenário, a expressão 'hoje' remete ao dia da leitura, o que mostra a dependência dos dêiticos em relação ao momento da enunciação.",
+"velho": "Dêiticos temporais.",
+"aula": [
+"A enunciação marca-se no enunciado por dêiticos de pessoa (eu, tu), de tempo (agora, ontem) e de espaço (aqui, ali), que só se interpretam em relação ao ato de dizer."
+]
+}
+]

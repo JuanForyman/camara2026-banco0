@@ -1,0 +1,696 @@
+[
+{
+"id": "Q-LIN-0430",
+"g": "E",
+"e": "Um redator que, para obter concisão, acrescenta adjetivos intensificadores às ideias principais e emprega subordinação para encadear todas as informações em um só período, aplica corretamente o atributo da concisão.",
+"velho": "Manual, item 3.3.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Concisão: transmitir o máximo de informações com o mínimo de palavras; não é economia de pensamento nem eliminação de passagens substanciais, e sim exclusão de palavras inúteis, redundâncias, adjetivos e advérbios inúteis e subordinação excessiva."
+]
+},
+{
+"id": "Q-LIN-0431",
+"g": "C",
+"e": "Entre os mecanismos que estabelecem a coesão e a coerência de um texto, o Manual aponta a referência, a substituição, a elipse e o uso de conjunção.",
+"velho": "Manual, item 3.4.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Coesão e coerência: conexão entre palavras, frases e parágrafos; mecanismos: referência, substituição, elipse e conjunção."
+]
+},
+{
+"id": "Q-LIN-0432",
+"g": "E",
+"e": "Entre os mecanismos que estabelecem a coesão e a coerência de um texto, o Manual aponta a referência, a substituição, a hipérbole e o uso de conjunção.",
+"velho": "Manual, item 3.4.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Coesão e coerência: conexão entre palavras, frases e parágrafos; mecanismos: referência, substituição, elipse e conjunção."
+]
+},
+{
+"id": "Q-LIN-0433",
+"g": "C",
+"e": "No período 'O decreto regulamenta os casos gerais; a portaria, os particulares', a omissão do verbo 'regulamenta' na segunda oração é exemplo de elipse, termo recuperável pelo contexto.",
+"velho": "Manual, item 3.4.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa."
+]
+},
+{
+"id": "Q-LIN-0434",
+"g": "E",
+"e": "No período 'O decreto regulamenta os casos gerais; a portaria, os particulares', a omissão do verbo 'regulamenta' na segunda oração é exemplo de substituição, colocação de um item lexical no lugar de outro.",
+"velho": "Manual, item 3.4.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa."
+]
+},
+{
+"id": "Q-LIN-0435",
+"g": "C",
+"e": "A impessoalidade remete a dois aspectos: a administração pública não deve privilegiar ou prejudicar ninguém, orientando-se pelo interesse público, e há abstração da pessoalidade dos atos administrativos, pois a ação do servidor resulta da vontade estatal.",
+"velho": "Manual, item 3.5.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Impessoalidade (art. 37 da CF) remete a dois aspectos: a administração não deve privilegiar ou prejudicar ninguém (interesse público) e a abstração da pessoalidade dos atos (a vontade é estatal, ainda que exercida por servidores)."
+]
+},
+{
+"id": "Q-LIN-0436",
+"g": "E",
+"e": "A impessoalidade remete a um único aspecto: a proibição da primeira pessoa e da voz ativa nos textos, o que torna a vontade do servidor irrelevante para a comunicação oficial. Tal solução decorreria, segundo esse entendimento, da natureza do expediente.",
+"velho": "Manual, item 3.5.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Impessoalidade (art. 37 da CF) remete a dois aspectos: a administração não deve privilegiar ou prejudicar ninguém (interesse público) e a abstração da pessoalidade dos atos (a vontade é estatal, ainda que exercida por servidores)."
+]
+},
+{
+"id": "Q-LIN-0437",
+"g": "C",
+"e": "Segundo o Manual, o tratamento impessoal das comunicações oficiais decorre da ausência de impressões individuais de quem comunica, da impessoalidade de quem recebe a comunicação e do caráter impessoal do próprio assunto tratado.",
+"velho": "Manual, item 3.5.",
+"aula": [
+"Quem comunica é sempre o serviço público; o que se comunica é assunto relativo às atribuições do órgão; o destinatário é o público, uma instituição privada ou outro órgão ou entidade pública.",
+"Decorre da ausência de impressões individuais de quem comunica, da impessoalidade de quem recebe e do caráter impessoal do assunto."
+]
+},
+{
+"id": "Q-LIN-0438",
+"g": "E",
+"e": "Segundo o Manual, o tratamento impessoal das comunicações oficiais decorre da ausência de impressões individuais de quem comunica e da identificação nominal do destinatário, que deve ser tratado de forma personalizada.",
+"velho": "Manual, item 3.5.",
+"aula": [
+"Quem comunica é sempre o serviço público; o que se comunica é assunto relativo às atribuições do órgão; o destinatário é o público, uma instituição privada ou outro órgão ou entidade pública.",
+"Decorre da ausência de impressões individuais de quem comunica, da impessoalidade de quem recebe e do caráter impessoal do assunto."
+]
+},
+{
+"id": "Q-LIN-0439",
+"g": "C",
+"e": "Um expediente assinado por chefe de seção é comunicação feita em nome do serviço público e, por isso, não comporta as impressões individuais do signatário.",
+"velho": "Manual, item 3.5.",
+"aula": [
+"Quem comunica é sempre o serviço público; o que se comunica é assunto relativo às atribuições do órgão; o destinatário é o público, uma instituição privada ou outro órgão ou entidade pública.",
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa."
+]
+},
+{
+"id": "Q-LIN-0440",
+"g": "E",
+"e": "Um expediente assinado por chefe de seção pode registrar as impressões individuais do signatário, pois quem assina assume a autoria da comunicação em nome próprio.",
+"velho": "Manual, item 3.5.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Decorre da ausência de impressões individuais de quem comunica, da impessoalidade de quem recebe e do caráter impessoal do assunto."
+]
+},
+{
+"id": "Q-LIN-0441",
+"g": "C",
+"e": "A formalidade e a padronização aplicam-se às comunicações feitas em meio eletrônico, como o e-mail e o documento gerado no SEI, e aos eventuais documentos impressos.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Formalidade e padronização: regras de forma, valendo também para meio eletrônico (e-mail, SEI); formalidade de tratamento e uniformidade, pois a administração federal é una."
+]
+},
+{
+"id": "Q-LIN-0442",
+"g": "E",
+"e": "A formalidade e a padronização aplicam-se aos documentos impressos, e as comunicações feitas em meio eletrônico, como o e-mail e o documento gerado no SEI, dispensam as regras de forma.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Formalidade e padronização: regras de forma, valendo também para meio eletrônico (e-mail, SEI); formalidade de tratamento e uniformidade, pois a administração federal é una."
+]
+},
+{
+"id": "Q-LIN-0443",
+"g": "C",
+"e": "A formalidade de tratamento não se reduz ao correto emprego do pronome de tratamento para cada autoridade: diz respeito também à civilidade no enfoque dado ao assunto e à uniformidade das comunicações, já que a administração pública federal é una.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Formalidade e padronização: regras de forma, valendo também para meio eletrônico (e-mail, SEI); formalidade de tratamento e uniformidade, pois a administração federal é una."
+]
+},
+{
+"id": "Q-LIN-0444",
+"g": "E",
+"e": "A formalidade de tratamento reduz-se ao correto emprego do pronome de tratamento para cada autoridade, e a uniformidade das comunicações é matéria de cada órgão, já que cada um tem sua própria prática. Trata-se de prática corrente.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Formalidade e padronização: regras de forma, valendo também para meio eletrônico (e-mail, SEI); formalidade de tratamento e uniformidade, pois a administração federal é una."
+]
+},
+{
+"id": "Q-LIN-0445",
+"g": "C",
+"e": "Segundo o Manual, não existe propriamente um padrão oficial de linguagem; o que há é o uso da norma padrão nos atos e nas comunicações oficiais.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos.",
+"Norma padrão: não existe propriamente um 'padrão oficial de linguagem'; há o uso da norma padrão nos atos e comunicações oficiais."
+]
+},
+{
+"id": "Q-LIN-0446",
+"g": "E",
+"e": "Segundo o Manual, existe um padrão oficial de linguagem, a linguagem burocrática, que deve ser adotado nos atos e nas comunicações oficiais para garantir a padronização.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos.",
+"Norma padrão: não existe propriamente um 'padrão oficial de linguagem'; há o uso da norma padrão nos atos e comunicações oficiais."
+]
+},
+{
+"id": "Q-LIN-0447",
+"g": "C",
+"e": "De acordo com o Manual, a língua culta é contra a pobreza de expressão, e não contra a sua simplicidade, e o uso do padrão culto não significa empregar a língua de modo rebuscado nem utilizar figuras de linguagem próprias do estilo literário.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"A língua culta é contra a pobreza de expressão, não contra a simplicidade; não significa linguagem rebuscada nem figuras próprias do estilo literário; consulta a dicionário e gramática é imperativa."
+]
+},
+{
+"id": "Q-LIN-0448",
+"g": "E",
+"e": "De acordo com o Manual, a língua culta é contra a simplicidade de expressão, e o uso do padrão culto significa empregar a língua de modo rebuscado e utilizar figuras de linguagem próprias do estilo literário. Trata-se de prática corrente.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"A língua culta é contra a pobreza de expressão, não contra a simplicidade; não significa linguagem rebuscada nem figuras próprias do estilo literário; consulta a dicionário e gramática é imperativa."
+]
+},
+{
+"id": "Q-LIN-0449",
+"g": "C",
+"e": "O padrão culto é imprescindível na redação oficial por estar acima das diferenças lexicais, morfológicas ou sintáticas regionais, dos modismos vocabulares e das particularidades linguísticas.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos.",
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa."
+]
+},
+{
+"id": "Q-LIN-0450",
+"g": "E",
+"e": "O padrão culto é desejável na redação oficial, mas pode ser substituído pela variedade regional quando o destinatário a utilizar, já que a comunicação eficaz prevalece sobre as diferenças lexicais.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos.",
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa."
+]
+},
+{
+"id": "Q-LIN-0451",
+"g": "C",
+"e": "O jargão burocrático, como todo jargão, deve ser evitado, pois terá sempre sua compreensão limitada.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"O jargão burocrático, como todo jargão, deve ser evitado, pois tem compreensão limitada."
+]
+},
+{
+"id": "Q-LIN-0452",
+"g": "E",
+"e": "O jargão burocrático é recomendado na redação oficial, pois reforça a padronização e tem compreensão ampla entre os servidores e os cidadãos.",
+"velho": "Manual, item 3.6.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"O jargão burocrático, como todo jargão, deve ser evitado, pois tem compreensão limitada."
+]
+},
+{
+"id": "Q-LIN-0453",
+"g": "C",
+"e": "Na redação oficial, quem comunica é sempre o serviço público, o que se comunica é assunto relativo às atribuições do órgão que comunica e o destinatário pode ser o público, uma instituição privada ou outro órgão ou entidade pública.",
+"velho": "Manual, item 1.",
+"aula": [
+"Redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos.",
+"Quem comunica é sempre o serviço público; o que se comunica é assunto relativo às atribuições do órgão; o destinatário é o público, uma instituição privada ou outro órgão ou entidade pública."
+]
+},
+{
+"id": "Q-LIN-0454",
+"g": "E",
+"e": "Na redação oficial, quem comunica é o servidor que assina o expediente, o que se comunica pode ser assunto de sua iniciativa e o destinatário é o público em geral, não se incluindo outros órgãos públicos. Isso é consenso na área.",
+"velho": "Manual, item 1.",
+"aula": [
+"Redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos.",
+"Quem comunica é sempre o serviço público; o que se comunica é assunto relativo às atribuições do órgão; o destinatário é o público, uma instituição privada ou outro órgão ou entidade pública."
+]
+},
+{
+"id": "Q-LIN-0455",
+"g": "C",
+"e": "Para a clareza, o Manual sugere não utilizar regionalismos e neologismos e explicitar o significado da sigla na primeira referência a ela.",
+"velho": "Manual, item 3.1.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Clareza: texto de imediata compreensão; sugere-se palavras simples em seu sentido comum (salvo assunto técnico), frases curtas e bem estruturadas, orações na ordem direta (a ordem inversa pode ser usada para evitar ambiguidade), uniformidade do tempo verbal, nada de regionalismos e neologismos, pontuação adequada, sigla explicitada na primeira referência e expressões estrangeiras apenas quando indispensáveis…"
+]
+},
+{
+"id": "Q-LIN-0456",
+"g": "E",
+"e": "Para a clareza, o Manual admite regionalismos e neologismos de uso corrente na região do destinatário e dispensa a explicitação da sigla quando ela for conhecida.",
+"velho": "Manual, item 3.1.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Clareza: texto de imediata compreensão; sugere-se palavras simples em seu sentido comum (salvo assunto técnico), frases curtas e bem estruturadas, orações na ordem direta (a ordem inversa pode ser usada para evitar ambiguidade), uniformidade do tempo verbal, nada de regionalismos e neologismos, pontuação adequada, sigla explicitada na primeira referência e expressões estrangeiras apenas quando indispensáveis…"
+]
+},
+{
+"id": "Q-LIN-0457",
+"g": "C",
+"e": "Os pronomes de tratamento, embora se refiram à segunda pessoa gramatical, levam a concordância para a terceira pessoa.",
+"velho": "Manual, item 4.1.1.",
+"aula": [
+"Os pronomes de tratamento adotam, tradicionalmente, a segunda pessoa do plural de maneira indireta; devem ser observados no endereçamento, no vocativo e no corpo do texto.",
+"Embora se refiram à segunda pessoa gramatical (com quem se fala), levam a concordância para a terceira pessoa; os possessivos referidos a eles são os da terceira pessoa ('Vossa Senhoria designará seu substituto', e não 'vosso')."
+]
+},
+{
+"id": "Q-LIN-0458",
+"g": "E",
+"e": "Os pronomes de tratamento, por se referirem à segunda pessoa gramatical, levam a concordância verbal para a segunda pessoa do plural.",
+"velho": "Manual, item 4.1.1.",
+"aula": [
+"Os pronomes de tratamento adotam, tradicionalmente, a segunda pessoa do plural de maneira indireta; devem ser observados no endereçamento, no vocativo e no corpo do texto.",
+"Embora se refiram à segunda pessoa gramatical (com quem se fala), levam a concordância para a terceira pessoa; os possessivos referidos a eles são os da terceira pessoa ('Vossa Senhoria designará seu substituto', e não 'vosso')."
+]
+},
+{
+"id": "Q-LIN-0459",
+"g": "C",
+"e": "Segundo o Manual, a frase correta é 'Vossa Senhoria designará seu substituto', pois os pronomes possessivos referidos a pronomes de tratamento são os da terceira pessoa.",
+"velho": "Manual, item 4.1.1.",
+"aula": [
+"Os pronomes de tratamento adotam, tradicionalmente, a segunda pessoa do plural de maneira indireta; devem ser observados no endereçamento, no vocativo e no corpo do texto.",
+"Embora se refiram à segunda pessoa gramatical (com quem se fala), levam a concordância para a terceira pessoa; os possessivos referidos a eles são os da terceira pessoa ('Vossa Senhoria designará seu substituto', e não 'vosso')."
+]
+},
+{
+"id": "Q-LIN-0460",
+"g": "E",
+"e": "Segundo o Manual, a frase correta é 'Vossa Senhoria designará vosso substituto', pois os pronomes possessivos referidos a pronomes de tratamento acompanham a segunda pessoa.",
+"velho": "Manual, item 4.1.1.",
+"aula": [
+"Os pronomes de tratamento adotam, tradicionalmente, a segunda pessoa do plural de maneira indireta; devem ser observados no endereçamento, no vocativo e no corpo do texto.",
+"Embora se refiram à segunda pessoa gramatical (com quem se fala), levam a concordância para a terceira pessoa; os possessivos referidos a eles são os da terceira pessoa ('Vossa Senhoria designará seu substituto', e não 'vosso')."
+]
+},
+{
+"id": "Q-LIN-0461",
+"g": "C",
+"e": "Em ofício dirigido a uma ministra, escreve-se 'Vossa Excelência está atarefada', pois o gênero do adjetivo deve coincidir com o sexo da pessoa a que se refere, e não com o substantivo da locução.",
+"velho": "Manual, item 4.1.1.",
+"aula": [
+"Os adjetivos concordam com o sexo da pessoa a que se refere ('Vossa Excelência está atarefada').",
+"Quadro do Manual: Vossa Excelência (abreviatura V."
+]
+},
+{
+"id": "Q-LIN-0462",
+"g": "E",
+"e": "Em ofício dirigido a uma ministra, escreve-se 'Vossa Excelência está atarefado', pois o gênero do adjetivo deve concordar com o substantivo 'Excelência'. Isso é consenso na área.",
+"velho": "Manual, item 4.1.1.",
+"aula": [
+"Os adjetivos concordam com o sexo da pessoa a que se refere ('Vossa Excelência está atarefada').",
+"Quadro do Manual: Vossa Excelência (abreviatura V."
+]
+},
+{
+"id": "Q-LIN-0463",
+"g": "C",
+"e": "Vossa Excelência e Vossa Senhoria são empregados para comunicar-se diretamente com o receptor, ao passo que Sua Excelência é empregado para fazer referência indireta a alguma autoridade, como no endereçamento do expediente.",
+"velho": "Manual, itens 4.1 e 4.1.1.",
+"aula": [
+"Vossa Excelência e Vossa Senhoria são usados para comunicar-se diretamente com o receptor;",
+"Sua Excelência é usado para fazer referência a autoridade (indiretamente), como no endereçamento."
+]
+},
+{
+"id": "Q-LIN-0464",
+"g": "E",
+"e": "Vossa Excelência e Vossa Senhoria são empregados para fazer referência indireta à autoridade, ao passo que Sua Excelência é empregado para comunicar-se diretamente com o receptor do expediente. Trata-se de prática corrente.",
+"velho": "Manual, itens 4.1 e 4.1.1.",
+"aula": [
+"Vossa Excelência e Vossa Senhoria são usados para comunicar-se diretamente com o receptor;",
+"Sua Excelência é usado para fazer referência a autoridade (indiretamente), como no endereçamento."
+]
+},
+{
+"id": "Q-LIN-0465",
+"g": "C",
+"e": "No endereçamento de ofício a autoridade tratada por Vossa Excelência, usa-se a forma 'A Sua Excelência o Senhor' ou 'A Sua Excelência a Senhora'.",
+"velho": "Manual, item 5.1.4.",
+"aula": [
+"Demais autoridades, mesmo as tratadas por Vossa Excelência: 'Senhor' ou 'Senhora' seguido do cargo (Senhora Senadora, Senhor Juiz, Senhora Ministra).",
+"Autoridades tratadas por Vossa Excelência: 'A Sua Excelência o Senhor' ou 'A Sua Excelência a Senhora'."
+]
+},
+{
+"id": "Q-LIN-0466",
+"g": "E",
+"e": "No endereçamento de ofício a autoridade tratada por Vossa Excelência, usa-se a forma 'A Vossa Excelência o Senhor' ou 'A Vossa Excelência a Senhora'.",
+"velho": "Manual, item 5.1.4.",
+"aula": [
+"Demais autoridades, mesmo as tratadas por Vossa Excelência: 'Senhor' ou 'Senhora' seguido do cargo (Senhora Senadora, Senhor Juiz, Senhora Ministra).",
+"Autoridades tratadas por Vossa Excelência: 'A Sua Excelência o Senhor' ou 'A Sua Excelência a Senhora'."
+]
+},
+{
+"id": "Q-LIN-0467",
+"g": "C",
+"e": "Quando o tratamento destinado ao receptor for Vossa Senhoria, o endereçamento é 'Ao Senhor' ou 'À Senhora', e não se utiliza a expressão 'A Sua Senhoria o Senhor'.",
+"velho": "Manual, item 5.1.4.",
+"aula": [
+"Vossa Excelência e Vossa Senhoria são usados para comunicar-se diretamente com o receptor;",
+"Vossa Senhoria: 'Ao Senhor' ou 'À Senhora' (não se usa 'A Sua Senhoria o Senhor')."
+]
+},
+{
+"id": "Q-LIN-0468",
+"g": "E",
+"e": "Quando o tratamento destinado ao receptor for Vossa Senhoria, o endereçamento é 'A Sua Senhoria o Senhor' ou 'A Sua Senhoria a Senhora', e não se utiliza a expressão 'Ao Senhor'.",
+"velho": "Manual, item 5.1.4.",
+"aula": [
+"Vossa Excelência e Vossa Senhoria são usados para comunicar-se diretamente com o receptor;",
+"Vossa Senhoria: 'Ao Senhor' ou 'À Senhora' (não se usa 'A Sua Senhoria o Senhor')."
+]
+},
+{
+"id": "Q-LIN-0469",
+"g": "C",
+"e": "Nas comunicações dirigidas aos Chefes de Poder, o vocativo é composto de 'Excelentíssimo Senhor' ou 'Excelentíssima Senhora' e do cargo respectivo, seguidos de vírgula.",
+"velho": "Manual, item 4.4.",
+"aula": [
+"Chefes de Poder: 'Excelentíssimo Senhor' ou 'Excelentíssima Senhora' e o cargo (Excelentíssimo Senhor Presidente da República,).",
+"Demais autoridades, mesmo as tratadas por Vossa Excelência: 'Senhor' ou 'Senhora' seguido do cargo (Senhora Senadora, Senhor Juiz, Senhora Ministra)."
+]
+},
+{
+"id": "Q-LIN-0470",
+"g": "E",
+"e": "Nas comunicações dirigidas aos Chefes de Poder, o vocativo é composto de 'Ilustríssimo Senhor' ou 'Ilustríssima Senhora' e do cargo respectivo, seguidos de vírgula.",
+"velho": "Manual, item 4.4.",
+"aula": [
+"Chefes de Poder: 'Excelentíssimo Senhor' ou 'Excelentíssima Senhora' e o cargo (Excelentíssimo Senhor Presidente da República,).",
+"Demais autoridades, mesmo as tratadas por Vossa Excelência: 'Senhor' ou 'Senhora' seguido do cargo (Senhora Senadora, Senhor Juiz, Senhora Ministra)."
+]
+},
+{
+"id": "Q-LIN-0471",
+"g": "C",
+"e": "As demais autoridades, mesmo as tratadas por Vossa Excelência, recebem o vocativo 'Senhor' ou 'Senhora' seguido do cargo respectivo, como em 'Senhora Senadora,'.",
+"velho": "Manual, item 4.4.",
+"aula": [
+"Demais autoridades, mesmo as tratadas por Vossa Excelência: 'Senhor' ou 'Senhora' seguido do cargo (Senhora Senadora, Senhor Juiz, Senhora Ministra).",
+"Autoridades tratadas por Vossa Excelência: 'A Sua Excelência o Senhor' ou 'A Sua Excelência a Senhora'."
+]
+},
+{
+"id": "Q-LIN-0472",
+"g": "E",
+"e": "As demais autoridades tratadas por Vossa Excelência recebem o mesmo vocativo dos Chefes de Poder, como em 'Excelentíssima Senhora Senadora,'. Trata-se de prática corrente.",
+"velho": "Manual, item 4.4.",
+"aula": [
+"Demais autoridades, mesmo as tratadas por Vossa Excelência: 'Senhor' ou 'Senhora' seguido do cargo (Senhora Senadora, Senhor Juiz, Senhora Ministra).",
+"Autoridades tratadas por Vossa Excelência: 'A Sua Excelência o Senhor' ou 'A Sua Excelência a Senhora'."
+]
+},
+{
+"id": "Q-LIN-0473",
+"g": "C",
+"e": "Ao redigir ofício a um deputado federal, o endereçamento é 'A Sua Excelência o Senhor', o vocativo é 'Senhor Deputado,' e, no corpo do texto, o tratamento é Vossa Excelência.",
+"velho": "Manual, itens 4.1 e 4.4.",
+"aula": [
+"Os pronomes de tratamento adotam, tradicionalmente, a segunda pessoa do plural de maneira indireta; devem ser observados no endereçamento, no vocativo e no corpo do texto.",
+"Quadro do Manual: Vossa Excelência (abreviatura V."
+]
+},
+{
+"id": "Q-LIN-0474",
+"g": "E",
+"e": "Ao redigir ofício a um deputado federal, o endereçamento é 'Ao Senhor', o vocativo é 'Excelentíssimo Senhor Deputado,' e, no corpo do texto, o tratamento é Vossa Senhoria.",
+"velho": "Manual, itens 4.1 e 4.4.",
+"aula": [
+"Os pronomes de tratamento adotam, tradicionalmente, a segunda pessoa do plural de maneira indireta; devem ser observados no endereçamento, no vocativo e no corpo do texto.",
+"Vossa Senhoria: 'Ao Senhor' ou 'À Senhora' (não se usa 'A Sua Senhoria o Senhor')."
+]
+},
+{
+"id": "Q-LIN-0475",
+"g": "C",
+"e": "Nas comunicações oficiais, o vocativo é sempre seguido de vírgula.",
+"velho": "Manual, item 4.4.",
+"aula": [
+"Vocativo: invocação ao destinatário, sempre seguido de vírgula."
+]
+},
+{
+"id": "Q-LIN-0476",
+"g": "E",
+"e": "Nas comunicações oficiais, o vocativo é seguido de dois-pontos quando dirigido a autoridades e de vírgula quando dirigido a particulares.",
+"velho": "Manual, item 4.4.",
+"aula": [
+"Vocativo: invocação ao destinatário, sempre seguido de vírgula.",
+"Demais autoridades, mesmo as tratadas por Vossa Excelência: 'Senhor' ou 'Senhora' seguido do cargo (Senhora Senadora, Senhor Juiz, Senhora Ministra)."
+]
+},
+{
+"id": "Q-LIN-0477",
+"g": "C",
+"e": "Em comunicações oficiais está abolido o uso de Digníssimo (DD) e de Ilustríssimo (Ilmo.), e deve-se evitar o uso indiscriminado de 'doutor', pois o tratamento por meio de Senhor confere a formalidade desejada.",
+"velho": "Manual, item 4.4.",
+"aula": [
+"Está abolido o uso de Digníssimo (DD) e de Ilustríssimo (Ilmo.); evite-se 'doutor' indiscriminadamente."
+]
+},
+{
+"id": "Q-LIN-0478",
+"g": "E",
+"e": "Em comunicações oficiais, o uso de Digníssimo (DD) e de Ilustríssimo (Ilmo.) é recomendado para autoridades tratadas por Vossa Senhoria, e o tratamento 'doutor' deve ser dado a todo bacharel. Isso é consenso na área.",
+"velho": "Manual, item 4.4.",
+"aula": [
+"Exa.) para Vice-Presidente da República, Ministros de Estado, Secretário-Executivo, embaixadores, oficiais-generais, senadores, deputados federais, ministros do TCU e dos Tribunais Superiores; 'Não se usa' abreviatura para Presidente da República, do Congresso Nacional e do STF; outros postos militares: Vossa Senhoria (V.",
+"Está abolido o uso de Digníssimo (DD) e de Ilustríssimo (Ilmo.); evite-se 'doutor' indiscriminadamente."
+]
+},
+{
+"id": "Q-LIN-0479",
+"g": "C",
+"e": "Na comunicação com particular, o vocativo pode ser 'Senhor' ou 'Senhora' seguido da forma usada pela instituição para referir-se ao interlocutor (como 'Senhor Contribuinte,'), do nome do particular, ou ainda 'Prezado Senhor' e 'Prezada Senhora'.",
+"velho": "Manual, item 4.4.",
+"aula": [
+"Demais autoridades, mesmo as tratadas por Vossa Excelência: 'Senhor' ou 'Senhora' seguido do cargo (Senhora Senadora, Senhor Juiz, Senhora Ministra).",
+"Particulares: 'Senhor' ou 'Senhora' com a forma usada pela instituição (Senhor Contribuinte), com o nome, ou 'Prezado Senhor'/'Prezada Senhora'."
+]
+},
+{
+"id": "Q-LIN-0480",
+"g": "E",
+"e": "Na comunicação com particular, o vocativo deve ser sempre 'Excelentíssimo Senhor' ou 'Excelentíssima Senhora', sendo vedado o uso de 'Prezado Senhor' ou da forma usada pela instituição, como 'Senhor Contribuinte'. Trata-se de prática corrente.",
+"velho": "Manual, item 4.4.",
+"aula": [
+"Chefes de Poder: 'Excelentíssimo Senhor' ou 'Excelentíssima Senhora' e o cargo (Excelentíssimo Senhor Presidente da República,).",
+"Particulares: 'Senhor' ou 'Senhora' com a forma usada pela instituição (Senhor Contribuinte), com o nome, ou 'Prezado Senhor'/'Prezada Senhora'."
+]
+},
+{
+"id": "Q-LIN-0481",
+"g": "C",
+"e": "No quadro do Manual, a abreviatura V. Exa. é indicada para ministros de Estado, senadores e deputados federais, e consta 'não se usa' abreviatura para o Presidente da República, o Presidente do Congresso Nacional e o Presidente do STF.",
+"velho": "Manual, item 4.1.",
+"aula": [
+"Quadro do Manual: Vossa Excelência (abreviatura V.",
+"Exa.) para Vice-Presidente da República, Ministros de Estado, Secretário-Executivo, embaixadores, oficiais-generais, senadores, deputados federais, ministros do TCU e dos Tribunais Superiores; 'Não se usa' abreviatura para Presidente da República, do Congresso Nacional e do STF; outros postos militares: Vossa Senhoria (V."
+]
+},
+{
+"id": "Q-LIN-0482",
+"g": "E",
+"e": "No quadro do Manual, a abreviatura V. Exa. é indicada para o Presidente da República, o Presidente do Congresso Nacional e o Presidente do STF, e consta 'não se usa' abreviatura para ministros de Estado, senadores e deputados federais.",
+"velho": "Manual, item 4.1.",
+"aula": [
+"Quadro do Manual: Vossa Excelência (abreviatura V.",
+"Exa.) para Vice-Presidente da República, Ministros de Estado, Secretário-Executivo, embaixadores, oficiais-generais, senadores, deputados federais, ministros do TCU e dos Tribunais Superiores; 'Não se usa' abreviatura para Presidente da República, do Congresso Nacional e do STF; outros postos militares: Vossa Senhoria (V."
+]
+},
+{
+"id": "Q-LIN-0483",
+"g": "C",
+"e": "Aos oficiais-generais das Forças Armadas aplica-se Vossa Excelência (vocativo 'Senhor' mais o posto), ao passo que aos outros postos militares aplica-se Vossa Senhoria (V. Sa.).",
+"velho": "Manual, item 4.1.",
+"aula": [
+"Vossa Excelência e Vossa Senhoria são usados para comunicar-se diretamente com o receptor;",
+"Exa.) para Vice-Presidente da República, Ministros de Estado, Secretário-Executivo, embaixadores, oficiais-generais, senadores, deputados federais, ministros do TCU e dos Tribunais Superiores; 'Não se usa' abreviatura para Presidente da República, do Congresso Nacional e do STF; outros postos militares: Vossa Senhoria (V."
+]
+},
+{
+"id": "Q-LIN-0484",
+"g": "E",
+"e": "Aos oficiais-generais das Forças Armadas aplica-se Vossa Senhoria (V. Sa.), ao passo que aos outros postos militares aplica-se Vossa Excelência (vocativo 'Senhor' mais o posto).",
+"velho": "Manual, item 4.1.",
+"aula": [
+"Vossa Excelência e Vossa Senhoria são usados para comunicar-se diretamente com o receptor;",
+"Exa.) para Vice-Presidente da República, Ministros de Estado, Secretário-Executivo, embaixadores, oficiais-generais, senadores, deputados federais, ministros do TCU e dos Tribunais Superiores; 'Não se usa' abreviatura para Presidente da República, do Congresso Nacional e do STF; outros postos militares: Vossa Senhoria (V."
+]
+},
+{
+"id": "Q-LIN-0485",
+"g": "C",
+"e": "Na identificação do signatário, 'interino' é aquele nomeado para ocupar transitoriamente cargo público durante a vacância, e 'substituto' é aquele designado para exercer as atribuições de cargo vago ou em caso de afastamento e impedimentos do titular.",
+"velho": "Manual, item 4.2.1.",
+"aula": [
+"Signatário: o cargo ocupado por mulher é flexionado no feminino (Ministra de Estado). 'Interino' (nomeado para ocupar transitoriamente cargo durante a vacância) e 'substituto' (designado para exercer as atribuições de cargo vago ou no caso de afastamento e impedimentos do titular) vêm depois do nome do cargo, sem hífen, sem vírgula e em minúsculo (Diretor-Geral…"
+]
+},
+{
+"id": "Q-LIN-0486",
+"g": "E",
+"e": "Na identificação do signatário, 'substituto' é aquele nomeado para ocupar transitoriamente cargo público durante a vacância, e 'interino' é aquele designado para exercer as atribuições do cargo em caso de afastamento e impedimentos do titular.",
+"velho": "Manual, item 4.2.1.",
+"aula": [
+"Signatário: o cargo ocupado por mulher é flexionado no feminino (Ministra de Estado). 'Interino' (nomeado para ocupar transitoriamente cargo durante a vacância) e 'substituto' (designado para exercer as atribuições de cargo vago ou no caso de afastamento e impedimentos do titular) vêm depois do nome do cargo, sem hífen, sem vírgula e em minúsculo (Diretor-Geral…"
+]
+},
+{
+"id": "Q-LIN-0487",
+"g": "C",
+"e": "Os termos 'interino' e 'substituto' devem ser utilizados depois do nome do cargo, sem hífen, sem vírgula e em minúsculo, como em 'Secretário-Executivo substituto'.",
+"velho": "Manual, item 4.2.1.",
+"aula": [
+"Exa.) para Vice-Presidente da República, Ministros de Estado, Secretário-Executivo, embaixadores, oficiais-generais, senadores, deputados federais, ministros do TCU e dos Tribunais Superiores; 'Não se usa' abreviatura para Presidente da República, do Congresso Nacional e do STF; outros postos militares: Vossa Senhoria (V.",
+"Signatário: o cargo ocupado por mulher é flexionado no feminino (Ministra de Estado). 'Interino' (nomeado para ocupar transitoriamente cargo durante a vacância) e 'substituto' (designado para exercer as atribuições de cargo vago ou no caso de afastamento e impedimentos do titular) vêm depois do nome do cargo, sem hífen, sem vírgula e em minúsculo (Diretor-Geral…"
+]
+},
+{
+"id": "Q-LIN-0488",
+"g": "E",
+"e": "Os termos 'interino' e 'substituto' devem ser utilizados depois do nome do cargo, com hífen e iniciais maiúsculas, como em 'Secretário-Executivo-Substituto'.",
+"velho": "Manual, item 4.2.1.",
+"aula": [
+"Exa.) para Vice-Presidente da República, Ministros de Estado, Secretário-Executivo, embaixadores, oficiais-generais, senadores, deputados federais, ministros do TCU e dos Tribunais Superiores; 'Não se usa' abreviatura para Presidente da República, do Congresso Nacional e do STF; outros postos militares: Vossa Senhoria (V.",
+"Signatário: o cargo ocupado por mulher é flexionado no feminino (Ministra de Estado). 'Interino' (nomeado para ocupar transitoriamente cargo durante a vacância) e 'substituto' (designado para exercer as atribuições de cargo vago ou no caso de afastamento e impedimentos do titular) vêm depois do nome do cargo, sem hífen, sem vírgula e em minúsculo (Diretor-Geral…"
+]
+},
+{
+"id": "Q-LIN-0489",
+"g": "C",
+"e": "Na identificação do signatário, o cargo ocupado por pessoa do sexo feminino deve ser flexionado no gênero feminino, como em 'Ministra de Estado' e 'Secretária-Executiva interina'.",
+"velho": "Manual, item 4.2.2.",
+"aula": [
+"Os adjetivos concordam com o sexo da pessoa a que se refere ('Vossa Excelência está atarefada').",
+"Signatário: o cargo ocupado por mulher é flexionado no feminino (Ministra de Estado). 'Interino' (nomeado para ocupar transitoriamente cargo durante a vacância) e 'substituto' (designado para exercer as atribuições de cargo vago ou no caso de afastamento e impedimentos do titular) vêm depois do nome do cargo, sem hífen, sem vírgula e em minúsculo (Diretor-Geral…"
+]
+},
+{
+"id": "Q-LIN-0490",
+"g": "E",
+"e": "Na identificação do signatário, o cargo ocupado por pessoa do sexo feminino é mantido na forma masculina, por designar função pública, como em 'Ministro de Estado' e 'Secretário-Executivo interino'.",
+"velho": "Manual, item 4.2.2.",
+"aula": [
+"Exa.) para Vice-Presidente da República, Ministros de Estado, Secretário-Executivo, embaixadores, oficiais-generais, senadores, deputados federais, ministros do TCU e dos Tribunais Superiores; 'Não se usa' abreviatura para Presidente da República, do Congresso Nacional e do STF; outros postos militares: Vossa Senhoria (V.",
+"Signatário: o cargo ocupado por mulher é flexionado no feminino (Ministra de Estado). 'Interino' (nomeado para ocupar transitoriamente cargo durante a vacância) e 'substituto' (designado para exercer as atribuições de cargo vago ou no caso de afastamento e impedimentos do titular) vêm depois do nome do cargo, sem hífen, sem vírgula e em minúsculo (Diretor-Geral…"
+]
+},
+{
+"id": "Q-LIN-0491",
+"g": "C",
+"e": "Escrevem-se com hífen os cargos formados pelo adjetivo 'geral' (diretor-geral) e pelos prefixos 'ex' e 'vice', mas ficam sem hífen os nomes compostos com elemento de ligação preposicionado, como 'general de exército' e 'capitão de mar e guerra'.",
+"velho": "Manual, item 4.3.",
+"aula": [
+"Signatário: o cargo ocupado por mulher é flexionado no feminino (Ministra de Estado). 'Interino' (nomeado para ocupar transitoriamente cargo durante a vacância) e 'substituto' (designado para exercer as atribuições de cargo vago ou no caso de afastamento e impedimentos do titular) vêm depois do nome do cargo, sem hífen, sem vírgula e em minúsculo (Diretor-Geral…",
+"Cargos compostos com hífen: formados por 'geral', postos da diplomacia (primeiro-secretário), postos militares (tenente-coronel), hierarquia em empresa (diretor-presidente), numerais (primeiro-ministro) e prefixos ex e vice; sem hífen quando há preposição (general de exército, capitão de mar e guerra)."
+]
+},
+{
+"id": "Q-LIN-0492",
+"g": "E",
+"e": "Escrevem-se com hífen os cargos formados pelo adjetivo 'geral' (diretor-geral) e pelos prefixos 'ex' e 'vice', e também os nomes compostos com elemento de ligação preposicionado, como 'general-de-exército' e 'capitão-de-mar-e-guerra'.",
+"velho": "Manual, item 4.3.",
+"aula": [
+"Signatário: o cargo ocupado por mulher é flexionado no feminino (Ministra de Estado). 'Interino' (nomeado para ocupar transitoriamente cargo durante a vacância) e 'substituto' (designado para exercer as atribuições de cargo vago ou no caso de afastamento e impedimentos do titular) vêm depois do nome do cargo, sem hífen, sem vírgula e em minúsculo (Diretor-Geral…",
+"Cargos compostos com hífen: formados por 'geral', postos da diplomacia (primeiro-secretário), postos militares (tenente-coronel), hierarquia em empresa (diretor-presidente), numerais (primeiro-ministro) e prefixos ex e vice; sem hífen quando há preposição (general de exército, capitão de mar e guerra)."
+]
+},
+{
+"id": "Q-LIN-0493",
+"g": "C",
+"e": "Em palavras com hífen, depois de optar pela maiúscula ou pela minúscula, deve-se manter a escolha para todos os elementos: pode-se escrever 'Vice-Presidente' ou 'vice-presidente', mas não 'Vice-presidente'.",
+"velho": "Manual, item 4.3.",
+"aula": [
+"Cargos compostos com hífen: formados por 'geral', postos da diplomacia (primeiro-secretário), postos militares (tenente-coronel), hierarquia em empresa (diretor-presidente), numerais (primeiro-ministro) e prefixos ex e vice; sem hífen quando há preposição (general de exército, capitão de mar e guerra).",
+"Após optar por maiúscula ou minúscula em palavras com hífen, mantém-se para todos os elementos (Vice-Presidente ou vice-presidente, nunca Vice-presidente)."
+]
+},
+{
+"id": "Q-LIN-0494",
+"g": "E",
+"e": "Em palavras com hífen, a escolha entre maiúscula e minúscula pode variar entre os elementos, de modo que se admite a grafia 'Vice-presidente', desde que o cargo seja de Chefe de Poder. Isso é consenso na área.",
+"velho": "Manual, item 4.3.",
+"aula": [
+"Chefes de Poder: 'Excelentíssimo Senhor' ou 'Excelentíssima Senhora' e o cargo (Excelentíssimo Senhor Presidente da República,).",
+"Após optar por maiúscula ou minúscula em palavras com hífen, mantém-se para todos os elementos (Vice-Presidente ou vice-presidente, nunca Vice-presidente)."
+]
+},
+{
+"id": "Q-LIN-0495",
+"g": "C",
+"e": "Na 3ª edição do Manual, ficou abolida a distinção entre aviso, ofício e memorando, adotando-se o 'padrão ofício', com nomenclatura e diagramação únicas, e o termo ofício passou a ser utilizado nas três hipóteses.",
+"velho": "Manual, item 5.",
+"aula": [
+"Até a 2ª edição havia três expedientes diferenciados mais pela finalidade que pela forma: aviso (exclusivo de Ministros de Estado, para autoridades de mesma hierarquia), ofício (para e pelas demais autoridades) e memorando (entre unidades de um mesmo órgão).",
+"Na 3ª edição a distinção foi abolida: adota-se nomenclatura e diagramação únicas, o 'padrão ofício', e o termo ofício é usado nas três hipóteses."
+]
+},
+{
+"id": "Q-LIN-0496",
+"g": "E",
+"e": "Na 3ª edição do Manual, manteve-se a distinção entre aviso, ofício e memorando, que seguem o padrão ofício, mas diferem pelo destinatário e pela nomenclatura de cada expediente. Trata-se de prática corrente.",
+"velho": "Manual, item 5.",
+"aula": [
+"Até a 2ª edição havia três expedientes diferenciados mais pela finalidade que pela forma: aviso (exclusivo de Ministros de Estado, para autoridades de mesma hierarquia), ofício (para e pelas demais autoridades) e memorando (entre unidades de um mesmo órgão).",
+"Na 3ª edição a distinção foi abolida: adota-se nomenclatura e diagramação únicas, o 'padrão ofício', e o termo ofício é usado nas três hipóteses."
+]
+},
+{
+"id": "Q-LIN-0497",
+"g": "C",
+"e": "Até a 2ª edição do Manual, o aviso era expedido exclusivamente por Ministros de Estado para autoridades de mesma hierarquia, o ofício era expedido para e pelas demais autoridades, e o memorando era expedido entre unidades administrativas de um mesmo órgão.",
+"velho": "Manual, item 5.",
+"aula": [
+"Até a 2ª edição havia três expedientes diferenciados mais pela finalidade que pela forma: aviso (exclusivo de Ministros de Estado, para autoridades de mesma hierarquia), ofício (para e pelas demais autoridades) e memorando (entre unidades de um mesmo órgão).",
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…"
+]
+},
+{
+"id": "Q-LIN-0498",
+"g": "E",
+"e": "Até a 2ª edição do Manual, o ofício era expedido exclusivamente por Ministros de Estado para autoridades de mesma hierarquia, o aviso era expedido para e pelas demais autoridades, e o memorando era expedido entre órgãos distintos. Isso é consenso na área.",
+"velho": "Manual, item 5.",
+"aula": [
+"Até a 2ª edição havia três expedientes diferenciados mais pela finalidade que pela forma: aviso (exclusivo de Ministros de Estado, para autoridades de mesma hierarquia), ofício (para e pelas demais autoridades) e memorando (entre unidades de um mesmo órgão).",
+"Fechos: apenas dois para todas as comunicações. 'Respeitosamente,' para autoridades de hierarquia superior à do remetente, inclusive o Presidente da República; 'Atenciosamente,' para autoridades de mesma hierarquia, de hierarquia inferior ou demais casos."
+]
+},
+{
+"id": "Q-LIN-0499",
+"g": "C",
+"e": "No ofício circular, um órgão envia o mesmo expediente a mais de um órgão receptor, e a sigla na epígrafe é apenas a do órgão remetente.",
+"velho": "Manual, item 6.1.",
+"aula": [
+"Variações: circular (mesmo expediente a mais de um órgão receptor; sigla do remetente na epígrafe), conjunto (mais de um órgão remetente a um receptor) e conjunto circular.",
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…"
+]
+}
+]

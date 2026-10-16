@@ -1,0 +1,675 @@
+[
+{
+"id": "Q-POL-0049",
+"g": "C",
+"e": "No sistema majoritário vence o candidato mais votado, e no Brasil ele é adotado para as eleições de Presidente, Governador, Prefeito e Senador, ao passo que o sistema proporcional é adotado para Deputados Federais, Estaduais e Distritais e Vereadores.",
+"velho": "Sistemas eleitorais brasileiros.",
+"aula": [
+"Sistema majoritário: vence o candidato com mais votos (maioria simples, em turno único) ou com maioria absoluta (dois turnos); no Brasil, para Presidente, Governador, Prefeito (em municípios com mais de 200 mil eleitores, dois turnos) e Senador.",
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…"
+]
+},
+{
+"id": "Q-POL-0050",
+"g": "E",
+"e": "No sistema proporcional vence o candidato mais votado, e no Brasil ele é adotado para as eleições de Presidente, Governador e Senador, ao passo que o sistema majoritário é adotado para Deputados Federais e Vereadores.",
+"velho": "Sistemas eleitorais brasileiros.",
+"aula": [
+"Sistema majoritário: vence o candidato com mais votos (maioria simples, em turno único) ou com maioria absoluta (dois turnos); no Brasil, para Presidente, Governador, Prefeito (em municípios com mais de 200 mil eleitores, dois turnos) e Senador.",
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…"
+]
+},
+{
+"id": "Q-POL-0051",
+"g": "C",
+"e": "O quociente eleitoral é obtido pela divisão dos votos válidos pelo número de cadeiras em disputa, e o quociente partidário, pela divisão dos votos do partido pelo quociente eleitoral.",
+"velho": "Quociente eleitoral e partidário.",
+"aula": [
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…"
+]
+},
+{
+"id": "Q-POL-0052",
+"g": "E",
+"e": "O quociente eleitoral é obtido pela divisão dos votos totais, incluídos brancos e nulos, pelo número de partidos, e o quociente partidário, pela divisão dos votos do partido pelo número de cadeiras.",
+"velho": "Quociente eleitoral e partidário.",
+"aula": [
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…"
+]
+},
+{
+"id": "Q-POL-0053",
+"g": "C",
+"e": "Segundo a lei de Duverger, o sistema majoritário de turno único tende ao bipartidarismo, ao passo que a representação proporcional tende ao multipartidarismo.",
+"velho": "Duverger, leis sociológicas.",
+"aula": [
+"Sistema majoritário: vence o candidato com mais votos (maioria simples, em turno único) ou com maioria absoluta (dois turnos); no Brasil, para Presidente, Governador, Prefeito (em municípios com mais de 200 mil eleitores, dois turnos) e Senador.",
+"Leis de Duverger: o sistema majoritário de turno único tende ao bipartidarismo (lei sociológica); a representação proporcional e o sistema majoritário de dois turnos tendem ao multipartidarismo."
+]
+},
+{
+"id": "Q-POL-0054",
+"g": "E",
+"e": "Segundo a lei de Duverger, o sistema majoritário de turno único tende ao multipartidarismo, ao passo que a representação proporcional tende ao bipartidarismo.",
+"velho": "Duverger, leis sociológicas.",
+"aula": [
+"Sistema majoritário: vence o candidato com mais votos (maioria simples, em turno único) ou com maioria absoluta (dois turnos); no Brasil, para Presidente, Governador, Prefeito (em municípios com mais de 200 mil eleitores, dois turnos) e Senador.",
+"Leis de Duverger: o sistema majoritário de turno único tende ao bipartidarismo (lei sociológica); a representação proporcional e o sistema majoritário de dois turnos tendem ao multipartidarismo."
+]
+},
+{
+"id": "Q-POL-0055",
+"g": "C",
+"e": "Para Duverger, o efeito mecânico do sistema eleitoral decorre da forma como os votos se convertem em cadeiras, e o efeito psicológico, do comportamento dos eleitores que evitam o desperdício do voto em partidos sem chances, o chamado voto útil.",
+"velho": "Duverger, efeitos mecânico e psicológico.",
+"aula": [
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…",
+"Efeito mecânico e efeito psicológico (voto útil)."
+]
+},
+{
+"id": "Q-POL-0056",
+"g": "E",
+"e": "Para Duverger, o efeito psicológico do sistema eleitoral decorre da forma como os votos se convertem em cadeiras, e o efeito mecânico, do comportamento dos eleitores que evitam o desperdício do voto, o chamado voto útil.",
+"velho": "Duverger, efeitos mecânico e psicológico.",
+"aula": [
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…",
+"Efeito mecânico e efeito psicológico (voto útil)."
+]
+},
+{
+"id": "Q-POL-0057",
+"g": "C",
+"e": "No sistema distrital puro, o território é dividido em distritos e, em cada um, elege-se um representante pelo critério majoritário, ao passo que, no distrital misto, parte das cadeiras é preenchida por voto distrital e parte por lista proporcional.",
+"velho": "Sistemas distritais.",
+"aula": [
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…",
+"Sistema distrital: o território divide-se em distritos, e em cada um se elege um representante pelo critério majoritário; sistema distrital misto (alemão): parte pelo voto distrital, parte por lista proporcional."
+]
+},
+{
+"id": "Q-POL-0058",
+"g": "E",
+"e": "No sistema distrital puro, as cadeiras são distribuídas entre os partidos em proporção aos votos obtidos em todo o território, ao passo que, no distrital misto, todas as cadeiras são preenchidas por voto majoritário.",
+"velho": "Sistemas distritais.",
+"aula": [
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…",
+"Sistema distrital: o território divide-se em distritos, e em cada um se elege um representante pelo critério majoritário; sistema distrital misto (alemão): parte pelo voto distrital, parte por lista proporcional."
+]
+},
+{
+"id": "Q-POL-0059",
+"g": "C",
+"e": "No Brasil, nos municípios com mais de duzentos mil eleitores, a eleição do Prefeito ocorre pelo sistema majoritário em dois turnos, se nenhum candidato alcançar a maioria absoluta dos votos válidos no primeiro.",
+"velho": "CF, art. 29, II.",
+"aula": [
+"Sistema majoritário: vence o candidato com mais votos (maioria simples, em turno único) ou com maioria absoluta (dois turnos); no Brasil, para Presidente, Governador, Prefeito (em municípios com mais de 200 mil eleitores, dois turnos) e Senador.",
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…"
+]
+},
+{
+"id": "Q-POL-0060",
+"g": "E",
+"e": "No Brasil, nos municípios com mais de cem mil eleitores, a eleição do Prefeito ocorre pelo sistema majoritário em turno único, vencendo o candidato que obtiver mais votos, sem exigência de maioria absoluta.",
+"velho": "CF, art. 29, II.",
+"aula": [
+"Sistema majoritário: vence o candidato com mais votos (maioria simples, em turno único) ou com maioria absoluta (dois turnos); no Brasil, para Presidente, Governador, Prefeito (em municípios com mais de 200 mil eleitores, dois turnos) e Senador.",
+"Leis de Duverger: o sistema majoritário de turno único tende ao bipartidarismo (lei sociológica); a representação proporcional e o sistema majoritário de dois turnos tendem ao multipartidarismo."
+]
+},
+{
+"id": "Q-POL-0061",
+"g": "C",
+"e": "A lista aberta, adotada no Brasil nas eleições proporcionais, permite ao eleitor votar em candidato, e a ordem de eleição dos candidatos de cada partido é definida pelo número de votos nominais que recebem.",
+"velho": "Lista aberta e fechada.",
+"aula": [
+"Sistema majoritário: vence o candidato com mais votos (maioria simples, em turno único) ou com maioria absoluta (dois turnos); no Brasil, para Presidente, Governador, Prefeito (em municípios com mais de 200 mil eleitores, dois turnos) e Senador.",
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…"
+]
+},
+{
+"id": "Q-POL-0062",
+"g": "E",
+"e": "A lista fechada, adotada no Brasil nas eleições proporcionais, permite ao eleitor votar somente na legenda, e a ordem de eleição dos candidatos de cada partido é definida pelo partido antes da eleição.",
+"velho": "Lista aberta e fechada.",
+"aula": [
+"Sistema proporcional: as cadeiras são distribuídas aos partidos em proporção aos votos; no Brasil, para Deputados Federais, Estaduais e Distritais e Vereadores, com lista aberta; quociente eleitoral: votos válidos divididos pelo número de vagas; quociente partidário: votos do partido divididos pelo quociente eleitoral; distribuição das sobras (a Lei 14.211/2021 impôs requisitos de desempenho para partidos…",
+"Sistema distrital: o território divide-se em distritos, e em cada um se elege um representante pelo critério majoritário; sistema distrital misto (alemão): parte pelo voto distrital, parte por lista proporcional."
+]
+},
+{
+"id": "Q-POL-0063",
+"g": "C",
+"e": "Para Duverger, os partidos de quadros caracterizam-se por reunir notáveis, com caráter predominantemente eleitoral, ao passo que os partidos de massas se organizam com grande número de filiados e se financiam por suas contribuições.",
+"velho": "Duverger, Os Partidos Políticos.",
+"aula": [
+"Duverger: partidos de quadros (notáveis, comitês, caráter eleitoral) e de massas (filiados, organização forte, financiamento por contribuições).",
+"Sartori: sistemas partidários classificados pelo número de partidos relevantes e pela distância ideológica (bipartidarismo, pluralismo moderado, pluralismo polarizado, partido predominante)."
+]
+},
+{
+"id": "Q-POL-0064",
+"g": "E",
+"e": "Para Duverger, os partidos de massas caracterizam-se por reunir notáveis, com caráter predominantemente eleitoral, ao passo que os partidos de quadros se organizam com grande número de filiados e se financiam por suas contribuições.",
+"velho": "Duverger, Os Partidos Políticos.",
+"aula": [
+"Duverger: partidos de quadros (notáveis, comitês, caráter eleitoral) e de massas (filiados, organização forte, financiamento por contribuições).",
+"Sartori: sistemas partidários classificados pelo número de partidos relevantes e pela distância ideológica (bipartidarismo, pluralismo moderado, pluralismo polarizado, partido predominante)."
+]
+},
+{
+"id": "Q-POL-0065",
+"g": "C",
+"e": "A lei de ferro da oligarquia, de Robert Michels, afirma que a organização partidária tende a concentrar o poder em uma elite dirigente, mesmo em partidos que se declaram democráticos.",
+"velho": "Michels, Sociologia dos Partidos Políticos.",
+"aula": [
+"Duverger: partidos de quadros (notáveis, comitês, caráter eleitoral) e de massas (filiados, organização forte, financiamento por contribuições).",
+"Michels: lei de ferro da oligarquia, a organização partidária leva à concentração de poder em uma elite dirigente."
+]
+},
+{
+"id": "Q-POL-0066",
+"g": "E",
+"e": "A lei de ferro da oligarquia, de Robert Michels, afirma que a organização partidária tende a distribuir o poder igualmente entre os filiados, especialmente nos partidos que se declaram democráticos.",
+"velho": "Michels, Sociologia dos Partidos Políticos.",
+"aula": [
+"Duverger: partidos de quadros (notáveis, comitês, caráter eleitoral) e de massas (filiados, organização forte, financiamento por contribuições).",
+"Michels: lei de ferro da oligarquia, a organização partidária leva à concentração de poder em uma elite dirigente."
+]
+},
+{
+"id": "Q-POL-0067",
+"g": "C",
+"e": "O partido catch-all, formulado por Kirchheimer, atenua a ideologia para ampliar seu eleitorado, ao passo que o partido cartel, formulado por Katz e Mair, aproxima-se do Estado e depende de recursos públicos.",
+"velho": "Kirchheimer; Katz e Mair.",
+"aula": [
+"Kirchheimer: partido catch-all (pega-tudo), que enfraquece a ideologia para ampliar o eleitorado.",
+"Katz e Mair: partido cartel, que se aproxima do Estado e se financia por recursos públicos."
+]
+},
+{
+"id": "Q-POL-0068",
+"g": "E",
+"e": "O partido catch-all, formulado por Kirchheimer, aproxima-se do Estado e depende de recursos públicos, ao passo que o partido cartel, formulado por Katz e Mair, atenua a ideologia para ampliar seu eleitorado.",
+"velho": "Kirchheimer; Katz e Mair.",
+"aula": [
+"Kirchheimer: partido catch-all (pega-tudo), que enfraquece a ideologia para ampliar o eleitorado.",
+"Katz e Mair: partido cartel, que se aproxima do Estado e se financia por recursos públicos."
+]
+},
+{
+"id": "Q-POL-0069",
+"g": "C",
+"e": "Para Sartori, os sistemas partidários classificam-se pelo número de partidos relevantes e pela distância ideológica entre eles, o que permite distinguir o pluralismo moderado do pluralismo polarizado.",
+"velho": "Sartori, Partidos e Sistemas Partidários.",
+"aula": [
+"Sartori: sistemas partidários classificados pelo número de partidos relevantes e pela distância ideológica (bipartidarismo, pluralismo moderado, pluralismo polarizado, partido predominante)."
+]
+},
+{
+"id": "Q-POL-0070",
+"g": "E",
+"e": "Para Sartori, os sistemas partidários classificam-se apenas pelo número total de partidos registrados, sendo irrelevante a distância ideológica entre eles.",
+"velho": "Sartori, Partidos e Sistemas Partidários.",
+"aula": [
+"Sartori: sistemas partidários classificados pelo número de partidos relevantes e pela distância ideológica (bipartidarismo, pluralismo moderado, pluralismo polarizado, partido predominante)."
+]
+},
+{
+"id": "Q-POL-0071",
+"g": "C",
+"e": "Entre as funções clássicas dos partidos políticos estão a agregação de interesses, o recrutamento de elites políticas, a organização do governo e a estruturação do debate político.",
+"velho": "Funções dos partidos.",
+"aula": [
+"Duverger: partidos de quadros (notáveis, comitês, caráter eleitoral) e de massas (filiados, organização forte, financiamento por contribuições).",
+"Funções: representação, agregação de interesses, recrutamento de elites, estruturação do debate, organização do governo."
+]
+},
+{
+"id": "Q-POL-0072",
+"g": "E",
+"e": "Entre as funções clássicas dos partidos políticos estão o julgamento de litígios eleitorais, a fiscalização do pleito e a diplomação dos eleitos.",
+"velho": "Funções dos partidos.",
+"aula": [
+"Duverger: partidos de quadros (notáveis, comitês, caráter eleitoral) e de massas (filiados, organização forte, financiamento por contribuições)."
+]
+},
+{
+"id": "Q-POL-0073",
+"g": "C",
+"e": "No Brasil, os partidos políticos são pessoas jurídicas de direito privado, que adquirem personalidade jurídica na forma da lei civil e registram seus estatutos no Tribunal Superior Eleitoral.",
+"velho": "CF, art. 17, § 2º.",
+"aula": [
+"CF, art. 17: é livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo e os direitos fundamentais da pessoa humana, observados o caráter nacional, a proibição de recebimento de recursos de entidade ou governo estrangeiros ou de subordinação a estes, a prestação de contas à…",
+"§2º: os partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral."
+]
+},
+{
+"id": "Q-POL-0074",
+"g": "E",
+"e": "No Brasil, os partidos políticos são pessoas jurídicas de direito público, que adquirem personalidade jurídica mediante registro de seus estatutos no Tribunal Superior Eleitoral.",
+"velho": "CF, art. 17, § 2º.",
+"aula": [
+"CF, art. 17: é livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo e os direitos fundamentais da pessoa humana, observados o caráter nacional, a proibição de recebimento de recursos de entidade ou governo estrangeiros ou de subordinação a estes, a prestação de contas à…",
+"§2º: os partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral."
+]
+},
+{
+"id": "Q-POL-0075",
+"g": "C",
+"e": "A Constituição veda a celebração de coligações nas eleições proporcionais, e as federações partidárias permitem a atuação conjunta de dois ou mais partidos, como se fossem uma única agremiação, pelo prazo mínimo de quatro anos.",
+"velho": "CF, art. 17, § 1º; Lei 9.096/1995, art. 11-A.",
+"aula": [
+"§1º: é assegurada aos partidos autonomia para definir sua estrutura interna, organização e funcionamento, e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua organização interna, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, vedada a celebração de coligações nas eleições proporcionais…",
+"Federação partidária (Lei 9.096/1995, art. 11-A, incluído pela Lei 14.208/2021): reunião de dois ou mais partidos, que atua como se fosse uma só agremiação, pelo prazo mínimo de quatro anos."
+]
+},
+{
+"id": "Q-POL-0076",
+"g": "E",
+"e": "A Constituição veda a celebração de coligações nas eleições majoritárias, e as federações partidárias permitem a atuação conjunta de dois ou mais partidos, como se fossem uma única agremiação, sem prazo mínimo de duração.",
+"velho": "CF, art. 17, § 1º; Lei 9.096/1995, art. 11-A.",
+"aula": [
+"§1º: é assegurada aos partidos autonomia para definir sua estrutura interna, organização e funcionamento, e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua organização interna, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, vedada a celebração de coligações nas eleições proporcionais…",
+"Federação partidária (Lei 9.096/1995, art. 11-A, incluído pela Lei 14.208/2021): reunião de dois ou mais partidos, que atua como se fosse uma só agremiação, pelo prazo mínimo de quatro anos."
+]
+},
+{
+"id": "Q-POL-0077",
+"g": "C",
+"e": "A cláusula de desempenho condiciona o acesso aos recursos do fundo partidário e ao tempo gratuito de rádio e televisão, e seu percentual de votos válidos cresce gradualmente, tendo sido de 2% em 2022, e de 2,5% em 2026.",
+"velho": "CF, art. 17, § 3º; EC 97/2017.",
+"aula": [
+"§3º: somente terão direito a recursos do fundo partidário e acesso gratuito ao rádio e à televisão, na forma da lei, os partidos que alcançarem o desempenho mínimo (cláusula de desempenho).",
+"Cláusula de desempenho (EC 97/2017): eleições de 2018 (1,5% dos votos válidos em ao menos nove Unidades da Federação, com 1% em cada uma, ou nove Deputados Federais distribuídos em ao menos nove UFs); aumento gradual: 2% em 2022, 2,5% em 2026 e 3% em 2030."
+]
+},
+{
+"id": "Q-POL-0078",
+"g": "E",
+"e": "A cláusula de desempenho condiciona o registro do partido no Tribunal Superior Eleitoral, e seu percentual de votos válidos é fixo, de 1,5%, para todas as eleições.",
+"velho": "CF, art. 17, § 3º; EC 97/2017.",
+"aula": [
+"§2º: os partidos políticos, após adquirirem personalidade jurídica, na forma da lei civil, registrarão seus estatutos no Tribunal Superior Eleitoral.",
+"Cláusula de desempenho (EC 97/2017): eleições de 2018 (1,5% dos votos válidos em ao menos nove Unidades da Federação, com 1% em cada uma, ou nove Deputados Federais distribuídos em ao menos nove UFs); aumento gradual: 2% em 2022, 2,5% em 2026 e 3% em 2030."
+]
+},
+{
+"id": "Q-POL-0079",
+"g": "C",
+"e": "A Constituição assegura aos partidos autonomia para definir sua estrutura interna, organização e funcionamento, vedando o recebimento de recursos de entidade ou governo estrangeiros e a subordinação a estes.",
+"velho": "CF, art. 17.",
+"aula": [
+"CF, art. 17: é livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo e os direitos fundamentais da pessoa humana, observados o caráter nacional, a proibição de recebimento de recursos de entidade ou governo estrangeiros ou de subordinação a estes, a prestação de contas à…",
+"§1º: é assegurada aos partidos autonomia para definir sua estrutura interna, organização e funcionamento, e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua organização interna, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, vedada a celebração de coligações nas eleições proporcionais…"
+]
+},
+{
+"id": "Q-POL-0080",
+"g": "E",
+"e": "A Constituição assegura aos partidos autonomia para definir sua estrutura interna, organização e funcionamento, permitindo o recebimento de recursos de governos estrangeiros, desde que declarados à Justiça Eleitoral.",
+"velho": "CF, art. 17.",
+"aula": [
+"CF, art. 17: é livre a criação, fusão, incorporação e extinção de partidos políticos, resguardados a soberania nacional, o regime democrático, o pluripartidarismo e os direitos fundamentais da pessoa humana, observados o caráter nacional, a proibição de recebimento de recursos de entidade ou governo estrangeiros ou de subordinação a estes, a prestação de contas à…",
+"§1º: é assegurada aos partidos autonomia para definir sua estrutura interna, organização e funcionamento, e estabelecer regras sobre escolha, formação e duração de seus órgãos permanentes e provisórios e sobre sua organização interna, sem obrigatoriedade de vinculação entre as candidaturas em âmbito nacional, estadual, distrital ou municipal, vedada a celebração de coligações nas eleições proporcionais…"
+]
+},
+{
+"id": "Q-POL-0081",
+"g": "C",
+"e": "O voto no Brasil é obrigatório para os maiores de dezoito anos e facultativo para os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos.",
+"velho": "CF, art. 14, § 1º.",
+"aula": [
+"Voto: CF, art. 14, §1º: o alistamento eleitoral e o voto são obrigatórios para os maiores de dezoito anos e facultativos para os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos."
+]
+},
+{
+"id": "Q-POL-0082",
+"g": "E",
+"e": "O voto no Brasil é obrigatório para os maiores de dezesseis anos e facultativo para os analfabetos e os maiores de sessenta e cinco anos.",
+"velho": "CF, art. 14, § 1º.",
+"aula": [
+"Voto: CF, art. 14, §1º: o alistamento eleitoral e o voto são obrigatórios para os maiores de dezoito anos e facultativos para os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos."
+]
+},
+{
+"id": "Q-POL-0083",
+"g": "C",
+"e": "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos da Constituição.",
+"velho": "CF, art. 18.",
+"aula": [
+"CF, art. 1º: a República Federativa do Brasil, formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político.",
+"Art. 18: a organização político-administrativa compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos."
+]
+},
+{
+"id": "Q-POL-0084",
+"g": "E",
+"e": "A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal, os Municípios e os Territórios Federais, todos soberanos, nos termos da Constituição.",
+"velho": "CF, art. 18.",
+"aula": [
+"CF, art. 1º: a República Federativa do Brasil, formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político.",
+"Art. 18: a organização político-administrativa compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos."
+]
+},
+{
+"id": "Q-POL-0085",
+"g": "C",
+"e": "O pluralismo político é um dos fundamentos da República Federativa do Brasil, ao lado da soberania, da cidadania, da dignidade da pessoa humana e dos valores sociais do trabalho e da livre iniciativa.",
+"velho": "CF, art. 1º e art. 3º.",
+"aula": [
+"CF, art. 1º: a República Federativa do Brasil, formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político."
+]
+},
+{
+"id": "Q-POL-0086",
+"g": "E",
+"e": "O pluralismo político é um dos objetivos da República Federativa do Brasil, ao lado da construção de uma sociedade livre, justa e solidária e da erradicação da pobreza.",
+"velho": "CF, art. 1º e art. 3º.",
+"aula": [
+"CF, art. 1º: a República Federativa do Brasil, formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político."
+]
+},
+{
+"id": "Q-POL-0087",
+"g": "C",
+"e": "O plebiscito de 1993, previsto no ADCT, consultou o eleitorado sobre a forma e o sistema de governo, e resultou na manutenção da república e do presidencialismo.",
+"velho": "ADCT, art. 2º.",
+"aula": [
+"Forma de Estado: federação (repartição de competências, autonomia, Senado como representação dos Estados); forma de governo: república; sistema de governo: presidencialismo (plebiscito de 1993, art. 2º do ADCT, manteve a república e o presidencialismo)."
+]
+},
+{
+"id": "Q-POL-0088",
+"g": "E",
+"e": "O plebiscito de 1993, previsto no ADCT, consultou o eleitorado sobre a forma e o sistema de governo, e resultou na adoção da república e do parlamentarismo.",
+"velho": "ADCT, art. 2º.",
+"aula": [
+"Forma de Estado: federação (repartição de competências, autonomia, Senado como representação dos Estados); forma de governo: república; sistema de governo: presidencialismo (plebiscito de 1993, art. 2º do ADCT, manteve a república e o presidencialismo)."
+]
+},
+{
+"id": "Q-POL-0089",
+"g": "C",
+"e": "Entre os princípios que regem as relações internacionais do Brasil estão a independência nacional, a prevalência dos direitos humanos, a autodeterminação dos povos, a não intervenção, a igualdade entre os Estados e a defesa da paz.",
+"velho": "CF, art. 4º.",
+"aula": [
+"CF, art. 4º: a República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: I - independência nacional;",
+"II - prevalência dos direitos humanos;"
+]
+},
+{
+"id": "Q-POL-0090",
+"g": "E",
+"e": "Entre os princípios que regem as relações internacionais do Brasil estão a intervenção humanitária, a hierarquia entre os Estados, a primazia do comércio exterior e o alinhamento automático às potências.",
+"velho": "CF, art. 4º.",
+"aula": [
+"CF, art. 4º: a República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: I - independência nacional;"
+]
+},
+{
+"id": "Q-POL-0091",
+"g": "C",
+"e": "A Constituição estabelece que o Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.",
+"velho": "CF, art. 4º, parágrafo único.",
+"aula": [
+"Parágrafo único: a República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações."
+]
+},
+{
+"id": "Q-POL-0092",
+"g": "E",
+"e": "A Constituição estabelece que o Brasil buscará a integração econômica dos povos da América do Sul, com a criação de uma moeda única e a abdicação de parcela de sua soberania.",
+"velho": "CF, art. 4º, parágrafo único.",
+"aula": [
+"Parágrafo único: a República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações."
+]
+},
+{
+"id": "Q-POL-0093",
+"g": "C",
+"e": "A Paz de Westfália, de 1648, é tradicionalmente apontada como marco do sistema de Estados soberanos, fundado nos princípios da soberania territorial e da não intervenção.",
+"velho": "Ordem westfaliana.",
+"aula": [
+"Ordem internacional: Paz de Westfália (1648) como marco do Estado soberano;"
+]
+},
+{
+"id": "Q-POL-0094",
+"g": "E",
+"e": "A Paz de Westfália, de 1648, é tradicionalmente apontada como marco do fim do sistema de Estados soberanos e da criação de um governo mundial supranacional.",
+"velho": "Ordem westfaliana.",
+"aula": [
+"Ordem internacional: Paz de Westfália (1648) como marco do Estado soberano;"
+]
+},
+{
+"id": "Q-POL-0095",
+"g": "C",
+"e": "O Conselho de Segurança da ONU é composto por cinco membros permanentes com direito de veto, a saber, Estados Unidos, Rússia, China, Reino Unido e França.",
+"velho": "ONU, Conselho de Segurança.",
+"aula": [
+"ONU (1945), com Conselho de Segurança de cinco membros permanentes com direito de veto (Estados Unidos, Rússia, China, Reino Unido e França).",
+"Realismo (Estados como atores centrais, anarquia internacional, poder e segurança) e liberalismo (instituições, cooperação, interdependência)."
+]
+},
+{
+"id": "Q-POL-0096",
+"g": "E",
+"e": "O Conselho de Segurança da ONU é composto por cinco membros permanentes sem direito de veto, a saber, Estados Unidos, Alemanha, China, Japão e França.",
+"velho": "ONU, Conselho de Segurança.",
+"aula": [
+"ONU (1945), com Conselho de Segurança de cinco membros permanentes com direito de veto (Estados Unidos, Rússia, China, Reino Unido e França).",
+"Realismo (Estados como atores centrais, anarquia internacional, poder e segurança) e liberalismo (instituições, cooperação, interdependência)."
+]
+},
+{
+"id": "Q-POL-0097",
+"g": "C",
+"e": "Para a perspectiva realista das relações internacionais, os Estados são os atores centrais em um sistema internacional anárquico, em que poder e segurança são os principais objetivos, ao passo que a perspectiva liberal destaca o papel das instituições e da cooperação.",
+"velho": "Teorias das relações internacionais.",
+"aula": [
+"CF, art. 4º: a República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: I - independência nacional;",
+"Realismo (Estados como atores centrais, anarquia internacional, poder e segurança) e liberalismo (instituições, cooperação, interdependência)."
+]
+},
+{
+"id": "Q-POL-0098",
+"g": "E",
+"e": "Para a perspectiva realista das relações internacionais, as organizações internacionais são os atores centrais, e a cooperação institucional é o principal objetivo, ao passo que a perspectiva liberal destaca o poder e a segurança dos Estados.",
+"velho": "Teorias das relações internacionais.",
+"aula": [
+"CF, art. 4º: a República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: I - independência nacional;",
+"Realismo (Estados como atores centrais, anarquia internacional, poder e segurança) e liberalismo (instituições, cooperação, interdependência)."
+]
+},
+{
+"id": "Q-POL-0099",
+"g": "C",
+"e": "Os elementos constitutivos do Estado são o povo, o território e o governo soberano, e a nacionalidade distingue o povo, conjunto de nacionais, da população, conjunto de pessoas que residem no território.",
+"velho": "Teoria do Estado, elementos.",
+"aula": [
+"Elementos do Estado: povo, território e governo soberano (poder político soberano).",
+"Povo é o conjunto de nacionais (vínculo jurídico), população é o conjunto de residentes."
+]
+},
+{
+"id": "Q-POL-0100",
+"g": "E",
+"e": "Os elementos constitutivos do Estado são o povo, o território e a nação, e a população se distingue do povo por abranger somente os nacionais residentes no território.",
+"velho": "Teoria do Estado, elementos.",
+"aula": [
+"Elementos do Estado: povo, território e governo soberano (poder político soberano).",
+"Povo é o conjunto de nacionais (vínculo jurídico), população é o conjunto de residentes."
+]
+},
+{
+"id": "Q-POL-0101",
+"g": "C",
+"e": "Para Hobbes, o estado de natureza é uma guerra de todos contra todos, e os indivíduos pactuam a submissão a um soberano absoluto, para garantir a paz e a segurança.",
+"velho": "Hobbes, Leviatã.",
+"aula": [
+"Elementos do Estado: povo, território e governo soberano (poder político soberano).",
+"Contratualismo: Hobbes (Leviatã): estado de natureza como guerra de todos contra todos; pacto de submissão ao soberano absoluto;"
+]
+},
+{
+"id": "Q-POL-0102",
+"g": "E",
+"e": "Para Hobbes, o estado de natureza é um estado de paz e de liberdade, e os indivíduos pactuam a criação de um governo limitado, com direito de resistência, para proteger a propriedade.",
+"velho": "Hobbes, Leviatã.",
+"aula": [
+"Contratualismo: Hobbes (Leviatã): estado de natureza como guerra de todos contra todos; pacto de submissão ao soberano absoluto;",
+"Locke (Segundo Tratado): estado de natureza com direitos naturais à vida, liberdade e propriedade; governo limitado, consentimento e direito de resistência;"
+]
+},
+{
+"id": "Q-POL-0103",
+"g": "C",
+"e": "Para Locke, o governo se funda no consentimento e tem por finalidade proteger os direitos naturais à vida, à liberdade e à propriedade, admitindo-se o direito de resistência quando o governo viola a confiança.",
+"velho": "Locke, Segundo Tratado sobre o Governo.",
+"aula": [
+"Locke (Segundo Tratado): estado de natureza com direitos naturais à vida, liberdade e propriedade; governo limitado, consentimento e direito de resistência;"
+]
+},
+{
+"id": "Q-POL-0104",
+"g": "E",
+"e": "Para Locke, o governo se funda na vontade geral e tem por finalidade a submissão total dos indivíduos ao soberano, sendo vedado o direito de resistência.",
+"velho": "Locke, Segundo Tratado sobre o Governo.",
+"aula": [
+"Elementos do Estado: povo, território e governo soberano (poder político soberano).",
+"Locke (Segundo Tratado): estado de natureza com direitos naturais à vida, liberdade e propriedade; governo limitado, consentimento e direito de resistência;"
+]
+},
+{
+"id": "Q-POL-0105",
+"g": "C",
+"e": "Para Rousseau, a soberania pertence ao povo, expressa-se na vontade geral e é inalienável e indivisível.",
+"velho": "Rousseau, Do Contrato Social.",
+"aula": [
+"Rousseau (O Contrato Social): vontade geral, soberania popular inalienável e indivisível."
+]
+},
+{
+"id": "Q-POL-0106",
+"g": "E",
+"e": "Para Rousseau, a soberania pertence ao monarca, expressa-se na vontade de todos e é alienável e divisível entre os Poderes.",
+"velho": "Rousseau, Do Contrato Social.",
+"aula": [
+"Rousseau (O Contrato Social): vontade geral, soberania popular inalienável e indivisível."
+]
+},
+{
+"id": "Q-POL-0107",
+"g": "C",
+"e": "Segundo Weber, o Estado é a comunidade humana que reivindica, com êxito, o monopólio do uso legítimo da força física dentro de um determinado território.",
+"velho": "Weber, A Política como Vocação.",
+"aula": [
+"Elementos do Estado: povo, território e governo soberano (poder político soberano).",
+"Weber: o Estado é a comunidade humana que reivindica, com êxito, o monopólio do uso legítimo da força física em um determinado território."
+]
+},
+{
+"id": "Q-POL-0108",
+"g": "E",
+"e": "Segundo Weber, o Estado é a comunidade humana que reivindica, com êxito, o monopólio da propriedade dos meios de produção dentro de um determinado território.",
+"velho": "Weber, A Política como Vocação.",
+"aula": [
+"Elementos do Estado: povo, território e governo soberano (poder político soberano).",
+"Weber: o Estado é a comunidade humana que reivindica, com êxito, o monopólio do uso legítimo da força física em um determinado território."
+]
+},
+{
+"id": "Q-POL-0109",
+"g": "C",
+"e": "Os tipos puros de dominação legítima, em Weber, são a tradicional, fundada no costume, a carismática, fundada no dom do líder, e a legal-racional, fundada em regras impessoais.",
+"velho": "Weber, tipos de dominação.",
+"aula": [
+"Tipos puros de dominação legítima (Weber): tradicional (costume), carismática (dom do líder) e legal-racional (regras impessoais, burocracia)."
+]
+},
+{
+"id": "Q-POL-0110",
+"g": "E",
+"e": "Os tipos puros de dominação legítima, em Weber, são a tradicional, fundada em regras impessoais, a carismática, fundada no costume, e a legal-racional, fundada no dom do líder.",
+"velho": "Weber, tipos de dominação.",
+"aula": [
+"Tipos puros de dominação legítima (Weber): tradicional (costume), carismática (dom do líder) e legal-racional (regras impessoais, burocracia)."
+]
+},
+{
+"id": "Q-POL-0111",
+"g": "C",
+"e": "Em Maquiavel, a política possui autonomia em relação à moral tradicional, e a conservação do poder exige do príncipe virtù para enfrentar a fortuna.",
+"velho": "Maquiavel, O Príncipe.",
+"aula": [
+"Maquiavel (O Príncipe): autonomia da política em relação à moral; virtù e fortuna."
+]
+},
+{
+"id": "Q-POL-0112",
+"g": "E",
+"e": "Em Maquiavel, a política subordina-se à moral cristã, e a conservação do poder depende da vontade divina, sendo irrelevante a virtù do príncipe.",
+"velho": "Maquiavel, O Príncipe.",
+"aula": [
+"Maquiavel (O Príncipe): autonomia da política em relação à moral; virtù e fortuna."
+]
+},
+{
+"id": "Q-POL-0113",
+"g": "C",
+"e": "Segundo Tilly, a guerra foi decisiva para a formação dos Estados europeus, porque a necessidade de extrair recursos para a guerra impulsionou a construção de um aparato fiscal e administrativo.",
+"velho": "Tilly, Coerção, Capital e Estados Europeus.",
+"aula": [
+"Tilly: a guerra fez o Estado e o Estado fez a guerra (extração de recursos para a guerra e formação de aparato fiscal)."
+]
+},
+{
+"id": "Q-POL-0114",
+"g": "E",
+"e": "Segundo Tilly, a guerra foi irrelevante para a formação dos Estados europeus, que resultaram do consentimento voluntário entre os povos, sem necessidade de aparato fiscal e administrativo.",
+"velho": "Tilly, Coerção, Capital e Estados Europeus.",
+"aula": [
+"Tilly: a guerra fez o Estado e o Estado fez a guerra (extração de recursos para a guerra e formação de aparato fiscal)."
+]
+},
+{
+"id": "Q-POL-0115",
+"g": "C",
+"e": "A Paz de Westfália, de 1648, consagrou a soberania territorial dos Estados, e as revoluções liberais inglesa, americana e francesa ocorreram, respectivamente, em 1688, 1776 e 1789.",
+"velho": "Formação dos Estados nacionais.",
+"aula": [
+"Paz de Westfália (1648): princípio da soberania territorial e da não-intervenção.",
+"Revoluções liberais: inglesa (1688), americana (1776) e francesa (1789)."
+]
+},
+{
+"id": "Q-POL-0116",
+"g": "E",
+"e": "A Paz de Westfália, de 1648, consagrou o império universal do Papa, e as revoluções liberais inglesa, americana e francesa ocorreram, respectivamente, em 1789, 1688 e 1776.",
+"velho": "Formação dos Estados nacionais.",
+"aula": [
+"Revoluções liberais: inglesa (1688), americana (1776) e francesa (1789)."
+]
+},
+{
+"id": "Q-POL-0117",
+"g": "C",
+"e": "O Estado social, ou de bem-estar, caracteriza-se pelo reconhecimento de direitos sociais e pela atuação estatal na provisão de serviços, ao passo que o Estado liberal clássico se caracteriza pela limitação do poder e pela proteção das liberdades individuais.",
+"velho": "Estado liberal e social.",
+"aula": [
+"Estado absolutista (séculos XVI a XVIII): centralização do poder no monarca, exército permanente, burocracia, tributação centralizada.",
+"Estado liberal (limitação do poder, liberdades individuais, Estado mínimo), Estado social (Welfare State, direitos sociais) e Estado neoliberal (redução do papel econômico do Estado)."
+]
+},
+{
+"id": "Q-POL-0118",
+"g": "E",
+"e": "O Estado liberal clássico caracteriza-se pelo reconhecimento de direitos sociais e pela ampla atuação estatal na provisão de serviços, ao passo que o Estado social se caracteriza pela abstenção estatal e pelo Estado mínimo.",
+"velho": "Estado liberal e social.",
+"aula": [
+"Estado liberal (limitação do poder, liberdades individuais, Estado mínimo), Estado social (Welfare State, direitos sociais) e Estado neoliberal (redução do papel econômico do Estado)."
+]
+}
+]

@@ -1,0 +1,692 @@
+[
+{
+"id": "Q-LIN-0640",
+"g": "E",
+"e": "Os Capítulos, Títulos, Livros e Partes são grafados em letras minúsculas e identificados por algarismos arábicos, ao passo que as Subseções e Seções são grafadas em letras maiúsculas e sem realce. Tal solução decorreria, segundo esse entendimento, da natureza do ato normativo.",
+"velho": "LC 95/1998, art. 10, VI e VII.",
+"aula": [
+"Capítulos, Títulos, Livros e Partes são grafados em letras maiúsculas e identificados por algarismos romanos (as Partes podem desdobrar-se em Parte Geral e Parte Especial ou em partes expressas em numeral ordinal, por extenso).",
+"Subseções e Seções são identificadas em algarismos romanos, grafadas em letras minúsculas e postas em negrito ou caracteres de realce."
+]
+},
+{
+"id": "Q-LIN-0641",
+"g": "C",
+"e": "A composição dos agrupamentos de artigos pode compreender também agrupamentos em Disposições Preliminares, Gerais, Finais ou Transitórias, conforme necessário.",
+"velho": "LC 95/1998, art. 10, VIII.",
+"aula": [
+"Art. 10, V a VIII: o agrupamento de artigos pode constituir Subseções; o de Subseções, a Seção; o de Seções, o Capítulo; o de Capítulos, o Título; o de Títulos, o Livro; e o de Livros, a Parte.",
+"A composição pode compreender agrupamentos em Disposições Preliminares, Gerais, Finais ou Transitórias, conforme necessário."
+]
+},
+{
+"id": "Q-LIN-0642",
+"g": "E",
+"e": "A composição dos agrupamentos de artigos limita-se a Subseções, Seções, Capítulos, Títulos, Livros e Partes, sendo vedados agrupamentos em Disposições Preliminares, Gerais, Finais ou Transitórias.",
+"velho": "LC 95/1998, art. 10, VIII.",
+"aula": [
+"Art. 10, V a VIII: o agrupamento de artigos pode constituir Subseções; o de Subseções, a Seção; o de Seções, o Capítulo; o de Capítulos, o Título; o de Títulos, o Livro; e o de Livros, a Parte.",
+"A composição pode compreender agrupamentos em Disposições Preliminares, Gerais, Finais ou Transitórias, conforme necessário."
+]
+},
+{
+"id": "Q-LIN-0643",
+"g": "C",
+"e": "As disposições normativas serão redigidas com clareza, precisão e ordem lógica.",
+"velho": "LC 95/1998, art. 11, caput.",
+"aula": [
+"Art. 11 (clareza, precisão e ordem lógica).",
+"Art. 11, III (ordem lógica): a) reunir sob as categorias de agregação (subseção, seção, capítulo, título e livro) apenas as disposições relacionadas com o objeto da lei;"
+]
+},
+{
+"id": "Q-LIN-0644",
+"g": "E",
+"e": "As disposições normativas serão redigidas com ênfase na expressividade, na variedade vocabular e no estilo elaborado.",
+"velho": "LC 95/1998, art. 11, caput.",
+"aula": [
+"Art. 10 (articulação): I a unidade básica é o artigo, indicado pela abreviatura 'Art.', seguida de numeração ordinal até o nono e cardinal a partir deste;"
+]
+},
+{
+"id": "Q-LIN-0645",
+"g": "C",
+"e": "Para a obtenção de clareza, devem-se usar as palavras e as expressões em seu sentido comum, salvo quando a norma versar sobre assunto técnico, hipótese em que se empregará a nomenclatura própria da área em que se esteja legislando.",
+"velho": "LC 95/1998, art. 11, I, a.",
+"aula": [
+"I clareza: a) palavras e expressões em seu sentido comum, salvo assunto técnico, com nomenclatura própria da área;",
+"d) termos de mesmo sentido na maior parte do território nacional, evitando expressões locais ou regionais;"
+]
+},
+{
+"id": "Q-LIN-0646",
+"g": "E",
+"e": "Para a obtenção de clareza, devem-se usar termos técnicos e raros, ainda que a norma não verse sobre assunto técnico, para conferir maior elegância ao texto. Essa seria a leitura predominante em técnica legislativa.",
+"velho": "LC 95/1998, art. 11, I, a.",
+"aula": [
+"I clareza: a) palavras e expressões em seu sentido comum, salvo assunto técnico, com nomenclatura própria da área;",
+"d) termos de mesmo sentido na maior parte do território nacional, evitando expressões locais ou regionais;"
+]
+},
+{
+"id": "Q-LIN-0647",
+"g": "C",
+"e": "Para a obtenção de clareza, devem-se usar frases curtas e concisas e construir as orações na ordem direta, evitando preciosismo, neologismo e adjetivações dispensáveis.",
+"velho": "LC 95/1998, art. 11, I, b e c.",
+"aula": [
+"b) frases curtas e concisas;",
+"c) orações na ordem direta, evitando preciosismo, neologismo e adjetivações dispensáveis;"
+]
+},
+{
+"id": "Q-LIN-0648",
+"g": "E",
+"e": "Para a obtenção de clareza, devem-se usar frases longas e construir as orações na ordem inversa, valorizando o preciosismo e o neologismo. Trata-se de prática corrente.",
+"velho": "LC 95/1998, art. 11, I, b e c.",
+"aula": [
+"Art. 11 (clareza, precisão e ordem lógica).",
+"c) orações na ordem direta, evitando preciosismo, neologismo e adjetivações dispensáveis;"
+]
+},
+{
+"id": "Q-LIN-0649",
+"g": "C",
+"e": "Deve-se buscar a uniformidade do tempo verbal em todo o texto das normas legais, dando preferência ao tempo presente ou ao futuro simples do presente, e usar a pontuação de forma judiciosa, evitando os abusos de caráter estilístico.",
+"velho": "LC 95/1998, art. 11, I, d e e.",
+"aula": [
+"d) uniformidade do tempo verbal, com preferência pelo presente ou futuro simples do presente;",
+"e) pontuação judiciosa, evitando abusos de caráter estilístico."
+]
+},
+{
+"id": "Q-LIN-0650",
+"g": "E",
+"e": "Deve-se alternar os tempos verbais ao longo do texto das normas legais, dando preferência ao pretérito perfeito, e usar a pontuação de forma expressiva, valorizando os recursos de caráter estilístico. Isso é consenso na área.",
+"velho": "LC 95/1998, art. 11, I, d e e.",
+"aula": [
+"e) pontuação judiciosa, evitando abusos de caráter estilístico."
+]
+},
+{
+"id": "Q-LIN-0651",
+"g": "C",
+"e": "Para a obtenção de precisão, deve-se expressar a ideia, quando repetida no texto, por meio das mesmas palavras, evitando o emprego de sinonímia com propósito meramente estilístico.",
+"velho": "LC 95/1998, art. 11, II, b.",
+"aula": [
+"e) pontuação judiciosa, evitando abusos de caráter estilístico.",
+"b) expressar a ideia repetida com as mesmas palavras, evitando sinonímia com propósito meramente estilístico;"
+]
+},
+{
+"id": "Q-LIN-0652",
+"g": "E",
+"e": "Para a obtenção de precisão, deve-se variar as palavras sempre que a ideia for repetida no texto, empregando sinônimos com propósito estilístico. Trata-se de prática corrente.",
+"velho": "LC 95/1998, art. 11, II, b.",
+"aula": [
+"b) expressar a ideia repetida com as mesmas palavras, evitando sinonímia com propósito meramente estilístico;"
+]
+},
+{
+"id": "Q-LIN-0653",
+"g": "C",
+"e": "Para a obtenção de precisão, deve-se evitar o emprego de expressão ou palavra que confira duplo sentido ao texto.",
+"velho": "LC 95/1998, art. 11, II, c.",
+"aula": [
+"c) evitar expressão ou palavra de duplo sentido;"
+]
+},
+{
+"id": "Q-LIN-0654",
+"g": "E",
+"e": "Para a obtenção de precisão, admite-se o emprego de expressão que confira duplo sentido ao texto, desde que a interpretação seja definida na jurisprudência.",
+"velho": "LC 95/1998, art. 11, II, c.",
+"aula": [
+"c) evitar expressão ou palavra de duplo sentido;",
+"e) apenas siglas consagradas pelo uso, observado o princípio de que a primeira referência no texto seja acompanhada de explicitação de seu significado;"
+]
+},
+{
+"id": "Q-LIN-0655",
+"g": "C",
+"e": "Devem ser escolhidos termos que tenham o mesmo sentido e significado na maior parte do território nacional, evitando-se o uso de expressões locais ou regionais.",
+"velho": "LC 95/1998, art. 11, II, d.",
+"aula": [
+"I clareza: a) palavras e expressões em seu sentido comum, salvo assunto técnico, com nomenclatura própria da área;",
+"d) termos de mesmo sentido na maior parte do território nacional, evitando expressões locais ou regionais;"
+]
+},
+{
+"id": "Q-LIN-0656",
+"g": "E",
+"e": "Devem ser preferidas as expressões locais ou regionais, para aproximar a norma da realidade de cada Estado. Trata-se de prática corrente.",
+"velho": "LC 95/1998, art. 11, II, d.",
+"aula": [
+"d) termos de mesmo sentido na maior parte do território nacional, evitando expressões locais ou regionais;"
+]
+},
+{
+"id": "Q-LIN-0657",
+"g": "C",
+"e": "Devem ser usadas apenas siglas consagradas pelo uso, observado o princípio de que a primeira referência no texto seja acompanhada de explicitação de seu significado.",
+"velho": "LC 95/1998, art. 11, II, e.",
+"aula": [
+"e) apenas siglas consagradas pelo uso, observado o princípio de que a primeira referência no texto seja acompanhada de explicitação de seu significado;"
+]
+},
+{
+"id": "Q-LIN-0658",
+"g": "E",
+"e": "Podem ser criadas novas siglas em cada lei, e a sigla deve ser usada desde a primeira referência, sem explicitação de seu significado. Isso é consenso na área.",
+"velho": "LC 95/1998, art. 11, II, e.",
+"aula": [
+"e) apenas siglas consagradas pelo uso, observado o princípio de que a primeira referência no texto seja acompanhada de explicitação de seu significado;"
+]
+},
+{
+"id": "Q-LIN-0659",
+"g": "C",
+"e": "Devem-se grafar por extenso quaisquer referências a números e percentuais, exceto data, número de lei e os casos em que houver prejuízo para a compreensão do texto.",
+"velho": "LC 95/1998, art. 11, II, f.",
+"aula": [
+"III os parágrafos são representados pelo sinal gráfico '§', com numeração ordinal até o nono e cardinal a partir deste, usando-se 'parágrafo único' por extenso quando só houver um;",
+"f) grafar por extenso quaisquer referências a números e percentuais, exceto data, número de lei e nos casos em que houver prejuízo para a compreensão do texto;"
+]
+},
+{
+"id": "Q-LIN-0660",
+"g": "E",
+"e": "Devem-se grafar em algarismos todas as referências a números e percentuais, para assegurar a precisão, vedada a escrita por extenso. Trata-se de prática corrente.",
+"velho": "LC 95/1998, art. 11, II, f.",
+"aula": [
+"Capítulos, Títulos, Livros e Partes são grafados em letras maiúsculas e identificados por algarismos romanos (as Partes podem desdobrar-se em Parte Geral e Parte Especial ou em partes expressas em numeral ordinal, por extenso).",
+"f) grafar por extenso quaisquer referências a números e percentuais, exceto data, número de lei e nos casos em que houver prejuízo para a compreensão do texto;"
+]
+},
+{
+"id": "Q-LIN-0661",
+"g": "C",
+"e": "Deve-se indicar expressamente o dispositivo objeto de remissão, em vez de usar as expressões 'anterior', 'seguinte' ou equivalentes.",
+"velho": "LC 95/1998, art. 11, II, g.",
+"aula": [
+"g) indicar expressamente o dispositivo objeto de remissão, em vez de 'anterior', 'seguinte' ou equivalentes."
+]
+},
+{
+"id": "Q-LIN-0662",
+"g": "E",
+"e": "Para remeter a outro dispositivo, devem ser usadas as expressões 'anterior', 'seguinte' ou equivalentes, em vez da indicação expressa do dispositivo.",
+"velho": "LC 95/1998, art. 11, II, g.",
+"aula": [
+"g) indicar expressamente o dispositivo objeto de remissão, em vez de 'anterior', 'seguinte' ou equivalentes."
+]
+},
+{
+"id": "Q-LIN-0663",
+"g": "C",
+"e": "Para a obtenção de ordem lógica, devem-se reunir sob as categorias de agregação (subseção, seção, capítulo, título e livro) apenas as disposições relacionadas com o objeto da lei, e restringir o conteúdo de cada artigo a um único assunto ou princípio.",
+"velho": "LC 95/1998, art. 11, III, a e b.",
+"aula": [
+"Art. 11, III (ordem lógica): a) reunir sob as categorias de agregação (subseção, seção, capítulo, título e livro) apenas as disposições relacionadas com o objeto da lei;",
+"b) restringir o conteúdo de cada artigo a um único assunto ou princípio;"
+]
+},
+{
+"id": "Q-LIN-0664",
+"g": "E",
+"e": "Para a obtenção de ordem lógica, podem-se reunir sob as categorias de agregação disposições alheias ao objeto da lei, desde que sob o mesmo capítulo, e cada artigo pode reunir vários assuntos ou princípios. Trata-se de prática corrente.",
+"velho": "LC 95/1998, art. 11, III, a e b.",
+"aula": [
+"Art. 11 (clareza, precisão e ordem lógica).",
+"Art. 11, III (ordem lógica): a) reunir sob as categorias de agregação (subseção, seção, capítulo, título e livro) apenas as disposições relacionadas com o objeto da lei;"
+]
+},
+{
+"id": "Q-LIN-0665",
+"g": "C",
+"e": "Os aspectos complementares à norma enunciada no caput do artigo e as exceções à regra por este estabelecida devem ser expressos por meio dos parágrafos, e as discriminações e enumerações, por meio dos incisos, alíneas e itens.",
+"velho": "LC 95/1998, art. 11, III, c e d.",
+"aula": [
+"c) expressar por meio dos parágrafos os aspectos complementares à norma enunciada no caput do artigo e as exceções à regra por este estabelecida;",
+"d) promover as discriminações e enumerações por meio dos incisos, alíneas e itens."
+]
+},
+{
+"id": "Q-LIN-0666",
+"g": "E",
+"e": "Os aspectos complementares à norma enunciada no caput do artigo e as exceções à regra devem ser expressos por meio dos incisos, e as discriminações e enumerações, por meio dos parágrafos. Isso é consenso na área.",
+"velho": "LC 95/1998, art. 11, III, c e d.",
+"aula": [
+"c) expressar por meio dos parágrafos os aspectos complementares à norma enunciada no caput do artigo e as exceções à regra por este estabelecida;",
+"d) promover as discriminações e enumerações por meio dos incisos, alíneas e itens."
+]
+},
+{
+"id": "Q-LIN-0667",
+"g": "C",
+"e": "A alteração da lei será feita mediante reprodução integral em novo texto, quando se tratar de alteração considerável; mediante revogação parcial; e, nos demais casos, por substituição, no próprio texto, do dispositivo alterado, ou por acréscimo de dispositivo novo.",
+"velho": "LC 95/1998, art. 12, I a III.",
+"aula": [
+"Art. 12: a alteração da lei será feita: I mediante reprodução integral em novo texto, quando se tratar de alteração considerável;",
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…"
+]
+},
+{
+"id": "Q-LIN-0668",
+"g": "E",
+"e": "A alteração da lei será feita sempre mediante reprodução integral em novo texto, vedadas a revogação parcial e a substituição ou o acréscimo de dispositivos no próprio texto. Tal solução decorreria, segundo esse entendimento, da natureza do ato normativo.",
+"velho": "LC 95/1998, art. 12, I a III.",
+"aula": [
+"Art. 12: a alteração da lei será feita: I mediante reprodução integral em novo texto, quando se tratar de alteração considerável;",
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…"
+]
+},
+{
+"id": "Q-LIN-0669",
+"g": "C",
+"e": "Para acrescentar um novo artigo entre os arts. 5º e 6º de uma lei, usa-se a numeração 'Art. 5º-A', sem renumerar os artigos seguintes.",
+"velho": "LC 95/1998, art. 12, III, b.",
+"aula": [
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…",
+"Manual (item 17.1): o artigo de alteração faz menção expressa ao ato alterado ('A Lei nº X passa a vigorar com as seguintes alterações:')."
+]
+},
+{
+"id": "Q-LIN-0670",
+"g": "E",
+"e": "Para acrescentar um novo artigo entre os arts. 5º e 6º de uma lei, renumeram-se os artigos seguintes, de modo que o novo artigo passe a ser o 6º, cabendo à lei alteradora corrigir as remissões.",
+"velho": "LC 95/1998, art. 12, III, b.",
+"aula": [
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…",
+"É vedado dispor sobre alterações de mais de uma norma no mesmo artigo ou dividir alterações do mesmo ato em diversos artigos da norma alteradora; não se faz distinção entre dispositivos alterados e acrescidos."
+]
+},
+{
+"id": "Q-LIN-0671",
+"g": "C",
+"e": "A vedação de renumeração prevista no art. 12, III, b, da LC 95/1998 alcança os artigos e as unidades superiores ao artigo (como seções e capítulos); quanto às unidades em que se desdobra o artigo, é admissível a reordenação interna, identificando-se o artigo modificado com a sigla NR.",
+"velho": "LC 95/1998, art. 12, III, b e d.",
+"aula": [
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…",
+"d) é admissível a reordenação interna das unidades em que se desdobra o artigo, identificando-se o artigo assim modificado por alteração de redação, supressão ou acréscimo com as letras 'NR' maiúsculas, entre parênteses, uma única vez ao seu final, obedecidas as prescrições da alínea c."
+]
+},
+{
+"id": "Q-LIN-0672",
+"g": "E",
+"e": "A vedação de renumeração prevista no art. 12, III, b, da LC 95/1998 alcança os parágrafos, incisos, alíneas e itens, sem qualquer possibilidade de reordenação interna das unidades em que se desdobra o artigo. Tal solução decorreria, segundo esse entendimento, da natureza do ato normativo.",
+"velho": "LC 95/1998, art. 12, III, b e d.",
+"aula": [
+"d) é admissível a reordenação interna das unidades em que se desdobra o artigo, identificando-se o artigo assim modificado por alteração de redação, supressão ou acréscimo com as letras 'NR' maiúsculas, entre parênteses, uma única vez ao seu final, obedecidas as prescrições da alínea c.",
+"Parágrafo único: 'dispositivo' refere-se a artigos, parágrafos, incisos, alíneas ou itens."
+]
+},
+{
+"id": "Q-LIN-0673",
+"g": "C",
+"e": "É vedado o aproveitamento do número de dispositivo revogado, vetado, declarado inconstitucional pelo STF ou de execução suspensa pelo Senado Federal, devendo a lei alterada manter essa indicação, seguida da expressão 'revogado', 'vetado' ou equivalente.",
+"velho": "LC 95/1998, art. 12, III, c.",
+"aula": [
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…",
+"c) é vedado o aproveitamento do número de dispositivo revogado, vetado, declarado inconstitucional pelo STF ou de execução suspensa pelo Senado Federal, devendo a lei alterada manter essa indicação seguida da expressão 'revogado', 'vetado' etc.;"
+]
+},
+{
+"id": "Q-LIN-0674",
+"g": "E",
+"e": "Pode ser aproveitado o número de dispositivo revogado ou vetado, para que a numeração do texto não fique com lacunas, ressalvado o dispositivo declarado inconstitucional pelo STF. Essa seria a leitura predominante em técnica legislativa.",
+"velho": "LC 95/1998, art. 12, III, c.",
+"aula": [
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…",
+"c) é vedado o aproveitamento do número de dispositivo revogado, vetado, declarado inconstitucional pelo STF ou de execução suspensa pelo Senado Federal, devendo a lei alterada manter essa indicação seguida da expressão 'revogado', 'vetado' etc.;"
+]
+},
+{
+"id": "Q-LIN-0675",
+"g": "C",
+"e": "O artigo que tiver sua redação alterada, suprimida ou acrescida é identificado com as letras 'NR' maiúsculas, entre parênteses, uma única vez ao seu final.",
+"velho": "LC 95/1998, art. 12, III, d.",
+"aula": [
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…",
+"d) é admissível a reordenação interna das unidades em que se desdobra o artigo, identificando-se o artigo assim modificado por alteração de redação, supressão ou acréscimo com as letras 'NR' maiúsculas, entre parênteses, uma única vez ao seu final, obedecidas as prescrições da alínea c."
+]
+},
+{
+"id": "Q-LIN-0676",
+"g": "E",
+"e": "Cada dispositivo que receba nova redação é identificado com as letras 'nr' minúsculas, entre colchetes, no início do dispositivo, repetidas a cada parágrafo alterado.",
+"velho": "LC 95/1998, art. 12, III, d.",
+"aula": [
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…",
+"O texto de cada artigo acrescido ou alterado é transcrito entre aspas, com a indicação de nova redação '(NR)'."
+]
+},
+{
+"id": "Q-LIN-0677",
+"g": "C",
+"e": "Para os fins da LC 95/1998, o termo 'dispositivo' refere-se a artigos, parágrafos, incisos, alíneas ou itens.",
+"velho": "LC 95/1998, art. 12, parágrafo único.",
+"aula": [
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…",
+"Parágrafo único: 'dispositivo' refere-se a artigos, parágrafos, incisos, alíneas ou itens."
+]
+},
+{
+"id": "Q-LIN-0678",
+"g": "E",
+"e": "Para os fins da LC 95/1998, o termo 'dispositivo' refere-se a artigos e parágrafos, não alcançando incisos, alíneas e itens.",
+"velho": "LC 95/1998, art. 12, parágrafo único.",
+"aula": [
+"III nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as regras: b) é vedada, mesmo quando recomendável, qualquer renumeração de artigos e de unidades superiores ao artigo (as referidas no art. 10, V: seções, capítulos etc.), devendo ser utilizado o mesmo número do artigo…",
+"Parágrafo único: 'dispositivo' refere-se a artigos, parágrafos, incisos, alíneas ou itens."
+]
+},
+{
+"id": "Q-LIN-0679",
+"g": "C",
+"e": "O artigo de alteração deve fazer menção expressa ao ato normativo alterado, sendo vedado dispor sobre alterações de mais de uma norma no mesmo artigo ou dividir alterações do mesmo ato normativo em diversos artigos da norma alteradora.",
+"velho": "Manual, item 17.1.1.",
+"aula": [
+"Manual (item 17.1): o artigo de alteração faz menção expressa ao ato alterado ('A Lei nº X passa a vigorar com as seguintes alterações:').",
+"É vedado dispor sobre alterações de mais de uma norma no mesmo artigo ou dividir alterações do mesmo ato em diversos artigos da norma alteradora; não se faz distinção entre dispositivos alterados e acrescidos."
+]
+},
+{
+"id": "Q-LIN-0680",
+"g": "E",
+"e": "O artigo de alteração deve reunir, para economia do texto, as alterações de várias normas distintas, e pode dividir as alterações do mesmo ato normativo em diversos artigos da norma alteradora, distinguindo dispositivos alterados e acrescidos.",
+"velho": "Manual, item 17.1.1.",
+"aula": [
+"Manual (item 17.1): o artigo de alteração faz menção expressa ao ato alterado ('A Lei nº X passa a vigorar com as seguintes alterações:').",
+"É vedado dispor sobre alterações de mais de uma norma no mesmo artigo ou dividir alterações do mesmo ato em diversos artigos da norma alteradora; não se faz distinção entre dispositivos alterados e acrescidos."
+]
+},
+{
+"id": "Q-LIN-0681",
+"g": "C",
+"e": "Na alteração parcial de artigo, o uso de linha pontilhada para indicar a manutenção do trecho é obrigatório, e a inexistência de linha pontilhada não dispensa a revogação expressa de parágrafo.",
+"velho": "Manual, item 17.1.2.",
+"aula": [
+"Manual (item 17.1): o artigo de alteração faz menção expressa ao ato alterado ('A Lei nº X passa a vigorar com as seguintes alterações:').",
+"Na alteração parcial, os dispositivos mantidos são substituídos por linha pontilhada, de uso obrigatório (Decreto 9.191/2017); a inexistência de linha pontilhada pode ser interpretada como revogação ou manutenção, e não dispensa a revogação expressa de parágrafo."
+]
+},
+{
+"id": "Q-LIN-0682",
+"g": "E",
+"e": "Na alteração parcial de artigo, o uso de linha pontilhada é facultativo, e a inexistência de linha pontilhada equivale à revogação do parágrafo, dispensando a revogação expressa. Isso é consenso na área.",
+"velho": "Manual, item 17.1.2.",
+"aula": [
+"Manual (item 17.1): o artigo de alteração faz menção expressa ao ato alterado ('A Lei nº X passa a vigorar com as seguintes alterações:').",
+"Na alteração parcial, os dispositivos mantidos são substituídos por linha pontilhada, de uso obrigatório (Decreto 9.191/2017); a inexistência de linha pontilhada pode ser interpretada como revogação ou manutenção, e não dispensa a revogação expressa de parágrafo."
+]
+},
+{
+"id": "Q-LIN-0683",
+"g": "C",
+"e": "Segundo o Manual, 'republicação' designa a hipótese de o texto publicado não corresponder ao original assinado pela autoridade, ao passo que 'retificação' refere-se ao texto publicado que corresponde ao subscrito pela autoridade, mas contém lapso manifesto.",
+"velho": "Manual, item 17.2.",
+"aula": [
+"Retificação e republicação (Manual, item 17.2, Decreto 9.191/2017, arts. 55 e 56): 'republicação' é a hipótese de o texto publicado não corresponder ao original assinado pela autoridade; não cabe por erro já constante do documento subscrito nem por mudança de opinião da autoridade.",
+"Como os atos normativos só produzem efeitos após a publicação no DOU, a republicação não tem efeitos retroativos (o texto sem correspondência com o assinado poderá ser considerado inválido com efeitos retroativos). 'Retificação' é para texto publicado que corresponde ao subscrito, mas contém lapso manifesto; requer nova assinatura das autoridades e muitas vezes é menos…"
+]
+},
+{
+"id": "Q-LIN-0684",
+"g": "E",
+"e": "Segundo o Manual, 'retificação' designa a hipótese de o texto publicado não corresponder ao original assinado pela autoridade, ao passo que 'republicação' refere-se ao texto publicado que corresponde ao subscrito pela autoridade, mas contém lapso manifesto.",
+"velho": "Manual, item 17.2.",
+"aula": [
+"Retificação e republicação (Manual, item 17.2, Decreto 9.191/2017, arts. 55 e 56): 'republicação' é a hipótese de o texto publicado não corresponder ao original assinado pela autoridade; não cabe por erro já constante do documento subscrito nem por mudança de opinião da autoridade.",
+"Como os atos normativos só produzem efeitos após a publicação no DOU, a republicação não tem efeitos retroativos (o texto sem correspondência com o assinado poderá ser considerado inválido com efeitos retroativos). 'Retificação' é para texto publicado que corresponde ao subscrito, mas contém lapso manifesto; requer nova assinatura das autoridades e muitas vezes é menos…"
+]
+},
+{
+"id": "Q-LIN-0685",
+"g": "C",
+"e": "Como os atos normativos somente produzem efeitos após a publicação no Diário Oficial da União, a republicação do texto corrigido não gera efeitos retroativos.",
+"velho": "Manual, item 17.2.",
+"aula": [
+"Retificação e republicação (Manual, item 17.2, Decreto 9.191/2017, arts. 55 e 56): 'republicação' é a hipótese de o texto publicado não corresponder ao original assinado pela autoridade; não cabe por erro já constante do documento subscrito nem por mudança de opinião da autoridade.",
+"Como os atos normativos só produzem efeitos após a publicação no DOU, a republicação não tem efeitos retroativos (o texto sem correspondência com o assinado poderá ser considerado inválido com efeitos retroativos). 'Retificação' é para texto publicado que corresponde ao subscrito, mas contém lapso manifesto; requer nova assinatura das autoridades e muitas vezes é menos…"
+]
+},
+{
+"id": "Q-LIN-0686",
+"g": "E",
+"e": "A republicação do texto corrigido gera efeitos retroativos à data da primeira publicação do ato normativo, já que apenas restabelece o original assinado pela autoridade.",
+"velho": "Manual, item 17.2.",
+"aula": [
+"Retificação e republicação (Manual, item 17.2, Decreto 9.191/2017, arts. 55 e 56): 'republicação' é a hipótese de o texto publicado não corresponder ao original assinado pela autoridade; não cabe por erro já constante do documento subscrito nem por mudança de opinião da autoridade.",
+"Como os atos normativos só produzem efeitos após a publicação no DOU, a republicação não tem efeitos retroativos (o texto sem correspondência com o assinado poderá ser considerado inválido com efeitos retroativos). 'Retificação' é para texto publicado que corresponde ao subscrito, mas contém lapso manifesto; requer nova assinatura das autoridades e muitas vezes é menos…"
+]
+},
+{
+"id": "Q-LIN-0687",
+"g": "C",
+"e": "A correção de erro material que não afete a substância do ato singular de caráter pessoal é realizada por apostila, cuja competência é do setor de recursos humanos do órgão e que dispensa nova assinatura da autoridade que subscreveu o ato originário.",
+"velho": "Manual, item 18.1.",
+"aula": [
+"Apostila (Manual, item 18): correção de erro material que não afete a substância do ato singular de caráter pessoal e retificação ou alteração da denominação de cargos, funções ou órgãos modificada por lei ou decreto superveniente.",
+"Competência do setor de recursos humanos; dispensa nova assinatura da autoridade que subscreveu o ato originário; não se aplica quando a essência do cargo em comissão ou função de confiança foi alterada (nível hierárquico, atribuição de assessoramento para chefia, transferência para unidade com outras competências)."
+]
+},
+{
+"id": "Q-LIN-0688",
+"g": "E",
+"e": "A correção de erro material em ato normativo de caráter geral é realizada por apostila, cuja competência é da autoridade que subscreveu o ato originário e que exige nova assinatura dessa autoridade. Trata-se de prática corrente.",
+"velho": "Manual, item 18.1.",
+"aula": [
+"Apostila (Manual, item 18): correção de erro material que não afete a substância do ato singular de caráter pessoal e retificação ou alteração da denominação de cargos, funções ou órgãos modificada por lei ou decreto superveniente.",
+"Competência do setor de recursos humanos; dispensa nova assinatura da autoridade que subscreveu o ato originário; não se aplica quando a essência do cargo em comissão ou função de confiança foi alterada (nível hierárquico, atribuição de assessoramento para chefia, transferência para unidade com outras competências)."
+]
+},
+{
+"id": "Q-LIN-0689",
+"g": "C",
+"e": "Não se aplica o apostilamento quando a essência do cargo em comissão ou da função de confiança foi alterada, como na alteração do nível hierárquico ou na transformação de atribuição de assessoramento em atribuição de chefia.",
+"velho": "Manual, item 18.1.",
+"aula": [
+"Manual (item 17.1): o artigo de alteração faz menção expressa ao ato alterado ('A Lei nº X passa a vigorar com as seguintes alterações:').",
+"Competência do setor de recursos humanos; dispensa nova assinatura da autoridade que subscreveu o ato originário; não se aplica quando a essência do cargo em comissão ou função de confiança foi alterada (nível hierárquico, atribuição de assessoramento para chefia, transferência para unidade com outras competências)."
+]
+},
+{
+"id": "Q-LIN-0690",
+"g": "E",
+"e": "Aplica-se o apostilamento mesmo quando a essência do cargo em comissão foi alterada, como na alteração do nível hierárquico ou na transformação de atribuição de assessoramento em atribuição de chefia. Isso é consenso na área.",
+"velho": "Manual, item 18.1.",
+"aula": [
+"Manual (item 17.1): o artigo de alteração faz menção expressa ao ato alterado ('A Lei nº X passa a vigorar com as seguintes alterações:').",
+"Competência do setor de recursos humanos; dispensa nova assinatura da autoridade que subscreveu o ato originário; não se aplica quando a essência do cargo em comissão ou função de confiança foi alterada (nível hierárquico, atribuição de assessoramento para chefia, transferência para unidade com outras competências)."
+]
+},
+{
+"id": "Q-LIN-0691",
+"g": "C",
+"e": "A consolidação consiste na integração de todas as leis pertinentes a determinada matéria num único diploma legal, revogando-se formalmente as leis incorporadas à consolidação, sem modificação do alcance nem interrupção da força normativa dos dispositivos consolidados.",
+"velho": "LC 95/1998, art. 13, § 1º.",
+"aula": [
+"§1º: a consolidação consiste na integração de todas as leis pertinentes a determinada matéria num único diploma legal, revogando-se formalmente as leis incorporadas, sem modificação do alcance nem interrupção da força normativa dos dispositivos consolidados.",
+"§3º: também é admitido projeto de lei de consolidação destinado exclusivamente a I declarar a revogação de leis e dispositivos implicitamente revogados ou cuja eficácia ou validade esteja completamente prejudicada;"
+]
+},
+{
+"id": "Q-LIN-0692",
+"g": "E",
+"e": "A consolidação consiste na alteração do mérito das leis pertinentes a determinada matéria, com criação de novos direitos e obrigações, mantendo-se em vigor as leis incorporadas. Tal solução decorreria, segundo esse entendimento, da natureza do ato normativo.",
+"velho": "LC 95/1998, art. 13, § 1º.",
+"aula": [
+"Art. 13: as leis federais serão reunidas em codificações e consolidações, integradas por volumes contendo matérias conexas ou afins, constituindo em seu todo a Consolidação da Legislação Federal.",
+"§1º: a consolidação consiste na integração de todas as leis pertinentes a determinada matéria num único diploma legal, revogando-se formalmente as leis incorporadas, sem modificação do alcance nem interrupção da força normativa dos dispositivos consolidados."
+]
+},
+{
+"id": "Q-LIN-0693",
+"g": "C",
+"e": "Preservado o conteúdo normativo original dos dispositivos consolidados, podem ser feitas, nos projetos de lei de consolidação, alterações como a fusão de disposições repetitivas, a atualização da denominação de órgãos e entidades e a homogeneização terminológica do texto.",
+"velho": "LC 95/1998, art. 13, § 2º.",
+"aula": [
+"§2º: preservado o conteúdo normativo original, podem ser feitas, nos projetos de consolidação, as alterações: I novas divisões do texto legal base;",
+"Art. 16: órgãos diretamente subordinados à Presidência da República, Ministérios e entidades da administração indireta adotarão, em prazo estabelecido em decreto, as providências para a triagem, o exame e a consolidação dos decretos de conteúdo normativo e geral e demais atos normativos inferiores, remetendo os textos consolidados à Presidência da República, que os examinará e…"
+]
+},
+{
+"id": "Q-LIN-0694",
+"g": "E",
+"e": "Na consolidação, é vedada qualquer alteração formal do texto, inclusive a fusão de disposições repetitivas e a atualização da denominação de órgãos e entidades, ainda que preservado o conteúdo normativo. Essa seria a leitura predominante em técnica legislativa.",
+"velho": "LC 95/1998, art. 13, § 2º.",
+"aula": [
+"§2º: preservado o conteúdo normativo original, podem ser feitas, nos projetos de consolidação, as alterações: I novas divisões do texto legal base;",
+"Art. 16: órgãos diretamente subordinados à Presidência da República, Ministérios e entidades da administração indireta adotarão, em prazo estabelecido em decreto, as providências para a triagem, o exame e a consolidação dos decretos de conteúdo normativo e geral e demais atos normativos inferiores, remetendo os textos consolidados à Presidência da República, que os examinará e…"
+]
+},
+{
+"id": "Q-LIN-0695",
+"g": "C",
+"e": "Nos projetos de lei de consolidação, são admitidas, entre outras, a atualização do valor de penas pecuniárias com base em indexação padrão, a supressão de dispositivos declarados inconstitucionais pelo STF e a indicação de dispositivos não recepcionados pela Constituição.",
+"velho": "LC 95/1998, art. 13, § 2º, VI, IX e X.",
+"aula": [
+"VI atualização do valor de penas pecuniárias, com base em indexação padrão;",
+"IX supressão de dispositivos declarados inconstitucionais pelo STF, observada a suspensão pelo Senado;"
+]
+},
+{
+"id": "Q-LIN-0696",
+"g": "E",
+"e": "Nos projetos de lei de consolidação, são vedadas a atualização do valor de penas pecuniárias, a supressão de dispositivos declarados inconstitucionais pelo STF e a indicação de dispositivos não recepcionados pela Constituição. Trata-se de prática corrente.",
+"velho": "LC 95/1998, art. 13, § 2º, VI, IX e X.",
+"aula": [
+"VI atualização do valor de penas pecuniárias, com base em indexação padrão;",
+"IX supressão de dispositivos declarados inconstitucionais pelo STF, observada a suspensão pelo Senado;"
+]
+},
+{
+"id": "Q-LIN-0697",
+"g": "C",
+"e": "As providências de supressão de dispositivos inconstitucionais, de indicação de dispositivos não recepcionados e de declaração de revogação de dispositivos implicitamente revogados devem ser expressa e fundadamente justificadas, com indicação precisa das fontes de informação que lhes serviram de base.",
+"velho": "LC 95/1998, art. 13, § 3º.",
+"aula": [
+"XI declaração expressa de revogação de dispositivos implicitamente revogados por leis posteriores.",
+"§3º: as providências dos incisos IX, X e XI devem ser expressa e fundadamente justificadas, com indicação precisa das fontes de informação."
+]
+},
+{
+"id": "Q-LIN-0698",
+"g": "E",
+"e": "As providências de supressão de dispositivos inconstitucionais, de indicação de dispositivos não recepcionados e de declaração de revogação de dispositivos implicitamente revogados dispensam justificativa, por decorrerem diretamente da Constituição. Isso é consenso na área.",
+"velho": "LC 95/1998, art. 13, § 3º.",
+"aula": [
+"XI declaração expressa de revogação de dispositivos implicitamente revogados por leis posteriores.",
+"§3º: também é admitido projeto de lei de consolidação destinado exclusivamente a I declarar a revogação de leis e dispositivos implicitamente revogados ou cuja eficácia ou validade esteja completamente prejudicada;"
+]
+},
+{
+"id": "Q-LIN-0699",
+"g": "C",
+"e": "Não serão objeto de consolidação as medidas provisórias ainda não convertidas em lei.",
+"velho": "LC 95/1998, art. 14, § 1º.",
+"aula": [
+"§1º: não serão objeto de consolidação as medidas provisórias ainda não convertidas em lei."
+]
+},
+{
+"id": "Q-LIN-0700",
+"g": "E",
+"e": "As medidas provisórias em vigor, ainda que não convertidas em lei, serão objeto de consolidação juntamente com as leis pertinentes à matéria.",
+"velho": "LC 95/1998, art. 14, § 1º.",
+"aula": [
+"§1º: a consolidação consiste na integração de todas as leis pertinentes a determinada matéria num único diploma legal, revogando-se formalmente as leis incorporadas, sem modificação do alcance nem interrupção da força normativa dos dispositivos consolidados.",
+"§1º: não serão objeto de consolidação as medidas provisórias ainda não convertidas em lei."
+]
+},
+{
+"id": "Q-LIN-0701",
+"g": "C",
+"e": "A Mesa Diretora do Congresso Nacional, a de qualquer de suas Casas e qualquer membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do Congresso Nacional podem formular projeto de lei de consolidação.",
+"velho": "LC 95/1998, art. 14, § 2º.",
+"aula": [
+"§2º: a Mesa Diretora do Congresso Nacional, de qualquer de suas Casas e qualquer membro ou Comissão da Câmara, do Senado ou do Congresso podem formular projeto de lei de consolidação.",
+"Art. 15: na primeira sessão legislativa de cada legislatura, a Mesa do Congresso Nacional promoverá a atualização da Consolidação das Leis Federais Brasileiras, incorporando as coletâneas que a integram às emendas constitucionais, leis, decretos legislativos e resoluções promulgadas durante a legislatura imediatamente anterior, ordenados e indexados sistematicamente."
+]
+},
+{
+"id": "Q-LIN-0702",
+"g": "E",
+"e": "Somente a Mesa Diretora da Câmara dos Deputados e o Presidente da República podem formular projeto de lei de consolidação. Essa seria a leitura predominante em técnica legislativa.",
+"velho": "LC 95/1998, art. 14, § 2º.",
+"aula": [
+"§2º: a Mesa Diretora do Congresso Nacional, de qualquer de suas Casas e qualquer membro ou Comissão da Câmara, do Senado ou do Congresso podem formular projeto de lei de consolidação.",
+"Art. 15: na primeira sessão legislativa de cada legislatura, a Mesa do Congresso Nacional promoverá a atualização da Consolidação das Leis Federais Brasileiras, incorporando as coletâneas que a integram às emendas constitucionais, leis, decretos legislativos e resoluções promulgadas durante a legislatura imediatamente anterior, ordenados e indexados sistematicamente."
+]
+},
+{
+"id": "Q-LIN-0703",
+"g": "C",
+"e": "A apreciação dos projetos de lei de consolidação pelo Poder Legislativo será feita na forma do Regimento Interno de cada uma de suas Casas, em procedimento simplificado, visando a dar celeridade aos trabalhos.",
+"velho": "LC 95/1998, art. 14, II.",
+"aula": [
+"Art. 14 (procedimentos): I o Poder Executivo ou o Poder Legislativo procederá ao levantamento da legislação federal em vigor e formulará projeto de lei de consolidação, com indicação precisa dos diplomas legais expressa ou implicitamente revogados;",
+"II a apreciação dos projetos de lei de consolidação pelo Poder Legislativo será feita na forma do Regimento Interno de cada Casa, em procedimento simplificado, visando à celeridade;"
+]
+},
+{
+"id": "Q-LIN-0704",
+"g": "E",
+"e": "A apreciação dos projetos de lei de consolidação pelo Poder Legislativo seguirá o rito ordinário de tramitação das leis complementares, vedado procedimento simplificado, em razão do impacto sobre a legislação vigente.",
+"velho": "LC 95/1998, art. 14, II.",
+"aula": [
+"Art. 14 (procedimentos): I o Poder Executivo ou o Poder Legislativo procederá ao levantamento da legislação federal em vigor e formulará projeto de lei de consolidação, com indicação precisa dos diplomas legais expressa ou implicitamente revogados;",
+"II a apreciação dos projetos de lei de consolidação pelo Poder Legislativo será feita na forma do Regimento Interno de cada Casa, em procedimento simplificado, visando à celeridade;"
+]
+},
+{
+"id": "Q-LIN-0705",
+"g": "C",
+"e": "Também é admitido projeto de lei de consolidação destinado exclusivamente a declarar a revogação de leis e dispositivos implicitamente revogados ou cuja eficácia ou validade esteja completamente prejudicada, ou a incluir dispositivos ou diplomas esparsos em leis preexistentes.",
+"velho": "LC 95/1998, art. 14, § 3º.",
+"aula": [
+"XI declaração expressa de revogação de dispositivos implicitamente revogados por leis posteriores.",
+"§3º: também é admitido projeto de lei de consolidação destinado exclusivamente a I declarar a revogação de leis e dispositivos implicitamente revogados ou cuja eficácia ou validade esteja completamente prejudicada;"
+]
+},
+{
+"id": "Q-LIN-0706",
+"g": "E",
+"e": "Não é admitido projeto de lei de consolidação destinado exclusivamente a declarar a revogação de leis implicitamente revogadas, pois a consolidação exige a integração de todas as leis de uma matéria num único diploma. Isso é consenso na área.",
+"velho": "LC 95/1998, art. 14, § 3º.",
+"aula": [
+"§1º: a consolidação consiste na integração de todas as leis pertinentes a determinada matéria num único diploma legal, revogando-se formalmente as leis incorporadas, sem modificação do alcance nem interrupção da força normativa dos dispositivos consolidados.",
+"§3º: também é admitido projeto de lei de consolidação destinado exclusivamente a I declarar a revogação de leis e dispositivos implicitamente revogados ou cuja eficácia ou validade esteja completamente prejudicada;"
+]
+},
+{
+"id": "Q-LIN-0707",
+"g": "C",
+"e": "Na primeira sessão legislativa de cada legislatura, a Mesa do Congresso Nacional promoverá a atualização da Consolidação das Leis Federais Brasileiras, incorporando as coletâneas que a integram às emendas constitucionais, leis, decretos legislativos e resoluções promulgadas durante a legislatura imediatamente anterior.",
+"velho": "LC 95/1998, art. 15.",
+"aula": [
+"Art. 15: na primeira sessão legislativa de cada legislatura, a Mesa do Congresso Nacional promoverá a atualização da Consolidação das Leis Federais Brasileiras, incorporando as coletâneas que a integram às emendas constitucionais, leis, decretos legislativos e resoluções promulgadas durante a legislatura imediatamente anterior, ordenados e indexados sistematicamente.",
+"Art. 17: o Poder Executivo, até cento e oitenta dias do início do primeiro ano do mandato presidencial, promoverá a atualização dessas coletâneas, incorporando os decretos e atos de conteúdo normativo e geral editados no último quadriênio."
+]
+},
+{
+"id": "Q-LIN-0708",
+"g": "E",
+"e": "No início de cada sessão legislativa, o Poder Executivo promoverá a atualização da Consolidação das Leis Federais Brasileiras, incorporando às coletâneas as leis e os decretos editados no ano anterior. Tal solução decorreria, segundo esse entendimento, da natureza do ato normativo.",
+"velho": "LC 95/1998, art. 15.",
+"aula": [
+"Art. 15: na primeira sessão legislativa de cada legislatura, a Mesa do Congresso Nacional promoverá a atualização da Consolidação das Leis Federais Brasileiras, incorporando as coletâneas que a integram às emendas constitucionais, leis, decretos legislativos e resoluções promulgadas durante a legislatura imediatamente anterior, ordenados e indexados sistematicamente.",
+"Art. 17: o Poder Executivo, até cento e oitenta dias do início do primeiro ano do mandato presidencial, promoverá a atualização dessas coletâneas, incorporando os decretos e atos de conteúdo normativo e geral editados no último quadriênio."
+]
+},
+{
+"id": "Q-LIN-0709",
+"g": "C",
+"e": "O Poder Executivo, até cento e oitenta dias do início do primeiro ano do mandato presidencial, promoverá a atualização das coletâneas de decretos e demais atos de conteúdo normativo e geral, incorporando os atos editados no último quadriênio.",
+"velho": "LC 95/1998, art. 17.",
+"aula": [
+"Art. 16: órgãos diretamente subordinados à Presidência da República, Ministérios e entidades da administração indireta adotarão, em prazo estabelecido em decreto, as providências para a triagem, o exame e a consolidação dos decretos de conteúdo normativo e geral e demais atos normativos inferiores, remetendo os textos consolidados à Presidência da República, que os examinará e…",
+"Art. 17: o Poder Executivo, até cento e oitenta dias do início do primeiro ano do mandato presidencial, promoverá a atualização dessas coletâneas, incorporando os decretos e atos de conteúdo normativo e geral editados no último quadriênio."
+]
+}
+]

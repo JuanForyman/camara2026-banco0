@@ -1,0 +1,681 @@
+[
+{
+"id": "Q-FIA-0214",
+"g": "E",
+"e": "Resumos de sessões não precisam indicar a fonte, e a revisão é dispensável quando o modelo é de grande porte. Isso é consenso na área.",
+"velho": "Fonte e revisão.",
+"aula": [
+"Para transcrições longas, usa-se divisão em partes (chunking) e sumarização hierárquica (map-reduce). Avaliação: métricas automáticas, como ROUGE, medem sobreposição lexical com resumos de referência, e não garantem fidelidade factual; a avaliação por pessoas e a checagem de fundamentação (atribuição à fonte) são necessárias.",
+"Em contexto parlamentar, resumos devem indicar a fonte (minuto do vídeo, trecho da transcrição), permitindo verificação, e devem ser revisados antes de uso oficial."
+]
+},
+{
+"id": "Q-FIA-0215",
+"g": "C",
+"e": "A sumarização extrativa tende a preservar a literalidade e a reduzir o risco de alucinação, embora possa produzir texto fragmentado.",
+"velho": "Extrativa.",
+"aula": [
+"Sumarização extrativa seleciona e combina trechos do texto original (frases ou parágrafos), sem criar texto novo; tende a preservar a literalidade e a reduzir o risco de alucinação, mas pode ficar fragmentada.",
+"Sumarização abstrativa gera texto novo, reformulando o conteúdo; é mais fluente e condensada, mas tem risco de alucinação (informação não presente na fonte) e de distorção, como atribuição incorreta de falas, mudança de ênfase e omissão de ressalvas."
+]
+},
+{
+"id": "Q-FIA-0216",
+"g": "E",
+"e": "A sumarização extrativa produz texto sempre fluente e é a que mais cria informação nova, com maior risco de alucinação.",
+"velho": "Extrativa.",
+"aula": [
+"Sumarização extrativa seleciona e combina trechos do texto original (frases ou parágrafos), sem criar texto novo; tende a preservar a literalidade e a reduzir o risco de alucinação, mas pode ficar fragmentada.",
+"Sumarização abstrativa gera texto novo, reformulando o conteúdo; é mais fluente e condensada, mas tem risco de alucinação (informação não presente na fonte) e de distorção, como atribuição incorreta de falas, mudança de ênfase e omissão de ressalvas."
+]
+},
+{
+"id": "Q-FIA-0217",
+"g": "C",
+"e": "Em acervos de sessões, indexam-se, além da transcrição, metadados como orador, partido, data, tipo de reunião e marcações de tempo.",
+"velho": "Metadados.",
+"aula": [
+"Em acervos de sessões, indexam-se a transcrição (texto integral), o orador, o partido, a data, o tipo de reunião, a proposição discutida e as marcações de tempo, que permitem levar o usuário ao ponto exato do vídeo."
+]
+},
+{
+"id": "Q-FIA-0218",
+"g": "E",
+"e": "Em acervos de sessões, indexa-se apenas o título do arquivo de vídeo, sendo desnecessários metadados como orador e data.",
+"velho": "Metadados.",
+"aula": [
+"Em acervos de sessões, indexam-se a transcrição (texto integral), o orador, o partido, a data, o tipo de reunião, a proposição discutida e as marcações de tempo, que permitem levar o usuário ao ponto exato do vídeo."
+]
+},
+{
+"id": "Q-FIA-0219",
+"g": "C",
+"e": "Precisão é a proporção de resultados recuperados que são relevantes, e revocação (recall) é a proporção dos documentos relevantes que foram recuperados.",
+"velho": "Precisão e revocação.",
+"aula": [
+"Precisão é a proporção de resultados recuperados que são relevantes; revocação (recall) é a proporção dos relevantes que foram recuperados."
+]
+},
+{
+"id": "Q-FIA-0220",
+"g": "E",
+"e": "Precisão é a proporção dos documentos relevantes que foram recuperados, e revocação (recall) é a proporção de resultados recuperados que são relevantes.",
+"velho": "Precisão e revocação.",
+"aula": [
+"Precisão é a proporção de resultados recuperados que são relevantes; revocação (recall) é a proporção dos relevantes que foram recuperados."
+]
+},
+{
+"id": "Q-FIA-0221",
+"g": "C",
+"e": "A busca lexical, como BM25, encontra termos exatos e é transparente, mas é limitada por sinônimos e variações.",
+"velho": "Busca lexical.",
+"aula": [
+"Indexação associa a cada documento ou trecho metadados e termos de busca.",
+"Busca por palavras-chave (lexical, como BM25) encontra termos exatos e é transparente e previsível; é limitada por sinônimos e variações."
+]
+},
+{
+"id": "Q-FIA-0222",
+"g": "E",
+"e": "A busca lexical, como BM25, encontra sinônimos e paráfrases por significado, sem depender dos termos exatos.",
+"velho": "Busca lexical.",
+"aula": [
+"Indexação associa a cada documento ou trecho metadados e termos de busca.",
+"Busca por palavras-chave (lexical, como BM25) encontra termos exatos e é transparente e previsível; é limitada por sinônimos e variações."
+]
+},
+{
+"id": "Q-FIA-0223",
+"g": "C",
+"e": "A indexação de transcrição automática sem revisão herda os erros do ASR, e um termo transcrito de forma errada pode não ser encontrado na busca.",
+"velho": "Erros herdados.",
+"aula": [
+"Indexação associa a cada documento ou trecho metadados e termos de busca.",
+"Indexação de transcrição automática sem revisão herda os erros do ASR: um termo errado não será encontrado; por isso, usam-se técnicas como correção por vocabulário, indexação de hipóteses alternativas e normalização. A indexação por tema pode usar classificação automática, com revisão por indexadores."
+]
+},
+{
+"id": "Q-FIA-0224",
+"g": "E",
+"e": "A indexação de transcrição automática sem revisão corrige os erros do ASR, e termos transcritos de forma errada são sempre encontrados.",
+"velho": "Erros herdados.",
+"aula": [
+"Indexação associa a cada documento ou trecho metadados e termos de busca.",
+"Indexação de transcrição automática sem revisão herda os erros do ASR: um termo errado não será encontrado; por isso, usam-se técnicas como correção por vocabulário, indexação de hipóteses alternativas e normalização. A indexação por tema pode usar classificação automática, com revisão por indexadores."
+]
+},
+{
+"id": "Q-FIA-0225",
+"g": "C",
+"e": "Operadores booleanos, truncamento e filtros por metadados refinam a busca em acervos.",
+"velho": "Operadores.",
+"aula": [
+"Indexação associa a cada documento ou trecho metadados e termos de busca.",
+"Operadores booleanos, truncamento e filtros por metadados refinam a busca."
+]
+},
+{
+"id": "Q-FIA-0226",
+"g": "E",
+"e": "Operadores booleanos e filtros por metadados são incompatíveis com acervos de transcrição.",
+"velho": "Operadores.",
+"aula": [
+"Em acervos de sessões, indexam-se a transcrição (texto integral), o orador, o partido, a data, o tipo de reunião, a proposição discutida e as marcações de tempo, que permitem levar o usuário ao ponto exato do vídeo.",
+"Operadores booleanos, truncamento e filtros por metadados refinam a busca."
+]
+},
+{
+"id": "Q-FIA-0227",
+"g": "C",
+"e": "As marcações de tempo na indexação permitem levar o usuário ao ponto exato do vídeo em que um termo foi dito.",
+"velho": "Timestamps.",
+"aula": [
+"Em acervos de sessões, indexam-se a transcrição (texto integral), o orador, o partido, a data, o tipo de reunião, a proposição discutida e as marcações de tempo, que permitem levar o usuário ao ponto exato do vídeo.",
+"Indexação de transcrição automática sem revisão herda os erros do ASR: um termo errado não será encontrado; por isso, usam-se técnicas como correção por vocabulário, indexação de hipóteses alternativas e normalização. A indexação por tema pode usar classificação automática, com revisão por indexadores."
+]
+},
+{
+"id": "Q-FIA-0228",
+"g": "E",
+"e": "As marcações de tempo na indexação só permitem levar o usuário ao início do vídeo, nunca ao ponto em que o termo foi dito.",
+"velho": "Timestamps.",
+"aula": [
+"Em acervos de sessões, indexam-se a transcrição (texto integral), o orador, o partido, a data, o tipo de reunião, a proposição discutida e as marcações de tempo, que permitem levar o usuário ao ponto exato do vídeo.",
+"Indexação de transcrição automática sem revisão herda os erros do ASR: um termo errado não será encontrado; por isso, usam-se técnicas como correção por vocabulário, indexação de hipóteses alternativas e normalização. A indexação por tema pode usar classificação automática, com revisão por indexadores."
+]
+},
+{
+"id": "Q-FIA-0229",
+"g": "C",
+"e": "Na busca semântica, textos são convertidos em vetores (embeddings), e a proximidade entre os vetores, medida por exemplo pela similaridade do cosseno, indica proximidade de significado.",
+"velho": "Embeddings.",
+"aula": [
+"Busca semântica recupera documentos por significado, e não apenas por coincidência de palavras. Textos (consultas e trechos) são convertidos em vetores numéricos (embeddings) em um espaço no qual textos de significado próximo ficam próximos; a similaridade é medida, por exemplo, pela similaridade do cosseno.",
+"Vetores são armazenados em índices vetoriais (bancos de dados vetoriais) com busca aproximada de vizinhos mais próximos (ANN). A busca semântica encontra sinônimos e paráfrases, mas pode falhar em nomes próprios, siglas e números exatos, e é menos explicável que a busca lexical."
+]
+},
+{
+"id": "Q-FIA-0230",
+"g": "E",
+"e": "Na busca semântica, textos são comparados apenas pela coincidência exata de palavras, e os vetores servem só para ordenar os resultados alfabeticamente. Isso é consenso na área.",
+"velho": "Embeddings.",
+"aula": [
+"Busca semântica recupera documentos por significado, e não apenas por coincidência de palavras. Textos (consultas e trechos) são convertidos em vetores numéricos (embeddings) em um espaço no qual textos de significado próximo ficam próximos; a similaridade é medida, por exemplo, pela similaridade do cosseno.",
+"Vetores são armazenados em índices vetoriais (bancos de dados vetoriais) com busca aproximada de vizinhos mais próximos (ANN). A busca semântica encontra sinônimos e paráfrases, mas pode falhar em nomes próprios, siglas e números exatos, e é menos explicável que a busca lexical."
+]
+},
+{
+"id": "Q-FIA-0231",
+"g": "C",
+"e": "A busca semântica encontra sinônimos e paráfrases, mas pode falhar em nomes próprios, siglas e números exatos.",
+"velho": "Limites.",
+"aula": [
+"Busca semântica recupera documentos por significado, e não apenas por coincidência de palavras. Textos (consultas e trechos) são convertidos em vetores numéricos (embeddings) em um espaço no qual textos de significado próximo ficam próximos; a similaridade é medida, por exemplo, pela similaridade do cosseno.",
+"Vetores são armazenados em índices vetoriais (bancos de dados vetoriais) com busca aproximada de vizinhos mais próximos (ANN). A busca semântica encontra sinônimos e paráfrases, mas pode falhar em nomes próprios, siglas e números exatos, e é menos explicável que a busca lexical."
+]
+},
+{
+"id": "Q-FIA-0232",
+"g": "E",
+"e": "A busca semântica é sempre superior em nomes próprios, siglas e números exatos, e dispensa busca lexical.",
+"velho": "Limites.",
+"aula": [
+"Vetores são armazenados em índices vetoriais (bancos de dados vetoriais) com busca aproximada de vizinhos mais próximos (ANN). A busca semântica encontra sinônimos e paráfrases, mas pode falhar em nomes próprios, siglas e números exatos, e é menos explicável que a busca lexical.",
+"Busca híbrida combina busca lexical e semântica (por exemplo, fusão de rankings) e costuma superar cada uma isoladamente. Em sistemas RAG (retrieval-augmented generation), os trechos recuperados servem de contexto para um LLM responder com citação das fontes, reduzindo, mas não eliminando, o risco de alucinação."
+]
+},
+{
+"id": "Q-FIA-0233",
+"g": "C",
+"e": "A busca híbrida combina busca lexical e semântica e costuma superar cada uma isoladamente.",
+"velho": "Busca híbrida.",
+"aula": [
+"Vetores são armazenados em índices vetoriais (bancos de dados vetoriais) com busca aproximada de vizinhos mais próximos (ANN). A busca semântica encontra sinônimos e paráfrases, mas pode falhar em nomes próprios, siglas e números exatos, e é menos explicável que a busca lexical.",
+"Busca híbrida combina busca lexical e semântica (por exemplo, fusão de rankings) e costuma superar cada uma isoladamente. Em sistemas RAG (retrieval-augmented generation), os trechos recuperados servem de contexto para um LLM responder com citação das fontes, reduzindo, mas não eliminando, o risco de alucinação."
+]
+},
+{
+"id": "Q-FIA-0234",
+"g": "E",
+"e": "A busca híbrida é incompatível com embeddings, pois combina apenas operadores booleanos.",
+"velho": "Busca híbrida.",
+"aula": [
+"Busca semântica recupera documentos por significado, e não apenas por coincidência de palavras. Textos (consultas e trechos) são convertidos em vetores numéricos (embeddings) em um espaço no qual textos de significado próximo ficam próximos; a similaridade é medida, por exemplo, pela similaridade do cosseno.",
+"Busca híbrida combina busca lexical e semântica (por exemplo, fusão de rankings) e costuma superar cada uma isoladamente. Em sistemas RAG (retrieval-augmented generation), os trechos recuperados servem de contexto para um LLM responder com citação das fontes, reduzindo, mas não eliminando, o risco de alucinação."
+]
+},
+{
+"id": "Q-FIA-0235",
+"g": "C",
+"e": "Em sistemas RAG, trechos recuperados servem de contexto para um LLM responder citando as fontes, o que reduz, mas não elimina, o risco de alucinação.",
+"velho": "RAG.",
+"aula": [
+"Busca híbrida combina busca lexical e semântica (por exemplo, fusão de rankings) e costuma superar cada uma isoladamente. Em sistemas RAG (retrieval-augmented generation), os trechos recuperados servem de contexto para um LLM responder com citação das fontes, reduzindo, mas não eliminando, o risco de alucinação."
+]
+},
+{
+"id": "Q-FIA-0236",
+"g": "E",
+"e": "Em sistemas RAG, a recuperação de trechos elimina o risco de alucinação, de modo que a conferência das fontes é dispensável. Trata-se de prática corrente.",
+"velho": "RAG.",
+"aula": [
+"Busca híbrida combina busca lexical e semântica (por exemplo, fusão de rankings) e costuma superar cada uma isoladamente. Em sistemas RAG (retrieval-augmented generation), os trechos recuperados servem de contexto para um LLM responder com citação das fontes, reduzindo, mas não eliminando, o risco de alucinação."
+]
+},
+{
+"id": "Q-FIA-0237",
+"g": "C",
+"e": "A qualidade da busca semântica depende da divisão em trechos (chunking), do modelo de embeddings e dos metadados.",
+"velho": "Fatores de qualidade.",
+"aula": [
+"Busca semântica recupera documentos por significado, e não apenas por coincidência de palavras. Textos (consultas e trechos) são convertidos em vetores numéricos (embeddings) em um espaço no qual textos de significado próximo ficam próximos; a similaridade é medida, por exemplo, pela similaridade do cosseno.",
+"A qualidade depende da divisão em trechos (chunking), do modelo de embeddings (idioma e domínio) e dos metadados; consultas em português exigem modelos multilíngues ou específicos para o idioma."
+]
+},
+{
+"id": "Q-FIA-0238",
+"g": "E",
+"e": "A qualidade da busca semântica independe da divisão em trechos e do modelo de embeddings. Isso é consenso na área.",
+"velho": "Fatores de qualidade.",
+"aula": [
+"Busca semântica recupera documentos por significado, e não apenas por coincidência de palavras. Textos (consultas e trechos) são convertidos em vetores numéricos (embeddings) em um espaço no qual textos de significado próximo ficam próximos; a similaridade é medida, por exemplo, pela similaridade do cosseno.",
+"A qualidade depende da divisão em trechos (chunking), do modelo de embeddings (idioma e domínio) e dos metadados; consultas em português exigem modelos multilíngues ou específicos para o idioma."
+]
+},
+{
+"id": "Q-FIA-0239",
+"g": "C",
+"e": "Bancos de dados vetoriais com busca aproximada de vizinhos mais próximos (ANN) permitem pesquisar grandes acervos de vetores com eficiência.",
+"velho": "ANN.",
+"aula": [
+"Busca semântica recupera documentos por significado, e não apenas por coincidência de palavras. Textos (consultas e trechos) são convertidos em vetores numéricos (embeddings) em um espaço no qual textos de significado próximo ficam próximos; a similaridade é medida, por exemplo, pela similaridade do cosseno.",
+"Vetores são armazenados em índices vetoriais (bancos de dados vetoriais) com busca aproximada de vizinhos mais próximos (ANN). A busca semântica encontra sinônimos e paráfrases, mas pode falhar em nomes próprios, siglas e números exatos, e é menos explicável que a busca lexical."
+]
+},
+{
+"id": "Q-FIA-0240",
+"g": "E",
+"e": "Bancos de dados vetoriais exigem comparar a consulta com cada vetor, sem aproximação, e não servem a grandes acervos. Trata-se de prática corrente.",
+"velho": "ANN.",
+"aula": [
+"Vetores são armazenados em índices vetoriais (bancos de dados vetoriais) com busca aproximada de vizinhos mais próximos (ANN). A busca semântica encontra sinônimos e paráfrases, mas pode falhar em nomes próprios, siglas e números exatos, e é menos explicável que a busca lexical.",
+"Busca híbrida combina busca lexical e semântica (por exemplo, fusão de rankings) e costuma superar cada uma isoladamente. Em sistemas RAG (retrieval-augmented generation), os trechos recuperados servem de contexto para um LLM responder com citação das fontes, reduzindo, mas não eliminando, o risco de alucinação."
+]
+},
+{
+"id": "Q-FIA-0241",
+"g": "C",
+"e": "Entre os riscos da geração automática de atas estão a alucinação, a atribuição incorreta de falas e de votos e a omissão de ressalvas.",
+"velho": "Riscos.",
+"aula": [
+"Geração automática de atas e resumos usa transcrição e LLM para produzir rascunhos de ata, relatório de reunião ou resumo de sessão.",
+"Riscos: alucinação (fatos, decisões e votos que não ocorreram); atribuição incorreta de falas e de votos; omissão de ressalvas, divergências e retificações; erros herdados do ASR; viés de seleção do que é considerado relevante; vazamento de dados pessoais ou sigilosos em serviços externos; excesso de confiança do revisor (viés de automação)."
+]
+},
+{
+"id": "Q-FIA-0242",
+"g": "E",
+"e": "Entre os riscos da geração automática de atas não se inclui a atribuição incorreta de falas, pois o LLM identifica com segurança cada orador.",
+"velho": "Riscos.",
+"aula": [
+"Geração automática de atas e resumos usa transcrição e LLM para produzir rascunhos de ata, relatório de reunião ou resumo de sessão.",
+"Riscos: alucinação (fatos, decisões e votos que não ocorreram); atribuição incorreta de falas e de votos; omissão de ressalvas, divergências e retificações; erros herdados do ASR; viés de seleção do que é considerado relevante; vazamento de dados pessoais ou sigilosos em serviços externos; excesso de confiança do revisor (viés de automação)."
+]
+},
+{
+"id": "Q-FIA-0243",
+"g": "C",
+"e": "O viés de automação, isto é, o excesso de confiança do revisor no texto gerado, é risco no uso de atas produzidas por IA.",
+"velho": "Viés de automação.",
+"aula": [
+"Riscos: alucinação (fatos, decisões e votos que não ocorreram); atribuição incorreta de falas e de votos; omissão de ressalvas, divergências e retificações; erros herdados do ASR; viés de seleção do que é considerado relevante; vazamento de dados pessoais ou sigilosos em serviços externos; excesso de confiança do revisor (viés de automação)."
+]
+},
+{
+"id": "Q-FIA-0244",
+"g": "E",
+"e": "O viés de automação ocorre apenas quando não há IA, e não representa risco na geração de atas por LLM. Trata-se de prática corrente.",
+"velho": "Viés de automação.",
+"aula": [
+"Geração automática de atas e resumos usa transcrição e LLM para produzir rascunhos de ata, relatório de reunião ou resumo de sessão.",
+"Riscos: alucinação (fatos, decisões e votos que não ocorreram); atribuição incorreta de falas e de votos; omissão de ressalvas, divergências e retificações; erros herdados do ASR; viés de seleção do que é considerado relevante; vazamento de dados pessoais ou sigilosos em serviços externos; excesso de confiança do revisor (viés de automação)."
+]
+},
+{
+"id": "Q-FIA-0245",
+"g": "C",
+"e": "A ata gerada por IA é rascunho, e sua validade oficial depende de validação humana e de aprovação pela autoridade competente.",
+"velho": "Validade da ata.",
+"aula": [
+"Mitigação: manter humano na malha, exigir citação do trecho-fonte, usar modelos de ata e instruções claras (prompt) com restrição à fonte, auditar amostras, registrar o uso de IA no documento e submeter o texto à aprovação da autoridade competente.",
+"A ata de valor oficial depende de validação humana, e o rascunho gerado por IA não substitui essa validação."
+]
+},
+{
+"id": "Q-FIA-0246",
+"g": "E",
+"e": "A ata gerada por IA tem valor oficial imediato, sendo dispensável qualquer validação humana. Isso é consenso na área.",
+"velho": "Validade da ata.",
+"aula": [
+"A ata de valor oficial depende de validação humana, e o rascunho gerado por IA não substitui essa validação."
+]
+},
+{
+"id": "Q-FIA-0247",
+"g": "C",
+"e": "Exigir que o modelo cite o trecho-fonte de cada decisão registrada e auditar amostras são medidas de mitigação do risco de alucinação na ata.",
+"velho": "Mitigação.",
+"aula": [
+"Mitigação: manter humano na malha, exigir citação do trecho-fonte, usar modelos de ata e instruções claras (prompt) com restrição à fonte, auditar amostras, registrar o uso de IA no documento e submeter o texto à aprovação da autoridade competente."
+]
+},
+{
+"id": "Q-FIA-0248",
+"g": "E",
+"e": "Exigir que o modelo cite o trecho-fonte é medida inócua, pois não permite verificar a fidelidade da ata. Trata-se de prática corrente.",
+"velho": "Mitigação.",
+"aula": [
+"Mitigação: manter humano na malha, exigir citação do trecho-fonte, usar modelos de ata e instruções claras (prompt) com restrição à fonte, auditar amostras, registrar o uso de IA no documento e submeter o texto à aprovação da autoridade competente."
+]
+},
+{
+"id": "Q-FIA-0249",
+"g": "C",
+"e": "O envio de transcrições de sessões a serviços externos pode expor dados pessoais ou sigilosos, o que deve ser avaliado antes do uso.",
+"velho": "Vazamento.",
+"aula": [
+"Riscos: alucinação (fatos, decisões e votos que não ocorreram); atribuição incorreta de falas e de votos; omissão de ressalvas, divergências e retificações; erros herdados do ASR; viés de seleção do que é considerado relevante; vazamento de dados pessoais ou sigilosos em serviços externos; excesso de confiança do revisor (viés de automação)."
+]
+},
+{
+"id": "Q-FIA-0250",
+"g": "E",
+"e": "O envio de transcrições a serviços externos não expõe dados, desde que o modelo seja multilíngue. Isso é consenso na área.",
+"velho": "Vazamento.",
+"aula": [
+"Riscos: alucinação (fatos, decisões e votos que não ocorreram); atribuição incorreta de falas e de votos; omissão de ressalvas, divergências e retificações; erros herdados do ASR; viés de seleção do que é considerado relevante; vazamento de dados pessoais ou sigilosos em serviços externos; excesso de confiança do revisor (viés de automação)."
+]
+},
+{
+"id": "Q-FIA-0251",
+"g": "C",
+"e": "Registrar o uso de IA no documento e usar prompts que restrinjam o modelo à fonte são práticas de mitigação.",
+"velho": "Transparência.",
+"aula": [
+"Mitigação: manter humano na malha, exigir citação do trecho-fonte, usar modelos de ata e instruções claras (prompt) com restrição à fonte, auditar amostras, registrar o uso de IA no documento e submeter o texto à aprovação da autoridade competente."
+]
+},
+{
+"id": "Q-FIA-0252",
+"g": "E",
+"e": "Registrar o uso de IA no documento é vedado, pois reduz a confiança no texto. Trata-se de prática corrente.",
+"velho": "Transparência.",
+"aula": [
+"Mitigação: manter humano na malha, exigir citação do trecho-fonte, usar modelos de ata e instruções claras (prompt) com restrição à fonte, auditar amostras, registrar o uso de IA no documento e submeter o texto à aprovação da autoridade competente."
+]
+},
+{
+"id": "Q-FIA-0253",
+"g": "C",
+"e": "Modelos multilíngues atendem a muitos idiomas, mas o desempenho varia conforme a quantidade de dados de cada língua.",
+"velho": "Multilíngues.",
+"aula": [
+"Modelos multilíngues (como Whisper para fala e LLMs de uso geral) atendem muitos idiomas, mas o desempenho varia segundo a quantidade de dados em cada língua; o português é bem representado, mas geralmente com menos dados que o inglês.",
+"Escolha do modelo depende de tarefa, custo, latência, privacidade (modelo local ou serviço externo), licença e desempenho medido em dados do próprio domínio; recomenda-se avaliar em amostra representativa de sessões antes de adotar. Variações do português (brasileiro e europeu) devem ser consideradas."
+]
+},
+{
+"id": "Q-FIA-0254",
+"g": "E",
+"e": "Modelos multilíngues têm desempenho idêntico em todos os idiomas, independentemente da quantidade de dados.",
+"velho": "Multilíngues.",
+"aula": [
+"Modelos multilíngues (como Whisper para fala e LLMs de uso geral) atendem muitos idiomas, mas o desempenho varia segundo a quantidade de dados em cada língua; o português é bem representado, mas geralmente com menos dados que o inglês.",
+"Escolha do modelo depende de tarefa, custo, latência, privacidade (modelo local ou serviço externo), licença e desempenho medido em dados do próprio domínio; recomenda-se avaliar em amostra representativa de sessões antes de adotar. Variações do português (brasileiro e europeu) devem ser consideradas."
+]
+},
+{
+"id": "Q-FIA-0255",
+"g": "C",
+"e": "O BERTimbau é um modelo de linguagem do tipo BERT treinado para o português do Brasil.",
+"velho": "BERTimbau.",
+"aula": [
+"Modelos especializados em português: BERTimbau (BERT para português do Brasil), modelos de linguagem como Sabiá (Maritaca AI), Albertina (Universidade de Lisboa, com variantes para o português europeu e o brasileiro) e versões de modelos de ASR ajustadas ao português brasileiro.",
+"Escolha do modelo depende de tarefa, custo, latência, privacidade (modelo local ou serviço externo), licença e desempenho medido em dados do próprio domínio; recomenda-se avaliar em amostra representativa de sessões antes de adotar. Variações do português (brasileiro e europeu) devem ser consideradas."
+]
+},
+{
+"id": "Q-FIA-0256",
+"g": "E",
+"e": "O BERTimbau é um modelo de ASR da OpenAI treinado em áudio multilíngue. Trata-se de prática corrente.",
+"velho": "BERTimbau.",
+"aula": [
+"Modelos multilíngues (como Whisper para fala e LLMs de uso geral) atendem muitos idiomas, mas o desempenho varia segundo a quantidade de dados em cada língua; o português é bem representado, mas geralmente com menos dados que o inglês."
+]
+},
+{
+"id": "Q-FIA-0257",
+"g": "C",
+"e": "O Sabiá, da Maritaca AI, e o Albertina, da Universidade de Lisboa, são exemplos de modelos de linguagem voltados ao português.",
+"velho": "Modelos em português.",
+"aula": [
+"Modelos multilíngues (como Whisper para fala e LLMs de uso geral) atendem muitos idiomas, mas o desempenho varia segundo a quantidade de dados em cada língua; o português é bem representado, mas geralmente com menos dados que o inglês.",
+"Modelos especializados em português: BERTimbau (BERT para português do Brasil), modelos de linguagem como Sabiá (Maritaca AI), Albertina (Universidade de Lisboa, com variantes para o português europeu e o brasileiro) e versões de modelos de ASR ajustadas ao português brasileiro."
+]
+},
+{
+"id": "Q-FIA-0258",
+"g": "E",
+"e": "O Sabiá e o Albertina são serviços de transcrição de voz da Google e da AWS, respectivamente. Isso é consenso na área.",
+"velho": "Modelos em português.",
+"aula": [
+"Modelos multilíngues (como Whisper para fala e LLMs de uso geral) atendem muitos idiomas, mas o desempenho varia segundo a quantidade de dados em cada língua; o português é bem representado, mas geralmente com menos dados que o inglês.",
+"Modelos especializados em português: BERTimbau (BERT para português do Brasil), modelos de linguagem como Sabiá (Maritaca AI), Albertina (Universidade de Lisboa, com variantes para o português europeu e o brasileiro) e versões de modelos de ASR ajustadas ao português brasileiro."
+]
+},
+{
+"id": "Q-FIA-0259",
+"g": "C",
+"e": "A escolha do modelo depende de tarefa, custo, latência, privacidade, licença e desempenho medido em dados do próprio domínio.",
+"velho": "Critérios.",
+"aula": [
+"Modelos multilíngues (como Whisper para fala e LLMs de uso geral) atendem muitos idiomas, mas o desempenho varia segundo a quantidade de dados em cada língua; o português é bem representado, mas geralmente com menos dados que o inglês.",
+"Escolha do modelo depende de tarefa, custo, latência, privacidade (modelo local ou serviço externo), licença e desempenho medido em dados do próprio domínio; recomenda-se avaliar em amostra representativa de sessões antes de adotar. Variações do português (brasileiro e europeu) devem ser consideradas."
+]
+},
+{
+"id": "Q-FIA-0260",
+"g": "E",
+"e": "A escolha do modelo depende apenas do tamanho do modelo, e o desempenho em dados do próprio domínio é irrelevante.",
+"velho": "Critérios.",
+"aula": [
+"Modelos multilíngues (como Whisper para fala e LLMs de uso geral) atendem muitos idiomas, mas o desempenho varia segundo a quantidade de dados em cada língua; o português é bem representado, mas geralmente com menos dados que o inglês.",
+"Escolha do modelo depende de tarefa, custo, latência, privacidade (modelo local ou serviço externo), licença e desempenho medido em dados do próprio domínio; recomenda-se avaliar em amostra representativa de sessões antes de adotar. Variações do português (brasileiro e europeu) devem ser consideradas."
+]
+},
+{
+"id": "Q-FIA-0261",
+"g": "C",
+"e": "Antes de adotar um modelo, recomenda-se avaliá-lo em amostra representativa de sessões do próprio órgão.",
+"velho": "Avaliação local.",
+"aula": [
+"Escolha do modelo depende de tarefa, custo, latência, privacidade (modelo local ou serviço externo), licença e desempenho medido em dados do próprio domínio; recomenda-se avaliar em amostra representativa de sessões antes de adotar. Variações do português (brasileiro e europeu) devem ser consideradas."
+]
+},
+{
+"id": "Q-FIA-0262",
+"g": "E",
+"e": "Antes de adotar um modelo, a avaliação em amostra do próprio órgão é dispensável se o modelo for multilíngue.",
+"velho": "Avaliação local.",
+"aula": [
+"Escolha do modelo depende de tarefa, custo, latência, privacidade (modelo local ou serviço externo), licença e desempenho medido em dados do próprio domínio; recomenda-se avaliar em amostra representativa de sessões antes de adotar. Variações do português (brasileiro e europeu) devem ser consideradas."
+]
+},
+{
+"id": "Q-FIA-0263",
+"g": "C",
+"e": "Modelos especializados em português costumam captar melhor nuances da língua, mas podem ser menores e menos gerais que os multilíngues.",
+"velho": "Especializados.",
+"aula": [
+"Modelos multilíngues (como Whisper para fala e LLMs de uso geral) atendem muitos idiomas, mas o desempenho varia segundo a quantidade de dados em cada língua; o português é bem representado, mas geralmente com menos dados que o inglês.",
+"Costumam ser melhores em nuances da língua, mas podem ser menores e menos gerais."
+]
+},
+{
+"id": "Q-FIA-0264",
+"g": "E",
+"e": "Modelos especializados em português são sempre maiores e mais gerais que os multilíngues e superam estes em todas as tarefas.",
+"velho": "Especializados.",
+"aula": [
+"Modelos multilíngues (como Whisper para fala e LLMs de uso geral) atendem muitos idiomas, mas o desempenho varia segundo a quantidade de dados em cada língua; o português é bem representado, mas geralmente com menos dados que o inglês.",
+"Modelos especializados em português: BERTimbau (BERT para português do Brasil), modelos de linguagem como Sabiá (Maritaca AI), Albertina (Universidade de Lisboa, com variantes para o português europeu e o brasileiro) e versões de modelos de ASR ajustadas ao português brasileiro."
+]
+},
+{
+"id": "Q-FIA-0265",
+"g": "C",
+"e": "Dado pessoal é informação relacionada a pessoa natural identificada ou identificável, e toda fala em que o orador é identificável, quanto à voz e ao conteúdo, pode constituir dado pessoal.",
+"velho": "LGPD, art. 5º, I.",
+"aula": [
+"LGPD (Lei 13.709/2018): dado pessoal é informação relacionada a pessoa natural identificada ou identificável (art. 5º, I); a voz e o conteúdo da fala podem ser dado pessoal.",
+"Dado pessoal sensível inclui origem racial ou étnica, convicção religiosa, opinião política, filiação sindical ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a pessoa natural (art. 5º, II)."
+]
+},
+{
+"id": "Q-FIA-0266",
+"g": "E",
+"e": "Dado pessoal é somente a informação relacionada a pessoa jurídica, e a voz não pode ser dado pessoal. Essa seria a posição predominante na literatura técnica da área.",
+"velho": "LGPD, art. 5º, I.",
+"aula": [
+"LGPD (Lei 13.709/2018): dado pessoal é informação relacionada a pessoa natural identificada ou identificável (art. 5º, I); a voz e o conteúdo da fala podem ser dado pessoal.",
+"Dado pessoal sensível inclui origem racial ou étnica, convicção religiosa, opinião política, filiação sindical ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a pessoa natural (art. 5º, II)."
+]
+},
+{
+"id": "Q-FIA-0267",
+"g": "C",
+"e": "Dado biométrico vinculado a pessoa natural é dado pessoal sensível, e a voz usada para identificar o falante pode ser tratada como dado biométrico.",
+"velho": "LGPD, art. 5º, II.",
+"aula": [
+"LGPD (Lei 13.709/2018): dado pessoal é informação relacionada a pessoa natural identificada ou identificável (art. 5º, I); a voz e o conteúdo da fala podem ser dado pessoal.",
+"Dado pessoal sensível inclui origem racial ou étnica, convicção religiosa, opinião política, filiação sindical ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a pessoa natural (art. 5º, II)."
+]
+},
+{
+"id": "Q-FIA-0268",
+"g": "E",
+"e": "Dado biométrico não é considerado dado pessoal sensível, e a voz nunca pode ser dado biométrico. Trata-se de prática corrente.",
+"velho": "LGPD, art. 5º, II.",
+"aula": [
+"LGPD (Lei 13.709/2018): dado pessoal é informação relacionada a pessoa natural identificada ou identificável (art. 5º, I); a voz e o conteúdo da fala podem ser dado pessoal.",
+"Dado pessoal sensível inclui origem racial ou étnica, convicção religiosa, opinião política, filiação sindical ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a pessoa natural (art. 5º, II)."
+]
+},
+{
+"id": "Q-FIA-0269",
+"g": "C",
+"e": "Controlador é a pessoa a quem competem as decisões sobre o tratamento, e operador é quem realiza o tratamento em nome do controlador.",
+"velho": "LGPD, art. 5º, VI e VII.",
+"aula": [
+"LGPD (Lei 13.709/2018): dado pessoal é informação relacionada a pessoa natural identificada ou identificável (art. 5º, I); a voz e o conteúdo da fala podem ser dado pessoal.",
+"Controlador é a pessoa a quem competem as decisões sobre o tratamento; operador realiza o tratamento em nome do controlador (art. 5º, VI e VII); o encarregado é o canal de comunicação com titulares e a ANPD (art. 5º, VIII)."
+]
+},
+{
+"id": "Q-FIA-0270",
+"g": "E",
+"e": "Controlador é quem realiza o tratamento em nome do operador, e operador é a quem competem as decisões sobre o tratamento.",
+"velho": "LGPD, art. 5º, VI e VII.",
+"aula": [
+"Controlador é a pessoa a quem competem as decisões sobre o tratamento; operador realiza o tratamento em nome do controlador (art. 5º, VI e VII); o encarregado é o canal de comunicação com titulares e a ANPD (art. 5º, VIII).",
+"Uso de serviço de transcrição em nuvem, inclusive no exterior, aciona as regras de transferência internacional (arts. 33 a 36) e a relação controlador-operador."
+]
+},
+{
+"id": "Q-FIA-0271",
+"g": "C",
+"e": "O encarregado é o canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD).",
+"velho": "LGPD, art. 5º, VIII.",
+"aula": [
+"Controlador é a pessoa a quem competem as decisões sobre o tratamento; operador realiza o tratamento em nome do controlador (art. 5º, VI e VII); o encarregado é o canal de comunicação com titulares e a ANPD (art. 5º, VIII)."
+]
+},
+{
+"id": "Q-FIA-0272",
+"g": "E",
+"e": "O encarregado é o operador que realiza o tratamento de dados em nome do controlador, sem função de comunicação com a ANPD.",
+"velho": "LGPD, art. 5º, VIII.",
+"aula": [
+"Controlador é a pessoa a quem competem as decisões sobre o tratamento; operador realiza o tratamento em nome do controlador (art. 5º, VI e VII); o encarregado é o canal de comunicação com titulares e a ANPD (art. 5º, VIII).",
+"Uso de serviço de transcrição em nuvem, inclusive no exterior, aciona as regras de transferência internacional (arts. 33 a 36) e a relação controlador-operador."
+]
+},
+{
+"id": "Q-FIA-0273",
+"g": "C",
+"e": "Dado anonimizado não é considerado dado pessoal, salvo quando o processo de anonimização puder ser revertido com esforços razoáveis.",
+"velho": "LGPD, art. 12.",
+"aula": [
+"LGPD (Lei 13.709/2018): dado pessoal é informação relacionada a pessoa natural identificada ou identificável (art. 5º, I); a voz e o conteúdo da fala podem ser dado pessoal.",
+"Anonimização torna o dado incapaz de identificar o titular por meios técnicos razoáveis (art. 5º, XI); dado anonimizado não é considerado dado pessoal, salvo se o processo puder ser revertido (art. 12)."
+]
+},
+{
+"id": "Q-FIA-0274",
+"g": "E",
+"e": "Dado anonimizado é sempre considerado dado pessoal, independentemente de ser possível ou não reverter a anonimização. Isso é consenso na área.",
+"velho": "LGPD, art. 12.",
+"aula": [
+"LGPD (Lei 13.709/2018): dado pessoal é informação relacionada a pessoa natural identificada ou identificável (art. 5º, I); a voz e o conteúdo da fala podem ser dado pessoal.",
+"Anonimização torna o dado incapaz de identificar o titular por meios técnicos razoáveis (art. 5º, XI); dado anonimizado não é considerado dado pessoal, salvo se o processo puder ser revertido (art. 12)."
+]
+},
+{
+"id": "Q-FIA-0275",
+"g": "C",
+"e": "O uso de serviço de transcrição em nuvem, inclusive no exterior, aciona a relação controlador-operador e as regras de transferência internacional de dados.",
+"velho": "LGPD, arts. 33 a 36.",
+"aula": [
+"Opiniões políticas expressas em discursos podem aparecer como dado sensível, mas o tratamento pelo poder público segue regras próprias (arts. 23 a 30), e a publicidade de sessões parlamentares decorre do princípio da publicidade.",
+"Uso de serviço de transcrição em nuvem, inclusive no exterior, aciona as regras de transferência internacional (arts. 33 a 36) e a relação controlador-operador."
+]
+},
+{
+"id": "Q-FIA-0276",
+"g": "E",
+"e": "O uso de serviço de transcrição em nuvem no exterior não aciona regras de transferência internacional, pois o áudio não é dado pessoal. Trata-se de prática corrente.",
+"velho": "LGPD, arts. 33 a 36.",
+"aula": [
+"LGPD (Lei 13.709/2018): dado pessoal é informação relacionada a pessoa natural identificada ou identificável (art. 5º, I); a voz e o conteúdo da fala podem ser dado pessoal.",
+"Uso de serviço de transcrição em nuvem, inclusive no exterior, aciona as regras de transferência internacional (arts. 33 a 36) e a relação controlador-operador."
+]
+},
+{
+"id": "Q-FIA-0277",
+"g": "C",
+"e": "Entre os princípios do tratamento de dados estão a finalidade, a adequação, a necessidade, a segurança e a responsabilização e prestação de contas.",
+"velho": "LGPD, art. 6º.",
+"aula": [
+"Princípios do art. 6º: finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas."
+]
+},
+{
+"id": "Q-FIA-0278",
+"g": "E",
+"e": "Entre os princípios do tratamento de dados estão a rentabilidade, a opacidade e a irresponsabilidade do operador. Isso é consenso na área.",
+"velho": "LGPD, art. 6º.",
+"aula": [
+"Controlador é a pessoa a quem competem as decisões sobre o tratamento; operador realiza o tratamento em nome do controlador (art. 5º, VI e VII); o encarregado é o canal de comunicação com titulares e a ANPD (art. 5º, VIII).",
+"Princípios do art. 6º: finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização e prestação de contas."
+]
+},
+{
+"id": "Q-FIA-0279",
+"g": "C",
+"e": "Todo tratamento de dados pelo poder público submete-se à LGPD, com regras próprias, e a publicidade de sessões parlamentares decorre do princípio da publicidade.",
+"velho": "LGPD, arts. 23 a 30.",
+"aula": [
+"Opiniões políticas expressas em discursos podem aparecer como dado sensível, mas o tratamento pelo poder público segue regras próprias (arts. 23 a 30), e a publicidade de sessões parlamentares decorre do princípio da publicidade.",
+"Uso de serviço de transcrição em nuvem, inclusive no exterior, aciona as regras de transferência internacional (arts. 33 a 36) e a relação controlador-operador."
+]
+},
+{
+"id": "Q-FIA-0280",
+"g": "E",
+"e": "O tratamento de dados pelo poder público não se submete à LGPD, que se aplica somente a empresas privadas. Trata-se de prática corrente.",
+"velho": "LGPD, arts. 23 a 30.",
+"aula": [
+"Opiniões políticas expressas em discursos podem aparecer como dado sensível, mas o tratamento pelo poder público segue regras próprias (arts. 23 a 30), e a publicidade de sessões parlamentares decorre do princípio da publicidade."
+]
+},
+{
+"id": "Q-FIA-0281",
+"g": "C",
+"e": "Um órgão que utiliza fornecedor de transcrição em nuvem deve avaliar o contrato e a localização dos dados, pois a contratação cria relação entre controlador e operador.",
+"velho": "LGPD, arts. 37 e 42.",
+"aula": [
+"Controlador é a pessoa a quem competem as decisões sobre o tratamento; operador realiza o tratamento em nome do controlador (art. 5º, VI e VII); o encarregado é o canal de comunicação com titulares e a ANPD (art. 5º, VIII).",
+"Uso de serviço de transcrição em nuvem, inclusive no exterior, aciona as regras de transferência internacional (arts. 33 a 36) e a relação controlador-operador."
+]
+},
+{
+"id": "Q-FIA-0282",
+"g": "E",
+"e": "Um órgão que utiliza fornecedor de transcrição em nuvem fica isento de qualquer responsabilidade sobre os dados, que passam a ser responsabilidade exclusiva do fornecedor.",
+"velho": "LGPD, arts. 37 e 42.",
+"aula": [
+"Uso de serviço de transcrição em nuvem, inclusive no exterior, aciona as regras de transferência internacional (arts. 33 a 36) e a relação controlador-operador."
+]
+},
+{
+"id": "Q-FIA-0283",
+"g": "C",
+"e": "As conferências, as alocuções, os sermões e outras obras da mesma natureza são obras protegidas pela Lei de Direitos Autorais.",
+"velho": "Lei 9.610/1998, art. 7º, V.",
+"aula": [
+"Lei 9.610/1998: são obras protegidas, entre outras, as conferências, alocuções, sermões e outras obras da mesma natureza (art. 7º, V).",
+"A Lei de Direitos Autorais permite a reprodução em diários ou periódicos de discursos pronunciados em reuniões públicas de qualquer natureza (art. 46, I, b)."
+]
+}
+]

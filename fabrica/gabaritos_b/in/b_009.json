@@ -1,0 +1,702 @@
+[
+{
+"id": "Q-EN-0416",
+"g": "E",
+"e": "'The law took effect at 2024' uses 'at' with a year.",
+"velho": "In + ano.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0417",
+"g": "C",
+"e": "'This text is different from that one' is standard usage.",
+"velho": "Different from.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0418",
+"g": "E",
+"e": "'This text is different of that one' is standard usage.",
+"velho": "Different from.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0419",
+"g": "C",
+"e": "'She apologized for the delay' is correct.",
+"velho": "Apologize for.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0420",
+"g": "E",
+"e": "'She apologized of the delay' is correct.",
+"velho": "Apologize for.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0421",
+"g": "C",
+"e": "'Listen to the speaker' is correct.",
+"velho": "Listen to.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0422",
+"g": "E",
+"e": "'Listen the speaker' is correct.",
+"velho": "Listen to.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0423",
+"g": "C",
+"e": "'Algorithmic bias' means systematic unfairness in the results of a system.",
+"velho": "Bias = viés.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Exemplo: 'Algorithmic bias' = viés algorítmico (resultado enviesado); 'to opt out' = escolher não participar."
+]
+},
+{
+"id": "Q-EN-0424",
+"g": "E",
+"e": "'Algorithmic bias' means a very fast calculation. This is correct.",
+"velho": "Bias = viés.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Exemplo: 'Algorithmic bias' = viés algorítmico (resultado enviesado); 'to opt out' = escolher não participar."
+]
+},
+{
+"id": "Q-EN-0425",
+"g": "C",
+"e": "'Password' means 'senha'.",
+"velho": "Password = senha.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0426",
+"g": "E",
+"e": "'Password' means 'usuário'.",
+"velho": "Password = senha.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0427",
+"g": "C",
+"e": "'To opt out' of data collection means to choose not to take part.",
+"velho": "Opt out = optar por sair.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0428",
+"g": "E",
+"e": "'To opt out' of data collection means to agree to take part.",
+"velho": "Opt out = optar por sair.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0429",
+"g": "C",
+"e": "'Cloud storage' means 'armazenamento em nuvem'.",
+"velho": "Cloud = nuvem.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0430",
+"g": "E",
+"e": "'Cloud storage' means 'armazenamento de clima'.",
+"velho": "Cloud = nuvem.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0431",
+"g": "C",
+"e": "To 'upload' a file is to send it to a server.",
+"velho": "Upload = enviar.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0432",
+"g": "E",
+"e": "To 'upload' a file is to receive it from a server.",
+"velho": "Upload = enviar.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0433",
+"g": "C",
+"e": "'Open source' software has code that anyone can inspect and modify.",
+"velho": "Open source = código aberto.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0434",
+"g": "E",
+"e": "'Open source' software has code kept secret by its owner. This is the rule.",
+"velho": "Open source = código aberto.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0435",
+"g": "C",
+"e": "To 'hack' a system, in the news, usually means to break into it.",
+"velho": "Hack = invadir.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0436",
+"g": "E",
+"e": "To 'hack' a system, in the news, usually means to repair it.",
+"velho": "Hack = invadir.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0437",
+"g": "C",
+"e": "A 'chatbot' is a program that simulates conversation.",
+"velho": "Chatbot = programa.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0438",
+"g": "E",
+"e": "A 'chatbot' is a person who moderates online forums.",
+"velho": "Chatbot = programa.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0439",
+"g": "C",
+"e": "A 'dataset' is a structured collection of data.",
+"velho": "Dataset = conjunto de dados.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0440",
+"g": "E",
+"e": "A 'dataset' is a device used to store passwords.",
+"velho": "Dataset = conjunto de dados.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0441",
+"g": "C",
+"e": "'Cybersecurity' refers to protecting systems and data from attacks.",
+"velho": "Cybersecurity = segurança.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0442",
+"g": "E",
+"e": "'Cybersecurity' refers to the speed of an internet connection.",
+"velho": "Cybersecurity = segurança.",
+"aula": [
+"cloud = nuvem; algorithm = algoritmo; bias = viés; privacy = privacidade; cybersecurity = segurança cibernética; to hack = invadir; password = senha; to log in = entrar (conta); to download/upload = baixar/enviar; machine learning = aprendizado de máquina; chatbot; dataset = conjunto de dados; open source = código aberto; to opt out = optar…",
+"Pegadinha: o item troca o sentido do termo técnico (bias = viés, não 'preferência legítima')."
+]
+},
+{
+"id": "Q-EN-0443",
+"g": "C",
+"e": "'Affect' is usually a verb; 'effect' is usually a noun.",
+"velho": "Affect = afetar.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Exemplos: 'The law will affect prices' / 'The law had an effect on prices.' 'for two years' × 'since 2024'."
+]
+},
+{
+"id": "Q-EN-0444",
+"g": "E",
+"e": "'Affect' is usually a noun; 'effect' is usually a verb.",
+"velho": "Affect = afetar.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Exemplos: 'The law will affect prices' / 'The law had an effect on prices.' 'for two years' × 'since 2024'."
+]
+},
+{
+"id": "Q-EN-0445",
+"g": "C",
+"e": "'Lose' means 'perder'; 'loose' means 'frouxo'.",
+"velho": "Lose = perder.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0446",
+"g": "E",
+"e": "'Lose' means 'frouxo'; 'loose' means 'perder'.",
+"velho": "Lose = perder.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0447",
+"g": "C",
+"e": "'Than' is used in comparisons; 'then' means 'então'.",
+"velho": "Than compara.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0448",
+"g": "E",
+"e": "'Then' is used in comparisons; 'than' means 'então'.",
+"velho": "Than compara.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0449",
+"g": "C",
+"e": "'Principle' means 'princípio'; 'principal' can mean 'diretor' or 'principal'.",
+"velho": "Principle = princípio.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0450",
+"g": "E",
+"e": "'Principle' means 'diretor'; 'principal' means 'princípio'. This is the usual use.",
+"velho": "Principle = princípio.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0451",
+"g": "C",
+"e": "'He has lived here for ten years' uses 'for' with a period of time.",
+"velho": "For + duração; since + início.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Exemplos: 'The law will affect prices' / 'The law had an effect on prices.' 'for two years' × 'since 2024'."
+]
+},
+{
+"id": "Q-EN-0452",
+"g": "E",
+"e": "'He has lived here since ten years' uses 'since' with a period of time.",
+"velho": "For + duração; since + início.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Exemplos: 'The law will affect prices' / 'The law had an effect on prices.' 'for two years' × 'since 2024'."
+]
+},
+{
+"id": "Q-EN-0453",
+"g": "C",
+"e": "'She has lived here since 2020' uses 'since' with a starting point.",
+"velho": "Since + ponto inicial.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0454",
+"g": "E",
+"e": "'She has lived here for 2020' uses 'for' with a starting point.",
+"velho": "Since + ponto inicial.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0455",
+"g": "C",
+"e": "'Besides' means 'além disso'; 'beside' means 'ao lado de'.",
+"velho": "Besides = além de.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0456",
+"g": "E",
+"e": "'Besides' means 'ao lado de'; 'beside' means 'além disso'.",
+"velho": "Besides = além de.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0457",
+"g": "C",
+"e": "'They're' means 'they are'; 'there' indicates a place.",
+"velho": "They're = they are.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0458",
+"g": "E",
+"e": "'They're' indicates a place; 'there' means 'they are'.",
+"velho": "They're = they are.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0459",
+"g": "C",
+"e": "'Economic' relates to the economy; 'economical' means 'econômico, que poupa'.",
+"velho": "Economic × economical.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0460",
+"g": "E",
+"e": "'Economic' means 'que poupa'; 'economical' relates to the economy. This is correct.",
+"velho": "Economic × economical.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0461",
+"g": "C",
+"e": "'Sensible' means 'sensato'; 'sensitive' means 'sensível'.",
+"velho": "Sensible = sensato.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0462",
+"g": "E",
+"e": "'Sensible' means 'sensível'; 'sensitive' means 'sensato'.",
+"velho": "Sensible = sensato.",
+"aula": [
+"affect (verbo: afetar) × effect (substantivo: efeito); lose (perder) × loose (frouxo); than (comparação) × then (então); its × it's; their (deles) × there (lá) × they're (eles são); principal (diretor; principal) × principle (princípio); since (desde; já que) × for (duração); beside (ao lado de) × besides (além de).",
+"Pegadinha: trocar affect/effect, then/than ou for/since."
+]
+},
+{
+"id": "Q-EN-0463",
+"g": "C",
+"e": "'e.g.' introduces examples, as in 'fruits, e.g. apples'.",
+"velho": "e.g. = por exemplo.",
+"aula": [
+"Exemplo: 'Fruits, e.g. apples' (exemplos) × 'a fruit, i.e. a pear' (explicação).",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0464",
+"g": "E",
+"e": "'e.g.' introduces a rewording, as in 'fruits, e.g. apples'.",
+"velho": "e.g. = por exemplo.",
+"aula": [
+"Exemplo: 'Fruits, e.g. apples' (exemplos) × 'a fruit, i.e. a pear' (explicação).",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0465",
+"g": "C",
+"e": "'i.e.' introduces a clarification, meaning 'isto é'.",
+"velho": "i.e. = isto é.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0466",
+"g": "E",
+"e": "'i.e.' introduces a list of examples, meaning 'por exemplo'.",
+"velho": "i.e. = isto é.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0467",
+"g": "C",
+"e": "'GDP' stands for 'gross domestic product' (PIB).",
+"velho": "GDP = PIB.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0468",
+"g": "E",
+"e": "'GDP' stands for 'general data protection'.",
+"velho": "GDP = PIB.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0469",
+"g": "C",
+"e": "'NGO' stands for 'non-governmental organization' (ONG).",
+"velho": "NGO = ONG.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0470",
+"g": "E",
+"e": "'NGO' stands for 'national government office'. This is the rule.",
+"velho": "NGO = ONG.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0471",
+"g": "C",
+"e": "'WHO' is the World Health Organization (OMS).",
+"velho": "WHO = OMS.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0472",
+"g": "E",
+"e": "'WHO' is the World Hunger Office. This is correct.",
+"velho": "WHO = OMS.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0473",
+"g": "C",
+"e": "'IMF' is the International Monetary Fund (FMI).",
+"velho": "IMF = FMI.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0474",
+"g": "E",
+"e": "'IMF' is the International Military Force.",
+"velho": "IMF = FMI.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0475",
+"g": "C",
+"e": "'CEO' means chief executive officer.",
+"velho": "CEO = diretor-executivo.",
+"aula": [
+"CEO = diretor-executivo;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0476",
+"g": "E",
+"e": "'CEO' means central election office.",
+"velho": "CEO = diretor-executivo.",
+"aula": [
+"CEO = diretor-executivo;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0477",
+"g": "C",
+"e": "'vs.' means 'versus', that is, 'contra'.",
+"velho": "Vs. = versus.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0478",
+"g": "E",
+"e": "'vs.' means 'very special'. This is correct.",
+"velho": "Vs. = versus.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0479",
+"g": "C",
+"e": "'N/A' in a form usually means 'not applicable'.",
+"velho": "N/A = não se aplica.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0480",
+"g": "E",
+"e": "'N/A' in a form usually means 'no answer yet'.",
+"velho": "N/A = não se aplica.",
+"aula": [
+"e.g. = por exemplo; i.e. = isto é; etc. = e assim por diante; vs. = versus; approx. = aproximadamente;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0481",
+"g": "C",
+"e": "'FAQ' stands for 'frequently asked questions'.",
+"velho": "FAQ = perguntas frequentes.",
+"aula": [
+"FAQ = perguntas frequentes;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-EN-0482",
+"g": "E",
+"e": "'FAQ' stands for 'formal annual query'.",
+"velho": "FAQ = perguntas frequentes.",
+"aula": [
+"FAQ = perguntas frequentes;",
+"Pegadinha: trocar e.g. por i.e. ou traduzir sigla com o sentido de outra (WHO, IMF)."
+]
+},
+{
+"id": "Q-FIA-0001",
+"g": "C",
+"e": "No pipeline híbrido clássico de reconhecimento de fala, o modelo acústico estima a probabilidade de unidades sonoras a partir do áudio, o léxico relaciona palavras a sequências de fonemas e o modelo de linguagem estima a probabilidade de sequências de palavras.",
+"velho": "Modelo acústico, léxico e modelo de linguagem.",
+"aula": [
+"Pipeline híbrido clássico: modelo acústico (tradicionalmente HMM com GMM, depois HMM com redes neurais profundas) estima a probabilidade de unidades sonoras (fonemas) a partir do áudio; léxico (dicionário de pronúncia) liga palavras a sequências de fonemas; modelo de linguagem (n-gramas, depois redes neurais) estima a probabilidade de sequências de palavras; o decodificador busca a hipótese…",
+"No pipeline clássico, palavras fora do vocabulário (OOV) não podem ser reconhecidas, e o desempenho depende de domínio: modelos treinados em fala de uso geral erram termos técnicos e nomes próprios."
+]
+},
+{
+"id": "Q-FIA-0002",
+"g": "E",
+"e": "No pipeline híbrido clássico de reconhecimento de fala, o modelo de linguagem estima a probabilidade de unidades sonoras a partir do áudio, o modelo acústico relaciona palavras a sequências de fonemas e o léxico estima a probabilidade de sequências de palavras.",
+"velho": "Modelo acústico, léxico e modelo de linguagem.",
+"aula": [
+"Pipeline híbrido clássico: modelo acústico (tradicionalmente HMM com GMM, depois HMM com redes neurais profundas) estima a probabilidade de unidades sonoras (fonemas) a partir do áudio; léxico (dicionário de pronúncia) liga palavras a sequências de fonemas; modelo de linguagem (n-gramas, depois redes neurais) estima a probabilidade de sequências de palavras; o decodificador busca a hipótese…",
+"No pipeline clássico, palavras fora do vocabulário (OOV) não podem ser reconhecidas, e o desempenho depende de domínio: modelos treinados em fala de uso geral erram termos técnicos e nomes próprios."
+]
+},
+{
+"id": "Q-FIA-0003",
+"g": "C",
+"e": "A taxa de erro de palavras (WER) é calculada pela soma de substituições, inserções e remoções dividida pelo número de palavras da transcrição de referência, de modo que pode ultrapassar cem por cento.",
+"velho": "WER.",
+"aula": [
+"A métrica padrão é a taxa de erro de palavras (WER, word error rate): soma de substituições, inserções e remoções dividida pelo número de palavras da referência; pode ultrapassar 100%.",
+"Taxa de erro de caracteres (CER) é usada em línguas sem separação clara de palavras e como métrica complementar."
+]
+}
+]

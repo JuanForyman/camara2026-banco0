@@ -1,0 +1,690 @@
+[
+{
+"id": "Q-FIA-0074",
+"g": "E",
+"e": "Na transcrição em tempo real, as hipóteses parciais nunca se alteram, ao passo que na transcrição em lote o áudio é processado enquanto é falado. Isso é consenso na área.",
+"velho": "Streaming x batch.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Em streaming, a detecção de fim de enunciado (endpointing) decide quando finalizar uma hipótese. Uso típico: legendagem ao vivo de sessões, acessibilidade (legenda para surdos), acompanhamento em tempo real; em lote: produção de registro oficial revisado, indexação posterior de acervo."
+]
+},
+{
+"id": "Q-FIA-0075",
+"g": "C",
+"e": "A transcrição em lote tende a atingir maior acurácia do que a em tempo real, porque somente em lote o modelo tem acesso a todo o contexto, passado e futuro, e pode fazer múltiplas passagens.",
+"velho": "Acurácia.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Em lote, o modelo tem acesso a todo o contexto (passado e futuro) e permite múltiplas passagens, tendendo a maior acurácia; em tempo real, há compromisso entre latência e acurácia, porque o modelo vê menos contexto futuro (lookahead limitado)."
+]
+},
+{
+"id": "Q-FIA-0076",
+"g": "E",
+"e": "A transcrição em tempo real tende a atingir maior acurácia do que a em lote, porque o modelo vê menos contexto e processa o áudio de forma mais simples. Trata-se de prática corrente.",
+"velho": "Acurácia.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Em lote, o modelo tem acesso a todo o contexto (passado e futuro) e permite múltiplas passagens, tendendo a maior acurácia; em tempo real, há compromisso entre latência e acurácia, porque o modelo vê menos contexto futuro (lookahead limitado)."
+]
+},
+{
+"id": "Q-FIA-0077",
+"g": "C",
+"e": "Na transcrição em tempo real há um compromisso entre latência e acurácia, pois o modelo dispõe de contexto futuro limitado.",
+"velho": "Latência x acurácia.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Em lote, o modelo tem acesso a todo o contexto (passado e futuro) e permite múltiplas passagens, tendendo a maior acurácia; em tempo real, há compromisso entre latência e acurácia, porque o modelo vê menos contexto futuro (lookahead limitado)."
+]
+},
+{
+"id": "Q-FIA-0078",
+"g": "E",
+"e": "Na transcrição em tempo real não há compromisso entre latência e acurácia, pois o modelo dispõe de todo o contexto futuro.",
+"velho": "Latência x acurácia.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Em lote, o modelo tem acesso a todo o contexto (passado e futuro) e permite múltiplas passagens, tendendo a maior acurácia; em tempo real, há compromisso entre latência e acurácia, porque o modelo vê menos contexto futuro (lookahead limitado)."
+]
+},
+{
+"id": "Q-FIA-0079",
+"g": "C",
+"e": "A legendagem ao vivo de sessões para acessibilidade é aplicação típica da transcrição em tempo real, ao passo que a produção de registro oficial revisado costuma recorrer à transcrição em lote.",
+"velho": "Usos.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Em streaming, a detecção de fim de enunciado (endpointing) decide quando finalizar uma hipótese. Uso típico: legendagem ao vivo de sessões, acessibilidade (legenda para surdos), acompanhamento em tempo real; em lote: produção de registro oficial revisado, indexação posterior de acervo."
+]
+},
+{
+"id": "Q-FIA-0080",
+"g": "E",
+"e": "A produção de registro oficial revisado é aplicação típica da transcrição em tempo real, ao passo que a legendagem ao vivo para acessibilidade depende exclusivamente da transcrição em lote.",
+"velho": "Usos.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Em streaming, a detecção de fim de enunciado (endpointing) decide quando finalizar uma hipótese. Uso típico: legendagem ao vivo de sessões, acessibilidade (legenda para surdos), acompanhamento em tempo real; em lote: produção de registro oficial revisado, indexação posterior de acervo."
+]
+},
+{
+"id": "Q-FIA-0081",
+"g": "C",
+"e": "A detecção de fim de enunciado (endpointing) decide quando uma hipótese em transcrição de streaming deve ser finalizada.",
+"velho": "Endpointing.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Em streaming, a detecção de fim de enunciado (endpointing) decide quando finalizar uma hipótese. Uso típico: legendagem ao vivo de sessões, acessibilidade (legenda para surdos), acompanhamento em tempo real; em lote: produção de registro oficial revisado, indexação posterior de acervo."
+]
+},
+{
+"id": "Q-FIA-0082",
+"g": "E",
+"e": "A detecção de fim de enunciado (endpointing) é etapa da transcrição em lote que reúne as hipóteses finais em um arquivo único.",
+"velho": "Endpointing.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Em streaming, a detecção de fim de enunciado (endpointing) decide quando finalizar uma hipótese. Uso típico: legendagem ao vivo de sessões, acessibilidade (legenda para surdos), acompanhamento em tempo real; em lote: produção de registro oficial revisado, indexação posterior de acervo."
+]
+},
+{
+"id": "Q-FIA-0083",
+"g": "C",
+"e": "Arquiteturas como o RNN-T favorecem a transcrição em streaming, por emitirem tokens de forma incremental.",
+"velho": "Arquiteturas de streaming.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Arquiteturas como RNN-T e variantes de CTC com atenção limitada favorecem streaming."
+]
+},
+{
+"id": "Q-FIA-0084",
+"g": "E",
+"e": "Arquiteturas como o codificador-decodificador com atenção global são as que mais favorecem o streaming, por exigirem apenas parte do áudio.",
+"velho": "Arquiteturas de streaming.",
+"aula": [
+"Transcrição em tempo real (streaming) produz texto enquanto o áudio é falado, com baixa latência, e emite hipóteses parciais (interim results) que podem mudar até serem finalizadas. Transcrição em lote (batch) processa o áudio completo depois de gravado.",
+"Arquiteturas como RNN-T e variantes de CTC com atenção limitada favorecem streaming."
+]
+},
+{
+"id": "Q-FIA-0085",
+"g": "C",
+"e": "O Whisper é um modelo de ASR da OpenAI, treinado em cerca de 680 mil horas de áudio com transcrições em regime de supervisão fraca, e seus pesos foram disponibilizados abertamente.",
+"velho": "Whisper.",
+"aula": [
+"Whisper é um modelo de ASR da OpenAI, lançado em 2022, treinado em cerca de 680 mil horas de áudio com transcrições coletadas da internet, em regime de supervisão fraca (weak supervision) e em larga escala.",
+"É um modelo codificador-decodificador baseado em Transformer, com pesos abertos (licença MIT)."
+]
+},
+{
+"id": "Q-FIA-0086",
+"g": "E",
+"e": "O Whisper é um modelo de ASR da OpenAI, treinado em cerca de 680 horas de áudio rotulado manualmente e de uso exclusivo por meio de API fechada. Isso é consenso na área.",
+"velho": "Whisper.",
+"aula": [
+"Whisper é um modelo de ASR da OpenAI, lançado em 2022, treinado em cerca de 680 mil horas de áudio com transcrições coletadas da internet, em regime de supervisão fraca (weak supervision) e em larga escala."
+]
+},
+{
+"id": "Q-FIA-0087",
+"g": "C",
+"e": "O Whisper é um modelo codificador-decodificador baseado em Transformer, que processa o áudio em janelas de 30 segundos e gera texto de forma autorregressiva.",
+"velho": "Arquitetura do Whisper.",
+"aula": [
+"É um modelo codificador-decodificador baseado em Transformer, com pesos abertos (licença MIT).",
+"Processa o áudio em janelas de 30 segundos, convertidas em espectrogramas log-mel; o decodificador gera texto de forma autorregressiva, com tokens especiais que indicam tarefa e idioma. Tarefas: transcrição multilíngue, tradução de fala para inglês, identificação do idioma, marcação de tempo (timestamps)."
+]
+},
+{
+"id": "Q-FIA-0088",
+"g": "E",
+"e": "O Whisper é um modelo baseado em CTC puro, que processa o áudio em janelas de 30 minutos e gera o texto em paralelo, sem decodificador. Trata-se de prática corrente.",
+"velho": "Arquitetura do Whisper.",
+"aula": [
+"Whisper é um modelo de ASR da OpenAI, lançado em 2022, treinado em cerca de 680 mil horas de áudio com transcrições coletadas da internet, em regime de supervisão fraca (weak supervision) e em larga escala.",
+"Processa o áudio em janelas de 30 segundos, convertidas em espectrogramas log-mel; o decodificador gera texto de forma autorregressiva, com tokens especiais que indicam tarefa e idioma. Tarefas: transcrição multilíngue, tradução de fala para inglês, identificação do idioma, marcação de tempo (timestamps)."
+]
+},
+{
+"id": "Q-FIA-0089",
+"g": "C",
+"e": "O Whisper pode produzir alucinações, isto é, texto que não foi dito, em especial em trechos de silêncio, ruído ou música, e pode repetir trechos.",
+"velho": "Alucinação.",
+"aula": [
+"Limitações: pode alucinar, produzindo texto não dito, em especial em trechos de silêncio, ruído ou música, e repetir trechos; não faz diarização de falantes nativamente; o alinhamento fino por palavra exige técnicas adicionais; o desempenho varia entre idiomas e depende da quantidade de dados de cada língua."
+]
+},
+{
+"id": "Q-FIA-0090",
+"g": "E",
+"e": "O Whisper não produz alucinações, pois sua supervisão em larga escala elimina a geração de texto não dito. Isso é consenso na área.",
+"velho": "Alucinação.",
+"aula": [
+"Whisper é um modelo de ASR da OpenAI, lançado em 2022, treinado em cerca de 680 mil horas de áudio com transcrições coletadas da internet, em regime de supervisão fraca (weak supervision) e em larga escala.",
+"Limitações: pode alucinar, produzindo texto não dito, em especial em trechos de silêncio, ruído ou música, e repetir trechos; não faz diarização de falantes nativamente; o alinhamento fino por palavra exige técnicas adicionais; o desempenho varia entre idiomas e depende da quantidade de dados de cada língua."
+]
+},
+{
+"id": "Q-FIA-0091",
+"g": "C",
+"e": "O Whisper não faz diarização de falantes de forma nativa, de modo que a identificação de quem falou exige ferramenta adicional.",
+"velho": "Whisper e diarização.",
+"aula": [
+"Processa o áudio em janelas de 30 segundos, convertidas em espectrogramas log-mel; o decodificador gera texto de forma autorregressiva, com tokens especiais que indicam tarefa e idioma. Tarefas: transcrição multilíngue, tradução de fala para inglês, identificação do idioma, marcação de tempo (timestamps).",
+"Limitações: pode alucinar, produzindo texto não dito, em especial em trechos de silêncio, ruído ou música, e repetir trechos; não faz diarização de falantes nativamente; o alinhamento fino por palavra exige técnicas adicionais; o desempenho varia entre idiomas e depende da quantidade de dados de cada língua."
+]
+},
+{
+"id": "Q-FIA-0092",
+"g": "E",
+"e": "O Whisper faz diarização de falantes de forma nativa e identifica pelo nome cada orador, sem necessidade de ferramenta adicional.",
+"velho": "Whisper e diarização.",
+"aula": [
+"Limitações: pode alucinar, produzindo texto não dito, em especial em trechos de silêncio, ruído ou música, e repetir trechos; não faz diarização de falantes nativamente; o alinhamento fino por palavra exige técnicas adicionais; o desempenho varia entre idiomas e depende da quantidade de dados de cada língua."
+]
+},
+{
+"id": "Q-FIA-0093",
+"g": "C",
+"e": "Entre as tarefas do Whisper estão a transcrição multilíngue, a tradução de fala para o inglês, a identificação do idioma e a marcação de tempo.",
+"velho": "Tarefas.",
+"aula": [
+"Processa o áudio em janelas de 30 segundos, convertidas em espectrogramas log-mel; o decodificador gera texto de forma autorregressiva, com tokens especiais que indicam tarefa e idioma. Tarefas: transcrição multilíngue, tradução de fala para inglês, identificação do idioma, marcação de tempo (timestamps).",
+"Outros serviços citados no edital: Google Speech-to-Text, Azure Speech e AWS Transcribe são serviços de nuvem com APIs de transcrição em lote e em tempo real, com recursos como vocabulário personalizado e, conforme o serviço, diarização, redação de dados sensíveis e modelos customizados."
+]
+},
+{
+"id": "Q-FIA-0094",
+"g": "E",
+"e": "O Whisper realiza apenas a síntese de fala a partir de texto, sendo incapaz de transcrever áudio. Isso é consenso na área.",
+"velho": "Tarefas.",
+"aula": [
+"Whisper é um modelo de ASR da OpenAI, lançado em 2022, treinado em cerca de 680 mil horas de áudio com transcrições coletadas da internet, em regime de supervisão fraca (weak supervision) e em larga escala.",
+"Processa o áudio em janelas de 30 segundos, convertidas em espectrogramas log-mel; o decodificador gera texto de forma autorregressiva, com tokens especiais que indicam tarefa e idioma. Tarefas: transcrição multilíngue, tradução de fala para inglês, identificação do idioma, marcação de tempo (timestamps)."
+]
+},
+{
+"id": "Q-FIA-0095",
+"g": "C",
+"e": "Google Speech-to-Text, Azure Speech e AWS Transcribe são serviços de nuvem com APIs de transcrição, e oferecem recursos como vocabulário personalizado, variáveis conforme o serviço.",
+"velho": "Serviços de nuvem.",
+"aula": [
+"Outros serviços citados no edital: Google Speech-to-Text, Azure Speech e AWS Transcribe são serviços de nuvem com APIs de transcrição em lote e em tempo real, com recursos como vocabulário personalizado e, conforme o serviço, diarização, redação de dados sensíveis e modelos customizados."
+]
+},
+{
+"id": "Q-FIA-0096",
+"g": "E",
+"e": "Google Speech-to-Text, Azure Speech e AWS Transcribe são modelos de código aberto de uso exclusivo local e não permitem vocabulário personalizado. Trata-se de prática corrente.",
+"velho": "Serviços de nuvem.",
+"aula": [
+"Outros serviços citados no edital: Google Speech-to-Text, Azure Speech e AWS Transcribe são serviços de nuvem com APIs de transcrição em lote e em tempo real, com recursos como vocabulário personalizado e, conforme o serviço, diarização, redação de dados sensíveis e modelos customizados."
+]
+},
+{
+"id": "Q-FIA-0097",
+"g": "C",
+"e": "Transcrição automática, degravação e revisão humana são etapas e conceitos distintos, e a transcrição automática, por si só, não equivale a registro oficial.",
+"velho": "Três conceitos.",
+"aula": [
+"Transcrição automática é o texto produzido por máquina (ASR), sem intervenção humana, com erros de reconhecimento e de formatação.",
+"Transcrição, degravação e revisão não são sinônimos: a revisão não substitui a degravação e a transcrição automática, por si só, não é registro oficial."
+]
+},
+{
+"id": "Q-FIA-0098",
+"g": "E",
+"e": "Transcrição automática, degravação e revisão humana são sinônimos, e a transcrição automática equivale, por si só, a registro oficial. Isso é consenso na área.",
+"velho": "Três conceitos.",
+"aula": [
+"Transcrição automática é o texto produzido por máquina (ASR), sem intervenção humana, com erros de reconhecimento e de formatação.",
+"Transcrição, degravação e revisão não são sinônimos: a revisão não substitui a degravação e a transcrição automática, por si só, não é registro oficial."
+]
+},
+{
+"id": "Q-FIA-0099",
+"g": "C",
+"e": "A degravação assistida por IA parte do texto produzido por ASR e o corrige, com preocupação com a fidelidade e com o padrão de redação do órgão.",
+"velho": "Degravação assistida.",
+"aula": [
+"Degravação é a conversão do conteúdo de áudio ou vídeo em texto escrito, feita por pessoa ou com apoio de ferramenta, com preocupação com a fidelidade e com o padrão de redação do órgão.",
+"A degravação assistida por IA parte do texto automático e o corrige."
+]
+},
+{
+"id": "Q-FIA-0100",
+"g": "E",
+"e": "A degravação assistida por IA dispensa o texto do ASR e consiste exclusivamente na digitação manual do áudio sem apoio de ferramenta.",
+"velho": "Degravação assistida.",
+"aula": [
+"Degravação é a conversão do conteúdo de áudio ou vídeo em texto escrito, feita por pessoa ou com apoio de ferramenta, com preocupação com a fidelidade e com o padrão de redação do órgão.",
+"A degravação assistida por IA parte do texto automático e o corrige."
+]
+},
+{
+"id": "Q-FIA-0101",
+"g": "C",
+"e": "A revisão humana consiste na conferência e na correção do texto por profissional, que verifica a fidelidade ao áudio, o padrão de formatação e a correção linguística.",
+"velho": "Revisão.",
+"aula": [
+"Degravação é a conversão do conteúdo de áudio ou vídeo em texto escrito, feita por pessoa ou com apoio de ferramenta, com preocupação com a fidelidade e com o padrão de redação do órgão.",
+"Revisão humana é a etapa de conferência e correção do texto, por outro profissional, que verifica a fidelidade ao áudio, o respeito ao padrão de formatação e a correção linguística."
+]
+},
+{
+"id": "Q-FIA-0102",
+"g": "E",
+"e": "A revisão humana consiste apenas em aplicar corretor ortográfico automático, sem conferência com o áudio. Essa seria a posição predominante na literatura técnica da área.",
+"velho": "Revisão.",
+"aula": [
+"Revisão humana é a etapa de conferência e correção do texto, por outro profissional, que verifica a fidelidade ao áudio, o respeito ao padrão de formatação e a correção linguística.",
+"Taquigrafia, técnica de registro da fala por sinais abreviados, e a estenotipia, registro por máquina, foram historicamente a base do registro parlamentar; as ferramentas de ASR passam a integrar o fluxo, sem eliminar a necessidade de revisão."
+]
+},
+{
+"id": "Q-FIA-0103",
+"g": "C",
+"e": "A taquigrafia e a estenotipia foram historicamente base do registro parlamentar, e as ferramentas de ASR integram o fluxo atual sem eliminar a necessidade de revisão.",
+"velho": "Taquigrafia e ASR.",
+"aula": [
+"Transcrição, degravação e revisão não são sinônimos: a revisão não substitui a degravação e a transcrição automática, por si só, não é registro oficial.",
+"Taquigrafia, técnica de registro da fala por sinais abreviados, e a estenotipia, registro por máquina, foram historicamente a base do registro parlamentar; as ferramentas de ASR passam a integrar o fluxo, sem eliminar a necessidade de revisão."
+]
+},
+{
+"id": "Q-FIA-0104",
+"g": "E",
+"e": "As ferramentas de ASR extinguiram a necessidade de revisão e substituíram integralmente o registro humano nos parlamentos. Trata-se de prática corrente.",
+"velho": "Taquigrafia e ASR.",
+"aula": [
+"Transcrição, degravação e revisão não são sinônimos: a revisão não substitui a degravação e a transcrição automática, por si só, não é registro oficial.",
+"Taquigrafia, técnica de registro da fala por sinais abreviados, e a estenotipia, registro por máquina, foram historicamente a base do registro parlamentar; as ferramentas de ASR passam a integrar o fluxo, sem eliminar a necessidade de revisão."
+]
+},
+{
+"id": "Q-FIA-0105",
+"g": "C",
+"e": "A transcrição automática contém erros de reconhecimento e de formatação, razão pela qual precisa de revisão para ser usada como registro com fidelidade.",
+"velho": "Erros do automático.",
+"aula": [
+"Transcrição automática é o texto produzido por máquina (ASR), sem intervenção humana, com erros de reconhecimento e de formatação.",
+"Transcrição, degravação e revisão não são sinônimos: a revisão não substitui a degravação e a transcrição automática, por si só, não é registro oficial."
+]
+},
+{
+"id": "Q-FIA-0106",
+"g": "E",
+"e": "A transcrição automática não contém erros relevantes, razão pela qual dispensa revisão para ser usada como registro com fidelidade. Isso é consenso na área.",
+"velho": "Erros do automático.",
+"aula": [
+"Transcrição automática é o texto produzido por máquina (ASR), sem intervenção humana, com erros de reconhecimento e de formatação.",
+"Transcrição, degravação e revisão não são sinônimos: a revisão não substitui a degravação e a transcrição automática, por si só, não é registro oficial."
+]
+},
+{
+"id": "Q-FIA-0107",
+"g": "C",
+"e": "Um texto produzido por ASR e corrigido por um profissional com conferência do áudio pode ser considerado degravação revisada, e não mera transcrição automática.",
+"velho": "Qualificação do texto.",
+"aula": [
+"Transcrição automática é o texto produzido por máquina (ASR), sem intervenção humana, com erros de reconhecimento e de formatação.",
+"Revisão humana é a etapa de conferência e correção do texto, por outro profissional, que verifica a fidelidade ao áudio, o respeito ao padrão de formatação e a correção linguística."
+]
+},
+{
+"id": "Q-FIA-0108",
+"g": "E",
+"e": "Um texto produzido por ASR sem nenhuma conferência do áudio por profissional pode ser considerado degravação revisada, pois a máquina já realizou a revisão.",
+"velho": "Qualificação do texto.",
+"aula": [
+"Transcrição automática é o texto produzido por máquina (ASR), sem intervenção humana, com erros de reconhecimento e de formatação.",
+"Revisão humana é a etapa de conferência e correção do texto, por outro profissional, que verifica a fidelidade ao áudio, o respeito ao padrão de formatação e a correção linguística."
+]
+},
+{
+"id": "Q-FIA-0109",
+"g": "C",
+"e": "Human-in-the-loop significa manter a pessoa na malha do processo, de modo que a IA produz a primeira versão e o profissional corrige, valida e responde pelo resultado.",
+"velho": "HITL.",
+"aula": [
+"Human-in-the-loop (HITL) significa manter o ser humano na malha do processo: a IA produz uma primeira versão e o profissional corrige, valida e responde pelo resultado."
+]
+},
+{
+"id": "Q-FIA-0110",
+"g": "E",
+"e": "Human-in-the-loop significa que a IA assume a responsabilidade final pelo resultado e o profissional apenas acompanha o processo sem poder de correção. Isso é consenso na área.",
+"velho": "HITL.",
+"aula": [
+"Human-in-the-loop (HITL) significa manter o ser humano na malha do processo: a IA produz uma primeira versão e o profissional corrige, valida e responde pelo resultado.",
+"Razões do HITL: o ASR comete erros que mudam o sentido (negações, números, nomes); a responsabilidade pelo registro oficial é humana; a revisão evita propagação de alucinações para atas, resumos e índices."
+]
+},
+{
+"id": "Q-FIA-0111",
+"g": "C",
+"e": "No fluxo de degravação assistida, as etapas costumam incluir captação, transcrição automática, pós-processamento, revisão humana com áudio sincronizado e controle de qualidade antes da publicação.",
+"velho": "Fluxo.",
+"aula": [
+"Fluxo típico de degravação assistida: captação do áudio; transcrição automática (ASR) com diarização; pós-processamento (pontuação, normalização); revisão humana com o áudio sincronizado ao texto; revisão final e controle de qualidade; publicação.",
+"Medir ganho: tempo de revisão por hora de áudio, taxa de correção e WER antes e depois da revisão; o fluxo pode priorizar a revisão de trechos de baixa confiança, usando escores de confiança do modelo."
+]
+},
+{
+"id": "Q-FIA-0112",
+"g": "E",
+"e": "No fluxo de degravação assistida, a publicação ocorre logo após a transcrição automática, e a revisão humana é etapa posterior opcional, realizada somente se houver reclamação. Trata-se de prática corrente.",
+"velho": "Fluxo.",
+"aula": [
+"Fluxo típico de degravação assistida: captação do áudio; transcrição automática (ASR) com diarização; pós-processamento (pontuação, normalização); revisão humana com o áudio sincronizado ao texto; revisão final e controle de qualidade; publicação.",
+"Razões do HITL: o ASR comete erros que mudam o sentido (negações, números, nomes); a responsabilidade pelo registro oficial é humana; a revisão evita propagação de alucinações para atas, resumos e índices."
+]
+},
+{
+"id": "Q-FIA-0113",
+"g": "C",
+"e": "A automação total, sem revisão humana, é aceitável apenas em usos de baixo risco, como busca preliminar, e não para registro oficial.",
+"velho": "Limites da automação.",
+"aula": [
+"Razões do HITL: o ASR comete erros que mudam o sentido (negações, números, nomes); a responsabilidade pelo registro oficial é humana; a revisão evita propagação de alucinações para atas, resumos e índices.",
+"Automação total só é aceitável para usos de baixo risco, como busca preliminar, e não para registro oficial."
+]
+},
+{
+"id": "Q-FIA-0114",
+"g": "E",
+"e": "A automação total, sem revisão humana, é aceitável para qualquer uso, inclusive o registro oficial, desde que o modelo seja de grande porte.",
+"velho": "Limites da automação.",
+"aula": [
+"Razões do HITL: o ASR comete erros que mudam o sentido (negações, números, nomes); a responsabilidade pelo registro oficial é humana; a revisão evita propagação de alucinações para atas, resumos e índices.",
+"Automação total só é aceitável para usos de baixo risco, como busca preliminar, e não para registro oficial."
+]
+},
+{
+"id": "Q-FIA-0115",
+"g": "C",
+"e": "A revisão humana evita que alucinações e erros que mudam o sentido, como negações, números e nomes, se propaguem para atas, resumos e índices.",
+"velho": "Razões do HITL.",
+"aula": [
+"Fluxo típico de degravação assistida: captação do áudio; transcrição automática (ASR) com diarização; pós-processamento (pontuação, normalização); revisão humana com o áudio sincronizado ao texto; revisão final e controle de qualidade; publicação.",
+"Razões do HITL: o ASR comete erros que mudam o sentido (negações, números, nomes); a responsabilidade pelo registro oficial é humana; a revisão evita propagação de alucinações para atas, resumos e índices."
+]
+},
+{
+"id": "Q-FIA-0116",
+"g": "E",
+"e": "A revisão humana é desnecessária para negações, números e nomes, pois esses elementos são sempre reconhecidos corretamente pelo ASR.",
+"velho": "Razões do HITL.",
+"aula": [
+"Fluxo típico de degravação assistida: captação do áudio; transcrição automática (ASR) com diarização; pós-processamento (pontuação, normalização); revisão humana com o áudio sincronizado ao texto; revisão final e controle de qualidade; publicação.",
+"Razões do HITL: o ASR comete erros que mudam o sentido (negações, números, nomes); a responsabilidade pelo registro oficial é humana; a revisão evita propagação de alucinações para atas, resumos e índices."
+]
+},
+{
+"id": "Q-FIA-0117",
+"g": "C",
+"e": "O fluxo pode priorizar a revisão de trechos de baixa confiança do modelo, usando os escores de confiança do ASR.",
+"velho": "Escores de confiança.",
+"aula": [
+"Fluxo típico de degravação assistida: captação do áudio; transcrição automática (ASR) com diarização; pós-processamento (pontuação, normalização); revisão humana com o áudio sincronizado ao texto; revisão final e controle de qualidade; publicação.",
+"Medir ganho: tempo de revisão por hora de áudio, taxa de correção e WER antes e depois da revisão; o fluxo pode priorizar a revisão de trechos de baixa confiança, usando escores de confiança do modelo."
+]
+},
+{
+"id": "Q-FIA-0118",
+"g": "E",
+"e": "O fluxo deve revisar apenas os trechos de alta confiança do modelo, ignorando os de baixa confiança.",
+"velho": "Escores de confiança.",
+"aula": [
+"Medir ganho: tempo de revisão por hora de áudio, taxa de correção e WER antes e depois da revisão; o fluxo pode priorizar a revisão de trechos de baixa confiança, usando escores de confiança do modelo."
+]
+},
+{
+"id": "Q-FIA-0119",
+"g": "C",
+"e": "As correções humanas podem retroalimentar o vocabulário personalizado e a avaliação do modelo, e o ganho do fluxo pode ser medido, por exemplo, pelo tempo de revisão por hora de áudio.",
+"velho": "Retroalimentação.",
+"aula": [
+"Pode haver aprendizado contínuo: as correções humanas retroalimentam o vocabulário personalizado e as avaliações do modelo.",
+"Medir ganho: tempo de revisão por hora de áudio, taxa de correção e WER antes e depois da revisão; o fluxo pode priorizar a revisão de trechos de baixa confiança, usando escores de confiança do modelo."
+]
+},
+{
+"id": "Q-FIA-0120",
+"g": "E",
+"e": "As correções humanas não podem ser reaproveitadas, e o ganho do fluxo não é mensurável. Tal conclusão decorreria, segundo esse entendimento, das características da tecnologia descrita.",
+"velho": "Retroalimentação.",
+"aula": [
+"Pode haver aprendizado contínuo: as correções humanas retroalimentam o vocabulário personalizado e as avaliações do modelo.",
+"Medir ganho: tempo de revisão por hora de áudio, taxa de correção e WER antes e depois da revisão; o fluxo pode priorizar a revisão de trechos de baixa confiança, usando escores de confiança do modelo."
+]
+},
+{
+"id": "Q-FIA-0121",
+"g": "C",
+"e": "A transcrição verbatim registra tudo o que foi dito, inclusive hesitações e repetições, ao passo que a transcrição limpa elimina marcas de oralidade irrelevantes sem alterar o sentido.",
+"velho": "Verbatim x limpa.",
+"aula": [
+"Transcrição verbatim (literal) registra tudo o que foi dito, inclusive hesitações, repetições, interjeições, falsos começos e marcas de oralidade. Transcrição limpa (clean verbatim, ou editada) elimina marcas de oralidade irrelevantes e corrige desvios gramaticais, sem alterar o sentido.",
+"Fidelidade é o respeito ao conteúdo e ao sentido do que foi dito; não significa registrar tudo literalmente."
+]
+},
+{
+"id": "Q-FIA-0122",
+"g": "E",
+"e": "A transcrição verbatim elimina hesitações e repetições, ao passo que a transcrição limpa registra tudo o que foi dito, inclusive falsos começos. Isso é consenso na área.",
+"velho": "Verbatim x limpa.",
+"aula": [
+"Transcrição verbatim (literal) registra tudo o que foi dito, inclusive hesitações, repetições, interjeições, falsos começos e marcas de oralidade. Transcrição limpa (clean verbatim, ou editada) elimina marcas de oralidade irrelevantes e corrige desvios gramaticais, sem alterar o sentido.",
+"Fidelidade é o respeito ao conteúdo e ao sentido do que foi dito; não significa registrar tudo literalmente."
+]
+},
+{
+"id": "Q-FIA-0123",
+"g": "C",
+"e": "Fidelidade, na degravação, significa respeito ao conteúdo e ao sentido do que foi dito, e não necessariamente o registro literal de todas as marcas de oralidade.",
+"velho": "Fidelidade.",
+"aula": [
+"Transcrição verbatim (literal) registra tudo o que foi dito, inclusive hesitações, repetições, interjeições, falsos começos e marcas de oralidade. Transcrição limpa (clean verbatim, ou editada) elimina marcas de oralidade irrelevantes e corrige desvios gramaticais, sem alterar o sentido.",
+"Fidelidade é o respeito ao conteúdo e ao sentido do que foi dito; não significa registrar tudo literalmente."
+]
+},
+{
+"id": "Q-FIA-0124",
+"g": "E",
+"e": "Fidelidade, na degravação, significa registro literal de todas as marcas de oralidade, vedada qualquer edição. Trata-se de prática corrente.",
+"velho": "Fidelidade.",
+"aula": [
+"Transcrição verbatim (literal) registra tudo o que foi dito, inclusive hesitações, repetições, interjeições, falsos começos e marcas de oralidade. Transcrição limpa (clean verbatim, ou editada) elimina marcas de oralidade irrelevantes e corrige desvios gramaticais, sem alterar o sentido.",
+"Fidelidade é o respeito ao conteúdo e ao sentido do que foi dito; não significa registrar tudo literalmente."
+]
+},
+{
+"id": "Q-FIA-0125",
+"g": "C",
+"e": "Ao adequar a fala à norma culta, o profissional não pode alterar o sentido, omitir ou acrescentar ideias, nem corrigir erros de fato ou de conteúdo do orador.",
+"velho": "Limites da edição.",
+"aula": [
+"Transcrição verbatim (literal) registra tudo o que foi dito, inclusive hesitações, repetições, interjeições, falsos começos e marcas de oralidade. Transcrição limpa (clean verbatim, ou editada) elimina marcas de oralidade irrelevantes e corrige desvios gramaticais, sem alterar o sentido.",
+"Em registros parlamentares é comum adotar a fidelidade ao conteúdo, com adequação à norma culta e supressão de vícios de linguagem, mas sem alterar o sentido, sem omitir ou acrescentar ideias e sem corrigir o conteúdo (erros de fato ou de informação) do orador."
+]
+},
+{
+"id": "Q-FIA-0126",
+"g": "E",
+"e": "Ao adequar a fala à norma culta, o profissional pode corrigir erros de fato do orador, como datas e números, mesmo que isso altere o que foi dito.",
+"velho": "Limites da edição.",
+"aula": [
+"Em registros parlamentares é comum adotar a fidelidade ao conteúdo, com adequação à norma culta e supressão de vícios de linguagem, mas sem alterar o sentido, sem omitir ou acrescentar ideias e sem corrigir o conteúdo (erros de fato ou de informação) do orador.",
+"Editar para melhorar o texto nunca autoriza alterar o significado; em caso de dúvida sobre o que foi dito, o profissional deve consultar o áudio ou sinalizar o trecho (por exemplo, com marcação de trecho inaudível)."
+]
+},
+{
+"id": "Q-FIA-0127",
+"g": "C",
+"e": "Diante de um trecho de difícil compreensão no áudio, o profissional deve consultar a gravação ou sinalizar o trecho, em vez de completá-lo por conjectura.",
+"velho": "Trecho duvidoso.",
+"aula": [
+"Editar para melhorar o texto nunca autoriza alterar o significado; em caso de dúvida sobre o que foi dito, o profissional deve consultar o áudio ou sinalizar o trecho (por exemplo, com marcação de trecho inaudível)."
+]
+},
+{
+"id": "Q-FIA-0128",
+"g": "E",
+"e": "Diante de um trecho de difícil compreensão no áudio, o profissional deve completá-lo por conjectura, com a palavra mais provável, sem sinalização.",
+"velho": "Trecho duvidoso.",
+"aula": [
+"Editar para melhorar o texto nunca autoriza alterar o significado; em caso de dúvida sobre o que foi dito, o profissional deve consultar o áudio ou sinalizar o trecho (por exemplo, com marcação de trecho inaudível)."
+]
+},
+{
+"id": "Q-FIA-0129",
+"g": "C",
+"e": "O padrão de transcrição, verbatim ou limpa, deve ser definido em manual de estilo, e mudar de padrão entre documentos compromete a consistência.",
+"velho": "Manual de estilo.",
+"aula": [
+"Transcrição verbatim (literal) registra tudo o que foi dito, inclusive hesitações, repetições, interjeições, falsos começos e marcas de oralidade. Transcrição limpa (clean verbatim, ou editada) elimina marcas de oralidade irrelevantes e corrige desvios gramaticais, sem alterar o sentido.",
+"A escolha do padrão deve ser definida em manual de estilo do órgão; mudar o padrão entre documentos compromete a consistência."
+]
+},
+{
+"id": "Q-FIA-0130",
+"g": "E",
+"e": "O padrão de transcrição é livre a cada profissional, e mudar de padrão entre documentos não compromete a consistência. Isso é consenso na área.",
+"velho": "Manual de estilo.",
+"aula": [
+"A escolha do padrão deve ser definida em manual de estilo do órgão; mudar o padrão entre documentos compromete a consistência."
+]
+},
+{
+"id": "Q-FIA-0131",
+"g": "C",
+"e": "Nos registros parlamentares costuma-se adotar fidelidade ao conteúdo com supressão de vícios de linguagem, o que difere da transcrição literal de todas as marcas de oralidade.",
+"velho": "Padrão parlamentar.",
+"aula": [
+"Transcrição verbatim (literal) registra tudo o que foi dito, inclusive hesitações, repetições, interjeições, falsos começos e marcas de oralidade. Transcrição limpa (clean verbatim, ou editada) elimina marcas de oralidade irrelevantes e corrige desvios gramaticais, sem alterar o sentido.",
+"Em registros parlamentares é comum adotar a fidelidade ao conteúdo, com adequação à norma culta e supressão de vícios de linguagem, mas sem alterar o sentido, sem omitir ou acrescentar ideias e sem corrigir o conteúdo (erros de fato ou de informação) do orador."
+]
+},
+{
+"id": "Q-FIA-0132",
+"g": "E",
+"e": "Nos registros parlamentares é obrigatório adotar a transcrição literal de todos os vícios de linguagem, sendo vedada a adequação à norma culta. Trata-se de prática corrente.",
+"velho": "Padrão parlamentar.",
+"aula": [
+"Transcrição verbatim (literal) registra tudo o que foi dito, inclusive hesitações, repetições, interjeições, falsos começos e marcas de oralidade. Transcrição limpa (clean verbatim, ou editada) elimina marcas de oralidade irrelevantes e corrige desvios gramaticais, sem alterar o sentido.",
+"Em registros parlamentares é comum adotar a fidelidade ao conteúdo, com adequação à norma culta e supressão de vícios de linguagem, mas sem alterar o sentido, sem omitir ou acrescentar ideias e sem corrigir o conteúdo (erros de fato ou de informação) do orador."
+]
+},
+{
+"id": "Q-FIA-0133",
+"g": "C",
+"e": "Na transcrição de sessão parlamentar, o orador é identificado, a ordem cronológica das falas é preservada e eventos que não são fala, como aplausos e risos, são registrados por marcações.",
+"velho": "Elementos da transcrição.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+"Marcações usuais são feitas entre parênteses ou colchetes, em itálico ou em texto distinto do da fala, como (Palmas.), (Risos.), (Pausa.), (Intervenção fora do microfone.), (Inaudível.)."
+]
+},
+{
+"id": "Q-FIA-0134",
+"g": "E",
+"e": "Na transcrição de sessão parlamentar, o orador não é identificado, a ordem das falas é livre e eventos que não são fala são omitidos. Isso é consenso na área.",
+"velho": "Elementos da transcrição.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+"Princípios: separar claramente fala e anotação do transcritor; não atribuir fala a quem não falou; não completar com conjecturas o que é inaudível; manter a ordem cronológica; padronizar tratamento de autoridades e pronomes de tratamento conforme o manual; preservar a cronologia e as referências às proposições e artigos citados."
+]
+},
+{
+"id": "Q-FIA-0135",
+"g": "C",
+"e": "As marcações de eventos, como palmas, risos, pausas e trechos inaudíveis, devem ser claramente separadas da fala, conforme o manual de estilo.",
+"velho": "Marcações.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+"Marcações usuais são feitas entre parênteses ou colchetes, em itálico ou em texto distinto do da fala, como (Palmas.), (Risos.), (Pausa.), (Intervenção fora do microfone.), (Inaudível.)."
+]
+},
+{
+"id": "Q-FIA-0136",
+"g": "E",
+"e": "As marcações de eventos devem ser incorporadas ao texto da fala, sem distinção, para dar naturalidade ao registro. Trata-se de prática corrente.",
+"velho": "Marcações.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+"Marcações usuais são feitas entre parênteses ou colchetes, em itálico ou em texto distinto do da fala, como (Palmas.), (Risos.), (Pausa.), (Intervenção fora do microfone.), (Inaudível.)."
+]
+},
+{
+"id": "Q-FIA-0137",
+"g": "C",
+"e": "O transcritor não deve atribuir fala a quem não falou, nem completar com conjecturas o que é inaudível.",
+"velho": "Princípios.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+"Princípios: separar claramente fala e anotação do transcritor; não atribuir fala a quem não falou; não completar com conjecturas o que é inaudível; manter a ordem cronológica; padronizar tratamento de autoridades e pronomes de tratamento conforme o manual; preservar a cronologia e as referências às proposições e artigos citados."
+]
+},
+{
+"id": "Q-FIA-0138",
+"g": "E",
+"e": "O transcritor pode atribuir fala ao orador mais provável e completar por conjectura o que é inaudível.",
+"velho": "Princípios.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+"Princípios: separar claramente fala e anotação do transcritor; não atribuir fala a quem não falou; não completar com conjecturas o que é inaudível; manter a ordem cronológica; padronizar tratamento de autoridades e pronomes de tratamento conforme o manual; preservar a cronologia e as referências às proposições e artigos citados."
+]
+},
+{
+"id": "Q-FIA-0139",
+"g": "C",
+"e": "Em um aparte, devem ser identificados tanto o orador que o recebe quanto aquele que apartea, preservando-se a ordem cronológica das falas.",
+"velho": "Apartes.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+"Apartes são registrados com identificação de quem apartea e de quem concede o aparte."
+]
+},
+{
+"id": "Q-FIA-0140",
+"g": "E",
+"e": "Em um aparte, basta registrar a fala do aparteante dentro do discurso do orador, sem identificação de quem apartea. Trata-se de prática corrente.",
+"velho": "Apartes.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+"Apartes são registrados com identificação de quem apartea e de quem concede o aparte."
+]
+},
+{
+"id": "Q-FIA-0141",
+"g": "C",
+"e": "A grafia dos nomes próprios dos parlamentares deve ser conferida em lista oficial, assim como o padrão de numeração de proposições e de citação de artigos.",
+"velho": "Conferência de nomes.",
+"aula": [
+"Princípios: separar claramente fala e anotação do transcritor; não atribuir fala a quem não falou; não completar com conjecturas o que é inaudível; manter a ordem cronológica; padronizar tratamento de autoridades e pronomes de tratamento conforme o manual; preservar a cronologia e as referências às proposições e artigos citados."
+]
+},
+{
+"id": "Q-FIA-0142",
+"g": "E",
+"e": "A grafia dos nomes próprios dos parlamentares deve ser mantida como o ASR a gerou, sem conferência em lista oficial. Isso é consenso na área.",
+"velho": "Conferência de nomes.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário."
+]
+},
+{
+"id": "Q-FIA-0143",
+"g": "C",
+"e": "O padrão exato de marcações e de identificação de oradores é definido pelo manual de estilo do órgão.",
+"velho": "Manual do órgão.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+"O padrão exato é definido pelo manual de estilo do órgão."
+]
+}
+]

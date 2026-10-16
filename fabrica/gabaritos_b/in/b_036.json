@@ -1,0 +1,702 @@
+[
+{
+"id": "Q-LP-0448",
+"g": "E",
+"e": "Em 'Encontrei-os no plenário', o pronome 'os' funciona como objeto indireto.",
+"velho": "O/os = direto.",
+"aula": [
+"Após preposição, oblíquo tônico: 'entre mim e ele', 'para mim' (sem verbo). Sujeito de infinitivo é reto: 'para eu ler'. Lhe = objeto indireto; o/a/os/as = objeto direto.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0449",
+"g": "C",
+"e": "Pronomes de tratamento levam o verbo e os possessivos na terceira pessoa: 'Vossa Excelência trouxe seus documentos'.",
+"velho": "Tratamento: 3ª pessoa.",
+"aula": [
+"Pronomes de tratamento: verbo e possessivos na 3ª pessoa ('Vossa Excelência trouxe seus documentos'). 'Vossa' fala-se COM o interlocutor; 'Sua', fala-se DELE.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0450",
+"g": "E",
+"e": "Pronomes de tratamento levam os possessivos na segunda pessoa: 'Vossa Excelência trouxe vossos documentos'. Isso é consenso.",
+"velho": "Tratamento: 3ª pessoa.",
+"aula": [
+"Pronomes de tratamento: verbo e possessivos na 3ª pessoa ('Vossa Excelência trouxe seus documentos'). 'Vossa' fala-se COM o interlocutor; 'Sua', fala-se DELE.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0451",
+"g": "C",
+"e": "'Vossa Excelência' é usada para falar com o interlocutor, e 'Sua Excelência', para falar dele.",
+"velho": "Vossa = com; Sua = sobre.",
+"aula": [
+"Pronomes de tratamento: verbo e possessivos na 3ª pessoa ('Vossa Excelência trouxe seus documentos'). 'Vossa' fala-se COM o interlocutor; 'Sua', fala-se DELE.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0452",
+"g": "E",
+"e": "'Sua Excelência' é usada para falar com o interlocutor, e 'Vossa Excelência', para falar dele.",
+"velho": "Vossa = com; Sua = sobre.",
+"aula": [
+"Pronomes de tratamento: verbo e possessivos na 3ª pessoa ('Vossa Excelência trouxe seus documentos'). 'Vossa' fala-se COM o interlocutor; 'Sua', fala-se DELE.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0453",
+"g": "C",
+"e": "A próclise é obrigatória em 'Não se esqueça do prazo', por haver palavra negativa antes do verbo.",
+"velho": "Negação atrai o pronome.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Não se coloca o pronome átono depois de particípio ('Tinha-me avisado', e não 'tinha avisado-me') nem depois de verbo no futuro ('Darei-lhe' é inadequado)."
+]
+},
+{
+"id": "Q-LP-0454",
+"g": "E",
+"e": "A ênclise é obrigatória em 'Não esqueça-se do prazo', por haver palavra negativa antes do verbo.",
+"velho": "Negação atrai o pronome.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Não se coloca o pronome átono depois de particípio ('Tinha-me avisado', e não 'tinha avisado-me') nem depois de verbo no futuro ('Darei-lhe' é inadequado)."
+]
+},
+{
+"id": "Q-LP-0455",
+"g": "C",
+"e": "Na norma-padrão, o período não deve começar com pronome oblíquo átono: 'Disseram-me', e não 'Me disseram'.",
+"velho": "Não se inicia com átono.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Não se coloca o pronome átono depois de particípio ('Tinha-me avisado', e não 'tinha avisado-me') nem depois de verbo no futuro ('Darei-lhe' é inadequado)."
+]
+},
+{
+"id": "Q-LP-0456",
+"g": "E",
+"e": "Na norma-padrão, 'Me disseram' é a forma exigida para iniciar o período. Trata-se de prática corrente.",
+"velho": "Não se inicia com átono.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Pegadinha: ênclise após palavra atrativa; 'Me disseram' no início."
+]
+},
+{
+"id": "Q-LP-0457",
+"g": "C",
+"e": "Em 'O projeto que se discute', a próclise é motivada pelo pronome relativo 'que'.",
+"velho": "Relativo atrai o pronome.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Pegadinha: ênclise após palavra atrativa; 'Me disseram' no início."
+]
+},
+{
+"id": "Q-LP-0458",
+"g": "E",
+"e": "Em 'O projeto que se discute', a norma-padrão impõe a ênclise: 'que discute-se'.",
+"velho": "Relativo atrai o pronome.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Pegadinha: ênclise após palavra atrativa; 'Me disseram' no início."
+]
+},
+{
+"id": "Q-LP-0459",
+"g": "C",
+"e": "A forma 'Dar-lhe-ei o parecer' atende à norma-padrão.",
+"velho": "Futuro: mesóclise ou próclise.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Pegadinha: ênclise após palavra atrativa; 'Me disseram' no início."
+]
+},
+{
+"id": "Q-LP-0460",
+"g": "E",
+"e": "A forma 'Darei-lhe o parecer' atende à norma-padrão.",
+"velho": "Futuro: mesóclise ou próclise.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Não se coloca o pronome átono depois de particípio ('Tinha-me avisado', e não 'tinha avisado-me') nem depois de verbo no futuro ('Darei-lhe' é inadequado)."
+]
+},
+{
+"id": "Q-LP-0461",
+"g": "C",
+"e": "Em 'Em se tratando de prazo', a próclise é adequada, por haver gerúndio precedido de 'em'.",
+"velho": "Em + gerúndio: próclise.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Pegadinha: ênclise após palavra atrativa; 'Me disseram' no início."
+]
+},
+{
+"id": "Q-LP-0462",
+"g": "E",
+"e": "Em 'Em tratando-se de prazo', a forma atende à norma-padrão. Isso é consenso.",
+"velho": "Em + gerúndio: próclise.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Pegadinha: ênclise após palavra atrativa; 'Me disseram' no início."
+]
+},
+{
+"id": "Q-LP-0463",
+"g": "C",
+"e": "Em locução verbal com particípio, o pronome átono não se coloca depois do particípio: 'Tinha-me avisado'.",
+"velho": "Pronome nunca após particípio.",
+"aula": [
+"Não se coloca o pronome átono depois de particípio ('Tinha-me avisado', e não 'tinha avisado-me') nem depois de verbo no futuro ('Darei-lhe' é inadequado).",
+"Pegadinha: ênclise após palavra atrativa; 'Me disseram' no início."
+]
+},
+{
+"id": "Q-LP-0464",
+"g": "E",
+"e": "Em locução verbal com particípio, a forma 'Tinha avisado-me' atende à norma-padrão. Trata-se de prática corrente.",
+"velho": "Pronome nunca após particípio.",
+"aula": [
+"Não se coloca o pronome átono depois de particípio ('Tinha-me avisado', e não 'tinha avisado-me') nem depois de verbo no futuro ('Darei-lhe' é inadequado).",
+"Pegadinha: ênclise após palavra atrativa; 'Me disseram' no início."
+]
+},
+{
+"id": "Q-LP-0465",
+"g": "C",
+"e": "Em 'Ninguém o viu', a próclise é motivada pelo pronome indefinido 'ninguém'.",
+"velho": "Indefinido atrai.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Pegadinha: ênclise após palavra atrativa; 'Me disseram' no início."
+]
+},
+{
+"id": "Q-LP-0466",
+"g": "E",
+"e": "Em 'Ninguém o viu', a ênclise seria motivada pelo pronome indefinido 'ninguém'.",
+"velho": "Indefinido atrai.",
+"aula": [
+"Próclise (antes): negação, relativo, indefinido, advérbio, conjunção subordinativa, 'em + gerúndio' ('Em se tratando'). Ênclise (depois): verbo no início do período ('Disseram-me'). Mesóclise: futuro, em registro formal ('Dar-lhe-ei').",
+"Pegadinha: ênclise após palavra atrativa; 'Me disseram' no início."
+]
+},
+{
+"id": "Q-LP-0467",
+"g": "C",
+"e": "Em 'Ela estava meio cansada', 'meio' é advérbio e fica invariável.",
+"velho": "Meio (advérbio) não varia.",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0468",
+"g": "E",
+"e": "A frase 'Ela estava meia cansada' atende à norma-padrão. Trata-se de prática corrente.",
+"velho": "Meio (advérbio) não varia.",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0469",
+"g": "C",
+"e": "Em 'Os servidores estão bastante cansados', 'bastante' é advérbio e fica invariável.",
+"velho": "Bastante (advérbio) não varia.",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0470",
+"g": "E",
+"e": "A frase 'Os servidores estão bastantes cansados' atende à norma-padrão. Isso é consenso.",
+"velho": "Bastante (advérbio) não varia.",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0471",
+"g": "C",
+"e": "Em 'Ela mesma assinou', 'mesma' concorda com o termo a que se refere.",
+"velho": "Mesmo (reforço) concorda.",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0472",
+"g": "E",
+"e": "A frase 'Ela mesmo assinou' atende à norma-padrão. Trata-se de prática corrente.",
+"velho": "Mesmo (reforço) concorda.",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0473",
+"g": "C",
+"e": "'Aonde' indica movimento, como em 'Aonde vamos?'.",
+"velho": "Aonde = a onde (movimento).",
+"aula": [
+"Aonde = a onde (movimento); onde = lugar fixo. Por que (pergunta); porque (resposta); porquê (substantivo: 'o porquê'); por quê (final de frase). Mal ↔ bem; mau ↔ bom.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0474",
+"g": "E",
+"e": "'Aonde' indica lugar em que se está, como em 'Aonde ele mora?'.",
+"velho": "Aonde = a onde (movimento).",
+"aula": [
+"Aonde = a onde (movimento); onde = lugar fixo. Por que (pergunta); porque (resposta); porquê (substantivo: 'o porquê'); por quê (final de frase). Mal ↔ bem; mau ↔ bom.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0475",
+"g": "C",
+"e": "Em 'Por que o prazo foi prorrogado?', 'por que' é a grafia correta para a pergunta.",
+"velho": "Pergunta: por que.",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0476",
+"g": "E",
+"e": "Em 'Por que o prazo foi prorrogado?', a grafia correta seria 'porquê'. Trata-se de prática corrente.",
+"velho": "Pergunta: por que.",
+"aula": [
+"Aonde = a onde (movimento); onde = lugar fixo. Por que (pergunta); porque (resposta); porquê (substantivo: 'o porquê'); por quê (final de frase). Mal ↔ bem; mau ↔ bom.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0477",
+"g": "C",
+"e": "Em 'Não sei o porquê da decisão', 'porquê' é substantivo, antecedido de artigo.",
+"velho": "O porquê = o motivo.",
+"aula": [
+"Aonde = a onde (movimento); onde = lugar fixo. Por que (pergunta); porque (resposta); porquê (substantivo: 'o porquê'); por quê (final de frase). Mal ↔ bem; mau ↔ bom.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0478",
+"g": "E",
+"e": "Em 'Não sei o porquê da decisão', 'porquê' é conjunção. Isso é consenso.",
+"velho": "O porquê = o motivo.",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0479",
+"g": "C",
+"e": "A frase 'Ele agiu mal' atende à norma-padrão, pois 'mal' opõe-se a 'bem'.",
+"velho": "Mal (bem) × mau (bom).",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0480",
+"g": "E",
+"e": "A frase 'Ele agiu mau' atende à norma-padrão. Trata-se de prática corrente.",
+"velho": "Mal (bem) × mau (bom).",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0481",
+"g": "C",
+"e": "A palavra 'menos' é invariável: 'Havia menos pessoas'.",
+"velho": "Menos não varia.",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0482",
+"g": "E",
+"e": "A forma 'Havia menas pessoas' atende à norma-padrão.",
+"velho": "Menos não varia.",
+"aula": [
+"Advérbio é invariável: 'meio cansada', 'bastante cansados', 'menos pessoas' (nunca 'menas'). 'Mesmo' como reforço concorda: 'ela mesma'.",
+"Pegadinha: flexionar advérbio, trocar aonde/onde, porquê em pergunta."
+]
+},
+{
+"id": "Q-LP-0483",
+"g": "C",
+"e": "A frase 'Se ele vir o documento, assinará' atende à norma-padrão, pois 'vir' é futuro do subjuntivo de 'ver'.",
+"velho": "Ver: se vir.",
+"aula": [
+"Futuro do subjuntivo: ver → vir; vir → vier; propor → propuser; pôr → puser; ter → tiver. 'Se ele vir', 'quando vier', 'se puser'. Correlação: 'Se eu fosse… rejeitaria'.",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0484",
+"g": "E",
+"e": "A frase 'Se ele ver o documento, assinará' atende à norma-padrão. Trata-se de prática corrente.",
+"velho": "Ver: se vir.",
+"aula": [
+"Futuro do subjuntivo: ver → vir; vir → vier; propor → propuser; pôr → puser; ter → tiver. 'Se ele vir', 'quando vier', 'se puser'. Correlação: 'Se eu fosse… rejeitaria'.",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0485",
+"g": "C",
+"e": "Em 'Quando o relator vier, começaremos', 'vier' é futuro do subjuntivo de 'vir'.",
+"velho": "Vier = vir; vir = ver.",
+"aula": [
+"Futuro do subjuntivo: ver → vir; vir → vier; propor → propuser; pôr → puser; ter → tiver. 'Se ele vir', 'quando vier', 'se puser'. Correlação: 'Se eu fosse… rejeitaria'.",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0486",
+"g": "E",
+"e": "Em 'Quando o relator vier, começaremos', 'vier' é futuro do subjuntivo de 'ver'.",
+"velho": "Vier = vir; vir = ver.",
+"aula": [
+"Futuro do subjuntivo: ver → vir; vir → vier; propor → propuser; pôr → puser; ter → tiver. 'Se ele vir', 'quando vier', 'se puser'. Correlação: 'Se eu fosse… rejeitaria'.",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0487",
+"g": "C",
+"e": "A frase 'Se eu fosse relator, rejeitaria a emenda' atende à correlação de tempos e modos.",
+"velho": "Fosse → rejeitaria.",
+"aula": [
+"Futuro do subjuntivo: ver → vir; vir → vier; propor → propuser; pôr → puser; ter → tiver. 'Se ele vir', 'quando vier', 'se puser'. Correlação: 'Se eu fosse… rejeitaria'.",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0488",
+"g": "E",
+"e": "A frase 'Se eu fosse relator, rejeitarei a emenda' atende à correlação de tempos e modos.",
+"velho": "Fosse → rejeitaria.",
+"aula": [
+"Futuro do subjuntivo: ver → vir; vir → vier; propor → propuser; pôr → puser; ter → tiver. 'Se ele vir', 'quando vier', 'se puser'. Correlação: 'Se eu fosse… rejeitaria'.",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0489",
+"g": "C",
+"e": "A frase 'Se ele propuser a emenda, ela será votada' atende à norma-padrão.",
+"velho": "Propor: se propuser.",
+"aula": [
+"Futuro do subjuntivo: ver → vir; vir → vier; propor → propuser; pôr → puser; ter → tiver. 'Se ele vir', 'quando vier', 'se puser'. Correlação: 'Se eu fosse… rejeitaria'.",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0490",
+"g": "E",
+"e": "A frase 'Se ele propor a emenda, ela será votada' atende à norma-padrão.",
+"velho": "Propor: se propuser.",
+"aula": [
+"Futuro do subjuntivo: ver → vir; vir → vier; propor → propuser; pôr → puser; ter → tiver. 'Se ele vir', 'quando vier', 'se puser'. Correlação: 'Se eu fosse… rejeitaria'.",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0491",
+"g": "C",
+"e": "A frase 'Se eu puser o documento na pauta, ele será votado' atende à norma-padrão.",
+"velho": "Pôr: se puser.",
+"aula": [
+"Futuro do subjuntivo: ver → vir; vir → vier; propor → propuser; pôr → puser; ter → tiver. 'Se ele vir', 'quando vier', 'se puser'. Correlação: 'Se eu fosse… rejeitaria'.",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0492",
+"g": "E",
+"e": "A frase 'Se eu pôr o documento na pauta, ele será votado' atende à norma-padrão.",
+"velho": "Pôr: se puser.",
+"aula": [
+"Futuro do subjuntivo: ver → vir; vir → vier; propor → propuser; pôr → puser; ter → tiver. 'Se ele vir', 'quando vier', 'se puser'. Correlação: 'Se eu fosse… rejeitaria'.",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0493",
+"g": "C",
+"e": "Orações que exprimem desejo ou dúvida pedem o subjuntivo: 'Espero que ele aprove'.",
+"velho": "Desejo: subjuntivo.",
+"aula": [
+"Desejo e dúvida pedem subjuntivo ('Espero que aprove'). Em locução verbal, o infinitivo não varia ('devem entregar'). Imperativo de 'você' = subjuntivo ('Faça').",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0494",
+"g": "E",
+"e": "Orações que exprimem desejo pedem o indicativo: 'Espero que ele aprova'. Isso é consenso.",
+"velho": "Desejo: subjuntivo.",
+"aula": [
+"Desejo e dúvida pedem subjuntivo ('Espero que aprove'). Em locução verbal, o infinitivo não varia ('devem entregar'). Imperativo de 'você' = subjuntivo ('Faça').",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0495",
+"g": "C",
+"e": "Em locução verbal, o infinitivo permanece invariável: 'Os servidores devem entregar o relatório'.",
+"velho": "Locução: infinitivo invariável.",
+"aula": [
+"Desejo e dúvida pedem subjuntivo ('Espero que aprove'). Em locução verbal, o infinitivo não varia ('devem entregar'). Imperativo de 'você' = subjuntivo ('Faça').",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0496",
+"g": "E",
+"e": "Em locução verbal, o infinitivo deve ser flexionado: 'Os servidores devem entregarem o relatório'.",
+"velho": "Locução: infinitivo invariável.",
+"aula": [
+"Desejo e dúvida pedem subjuntivo ('Espero que aprove'). Em locução verbal, o infinitivo não varia ('devem entregar'). Imperativo de 'você' = subjuntivo ('Faça').",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0497",
+"g": "C",
+"e": "O imperativo afirmativo de 'você' emprega a forma do subjuntivo: 'Faça o relatório'.",
+"velho": "Você: forma do subjuntivo.",
+"aula": [
+"Desejo e dúvida pedem subjuntivo ('Espero que aprove'). Em locução verbal, o infinitivo não varia ('devem entregar'). Imperativo de 'você' = subjuntivo ('Faça').",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0498",
+"g": "E",
+"e": "O imperativo afirmativo de 'você' emprega a forma do indicativo: 'Faz o relatório'.",
+"velho": "Você: forma do subjuntivo.",
+"aula": [
+"Desejo e dúvida pedem subjuntivo ('Espero que aprove'). Em locução verbal, o infinitivo não varia ('devem entregar'). Imperativo de 'você' = subjuntivo ('Faça').",
+"Pegadinha: infinitivo no lugar do futuro do subjuntivo ('se ver', 'se propor') e confusão entre vir e ver."
+]
+},
+{
+"id": "Q-LP-0499",
+"g": "C",
+"e": "Em 'O comprimento da mesa é de três metros', 'comprimento' indica extensão.",
+"velho": "Comprimento = extensão.",
+"aula": [
+"Descriminar = tirar o caráter de crime; discriminar = distinguir/segregar. Emigrar = sair; imigrar = entrar. Comprimento = extensão; cumprimento = saudação/execução. Sessão = reunião; seção = divisão; cessão = ato de ceder.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0500",
+"g": "E",
+"e": "Em 'O cumprimento da mesa é de três metros', 'cumprimento' indica extensão.",
+"velho": "Comprimento = extensão.",
+"aula": [
+"Descriminar = tirar o caráter de crime; discriminar = distinguir/segregar. Emigrar = sair; imigrar = entrar. Comprimento = extensão; cumprimento = saudação/execução. Sessão = reunião; seção = divisão; cessão = ato de ceder.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0501",
+"g": "C",
+"e": "'Ratificar' significa confirmar, e 'retificar', corrigir.",
+"velho": "Ratificar = confirmar.",
+"aula": [
+"Ratificar = confirmar; retificar = corrigir. Infringir = violar; infligir = aplicar pena. Eminente = notável; iminente = prestes a ocorrer. Deferir = conceder; diferir = adiar. Mandado = ordem; mandato = exercício.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0502",
+"g": "E",
+"e": "'Ratificar' significa corrigir, e 'retificar', confirmar.",
+"velho": "Ratificar = confirmar.",
+"aula": [
+"Ratificar = confirmar; retificar = corrigir. Infringir = violar; infligir = aplicar pena. Eminente = notável; iminente = prestes a ocorrer. Deferir = conceder; diferir = adiar. Mandado = ordem; mandato = exercício.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0503",
+"g": "C",
+"e": "'Infringir' significa transgredir, como em 'infringir a lei'.",
+"velho": "Infringir = violar; infligir = aplicar.",
+"aula": [
+"Ratificar = confirmar; retificar = corrigir. Infringir = violar; infligir = aplicar pena. Eminente = notável; iminente = prestes a ocorrer. Deferir = conceder; diferir = adiar. Mandado = ordem; mandato = exercício.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0504",
+"g": "E",
+"e": "'Infringir' significa aplicar uma pena, como em 'infringir a pena'.",
+"velho": "Infringir = violar; infligir = aplicar.",
+"aula": [
+"Ratificar = confirmar; retificar = corrigir. Infringir = violar; infligir = aplicar pena. Eminente = notável; iminente = prestes a ocorrer. Deferir = conceder; diferir = adiar. Mandado = ordem; mandato = exercício.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0505",
+"g": "C",
+"e": "'Eminente' significa notável, e 'iminente', prestes a ocorrer.",
+"velho": "Eminente = notável.",
+"aula": [
+"Ratificar = confirmar; retificar = corrigir. Infringir = violar; infligir = aplicar pena. Eminente = notável; iminente = prestes a ocorrer. Deferir = conceder; diferir = adiar. Mandado = ordem; mandato = exercício.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0506",
+"g": "E",
+"e": "'Eminente' significa prestes a ocorrer, e 'iminente', notável.",
+"velho": "Eminente = notável.",
+"aula": [
+"Ratificar = confirmar; retificar = corrigir. Infringir = violar; infligir = aplicar pena. Eminente = notável; iminente = prestes a ocorrer. Deferir = conceder; diferir = adiar. Mandado = ordem; mandato = exercício.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0507",
+"g": "C",
+"e": "'Deferir' é conceder, e 'diferir', adiar ou distinguir-se.",
+"velho": "Deferir = conceder.",
+"aula": [
+"Ratificar = confirmar; retificar = corrigir. Infringir = violar; infligir = aplicar pena. Eminente = notável; iminente = prestes a ocorrer. Deferir = conceder; diferir = adiar. Mandado = ordem; mandato = exercício.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0508",
+"g": "E",
+"e": "'Deferir' é adiar, e 'diferir', conceder. Trata-se de prática corrente.",
+"velho": "Deferir = conceder.",
+"aula": [
+"Ratificar = confirmar; retificar = corrigir. Infringir = violar; infligir = aplicar pena. Eminente = notável; iminente = prestes a ocorrer. Deferir = conceder; diferir = adiar. Mandado = ordem; mandato = exercício.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0509",
+"g": "C",
+"e": "'Mandado' é ordem judicial, e 'mandato', período de exercício de função.",
+"velho": "Mandado = ordem.",
+"aula": [
+"Ratificar = confirmar; retificar = corrigir. Infringir = violar; infligir = aplicar pena. Eminente = notável; iminente = prestes a ocorrer. Deferir = conceder; diferir = adiar. Mandado = ordem; mandato = exercício.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0510",
+"g": "E",
+"e": "'Mandado' é período de exercício de função, e 'mandato', ordem judicial.",
+"velho": "Mandado = ordem.",
+"aula": [
+"Ratificar = confirmar; retificar = corrigir. Infringir = violar; infligir = aplicar pena. Eminente = notável; iminente = prestes a ocorrer. Deferir = conceder; diferir = adiar. Mandado = ordem; mandato = exercício.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0511",
+"g": "C",
+"e": "'Descriminar' é retirar o caráter de crime, e 'discriminar', distinguir ou segregar.",
+"velho": "Descriminar = legalizar.",
+"aula": [
+"Descriminar = tirar o caráter de crime; discriminar = distinguir/segregar. Emigrar = sair; imigrar = entrar. Comprimento = extensão; cumprimento = saudação/execução. Sessão = reunião; seção = divisão; cessão = ato de ceder.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0512",
+"g": "E",
+"e": "'Descriminar' é distinguir ou segregar, e 'discriminar', retirar o caráter de crime.",
+"velho": "Descriminar = legalizar.",
+"aula": [
+"Descriminar = tirar o caráter de crime; discriminar = distinguir/segregar. Emigrar = sair; imigrar = entrar. Comprimento = extensão; cumprimento = saudação/execução. Sessão = reunião; seção = divisão; cessão = ato de ceder.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0513",
+"g": "C",
+"e": "'Emigrar' é sair do país de origem, e 'imigrar', entrar em outro país para viver.",
+"velho": "Emigrar = sair.",
+"aula": [
+"Descriminar = tirar o caráter de crime; discriminar = distinguir/segregar. Emigrar = sair; imigrar = entrar. Comprimento = extensão; cumprimento = saudação/execução. Sessão = reunião; seção = divisão; cessão = ato de ceder.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0514",
+"g": "E",
+"e": "'Emigrar' é entrar em outro país para viver, e 'imigrar', sair do país de origem.",
+"velho": "Emigrar = sair.",
+"aula": [
+"Descriminar = tirar o caráter de crime; discriminar = distinguir/segregar. Emigrar = sair; imigrar = entrar. Comprimento = extensão; cumprimento = saudação/execução. Sessão = reunião; seção = divisão; cessão = ato de ceder.",
+"Pegadinha: o item troca os significados de um par."
+]
+},
+{
+"id": "Q-LP-0515",
+"g": "C",
+"e": "Em 'A sessão foi suspensa', o adjetivo 'suspensa' pode ser substituído por 'interrompida' sem mudança essencial de sentido.",
+"velho": "Suspensa ≠ encerrada.",
+"aula": [
+"A palavra muda de sentido pelo contexto: 'cargo vago' (desocupado) × 'ideia vaga' (imprecisa). Sinônimo só vale se preserva o sentido no contexto: suspensa = interrompida (≠ encerrada).",
+"Pegadinha: substituir por termo mais forte ou de sentido oposto."
+]
+},
+{
+"id": "Q-LP-0516",
+"g": "E",
+"e": "Em 'A sessão foi suspensa', o adjetivo 'suspensa' pode ser substituído por 'encerrada' sem mudança essencial de sentido.",
+"velho": "Suspensa ≠ encerrada.",
+"aula": [
+"A palavra muda de sentido pelo contexto: 'cargo vago' (desocupado) × 'ideia vaga' (imprecisa). Sinônimo só vale se preserva o sentido no contexto: suspensa = interrompida (≠ encerrada).",
+"Pegadinha: substituir por termo mais forte ou de sentido oposto."
+]
+},
+{
+"id": "Q-LP-0517",
+"g": "C",
+"e": "A palavra 'vago' é polissêmica: em 'cargo vago' significa desocupado; em 'ideia vaga', impreciso.",
+"velho": "Polissemia: contexto define.",
+"aula": [
+"A palavra muda de sentido pelo contexto: 'cargo vago' (desocupado) × 'ideia vaga' (imprecisa). Sinônimo só vale se preserva o sentido no contexto: suspensa = interrompida (≠ encerrada).",
+"Pegadinha: substituir por termo mais forte ou de sentido oposto."
+]
+}
+]

@@ -1,0 +1,702 @@
+[
+{
+"id": "Q-LP-0378",
+"g": "E",
+"e": "“O programa é mais eficiente que o anterior, porém mais caro.” — O texto afirma que o programa é mais barato que o anterior.",
+"velho": "'Porém mais caro'.",
+"aula": [
+"Em comparações, confira o sentido: 'mais eficiente, porém mais caro' ≠ 'mais barato'. Em ordem temporal, 'antes de' ≠ 'após'.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0379",
+"g": "C",
+"e": "“O estudo sugere que a medida reduz acidentes.” — O texto apresenta a redução de acidentes como indício, não como fato comprovado.",
+"velho": "'Sugere' = indício.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0380",
+"g": "E",
+"e": "“O estudo sugere que a medida reduz acidentes.” — O texto apresenta a redução de acidentes como fato comprovado. Isso é consenso.",
+"velho": "'Sugere' = indício.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0381",
+"g": "C",
+"e": "“O deputado votou contra o projeto, mas defendeu a necessidade de debatê-lo.” — O deputado rejeitou o projeto sem negar a importância do debate.",
+"velho": "'Mas' preserva o debate.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0382",
+"g": "E",
+"e": "“O deputado votou contra o projeto, mas defendeu a necessidade de debatê-lo.” — O deputado rejeitou o projeto e também a realização do debate.",
+"velho": "'Mas' preserva o debate.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0383",
+"g": "C",
+"e": "“A empresa foi multada por atraso na entrega, não por má qualidade.” — O texto exclui a má qualidade como motivo da multa.",
+"velho": "'Não por' exclui.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0384",
+"g": "E",
+"e": "“A empresa foi multada por atraso na entrega, não por má qualidade.” — O texto aponta a má qualidade como motivo da multa.",
+"velho": "'Não por' exclui.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0385",
+"g": "C",
+"e": "“Houve queda de 10% nas denúncias, o que não significa menos irregularidades.” — O texto faz ressalva à interpretação da queda nas denúncias.",
+"velho": "'Não significa' ressalva.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0386",
+"g": "E",
+"e": "“Houve queda de 10% nas denúncias, o que não significa menos irregularidades.” — O texto interpreta a queda nas denúncias como prova de menos irregularidades.",
+"velho": "'Não significa' ressalva.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0387",
+"g": "C",
+"e": "“Antes de aprovar a lei, o Congresso ouviu especialistas.” — A oitiva dos especialistas antecedeu a aprovação da lei.",
+"velho": "Antes de = anterioridade.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0388",
+"g": "E",
+"e": "“Antes de aprovar a lei, o Congresso ouviu especialistas.” — A oitiva dos especialistas ocorreu após a aprovação da lei.",
+"velho": "Antes de = anterioridade.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0389",
+"g": "C",
+"e": "Em 'Assistimos ao julgamento', o verbo 'assistir', no sentido de ver, exige a preposição 'a'.",
+"velho": "Assistir (ver) pede 'a'.",
+"aula": [
+"Assistir (ver) e aspirar (almejar) pedem 'a': 'Assistimos ao julgamento'; 'aspira a um cargo'. Preferir X a Y (sem 'mais… do que'). Obedecer/desobedecer: 'a'. Implicar (acarretar) é direto: 'implica custos', sem 'em'.",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0390",
+"g": "E",
+"e": "Em 'Assistimos o julgamento', o verbo 'assistir', no sentido de ver, é transitivo direto e atende à norma-padrão.",
+"velho": "Assistir (ver) pede 'a'.",
+"aula": [
+"Assistir (ver) e aspirar (almejar) pedem 'a': 'Assistimos ao julgamento'; 'aspira a um cargo'. Preferir X a Y (sem 'mais… do que'). Obedecer/desobedecer: 'a'. Implicar (acarretar) é direto: 'implica custos', sem 'em'.",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0391",
+"g": "C",
+"e": "Em 'O servidor aspira a um cargo melhor', 'aspirar', no sentido de almejar, é transitivo indireto.",
+"velho": "Aspirar (almejar) pede 'a'.",
+"aula": [
+"Assistir (ver) e aspirar (almejar) pedem 'a': 'Assistimos ao julgamento'; 'aspira a um cargo'. Preferir X a Y (sem 'mais… do que'). Obedecer/desobedecer: 'a'. Implicar (acarretar) é direto: 'implica custos', sem 'em'.",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0392",
+"g": "E",
+"e": "Em 'O servidor aspira um cargo melhor', 'aspirar', no sentido de almejar, é transitivo direto e atende à norma-padrão.",
+"velho": "Aspirar (almejar) pede 'a'.",
+"aula": [
+"Assistir (ver) e aspirar (almejar) pedem 'a': 'Assistimos ao julgamento'; 'aspira a um cargo'. Preferir X a Y (sem 'mais… do que'). Obedecer/desobedecer: 'a'. Implicar (acarretar) é direto: 'implica custos', sem 'em'.",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0393",
+"g": "C",
+"e": "Em 'Prefiro café a chá', a regência do verbo 'preferir' atende à norma-padrão.",
+"velho": "Preferir X a Y.",
+"aula": [
+"Assistir (ver) e aspirar (almejar) pedem 'a': 'Assistimos ao julgamento'; 'aspira a um cargo'. Preferir X a Y (sem 'mais… do que'). Obedecer/desobedecer: 'a'. Implicar (acarretar) é direto: 'implica custos', sem 'em'.",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0394",
+"g": "E",
+"e": "Em 'Prefiro mais café do que chá', a regência do verbo 'preferir' atende à norma-padrão.",
+"velho": "Preferir X a Y.",
+"aula": [
+"Assistir (ver) e aspirar (almejar) pedem 'a': 'Assistimos ao julgamento'; 'aspira a um cargo'. Preferir X a Y (sem 'mais… do que'). Obedecer/desobedecer: 'a'. Implicar (acarretar) é direto: 'implica custos', sem 'em'.",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0395",
+"g": "C",
+"e": "O verbo 'desobedecer' é transitivo indireto, como em 'Desobedeceu ao regulamento'.",
+"velho": "Obedecer/desobedecer: 'a'.",
+"aula": [
+"Assistir (ver) e aspirar (almejar) pedem 'a': 'Assistimos ao julgamento'; 'aspira a um cargo'. Preferir X a Y (sem 'mais… do que'). Obedecer/desobedecer: 'a'. Implicar (acarretar) é direto: 'implica custos', sem 'em'.",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0396",
+"g": "E",
+"e": "O verbo 'desobedecer' é transitivo direto, como em 'Desobedeceu o regulamento', segundo a norma-padrão.",
+"velho": "Obedecer/desobedecer: 'a'.",
+"aula": [
+"Assistir (ver) e aspirar (almejar) pedem 'a': 'Assistimos ao julgamento'; 'aspira a um cargo'. Preferir X a Y (sem 'mais… do que'). Obedecer/desobedecer: 'a'. Implicar (acarretar) é direto: 'implica custos', sem 'em'.",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0397",
+"g": "C",
+"e": "O verbo 'informar' admite as construções 'informar algo a alguém' e 'informar alguém de algo'.",
+"velho": "Informar: dupla regência.",
+"aula": [
+"Informar admite 'algo a alguém' e 'alguém de algo'. Esquecer: 'Esqueci o prazo' ou 'Esqueci-me do prazo' (nunca 'esqueci-me o prazo').",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0398",
+"g": "E",
+"e": "O verbo 'informar' não admite a construção 'informar alguém de algo'. Isso é consenso.",
+"velho": "Informar: dupla regência.",
+"aula": [
+"Informar admite 'algo a alguém' e 'alguém de algo'. Esquecer: 'Esqueci o prazo' ou 'Esqueci-me do prazo' (nunca 'esqueci-me o prazo').",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0399",
+"g": "C",
+"e": "No sentido de acarretar, o verbo 'implicar' é transitivo direto: 'A medida implica custos'.",
+"velho": "Implicar (acarretar): direto.",
+"aula": [
+"Assistir (ver) e aspirar (almejar) pedem 'a': 'Assistimos ao julgamento'; 'aspira a um cargo'. Preferir X a Y (sem 'mais… do que'). Obedecer/desobedecer: 'a'. Implicar (acarretar) é direto: 'implica custos', sem 'em'.",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0400",
+"g": "E",
+"e": "No sentido de acarretar, o verbo 'implicar' é transitivo indireto: 'A medida implica em custos'.",
+"velho": "Implicar (acarretar): direto.",
+"aula": [
+"Assistir (ver) e aspirar (almejar) pedem 'a': 'Assistimos ao julgamento'; 'aspira a um cargo'. Preferir X a Y (sem 'mais… do que'). Obedecer/desobedecer: 'a'. Implicar (acarretar) é direto: 'implica custos', sem 'em'.",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0401",
+"g": "C",
+"e": "As construções 'Esqueci o prazo' e 'Esqueci-me do prazo' atendem à norma-padrão.",
+"velho": "Esquecer: sem 'se' direto; com 'se', 'de'.",
+"aula": [
+"Informar admite 'algo a alguém' e 'alguém de algo'. Esquecer: 'Esqueci o prazo' ou 'Esqueci-me do prazo' (nunca 'esqueci-me o prazo').",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0402",
+"g": "E",
+"e": "A construção 'Esqueci-me o prazo' atende à norma-padrão. Isso é consenso.",
+"velho": "Esquecer: sem 'se' direto; com 'se', 'de'.",
+"aula": [
+"Informar admite 'algo a alguém' e 'alguém de algo'. Esquecer: 'Esqueci o prazo' ou 'Esqueci-me do prazo' (nunca 'esqueci-me o prazo').",
+"Pegadinha: tirar a preposição exigida ou pôr preposição onde o verbo é direto."
+]
+},
+{
+"id": "Q-LP-0403",
+"g": "C",
+"e": "O adjetivo 'acessível' rege a preposição 'a', como em 'procedimento acessível aos cidadãos'.",
+"velho": "Acessível a.",
+"aula": [
+"Acessível a; aversão a/por; compatível com; preferível a (não 'do que'). Nomes e adjetivos pedem a preposição do seu complemento.",
+"Pegadinha: omitir a preposição antes do relativo ou trocar a preposição do nome."
+]
+},
+{
+"id": "Q-LP-0404",
+"g": "E",
+"e": "O adjetivo 'acessível' rege a preposição 'de', como em 'procedimento acessível dos cidadãos'.",
+"velho": "Acessível a.",
+"aula": [
+"Acessível a; aversão a/por; compatível com; preferível a (não 'do que'). Nomes e adjetivos pedem a preposição do seu complemento.",
+"Pegadinha: omitir a preposição antes do relativo ou trocar a preposição do nome."
+]
+},
+{
+"id": "Q-LP-0405",
+"g": "C",
+"e": "O substantivo 'aversão' rege 'a' ou 'por', como em 'aversão a regras'.",
+"velho": "Aversão a/por.",
+"aula": [
+"Acessível a; aversão a/por; compatível com; preferível a (não 'do que'). Nomes e adjetivos pedem a preposição do seu complemento.",
+"Pegadinha: omitir a preposição antes do relativo ou trocar a preposição do nome."
+]
+},
+{
+"id": "Q-LP-0406",
+"g": "E",
+"e": "O substantivo 'aversão' rege 'de', como em 'aversão de regras'.",
+"velho": "Aversão a/por.",
+"aula": [
+"Acessível a; aversão a/por; compatível com; preferível a (não 'do que'). Nomes e adjetivos pedem a preposição do seu complemento.",
+"Pegadinha: omitir a preposição antes do relativo ou trocar a preposição do nome."
+]
+},
+{
+"id": "Q-LP-0407",
+"g": "C",
+"e": "A construção 'a lei a que o relator se referiu' atende à regência de 'referir-se'.",
+"velho": "Relativo leva a preposição do verbo.",
+"aula": [
+"Com pronome relativo, a preposição do verbo vem antes dele: 'a lei a que o relator se referiu' (referir-se a).",
+"Pegadinha: omitir a preposição antes do relativo ou trocar a preposição do nome."
+]
+},
+{
+"id": "Q-LP-0408",
+"g": "E",
+"e": "A construção 'a lei que o relator se referiu' atende à regência de 'referir-se'.",
+"velho": "Relativo leva a preposição do verbo.",
+"aula": [
+"Com pronome relativo, a preposição do verbo vem antes dele: 'a lei a que o relator se referiu' (referir-se a).",
+"Pegadinha: omitir a preposição antes do relativo ou trocar a preposição do nome."
+]
+},
+{
+"id": "Q-LP-0409",
+"g": "C",
+"e": "O adjetivo 'compatível' rege 'com': 'pena compatível com a infração'.",
+"velho": "Compatível com.",
+"aula": [
+"Acessível a; aversão a/por; compatível com; preferível a (não 'do que'). Nomes e adjetivos pedem a preposição do seu complemento.",
+"Pegadinha: omitir a preposição antes do relativo ou trocar a preposição do nome."
+]
+},
+{
+"id": "Q-LP-0410",
+"g": "E",
+"e": "O adjetivo 'compatível' rege 'de': 'pena compatível da infração'.",
+"velho": "Compatível com.",
+"aula": [
+"Acessível a; aversão a/por; compatível com; preferível a (não 'do que'). Nomes e adjetivos pedem a preposição do seu complemento.",
+"Pegadinha: omitir a preposição antes do relativo ou trocar a preposição do nome."
+]
+},
+{
+"id": "Q-LP-0411",
+"g": "C",
+"e": "A construção 'medida preferível a outra' atende à regência de 'preferível'.",
+"velho": "Preferível a.",
+"aula": [
+"Acessível a; aversão a/por; compatível com; preferível a (não 'do que'). Nomes e adjetivos pedem a preposição do seu complemento.",
+"Pegadinha: omitir a preposição antes do relativo ou trocar a preposição do nome."
+]
+},
+{
+"id": "Q-LP-0412",
+"g": "E",
+"e": "A construção 'medida preferível do que outra' atende à regência de 'preferível'.",
+"velho": "Preferível a.",
+"aula": [
+"Acessível a; aversão a/por; compatível com; preferível a (não 'do que'). Nomes e adjetivos pedem a preposição do seu complemento.",
+"Pegadinha: omitir a preposição antes do relativo ou trocar a preposição do nome."
+]
+},
+{
+"id": "Q-LP-0413",
+"g": "C",
+"e": "Em 'Fui à Câmara dos Deputados', o emprego da crase é adequado.",
+"velho": "Ir a + a Câmara = à.",
+"aula": [
+"Crase = preposição 'a' + artigo 'a' (ou 'aquele/aquela/aquilo'): 'Fui à Câmara'; 'Refiro-me àquela decisão'. Teste: troque por masculino ('Fui ao Senado').",
+"Pegadinha: crase onde não há artigo (verbo, pronome pessoal, masculino)."
+]
+},
+{
+"id": "Q-LP-0414",
+"g": "E",
+"e": "Em 'Fui à Câmara dos Deputados', o emprego da crase é indevido.",
+"velho": "Ir a + a Câmara = à.",
+"aula": [
+"Crase = preposição 'a' + artigo 'a' (ou 'aquele/aquela/aquilo'): 'Fui à Câmara'; 'Refiro-me àquela decisão'. Teste: troque por masculino ('Fui ao Senado').",
+"Pegadinha: crase onde não há artigo (verbo, pronome pessoal, masculino)."
+]
+},
+{
+"id": "Q-LP-0415",
+"g": "C",
+"e": "Não ocorre crase diante de verbo, como em 'Começou a votar'.",
+"velho": "Verbo não tem artigo.",
+"aula": [
+"Não há crase diante de: verbo, palavra masculina, pronome pessoal, nome no plural sem artigo ('Referiu-se a reuniões'), cidade sem especificação ('Voltou a Brasília' × 'à Brasília dos anos 60').",
+"Pegadinha: crase onde não há artigo (verbo, pronome pessoal, masculino)."
+]
+},
+{
+"id": "Q-LP-0416",
+"g": "E",
+"e": "Ocorre crase diante de verbo, como em 'Começou à votar'.",
+"velho": "Verbo não tem artigo.",
+"aula": [
+"Não há crase diante de: verbo, palavra masculina, pronome pessoal, nome no plural sem artigo ('Referiu-se a reuniões'), cidade sem especificação ('Voltou a Brasília' × 'à Brasília dos anos 60').",
+"Pegadinha: crase onde não há artigo (verbo, pronome pessoal, masculino)."
+]
+},
+{
+"id": "Q-LP-0417",
+"g": "C",
+"e": "Em regra, não ocorre crase antes de palavra masculina, como em 'Andou a cavalo'.",
+"velho": "Masculino sem artigo feminino.",
+"aula": [
+"Crase = preposição 'a' + artigo 'a' (ou 'aquele/aquela/aquilo'): 'Fui à Câmara'; 'Refiro-me àquela decisão'. Teste: troque por masculino ('Fui ao Senado').",
+"Não há crase diante de: verbo, palavra masculina, pronome pessoal, nome no plural sem artigo ('Referiu-se a reuniões'), cidade sem especificação ('Voltou a Brasília' × 'à Brasília dos anos 60')."
+]
+},
+{
+"id": "Q-LP-0418",
+"g": "E",
+"e": "Em regra, ocorre crase antes de palavra masculina, como em 'Andou à cavalo'.",
+"velho": "Masculino sem artigo feminino.",
+"aula": [
+"Crase = preposição 'a' + artigo 'a' (ou 'aquele/aquela/aquilo'): 'Fui à Câmara'; 'Refiro-me àquela decisão'. Teste: troque por masculino ('Fui ao Senado').",
+"Não há crase diante de: verbo, palavra masculina, pronome pessoal, nome no plural sem artigo ('Referiu-se a reuniões'), cidade sem especificação ('Voltou a Brasília' × 'à Brasília dos anos 60')."
+]
+},
+{
+"id": "Q-LP-0419",
+"g": "C",
+"e": "Não ocorre crase diante de pronome pessoal, como em 'Entregou o documento a ela'.",
+"velho": "Pronome pessoal não leva artigo.",
+"aula": [
+"Não há crase diante de: verbo, palavra masculina, pronome pessoal, nome no plural sem artigo ('Referiu-se a reuniões'), cidade sem especificação ('Voltou a Brasília' × 'à Brasília dos anos 60').",
+"Pegadinha: crase onde não há artigo (verbo, pronome pessoal, masculino)."
+]
+},
+{
+"id": "Q-LP-0420",
+"g": "E",
+"e": "Ocorre crase diante de pronome pessoal, como em 'Entregou o documento à ela'.",
+"velho": "Pronome pessoal não leva artigo.",
+"aula": [
+"Não há crase diante de: verbo, palavra masculina, pronome pessoal, nome no plural sem artigo ('Referiu-se a reuniões'), cidade sem especificação ('Voltou a Brasília' × 'à Brasília dos anos 60').",
+"Pegadinha: crase onde não há artigo (verbo, pronome pessoal, masculino)."
+]
+},
+{
+"id": "Q-LP-0421",
+"g": "C",
+"e": "Não ocorre crase antes de palavra feminina no plural quando só há preposição: 'Referiu-se a reuniões'.",
+"velho": "Sem artigo, sem crase.",
+"aula": [
+"Crase = preposição 'a' + artigo 'a' (ou 'aquele/aquela/aquilo'): 'Fui à Câmara'; 'Refiro-me àquela decisão'. Teste: troque por masculino ('Fui ao Senado').",
+"Não há crase diante de: verbo, palavra masculina, pronome pessoal, nome no plural sem artigo ('Referiu-se a reuniões'), cidade sem especificação ('Voltou a Brasília' × 'à Brasília dos anos 60')."
+]
+},
+{
+"id": "Q-LP-0422",
+"g": "E",
+"e": "Ocorre crase antes de palavra feminina no plural quando só há preposição: 'Referiu-se à reuniões'.",
+"velho": "Sem artigo, sem crase.",
+"aula": [
+"Crase = preposição 'a' + artigo 'a' (ou 'aquele/aquela/aquilo'): 'Fui à Câmara'; 'Refiro-me àquela decisão'. Teste: troque por masculino ('Fui ao Senado').",
+"Não há crase diante de: verbo, palavra masculina, pronome pessoal, nome no plural sem artigo ('Referiu-se a reuniões'), cidade sem especificação ('Voltou a Brasília' × 'à Brasília dos anos 60')."
+]
+},
+{
+"id": "Q-LP-0423",
+"g": "C",
+"e": "Em 'Voltou a Brasília', não há crase; haverá em 'Voltou à Brasília dos anos 60', por haver especificação.",
+"velho": "Cidade sem artigo, sem crase; com adjunto, há.",
+"aula": [
+"Crase = preposição 'a' + artigo 'a' (ou 'aquele/aquela/aquilo'): 'Fui à Câmara'; 'Refiro-me àquela decisão'. Teste: troque por masculino ('Fui ao Senado').",
+"Não há crase diante de: verbo, palavra masculina, pronome pessoal, nome no plural sem artigo ('Referiu-se a reuniões'), cidade sem especificação ('Voltou a Brasília' × 'à Brasília dos anos 60')."
+]
+},
+{
+"id": "Q-LP-0424",
+"g": "E",
+"e": "Em 'Voltou a Brasília', há crase, pois o nome de cidade exige artigo feminino nesse contexto. Trata-se de prática corrente.",
+"velho": "Cidade sem artigo, sem crase; com adjunto, há.",
+"aula": [
+"Crase = preposição 'a' + artigo 'a' (ou 'aquele/aquela/aquilo'): 'Fui à Câmara'; 'Refiro-me àquela decisão'. Teste: troque por masculino ('Fui ao Senado').",
+"Não há crase diante de: verbo, palavra masculina, pronome pessoal, nome no plural sem artigo ('Referiu-se a reuniões'), cidade sem especificação ('Voltou a Brasília' × 'à Brasília dos anos 60')."
+]
+},
+{
+"id": "Q-LP-0425",
+"g": "C",
+"e": "Em 'Refiro-me àquela decisão', o emprego da crase é adequado.",
+"velho": "a + aquela = àquela.",
+"aula": [
+"Crase = preposição 'a' + artigo 'a' (ou 'aquele/aquela/aquilo'): 'Fui à Câmara'; 'Refiro-me àquela decisão'. Teste: troque por masculino ('Fui ao Senado').",
+"Pegadinha: crase onde não há artigo (verbo, pronome pessoal, masculino)."
+]
+},
+{
+"id": "Q-LP-0426",
+"g": "E",
+"e": "Em 'Refiro-me àquela decisão', o emprego da crase é indevido.",
+"velho": "a + aquela = àquela.",
+"aula": [
+"Crase = preposição 'a' + artigo 'a' (ou 'aquele/aquela/aquilo'): 'Fui à Câmara'; 'Refiro-me àquela decisão'. Teste: troque por masculino ('Fui ao Senado').",
+"Pegadinha: crase onde não há artigo (verbo, pronome pessoal, masculino)."
+]
+},
+{
+"id": "Q-LP-0427",
+"g": "C",
+"e": "Em 'A reunião começa às nove horas', a crase é obrigatória.",
+"velho": "Horas determinadas: crase obrigatória.",
+"aula": [
+"Obrigatória: horas determinadas ('às nove'), locuções femininas ('à noite', 'às pressas', 'à luz de'). Facultativa: possessivo feminino ('à/a sua chefe'), nome próprio feminino de pessoa ('à/a Maria').",
+"Pegadinha: chamar de obrigatório o que é facultativo, ou o inverso."
+]
+},
+{
+"id": "Q-LP-0428",
+"g": "E",
+"e": "Em 'A reunião começa às nove horas', a crase é facultativa.",
+"velho": "Horas determinadas: crase obrigatória.",
+"aula": [
+"Obrigatória: horas determinadas ('às nove'), locuções femininas ('à noite', 'às pressas', 'à luz de'). Facultativa: possessivo feminino ('à/a sua chefe'), nome próprio feminino de pessoa ('à/a Maria').",
+"Pegadinha: chamar de obrigatório o que é facultativo, ou o inverso."
+]
+},
+{
+"id": "Q-LP-0429",
+"g": "C",
+"e": "A crase é obrigatória em locuções adverbiais femininas, como 'à noite', 'às pressas' e 'à vista'.",
+"velho": "Locução feminina: crase.",
+"aula": [
+"Obrigatória: horas determinadas ('às nove'), locuções femininas ('à noite', 'às pressas', 'à luz de'). Facultativa: possessivo feminino ('à/a sua chefe'), nome próprio feminino de pessoa ('à/a Maria').",
+"Não há crase antes de 'que' ('a empresa a que me refiro') nem em locuções com palavras repetidas ('frente a frente', 'cara a cara')."
+]
+},
+{
+"id": "Q-LP-0430",
+"g": "E",
+"e": "A crase é indevida em locuções adverbiais femininas, como 'à noite', 'às pressas' e 'à vista'.",
+"velho": "Locução feminina: crase.",
+"aula": [
+"Obrigatória: horas determinadas ('às nove'), locuções femininas ('à noite', 'às pressas', 'à luz de'). Facultativa: possessivo feminino ('à/a sua chefe'), nome próprio feminino de pessoa ('à/a Maria').",
+"Não há crase antes de 'que' ('a empresa a que me refiro') nem em locuções com palavras repetidas ('frente a frente', 'cara a cara')."
+]
+},
+{
+"id": "Q-LP-0431",
+"g": "C",
+"e": "Em 'A empresa a que me refiro', não há crase.",
+"velho": "'Que' não admite crase.",
+"aula": [
+"Não há crase antes de 'que' ('a empresa a que me refiro') nem em locuções com palavras repetidas ('frente a frente', 'cara a cara').",
+"Pegadinha: chamar de obrigatório o que é facultativo, ou o inverso."
+]
+},
+{
+"id": "Q-LP-0432",
+"g": "E",
+"e": "Em 'A empresa à que me refiro', a crase é exigida.",
+"velho": "'Que' não admite crase.",
+"aula": [
+"Não há crase antes de 'que' ('a empresa a que me refiro') nem em locuções com palavras repetidas ('frente a frente', 'cara a cara').",
+"Pegadinha: chamar de obrigatório o que é facultativo, ou o inverso."
+]
+},
+{
+"id": "Q-LP-0433",
+"g": "C",
+"e": "Antes de pronome possessivo feminino, a crase é facultativa: 'Obedeceu à/a sua chefe'.",
+"velho": "Possessivo: facultativa.",
+"aula": [
+"Obrigatória: horas determinadas ('às nove'), locuções femininas ('à noite', 'às pressas', 'à luz de'). Facultativa: possessivo feminino ('à/a sua chefe'), nome próprio feminino de pessoa ('à/a Maria').",
+"Pegadinha: chamar de obrigatório o que é facultativo, ou o inverso."
+]
+},
+{
+"id": "Q-LP-0434",
+"g": "E",
+"e": "Antes de pronome possessivo feminino, a crase é obrigatória: 'Obedeceu à sua chefe'.",
+"velho": "Possessivo: facultativa.",
+"aula": [
+"Obrigatória: horas determinadas ('às nove'), locuções femininas ('à noite', 'às pressas', 'à luz de'). Facultativa: possessivo feminino ('à/a sua chefe'), nome próprio feminino de pessoa ('à/a Maria').",
+"Pegadinha: chamar de obrigatório o que é facultativo, ou o inverso."
+]
+},
+{
+"id": "Q-LP-0435",
+"g": "C",
+"e": "Antes de nome próprio feminino de pessoa, a crase é facultativa: 'Entreguei o ofício à/a Maria'.",
+"velho": "Nome de pessoa: facultativa.",
+"aula": [
+"Obrigatória: horas determinadas ('às nove'), locuções femininas ('à noite', 'às pressas', 'à luz de'). Facultativa: possessivo feminino ('à/a sua chefe'), nome próprio feminino de pessoa ('à/a Maria').",
+"Pegadinha: chamar de obrigatório o que é facultativo, ou o inverso."
+]
+},
+{
+"id": "Q-LP-0436",
+"g": "E",
+"e": "Antes de nome próprio feminino de pessoa, a crase é obrigatória: 'Entreguei o ofício à Maria'.",
+"velho": "Nome de pessoa: facultativa.",
+"aula": [
+"Obrigatória: horas determinadas ('às nove'), locuções femininas ('à noite', 'às pressas', 'à luz de'). Facultativa: possessivo feminino ('à/a sua chefe'), nome próprio feminino de pessoa ('à/a Maria').",
+"Pegadinha: chamar de obrigatório o que é facultativo, ou o inverso."
+]
+},
+{
+"id": "Q-LP-0437",
+"g": "C",
+"e": "Em locução formada por palavras repetidas, como 'frente a frente', não há crase.",
+"velho": "Repetição: sem crase.",
+"aula": [
+"Não há crase antes de 'que' ('a empresa a que me refiro') nem em locuções com palavras repetidas ('frente a frente', 'cara a cara').",
+"Pegadinha: chamar de obrigatório o que é facultativo, ou o inverso."
+]
+},
+{
+"id": "Q-LP-0438",
+"g": "E",
+"e": "Em locução formada por palavras repetidas, como 'frente a frente', há crase: 'frente à frente'.",
+"velho": "Repetição: sem crase.",
+"aula": [
+"Não há crase antes de 'que' ('a empresa a que me refiro') nem em locuções com palavras repetidas ('frente a frente', 'cara a cara').",
+"Pegadinha: chamar de obrigatório o que é facultativo, ou o inverso."
+]
+},
+{
+"id": "Q-LP-0439",
+"g": "C",
+"e": "A frase 'Entre mim e ele não há divergência' atende à norma-padrão.",
+"velho": "Preposição pede oblíquo: entre mim.",
+"aula": [
+"Após preposição, oblíquo tônico: 'entre mim e ele', 'para mim' (sem verbo). Sujeito de infinitivo é reto: 'para eu ler'. Lhe = objeto indireto; o/a/os/as = objeto direto.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0440",
+"g": "E",
+"e": "A frase 'Entre eu e ele não há divergência' atende à norma-padrão.",
+"velho": "Preposição pede oblíquo: entre mim.",
+"aula": [
+"Após preposição, oblíquo tônico: 'entre mim e ele', 'para mim' (sem verbo). Sujeito de infinitivo é reto: 'para eu ler'. Lhe = objeto indireto; o/a/os/as = objeto direto.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0441",
+"g": "C",
+"e": "A frase 'Ele trouxe o texto para eu ler' atende à norma-padrão, pois 'eu' é sujeito de 'ler'.",
+"velho": "Sujeito de infinitivo: 'eu'.",
+"aula": [
+"Após preposição, oblíquo tônico: 'entre mim e ele', 'para mim' (sem verbo). Sujeito de infinitivo é reto: 'para eu ler'. Lhe = objeto indireto; o/a/os/as = objeto direto.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0442",
+"g": "E",
+"e": "A frase 'Ele trouxe o texto para mim ler' atende à norma-padrão. Isso é consenso.",
+"velho": "Sujeito de infinitivo: 'eu'.",
+"aula": [
+"Após preposição, oblíquo tônico: 'entre mim e ele', 'para mim' (sem verbo). Sujeito de infinitivo é reto: 'para eu ler'. Lhe = objeto indireto; o/a/os/as = objeto direto.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0443",
+"g": "C",
+"e": "A frase 'Isto é para mim' atende à norma-padrão, pois 'mim' é regido pela preposição.",
+"velho": "Sem verbo, 'para mim'.",
+"aula": [
+"Após preposição, oblíquo tônico: 'entre mim e ele', 'para mim' (sem verbo). Sujeito de infinitivo é reto: 'para eu ler'. Lhe = objeto indireto; o/a/os/as = objeto direto.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0444",
+"g": "E",
+"e": "A frase 'Isto é para eu' atende à norma-padrão. Trata-se de prática corrente.",
+"velho": "Sem verbo, 'para mim'.",
+"aula": [
+"Após preposição, oblíquo tônico: 'entre mim e ele', 'para mim' (sem verbo). Sujeito de infinitivo é reto: 'para eu ler'. Lhe = objeto indireto; o/a/os/as = objeto direto.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0445",
+"g": "C",
+"e": "Em 'Informei-lhe o prazo', o pronome 'lhe' funciona como objeto indireto.",
+"velho": "Lhe = indireto.",
+"aula": [
+"Após preposição, oblíquo tônico: 'entre mim e ele', 'para mim' (sem verbo). Sujeito de infinitivo é reto: 'para eu ler'. Lhe = objeto indireto; o/a/os/as = objeto direto.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0446",
+"g": "E",
+"e": "Em 'Informei-lhe o prazo', o pronome 'lhe' funciona como objeto direto.",
+"velho": "Lhe = indireto.",
+"aula": [
+"Após preposição, oblíquo tônico: 'entre mim e ele', 'para mim' (sem verbo). Sujeito de infinitivo é reto: 'para eu ler'. Lhe = objeto indireto; o/a/os/as = objeto direto.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+},
+{
+"id": "Q-LP-0447",
+"g": "C",
+"e": "Em 'Encontrei-os no plenário', o pronome 'os' funciona como objeto direto.",
+"velho": "O/os = direto.",
+"aula": [
+"Após preposição, oblíquo tônico: 'entre mim e ele', 'para mim' (sem verbo). Sujeito de infinitivo é reto: 'para eu ler'. Lhe = objeto indireto; o/a/os/as = objeto direto.",
+"Pegadinha: 'entre eu e ele', 'para mim ler', 'vossos' com Vossa Excelência."
+]
+}
+]

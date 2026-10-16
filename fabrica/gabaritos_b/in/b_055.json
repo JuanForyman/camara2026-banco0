@@ -1,0 +1,680 @@
+[
+{
+"id": "Q-TI-0249",
+"g": "C",
+"e": "A engenharia de prompts consiste em formular instruções claras e específicas para o modelo, indicando elementos como papel, contexto, tarefa, formato desejado e restrições, a fim de obter respostas mais adequadas.",
+"velho": "Engenharia de prompts.",
+"aula": [
+"Engenharia de prompts: prática de formular instruções para obter resultados melhores do modelo.",
+"Elementos de um bom prompt: papel ou persona, contexto, tarefa clara e específica, formato de saída desejado, restrições e exemplos."
+]
+},
+{
+"id": "Q-TI-0250",
+"g": "E",
+"e": "A engenharia de prompts consiste em reprogramar o código-fonte do modelo, com alterações em seus parâmetros, a fim de obter respostas mais adequadas, sem relação com a formulação das instruções. Isso é consenso na área.",
+"velho": "Engenharia de prompts.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Engenharia de prompts: prática de formular instruções para obter resultados melhores do modelo."
+]
+},
+{
+"id": "Q-TI-0251",
+"g": "C",
+"e": "Na técnica zero-shot, o prompt contém a instrução sem exemplos, ao passo que, na técnica few-shot, o prompt traz alguns exemplos de entrada e saída para orientar o modelo.",
+"velho": "Zero-shot x few-shot.",
+"aula": [
+"Elementos de um bom prompt: papel ou persona, contexto, tarefa clara e específica, formato de saída desejado, restrições e exemplos.",
+"Técnicas: zero-shot (sem exemplos), one-shot (um exemplo) e few-shot (poucos exemplos no próprio prompt); instrução passo a passo ou raciocínio em etapas (chain-of-thought); iteração e refinamento a partir da resposta; fornecer o texto-fonte para ancorar a resposta."
+]
+},
+{
+"id": "Q-TI-0252",
+"g": "E",
+"e": "Na técnica few-shot, o prompt contém a instrução sem exemplos, ao passo que, na técnica zero-shot, o prompt traz alguns exemplos de entrada e saída para orientar o modelo.",
+"velho": "Zero-shot x few-shot.",
+"aula": [
+"Elementos de um bom prompt: papel ou persona, contexto, tarefa clara e específica, formato de saída desejado, restrições e exemplos.",
+"Técnicas: zero-shot (sem exemplos), one-shot (um exemplo) e few-shot (poucos exemplos no próprio prompt); instrução passo a passo ou raciocínio em etapas (chain-of-thought); iteração e refinamento a partir da resposta; fornecer o texto-fonte para ancorar a resposta."
+]
+},
+{
+"id": "Q-TI-0253",
+"g": "C",
+"e": "Pedir ao modelo que resolva um problema em etapas e explicite o raciocínio (chain-of-thought) pode melhorar o desempenho em tarefas que exijam várias inferências, mas não elimina a necessidade de conferir o resultado.",
+"velho": "Chain-of-thought.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Técnicas: zero-shot (sem exemplos), one-shot (um exemplo) e few-shot (poucos exemplos no próprio prompt); instrução passo a passo ou raciocínio em etapas (chain-of-thought); iteração e refinamento a partir da resposta; fornecer o texto-fonte para ancorar a resposta."
+]
+},
+{
+"id": "Q-TI-0254",
+"g": "E",
+"e": "Pedir ao modelo que resolva um problema em etapas e explicite o raciocínio (chain-of-thought) elimina a possibilidade de erro, dispensando a conferência do resultado. Isso é consenso na área.",
+"velho": "Chain-of-thought.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Técnicas: zero-shot (sem exemplos), one-shot (um exemplo) e few-shot (poucos exemplos no próprio prompt); instrução passo a passo ou raciocínio em etapas (chain-of-thought); iteração e refinamento a partir da resposta; fornecer o texto-fonte para ancorar a resposta."
+]
+},
+{
+"id": "Q-TI-0255",
+"g": "C",
+"e": "Um prompt vago e sem contexto tende a produzir respostas genéricas; fornecer o texto-fonte e indicar o formato desejado costuma melhorar a adequação e a fundamentação da resposta.",
+"velho": "Qualidade do prompt.",
+"aula": [
+"Elementos de um bom prompt: papel ou persona, contexto, tarefa clara e específica, formato de saída desejado, restrições e exemplos.",
+"Técnicas: zero-shot (sem exemplos), one-shot (um exemplo) e few-shot (poucos exemplos no próprio prompt); instrução passo a passo ou raciocínio em etapas (chain-of-thought); iteração e refinamento a partir da resposta; fornecer o texto-fonte para ancorar a resposta."
+]
+},
+{
+"id": "Q-TI-0256",
+"g": "E",
+"e": "Um prompt curto e vago produz sempre os melhores resultados, e fornecer o texto-fonte e indicar o formato desejado reduz a adequação e a fundamentação da resposta. Trata-se de prática corrente.",
+"velho": "Qualidade do prompt.",
+"aula": [
+"Engenharia de prompts: prática de formular instruções para obter resultados melhores do modelo.",
+"Técnicas: zero-shot (sem exemplos), one-shot (um exemplo) e few-shot (poucos exemplos no próprio prompt); instrução passo a passo ou raciocínio em etapas (chain-of-thought); iteração e refinamento a partir da resposta; fornecer o texto-fonte para ancorar a resposta."
+]
+},
+{
+"id": "Q-TI-0257",
+"g": "C",
+"e": "O RAG (geração aumentada por recuperação) busca documentos relevantes em uma base e os fornece ao modelo como contexto, o que ajuda a fundamentar a resposta e a reduzir alucinações, sem eliminá-las por completo.",
+"velho": "RAG.",
+"aula": [
+"Janela de contexto é a quantidade de texto que o modelo considera de uma vez.",
+"RAG (geração aumentada por recuperação) busca documentos relevantes em uma base e os fornece ao modelo para fundamentar a resposta e reduzir alucinações."
+]
+},
+{
+"id": "Q-TI-0258",
+"g": "E",
+"e": "O RAG (geração aumentada por recuperação) busca documentos relevantes em uma base e os fornece ao modelo como contexto, o que elimina por completo as alucinações e dispensa a verificação das respostas.",
+"velho": "RAG.",
+"aula": [
+"Resultam em respostas prováveis, não necessariamente verdadeiras: podem produzir alucinações, isto é, informações falsas ou inventadas apresentadas com aparência de segurança, inclusive referências inexistentes.",
+"RAG (geração aumentada por recuperação) busca documentos relevantes em uma base e os fornece ao modelo para fundamentar a resposta e reduzir alucinações."
+]
+},
+{
+"id": "Q-TI-0259",
+"g": "C",
+"e": "Um servidor que usa uma ferramenta de IA generativa para resumir um parecer deve conferir o resumo com o texto original antes de utilizá-lo, pois o modelo pode omitir pontos relevantes ou introduzir informações inexistentes.",
+"velho": "Verificação humana de resumos.",
+"aula": [
+"IA generativa: modelos que produzem conteúdo novo (texto, imagem, áudio, código, vídeo) a partir de padrões aprendidos.",
+"Resultam em respostas prováveis, não necessariamente verdadeiras: podem produzir alucinações, isto é, informações falsas ou inventadas apresentadas com aparência de segurança, inclusive referências inexistentes."
+]
+},
+{
+"id": "Q-TI-0260",
+"g": "E",
+"e": "Um servidor que usa uma ferramenta de IA generativa para resumir um parecer pode utilizar o resumo sem conferência com o texto original, pois a ferramenta sempre reproduz o conteúdo com fidelidade e jamais introduz informações inexistentes.",
+"velho": "Verificação humana de resumos.",
+"aula": [
+"IA generativa: modelos que produzem conteúdo novo (texto, imagem, áudio, código, vídeo) a partir de padrões aprendidos.",
+"Resultam em respostas prováveis, não necessariamente verdadeiras: podem produzir alucinações, isto é, informações falsas ou inventadas apresentadas com aparência de segurança, inclusive referências inexistentes."
+]
+},
+{
+"id": "Q-TI-0261",
+"g": "C",
+"e": "Um servidor deve evitar inserir, em ferramenta pública de IA generativa, documentos sigilosos ou dados pessoais de terceiros sem autorização e sem observar a política do órgão, pois o conteúdo enviado pode ser armazenado ou tratado pelo provedor.",
+"velho": "Sigilo e IA pública.",
+"aula": [
+"IA generativa: modelos que produzem conteúdo novo (texto, imagem, áudio, código, vídeo) a partir de padrões aprendidos.",
+"O prompt é entrada do usuário e não altera os pesos do modelo; dados sigilosos ou pessoais não devem ser inseridos em ferramentas públicas sem autorização e cautela."
+]
+},
+{
+"id": "Q-TI-0262",
+"g": "E",
+"e": "Um servidor pode inserir livremente, em ferramenta pública de IA generativa, documentos sigilosos ou dados pessoais de terceiros, pois o conteúdo enviado nunca é armazenado nem tratado pelo provedor. Isso é consenso na área.",
+"velho": "Sigilo e IA pública.",
+"aula": [
+"IA generativa: modelos que produzem conteúdo novo (texto, imagem, áudio, código, vídeo) a partir de padrões aprendidos.",
+"O prompt é entrada do usuário e não altera os pesos do modelo; dados sigilosos ou pessoais não devem ser inseridos em ferramentas públicas sem autorização e cautela."
+]
+},
+{
+"id": "Q-TI-0263",
+"g": "C",
+"e": "A IA generativa pode ser empregada em rascunhos de textos, resumos, traduções, classificação de documentos e extração de informações, desde que haja supervisão humana sobre o resultado.",
+"velho": "Casos de uso.",
+"aula": [
+"Casos de uso: redação de rascunhos, resumo, tradução, classificação, extração de informações, geração de código, assistentes de atendimento."
+]
+},
+{
+"id": "Q-TI-0264",
+"g": "E",
+"e": "A IA generativa não pode ser empregada em resumos, traduções, classificação de documentos nem extração de informações, servindo apenas para gerar imagens. Trata-se de prática corrente.",
+"velho": "Casos de uso.",
+"aula": [
+"Casos de uso: redação de rascunhos, resumo, tradução, classificação, extração de informações, geração de código, assistentes de atendimento."
+]
+},
+{
+"id": "Q-TI-0265",
+"g": "C",
+"e": "Os princípios da administração pública previstos no art. 37, caput, da Constituição Federal (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se também ao uso, pelo servidor, do correio institucional, de sistemas e de ferramentas digitais.",
+"velho": "CF, art. 37.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA.",
+"Redes sociais: manifestações do servidor podem repercutir sobre a imagem da instituição e, conforme o caso, configurar infração disciplinar; o uso institucional deve seguir a política de comunicação do órgão."
+]
+},
+{
+"id": "Q-TI-0266",
+"g": "E",
+"e": "Os princípios da administração pública previstos no art. 37, caput, da Constituição Federal não se aplicam ao ambiente digital, restringindo-se ao atendimento presencial prestado pelo servidor. Essa seria a posição predominante na literatura técnica.",
+"velho": "CF, art. 37.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA.",
+"Inclusão e acessibilidade digital são parte da responsabilidade do serviço público: serviços digitais devem ser acessíveis a pessoas com deficiência (Lei 13.146/2015, Estatuto da Pessoa com Deficiência, e princípios de acessibilidade como os da WCAG)."
+]
+},
+{
+"id": "Q-TI-0267",
+"g": "C",
+"e": "As credenciais de acesso (login e senha) são pessoais e intransferíveis, e o titular responde pelos acessos realizados com elas.",
+"velho": "Credenciais pessoais.",
+"aula": [
+"Recursos de TI do órgão são bens públicos e devem ser usados para fins institucionais, conforme a política interna; credenciais (login e senha) são pessoais e intransferíveis, e o titular responde pelos acessos feitos com elas.",
+"A Lei de Acesso à Informação (Lei 12.527/2011) estabelece a publicidade como regra e o sigilo como exceção, compatibilizada com a proteção de informações pessoais."
+]
+},
+{
+"id": "Q-TI-0268",
+"g": "E",
+"e": "As credenciais de acesso (login e senha) podem ser compartilhadas com colegas de confiança, e o titular não responde pelos acessos realizados com elas por terceiros a quem as tenha cedido.",
+"velho": "Credenciais pessoais.",
+"aula": [
+"Recursos de TI do órgão são bens públicos e devem ser usados para fins institucionais, conforme a política interna; credenciais (login e senha) são pessoais e intransferíveis, e o titular responde pelos acessos feitos com elas.",
+"A Lei de Acesso à Informação (Lei 12.527/2011) estabelece a publicidade como regra e o sigilo como exceção, compatibilizada com a proteção de informações pessoais."
+]
+},
+{
+"id": "Q-TI-0269",
+"g": "C",
+"e": "Os recursos de tecnologia da informação do órgão são bens públicos e devem ser utilizados para finalidades institucionais, conforme a política interna e as normas aplicáveis.",
+"velho": "Uso de recursos de TI.",
+"aula": [
+"Recursos de TI do órgão são bens públicos e devem ser usados para fins institucionais, conforme a política interna; credenciais (login e senha) são pessoais e intransferíveis, e o titular responde pelos acessos feitos com elas.",
+"Redes sociais: manifestações do servidor podem repercutir sobre a imagem da instituição e, conforme o caso, configurar infração disciplinar; o uso institucional deve seguir a política de comunicação do órgão."
+]
+},
+{
+"id": "Q-TI-0270",
+"g": "E",
+"e": "Os recursos de tecnologia da informação do órgão podem ser utilizados livremente para finalidades pessoais, sem limite, pois o servidor é o responsável pelo equipamento que lhe foi entregue.",
+"velho": "Uso de recursos de TI.",
+"aula": [
+"Recursos de TI do órgão são bens públicos e devem ser usados para fins institucionais, conforme a política interna; credenciais (login e senha) são pessoais e intransferíveis, e o titular responde pelos acessos feitos com elas.",
+"Proteção de dados: a LGPD (Lei 13.709/2018) aplica-se também ao poder público, que deve tratar dados pessoais para atender a finalidade pública, na persecução do interesse público, com informação clara sobre as hipóteses de tratamento."
+]
+},
+{
+"id": "Q-TI-0271",
+"g": "C",
+"e": "A LGPD aplica-se também ao poder público, que deve tratar dados pessoais para o atendimento de sua finalidade pública e na persecução do interesse público, informando as hipóteses em que realiza o tratamento.",
+"velho": "LGPD e poder público.",
+"aula": [
+"O dever de sigilo alcança informações classificadas e dados pessoais conhecidos em razão do cargo.",
+"Proteção de dados: a LGPD (Lei 13.709/2018) aplica-se também ao poder público, que deve tratar dados pessoais para atender a finalidade pública, na persecução do interesse público, com informação clara sobre as hipóteses de tratamento."
+]
+},
+{
+"id": "Q-TI-0272",
+"g": "E",
+"e": "A LGPD não se aplica ao poder público, que está dispensado de informar as hipóteses de tratamento, pois a lei regula apenas o tratamento de dados por pessoas jurídicas de direito privado. Trata-se de prática corrente.",
+"velho": "LGPD e poder público.",
+"aula": [
+"Proteção de dados: a LGPD (Lei 13.709/2018) aplica-se também ao poder público, que deve tratar dados pessoais para atender a finalidade pública, na persecução do interesse público, com informação clara sobre as hipóteses de tratamento.",
+"Inclusão e acessibilidade digital são parte da responsabilidade do serviço público: serviços digitais devem ser acessíveis a pessoas com deficiência (Lei 13.146/2015, Estatuto da Pessoa com Deficiência, e princípios de acessibilidade como os da WCAG)."
+]
+},
+{
+"id": "Q-TI-0273",
+"g": "C",
+"e": "Pelo princípio da finalidade, o tratamento de dados deve ter propósitos legítimos, específicos, explícitos e informados ao titular; pelo princípio da necessidade, deve limitar-se ao mínimo necessário para atingir essas finalidades.",
+"velho": "LGPD, art. 6º.",
+"aula": [
+"Proteção de dados: a LGPD (Lei 13.709/2018) aplica-se também ao poder público, que deve tratar dados pessoais para atender a finalidade pública, na persecução do interesse público, com informação clara sobre as hipóteses de tratamento.",
+"Princípios: finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação, responsabilização e prestação de contas."
+]
+},
+{
+"id": "Q-TI-0274",
+"g": "E",
+"e": "Pelo princípio da necessidade, o tratamento de dados deve ter propósitos legítimos, específicos, explícitos e informados ao titular; pelo princípio da finalidade, deve limitar-se ao mínimo necessário para atingir esses propósitos.",
+"velho": "LGPD, art. 6º.",
+"aula": [
+"Proteção de dados: a LGPD (Lei 13.709/2018) aplica-se também ao poder público, que deve tratar dados pessoais para atender a finalidade pública, na persecução do interesse público, com informação clara sobre as hipóteses de tratamento.",
+"Princípios: finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação, responsabilização e prestação de contas."
+]
+},
+{
+"id": "Q-TI-0275",
+"g": "C",
+"e": "Pela Lei de Acesso à Informação, a publicidade é a regra e o sigilo, a exceção, o que se compatibiliza com a proteção das informações pessoais.",
+"velho": "LAI, art. 3º, I.",
+"aula": [
+"O dever de sigilo alcança informações classificadas e dados pessoais conhecidos em razão do cargo.",
+"A Lei de Acesso à Informação (Lei 12.527/2011) estabelece a publicidade como regra e o sigilo como exceção, compatibilizada com a proteção de informações pessoais."
+]
+},
+{
+"id": "Q-TI-0276",
+"g": "E",
+"e": "Pela Lei de Acesso à Informação, o sigilo é a regra e a publicidade, a exceção, razão pela qual o acesso depende, em regra, de justificativa do interessado.",
+"velho": "LAI, art. 3º, I.",
+"aula": [
+"O dever de sigilo alcança informações classificadas e dados pessoais conhecidos em razão do cargo.",
+"A Lei de Acesso à Informação (Lei 12.527/2011) estabelece a publicidade como regra e o sigilo como exceção, compatibilizada com a proteção de informações pessoais."
+]
+},
+{
+"id": "Q-TI-0277",
+"g": "C",
+"e": "Uma decisão administrativa que afeta direitos de um cidadão é sugerida por um sistema de IA. O agente público que a adota continua responsável pela decisão, devendo exercer a supervisão humana e conferir os fundamentos do resultado.",
+"velho": "Responsabilidade é do agente, não do algoritmo.",
+"aula": [
+"Uso responsável da IA: transparência sobre o uso, supervisão humana (human-in-the-loop) nas decisões que afetam direitos, responsabilização de quem decide e não do algoritmo, verificação de fatos e fontes, atenção a vieses e à discriminação, respeito a direitos autorais e à confidencialidade, e proteção de dados.",
+"Inclusão e acessibilidade digital são parte da responsabilidade do serviço público: serviços digitais devem ser acessíveis a pessoas com deficiência (Lei 13.146/2015, Estatuto da Pessoa com Deficiência, e princípios de acessibilidade como os da WCAG)."
+]
+},
+{
+"id": "Q-TI-0278",
+"g": "E",
+"e": "Uma decisão administrativa que afeta direitos de um cidadão é sugerida por um sistema de IA. O agente público que a adota fica isento de responsabilidade, pois a responsabilidade é do algoritmo, que decidiu de modo automático.",
+"velho": "Responsabilidade é do agente, não do algoritmo.",
+"aula": [
+"Uso responsável da IA: transparência sobre o uso, supervisão humana (human-in-the-loop) nas decisões que afetam direitos, responsabilização de quem decide e não do algoritmo, verificação de fatos e fontes, atenção a vieses e à discriminação, respeito a direitos autorais e à confidencialidade, e proteção de dados.",
+"Inclusão e acessibilidade digital são parte da responsabilidade do serviço público: serviços digitais devem ser acessíveis a pessoas com deficiência (Lei 13.146/2015, Estatuto da Pessoa com Deficiência, e princípios de acessibilidade como os da WCAG)."
+]
+},
+{
+"id": "Q-TI-0279",
+"g": "C",
+"e": "O uso de obras protegidas por direitos autorais para treinar ou alimentar sistemas de IA, ou a reprodução de seus resultados, exige atenção às regras de propriedade intelectual; o fato de um conteúdo estar disponível na Internet não o torna, por si só, de uso livre.",
+"velho": "Direitos autorais e IA.",
+"aula": [
+"Uso responsável da IA: transparência sobre o uso, supervisão humana (human-in-the-loop) nas decisões que afetam direitos, responsabilização de quem decide e não do algoritmo, verificação de fatos e fontes, atenção a vieses e à discriminação, respeito a direitos autorais e à confidencialidade, e proteção de dados.",
+"Marco Civil da Internet (Lei 12.965/2014): estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, entre eles a neutralidade da rede, a proteção da privacidade e dos dados pessoais e a liberdade de expressão."
+]
+},
+{
+"id": "Q-TI-0280",
+"g": "E",
+"e": "Todo conteúdo disponível na Internet pode ser usado livremente para treinar ou alimentar sistemas de IA, pois o simples fato de estar publicado o torna de domínio público. Tal conclusão decorreria, segundo esse entendimento, das características do fenômeno descrito.",
+"velho": "Direitos autorais e IA.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA.",
+"Uso responsável da IA: transparência sobre o uso, supervisão humana (human-in-the-loop) nas decisões que afetam direitos, responsabilização de quem decide e não do algoritmo, verificação de fatos e fontes, atenção a vieses e à discriminação, respeito a direitos autorais e à confidencialidade, e proteção de dados."
+]
+},
+{
+"id": "Q-TI-0281",
+"g": "C",
+"e": "Um servidor publica em perfil pessoal de rede social manifestação que atinge a imagem da instituição e revela informação sigilosa de que tomou conhecimento em razão do cargo. Conforme o caso, a conduta pode configurar infração disciplinar.",
+"velho": "Redes sociais e dever de sigilo.",
+"aula": [
+"O dever de sigilo alcança informações classificadas e dados pessoais conhecidos em razão do cargo.",
+"Redes sociais: manifestações do servidor podem repercutir sobre a imagem da instituição e, conforme o caso, configurar infração disciplinar; o uso institucional deve seguir a política de comunicação do órgão."
+]
+},
+{
+"id": "Q-TI-0282",
+"g": "E",
+"e": "Um servidor publica em perfil pessoal de rede social manifestação que atinge a imagem da instituição e revela informação sigilosa de que tomou conhecimento em razão do cargo. Por se tratar de perfil pessoal, a conduta jamais pode configurar infração disciplinar.",
+"velho": "Redes sociais e dever de sigilo.",
+"aula": [
+"O dever de sigilo alcança informações classificadas e dados pessoais conhecidos em razão do cargo.",
+"Redes sociais: manifestações do servidor podem repercutir sobre a imagem da instituição e, conforme o caso, configurar infração disciplinar; o uso institucional deve seguir a política de comunicação do órgão."
+]
+},
+{
+"id": "Q-TI-0283",
+"g": "C",
+"e": "Uma pessoa que se identifica como do suporte técnico telefona a um servidor e pede sua senha para corrigir uma falha. O servidor não deve fornecê-la, pois as equipes legítimas de suporte não solicitam senhas, e a situação caracteriza tentativa de engenharia social.",
+"velho": "Engenharia social.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA."
+]
+},
+{
+"id": "Q-TI-0284",
+"g": "E",
+"e": "Uma pessoa que se identifica como do suporte técnico telefona a um servidor e pede sua senha para corrigir uma falha. O servidor deve fornecê-la, pois quem se identifica como suporte técnico dispõe de autorização para solicitar a senha. Trata-se de prática corrente.",
+"velho": "Engenharia social.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA."
+]
+},
+{
+"id": "Q-TI-0285",
+"g": "C",
+"e": "A acessibilidade digital é parte da responsabilidade do serviço público: os serviços e sites devem ser acessíveis a pessoas com deficiência, em observância, entre outras normas, ao Estatuto da Pessoa com Deficiência (Lei 13.146/2015).",
+"velho": "Acessibilidade digital.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA.",
+"Inclusão e acessibilidade digital são parte da responsabilidade do serviço público: serviços digitais devem ser acessíveis a pessoas com deficiência (Lei 13.146/2015, Estatuto da Pessoa com Deficiência, e princípios de acessibilidade como os da WCAG)."
+]
+},
+{
+"id": "Q-TI-0286",
+"g": "E",
+"e": "Os serviços e sites públicos estão dispensados de acessibilidade a pessoas com deficiência, pois a Lei 13.146/2015 trata apenas de acessibilidade em espaços físicos. Essa seria a posição predominante na literatura técnica.",
+"velho": "Acessibilidade digital.",
+"aula": [
+"Inclusão e acessibilidade digital são parte da responsabilidade do serviço público: serviços digitais devem ser acessíveis a pessoas com deficiência (Lei 13.146/2015, Estatuto da Pessoa com Deficiência, e princípios de acessibilidade como os da WCAG)."
+]
+},
+{
+"id": "Q-TI-0287",
+"g": "C",
+"e": "A Lei 14.063/2020 classifica as assinaturas eletrônicas, nas interações com entes públicos, em simples, avançada e qualificada, sendo esta a que utiliza certificado digital emitido no âmbito da ICP-Brasil.",
+"velho": "Lei 14.063/2020.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA."
+]
+},
+{
+"id": "Q-TI-0288",
+"g": "E",
+"e": "A Lei 14.063/2020 admite, nas interações com entes públicos, apenas a assinatura eletrônica qualificada, e proíbe a assinatura simples e a avançada. Trata-se de prática corrente.",
+"velho": "Lei 14.063/2020.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA."
+]
+},
+{
+"id": "Q-TI-0289",
+"g": "C",
+"e": "O dever de sigilo do servidor alcança as informações classificadas e os dados pessoais de que tenha conhecimento em razão do cargo, ainda que o acesso aos sistemas lhe tenha sido regularmente concedido.",
+"velho": "Dever de sigilo.",
+"aula": [
+"O dever de sigilo alcança informações classificadas e dados pessoais conhecidos em razão do cargo.",
+"A Lei de Acesso à Informação (Lei 12.527/2011) estabelece a publicidade como regra e o sigilo como exceção, compatibilizada com a proteção de informações pessoais."
+]
+},
+{
+"id": "Q-TI-0290",
+"g": "E",
+"e": "O dever de sigilo do servidor não alcança os dados pessoais de que tenha conhecimento em razão do cargo, desde que o acesso aos sistemas lhe tenha sido regularmente concedido. Isso é consenso na área.",
+"velho": "Dever de sigilo.",
+"aula": [
+"O dever de sigilo alcança informações classificadas e dados pessoais conhecidos em razão do cargo.",
+"A Lei de Acesso à Informação (Lei 12.527/2011) estabelece a publicidade como regra e o sigilo como exceção, compatibilizada com a proteção de informações pessoais."
+]
+},
+{
+"id": "Q-TI-0291",
+"g": "C",
+"e": "Deepfakes e conteúdos sintéticos manipulados podem difundir desinformação, o que exige do servidor cautela e verificação da origem e da autenticidade do material antes de usá-lo ou divulgá-lo.",
+"velho": "Desinformação.",
+"aula": [
+"Desinformação e deepfakes exigem cautela na verificação de origem."
+]
+},
+{
+"id": "Q-TI-0292",
+"g": "E",
+"e": "Deepfakes e conteúdos sintéticos manipulados não representam risco de desinformação, razão pela qual o servidor pode usar e divulgar o material sem verificar sua origem. Trata-se de prática corrente.",
+"velho": "Desinformação.",
+"aula": [
+"Desinformação e deepfakes exigem cautela na verificação de origem."
+]
+},
+{
+"id": "Q-TI-0293",
+"g": "C",
+"e": "Dado é o registro bruto, sem contexto, ao passo que informação é o dado processado e contextualizado, que passa a ter significado para quem o utiliza.",
+"velho": "Dado x informação.",
+"aula": [
+"Dado é registro bruto, sem contexto; informação é o dado processado e contextualizado, com significado; conhecimento resulta da interpretação e aplicação da informação (pirâmide DIKW: dado, informação, conhecimento, sabedoria)."
+]
+},
+{
+"id": "Q-TI-0294",
+"g": "E",
+"e": "Informação é o registro bruto, sem contexto, ao passo que dado é a informação processada e contextualizada, que passa a ter significado para quem a utiliza.",
+"velho": "Dado x informação.",
+"aula": [
+"Dado é registro bruto, sem contexto; informação é o dado processado e contextualizado, com significado; conhecimento resulta da interpretação e aplicação da informação (pirâmide DIKW: dado, informação, conhecimento, sabedoria)."
+]
+},
+{
+"id": "Q-TI-0295",
+"g": "C",
+"e": "Dados estruturados têm formato fixo, organizados em linhas e colunas, como as tabelas de um banco relacional; dados semiestruturados, como JSON e XML, têm marcações, mas esquema flexível; e dados não estruturados, como texto livre, imagens e áudio, não seguem modelo predefinido.",
+"velho": "Tipos de dados quanto à estrutura.",
+"aula": [
+"Dados estruturados têm formato fixo, em linhas e colunas (tabelas de bancos relacionais, planilhas); semiestruturados têm marcação, mas esquema flexível (JSON, XML, HTML); não estruturados não têm modelo predefinido (texto livre, imagem, áudio, vídeo).",
+"Dados abertos governamentais devem ser disponibilizados em formatos abertos, estruturados e legíveis por máquina (CSV, JSON)."
+]
+},
+{
+"id": "Q-TI-0296",
+"g": "E",
+"e": "Dados estruturados, como JSON e XML, têm marcações, mas esquema flexível; dados semiestruturados têm formato fixo, organizados em linhas e colunas; e dados não estruturados, como tabelas de banco relacional, não seguem modelo predefinido. Trata-se de prática corrente.",
+"velho": "Tipos de dados quanto à estrutura.",
+"aula": [
+"Dados estruturados têm formato fixo, em linhas e colunas (tabelas de bancos relacionais, planilhas); semiestruturados têm marcação, mas esquema flexível (JSON, XML, HTML); não estruturados não têm modelo predefinido (texto livre, imagem, áudio, vídeo).",
+"Dados abertos governamentais devem ser disponibilizados em formatos abertos, estruturados e legíveis por máquina (CSV, JSON)."
+]
+},
+{
+"id": "Q-TI-0297",
+"g": "C",
+"e": "Fotografias, gravações de áudio e mensagens de texto livre são exemplos de dados não estruturados.",
+"velho": "Dados não estruturados.",
+"aula": [
+"Dados estruturados têm formato fixo, em linhas e colunas (tabelas de bancos relacionais, planilhas); semiestruturados têm marcação, mas esquema flexível (JSON, XML, HTML); não estruturados não têm modelo predefinido (texto livre, imagem, áudio, vídeo).",
+"Dados abertos governamentais devem ser disponibilizados em formatos abertos, estruturados e legíveis por máquina (CSV, JSON)."
+]
+},
+{
+"id": "Q-TI-0298",
+"g": "E",
+"e": "Fotografias, gravações de áudio e mensagens de texto livre são exemplos de dados estruturados.",
+"velho": "Dados não estruturados.",
+"aula": [
+"Dados estruturados têm formato fixo, em linhas e colunas (tabelas de bancos relacionais, planilhas); semiestruturados têm marcação, mas esquema flexível (JSON, XML, HTML); não estruturados não têm modelo predefinido (texto livre, imagem, áudio, vídeo).",
+"Dados abertos governamentais devem ser disponibilizados em formatos abertos, estruturados e legíveis por máquina (CSV, JSON)."
+]
+},
+{
+"id": "Q-TI-0299",
+"g": "C",
+"e": "Metadados são dados que descrevem outros dados, como autor, data de criação, formato e tamanho de um arquivo.",
+"velho": "Metadados.",
+"aula": [
+"Dados estruturados têm formato fixo, em linhas e colunas (tabelas de bancos relacionais, planilhas); semiestruturados têm marcação, mas esquema flexível (JSON, XML, HTML); não estruturados não têm modelo predefinido (texto livre, imagem, áudio, vídeo).",
+"Metadados são dados sobre dados (autor, data, formato)."
+]
+},
+{
+"id": "Q-TI-0300",
+"g": "E",
+"e": "Metadados são dados duplicados mantidos em outro local para fins de segurança, como as cópias de segurança de um arquivo.",
+"velho": "Metadados.",
+"aula": [
+"Metadados são dados sobre dados (autor, data, formato)."
+]
+},
+{
+"id": "Q-TI-0301",
+"g": "C",
+"e": "Os três Vs clássicos do Big Data são volume, velocidade e variedade, aos quais costumam ser acrescentados veracidade e valor.",
+"velho": "Big Data.",
+"aula": [
+"Big Data é caracterizado classicamente pelos 3 Vs: volume, velocidade e variedade (acrescentam-se veracidade e valor)."
+]
+},
+{
+"id": "Q-TI-0302",
+"g": "E",
+"e": "Os três Vs clássicos do Big Data são volume, velocidade e vulnerabilidade, aos quais costumam ser acrescentados verificação e visualização.",
+"velho": "Big Data.",
+"aula": [
+"Big Data é caracterizado classicamente pelos 3 Vs: volume, velocidade e variedade (acrescentam-se veracidade e valor)."
+]
+},
+{
+"id": "Q-TI-0303",
+"g": "C",
+"e": "Variáveis qualitativas nominais não possuem ordem natural, como o estado civil, ao passo que as ordinais possuem ordem entre as categorias, como o nível de escolaridade.",
+"velho": "Nominal x ordinal.",
+"aula": [
+"Atributos e tipos de variável: qualitativas (categóricas), nominais (sem ordem: cor, estado civil) ou ordinais (com ordem: escolaridade, nível de satisfação); quantitativas (numéricas), discretas (contagens: número de filhos) ou contínuas (medidas: altura, tempo)."
+]
+},
+{
+"id": "Q-TI-0304",
+"g": "E",
+"e": "Variáveis qualitativas ordinais não possuem ordem natural, como o estado civil, ao passo que as nominais possuem ordem entre as categorias, como o nível de escolaridade.",
+"velho": "Nominal x ordinal.",
+"aula": [
+"Atributos e tipos de variável: qualitativas (categóricas), nominais (sem ordem: cor, estado civil) ou ordinais (com ordem: escolaridade, nível de satisfação); quantitativas (numéricas), discretas (contagens: número de filhos) ou contínuas (medidas: altura, tempo)."
+]
+},
+{
+"id": "Q-TI-0305",
+"g": "C",
+"e": "Variáveis quantitativas discretas resultam de contagens, como o número de filhos, ao passo que as contínuas resultam de medições, como a altura e o tempo.",
+"velho": "Discreta x contínua.",
+"aula": [
+"Atributos e tipos de variável: qualitativas (categóricas), nominais (sem ordem: cor, estado civil) ou ordinais (com ordem: escolaridade, nível de satisfação); quantitativas (numéricas), discretas (contagens: número de filhos) ou contínuas (medidas: altura, tempo)."
+]
+},
+{
+"id": "Q-TI-0306",
+"g": "E",
+"e": "Variáveis quantitativas contínuas resultam de contagens, como o número de filhos, ao passo que as discretas resultam de medições, como a altura e o tempo.",
+"velho": "Discreta x contínua.",
+"aula": [
+"Atributos e tipos de variável: qualitativas (categóricas), nominais (sem ordem: cor, estado civil) ou ordinais (com ordem: escolaridade, nível de satisfação); quantitativas (numéricas), discretas (contagens: número de filhos) ou contínuas (medidas: altura, tempo)."
+]
+},
+{
+"id": "Q-TI-0307",
+"g": "C",
+"e": "Em uma tabela de servidores, a coluna Cargo é uma variável qualitativa nominal, a coluna Nível de escolaridade é qualitativa ordinal e a coluna Tempo de serviço, em anos e meses, é quantitativa contínua.",
+"velho": "Classificação de variáveis.",
+"aula": [
+"Atributos e tipos de variável: qualitativas (categóricas), nominais (sem ordem: cor, estado civil) ou ordinais (com ordem: escolaridade, nível de satisfação); quantitativas (numéricas), discretas (contagens: número de filhos) ou contínuas (medidas: altura, tempo).",
+"Em uma tabela, linha é registro (ou observação, tupla) e coluna é atributo (campo ou variável); chave primária identifica unicamente cada registro."
+]
+},
+{
+"id": "Q-TI-0308",
+"g": "E",
+"e": "Em uma tabela de servidores, a coluna Cargo é uma variável quantitativa discreta, a coluna Nível de escolaridade é qualitativa nominal e a coluna Tempo de serviço, em anos e meses, é qualitativa ordinal.",
+"velho": "Classificação de variáveis.",
+"aula": [
+"Atributos e tipos de variável: qualitativas (categóricas), nominais (sem ordem: cor, estado civil) ou ordinais (com ordem: escolaridade, nível de satisfação); quantitativas (numéricas), discretas (contagens: número de filhos) ou contínuas (medidas: altura, tempo).",
+"Em uma tabela, linha é registro (ou observação, tupla) e coluna é atributo (campo ou variável); chave primária identifica unicamente cada registro."
+]
+},
+{
+"id": "Q-TI-0309",
+"g": "C",
+"e": "Em uma tabela, cada linha corresponde a um registro (observação) e cada coluna, a um atributo (variável); a chave primária identifica de modo único cada registro.",
+"velho": "Estrutura tabular.",
+"aula": [
+"Em uma tabela, linha é registro (ou observação, tupla) e coluna é atributo (campo ou variável); chave primária identifica unicamente cada registro."
+]
+},
+{
+"id": "Q-TI-0310",
+"g": "E",
+"e": "Em uma tabela, cada coluna corresponde a um registro (observação) e cada linha, a um atributo (variável); a chave primária pode se repetir entre registros distintos.",
+"velho": "Estrutura tabular.",
+"aula": [
+"Em uma tabela, linha é registro (ou observação, tupla) e coluna é atributo (campo ou variável); chave primária identifica unicamente cada registro."
+]
+},
+{
+"id": "Q-TI-0311",
+"g": "C",
+"e": "A média aritmética é sensível a valores extremos, ao passo que a mediana, por ser o valor central dos dados ordenados, é mais robusta a eles.",
+"velho": "Média x mediana.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0312",
+"g": "E",
+"e": "A mediana é sensível a valores extremos, ao passo que a média aritmética, por ser o valor central dos dados ordenados, é mais robusta a eles.",
+"velho": "Média x mediana.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0313",
+"g": "C",
+"e": "Para o conjunto de valores 2, 3, 4, 5 e 100, a mediana é 4 e a média aritmética é 22,8, o que ilustra a influência de um valor extremo sobre a média.",
+"velho": "Soma = 114; 114/5 = 22,8; valor central = 4.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0314",
+"g": "E",
+"e": "Para o conjunto de valores 2, 3, 4, 5 e 100, a mediana é 22,8 e a média aritmética é 4, o que ilustra a influência de um valor extremo sobre a mediana.",
+"velho": "Soma = 114; 114/5 = 22,8; valor central = 4.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0315",
+"g": "C",
+"e": "No conjunto de valores 1, 2, 2, 3 e 4, a moda é 2, pois é o valor que aparece com maior frequência.",
+"velho": "Moda é o valor mais frequente.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0316",
+"g": "E",
+"e": "No conjunto de valores 1, 2, 2, 3 e 4, a moda é 4, pois é o maior valor do conjunto. Trata-se de prática corrente.",
+"velho": "Moda é o valor mais frequente.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0317",
+"g": "C",
+"e": "O desvio padrão é a raiz quadrada da variância e é expresso na mesma unidade dos dados originais, ao passo que a variância é expressa no quadrado dessa unidade.",
+"velho": "Variância e desvio padrão.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…"
+]
+},
+{
+"id": "Q-TI-0318",
+"g": "E",
+"e": "A variância é a raiz quadrada do desvio padrão e é expressa na mesma unidade dos dados originais, ao passo que o desvio padrão é expresso no quadrado dessa unidade.",
+"velho": "Variância e desvio padrão.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…"
+]
+}
+]

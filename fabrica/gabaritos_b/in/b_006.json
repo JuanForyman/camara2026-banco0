@@ -1,0 +1,702 @@
+[
+{
+"id": "Q-EN-0206",
+"g": "E",
+"e": "“The airline cancelled 40 flights on Monday because of a storm. Passengers were offered hotel rooms.” — The cancellations were caused by a strike.",
+"velho": "Because of a storm.",
+"aula": [
+"Ideia principal = o que o texto sustenta como um todo; detalhes = dados, exemplos, nomes. Marcadores de contraste (but, while, although) mostram duas posições; 'according to' atribui a informação a uma fonte.",
+"Pegadinha: afirmar algo que o texto não diz, trocar a fonte (supporters × critics) ou inverter um dado."
+]
+},
+{
+"id": "Q-EN-0207",
+"g": "C",
+"e": "“Renewable energy now supplies a third of the country's electricity, up from 10% a decade ago.” — The share of renewable energy has increased over ten years.",
+"velho": "Up from 10% = aumento.",
+"aula": [
+"Ideia principal = o que o texto sustenta como um todo; detalhes = dados, exemplos, nomes. Marcadores de contraste (but, while, although) mostram duas posições; 'according to' atribui a informação a uma fonte.",
+"Pegadinha: afirmar algo que o texto não diz, trocar a fonte (supporters × critics) ou inverter um dado."
+]
+},
+{
+"id": "Q-EN-0208",
+"g": "E",
+"e": "“Renewable energy now supplies a third of the country's electricity, up from 10% a decade ago.” — The share of renewable energy has decreased over ten years.",
+"velho": "Up from 10% = aumento.",
+"aula": [
+"Ideia principal = o que o texto sustenta como um todo; detalhes = dados, exemplos, nomes. Marcadores de contraste (but, while, although) mostram duas posições; 'according to' atribui a informação a uma fonte.",
+"Pegadinha: afirmar algo que o texto não diz, trocar a fonte (supporters × critics) ou inverter um dado."
+]
+},
+{
+"id": "Q-EN-0209",
+"g": "C",
+"e": "“The minister declined to comment on the report, saying only that an investigation was under way.” — The minister did not comment on the content of the report.",
+"velho": "Declined to comment.",
+"aula": [
+"Ideia principal = o que o texto sustenta como um todo; detalhes = dados, exemplos, nomes. Marcadores de contraste (but, while, although) mostram duas posições; 'according to' atribui a informação a uma fonte.",
+"Pegadinha: afirmar algo que o texto não diz, trocar a fonte (supporters × critics) ou inverter um dado."
+]
+},
+{
+"id": "Q-EN-0210",
+"g": "E",
+"e": "“The minister declined to comment on the report, saying only that an investigation was under way.” — The minister praised the report. This is the rule.",
+"velho": "Declined to comment.",
+"aula": [
+"Ideia principal = o que o texto sustenta como um todo; detalhes = dados, exemplos, nomes. Marcadores de contraste (but, while, although) mostram duas posições; 'according to' atribui a informação a uma fonte.",
+"Pegadinha: afirmar algo que o texto não diz, trocar a fonte (supporters × critics) ou inverter um dado."
+]
+},
+{
+"id": "Q-EN-0211",
+"g": "C",
+"e": "“Not every voter supports the proposal; a recent poll found that 45% oppose it.” — According to the poll, 45% of voters are against the proposal.",
+"velho": "Oppose = ser contra.",
+"aula": [
+"Ideia principal = o que o texto sustenta como um todo; detalhes = dados, exemplos, nomes. Marcadores de contraste (but, while, although) mostram duas posições; 'according to' atribui a informação a uma fonte.",
+"Pegadinha: afirmar algo que o texto não diz, trocar a fonte (supporters × critics) ou inverter um dado."
+]
+},
+{
+"id": "Q-EN-0212",
+"g": "E",
+"e": "“Not every voter supports the proposal; a recent poll found that 45% oppose it.” — According to the poll, 45% of voters support the proposal.",
+"velho": "Oppose = ser contra.",
+"aula": [
+"Ideia principal = o que o texto sustenta como um todo; detalhes = dados, exemplos, nomes. Marcadores de contraste (but, while, although) mostram duas posições; 'according to' atribui a informação a uma fonte.",
+"Pegadinha: afirmar algo que o texto não diz, trocar a fonte (supporters × critics) ou inverter um dado."
+]
+},
+{
+"id": "Q-EN-0213",
+"g": "C",
+"e": "“Experts warn that the new software may reduce errors, but it cannot replace human judgment.” — The experts see a limit to what the software can do.",
+"velho": "Cannot replace.",
+"aula": [
+"Ideia principal = o que o texto sustenta como um todo; detalhes = dados, exemplos, nomes. Marcadores de contraste (but, while, although) mostram duas posições; 'according to' atribui a informação a uma fonte.",
+"Pegadinha: afirmar algo que o texto não diz, trocar a fonte (supporters × critics) ou inverter um dado."
+]
+},
+{
+"id": "Q-EN-0214",
+"g": "E",
+"e": "“Experts warn that the new software may reduce errors, but it cannot replace human judgment.” — The experts say the software can replace human judgment.",
+"velho": "Cannot replace.",
+"aula": [
+"Ideia principal = o que o texto sustenta como um todo; detalhes = dados, exemplos, nomes. Marcadores de contraste (but, while, although) mostram duas posições; 'according to' atribui a informação a uma fonte.",
+"Pegadinha: afirmar algo que o texto não diz, trocar a fonte (supporters × critics) ou inverter um dado."
+]
+},
+{
+"id": "Q-EN-0215",
+"g": "C",
+"e": "“After three hours of debate, the committee had still not reached an agreement.” — It can be inferred that the debate was long and inconclusive.",
+"velho": "Still not reached.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0216",
+"g": "E",
+"e": "“After three hours of debate, the committee had still not reached an agreement.” — It can be inferred that the committee approved the proposal.",
+"velho": "Still not reached.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0217",
+"g": "C",
+"e": "“The report was released late on Friday, when few people were paying attention.” — The author suggests that the timing may have reduced attention to the report.",
+"velho": "Late Friday, few people.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0218",
+"g": "E",
+"e": "“The report was released late on Friday, when few people were paying attention.” — The author says the report received wide media coverage. This is correct.",
+"velho": "Late Friday, few people.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0219",
+"g": "C",
+"e": "“Critics call the plan “ambitious”; supporters call it “necessary”.” — The text reports two different views of the plan.",
+"velho": "Critics × supporters.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0220",
+"g": "E",
+"e": "“Critics call the plan “ambitious”; supporters call it “necessary”.” — The text shows that everyone agrees about the plan.",
+"velho": "Critics × supporters.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0221",
+"g": "C",
+"e": "“The company says the data leak affected “a small number” of users, but did not give a figure.” — The company did not state how many users were affected.",
+"velho": "Did not give a figure.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0222",
+"g": "E",
+"e": "“The company says the data leak affected “a small number” of users, but did not give a figure.” — The company stated the exact number of users affected.",
+"velho": "Did not give a figure.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0223",
+"g": "C",
+"e": "“The senators approved the budget, which had been delayed for months.” — In the sentence, “which” refers to the budget.",
+"velho": "Which = the budget.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0224",
+"g": "E",
+"e": "“The senators approved the budget, which had been delayed for months.” — In the sentence, “which” refers to the senators.",
+"velho": "Which = the budget.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0225",
+"g": "C",
+"e": "“Thanks to the new app, queues at the clinic are shorter. Patients no longer wait outside.” — The new app has improved the situation at the clinic.",
+"velho": "Thanks to = por causa de (positivo).",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0226",
+"g": "E",
+"e": "“Thanks to the new app, queues at the clinic are shorter. Patients no longer wait outside.” — The new app has made the queues longer. This is the usual use.",
+"velho": "Thanks to = por causa de (positivo).",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0227",
+"g": "C",
+"e": "“What a surprise! The meeting finished early for once.” — The author's tone suggests that meetings usually do not finish early.",
+"velho": "For once = dessa vez.",
+"aula": [
+"Referentes: it, they, which retomam termos anteriores. Tom: 'What a surprise! ... for once' sugere que algo é incomum.",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0228",
+"g": "E",
+"e": "“What a surprise! The meeting finished early for once.” — The author's tone suggests that meetings usually finish early.",
+"velho": "For once = dessa vez.",
+"aula": [
+"Referentes: it, they, which retomam termos anteriores. Tom: 'What a surprise! ... for once' sugere que algo é incomum.",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0229",
+"g": "C",
+"e": "“Unlike last year, this year's budget includes funds for training.” — It can be inferred that last year's budget did not include funds for training.",
+"velho": "Unlike = ao contrário de.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0230",
+"g": "E",
+"e": "“Unlike last year, this year's budget includes funds for training.” — It can be inferred that both budgets include funds for training. This is correct.",
+"velho": "Unlike = ao contrário de.",
+"aula": [
+"Inferir é concluir o que o texto sugere sem dizer: 'still not reached an agreement' → não houve acordo. Atenção a modalizadores (may, might, some, a small number) e a negações (did not give a figure).",
+"Pegadinha: transformar sugestão em fato, ou 'some/a small number' em número exato."
+]
+},
+{
+"id": "Q-EN-0231",
+"g": "C",
+"e": "“AI” stands for “artificial intelligence”.",
+"velho": "AI = inteligência artificial.",
+"aula": [
+"Siglas e termos: AI = artificial intelligence;",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0232",
+"g": "E",
+"e": "“AI” stands for “automatic internet”.",
+"velho": "AI = inteligência artificial.",
+"aula": [
+"Siglas e termos: AI = artificial intelligence;",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0233",
+"g": "C",
+"e": "“Fake news” refers to false information presented as news.",
+"velho": "Fake news = notícia falsa.",
+"aula": [
+"ASAP = as soon as possible; fake news; data breach (vazamento de dados); deepfake (mídia falsa criada por IA); clickbait; screen time; to go viral.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0234",
+"g": "E",
+"e": "“Fake news” refers to news about fashion. This is the rule.",
+"velho": "Fake news = notícia falsa.",
+"aula": [
+"ASAP = as soon as possible; fake news; data breach (vazamento de dados); deepfake (mídia falsa criada por IA); clickbait; screen time; to go viral.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0235",
+"g": "C",
+"e": "A “data breach” is an incident in which data is exposed or stolen.",
+"velho": "Data breach = vazamento.",
+"aula": [
+"ASAP = as soon as possible; fake news; data breach (vazamento de dados); deepfake (mídia falsa criada por IA); clickbait; screen time; to go viral.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0236",
+"g": "E",
+"e": "A “data breach” is a contract for data storage. This is correct.",
+"velho": "Data breach = vazamento.",
+"aula": [
+"ASAP = as soon as possible; fake news; data breach (vazamento de dados); deepfake (mídia falsa criada por IA); clickbait; screen time; to go viral.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0237",
+"g": "C",
+"e": "In informal English, “gonna” is a contraction of “going to”.",
+"velho": "Gonna = going to.",
+"aula": [
+"Informal: gonna = going to; wanna = want to; a piece of cake = muito fácil.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0238",
+"g": "E",
+"e": "In informal English, “gonna” is a contraction of “got to”.",
+"velho": "Gonna = going to.",
+"aula": [
+"Informal: gonna = going to; wanna = want to; a piece of cake = muito fácil.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0239",
+"g": "C",
+"e": "“ASAP” means “as soon as possible”.",
+"velho": "ASAP = o quanto antes.",
+"aula": [
+"ASAP = as soon as possible; fake news; data breach (vazamento de dados); deepfake (mídia falsa criada por IA); clickbait; screen time; to go viral.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0240",
+"g": "E",
+"e": "“ASAP” means “always send a package”.",
+"velho": "ASAP = o quanto antes.",
+"aula": [
+"Siglas e termos: AI = artificial intelligence;",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0241",
+"g": "C",
+"e": "“A piece of cake” is an idiom that means something very easy.",
+"velho": "Piece of cake = moleza.",
+"aula": [
+"Informal: gonna = going to; wanna = want to; a piece of cake = muito fácil.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0242",
+"g": "E",
+"e": "“A piece of cake” is an idiom that means something very expensive.",
+"velho": "Piece of cake = moleza.",
+"aula": [
+"Informal: gonna = going to; wanna = want to; a piece of cake = muito fácil.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0243",
+"g": "C",
+"e": "“To go viral” means to spread quickly online.",
+"velho": "Go viral = viralizar.",
+"aula": [
+"Siglas e termos: AI = artificial intelligence;",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0244",
+"g": "E",
+"e": "“To go viral” means to get sick online.",
+"velho": "Go viral = viralizar.",
+"aula": [
+"Siglas e termos: AI = artificial intelligence;",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0245",
+"g": "C",
+"e": "A “deepfake” is media altered by AI to imitate a real person.",
+"velho": "Deepfake = mídia falsa por IA.",
+"aula": [
+"ASAP = as soon as possible; fake news; data breach (vazamento de dados); deepfake (mídia falsa criada por IA); clickbait; screen time; to go viral.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0246",
+"g": "E",
+"e": "A “deepfake” is a type of encryption. This is the rule.",
+"velho": "Deepfake = mídia falsa por IA.",
+"aula": [
+"ASAP = as soon as possible; fake news; data breach (vazamento de dados); deepfake (mídia falsa criada por IA); clickbait; screen time; to go viral.",
+"Pegadinha: traduzir expressão idiomática ao pé da letra."
+]
+},
+{
+"id": "Q-EN-0247",
+"g": "C",
+"e": "“Prices doubled” means that prices became twice as high.",
+"velho": "Doubled = dobrou.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0248",
+"g": "E",
+"e": "“Prices doubled” means that prices fell by half.",
+"velho": "Doubled = dobrou.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0249",
+"g": "C",
+"e": "“Sales plunged by 30%” indicates a sharp fall.",
+"velho": "Plunge = despencar.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0250",
+"g": "E",
+"e": "“Sales plunged by 30%” indicates a slight rise.",
+"velho": "Plunge = despencar.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0251",
+"g": "C",
+"e": "“Unemployment fell from 9% to 6%” shows a decrease of three percentage points.",
+"velho": "Fell = caiu.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0252",
+"g": "E",
+"e": "“Unemployment fell from 9% to 6%” shows an increase of three percentage points.",
+"velho": "Fell = caiu.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0253",
+"g": "C",
+"e": "“Soar” and “surge” indicate a sharp rise.",
+"velho": "Soar/surge = disparar.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0254",
+"g": "E",
+"e": "“Soar” and “surge” indicate stability.",
+"velho": "Soar/surge = disparar.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0255",
+"g": "C",
+"e": "“Remained stable” means that something did not change significantly.",
+"velho": "Stable = estável.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0256",
+"g": "E",
+"e": "“Remained stable” means that something changed sharply. This is the usual use.",
+"velho": "Stable = estável.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0257",
+"g": "C",
+"e": "“A threefold increase” means that the value became three times larger.",
+"velho": "Threefold = triplo.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0258",
+"g": "E",
+"e": "“A threefold increase” means that the value increased by 3%. This is the rule.",
+"velho": "Threefold = triplo.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0259",
+"g": "C",
+"e": "“Nearly half of the voters” means slightly less than 50%.",
+"velho": "Nearly = quase.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0260",
+"g": "E",
+"e": "“Nearly half of the voters” means slightly more than 50%.",
+"velho": "Nearly = quase.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0261",
+"g": "C",
+"e": "“Over 60%” means more than 60%.",
+"velho": "Over = mais de.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0262",
+"g": "E",
+"e": "“Over 60%” means less than 60%.",
+"velho": "Over = mais de.",
+"aula": [
+"Alta: rise, increase, grow, soar, surge (forte). Queda: fall, drop, decline, plunge (forte). Estabilidade: remain stable. Double = dobrar; threefold = três vezes; nearly/almost = quase; over/more than = mais de; from X to Y = de X para Y; by 20% = em 20%.",
+"Pegadinha: trocar alta por queda ou 'nearly half' por 'mais da metade'."
+]
+},
+{
+"id": "Q-EN-0263",
+"g": "C",
+"e": "In “He enjoys reading reports”, the verb “enjoy” is followed by a gerund.",
+"velho": "Enjoy + -ing.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0264",
+"g": "E",
+"e": "In “He enjoys reading reports”, the verb “enjoy” is followed by “to + infinitive”.",
+"velho": "Enjoy + -ing.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0265",
+"g": "C",
+"e": "In “She decided to resign”, the verb “decide” is followed by an infinitive.",
+"velho": "Decide + to.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0266",
+"g": "E",
+"e": "In “She decided to resign”, the verb “decide” is followed by a gerund.",
+"velho": "Decide + to.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0267",
+"g": "C",
+"e": "In “Please sign here”, the verb “sign” is in the imperative.",
+"velho": "Imperativo = verbo base.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0268",
+"g": "E",
+"e": "In “Please sign here”, the verb “sign” is in the past tense.",
+"velho": "Imperativo = verbo base.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0269",
+"g": "C",
+"e": "In “the senator's office”, the apostrophe + s shows possession.",
+"velho": "'s = posse.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0270",
+"g": "E",
+"e": "In “the senator's office”, the apostrophe + s is a contraction of “is”.",
+"velho": "'s = posse.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0271",
+"g": "C",
+"e": "The question tag in “The vote was fair, wasn't it?” seeks confirmation.",
+"velho": "Tag pede confirmação.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0272",
+"g": "E",
+"e": "The question tag in “The vote was fair, wasn't it?” introduces a new topic.",
+"velho": "Tag pede confirmação.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0273",
+"g": "C",
+"e": "In “It is important that he be present”, the verb “be” is in the subjunctive.",
+"velho": "Subjuntivo: be.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0274",
+"g": "E",
+"e": "In “It is important that he be present”, the verb “be” is in the indicative.",
+"velho": "Subjuntivo: be.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+},
+{
+"id": "Q-EN-0275",
+"g": "C",
+"e": "In “I did call you!”, the auxiliary “did” emphasizes the verb.",
+"velho": "Did enfático.",
+"aula": [
+"Enjoy, avoid, finish, keep + -ing; decide, want, hope, refuse + to infinitivo. Imperativo = verbo base ('Sign here'). Subjuntivo: 'It is important that he be present'. Question tag pede confirmação ('wasn't it?'). 's marca posse (the senator's office). 'Did' enfático: 'I did call.'",
+"Pegadinha: inverter stop smoking × stop to smoke ou confundir 's de posse com 'is'."
+]
+}
+]

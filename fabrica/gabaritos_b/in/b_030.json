@@ -1,0 +1,701 @@
+[
+{
+"id": "Q-LP-0028",
+"g": "E",
+"e": "Em 'Apesar das divergências entre os partidos que compõem a base, o governo aprovou a reforma', a vírgula após 'base' é indevida, pois adjuntos adverbiais antecipados não se separam do restante da frase.",
+"velho": "Adjunto longo antecipado: vírgula.",
+"aula": [
+"Adjunto adverbial curto antecipado: vírgula facultativa ('Ontem o plenário votou'). Longo ou intercalado: vírgula recomendada/obrigatória ('Apesar das divergências entre os partidos que compõem a base, o governo aprovou...'; 'O governo, em razão da crise, adiou a votação').",
+"Pegadinha: afirmar que a vírgula é 'indevida' onde é obrigatória (intercalação) ou 'obrigatória' onde é facultativa (adjunto curto)."
+]
+},
+{
+"id": "Q-LP-0029",
+"g": "C",
+"e": "Em 'O governo, em razão da crise, adiou a votação', as duas vírgulas formam um par: suprimir apenas a primeira ou a segunda tornaria a pontuação inadequada.",
+"velho": "Intercalado: vírgulas em par.",
+"aula": [
+"Adjunto adverbial curto antecipado: vírgula facultativa ('Ontem o plenário votou'). Longo ou intercalado: vírgula recomendada/obrigatória ('Apesar das divergências entre os partidos que compõem a base, o governo aprovou...'; 'O governo, em razão da crise, adiou a votação').",
+"Conjunções adversativas, conclusivas e explicativas vêm isoladas por vírgula ('mas', 'porém', 'portanto', 'pois' após o verbo); intercaladas, entre duas vírgulas ('A proposta é, portanto, inconstitucional'). A conjunção 'e' em regra dispensa vírgula, mas admite-se quando liga orações de sujeitos diferentes."
+]
+},
+{
+"id": "Q-LP-0030",
+"g": "E",
+"e": "Em 'O governo, em razão da crise, adiou a votação', é possível suprimir apenas a vírgula depois de 'governo', mantendo a outra, sem prejuízo da pontuação.",
+"velho": "Intercalado: vírgulas em par.",
+"aula": [
+"Adjunto adverbial curto antecipado: vírgula facultativa ('Ontem o plenário votou'). Longo ou intercalado: vírgula recomendada/obrigatória ('Apesar das divergências entre os partidos que compõem a base, o governo aprovou...'; 'O governo, em razão da crise, adiou a votação').",
+"Conjunções adversativas, conclusivas e explicativas vêm isoladas por vírgula ('mas', 'porém', 'portanto', 'pois' após o verbo); intercaladas, entre duas vírgulas ('A proposta é, portanto, inconstitucional'). A conjunção 'e' em regra dispensa vírgula, mas admite-se quando liga orações de sujeitos diferentes."
+]
+},
+{
+"id": "Q-LP-0031",
+"g": "C",
+"e": "Em 'A proposta é, portanto, inconstitucional', as duas vírgulas isolam a conjunção conclusiva intercalada.",
+"velho": "Conjunção intercalada: duas vírgulas.",
+"aula": [
+"Conjunções adversativas, conclusivas e explicativas vêm isoladas por vírgula ('mas', 'porém', 'portanto', 'pois' após o verbo); intercaladas, entre duas vírgulas ('A proposta é, portanto, inconstitucional'). A conjunção 'e' em regra dispensa vírgula, mas admite-se quando liga orações de sujeitos diferentes.",
+"Pegadinha: afirmar que a vírgula é 'indevida' onde é obrigatória (intercalação) ou 'obrigatória' onde é facultativa (adjunto curto)."
+]
+},
+{
+"id": "Q-LP-0032",
+"g": "E",
+"e": "Em 'A proposta é, portanto, inconstitucional', a supressão de uma só das vírgulas manteria a correção do período.",
+"velho": "Conjunção intercalada: duas vírgulas.",
+"aula": [
+"Conjunções adversativas, conclusivas e explicativas vêm isoladas por vírgula ('mas', 'porém', 'portanto', 'pois' após o verbo); intercaladas, entre duas vírgulas ('A proposta é, portanto, inconstitucional'). A conjunção 'e' em regra dispensa vírgula, mas admite-se quando liga orações de sujeitos diferentes.",
+"Pegadinha: afirmar que a vírgula é 'indevida' onde é obrigatória (intercalação) ou 'obrigatória' onde é facultativa (adjunto curto)."
+]
+},
+{
+"id": "Q-LP-0033",
+"g": "C",
+"e": "Em 'O texto foi aprovado, mas ainda depende de sanção', a vírgula antes de 'mas' é adequada, pois a conjunção adversativa liga orações coordenadas.",
+"velho": "Adversativa: vírgula antes.",
+"aula": [
+"Conjunções adversativas, conclusivas e explicativas vêm isoladas por vírgula ('mas', 'porém', 'portanto', 'pois' após o verbo); intercaladas, entre duas vírgulas ('A proposta é, portanto, inconstitucional'). A conjunção 'e' em regra dispensa vírgula, mas admite-se quando liga orações de sujeitos diferentes.",
+"Pegadinha: afirmar que a vírgula é 'indevida' onde é obrigatória (intercalação) ou 'obrigatória' onde é facultativa (adjunto curto)."
+]
+},
+{
+"id": "Q-LP-0034",
+"g": "E",
+"e": "Em 'O texto foi aprovado, mas ainda depende de sanção', a vírgula antes de 'mas' é inadequada, pois conjunções adversativas dispensam vírgula.",
+"velho": "Adversativa: vírgula antes.",
+"aula": [
+"Conjunções adversativas, conclusivas e explicativas vêm isoladas por vírgula ('mas', 'porém', 'portanto', 'pois' após o verbo); intercaladas, entre duas vírgulas ('A proposta é, portanto, inconstitucional'). A conjunção 'e' em regra dispensa vírgula, mas admite-se quando liga orações de sujeitos diferentes.",
+"Pegadinha: afirmar que a vírgula é 'indevida' onde é obrigatória (intercalação) ou 'obrigatória' onde é facultativa (adjunto curto)."
+]
+},
+{
+"id": "Q-LP-0035",
+"g": "C",
+"e": "Em 'O relator leu o parecer, e os deputados o aprovaram', a vírgula antes de 'e' é admitida, pois a conjunção liga orações de sujeitos diferentes.",
+"velho": "'e' com sujeitos diferentes admite vírgula.",
+"aula": [
+"Conjunções adversativas, conclusivas e explicativas vêm isoladas por vírgula ('mas', 'porém', 'portanto', 'pois' após o verbo); intercaladas, entre duas vírgulas ('A proposta é, portanto, inconstitucional'). A conjunção 'e' em regra dispensa vírgula, mas admite-se quando liga orações de sujeitos diferentes.",
+"Pegadinha: afirmar que a vírgula é 'indevida' onde é obrigatória (intercalação) ou 'obrigatória' onde é facultativa (adjunto curto)."
+]
+},
+{
+"id": "Q-LP-0036",
+"g": "E",
+"e": "Em 'O relator leu o parecer, e os deputados o aprovaram', a vírgula antes de 'e' é inadequada, pois não se emprega vírgula antes dessa conjunção.",
+"velho": "'e' com sujeitos diferentes admite vírgula.",
+"aula": [
+"Conjunções adversativas, conclusivas e explicativas vêm isoladas por vírgula ('mas', 'porém', 'portanto', 'pois' após o verbo); intercaladas, entre duas vírgulas ('A proposta é, portanto, inconstitucional'). A conjunção 'e' em regra dispensa vírgula, mas admite-se quando liga orações de sujeitos diferentes.",
+"Pegadinha: afirmar que a vírgula é 'indevida' onde é obrigatória (intercalação) ou 'obrigatória' onde é facultativa (adjunto curto)."
+]
+},
+{
+"id": "Q-LP-0037",
+"g": "C",
+"e": "Em 'Quando o relator concluiu a leitura, o presidente abriu a discussão', a vírgula é adequada porque a oração subordinada adverbial está anteposta à principal.",
+"velho": "Adverbial anteposta: vírgula.",
+"aula": [
+"Oração subordinada adverbial anteposta: vírgula ('Quando o relator concluiu, o presidente abriu a discussão'). Posposta: vírgula facultativa. Expressões explicativas ('isto é', 'ou seja', 'por exemplo') vêm entre vírgulas.",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0038",
+"g": "E",
+"e": "Em 'Quando o relator concluiu a leitura, o presidente abriu a discussão', a vírgula é indevida, pois separa a oração subordinada da principal. Isso é consenso.",
+"velho": "Adverbial anteposta: vírgula.",
+"aula": [
+"Oração subordinada adverbial anteposta: vírgula ('Quando o relator concluiu, o presidente abriu a discussão'). Posposta: vírgula facultativa. Expressões explicativas ('isto é', 'ou seja', 'por exemplo') vêm entre vírgulas.",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0039",
+"g": "C",
+"e": "Em 'O presidente abriu a discussão quando o relator concluiu a leitura', a ausência de vírgula é admitida, pois a oração subordinada adverbial está posposta.",
+"velho": "Adverbial posposta: vírgula facultativa.",
+"aula": [
+"Oração subordinada adverbial anteposta: vírgula ('Quando o relator concluiu, o presidente abriu a discussão'). Posposta: vírgula facultativa. Expressões explicativas ('isto é', 'ou seja', 'por exemplo') vêm entre vírgulas.",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0040",
+"g": "E",
+"e": "Em 'O presidente abriu a discussão quando o relator concluiu a leitura', a vírgula antes de 'quando' é obrigatória, pois a oração subordinada adverbial está posposta.",
+"velho": "Adverbial posposta: vírgula facultativa.",
+"aula": [
+"Oração subordinada adverbial anteposta: vírgula ('Quando o relator concluiu, o presidente abriu a discussão'). Posposta: vírgula facultativa. Expressões explicativas ('isto é', 'ou seja', 'por exemplo') vêm entre vírgulas.",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0041",
+"g": "C",
+"e": "Em 'O texto foi aprovado, ou seja, não haverá novas alterações', as vírgulas antes e depois de 'ou seja' isolam expressão explicativa.",
+"velho": "'Ou seja' é isolado dos dois lados.",
+"aula": [
+"Oração subordinada adverbial anteposta: vírgula ('Quando o relator concluiu, o presidente abriu a discussão'). Posposta: vírgula facultativa. Expressões explicativas ('isto é', 'ou seja', 'por exemplo') vêm entre vírgulas.",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0042",
+"g": "E",
+"e": "Em 'O texto foi aprovado, ou seja não haverá novas alterações', a pontuação está correta, pois a expressão explicativa dispensa a segunda vírgula.",
+"velho": "'Ou seja' é isolado dos dois lados.",
+"aula": [
+"Oração subordinada adverbial anteposta: vírgula ('Quando o relator concluiu, o presidente abriu a discussão'). Posposta: vírgula facultativa. Expressões explicativas ('isto é', 'ou seja', 'por exemplo') vêm entre vírgulas.",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0043",
+"g": "C",
+"e": "Em 'Não houve sessão, pois faltou quórum', a vírgula antes de 'pois' é adequada, por tratar-se de conjunção explicativa.",
+"velho": "'Pois' explicativo é coordenativo: vírgula.",
+"aula": [
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0044",
+"g": "E",
+"e": "Em 'Não houve sessão, pois faltou quórum', a vírgula antes de 'pois' é indevida, pois essa palavra introduz oração subordinada.",
+"velho": "'Pois' explicativo é coordenativo: vírgula.",
+"aula": [
+"Oração subordinada adverbial anteposta: vírgula ('Quando o relator concluiu, o presidente abriu a discussão'). Posposta: vírgula facultativa. Expressões explicativas ('isto é', 'ou seja', 'por exemplo') vêm entre vírgulas.",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0045",
+"g": "C",
+"e": "Em 'Foram aprovados o orçamento, a LDO e o PPA', não há vírgula antes do 'e' que encerra a enumeração.",
+"velho": "'E' final da enumeração dispensa vírgula.",
+"aula": [
+"Enumeração: vírgulas entre os itens, sem vírgula antes do 'e' final. Elipse do verbo: vírgula no lugar do verbo omitido ('O Senado aprovou o projeto; a Câmara, a emenda'). Local e data: 'Brasília, 16 de outubro de 2026.'",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0046",
+"g": "E",
+"e": "Em 'Foram aprovados o orçamento, a LDO e o PPA', a vírgula antes do 'e' que encerra a enumeração é obrigatória.",
+"velho": "'E' final da enumeração dispensa vírgula.",
+"aula": [
+"Enumeração: vírgulas entre os itens, sem vírgula antes do 'e' final. Elipse do verbo: vírgula no lugar do verbo omitido ('O Senado aprovou o projeto; a Câmara, a emenda'). Local e data: 'Brasília, 16 de outubro de 2026.'",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0047",
+"g": "C",
+"e": "Em 'O Senado aprovou o projeto; a Câmara, a emenda', a vírgula após 'Câmara' marca a elipse do verbo 'aprovou'.",
+"velho": "Vírgula pode marcar elipse do verbo.",
+"aula": [
+"Enumeração: vírgulas entre os itens, sem vírgula antes do 'e' final. Elipse do verbo: vírgula no lugar do verbo omitido ('O Senado aprovou o projeto; a Câmara, a emenda'). Local e data: 'Brasília, 16 de outubro de 2026.'",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0048",
+"g": "E",
+"e": "Em 'O Senado aprovou o projeto; a Câmara, a emenda', a vírgula após 'Câmara' marca o fim do sujeito e é indevida.",
+"velho": "Vírgula pode marcar elipse do verbo.",
+"aula": [
+"Enumeração: vírgulas entre os itens, sem vírgula antes do 'e' final. Elipse do verbo: vírgula no lugar do verbo omitido ('O Senado aprovou o projeto; a Câmara, a emenda'). Local e data: 'Brasília, 16 de outubro de 2026.'",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0049",
+"g": "C",
+"e": "O ponto e vírgula pode separar itens de uma enumeração extensa que já contenham vírgulas internas.",
+"velho": "Ponto e vírgula organiza enumerações longas.",
+"aula": [
+"Ponto e vírgula: separa itens longos, sobretudo se já têm vírgulas internas, e orações coordenadas com autonomia. Dois-pontos: introduzem enumeração, citação ou explicação ('Dois temas dominaram: saúde e educação'); não se usam entre verbo e complemento ('Os temas foram: saúde...' é inadequado).",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0050",
+"g": "E",
+"e": "O ponto e vírgula não pode separar itens de uma enumeração que contenham vírgulas internas, ficando restrito ao uso entre orações coordenadas.",
+"velho": "Ponto e vírgula organiza enumerações longas.",
+"aula": [
+"Ponto e vírgula: separa itens longos, sobretudo se já têm vírgulas internas, e orações coordenadas com autonomia. Dois-pontos: introduzem enumeração, citação ou explicação ('Dois temas dominaram: saúde e educação'); não se usam entre verbo e complemento ('Os temas foram: saúde...' é inadequado).",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0051",
+"g": "C",
+"e": "Os dois-pontos podem introduzir enumeração, citação ou explicação, como em 'Dois temas dominaram a pauta: saúde e educação'.",
+"velho": "Dois-pontos também introduzem explicação.",
+"aula": [
+"Ponto e vírgula: separa itens longos, sobretudo se já têm vírgulas internas, e orações coordenadas com autonomia. Dois-pontos: introduzem enumeração, citação ou explicação ('Dois temas dominaram: saúde e educação'); não se usam entre verbo e complemento ('Os temas foram: saúde...' é inadequado).",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0052",
+"g": "E",
+"e": "Os dois-pontos podem introduzir enumeração e citação, mas não explicação, como em 'Dois temas dominaram a pauta: saúde e educação'.",
+"velho": "Dois-pontos também introduzem explicação.",
+"aula": [
+"Ponto e vírgula: separa itens longos, sobretudo se já têm vírgulas internas, e orações coordenadas com autonomia. Dois-pontos: introduzem enumeração, citação ou explicação ('Dois temas dominaram: saúde e educação'); não se usam entre verbo e complemento ('Os temas foram: saúde...' é inadequado).",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0053",
+"g": "C",
+"e": "Em 'Os temas foram: saúde e educação', os dois-pontos são inadequados, pois separam o verbo de seu complemento.",
+"velho": "Dois-pontos não separam verbo e complemento.",
+"aula": [
+"Ponto e vírgula: separa itens longos, sobretudo se já têm vírgulas internas, e orações coordenadas com autonomia. Dois-pontos: introduzem enumeração, citação ou explicação ('Dois temas dominaram: saúde e educação'); não se usam entre verbo e complemento ('Os temas foram: saúde...' é inadequado).",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0054",
+"g": "E",
+"e": "Em 'Os temas foram: saúde e educação', os dois-pontos são obrigatórios, pois a enumeração exige esse sinal depois de verbo.",
+"velho": "Dois-pontos não separam verbo e complemento.",
+"aula": [
+"Ponto e vírgula: separa itens longos, sobretudo se já têm vírgulas internas, e orações coordenadas com autonomia. Dois-pontos: introduzem enumeração, citação ou explicação ('Dois temas dominaram: saúde e educação'); não se usam entre verbo e complemento ('Os temas foram: saúde...' é inadequado).",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0055",
+"g": "C",
+"e": "O travessão duplo pode isolar termo intercalado com ênfase maior do que a das vírgulas.",
+"velho": "Travessão duplo isola intercalados com realce.",
+"aula": [
+"Travessão duplo isola termo com ênfase maior que a das vírgulas; parênteses isolam informação acessória; aspas marcam citação, estrangeirismo e ironia.",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0056",
+"g": "E",
+"e": "O travessão duplo só pode isolar apostos, não admitindo o isolamento de adjunto adverbial intercalado.",
+"velho": "Travessão duplo isola intercalados com realce.",
+"aula": [
+"Travessão duplo isola termo com ênfase maior que a das vírgulas; parênteses isolam informação acessória; aspas marcam citação, estrangeirismo e ironia.",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0057",
+"g": "C",
+"e": "Os parênteses isolam informação acessória, de menor relevância para o desenvolvimento do texto.",
+"velho": "Parênteses = acessório.",
+"aula": [
+"Travessão duplo isola termo com ênfase maior que a das vírgulas; parênteses isolam informação acessória; aspas marcam citação, estrangeirismo e ironia.",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0058",
+"g": "E",
+"e": "Os parênteses isolam informação de maior relevância do que a isolada por vírgulas, destacando-a no desenvolvimento do texto.",
+"velho": "Parênteses = acessório.",
+"aula": [
+"Travessão duplo isola termo com ênfase maior que a das vírgulas; parênteses isolam informação acessória; aspas marcam citação, estrangeirismo e ironia.",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0059",
+"g": "C",
+"e": "As aspas podem indicar citação, estrangeirismo ou emprego irônico de um termo.",
+"velho": "Aspas têm vários usos.",
+"aula": [
+"Travessão duplo isola termo com ênfase maior que a das vírgulas; parênteses isolam informação acessória; aspas marcam citação, estrangeirismo e ironia.",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0060",
+"g": "E",
+"e": "As aspas indicam citação textual, sendo inadequadas para marcar estrangeirismo ou emprego irônico de um termo.",
+"velho": "Aspas têm vários usos.",
+"aula": [
+"Travessão duplo isola termo com ênfase maior que a das vírgulas; parênteses isolam informação acessória; aspas marcam citação, estrangeirismo e ironia.",
+"Pegadinha: restringir o uso do sinal ('apenas citação', 'jamais adjunto adverbial') ou inverter a ênfase entre vírgula, travessão e parênteses."
+]
+},
+{
+"id": "Q-LP-0061",
+"g": "C",
+"e": "As frases 'Não, quero ajuda' e 'Não quero ajuda' têm sentidos diferentes, em razão da posição da vírgula.",
+"velho": "Vírgula muda sentido.",
+"aula": [
+"A pontuação pode mudar o sentido: 'Não, quero ajuda' (nega algo e pede ajuda) × 'Não quero ajuda' (recusa ajuda); 'Vamos comer, João' (vocativo) × 'Vamos comer João' (objeto). Vírgula entre verbo e oração completiva é indevida ('O ministro disse, que votaria...').",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0062",
+"g": "E",
+"e": "As frases 'Não, quero ajuda' e 'Não quero ajuda' têm o mesmo sentido, pois a vírgula não altera o significado.",
+"velho": "Vírgula muda sentido.",
+"aula": [
+"A pontuação pode mudar o sentido: 'Não, quero ajuda' (nega algo e pede ajuda) × 'Não quero ajuda' (recusa ajuda); 'Vamos comer, João' (vocativo) × 'Vamos comer João' (objeto). Vírgula entre verbo e oração completiva é indevida ('O ministro disse, que votaria...').",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0063",
+"g": "C",
+"e": "Em 'Vamos comer, João', o termo 'João' é vocativo; em 'Vamos comer João', passa a ser objeto direto, e a vírgula é o que muda a relação sintática.",
+"velho": "Com vírgula: vocativo.",
+"aula": [
+"A pontuação pode mudar o sentido: 'Não, quero ajuda' (nega algo e pede ajuda) × 'Não quero ajuda' (recusa ajuda); 'Vamos comer, João' (vocativo) × 'Vamos comer João' (objeto). Vírgula entre verbo e oração completiva é indevida ('O ministro disse, que votaria...').",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0064",
+"g": "E",
+"e": "Em 'Vamos comer, João', o termo 'João' é objeto direto; em 'Vamos comer João', passa a ser vocativo, e a vírgula é o que muda a relação sintática.",
+"velho": "Com vírgula: vocativo.",
+"aula": [
+"A pontuação pode mudar o sentido: 'Não, quero ajuda' (nega algo e pede ajuda) × 'Não quero ajuda' (recusa ajuda); 'Vamos comer, João' (vocativo) × 'Vamos comer João' (objeto). Vírgula entre verbo e oração completiva é indevida ('O ministro disse, que votaria...').",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0065",
+"g": "C",
+"e": "No período 'O ministro disse, que votaria contra', a vírgula é indevida, pois separa o verbo da oração subordinada substantiva objetiva direta.",
+"velho": "Objetiva direta não se isola.",
+"aula": [
+"A pontuação pode mudar o sentido: 'Não, quero ajuda' (nega algo e pede ajuda) × 'Não quero ajuda' (recusa ajuda); 'Vamos comer, João' (vocativo) × 'Vamos comer João' (objeto). Vírgula entre verbo e oração completiva é indevida ('O ministro disse, que votaria...').",
+"'Porém', 'contudo', 'entretanto' deslocados para o interior da oração ficam entre vírgulas ('O projeto, porém, foi vetado'). 'Nem... nem' admite vírgula antes do segundo 'nem'."
+]
+},
+{
+"id": "Q-LP-0066",
+"g": "E",
+"e": "No período 'O ministro disse, que votaria contra', a vírgula é obrigatória, pois a oração subordinada substantiva objetiva direta deve vir isolada.",
+"velho": "Objetiva direta não se isola.",
+"aula": [
+"A pontuação pode mudar o sentido: 'Não, quero ajuda' (nega algo e pede ajuda) × 'Não quero ajuda' (recusa ajuda); 'Vamos comer, João' (vocativo) × 'Vamos comer João' (objeto). Vírgula entre verbo e oração completiva é indevida ('O ministro disse, que votaria...').",
+"'Porém', 'contudo', 'entretanto' deslocados para o interior da oração ficam entre vírgulas ('O projeto, porém, foi vetado'). 'Nem... nem' admite vírgula antes do segundo 'nem'."
+]
+},
+{
+"id": "Q-LP-0067",
+"g": "C",
+"e": "Na expressão 'Brasília, 16 de outubro de 2026', a vírgula após o local é obrigatória.",
+"velho": "Local e data: vírgula obrigatória.",
+"aula": [
+"A pontuação pode mudar o sentido: 'Não, quero ajuda' (nega algo e pede ajuda) × 'Não quero ajuda' (recusa ajuda); 'Vamos comer, João' (vocativo) × 'Vamos comer João' (objeto). Vírgula entre verbo e oração completiva é indevida ('O ministro disse, que votaria...').",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0068",
+"g": "E",
+"e": "Na expressão 'Brasília, 16 de outubro de 2026', a vírgula após o local é facultativa.",
+"velho": "Local e data: vírgula obrigatória.",
+"aula": [
+"A pontuação pode mudar o sentido: 'Não, quero ajuda' (nega algo e pede ajuda) × 'Não quero ajuda' (recusa ajuda); 'Vamos comer, João' (vocativo) × 'Vamos comer João' (objeto). Vírgula entre verbo e oração completiva é indevida ('O ministro disse, que votaria...').",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0069",
+"g": "C",
+"e": "Em 'O projeto, porém, foi vetado', as vírgulas são obrigatórias, pois 'porém' está deslocado para o interior da oração.",
+"velho": "Conjunção deslocada: duas vírgulas.",
+"aula": [
+"'Porém', 'contudo', 'entretanto' deslocados para o interior da oração ficam entre vírgulas ('O projeto, porém, foi vetado'). 'Nem... nem' admite vírgula antes do segundo 'nem'.",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0070",
+"g": "E",
+"e": "Em 'O projeto, porém, foi vetado', as vírgulas são dispensáveis, pois 'porém' deslocado para o interior da oração não exige isolamento.",
+"velho": "Conjunção deslocada: duas vírgulas.",
+"aula": [
+"'Porém', 'contudo', 'entretanto' deslocados para o interior da oração ficam entre vírgulas ('O projeto, porém, foi vetado'). 'Nem... nem' admite vírgula antes do segundo 'nem'.",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0071",
+"g": "C",
+"e": "Em 'Nem o relator, nem o presidente compareceram', a vírgula antes do segundo 'nem' é admitida, por haver repetição da conjunção.",
+"velho": "'Nem... nem' admite vírgula.",
+"aula": [
+"'Porém', 'contudo', 'entretanto' deslocados para o interior da oração ficam entre vírgulas ('O projeto, porém, foi vetado'). 'Nem... nem' admite vírgula antes do segundo 'nem'.",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0072",
+"g": "E",
+"e": "Em 'Nem o relator, nem o presidente compareceram', a vírgula antes do segundo 'nem' é inadequada, pois a conjunção aditiva dispensa vírgula.",
+"velho": "'Nem... nem' admite vírgula.",
+"aula": [
+"'Porém', 'contudo', 'entretanto' deslocados para o interior da oração ficam entre vírgulas ('O projeto, porém, foi vetado'). 'Nem... nem' admite vírgula antes do segundo 'nem'.",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0073",
+"g": "C",
+"e": "A frase 'O ministro e o secretário chegaram à Câmara' atende à norma-padrão quanto à concordância verbal.",
+"velho": "Composto anteposto: plural.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Composto posposto: plural ou concordância com o mais próximo."
+]
+},
+{
+"id": "Q-LP-0074",
+"g": "E",
+"e": "A frase 'O ministro e o secretário chegou à Câmara' atende à norma-padrão quanto à concordância verbal.",
+"velho": "Composto anteposto: plural.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Pegadinha: composto no singular ('O ministro e o secretário chegou'), ou 'com' tratado como 'e'."
+]
+},
+{
+"id": "Q-LP-0075",
+"g": "C",
+"e": "Em 'O ministro ou o secretário assinará o ato', o verbo no singular é adequado se houver ideia de exclusão, isto é, se apenas um deles assinar.",
+"velho": "'Ou' com exclusão: singular.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Ligado por 'ou', o singular vale se houver exclusão (só um fará o ato)."
+]
+},
+{
+"id": "Q-LP-0076",
+"g": "E",
+"e": "Em 'O ministro ou o secretário assinará o ato', o verbo no plural é obrigatório, pois o sujeito é composto. Trata-se de prática corrente.",
+"velho": "'Ou' com exclusão: singular.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Pegadinha: composto no singular ('O ministro e o secretário chegou'), ou 'com' tratado como 'e'."
+]
+},
+{
+"id": "Q-LP-0077",
+"g": "C",
+"e": "Em 'O presidente, com os líderes, decidiu a pauta', o verbo concorda no singular, pois 'com os líderes' é adjunto de companhia.",
+"velho": "'Com' não forma sujeito composto.",
+"aula": [
+"Ligado por 'com' (adjunto de companhia), o verbo fica no singular.",
+"Pessoas diferentes: 1ª pessoa prevalece sobre a 2ª e a 3ª ('Eu e o relator votamos'). Sujeito resumido por 'tudo', 'nada', 'ninguém': o verbo concorda com o pronome ('Votos, emendas, tudo se resolveu'). Núcleos sinônimos ou em gradação admitem singular."
+]
+},
+{
+"id": "Q-LP-0078",
+"g": "E",
+"e": "Em 'O presidente, com os líderes, decidiu a pauta', o verbo deveria estar no plural, pois 'com' equivale à conjunção 'e'.",
+"velho": "'Com' não forma sujeito composto.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Composto posposto: plural ou concordância com o mais próximo."
+]
+},
+{
+"id": "Q-LP-0079",
+"g": "C",
+"e": "Em 'A calma, a serenidade, a paciência marcou sua atuação', o verbo no singular é admitido, por haver núcleos sinônimos em gradação.",
+"velho": "Núcleos sinônimos/gradação: singular admitido.",
+"aula": [
+"Ligado por 'com' (adjunto de companhia), o verbo fica no singular.",
+"Pessoas diferentes: 1ª pessoa prevalece sobre a 2ª e a 3ª ('Eu e o relator votamos'). Sujeito resumido por 'tudo', 'nada', 'ninguém': o verbo concorda com o pronome ('Votos, emendas, tudo se resolveu'). Núcleos sinônimos ou em gradação admitem singular."
+]
+},
+{
+"id": "Q-LP-0080",
+"g": "E",
+"e": "Em 'A calma, a serenidade, a paciência marcou sua atuação', o verbo no singular é inadmissível, pois sujeito composto exige verbo no plural.",
+"velho": "Núcleos sinônimos/gradação: singular admitido.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Pessoas diferentes: 1ª pessoa prevalece sobre a 2ª e a 3ª ('Eu e o relator votamos'). Sujeito resumido por 'tudo', 'nada', 'ninguém': o verbo concorda com o pronome ('Votos, emendas, tudo se resolveu'). Núcleos sinônimos ou em gradação admitem singular."
+]
+},
+{
+"id": "Q-LP-0081",
+"g": "C",
+"e": "Em 'Eu e o relator votamos contra', o verbo concorda na primeira pessoa do plural, pois a primeira pessoa prevalece.",
+"velho": "1ª pessoa prevalece.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Pessoas diferentes: 1ª pessoa prevalece sobre a 2ª e a 3ª ('Eu e o relator votamos'). Sujeito resumido por 'tudo', 'nada', 'ninguém': o verbo concorda com o pronome ('Votos, emendas, tudo se resolveu'). Núcleos sinônimos ou em gradação admitem singular."
+]
+},
+{
+"id": "Q-LP-0082",
+"g": "E",
+"e": "Em 'Eu e o relator votaram contra', o verbo concorda na terceira pessoa do plural, pois a primeira pessoa não prevalece sobre a terceira.",
+"velho": "1ª pessoa prevalece.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Pessoas diferentes: 1ª pessoa prevalece sobre a 2ª e a 3ª ('Eu e o relator votamos'). Sujeito resumido por 'tudo', 'nada', 'ninguém': o verbo concorda com o pronome ('Votos, emendas, tudo se resolveu'). Núcleos sinônimos ou em gradação admitem singular."
+]
+},
+{
+"id": "Q-LP-0083",
+"g": "C",
+"e": "Em 'Votos, emendas, destaques, tudo se resolveu em plenário', o verbo concorda com o pronome 'tudo', que resume os elementos enumerados.",
+"velho": "'Tudo' resume o sujeito.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Pessoas diferentes: 1ª pessoa prevalece sobre a 2ª e a 3ª ('Eu e o relator votamos'). Sujeito resumido por 'tudo', 'nada', 'ninguém': o verbo concorda com o pronome ('Votos, emendas, tudo se resolveu'). Núcleos sinônimos ou em gradação admitem singular."
+]
+},
+{
+"id": "Q-LP-0084",
+"g": "E",
+"e": "Em 'Votos, emendas, destaques, tudo se resolveu em plenário', o verbo deveria estar no plural, concordando com os elementos enumerados.",
+"velho": "'Tudo' resume o sujeito.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Pessoas diferentes: 1ª pessoa prevalece sobre a 2ª e a 3ª ('Eu e o relator votamos'). Sujeito resumido por 'tudo', 'nada', 'ninguém': o verbo concorda com o pronome ('Votos, emendas, tudo se resolveu'). Núcleos sinônimos ou em gradação admitem singular."
+]
+},
+{
+"id": "Q-LP-0085",
+"g": "C",
+"e": "Em 'Há muitos projetos em tramitação', o verbo haver, com sentido de existir, é impessoal e fica no singular.",
+"velho": "Haver = existir: impessoal.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0086",
+"g": "E",
+"e": "Em 'Há muitos projetos em tramitação', o verbo haver deveria ir ao plural para concordar com 'projetos'.",
+"velho": "Haver = existir: impessoal.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0087",
+"g": "C",
+"e": "Em 'Faz dois anos que a lei foi publicada', o verbo fazer, indicando tempo decorrido, é impessoal e fica no singular.",
+"velho": "Fazer (tempo): impessoal.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0088",
+"g": "E",
+"e": "Em 'Fazem dois anos que a lei foi publicada', o verbo fazer concorda com 'dois anos', sendo correta a forma no plural.",
+"velho": "Fazer (tempo): impessoal.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"Pegadinha: 'Houveram problemas', 'Fazem dois anos', 'Existe falhas', 'Precisam-se de servidores'."
+]
+},
+{
+"id": "Q-LP-0089",
+"g": "C",
+"e": "A frase 'Existem falhas no sistema' atende à norma-padrão, pois o verbo existir concorda com o sujeito 'falhas'.",
+"velho": "Existir não é impessoal.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0090",
+"g": "E",
+"e": "A frase 'Existe falhas no sistema' atende à norma-padrão, pois o verbo existir é impessoal. Isso é consenso.",
+"velho": "Existir não é impessoal.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"Pegadinha: 'Houveram problemas', 'Fazem dois anos', 'Existe falhas', 'Precisam-se de servidores'."
+]
+},
+{
+"id": "Q-LP-0091",
+"g": "C",
+"e": "Em 'Vendem-se casas', o 'se' é partícula apassivadora, e o verbo concorda com o sujeito 'casas'.",
+"velho": "Verbo transitivo direto + se = passiva.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0092",
+"g": "E",
+"e": "Em 'Vendem-se casas', o 'se' é índice de indeterminação do sujeito, e o verbo deveria ficar no singular.",
+"velho": "Verbo transitivo direto + se = passiva.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0093",
+"g": "C",
+"e": "Em 'Alugam-se salas comerciais', o verbo concorda com o sujeito paciente, pois o 'se' é partícula apassivadora.",
+"velho": "Transitivo direto: concorda com o sujeito.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0094",
+"g": "E",
+"e": "A frase 'Aluga-se salas comerciais' atende à norma-padrão, pois o 'se' indetermina o sujeito. Isso é consenso.",
+"velho": "Transitivo direto: concorda com o sujeito.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0095",
+"g": "C",
+"e": "Em 'Precisa-se de servidores', o verbo fica no singular, pois o 'se' indetermina o sujeito e o verbo é transitivo indireto.",
+"velho": "Transitivo indireto + se: singular.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0096",
+"g": "E",
+"e": "Em 'Precisam-se de servidores', o verbo vai ao plural, pois o 'se' é apassivador e concorda com 'servidores'. Trata-se de prática corrente.",
+"velho": "Transitivo indireto + se: singular.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0097",
+"g": "C",
+"e": "Em 'Trata-se de projetos relevantes', o verbo fica no singular, pois não há sujeito determinado.",
+"velho": "Tratar-se de: singular.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+}
+]

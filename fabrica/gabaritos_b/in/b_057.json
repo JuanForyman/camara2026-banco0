@@ -1,0 +1,685 @@
+[
+{
+"id": "Q-TI-0389",
+"g": "C",
+"e": "No Outlook, uma regra pode mover ou marcar automaticamente as mensagens recebidas que atendam a critérios definidos pelo usuário, como remetente ou assunto.",
+"velho": "Outlook, regras.",
+"aula": [
+"OUTLOOK E SHAREPOINT: o Outlook reúne e-mail, calendário, contatos e tarefas; convites de reunião são enviados pelo calendário e os destinatários respondem aceitando, recusando ou aceitando provisoriamente; regras movem ou marcam mensagens automaticamente; mensagens excluídas vão para a pasta Itens Excluídos antes da remoção definitiva."
+]
+},
+{
+"id": "Q-TI-0390",
+"g": "E",
+"e": "No Outlook, as regras só se aplicam às mensagens enviadas, e não é possível mover ou marcar automaticamente as mensagens recebidas com base em critérios definidos pelo usuário.",
+"velho": "Outlook, regras.",
+"aula": [
+"OUTLOOK E SHAREPOINT: o Outlook reúne e-mail, calendário, contatos e tarefas; convites de reunião são enviados pelo calendário e os destinatários respondem aceitando, recusando ou aceitando provisoriamente; regras movem ou marcam mensagens automaticamente; mensagens excluídas vão para a pasta Itens Excluídos antes da remoção definitiva."
+]
+},
+{
+"id": "Q-TI-0391",
+"g": "C",
+"e": "No Outlook, as mensagens excluídas vão primeiro para a pasta Itens Excluídos, de onde podem ser recuperadas até que essa pasta seja esvaziada ou a remoção definitiva ocorra.",
+"velho": "Outlook, Itens Excluídos.",
+"aula": [
+"Lixeira guarda itens excluídos por tempo limitado (em contas corporativas e escolares, em regra 93 dias).",
+"OUTLOOK E SHAREPOINT: o Outlook reúne e-mail, calendário, contatos e tarefas; convites de reunião são enviados pelo calendário e os destinatários respondem aceitando, recusando ou aceitando provisoriamente; regras movem ou marcam mensagens automaticamente; mensagens excluídas vão para a pasta Itens Excluídos antes da remoção definitiva."
+]
+},
+{
+"id": "Q-TI-0392",
+"g": "E",
+"e": "No Outlook, as mensagens excluídas são removidas definitivamente no mesmo instante, sem passar por pasta intermediária, e não podem ser recuperadas em hipótese alguma.",
+"velho": "Outlook, Itens Excluídos.",
+"aula": [
+"Lixeira guarda itens excluídos por tempo limitado (em contas corporativas e escolares, em regra 93 dias).",
+"OUTLOOK E SHAREPOINT: o Outlook reúne e-mail, calendário, contatos e tarefas; convites de reunião são enviados pelo calendário e os destinatários respondem aceitando, recusando ou aceitando provisoriamente; regras movem ou marcam mensagens automaticamente; mensagens excluídas vão para a pasta Itens Excluídos antes da remoção definitiva."
+]
+},
+{
+"id": "Q-TI-0393",
+"g": "C",
+"e": "O SharePoint organiza sites e bibliotecas de documentos com controle de permissões e histórico de versões, e é o local onde ficam armazenados os arquivos das equipes do Microsoft Teams.",
+"velho": "SharePoint.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint).",
+"SharePoint organiza sites e bibliotecas de documentos com controle de permissões e histórico de versões, e é o repositório dos arquivos das equipes do Teams."
+]
+},
+{
+"id": "Q-TI-0394",
+"g": "E",
+"e": "O SharePoint é um cliente de e-mail instalado no computador e é o local onde ficam armazenados os arquivos de conversas individuais do Microsoft Teams. Trata-se de prática corrente.",
+"velho": "SharePoint.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint).",
+"Os aplicativos têm versão desktop e versão web; a gravação automática (salvamento automático) funciona em arquivos armazenados no OneDrive ou SharePoint e permite coautoria em tempo real."
+]
+},
+{
+"id": "Q-TI-0395",
+"g": "C",
+"e": "O Microsoft 365 Copilot é um assistente de IA generativa integrado aos aplicativos do pacote, que pode redigir, resumir e analisar conteúdo, operando dentro das permissões de acesso do usuário.",
+"velho": "Copilot do Microsoft 365.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint).",
+"Microsoft 365 Copilot é o assistente de IA generativa integrado aos aplicativos, que redige, resume e analisa conteúdo e opera dentro das permissões de acesso do usuário."
+]
+},
+{
+"id": "Q-TI-0396",
+"g": "E",
+"e": "O Microsoft 365 Copilot é um assistente de IA generativa que acessa todo o conteúdo da organização, independentemente das permissões do usuário que o utiliza, o que dispensa a verificação humana das respostas.",
+"velho": "Copilot do Microsoft 365.",
+"aula": [
+"Microsoft 365 Copilot é o assistente de IA generativa integrado aos aplicativos, que redige, resume e analisa conteúdo e opera dentro das permissões de acesso do usuário."
+]
+},
+{
+"id": "Q-TI-0397",
+"g": "C",
+"e": "No Excel, a fórmula =ARRED(2,567;2) resulta em 2,57.",
+"velho": "ARRED arredonda.",
+"aula": [
+"EXCEL, FUNÇÕES ADICIONAIS: ARRED(núm; dígitos) arredonda (ARRED(2,567;2) = 2,57);"
+]
+},
+{
+"id": "Q-TI-0398",
+"g": "E",
+"e": "No Excel, a fórmula =ARRED(2,567;2) resulta em 2,56, pois o Excel descarta as casas decimais excedentes sem arredondar.",
+"velho": "ARRED arredonda.",
+"aula": [
+"EXCEL, FUNÇÕES ADICIONAIS: ARRED(núm; dígitos) arredonda (ARRED(2,567;2) = 2,57);"
+]
+},
+{
+"id": "Q-TI-0399",
+"g": "C",
+"e": "Se as células A1 a A5 do Excel contêm 10, 40, 20, 50 e 30, a fórmula =MAIOR(A1:A5;2) resulta em 40, e a fórmula =MENOR(A1:A5;2) resulta em 20.",
+"velho": "Segundo maior = 40; segundo menor = 20.",
+"aula": [
+"MAIOR(intervalo;k) e MENOR(intervalo;k) devolvem o k-ésimo maior ou menor;"
+]
+},
+{
+"id": "Q-TI-0400",
+"g": "E",
+"e": "Se as células A1 a A5 do Excel contêm 10, 40, 20, 50 e 30, a fórmula =MAIOR(A1:A5;2) resulta em 50, e a fórmula =MENOR(A1:A5;2) resulta em 10.",
+"velho": "Segundo maior = 40; segundo menor = 20.",
+"aula": [
+"MAIOR(intervalo;k) e MENOR(intervalo;k) devolvem o k-ésimo maior ou menor;"
+]
+},
+{
+"id": "Q-TI-0401",
+"g": "C",
+"e": "No Excel, a função E devolve verdadeiro apenas quando todas as condições testadas são verdadeiras, ao passo que a função OU devolve verdadeiro quando ao menos uma das condições é verdadeira.",
+"velho": "Funções lógicas.",
+"aula": [
+"EXCEL, FUNÇÕES ADICIONAIS: ARRED(núm; dígitos) arredonda (ARRED(2,567;2) = 2,57);",
+"E() e OU() combinam condições lógicas (E exige todas verdadeiras;"
+]
+},
+{
+"id": "Q-TI-0402",
+"g": "E",
+"e": "No Excel, a função E devolve verdadeiro quando ao menos uma das condições testadas é verdadeira, ao passo que a função OU devolve verdadeiro apenas quando todas as condições são verdadeiras.",
+"velho": "Funções lógicas.",
+"aula": [
+"EXCEL, FUNÇÕES ADICIONAIS: ARRED(núm; dígitos) arredonda (ARRED(2,567;2) = 2,57);",
+"E() e OU() combinam condições lógicas (E exige todas verdadeiras;"
+]
+},
+{
+"id": "Q-TI-0403",
+"g": "C",
+"e": "Se as células A1 a A5 do Excel contêm 3, 8, 6, 9 e 2, a fórmula =CONT.SE(A1:A5;\">5\") resulta em 3.",
+"velho": "8, 6 e 9 são maiores que 5.",
+"aula": [
+"Funções: SOMA, MÉDIA, MÁXIMO, MÍNIMO, MED (mediana), MODO, CONT.NÚM (conta células com números), CONT.VALORES (conta células não vazias), CONTAR.VAZIO, SE, SOMASE, CONT.SE, MÉDIASES, PROCV (busca vertical, usa a primeira coluna do intervalo; o quarto argumento FALSO ou 0 pede correspondência exata), PROCH, PROCX (substitui PROCV e PROCH, busca em qualquer direção, correspondência exata por padrão)…",
+"CONT.SE(intervalo;critério) conta células que atendem ao critério e SOMASE soma;"
+]
+},
+{
+"id": "Q-TI-0404",
+"g": "E",
+"e": "Se as células A1 a A5 do Excel contêm 3, 8, 6, 9 e 2, a fórmula =CONT.SE(A1:A5;\">5\") resulta em 2.",
+"velho": "8, 6 e 9 são maiores que 5.",
+"aula": [
+"Funções: SOMA, MÉDIA, MÁXIMO, MÍNIMO, MED (mediana), MODO, CONT.NÚM (conta células com números), CONT.VALORES (conta células não vazias), CONTAR.VAZIO, SE, SOMASE, CONT.SE, MÉDIASES, PROCV (busca vertical, usa a primeira coluna do intervalo; o quarto argumento FALSO ou 0 pede correspondência exata), PROCH, PROCX (substitui PROCV e PROCH, busca em qualquer direção, correspondência exata por padrão)…",
+"CONT.SE(intervalo;critério) conta células que atendem ao critério e SOMASE soma;"
+]
+},
+{
+"id": "Q-TI-0405",
+"g": "C",
+"e": "No Excel, a função MÉDIA ignora as células vazias e as que contêm texto no intervalo informado, considerando apenas os valores numéricos.",
+"velho": "MÉDIA ignora texto e vazias.",
+"aula": [
+"Funções: SOMA, MÉDIA, MÁXIMO, MÍNIMO, MED (mediana), MODO, CONT.NÚM (conta células com números), CONT.VALORES (conta células não vazias), CONTAR.VAZIO, SE, SOMASE, CONT.SE, MÉDIASES, PROCV (busca vertical, usa a primeira coluna do intervalo; o quarto argumento FALSO ou 0 pede correspondência exata), PROCH, PROCX (substitui PROCV e PROCH, busca em qualquer direção, correspondência exata por padrão)…",
+"MÉDIA ignora texto e células vazias; o operador & concatena textos;"
+]
+},
+{
+"id": "Q-TI-0406",
+"g": "E",
+"e": "No Excel, a função MÉDIA considera as células vazias e as que contêm texto como zero, incluindo-as na contagem de valores do intervalo informado.",
+"velho": "MÉDIA ignora texto e vazias.",
+"aula": [
+"Funções: SOMA, MÉDIA, MÁXIMO, MÍNIMO, MED (mediana), MODO, CONT.NÚM (conta células com números), CONT.VALORES (conta células não vazias), CONTAR.VAZIO, SE, SOMASE, CONT.SE, MÉDIASES, PROCV (busca vertical, usa a primeira coluna do intervalo; o quarto argumento FALSO ou 0 pede correspondência exata), PROCH, PROCX (substitui PROCV e PROCH, busca em qualquer direção, correspondência exata por padrão)…",
+"MÉDIA ignora texto e células vazias; o operador & concatena textos;"
+]
+},
+{
+"id": "Q-TI-0407",
+"g": "C",
+"e": "Se a célula A1 do Excel contém Ana e a célula B1 contém Silva, a fórmula =A1&\" \"&B1 resulta em Ana Silva.",
+"velho": "Operador & concatena.",
+"aula": [
+"Toda fórmula começa por = e usa referências de célula: relativa (A1), absoluta ($A$1, travada em linha e coluna) e mista ($A1 ou A$1);",
+"MÉDIA ignora texto e células vazias; o operador & concatena textos;"
+]
+},
+{
+"id": "Q-TI-0408",
+"g": "E",
+"e": "Se a célula A1 do Excel contém Ana e a célula B1 contém Silva, a fórmula =A1&\" \"&B1 resulta em um erro, pois o operador & só pode ser usado com números.",
+"velho": "Operador & concatena.",
+"aula": [
+"Toda fórmula começa por = e usa referências de célula: relativa (A1), absoluta ($A$1, travada em linha e coluna) e mista ($A1 ou A$1);",
+"MÉDIA ignora texto e células vazias; o operador & concatena textos;"
+]
+},
+{
+"id": "Q-TI-0409",
+"g": "C",
+"e": "No Excel, a fórmula =ESQUERDA(\"Brasília\";3) resulta em Bra.",
+"velho": "ESQUERDA extrai do início.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint)."
+]
+},
+{
+"id": "Q-TI-0410",
+"g": "E",
+"e": "No Excel, a fórmula =ESQUERDA(\"Brasília\";3) resulta em lia, pois extrai os últimos três caracteres do texto.",
+"velho": "ESQUERDA extrai do início.",
+"aula": [
+"EXCEL: formatos .xlsx, .xlsm (com macros), .xltx (modelo), .csv (texto separado).",
+"ESQUERDA, DIREITA e EXT extraem partes de um texto; a alça de preenchimento copia fórmulas e estende séries; gráficos são criados na guia Inserir (colunas, linhas, pizza, dispersão);"
+]
+},
+{
+"id": "Q-TI-0411",
+"g": "C",
+"e": "No Excel, a alça de preenchimento, no canto inferior direito da célula selecionada, permite copiar fórmulas para as células vizinhas e estender séries, como dias da semana e sequências numéricas.",
+"velho": "Alça de preenchimento.",
+"aula": [
+"ESQUERDA, DIREITA e EXT extraem partes de um texto; a alça de preenchimento copia fórmulas e estende séries; gráficos são criados na guia Inserir (colunas, linhas, pizza, dispersão);"
+]
+},
+{
+"id": "Q-TI-0412",
+"g": "E",
+"e": "No Excel, a alça de preenchimento, no canto inferior direito da célula selecionada, permite apenas copiar valores, sem copiar fórmulas e sem estender séries de dias ou números. Isso é consenso na área.",
+"velho": "Alça de preenchimento.",
+"aula": [
+"Funções: SOMA, MÉDIA, MÁXIMO, MÍNIMO, MED (mediana), MODO, CONT.NÚM (conta células com números), CONT.VALORES (conta células não vazias), CONTAR.VAZIO, SE, SOMASE, CONT.SE, MÉDIASES, PROCV (busca vertical, usa a primeira coluna do intervalo; o quarto argumento FALSO ou 0 pede correspondência exata), PROCH, PROCX (substitui PROCV e PROCH, busca em qualquer direção, correspondência exata por padrão)…",
+"ESQUERDA, DIREITA e EXT extraem partes de um texto; a alça de preenchimento copia fórmulas e estende séries; gráficos são criados na guia Inserir (colunas, linhas, pizza, dispersão);"
+]
+},
+{
+"id": "Q-TI-0413",
+"g": "C",
+"e": "No Excel, o recurso Colar Especial permite colar apenas os valores, as fórmulas ou os formatos do conteúdo copiado, em vez de colar tudo.",
+"velho": "Colar Especial.",
+"aula": [
+"EXCEL: formatos .xlsx, .xlsm (com macros), .xltx (modelo), .csv (texto separado).",
+"Colar Especial permite colar apenas valores ou formatos."
+]
+},
+{
+"id": "Q-TI-0414",
+"g": "E",
+"e": "No Excel, o recurso Colar Especial só permite colar o conteúdo copiado integralmente, sem possibilidade de escolher apenas valores, fórmulas ou formatos.",
+"velho": "Colar Especial.",
+"aula": [
+"EXCEL: formatos .xlsx, .xlsm (com macros), .xltx (modelo), .csv (texto separado).",
+"Colar Especial permite colar apenas valores ou formatos."
+]
+},
+{
+"id": "Q-TI-0415",
+"g": "C",
+"e": "No Word, a quebra de seção permite aplicar, em partes distintas do mesmo documento, configurações diferentes de orientação da página, número de colunas, cabeçalho e rodapé.",
+"velho": "Word, seções.",
+"aula": [
+"Layout: margens, orientação, colunas, quebras de página e de seção.",
+"WORD ADICIONAL: quebras de seção permitem alterar orientação, colunas, cabeçalhos e rodapés em partes do documento; cabeçalho e rodapé repetem conteúdo nas páginas; numeração de páginas é inserida na guia Inserir;"
+]
+},
+{
+"id": "Q-TI-0416",
+"g": "E",
+"e": "No Word, a quebra de seção serve apenas para iniciar uma nova linha, sem permitir configurações diferentes de orientação, colunas, cabeçalho ou rodapé em partes do documento.",
+"velho": "Word, seções.",
+"aula": [
+"Layout: margens, orientação, colunas, quebras de página e de seção.",
+"WORD ADICIONAL: quebras de seção permitem alterar orientação, colunas, cabeçalhos e rodapés em partes do documento; cabeçalho e rodapé repetem conteúdo nas páginas; numeração de páginas é inserida na guia Inserir;"
+]
+},
+{
+"id": "Q-TI-0417",
+"g": "C",
+"e": "No Word, o recurso Comparar documentos destaca as diferenças entre duas versões de um texto, e o recurso Proteger Documento permite restringir a edição.",
+"velho": "Word, comparar e proteger.",
+"aula": [
+"Comparar documentos destaca as diferenças entre versões;",
+"Proteger Documento restringe edição."
+]
+},
+{
+"id": "Q-TI-0418",
+"g": "E",
+"e": "No Word, o recurso Comparar documentos unifica automaticamente duas versões de um texto, sem destacar diferenças, e o recurso Proteger Documento serve apenas para imprimir.",
+"velho": "Word, comparar e proteger.",
+"aula": [
+"WORD: formatos .docx (documento), .dotx (modelo) e .pdf (exportação).",
+"Comparar documentos destaca as diferenças entre versões;"
+]
+},
+{
+"id": "Q-TI-0419",
+"g": "C",
+"e": "No Word, o cabeçalho e o rodapé repetem o conteúdo definido nas páginas do documento, e a numeração de páginas pode ser inserida na guia Inserir.",
+"velho": "Word, cabeçalho, rodapé e numeração.",
+"aula": [
+"WORD: formatos .docx (documento), .dotx (modelo) e .pdf (exportação).",
+"WORD ADICIONAL: quebras de seção permitem alterar orientação, colunas, cabeçalhos e rodapés em partes do documento; cabeçalho e rodapé repetem conteúdo nas páginas; numeração de páginas é inserida na guia Inserir;"
+]
+},
+{
+"id": "Q-TI-0420",
+"g": "E",
+"e": "No Word, o cabeçalho e o rodapé aparecem apenas na primeira página, e a numeração de páginas só pode ser inserida na guia Revisão. Isso é consenso na área.",
+"velho": "Word, cabeçalho, rodapé e numeração.",
+"aula": [
+"Guia Revisão: Controle de Alterações registra inserções, exclusões e formatações, que podem ser aceitas ou rejeitadas;",
+"WORD ADICIONAL: quebras de seção permitem alterar orientação, colunas, cabeçalhos e rodapés em partes do documento; cabeçalho e rodapé repetem conteúdo nas páginas; numeração de páginas é inserida na guia Inserir;"
+]
+},
+{
+"id": "Q-TI-0421",
+"g": "C",
+"e": "No PowerPoint, a apresentação pode ser exportada como PDF ou como vídeo, e o Modo Apresentador exibe notas e cronômetro apenas ao apresentador.",
+"velho": "PowerPoint, exportação e Modo Apresentador.",
+"aula": [
+"Modo Apresentador mostra anotações e cronômetro apenas ao apresentador;",
+"POWERPOINT ADICIONAL: o Designer sugere layouts; o documento pode ser exportado como PDF ou vídeo; o Modo Apresentador exibe notas e cronômetro só ao apresentador."
+]
+},
+{
+"id": "Q-TI-0422",
+"g": "E",
+"e": "No PowerPoint, a apresentação não pode ser exportada como PDF nem como vídeo, e o Modo Apresentador exibe as notas e o cronômetro também ao público.",
+"velho": "PowerPoint, exportação e Modo Apresentador.",
+"aula": [
+"Modo Apresentador mostra anotações e cronômetro apenas ao apresentador;",
+"POWERPOINT ADICIONAL: o Designer sugere layouts; o documento pode ser exportado como PDF ou vídeo; o Modo Apresentador exibe notas e cronômetro só ao apresentador."
+]
+},
+{
+"id": "Q-TI-0423",
+"g": "C",
+"e": "No Excel, os gráficos são criados na guia Inserir, na qual é possível escolher, entre outros, os tipos colunas, linhas, pizza e dispersão.",
+"velho": "Excel, gráficos.",
+"aula": [
+"ESQUERDA, DIREITA e EXT extraem partes de um texto; a alça de preenchimento copia fórmulas e estende séries; gráficos são criados na guia Inserir (colunas, linhas, pizza, dispersão);",
+"WORD ADICIONAL: quebras de seção permitem alterar orientação, colunas, cabeçalhos e rodapés em partes do documento; cabeçalho e rodapé repetem conteúdo nas páginas; numeração de páginas é inserida na guia Inserir;"
+]
+},
+{
+"id": "Q-TI-0424",
+"g": "E",
+"e": "No Excel, os gráficos são criados na guia Revisão, na qual só é possível escolher o tipo pizza, pois os demais tipos exigem programa externo.",
+"velho": "Excel, gráficos.",
+"aula": [
+"Guia Revisão: Controle de Alterações registra inserções, exclusões e formatações, que podem ser aceitas ou rejeitadas;",
+"ESQUERDA, DIREITA e EXT extraem partes de um texto; a alça de preenchimento copia fórmulas e estende séries; gráficos são criados na guia Inserir (colunas, linhas, pizza, dispersão);"
+]
+},
+{
+"id": "Q-TI-0425",
+"g": "C",
+"e": "As versões web dos aplicativos do Microsoft 365 permitem editar documentos pelo navegador e coautoria, embora ofereçam menos recursos do que as versões instaladas no computador.",
+"velho": "Versões web x desktop.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint).",
+"Os aplicativos têm versão desktop e versão web; a gravação automática (salvamento automático) funciona em arquivos armazenados no OneDrive ou SharePoint e permite coautoria em tempo real."
+]
+},
+{
+"id": "Q-TI-0426",
+"g": "E",
+"e": "As versões web dos aplicativos do Microsoft 365 oferecem todos os recursos das versões instaladas no computador e dispensam conexão com a Internet para edição. Trata-se de prática corrente.",
+"velho": "Versões web x desktop.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint).",
+"Os aplicativos têm versão desktop e versão web; a gravação automática (salvamento automático) funciona em arquivos armazenados no OneDrive ou SharePoint e permite coautoria em tempo real."
+]
+},
+{
+"id": "Q-TI-0427",
+"g": "C",
+"e": "No modelo OSI, a camada de transporte situa-se acima da camada de rede e abaixo da camada de sessão, e a camada física é a mais baixa, responsável pela transmissão dos bits no meio.",
+"velho": "Modelo OSI.",
+"aula": [
+"O modelo OSI tem sete camadas: física, enlace, rede, transporte, sessão, apresentação e aplicação.",
+"Camadas do modelo OSI (de baixo para cima): física, enlace, rede, transporte, sessão, apresentação e aplicação."
+]
+},
+{
+"id": "Q-TI-0428",
+"g": "E",
+"e": "No modelo OSI, a camada de transporte situa-se acima da camada de aplicação, e a camada física é a mais alta, responsável pela interface com o usuário. Isso é consenso na área.",
+"velho": "Modelo OSI.",
+"aula": [
+"O modelo OSI tem sete camadas: física, enlace, rede, transporte, sessão, apresentação e aplicação.",
+"Camadas do modelo OSI (de baixo para cima): física, enlace, rede, transporte, sessão, apresentação e aplicação."
+]
+},
+{
+"id": "Q-TI-0429",
+"g": "C",
+"e": "O modelo OSI possui sete camadas, ao passo que o modelo TCP/IP, em sua representação mais comum, possui quatro.",
+"velho": "OSI 7; TCP/IP 4.",
+"aula": [
+"Modelo TCP/IP em quatro camadas: aplicação (HTTP, HTTPS, FTP, SMTP, POP3, IMAP, DNS, DHCP), transporte (TCP, orientado a conexão e confiável;",
+"O modelo OSI tem sete camadas: física, enlace, rede, transporte, sessão, apresentação e aplicação."
+]
+},
+{
+"id": "Q-TI-0430",
+"g": "E",
+"e": "O modelo OSI possui quatro camadas, ao passo que o modelo TCP/IP, em sua representação mais comum, possui sete.",
+"velho": "OSI 7; TCP/IP 4.",
+"aula": [
+"Modelo TCP/IP em quatro camadas: aplicação (HTTP, HTTPS, FTP, SMTP, POP3, IMAP, DNS, DHCP), transporte (TCP, orientado a conexão e confiável;",
+"O modelo OSI tem sete camadas: física, enlace, rede, transporte, sessão, apresentação e aplicação."
+]
+},
+{
+"id": "Q-TI-0431",
+"g": "C",
+"e": "Na notação CIDR, o prefixo /24 corresponde à máscara 255.255.255.0, que oferece 256 endereços, dos quais 254 podem ser atribuídos a equipamentos.",
+"velho": "/24 → 255.255.255.0; 254 hosts.",
+"aula": [
+"DHCP atribui automaticamente IP, máscara, gateway e DNS aos hosts.",
+"Máscara de sub-rede e CIDR: /24 equivale a 255.255.255.0, com 256 endereços, dos quais 254 utilizáveis por hosts (o primeiro é o endereço da rede e o último o de broadcast); /16 equivale a 255.255.0.0."
+]
+},
+{
+"id": "Q-TI-0432",
+"g": "E",
+"e": "Na notação CIDR, o prefixo /24 corresponde à máscara 255.255.0.0, que oferece 256 endereços, todos eles podendo ser atribuídos a equipamentos.",
+"velho": "/24 → 255.255.255.0; 254 hosts.",
+"aula": [
+"DHCP atribui automaticamente IP, máscara, gateway e DNS aos hosts.",
+"Máscara de sub-rede e CIDR: /24 equivale a 255.255.255.0, com 256 endereços, dos quais 254 utilizáveis por hosts (o primeiro é o endereço da rede e o último o de broadcast); /16 equivale a 255.255.0.0."
+]
+},
+{
+"id": "Q-TI-0433",
+"g": "C",
+"e": "O endereço 127.0.0.1 é o endereço de loopback, que designa o próprio equipamento, e é utilizado em testes locais.",
+"velho": "Loopback.",
+"aula": [
+"O endereço 127.0.0.1 é o de loopback (o próprio equipamento)."
+]
+},
+{
+"id": "Q-TI-0434",
+"g": "E",
+"e": "O endereço 127.0.0.1 designa o servidor DNS padrão da Internet e é utilizado para resolver nomes de domínio.",
+"velho": "Loopback.",
+"aula": [
+"DNS traduz nomes de domínio em endereços IP.",
+"O endereço 127.0.0.1 é o de loopback (o próprio equipamento)."
+]
+},
+{
+"id": "Q-TI-0435",
+"g": "C",
+"e": "O comando ping testa a conectividade com outro equipamento e mede o tempo de resposta, utilizando mensagens do protocolo ICMP.",
+"velho": "ping.",
+"aula": [
+"Ferramentas de diagnóstico: ping testa a conectividade e mede o tempo de resposta (usa o ICMP); tracert (Windows) ou traceroute mostra a rota percorrida pelos pacotes; ipconfig exibe a configuração IP; nslookup consulta o DNS."
+]
+},
+{
+"id": "Q-TI-0436",
+"g": "E",
+"e": "O comando ping exibe a rota percorrida pelos pacotes até o destino, salto a salto, utilizando mensagens do protocolo SMTP.",
+"velho": "ping.",
+"aula": [
+"Ferramentas de diagnóstico: ping testa a conectividade e mede o tempo de resposta (usa o ICMP); tracert (Windows) ou traceroute mostra a rota percorrida pelos pacotes; ipconfig exibe a configuração IP; nslookup consulta o DNS."
+]
+},
+{
+"id": "Q-TI-0437",
+"g": "C",
+"e": "O comando tracert (Windows) mostra a rota seguida pelos pacotes até o destino, ao passo que o comando nslookup consulta servidores DNS para resolver nomes de domínio.",
+"velho": "tracert x nslookup.",
+"aula": [
+"DNS traduz nomes de domínio em endereços IP.",
+"Ferramentas de diagnóstico: ping testa a conectividade e mede o tempo de resposta (usa o ICMP); tracert (Windows) ou traceroute mostra a rota percorrida pelos pacotes; ipconfig exibe a configuração IP; nslookup consulta o DNS."
+]
+},
+{
+"id": "Q-TI-0438",
+"g": "E",
+"e": "O comando tracert (Windows) consulta servidores DNS para resolver nomes de domínio, ao passo que o comando nslookup mostra a rota seguida pelos pacotes até o destino.",
+"velho": "tracert x nslookup.",
+"aula": [
+"DNS traduz nomes de domínio em endereços IP.",
+"Ferramentas de diagnóstico: ping testa a conectividade e mede o tempo de resposta (usa o ICMP); tracert (Windows) ou traceroute mostra a rota percorrida pelos pacotes; ipconfig exibe a configuração IP; nslookup consulta o DNS."
+]
+},
+{
+"id": "Q-TI-0439",
+"g": "C",
+"e": "O comando ipconfig exibe a configuração IP do equipamento, como endereço, máscara e gateway padrão.",
+"velho": "ipconfig.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"Ferramentas de diagnóstico: ping testa a conectividade e mede o tempo de resposta (usa o ICMP); tracert (Windows) ou traceroute mostra a rota percorrida pelos pacotes; ipconfig exibe a configuração IP; nslookup consulta o DNS."
+]
+},
+{
+"id": "Q-TI-0440",
+"g": "E",
+"e": "O comando ipconfig cifra o tráfego de rede do equipamento, impedindo que o endereço e a máscara sejam exibidos.",
+"velho": "ipconfig.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"Máscara de sub-rede e CIDR: /24 equivale a 255.255.255.0, com 256 endereços, dos quais 254 utilizáveis por hosts (o primeiro é o endereço da rede e o último o de broadcast); /16 equivale a 255.255.0.0."
+]
+},
+{
+"id": "Q-TI-0441",
+"g": "C",
+"e": "No Wi-Fi, o SSID é o nome da rede sem fio, e os protocolos WPA2 e WPA3 oferecem mais segurança do que o WEP, considerado antigo e vulnerável.",
+"velho": "Segurança Wi-Fi.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"Wi-Fi: o SSID é o nome da rede;"
+]
+},
+{
+"id": "Q-TI-0442",
+"g": "E",
+"e": "No Wi-Fi, o SSID é a senha da rede sem fio, e o protocolo WEP oferece mais segurança do que os protocolos WPA2 e WPA3, considerados antigos.",
+"velho": "Segurança Wi-Fi.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"Intranet é a rede privada de uma organização que usa as mesmas tecnologias e protocolos da Internet (navegador, TCP/IP), restrita a usuários autorizados."
+]
+},
+{
+"id": "Q-TI-0443",
+"g": "C",
+"e": "A banda de 2,4 GHz do Wi-Fi tem, em regra, maior alcance e menor velocidade, e a de 5 GHz oferece maior velocidade e menor alcance.",
+"velho": "Bandas do Wi-Fi.",
+"aula": [
+"Meios: par trançado (UTP, conector RJ-45), cabo coaxial, fibra óptica (imune a interferência eletromagnética, maior alcance e velocidade) e sem fio (Wi-Fi, padrão IEEE 802.11;",
+"WPA2 (com AES) e WPA3 são mais seguros; a banda de 2,4 GHz tem maior alcance e menor velocidade, e a de 5 GHz maior velocidade e menor alcance."
+]
+},
+{
+"id": "Q-TI-0444",
+"g": "E",
+"e": "A banda de 2,4 GHz do Wi-Fi tem, em regra, menor alcance e maior velocidade, e a de 5 GHz oferece menor velocidade e maior alcance.",
+"velho": "Bandas do Wi-Fi.",
+"aula": [
+"Meios: par trançado (UTP, conector RJ-45), cabo coaxial, fibra óptica (imune a interferência eletromagnética, maior alcance e velocidade) e sem fio (Wi-Fi, padrão IEEE 802.11;",
+"WPA2 (com AES) e WPA3 são mais seguros; a banda de 2,4 GHz tem maior alcance e menor velocidade, e a de 5 GHz maior velocidade e menor alcance."
+]
+},
+{
+"id": "Q-TI-0445",
+"g": "C",
+"e": "Na computação em nuvem, o modelo de implantação pública é oferecido por provedor a diversos clientes, o privado atende a uma única organização e o híbrido combina ambos.",
+"velho": "Modelos de nuvem.",
+"aula": [
+"Computação em nuvem: IaaS, PaaS e SaaS (Microsoft 365 é SaaS).",
+"Nuvem: modelos de implantação pública, privada e híbrida."
+]
+},
+{
+"id": "Q-TI-0446",
+"g": "E",
+"e": "Na computação em nuvem, o modelo de implantação privado é oferecido por provedor a diversos clientes, o público atende a uma única organização e o híbrido combina ambos.",
+"velho": "Modelos de nuvem.",
+"aula": [
+"Computação em nuvem: IaaS, PaaS e SaaS (Microsoft 365 é SaaS).",
+"Nuvem: modelos de implantação pública, privada e híbrida."
+]
+},
+{
+"id": "Q-TI-0447",
+"g": "C",
+"e": "Em IaaS, o provedor oferece infraestrutura virtualizada (servidores, armazenamento e redes); em PaaS, oferece plataforma para desenvolver e executar aplicações; em SaaS, oferece o software pronto para uso.",
+"velho": "IaaS, PaaS e SaaS.",
+"aula": [
+"Computação em nuvem: IaaS, PaaS e SaaS (Microsoft 365 é SaaS)."
+]
+},
+{
+"id": "Q-TI-0448",
+"g": "E",
+"e": "Em IaaS, o provedor oferece o software pronto para uso; em PaaS, oferece infraestrutura virtualizada; em SaaS, oferece plataforma para desenvolver e executar aplicações. Isso é consenso na área.",
+"velho": "IaaS, PaaS e SaaS.",
+"aula": [
+"Computação em nuvem: IaaS, PaaS e SaaS (Microsoft 365 é SaaS)."
+]
+},
+{
+"id": "Q-TI-0449",
+"g": "C",
+"e": "O FTP transfere arquivos sem cifragem, ao passo que o SFTP realiza a transferência de modo cifrado, com base no protocolo SSH.",
+"velho": "FTP x SFTP.",
+"aula": [
+"FTP 20 e 21 (transferência de arquivos);",
+"SFTP transfere arquivos de modo cifrado;"
+]
+},
+{
+"id": "Q-TI-0450",
+"g": "E",
+"e": "O FTP transfere arquivos de modo cifrado, ao passo que o SFTP realiza a transferência sem cifragem, com base no protocolo HTTP.",
+"velho": "FTP x SFTP.",
+"aula": [
+"FTP 20 e 21 (transferência de arquivos);",
+"SFTP transfere arquivos de modo cifrado;"
+]
+},
+{
+"id": "Q-TI-0451",
+"g": "C",
+"e": "O proxy atua como intermediário entre o cliente e o servidor, podendo filtrar o acesso e armazenar em cache conteúdos solicitados.",
+"velho": "Proxy.",
+"aula": [
+"Proxy é intermediário entre cliente e servidor."
+]
+},
+{
+"id": "Q-TI-0452",
+"g": "E",
+"e": "O proxy atua como equipamento de enlace que encaminha quadros pelo endereço MAC, sem capacidade de filtrar o acesso nem de armazenar conteúdos em cache.",
+"velho": "Proxy.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"UDP, sem conexão, mais rápido e sem garantia de entrega), internet ou rede (IP, ICMP) e acesso à rede ou enlace."
+]
+},
+{
+"id": "Q-TI-0453",
+"g": "C",
+"e": "A velocidade de uma conexão costuma ser expressa em bits por segundo (por exemplo, Mbps), ao passo que o tamanho de arquivos costuma ser expresso em bytes (por exemplo, MB).",
+"velho": "bit x byte.",
+"aula": [
+"Velocidade de conexão mede-se em bits por segundo (Mbps); tamanho de arquivo em bytes (8 bits = 1 byte)."
+]
+},
+{
+"id": "Q-TI-0454",
+"g": "E",
+"e": "A velocidade de uma conexão costuma ser expressa em bytes por segundo, e o tamanho de arquivos, em bits, razão pela qual 1 Mbps equivale a 1 MB por segundo. Trata-se de prática corrente.",
+"velho": "bit x byte.",
+"aula": [
+"Velocidade de conexão mede-se em bits por segundo (Mbps); tamanho de arquivo em bytes (8 bits = 1 byte)."
+]
+},
+{
+"id": "Q-TI-0455",
+"g": "C",
+"e": "Um servidor conecta-se à intranet do órgão de casa por meio de VPN: o tráfego trafega por túnel cifrado sobre a Internet, e o acesso permanece restrito a usuários autorizados.",
+"velho": "VPN.",
+"aula": [
+"Intranet é a rede privada de uma organização que usa as mesmas tecnologias e protocolos da Internet (navegador, TCP/IP), restrita a usuários autorizados.",
+"VPN cria um túnel cifrado sobre a Internet para acesso seguro a uma rede privada."
+]
+},
+{
+"id": "Q-TI-0456",
+"g": "E",
+"e": "Um servidor conecta-se à intranet do órgão de casa por meio de VPN: o tráfego trafega em texto claro sobre a Internet, e o acesso fica aberto a qualquer usuário da rede.",
+"velho": "VPN.",
+"aula": [
+"UDP, sem conexão, mais rápido e sem garantia de entrega), internet ou rede (IP, ICMP) e acesso à rede ou enlace.",
+"Telnet 23 trafega em texto claro."
+]
+},
+{
+"id": "Q-TI-0457",
+"g": "C",
+"e": "No Teams, o canal privado restringe o acesso às pessoas que são membros desse canal, ao passo que o canal padrão é acessível a todos os membros da equipe.",
+"velho": "Canais do Teams.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"No Teams, canais privados restringem o acesso aos membros do canal, e o status de presença (disponível, ocupado, ausente) informa a disponibilidade."
+]
+},
+{
+"id": "Q-TI-0458",
+"g": "E",
+"e": "No Teams, o canal privado é acessível a todos os membros da equipe, ao passo que o canal padrão restringe o acesso às pessoas escolhidas como membros.",
+"velho": "Canais do Teams.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"No Teams, canais privados restringem o acesso aos membros do canal, e o status de presença (disponível, ocupado, ausente) informa a disponibilidade."
+]
+}
+]

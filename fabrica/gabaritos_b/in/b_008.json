@@ -1,0 +1,702 @@
+[
+{
+"id": "Q-EN-0346",
+"g": "E",
+"e": "A 'budget surplus' means that spending is greater than revenue.",
+"velho": "Surplus = superávit.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0347",
+"g": "C",
+"e": "A tax 'hike' is an increase in taxes.",
+"velho": "Hike = aumento.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Exemplos: 'A tax hike' = aumento de imposto. 'Voter turnout was low' = comparecimento baixo."
+]
+},
+{
+"id": "Q-EN-0348",
+"g": "E",
+"e": "A tax 'hike' is a reduction in taxes.",
+"velho": "Hike = aumento.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Exemplos: 'A tax hike' = aumento de imposto. 'Voter turnout was low' = comparecimento baixo."
+]
+},
+{
+"id": "Q-EN-0349",
+"g": "C",
+"e": "An opinion 'poll' measures what people think.",
+"velho": "Poll = pesquisa.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0350",
+"g": "E",
+"e": "An opinion 'poll' is a type of tax. This is the rule.",
+"velho": "Poll = pesquisa.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0351",
+"g": "C",
+"e": "'Voter turnout' is the number of voters who actually vote.",
+"velho": "Turnout = comparecimento.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Exemplos: 'A tax hike' = aumento de imposto. 'Voter turnout was low' = comparecimento baixo."
+]
+},
+{
+"id": "Q-EN-0352",
+"g": "E",
+"e": "'Voter turnout' is the number of candidates in an election.",
+"velho": "Turnout = comparecimento.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Exemplos: 'A tax hike' = aumento de imposto. 'Voter turnout was low' = comparecimento baixo."
+]
+},
+{
+"id": "Q-EN-0353",
+"g": "C",
+"e": "A 'watchdog' in politics is an organization that monitors the authorities.",
+"velho": "Watchdog = fiscalizador.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0354",
+"g": "E",
+"e": "A 'watchdog' in politics is an official who protects the president.",
+"velho": "Watchdog = fiscalizador.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0355",
+"g": "C",
+"e": "To 'veto' a bill means to reject it.",
+"velho": "Veto = vetar.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0356",
+"g": "E",
+"e": "To 'veto' a bill means to approve it.",
+"velho": "Veto = vetar.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0357",
+"g": "C",
+"e": "To 'ratify' a treaty means to confirm it formally.",
+"velho": "Ratify = ratificar.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0358",
+"g": "E",
+"e": "To 'ratify' a treaty means to withdraw from it.",
+"velho": "Ratify = ratificar.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0359",
+"g": "C",
+"e": "A 'crackdown' on corruption is a strict enforcement campaign.",
+"velho": "Crackdown = endurecimento.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0360",
+"g": "E",
+"e": "A 'crackdown' on corruption is a tolerant policy. This is the usual use.",
+"velho": "Crackdown = endurecimento.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0361",
+"g": "C",
+"e": "A 'lawsuit' is a legal action brought before a court.",
+"velho": "Lawsuit = ação judicial.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0362",
+"g": "E",
+"e": "A 'lawsuit' is a clothing item worn by lawyers.",
+"velho": "Lawsuit = ação judicial.",
+"aula": [
+"pledge = promessa/compromisso; ban = proibir/proibição; ruling = decisão judicial; poll = pesquisa de opinião; lawsuit = ação judicial; crackdown = repressão/endurecimento; hike = aumento; cut = corte; deficit = déficit; surplus = superávit; scandal = escândalo; watchdog = órgão fiscalizador; lawmaker = parlamentar; turnout = comparecimento; to ratify = ratificar; to veto = vetar.",
+"Pegadinha: o item troca o sentido por um termo parecido (surplus × déficit; hike × queda)."
+]
+},
+{
+"id": "Q-EN-0363",
+"g": "C",
+"e": "“The new drug may reduce the risk of heart disease.” — The text does not say that the drug certainly reduces the risk.",
+"velho": "May = possibilidade.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0364",
+"g": "E",
+"e": "“The new drug may reduce the risk of heart disease.” — The text says that the drug certainly reduces the risk.",
+"velho": "May = possibilidade.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0365",
+"g": "C",
+"e": "“Some voters said they were undecided.” — The text refers to part of the voters, not all of them.",
+"velho": "Some ≠ all.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0366",
+"g": "E",
+"e": "“Some voters said they were undecided.” — The text refers to all voters. This is the usual use.",
+"velho": "Some ≠ all.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0367",
+"g": "C",
+"e": "“The funds were allegedly misused.” — The text does not confirm that the funds were misused.",
+"velho": "Allegedly = alegadamente.",
+"aula": [
+"Exemplo: 'Allegedly, the funds were misused' não afirma que foram desviados.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0368",
+"g": "E",
+"e": "“The funds were allegedly misused.” — The text confirms that the funds were misused.",
+"velho": "Allegedly = alegadamente.",
+"aula": [
+"Exemplo: 'Allegedly, the funds were misused' não afirma que foram desviados.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0369",
+"g": "C",
+"e": "“Most students passed the exam.” — The text indicates that the majority passed, not necessarily all.",
+"velho": "Most = a maioria.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0370",
+"g": "E",
+"e": "“Most students passed the exam.” — The text indicates that all students passed. This is correct.",
+"velho": "Most = a maioria.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0371",
+"g": "C",
+"e": "“The results suggest that the policy has worked so far.” — The author presents the success of the policy as provisional.",
+"velho": "Suggest + so far.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0372",
+"g": "E",
+"e": "“The results suggest that the policy has worked so far.” — The author presents the success of the policy as final.",
+"velho": "Suggest + so far.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0373",
+"g": "C",
+"e": "“Unemployment seems to be falling.” — The author uses a cautious verb to describe the fall.",
+"velho": "Seems = parece.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0374",
+"g": "E",
+"e": "“Unemployment seems to be falling.” — The author states categorically that unemployment fell.",
+"velho": "Seems = parece.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0375",
+"g": "C",
+"e": "“Nearly 70% of the workers approved the plan.” — The share of approval was just below 70%.",
+"velho": "Nearly = quase.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0376",
+"g": "E",
+"e": "“Nearly 70% of the workers approved the plan.” — The share of approval was clearly above 70%.",
+"velho": "Nearly = quase.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0377",
+"g": "C",
+"e": "“The mayor says the road will be ready in May. Residents doubt it.” — The text separates the mayor's claim from the residents' doubt.",
+"velho": "Says × doubt.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0378",
+"g": "E",
+"e": "“The mayor says the road will be ready in May. Residents doubt it.” — The text confirms that the road will be ready in May. This is the usual use.",
+"velho": "Says × doubt.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0379",
+"g": "C",
+"e": "“The company reportedly lost millions last year.” — The loss is presented as reported by others, not as confirmed.",
+"velho": "Reportedly.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0380",
+"g": "E",
+"e": "“The company reportedly lost millions last year.” — The loss is presented as officially confirmed. This is the rule.",
+"velho": "Reportedly.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0381",
+"g": "C",
+"e": "“Few lawmakers attended the session.” — The text implies that attendance was low.",
+"velho": "Few = poucos.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0382",
+"g": "E",
+"e": "“Few lawmakers attended the session.” — The text implies that attendance was high.",
+"velho": "Few = poucos.",
+"aula": [
+"Hedging suaviza a afirmação: may, might, could, suggests, appears, seems, likely, reportedly, allegedly, so far. 'The drug may reduce risk' ≠ 'The drug reduces risk'. Allegedly/reportedly = segundo se diz (não confirmado). Quantificadores: some, most, all, none, nearly, about.",
+"Pegadinha: o item transforma possibilidade em certeza ou 'some' em 'all'."
+]
+},
+{
+"id": "Q-EN-0383",
+"g": "C",
+"e": "“The minister admitted that the plan had failed.” — The minister recognized the failure of the plan.",
+"velho": "Admit = reconhecer.",
+"aula": [
+"Exemplo: 'The minister admitted the error' = ele reconheceu o erro; 'denied' = negou.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0384",
+"g": "E",
+"e": "“The minister admitted that the plan had failed.” — The minister denied the failure of the plan.",
+"velho": "Admit = reconhecer.",
+"aula": [
+"Exemplo: 'The minister admitted the error' = ele reconheceu o erro; 'denied' = negou.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0385",
+"g": "C",
+"e": "“The company denied any wrongdoing.” — The company said it did nothing wrong.",
+"velho": "Deny = negar.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0386",
+"g": "E",
+"e": "“The company denied any wrongdoing.” — The company confessed to wrongdoing.",
+"velho": "Deny = negar.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0387",
+"g": "C",
+"e": "“Experts warn that prices may rise.” — The experts are alerting to a risk.",
+"velho": "Warn = alertar.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0388",
+"g": "E",
+"e": "“Experts warn that prices may rise.” — The experts are celebrating a benefit.",
+"velho": "Warn = alertar.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0389",
+"g": "C",
+"e": "“According to the report, crime fell by 10%.” — The 10% figure comes from the report, not necessarily from the author.",
+"velho": "According to = fonte.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0390",
+"g": "E",
+"e": "“According to the report, crime fell by 10%.” — The 10% figure is the author's own personal opinion. This is the usual use.",
+"velho": "According to = fonte.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0391",
+"g": "C",
+"e": "“The opposition claims that the vote was rigged.” — The opposition says the vote was rigged; the text does not confirm it.",
+"velho": "Claim = alega.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0392",
+"g": "E",
+"e": "“The opposition claims that the vote was rigged.” — The text confirms that the vote was rigged. This is the rule.",
+"velho": "Claim = alega.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0393",
+"g": "C",
+"e": "“The union urged the government to negotiate.” — The union asked the government strongly to negotiate.",
+"velho": "Urge = instar.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0394",
+"g": "E",
+"e": "“The union urged the government to negotiate.” — The union forbade the government to negotiate.",
+"velho": "Urge = instar.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0395",
+"g": "C",
+"e": "“The author argues that taxes should fall.” — The author defends a reduction of taxes.",
+"velho": "Argue = defender.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0396",
+"g": "E",
+"e": "“The author argues that taxes should fall.” — The author opposes a reduction of taxes.",
+"velho": "Argue = defender.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0397",
+"g": "C",
+"e": "“The mayor insisted that the project would go ahead.” — The mayor firmly maintained that the project would continue.",
+"velho": "Insist = insistir.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0398",
+"g": "E",
+"e": "“The mayor insisted that the project would go ahead.” — The mayor hesitated about continuing the project. This is the rule.",
+"velho": "Insist = insistir.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0399",
+"g": "C",
+"e": "“Officials pointed out that funding was limited.” — Officials called attention to the limited funding.",
+"velho": "Point out = ressaltar.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0400",
+"g": "E",
+"e": "“Officials pointed out that funding was limited.” — Officials hid the limited funding. This is correct.",
+"velho": "Point out = ressaltar.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0401",
+"g": "C",
+"e": "“The senator conceded that the bill had flaws.” — The senator accepted that the bill had flaws.",
+"velho": "Concede = admitir.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0402",
+"g": "E",
+"e": "“The senator conceded that the bill had flaws.” — The senator denied that the bill had flaws.",
+"velho": "Concede = admitir.",
+"aula": [
+"Verbos de relato mostram posição do autor: claim (afirma, mas duvidoso), argue (defende), admit (reconhece), deny (nega), warn (alerta), point out (ressalta), urge (insta), suggest (sugere/propõe). 'According to X' = fonte, não a opinião do autor.",
+"Pegadinha: atribuir ao autor o que é só voz de outra pessoa, ou trocar admit por deny."
+]
+},
+{
+"id": "Q-EN-0403",
+"g": "C",
+"e": "'It depends on the result' is correct.",
+"velho": "Depend on.",
+"aula": [
+"Exemplos: 'The result depends on the vote.' 'The meeting is on Friday, at 9 am, in June.'",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0404",
+"g": "E",
+"e": "'It depends of the result' is correct.",
+"velho": "Depend on.",
+"aula": [
+"Exemplos: 'The result depends on the vote.' 'The meeting is on Friday, at 9 am, in June.'",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0405",
+"g": "C",
+"e": "'She is interested in politics' is correct.",
+"velho": "Interested in.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0406",
+"g": "E",
+"e": "'She is interested on politics' is correct.",
+"velho": "Interested in.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0407",
+"g": "C",
+"e": "'The committee consists of ten members' is correct.",
+"velho": "Consist of.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0408",
+"g": "E",
+"e": "'The committee consists in ten members' is correct.",
+"velho": "Consist of.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0409",
+"g": "C",
+"e": "'He is responsible for the budget' is correct.",
+"velho": "Responsible for.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0410",
+"g": "E",
+"e": "'He is responsible of the budget' is correct.",
+"velho": "Responsible for.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0411",
+"g": "C",
+"e": "'The vote is on Friday' uses 'on' with a day of the week.",
+"velho": "On + dia.",
+"aula": [
+"Exemplos: 'The result depends on the vote.' 'The meeting is on Friday, at 9 am, in June.'",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0412",
+"g": "E",
+"e": "'The vote is in Friday' uses 'in' with a day of the week.",
+"velho": "On + dia.",
+"aula": [
+"Exemplos: 'The result depends on the vote.' 'The meeting is on Friday, at 9 am, in June.'",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0413",
+"g": "C",
+"e": "'The session starts at 9 am' uses 'at' with a clock time.",
+"velho": "At + hora.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0414",
+"g": "E",
+"e": "'The session starts on 9 am' uses 'on' with a clock time.",
+"velho": "At + hora.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+},
+{
+"id": "Q-EN-0415",
+"g": "C",
+"e": "'The law took effect in 2024' uses 'in' with a year.",
+"velho": "In + ano.",
+"aula": [
+"depend on, consist of, responsible for, interested in, good at, afraid of, different from, similar to, fond of, rely on, apologize for, listen to.",
+"Pegadinha: trocar a preposição regida (depend of, interested on) ou in/on/at."
+]
+}
+]

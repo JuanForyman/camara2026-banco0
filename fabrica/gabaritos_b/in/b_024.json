@@ -1,0 +1,678 @@
+[
+{
+"id": "Q-LIN-0360",
+"g": "E",
+"e": "A conjunção p ∧ q é verdadeira se ao menos uma entre p e q for verdadeira.",
+"velho": "Conjunção.",
+"aula": [
+"Tabelas-verdade: a conjunção só é verdadeira se ambas são verdadeiras; a disjunção inclusiva só é falsa se ambas são falsas; a disjunção exclusiva é verdadeira se apenas uma é verdadeira; o condicional só é falso quando o antecedente é verdadeiro e o consequente falso (V→F); o bicondicional é verdadeiro quando as duas têm o mesmo…"
+]
+},
+{
+"id": "Q-LIN-0361",
+"g": "C",
+"e": "A disjunção inclusiva p ∨ q só é falsa quando p e q são ambas falsas.",
+"velho": "Disjunção.",
+"aula": [
+"Tabelas-verdade: a conjunção só é verdadeira se ambas são verdadeiras; a disjunção inclusiva só é falsa se ambas são falsas; a disjunção exclusiva é verdadeira se apenas uma é verdadeira; o condicional só é falso quando o antecedente é verdadeiro e o consequente falso (V→F); o bicondicional é verdadeiro quando as duas têm o mesmo…"
+]
+},
+{
+"id": "Q-LIN-0362",
+"g": "E",
+"e": "A disjunção inclusiva p ∨ q só é falsa quando p e q são ambas verdadeiras.",
+"velho": "Disjunção.",
+"aula": [
+"Tabelas-verdade: a conjunção só é verdadeira se ambas são verdadeiras; a disjunção inclusiva só é falsa se ambas são falsas; a disjunção exclusiva é verdadeira se apenas uma é verdadeira; o condicional só é falso quando o antecedente é verdadeiro e o consequente falso (V→F); o bicondicional é verdadeiro quando as duas têm o mesmo…",
+"Argumento válido (dedutivo): impossível ter premissas verdadeiras e conclusão falsa; a validade depende da forma, e não da verdade das proposições; um argumento válido pode ter conclusão falsa se uma premissa for falsa; argumento sólido é válido com premissas verdadeiras."
+]
+},
+{
+"id": "Q-LIN-0363",
+"g": "C",
+"e": "A disjunção exclusiva é verdadeira quando exatamente uma das proposições é verdadeira, e falsa quando ambas têm o mesmo valor lógico.",
+"velho": "Disjunção exclusiva.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições.",
+"Tabelas-verdade: a conjunção só é verdadeira se ambas são verdadeiras; a disjunção inclusiva só é falsa se ambas são falsas; a disjunção exclusiva é verdadeira se apenas uma é verdadeira; o condicional só é falso quando o antecedente é verdadeiro e o consequente falso (V→F); o bicondicional é verdadeiro quando as duas têm o mesmo…"
+]
+},
+{
+"id": "Q-LIN-0364",
+"g": "E",
+"e": "A disjunção exclusiva é verdadeira quando as duas proposições são verdadeiras, e falsa quando uma delas é falsa. Trata-se de prática corrente.",
+"velho": "Disjunção exclusiva.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições.",
+"Tabelas-verdade: a conjunção só é verdadeira se ambas são verdadeiras; a disjunção inclusiva só é falsa se ambas são falsas; a disjunção exclusiva é verdadeira se apenas uma é verdadeira; o condicional só é falso quando o antecedente é verdadeiro e o consequente falso (V→F); o bicondicional é verdadeiro quando as duas têm o mesmo…"
+]
+},
+{
+"id": "Q-LIN-0365",
+"g": "C",
+"e": "O condicional p → q só é falso quando p é verdadeira e q é falsa.",
+"velho": "Condicional.",
+"aula": [
+"Tabelas-verdade: a conjunção só é verdadeira se ambas são verdadeiras; a disjunção inclusiva só é falsa se ambas são falsas; a disjunção exclusiva é verdadeira se apenas uma é verdadeira; o condicional só é falso quando o antecedente é verdadeiro e o consequente falso (V→F); o bicondicional é verdadeiro quando as duas têm o mesmo…",
+"Negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q e ¬(p ∨ q) ≡ ¬p ∧ ¬q (leis de De Morgan); ¬(p → q) ≡ p ∧ ¬q (a negação do condicional é verdadeira apenas quando p é verdadeira e q é falsa)."
+]
+},
+{
+"id": "Q-LIN-0366",
+"g": "E",
+"e": "O condicional p → q só é falso quando p é falsa e q é verdadeira.",
+"velho": "Condicional.",
+"aula": [
+"Tabelas-verdade: a conjunção só é verdadeira se ambas são verdadeiras; a disjunção inclusiva só é falsa se ambas são falsas; a disjunção exclusiva é verdadeira se apenas uma é verdadeira; o condicional só é falso quando o antecedente é verdadeiro e o consequente falso (V→F); o bicondicional é verdadeiro quando as duas têm o mesmo…",
+"Negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q e ¬(p ∨ q) ≡ ¬p ∧ ¬q (leis de De Morgan); ¬(p → q) ≡ p ∧ ¬q (a negação do condicional é verdadeira apenas quando p é verdadeira e q é falsa)."
+]
+},
+{
+"id": "Q-LIN-0367",
+"g": "C",
+"e": "O bicondicional p ↔ q é verdadeiro quando p e q têm o mesmo valor lógico, e falso quando têm valores diferentes.",
+"velho": "Bicondicional.",
+"aula": [
+"Tabelas-verdade: a conjunção só é verdadeira se ambas são verdadeiras; a disjunção inclusiva só é falsa se ambas são falsas; a disjunção exclusiva é verdadeira se apenas uma é verdadeira; o condicional só é falso quando o antecedente é verdadeiro e o consequente falso (V→F); o bicondicional é verdadeiro quando as duas têm o mesmo…"
+]
+},
+{
+"id": "Q-LIN-0368",
+"g": "E",
+"e": "O bicondicional p ↔ q é verdadeiro quando p e q têm valores lógicos diferentes, e falso quando têm o mesmo valor.",
+"velho": "Bicondicional.",
+"aula": [
+"Tabelas-verdade: a conjunção só é verdadeira se ambas são verdadeiras; a disjunção inclusiva só é falsa se ambas são falsas; a disjunção exclusiva é verdadeira se apenas uma é verdadeira; o condicional só é falso quando o antecedente é verdadeiro e o consequente falso (V→F); o bicondicional é verdadeiro quando as duas têm o mesmo…"
+]
+},
+{
+"id": "Q-LIN-0369",
+"g": "C",
+"e": "Uma tabela-verdade de uma proposição composta por três proposições simples distintas tem oito linhas.",
+"velho": "Número de linhas.",
+"aula": [
+"Proposição simples (atômica) e composta (formada por conectivos).",
+"Uma tabela com n proposições simples tem 2ⁿ linhas."
+]
+},
+{
+"id": "Q-LIN-0370",
+"g": "E",
+"e": "Uma tabela-verdade de uma proposição composta por três proposições simples distintas tem seis linhas.",
+"velho": "Número de linhas.",
+"aula": [
+"Proposição simples (atômica) e composta (formada por conectivos).",
+"Uma tabela com n proposições simples tem 2ⁿ linhas."
+]
+},
+{
+"id": "Q-LIN-0371",
+"g": "C",
+"e": "Pelas leis de De Morgan, a negação de 'p e q' é equivalente a 'não p ou não q'.",
+"velho": "De Morgan.",
+"aula": [
+"Negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q e ¬(p ∨ q) ≡ ¬p ∧ ¬q (leis de De Morgan); ¬(p → q) ≡ p ∧ ¬q (a negação do condicional é verdadeira apenas quando p é verdadeira e q é falsa)."
+]
+},
+{
+"id": "Q-LIN-0372",
+"g": "E",
+"e": "Pelas leis de De Morgan, a negação de 'p e q' é equivalente a 'não p e não q'.",
+"velho": "De Morgan.",
+"aula": [
+"Negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q e ¬(p ∨ q) ≡ ¬p ∧ ¬q (leis de De Morgan); ¬(p → q) ≡ p ∧ ¬q (a negação do condicional é verdadeira apenas quando p é verdadeira e q é falsa)."
+]
+},
+{
+"id": "Q-LIN-0373",
+"g": "C",
+"e": "Pelas leis de De Morgan, a negação de 'p ou q' é equivalente a 'não p e não q'.",
+"velho": "De Morgan.",
+"aula": [
+"Negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q e ¬(p ∨ q) ≡ ¬p ∧ ¬q (leis de De Morgan); ¬(p → q) ≡ p ∧ ¬q (a negação do condicional é verdadeira apenas quando p é verdadeira e q é falsa)."
+]
+},
+{
+"id": "Q-LIN-0374",
+"g": "E",
+"e": "Pelas leis de De Morgan, a negação de 'p ou q' é equivalente a 'não p ou não q'.",
+"velho": "De Morgan.",
+"aula": [
+"Negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q e ¬(p ∨ q) ≡ ¬p ∧ ¬q (leis de De Morgan); ¬(p → q) ≡ p ∧ ¬q (a negação do condicional é verdadeira apenas quando p é verdadeira e q é falsa)."
+]
+},
+{
+"id": "Q-LIN-0375",
+"g": "C",
+"e": "A negação do condicional 'se p, então q' é equivalente a 'p e não q'.",
+"velho": "Negação do condicional.",
+"aula": [
+"Notação: negação ¬p (ou ~p), conjunção p ∧ q (e), disjunção p ∨ q (ou, inclusivo), disjunção exclusiva p ⊻ q (ou... ou), condicional p → q (se p, então q) e bicondicional p ↔ q (p se e somente se q).",
+"Negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q e ¬(p ∨ q) ≡ ¬p ∧ ¬q (leis de De Morgan); ¬(p → q) ≡ p ∧ ¬q (a negação do condicional é verdadeira apenas quando p é verdadeira e q é falsa)."
+]
+},
+{
+"id": "Q-LIN-0376",
+"g": "E",
+"e": "A negação do condicional 'se p, então q' é equivalente a 'se p, então não q'.",
+"velho": "Negação do condicional.",
+"aula": [
+"Notação: negação ¬p (ou ~p), conjunção p ∧ q (e), disjunção p ∨ q (ou, inclusivo), disjunção exclusiva p ⊻ q (ou... ou), condicional p → q (se p, então q) e bicondicional p ↔ q (p se e somente se q).",
+"Negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q e ¬(p ∨ q) ≡ ¬p ∧ ¬q (leis de De Morgan); ¬(p → q) ≡ p ∧ ¬q (a negação do condicional é verdadeira apenas quando p é verdadeira e q é falsa)."
+]
+},
+{
+"id": "Q-LIN-0377",
+"g": "C",
+"e": "A negação de 'Se o projeto for aprovado, então será sancionado' é 'O projeto foi aprovado e não foi sancionado'.",
+"velho": "Negação do condicional.",
+"aula": [
+"Notação: negação ¬p (ou ~p), conjunção p ∧ q (e), disjunção p ∨ q (ou, inclusivo), disjunção exclusiva p ⊻ q (ou... ou), condicional p → q (se p, então q) e bicondicional p ↔ q (p se e somente se q).",
+"Negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q e ¬(p ∨ q) ≡ ¬p ∧ ¬q (leis de De Morgan); ¬(p → q) ≡ p ∧ ¬q (a negação do condicional é verdadeira apenas quando p é verdadeira e q é falsa)."
+]
+},
+{
+"id": "Q-LIN-0378",
+"g": "E",
+"e": "A negação de 'Se o projeto for aprovado, então será sancionado' é 'Se o projeto não for aprovado, então não será sancionado'.",
+"velho": "Negação do condicional.",
+"aula": [
+"Notação: negação ¬p (ou ~p), conjunção p ∧ q (e), disjunção p ∨ q (ou, inclusivo), disjunção exclusiva p ⊻ q (ou... ou), condicional p → q (se p, então q) e bicondicional p ↔ q (p se e somente se q).",
+"Negações: ¬(p ∧ q) ≡ ¬p ∨ ¬q e ¬(p ∨ q) ≡ ¬p ∧ ¬q (leis de De Morgan); ¬(p → q) ≡ p ∧ ¬q (a negação do condicional é verdadeira apenas quando p é verdadeira e q é falsa)."
+]
+},
+{
+"id": "Q-LIN-0379",
+"g": "C",
+"e": "O condicional p → q é equivalente à sua contrapositiva ¬q → ¬p e à disjunção ¬p ∨ q.",
+"velho": "Equivalências do condicional.",
+"aula": [
+"Notação: negação ¬p (ou ~p), conjunção p ∧ q (e), disjunção p ∨ q (ou, inclusivo), disjunção exclusiva p ⊻ q (ou... ou), condicional p → q (se p, então q) e bicondicional p ↔ q (p se e somente se q).",
+"Equivalências do condicional: p → q ≡ ¬q → ¬p (contrapositiva) ≡ ¬p ∨ q."
+]
+},
+{
+"id": "Q-LIN-0380",
+"g": "E",
+"e": "O condicional p → q é equivalente à sua recíproca q → p e à sua inversa ¬p → ¬q.",
+"velho": "Equivalências do condicional.",
+"aula": [
+"Equivalências do condicional: p → q ≡ ¬q → ¬p (contrapositiva) ≡ ¬p ∨ q.",
+"Recíproca (q → p) e inversa (¬p → ¬q) não são equivalentes ao condicional original."
+]
+},
+{
+"id": "Q-LIN-0381",
+"g": "C",
+"e": "A proposição 'Se chove, então a rua fica molhada' é equivalente a 'Se a rua não fica molhada, então não chove'.",
+"velho": "Contrapositiva.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições."
+]
+},
+{
+"id": "Q-LIN-0382",
+"g": "E",
+"e": "A proposição 'Se chove, então a rua fica molhada' é equivalente a 'Se a rua fica molhada, então chove'.",
+"velho": "Contrapositiva.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições."
+]
+},
+{
+"id": "Q-LIN-0383",
+"g": "C",
+"e": "Tautologia é a proposição composta que é sempre verdadeira, e contradição é a que é sempre falsa, quaisquer que sejam os valores lógicos das proposições simples.",
+"velho": "Tautologia e contradição.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições.",
+"Tautologia: sempre verdadeira; contradição: sempre falsa; contingência: depende dos valores."
+]
+},
+{
+"id": "Q-LIN-0384",
+"g": "E",
+"e": "Tautologia é a proposição composta que é sempre falsa, e contradição é a que é sempre verdadeira, quaisquer que sejam os valores lógicos das proposições simples.",
+"velho": "Tautologia e contradição.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições.",
+"Tautologia: sempre verdadeira; contradição: sempre falsa; contingência: depende dos valores."
+]
+},
+{
+"id": "Q-LIN-0385",
+"g": "C",
+"e": "A validade de um argumento dedutivo depende de sua forma, e não da verdade das proposições que o compõem, de modo que um argumento válido pode ter conclusão falsa se alguma premissa for falsa.",
+"velho": "Validade de argumento.",
+"aula": [
+"Argumento é conjunto de proposições (premissas) que sustentam uma conclusão.",
+"Argumento válido (dedutivo): impossível ter premissas verdadeiras e conclusão falsa; a validade depende da forma, e não da verdade das proposições; um argumento válido pode ter conclusão falsa se uma premissa for falsa; argumento sólido é válido com premissas verdadeiras."
+]
+},
+{
+"id": "Q-LIN-0386",
+"g": "E",
+"e": "A validade de um argumento dedutivo depende da verdade de suas proposições, de modo que um argumento válido tem sempre conclusão verdadeira. Isso é consenso na área.",
+"velho": "Validade de argumento.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições.",
+"Argumento válido (dedutivo): impossível ter premissas verdadeiras e conclusão falsa; a validade depende da forma, e não da verdade das proposições; um argumento válido pode ter conclusão falsa se uma premissa for falsa; argumento sólido é válido com premissas verdadeiras."
+]
+},
+{
+"id": "Q-LIN-0387",
+"g": "C",
+"e": "Em um argumento válido, é impossível que as premissas sejam verdadeiras e a conclusão falsa.",
+"velho": "Argumento válido.",
+"aula": [
+"Argumento é conjunto de proposições (premissas) que sustentam uma conclusão.",
+"Argumento válido (dedutivo): impossível ter premissas verdadeiras e conclusão falsa; a validade depende da forma, e não da verdade das proposições; um argumento válido pode ter conclusão falsa se uma premissa for falsa; argumento sólido é válido com premissas verdadeiras."
+]
+},
+{
+"id": "Q-LIN-0388",
+"g": "E",
+"e": "Em um argumento válido, é possível que as premissas sejam verdadeiras e a conclusão falsa, desde que a forma seja correta.",
+"velho": "Argumento válido.",
+"aula": [
+"Argumento é conjunto de proposições (premissas) que sustentam uma conclusão.",
+"Argumento válido (dedutivo): impossível ter premissas verdadeiras e conclusão falsa; a validade depende da forma, e não da verdade das proposições; um argumento válido pode ter conclusão falsa se uma premissa for falsa; argumento sólido é válido com premissas verdadeiras."
+]
+},
+{
+"id": "Q-LIN-0389",
+"g": "C",
+"e": "O argumento 'Se o processo é urgente, é incluído na pauta; o processo é urgente; logo, é incluído na pauta' tem a forma do modus ponens e é válido.",
+"velho": "Modus ponens.",
+"aula": [
+"Argumento válido (dedutivo): impossível ter premissas verdadeiras e conclusão falsa; a validade depende da forma, e não da verdade das proposições; um argumento válido pode ter conclusão falsa se uma premissa for falsa; argumento sólido é válido com premissas verdadeiras.",
+"Formas válidas: modus ponens (p → q; p; logo q), modus tollens (p → q; ¬q; logo ¬p), silogismo hipotético (p → q; q → r; logo p → r), silogismo disjuntivo (p ∨ q; ¬p; logo q)."
+]
+},
+{
+"id": "Q-LIN-0390",
+"g": "E",
+"e": "O argumento 'Se o processo é urgente, é incluído na pauta; o processo é urgente; logo, é incluído na pauta' é uma falácia da afirmação do consequente e é inválido.",
+"velho": "Modus ponens.",
+"aula": [
+"Formas válidas: modus ponens (p → q; p; logo q), modus tollens (p → q; ¬q; logo ¬p), silogismo hipotético (p → q; q → r; logo p → r), silogismo disjuntivo (p ∨ q; ¬p; logo q).",
+"Falácias formais: afirmação do consequente (p → q; q; logo p) e negação do antecedente (p → q; ¬p; logo ¬q)."
+]
+},
+{
+"id": "Q-LIN-0391",
+"g": "C",
+"e": "O argumento 'Se o processo é urgente, é incluído na pauta; o processo foi incluído na pauta; logo, é urgente' é falacioso, por afirmar o consequente.",
+"velho": "Afirmação do consequente.",
+"aula": [
+"Falácias formais: afirmação do consequente (p → q; q; logo p) e negação do antecedente (p → q; ¬p; logo ¬q)."
+]
+},
+{
+"id": "Q-LIN-0392",
+"g": "E",
+"e": "O argumento 'Se o processo é urgente, é incluído na pauta; o processo foi incluído na pauta; logo, é urgente' é válido, pois tem a forma do modus ponens.",
+"velho": "Afirmação do consequente.",
+"aula": [
+"Argumento válido (dedutivo): impossível ter premissas verdadeiras e conclusão falsa; a validade depende da forma, e não da verdade das proposições; um argumento válido pode ter conclusão falsa se uma premissa for falsa; argumento sólido é válido com premissas verdadeiras.",
+"Formas válidas: modus ponens (p → q; p; logo q), modus tollens (p → q; ¬q; logo ¬p), silogismo hipotético (p → q; q → r; logo p → r), silogismo disjuntivo (p ∨ q; ¬p; logo q)."
+]
+},
+{
+"id": "Q-LIN-0393",
+"g": "C",
+"e": "O modus tollens, forma válida, tem a estrutura: p → q; ¬q; logo ¬p.",
+"velho": "Modus tollens.",
+"aula": [
+"Formas válidas: modus ponens (p → q; p; logo q), modus tollens (p → q; ¬q; logo ¬p), silogismo hipotético (p → q; q → r; logo p → r), silogismo disjuntivo (p ∨ q; ¬p; logo q)."
+]
+},
+{
+"id": "Q-LIN-0394",
+"g": "E",
+"e": "O modus tollens, forma válida, tem a estrutura: p → q; ¬p; logo ¬q.",
+"velho": "Modus tollens.",
+"aula": [
+"Formas válidas: modus ponens (p → q; p; logo q), modus tollens (p → q; ¬q; logo ¬p), silogismo hipotético (p → q; q → r; logo p → r), silogismo disjuntivo (p ∨ q; ¬p; logo q)."
+]
+},
+{
+"id": "Q-LIN-0395",
+"g": "C",
+"e": "O silogismo hipotético tem a forma: p → q; q → r; logo p → r.",
+"velho": "Silogismo hipotético.",
+"aula": [
+"Formas válidas: modus ponens (p → q; p; logo q), modus tollens (p → q; ¬q; logo ¬p), silogismo hipotético (p → q; q → r; logo p → r), silogismo disjuntivo (p ∨ q; ¬p; logo q)."
+]
+},
+{
+"id": "Q-LIN-0396",
+"g": "E",
+"e": "O silogismo hipotético tem a forma: p → q; r → q; logo p → r.",
+"velho": "Silogismo hipotético.",
+"aula": [
+"Formas válidas: modus ponens (p → q; p; logo q), modus tollens (p → q; ¬q; logo ¬p), silogismo hipotético (p → q; q → r; logo p → r), silogismo disjuntivo (p ∨ q; ¬p; logo q)."
+]
+},
+{
+"id": "Q-LIN-0397",
+"g": "C",
+"e": "O silogismo disjuntivo tem a forma: p ∨ q; ¬p; logo q.",
+"velho": "Silogismo disjuntivo.",
+"aula": [
+"Formas válidas: modus ponens (p → q; p; logo q), modus tollens (p → q; ¬q; logo ¬p), silogismo hipotético (p → q; q → r; logo p → r), silogismo disjuntivo (p ∨ q; ¬p; logo q)."
+]
+},
+{
+"id": "Q-LIN-0398",
+"g": "E",
+"e": "O silogismo disjuntivo tem a forma: p ∨ q; p; logo ¬q, válida para qualquer disjunção, inclusive a inclusiva.",
+"velho": "Silogismo disjuntivo.",
+"aula": [
+"Tabelas-verdade: a conjunção só é verdadeira se ambas são verdadeiras; a disjunção inclusiva só é falsa se ambas são falsas; a disjunção exclusiva é verdadeira se apenas uma é verdadeira; o condicional só é falso quando o antecedente é verdadeiro e o consequente falso (V→F); o bicondicional é verdadeiro quando as duas têm o mesmo…",
+"Formas válidas: modus ponens (p → q; p; logo q), modus tollens (p → q; ¬q; logo ¬p), silogismo hipotético (p → q; q → r; logo p → r), silogismo disjuntivo (p ∨ q; ¬p; logo q)."
+]
+},
+{
+"id": "Q-LIN-0399",
+"g": "C",
+"e": "A negação de 'todo A é B' é 'algum A não é B'.",
+"velho": "Quantificadores.",
+"aula": [
+"Quantificadores: universal (todo, para todo) e existencial (algum, existe); a negação de 'todo A é B' é 'algum A não é B'; a negação de 'algum A é B' é 'nenhum A é B'; a negação de 'nenhum A é B' é 'algum A é B'."
+]
+},
+{
+"id": "Q-LIN-0400",
+"g": "E",
+"e": "A negação de 'todo A é B' é 'nenhum A é B'.",
+"velho": "Quantificadores.",
+"aula": [
+"Quantificadores: universal (todo, para todo) e existencial (algum, existe); a negação de 'todo A é B' é 'algum A não é B'; a negação de 'algum A é B' é 'nenhum A é B'; a negação de 'nenhum A é B' é 'algum A é B'."
+]
+},
+{
+"id": "Q-LIN-0401",
+"g": "C",
+"e": "A negação de 'nenhum A é B' é 'algum A é B'.",
+"velho": "Quantificadores.",
+"aula": [
+"Quantificadores: universal (todo, para todo) e existencial (algum, existe); a negação de 'todo A é B' é 'algum A não é B'; a negação de 'algum A é B' é 'nenhum A é B'; a negação de 'nenhum A é B' é 'algum A é B'."
+]
+},
+{
+"id": "Q-LIN-0402",
+"g": "E",
+"e": "A negação de 'nenhum A é B' é 'todo A é B'.",
+"velho": "Quantificadores.",
+"aula": [
+"Quantificadores: universal (todo, para todo) e existencial (algum, existe); a negação de 'todo A é B' é 'algum A não é B'; a negação de 'algum A é B' é 'nenhum A é B'; a negação de 'nenhum A é B' é 'algum A é B'."
+]
+},
+{
+"id": "Q-LIN-0403",
+"g": "C",
+"e": "A negação de 'Todos os servidores compareceram' é 'Pelo menos um servidor não compareceu'.",
+"velho": "Negação de universal.",
+"aula": [
+"Quantificadores: universal (todo, para todo) e existencial (algum, existe); a negação de 'todo A é B' é 'algum A não é B'; a negação de 'algum A é B' é 'nenhum A é B'; a negação de 'nenhum A é B' é 'algum A é B'."
+]
+},
+{
+"id": "Q-LIN-0404",
+"g": "E",
+"e": "A negação de 'Todos os servidores compareceram' é 'Nenhum servidor compareceu'. Trata-se de prática corrente.",
+"velho": "Negação de universal.",
+"aula": [
+"Quantificadores: universal (todo, para todo) e existencial (algum, existe); a negação de 'todo A é B' é 'algum A não é B'; a negação de 'algum A é B' é 'nenhum A é B'; a negação de 'nenhum A é B' é 'algum A é B'."
+]
+},
+{
+"id": "Q-LIN-0405",
+"g": "C",
+"e": "O princípio do terceiro excluído estabelece que uma proposição é verdadeira ou falsa, não havendo terceira possibilidade.",
+"velho": "Terceiro excluído.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições.",
+"Princípios: identidade, não contradição e terceiro excluído."
+]
+},
+{
+"id": "Q-LIN-0406",
+"g": "E",
+"e": "O princípio do terceiro excluído estabelece que uma proposição pode ser, ao mesmo tempo, verdadeira e falsa. Isso é consenso na área.",
+"velho": "Terceiro excluído.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições.",
+"Princípios: identidade, não contradição e terceiro excluído."
+]
+},
+{
+"id": "Q-LIN-0407",
+"g": "C",
+"e": "O princípio da não contradição estabelece que uma proposição não pode ser verdadeira e falsa ao mesmo tempo.",
+"velho": "Não contradição.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições.",
+"Tautologia: sempre verdadeira; contradição: sempre falsa; contingência: depende dos valores."
+]
+},
+{
+"id": "Q-LIN-0408",
+"g": "E",
+"e": "O princípio da não contradição estabelece que uma proposição pode ser verdadeira e falsa ao mesmo tempo, desde que em momentos distintos.",
+"velho": "Não contradição.",
+"aula": [
+"Proposição é a sentença declarativa que pode ser julgada verdadeira (V) ou falsa (F), e apenas isso: perguntas, ordens e exclamações não são proposições.",
+"Tautologia: sempre verdadeira; contradição: sempre falsa; contingência: depende dos valores."
+]
+},
+{
+"id": "Q-LIN-0409",
+"g": "C",
+"e": "O Manual de Redação da Presidência da República (3ª ed.) elenca como atributos da redação oficial a clareza e precisão, a objetividade, a concisão, a coesão e coerência, a impessoalidade, a formalidade e padronização e o uso da norma padrão da língua portuguesa.",
+"velho": "Manual, item 3.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Norma padrão: não existe propriamente um 'padrão oficial de linguagem'; há o uso da norma padrão nos atos e comunicações oficiais."
+]
+},
+{
+"id": "Q-LIN-0410",
+"g": "E",
+"e": "O Manual de Redação da Presidência da República (3ª ed.) elenca como atributos da redação oficial a clareza e precisão, a objetividade, a concisão, a expressividade, a impessoalidade, a formalidade e padronização e o uso da norma padrão da língua portuguesa.",
+"velho": "Manual, item 3.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Norma padrão: não existe propriamente um 'padrão oficial de linguagem'; há o uso da norma padrão nos atos e comunicações oficiais."
+]
+},
+{
+"id": "Q-LIN-0411",
+"g": "C",
+"e": "Segundo o Manual, a redação oficial não é necessariamente árida nem contrária à evolução da língua; sua finalidade básica, comunicar com objetividade e máxima clareza, é que impõe parâmetros de uso da língua diversos dos da literatura, do texto jornalístico e da correspondência particular.",
+"velho": "Manual, item 2.",
+"aula": [
+"Redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos.",
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa."
+]
+},
+{
+"id": "Q-LIN-0412",
+"g": "E",
+"e": "Segundo o Manual, a redação oficial é árida por natureza e contrária à evolução da língua, e seus parâmetros de uso são os mesmos da literatura, do texto jornalístico e da correspondência particular. Tal solução decorreria, segundo esse entendimento, da natureza do expediente.",
+"velho": "Manual, item 2.",
+"aula": [
+"Redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos.",
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa."
+]
+},
+{
+"id": "Q-LIN-0413",
+"g": "C",
+"e": "Para o Manual, os atributos da redação oficial decorrem fundamentalmente do art. 37 da Constituição, e a publicidade, a impessoalidade e a eficiência devem nortear a elaboração dos atos e das comunicações oficiais.",
+"velho": "Manual, item 3.",
+"aula": [
+"Redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos.",
+"Os atributos decorrem do art. 37 da Constituição (legalidade, impessoalidade, moralidade, publicidade e eficiência)."
+]
+},
+{
+"id": "Q-LIN-0414",
+"g": "E",
+"e": "Para o Manual, os atributos da redação oficial decorrem fundamentalmente da LC 95/1998, e a publicidade, a impessoalidade e a eficiência são os únicos princípios que devem nortear as comunicações oficiais.",
+"velho": "Manual, item 3.",
+"aula": [
+"Redação oficial é a maneira pela qual o Poder Público redige comunicações oficiais e atos normativos.",
+"Os atributos decorrem do art. 37 da Constituição (legalidade, impessoalidade, moralidade, publicidade e eficiência)."
+]
+},
+{
+"id": "Q-LIN-0415",
+"g": "C",
+"e": "Segundo o Manual, o princípio constitucional da publicidade não se esgota na mera publicação do texto, estendendo-se à necessidade de que o texto seja claro.",
+"velho": "Manual, item 3.1.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa."
+]
+},
+{
+"id": "Q-LIN-0416",
+"g": "E",
+"e": "Segundo o Manual, o princípio constitucional da publicidade se esgota na publicação do texto no Diário Oficial, de modo que a clareza é questão de estilo e não de transparência.",
+"velho": "Manual, item 3.1.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Clareza: texto de imediata compreensão; sugere-se palavras simples em seu sentido comum (salvo assunto técnico), frases curtas e bem estruturadas, orações na ordem direta (a ordem inversa pode ser usada para evitar ambiguidade), uniformidade do tempo verbal, nada de regionalismos e neologismos, pontuação adequada, sigla explicitada na primeira referência e expressões estrangeiras apenas quando indispensáveis…"
+]
+},
+{
+"id": "Q-LIN-0417",
+"g": "C",
+"e": "Para obter clareza, o Manual sugere frases curtas e bem estruturadas, orações na ordem direta e uniformidade do tempo verbal, admitindo a ordem inversa em certas ocasiões para evitar ambiguidade.",
+"velho": "Manual, item 3.1.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Clareza: texto de imediata compreensão; sugere-se palavras simples em seu sentido comum (salvo assunto técnico), frases curtas e bem estruturadas, orações na ordem direta (a ordem inversa pode ser usada para evitar ambiguidade), uniformidade do tempo verbal, nada de regionalismos e neologismos, pontuação adequada, sigla explicitada na primeira referência e expressões estrangeiras apenas quando indispensáveis…"
+]
+},
+{
+"id": "Q-LIN-0418",
+"g": "E",
+"e": "Para obter clareza, o Manual sugere frases curtas e bem estruturadas, orações na ordem direta e uniformidade do tempo verbal, vedando a ordem inversa mesmo quando ela evitaria ambiguidade.",
+"velho": "Manual, item 3.1.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Clareza: texto de imediata compreensão; sugere-se palavras simples em seu sentido comum (salvo assunto técnico), frases curtas e bem estruturadas, orações na ordem direta (a ordem inversa pode ser usada para evitar ambiguidade), uniformidade do tempo verbal, nada de regionalismos e neologismos, pontuação adequada, sigla explicitada na primeira referência e expressões estrangeiras apenas quando indispensáveis…"
+]
+},
+{
+"id": "Q-LIN-0419",
+"g": "C",
+"e": "O Manual recomenda que palavras e expressões em outro idioma sejam usadas só quando indispensáveis, por serem de uso consagrado ou não terem exata tradução, e que sejam grafadas em itálico.",
+"velho": "Manual, itens 3.1 e 10.2.",
+"aula": [
+"Clareza: texto de imediata compreensão; sugere-se palavras simples em seu sentido comum (salvo assunto técnico), frases curtas e bem estruturadas, orações na ordem direta (a ordem inversa pode ser usada para evitar ambiguidade), uniformidade do tempo verbal, nada de regionalismos e neologismos, pontuação adequada, sigla explicitada na primeira referência e expressões estrangeiras apenas quando indispensáveis…"
+]
+},
+{
+"id": "Q-LIN-0420",
+"g": "E",
+"e": "O Manual recomenda que palavras e expressões em outro idioma sejam usadas com liberdade, para conferir elegância ao texto, e que sejam grafadas entre aspas. Trata-se de prática corrente.",
+"velho": "Manual, itens 3.1 e 10.2.",
+"aula": [
+"Clareza: texto de imediata compreensão; sugere-se palavras simples em seu sentido comum (salvo assunto técnico), frases curtas e bem estruturadas, orações na ordem direta (a ordem inversa pode ser usada para evitar ambiguidade), uniformidade do tempo verbal, nada de regionalismos e neologismos, pontuação adequada, sigla explicitada na primeira referência e expressões estrangeiras apenas quando indispensáveis…",
+"Precisão complementa a clareza: articular a linguagem comum ou técnica, usar as mesmas palavras para a mesma ideia (sem sinonímia estilística) e evitar duplo sentido; exige releitura do texto."
+]
+},
+{
+"id": "Q-LIN-0421",
+"g": "C",
+"e": "A precisão complementa a clareza e se caracteriza, entre outros aspectos, por manifestar a ideia com as mesmas palavras, evitando a sinonímia com propósito meramente estilístico, e por evitar expressão que confira duplo sentido ao texto.",
+"velho": "Manual, item 3.1.",
+"aula": [
+"Clareza: texto de imediata compreensão; sugere-se palavras simples em seu sentido comum (salvo assunto técnico), frases curtas e bem estruturadas, orações na ordem direta (a ordem inversa pode ser usada para evitar ambiguidade), uniformidade do tempo verbal, nada de regionalismos e neologismos, pontuação adequada, sigla explicitada na primeira referência e expressões estrangeiras apenas quando indispensáveis…",
+"Precisão complementa a clareza: articular a linguagem comum ou técnica, usar as mesmas palavras para a mesma ideia (sem sinonímia estilística) e evitar duplo sentido; exige releitura do texto."
+]
+},
+{
+"id": "Q-LIN-0422",
+"g": "E",
+"e": "A precisão complementa a clareza e se caracteriza, entre outros aspectos, pela variação de sinônimos para evitar repetições, por conferir elegância ao texto, e pela escolha de expressões de sentido amplo. Isso é consenso na área.",
+"velho": "Manual, item 3.1.",
+"aula": [
+"Clareza: texto de imediata compreensão; sugere-se palavras simples em seu sentido comum (salvo assunto técnico), frases curtas e bem estruturadas, orações na ordem direta (a ordem inversa pode ser usada para evitar ambiguidade), uniformidade do tempo verbal, nada de regionalismos e neologismos, pontuação adequada, sigla explicitada na primeira referência e expressões estrangeiras apenas quando indispensáveis…",
+"Precisão complementa a clareza: articular a linguagem comum ou técnica, usar as mesmas palavras para a mesma ideia (sem sinonímia estilística) e evitar duplo sentido; exige releitura do texto."
+]
+},
+{
+"id": "Q-LIN-0423",
+"g": "C",
+"e": "Segundo o Manual, a clareza e a precisão não se atingem por si sós, pois dependem das demais características da redação oficial, e a releitura do texto redigido é indispensável.",
+"velho": "Manual, item 3.1.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Precisão complementa a clareza: articular a linguagem comum ou técnica, usar as mesmas palavras para a mesma ideia (sem sinonímia estilística) e evitar duplo sentido; exige releitura do texto."
+]
+},
+{
+"id": "Q-LIN-0424",
+"g": "E",
+"e": "Segundo o Manual, a clareza e a precisão se atingem por si sós, sem depender das demais características da redação oficial, e a releitura do texto é dispensável para quem domina o assunto.",
+"velho": "Manual, item 3.1.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Precisão complementa a clareza: articular a linguagem comum ou técnica, usar as mesmas palavras para a mesma ideia (sem sinonímia estilística) e evitar duplo sentido; exige releitura do texto."
+]
+},
+{
+"id": "Q-LIN-0425",
+"g": "C",
+"e": "A objetividade consiste em ir diretamente ao assunto, sem voltas e sem redundâncias, e é errado supor que ela suprima a delicadeza de expressão ou torne o texto rude e grosseiro.",
+"velho": "Manual, item 3.2.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Objetividade: ir direto ao assunto, sem voltas e redundâncias, distinguindo ideias fundamentais e secundárias; não suprime a delicadeza de expressão."
+]
+},
+{
+"id": "Q-LIN-0426",
+"g": "E",
+"e": "A objetividade consiste em ir diretamente ao assunto, sem voltas e sem redundâncias, e implica suprimir a delicadeza de expressão, o que torna o texto oficial necessariamente seco e rude.",
+"velho": "Manual, item 3.2.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Objetividade: ir direto ao assunto, sem voltas e redundâncias, distinguindo ideias fundamentais e secundárias; não suprime a delicadeza de expressão."
+]
+},
+{
+"id": "Q-LIN-0427",
+"g": "C",
+"e": "Conciso é o texto que transmite o máximo de informações com o mínimo de palavras, o que não autoriza eliminar passagens substanciais do texto com o único objetivo de reduzi-lo em tamanho.",
+"velho": "Manual, item 3.3.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Concisão: transmitir o máximo de informações com o mínimo de palavras; não é economia de pensamento nem eliminação de passagens substanciais, e sim exclusão de palavras inúteis, redundâncias, adjetivos e advérbios inúteis e subordinação excessiva."
+]
+},
+{
+"id": "Q-LIN-0428",
+"g": "E",
+"e": "Conciso é o texto que transmite o máximo de informações com o mínimo de palavras, o que autoriza eliminar passagens substanciais do texto para reduzi-lo em tamanho. Trata-se de prática corrente.",
+"velho": "Manual, item 3.3.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Concisão: transmitir o máximo de informações com o mínimo de palavras; não é economia de pensamento nem eliminação de passagens substanciais, e sim exclusão de palavras inúteis, redundâncias, adjetivos e advérbios inúteis e subordinação excessiva."
+]
+},
+{
+"id": "Q-LIN-0429",
+"g": "C",
+"e": "Um redator que, para obter concisão, elimina adjetivos e advérbios inúteis, caracterizações supérfluas e subordinação excessiva, mas mantém os dados essenciais, aplica corretamente o atributo da concisão.",
+"velho": "Manual, item 3.3.",
+"aula": [
+"Atributos (Manual, item 3): clareza e precisão; objetividade; concisão; coesão e coerência; impessoalidade; formalidade e padronização; uso da norma padrão da língua portuguesa.",
+"Concisão: transmitir o máximo de informações com o mínimo de palavras; não é economia de pensamento nem eliminação de passagens substanciais, e sim exclusão de palavras inúteis, redundâncias, adjetivos e advérbios inúteis e subordinação excessiva."
+]
+}
+]

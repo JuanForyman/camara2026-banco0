@@ -1,0 +1,684 @@
+[
+{
+"id": "Q-TI-0459",
+"g": "C",
+"e": "No Teams, o status de presença (disponível, ocupado, ausente) informa aos colegas a disponibilidade do usuário para comunicação.",
+"velho": "Presença no Teams.",
+"aula": [
+"No Teams, canais privados restringem o acesso aos membros do canal, e o status de presença (disponível, ocupado, ausente) informa a disponibilidade."
+]
+},
+{
+"id": "Q-TI-0460",
+"g": "E",
+"e": "No Teams, o status de presença só pode ser definido pelo administrador, e serve apenas para registrar o horário em que o usuário saiu do sistema.",
+"velho": "Presença no Teams.",
+"aula": [
+"No Teams, canais privados restringem o acesso aos membros do canal, e o status de presença (disponível, ocupado, ausente) informa a disponibilidade."
+]
+},
+{
+"id": "Q-TI-0461",
+"g": "C",
+"e": "Um servidor precisa conversar imediatamente com um colega: pode iniciar uma reunião instantânea no Teams, sem precisar agendá-la previamente no calendário.",
+"velho": "Reuniões instantâneas.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"Reuniões podem ser agendadas pelo calendário, com link; convidados externos entram como visitantes conforme a política da organização."
+]
+},
+{
+"id": "Q-TI-0462",
+"g": "E",
+"e": "Um servidor precisa conversar imediatamente com um colega: só pode iniciar reunião no Teams se a tiver agendado previamente no calendário com antecedência mínima de um dia.",
+"velho": "Reuniões instantâneas.",
+"aula": [
+"Microsoft Teams: plataforma de colaboração do Microsoft 365 organizada em equipes e canais (públicos, privados e compartilhados), com chat individual e em grupo, reuniões por vídeo e áudio, chamadas, compartilhamento de tela, quadro branco, gravação e transcrição de reuniões, e integração com arquivos do SharePoint e OneDrive (arquivos postados em canais ficam no SharePoint da…",
+"Reuniões podem ser agendadas pelo calendário, com link; convidados externos entram como visitantes conforme a política da organização."
+]
+},
+{
+"id": "Q-TI-0463",
+"g": "C",
+"e": "No Google Meet, recursos como legendas automáticas e compartilhamento de tela estão disponíveis conforme a edição contratada e a política definida pelo administrador do domínio.",
+"velho": "Recursos do Meet.",
+"aula": [
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda.",
+"No Google Meet, legendas automáticas e compartilhamento de tela estão disponíveis conforme a edição e a política do administrador."
+]
+},
+{
+"id": "Q-TI-0464",
+"g": "E",
+"e": "No Google Meet, as legendas automáticas e o compartilhamento de tela estão disponíveis em todas as contas, sem influência da edição contratada ou da política do administrador.",
+"velho": "Recursos do Meet.",
+"aula": [
+"Google Meet: serviço de videoconferência do Google (Google Workspace), acessado por navegador ou aplicativo, com link de reunião, compartilhamento de tela, legendas, gravação (conforme edição e permissões), chat e integração com o Google Agenda.",
+"No Google Meet, legendas automáticas e compartilhamento de tela estão disponíveis conforme a edição e a política do administrador."
+]
+},
+{
+"id": "Q-TI-0465",
+"g": "C",
+"e": "No certificado digital do tipo A1, a chave privada é armazenada como arquivo no computador, ao passo que no tipo A3 ela fica em dispositivo criptográfico, como token ou cartão.",
+"velho": "A1 x A3.",
+"aula": [
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo).",
+"Certificado digital: o tipo A1 é armazenado como arquivo no computador; o tipo A3 é armazenado em dispositivo criptográfico (token ou cartão), com a chave privada protegida pelo dispositivo."
+]
+},
+{
+"id": "Q-TI-0466",
+"g": "E",
+"e": "No certificado digital do tipo A3, a chave privada é armazenada como arquivo no computador, ao passo que no tipo A1 ela fica em dispositivo criptográfico, como token ou cartão.",
+"velho": "A1 x A3.",
+"aula": [
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo).",
+"Certificado digital: o tipo A1 é armazenado como arquivo no computador; o tipo A3 é armazenado em dispositivo criptográfico (token ou cartão), com a chave privada protegida pelo dispositivo."
+]
+},
+{
+"id": "Q-TI-0467",
+"g": "C",
+"e": "O princípio do menor privilégio determina que cada usuário receba apenas os acessos necessários ao desempenho de suas funções.",
+"velho": "Menor privilégio.",
+"aula": [
+"Princípio do menor privilégio: cada usuário recebe apenas os acessos necessários às suas funções."
+]
+},
+{
+"id": "Q-TI-0468",
+"g": "E",
+"e": "O princípio do menor privilégio determina que todos os usuários recebam acesso administrativo ao sistema, para evitar que dependam de terceiros no desempenho de suas funções.",
+"velho": "Menor privilégio.",
+"aula": [
+"Princípio do menor privilégio: cada usuário recebe apenas os acessos necessários às suas funções."
+]
+},
+{
+"id": "Q-TI-0469",
+"g": "C",
+"e": "As atualizações de segurança (patches) corrigem vulnerabilidades conhecidas, razão pela qual manter o sistema e os aplicativos atualizados reduz a exposição a ataques.",
+"velho": "Patches.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Atualizações (patches) corrigem vulnerabilidades; ataque de dia zero explora vulnerabilidade ainda sem correção conhecida."
+]
+},
+{
+"id": "Q-TI-0470",
+"g": "E",
+"e": "As atualizações de segurança (patches) servem apenas para acrescentar novos recursos visuais, razão pela qual a falta delas não aumenta a exposição a ataques. Trata-se de prática corrente.",
+"velho": "Patches.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"A ABNT NBR ISO/IEC 27001 trata de sistemas de gestão de segurança da informação e a 27002, de controles."
+]
+},
+{
+"id": "Q-TI-0471",
+"g": "C",
+"e": "O ataque de dia zero (zero-day) explora uma vulnerabilidade ainda desconhecida do fabricante ou para a qual não há correção disponível.",
+"velho": "Zero-day.",
+"aula": [
+"Atualizações (patches) corrigem vulnerabilidades; ataque de dia zero explora vulnerabilidade ainda sem correção conhecida."
+]
+},
+{
+"id": "Q-TI-0472",
+"g": "E",
+"e": "O ataque de dia zero (zero-day) explora uma vulnerabilidade já corrigida pelo fabricante há mais de um ano, mas ainda não instalada pelo usuário.",
+"velho": "Zero-day.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Atualizações (patches) corrigem vulnerabilidades; ataque de dia zero explora vulnerabilidade ainda sem correção conhecida."
+]
+},
+{
+"id": "Q-TI-0473",
+"g": "C",
+"e": "Em caso de incidente de segurança que possa acarretar risco ou dano relevante aos titulares, a LGPD exige que o controlador comunique o fato à ANPD e ao titular dos dados.",
+"velho": "LGPD, art. 48.",
+"aula": [
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…",
+"Em caso de incidente de segurança que possa acarretar risco ou dano relevante aos titulares, a LGPD (art. 48) exige que o controlador comunique a ANPD e o titular."
+]
+},
+{
+"id": "Q-TI-0474",
+"g": "E",
+"e": "Em caso de incidente de segurança que possa acarretar risco ou dano relevante aos titulares, a LGPD dispensa a comunicação à ANPD, bastando que o controlador registre o fato internamente.",
+"velho": "LGPD, art. 48.",
+"aula": [
+"Em caso de incidente de segurança que possa acarretar risco ou dano relevante aos titulares, a LGPD (art. 48) exige que o controlador comunique a ANPD e o titular."
+]
+},
+{
+"id": "Q-TI-0475",
+"g": "C",
+"e": "A engenharia social explora o fator humano, induzindo pessoas a fornecer informações ou realizar ações que comprometam a segurança, sem depender de falha técnica do sistema.",
+"velho": "Engenharia social.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…",
+"Engenharia social explora o fator humano."
+]
+},
+{
+"id": "Q-TI-0476",
+"g": "E",
+"e": "A engenharia social explora exclusivamente falhas técnicas de software, sem qualquer interação com pessoas, e só é possível mediante invasão do servidor. Isso é consenso na área.",
+"velho": "Engenharia social.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…",
+"Engenharia social explora o fator humano."
+]
+},
+{
+"id": "Q-TI-0477",
+"g": "C",
+"e": "Uma organização mantém cópia de segurança em nuvem e outra em disco externo guardado em local distinto, e testa periodicamente a restauração. Essas práticas atendem à ideia de múltiplas cópias, em locais e mídias diferentes, com verificação de que podem ser restauradas.",
+"velho": "Boas práticas de backup.",
+"aula": [
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…",
+"Backup em nuvem e backup local se complementam; teste de restauração é parte do procedimento."
+]
+},
+{
+"id": "Q-TI-0478",
+"g": "E",
+"e": "Uma organização mantém todas as cópias de segurança em um único disco externo, guardado ao lado do servidor, e nunca testa a restauração. Essas práticas atendem à ideia de múltiplas cópias, em locais e mídias diferentes, com verificação de que podem ser restauradas.",
+"velho": "Boas práticas de backup.",
+"aula": [
+"Boas práticas: atualizar sistema e aplicativos, usar senhas longas e exclusivas, gerenciador de senhas, não abrir anexos e links suspeitos, conferir o endereço e o certificado (cadeado, HTTPS) dos sites.",
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…"
+]
+},
+{
+"id": "Q-TI-0479",
+"g": "C",
+"e": "A criptografia protege o conteúdo contra leitura por quem não detém a chave, mas não impede, por si só, a perda dos dados por falha, exclusão acidental ou ataque, o que exige também cópias de segurança.",
+"velho": "Criptografia x backup.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…"
+]
+},
+{
+"id": "Q-TI-0480",
+"g": "E",
+"e": "A criptografia impede, por si só, a perda dos dados por falha, exclusão acidental ou ataque, o que dispensa a realização de cópias de segurança. Isso é consenso na área.",
+"velho": "Criptografia x backup.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…"
+]
+},
+{
+"id": "Q-TI-0481",
+"g": "C",
+"e": "A autenticação multifator reduz o risco de acesso indevido mesmo quando a senha é descoberta, pois exige ao menos um fator adicional de categoria diferente, como um código gerado em aplicativo ou a biometria.",
+"velho": "MFA.",
+"aula": [
+"Fatores de autenticação: o que se sabe (senha), o que se tem (token, celular) e o que se é (biometria).",
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…"
+]
+},
+{
+"id": "Q-TI-0482",
+"g": "E",
+"e": "A autenticação multifator não reduz o risco de acesso indevido quando a senha é descoberta, pois o segundo fator pode ser uma segunda senha criada pelo próprio usuário. Trata-se de prática corrente.",
+"velho": "MFA.",
+"aula": [
+"Autenticação confirma quem é o usuário; autorização define o que ele pode fazer; auditoria registra o que fez.",
+"Fatores de autenticação: o que se sabe (senha), o que se tem (token, celular) e o que se é (biometria)."
+]
+},
+{
+"id": "Q-TI-0483",
+"g": "C",
+"e": "O cadeado exibido na barra de endereços indica que a conexão com o site é cifrada, mas não garante, por si só, que o site seja legítimo ou confiável, pois páginas fraudulentas também podem usar HTTPS.",
+"velho": "Cadeado e HTTPS.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…",
+"Boas práticas: atualizar sistema e aplicativos, usar senhas longas e exclusivas, gerenciador de senhas, não abrir anexos e links suspeitos, conferir o endereço e o certificado (cadeado, HTTPS) dos sites."
+]
+},
+{
+"id": "Q-TI-0484",
+"g": "E",
+"e": "O cadeado exibido na barra de endereços garante que o site é legítimo e confiável, pois páginas fraudulentas não podem usar HTTPS. Essa seria a posição predominante na literatura técnica.",
+"velho": "Cadeado e HTTPS.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…",
+"Boas práticas: atualizar sistema e aplicativos, usar senhas longas e exclusivas, gerenciador de senhas, não abrir anexos e links suspeitos, conferir o endereço e o certificado (cadeado, HTTPS) dos sites."
+]
+},
+{
+"id": "Q-TI-0485",
+"g": "C",
+"e": "ChatGPT, Gemini, Claude e Microsoft Copilot são exemplos de assistentes baseados em IA generativa, que produzem respostas em linguagem natural a partir de instruções do usuário.",
+"velho": "Exemplos de IA generativa.",
+"aula": [
+"IA generativa: modelos que produzem conteúdo novo (texto, imagem, áudio, código, vídeo) a partir de padrões aprendidos.",
+"Exemplos de assistentes de IA generativa: ChatGPT, Gemini, Claude e Microsoft Copilot."
+]
+},
+{
+"id": "Q-TI-0486",
+"g": "E",
+"e": "ChatGPT, Gemini, Claude e Microsoft Copilot são exemplos de sistemas gerenciadores de bancos de dados relacionais, que armazenam registros em tabelas. Trata-se de prática corrente.",
+"velho": "Exemplos de IA generativa.",
+"aula": [
+"Exemplos de assistentes de IA generativa: ChatGPT, Gemini, Claude e Microsoft Copilot."
+]
+},
+{
+"id": "Q-TI-0487",
+"g": "C",
+"e": "Os modelos multimodais são capazes de processar mais de um tipo de dado, como texto, imagem e áudio.",
+"velho": "Modelos multimodais.",
+"aula": [
+"IA generativa: modelos que produzem conteúdo novo (texto, imagem, áudio, código, vídeo) a partir de padrões aprendidos.",
+"Modelos multimodais processam mais de um tipo de dado (texto, imagem, áudio)."
+]
+},
+{
+"id": "Q-TI-0488",
+"g": "E",
+"e": "Os modelos multimodais são aqueles que só processam texto, mas em vários idiomas simultaneamente.",
+"velho": "Modelos multimodais.",
+"aula": [
+"IA generativa: modelos que produzem conteúdo novo (texto, imagem, áudio, código, vídeo) a partir de padrões aprendidos.",
+"Modelos multimodais processam mais de um tipo de dado (texto, imagem, áudio)."
+]
+},
+{
+"id": "Q-TI-0489",
+"g": "C",
+"e": "Nos modelos generativos, valores baixos do parâmetro de temperatura tornam as respostas mais previsíveis e determinísticas, ao passo que valores altos aumentam a variação e a criatividade.",
+"velho": "Temperatura.",
+"aula": [
+"Parâmetro de temperatura: valores baixos tornam as respostas mais previsíveis e determinísticas; valores altos aumentam a variação e a criatividade."
+]
+},
+{
+"id": "Q-TI-0490",
+"g": "E",
+"e": "Nos modelos generativos, valores baixos do parâmetro de temperatura aumentam a variação e a criatividade das respostas, ao passo que valores altos as tornam mais previsíveis e determinísticas.",
+"velho": "Temperatura.",
+"aula": [
+"Parâmetro de temperatura: valores baixos tornam as respostas mais previsíveis e determinísticas; valores altos aumentam a variação e a criatividade."
+]
+},
+{
+"id": "Q-TI-0491",
+"g": "C",
+"e": "O fine-tuning ajusta os parâmetros de um modelo já treinado com dados adicionais, ao passo que o prompt apenas orienta o uso do modelo, sem alterar seus parâmetros.",
+"velho": "Fine-tuning x prompt.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Fine-tuning ajusta o modelo com dados adicionais, ao passo que o prompt apenas orienta o uso do modelo."
+]
+},
+{
+"id": "Q-TI-0492",
+"g": "E",
+"e": "O fine-tuning consiste em redigir instruções melhores no prompt, sem alterar os parâmetros do modelo, ao passo que o prompt ajusta os parâmetros do modelo com dados adicionais.",
+"velho": "Fine-tuning x prompt.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Fine-tuning ajusta o modelo com dados adicionais, ao passo que o prompt apenas orienta o uso do modelo."
+]
+},
+{
+"id": "Q-TI-0493",
+"g": "C",
+"e": "Em um classificador, falso positivo é o caso em que o modelo prevê a classe positiva, mas o valor real é negativo, e falso negativo é o caso em que o modelo prevê a classe negativa, mas o valor real é positivo.",
+"velho": "Matriz de confusão.",
+"aula": [
+"Matriz de confusão resume acertos e erros de um classificador: verdadeiros positivos, falsos positivos, verdadeiros negativos e falsos negativos; falso positivo é prever positivo quando o real é negativo."
+]
+},
+{
+"id": "Q-TI-0494",
+"g": "E",
+"e": "Em um classificador, falso positivo é o caso em que o modelo prevê a classe negativa, mas o valor real é positivo, e falso negativo é o caso em que o modelo prevê a classe positiva, mas o valor real é negativo.",
+"velho": "Matriz de confusão.",
+"aula": [
+"Matriz de confusão resume acertos e erros de um classificador: verdadeiros positivos, falsos positivos, verdadeiros negativos e falsos negativos; falso positivo é prever positivo quando o real é negativo."
+]
+},
+{
+"id": "Q-TI-0495",
+"g": "C",
+"e": "Um filtro antispam baseado em aprendizado de máquina que classifica como spam uma mensagem legítima produz um falso positivo.",
+"velho": "Spam positivo; mensagem legítima é negativa.",
+"aula": [
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina.",
+"Matriz de confusão resume acertos e erros de um classificador: verdadeiros positivos, falsos positivos, verdadeiros negativos e falsos negativos; falso positivo é prever positivo quando o real é negativo."
+]
+},
+{
+"id": "Q-TI-0496",
+"g": "E",
+"e": "Um filtro antispam baseado em aprendizado de máquina que classifica como spam uma mensagem legítima produz um falso negativo.",
+"velho": "Spam positivo; mensagem legítima é negativa.",
+"aula": [
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina.",
+"Matriz de confusão resume acertos e erros de um classificador: verdadeiros positivos, falsos positivos, verdadeiros negativos e falsos negativos; falso positivo é prever positivo quando o real é negativo."
+]
+},
+{
+"id": "Q-TI-0497",
+"g": "C",
+"e": "Um modelo de caixa-preta é aquele cujo funcionamento interno é difícil de interpretar, o que limita a explicabilidade de suas decisões.",
+"velho": "Explicabilidade.",
+"aula": [
+"Modelos de caixa-preta têm baixa explicabilidade; explicabilidade é a capacidade de justificar como se chegou à saída."
+]
+},
+{
+"id": "Q-TI-0498",
+"g": "E",
+"e": "Um modelo de caixa-preta é aquele cujo funcionamento interno é totalmente transparente, o que garante a explicabilidade de suas decisões.",
+"velho": "Explicabilidade.",
+"aula": [
+"Modelos de caixa-preta têm baixa explicabilidade; explicabilidade é a capacidade de justificar como se chegou à saída."
+]
+},
+{
+"id": "Q-TI-0499",
+"g": "C",
+"e": "Dados sintéticos são gerados artificialmente e podem ser usados para ampliar conjuntos de treinamento, mas podem reproduzir vieses dos dados e dos modelos que os geraram.",
+"velho": "Dados sintéticos.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Dados sintéticos são gerados artificialmente."
+]
+},
+{
+"id": "Q-TI-0500",
+"g": "E",
+"e": "Dados sintéticos são sempre idênticos aos dados reais, não podendo reproduzir nenhum viés, razão pela qual dispensam avaliação de qualidade. Isso é consenso na área.",
+"velho": "Dados sintéticos.",
+"aula": [
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão.",
+"Dados sintéticos são gerados artificialmente."
+]
+},
+{
+"id": "Q-TI-0501",
+"g": "C",
+"e": "O viés de confirmação pode levar o usuário a formular perguntas e a aceitar respostas que confirmem suas expectativas, razão pela qual convém checar as respostas de uma IA com fontes independentes.",
+"velho": "Viés de confirmação.",
+"aula": [
+"Viés de confirmação leva a buscar respostas que confirmem a expectativa do usuário."
+]
+},
+{
+"id": "Q-TI-0502",
+"g": "E",
+"e": "O viés de confirmação ocorre apenas em modelos de aprendizado por reforço e não afeta o modo como o usuário interpreta as respostas de uma IA. Trata-se de prática corrente.",
+"velho": "Viés de confirmação.",
+"aula": [
+"Aprendizado por reforço: um agente interage com um ambiente, recebe recompensas ou penalidades e aprende uma política que maximiza a recompensa acumulada (ex.: jogos, robótica).",
+"Viés de confirmação leva a buscar respostas que confirmem a expectativa do usuário."
+]
+},
+{
+"id": "Q-TI-0503",
+"g": "C",
+"e": "Um servidor pede a uma IA generativa que cite a jurisprudência aplicável a um tema e recebe precedentes com número e data. Antes de usá-los, deve conferir sua existência e seu teor em fonte oficial, pois a ferramenta pode inventar referências.",
+"velho": "Alucinação de referências.",
+"aula": [
+"Inteligência artificial (IA) é o campo que busca fazer sistemas computacionais realizarem tarefas que normalmente exigem inteligência humana, como perceber, aprender, raciocinar e gerar linguagem."
+]
+},
+{
+"id": "Q-TI-0504",
+"g": "E",
+"e": "Um servidor pede a uma IA generativa que cite a jurisprudência aplicável a um tema e recebe precedentes com número e data. Como constam número e data, pode citá-los sem conferência, pois a ferramenta não inventa referências. Isso é consenso na área.",
+"velho": "Alucinação de referências.",
+"aula": [
+"Inteligência artificial (IA) é o campo que busca fazer sistemas computacionais realizarem tarefas que normalmente exigem inteligência humana, como perceber, aprender, raciocinar e gerar linguagem."
+]
+},
+{
+"id": "Q-TI-0505",
+"g": "C",
+"e": "No aprendizado de máquina, os dados são em geral divididos em conjuntos de treinamento, validação e teste, e o conjunto de teste é reservado para a avaliação final do modelo.",
+"velho": "Divisão dos dados.",
+"aula": [
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina.",
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão."
+]
+},
+{
+"id": "Q-TI-0506",
+"g": "E",
+"e": "No aprendizado de máquina, os dados são sempre usados integralmente para o treinamento, e o conjunto de teste é o primeiro a ser utilizado para ajustar os parâmetros do modelo.",
+"velho": "Divisão dos dados.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão."
+]
+},
+{
+"id": "Q-TI-0507",
+"g": "C",
+"e": "Um modelo que prevê o valor de um imóvel a partir de área e localização executa tarefa de regressão, ao passo que um modelo que indica se um e-mail é spam executa tarefa de classificação.",
+"velho": "Regressão: valor numérico; classificação: categoria.",
+"aula": [
+"Tarefas: classificação (prever categoria, como spam ou não spam) e regressão (prever valor numérico, como preço).",
+"Técnicas: zero-shot (sem exemplos), one-shot (um exemplo) e few-shot (poucos exemplos no próprio prompt); instrução passo a passo ou raciocínio em etapas (chain-of-thought); iteração e refinamento a partir da resposta; fornecer o texto-fonte para ancorar a resposta."
+]
+},
+{
+"id": "Q-TI-0508",
+"g": "E",
+"e": "Um modelo que prevê o valor de um imóvel a partir de área e localização executa tarefa de classificação, ao passo que um modelo que indica se um e-mail é spam executa tarefa de regressão.",
+"velho": "Regressão: valor numérico; classificação: categoria.",
+"aula": [
+"Tarefas: classificação (prever categoria, como spam ou não spam) e regressão (prever valor numérico, como preço).",
+"Técnicas: zero-shot (sem exemplos), one-shot (um exemplo) e few-shot (poucos exemplos no próprio prompt); instrução passo a passo ou raciocínio em etapas (chain-of-thought); iteração e refinamento a partir da resposta; fornecer o texto-fonte para ancorar a resposta."
+]
+},
+{
+"id": "Q-TI-0509",
+"g": "C",
+"e": "O Marco Civil da Internet (Lei 12.965/2014) estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, entre eles a neutralidade da rede e a proteção da privacidade e dos dados pessoais.",
+"velho": "Marco Civil.",
+"aula": [
+"Proteção de dados: a LGPD (Lei 13.709/2018) aplica-se também ao poder público, que deve tratar dados pessoais para atender a finalidade pública, na persecução do interesse público, com informação clara sobre as hipóteses de tratamento.",
+"Marco Civil da Internet (Lei 12.965/2014): estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, entre eles a neutralidade da rede, a proteção da privacidade e dos dados pessoais e a liberdade de expressão."
+]
+},
+{
+"id": "Q-TI-0510",
+"g": "E",
+"e": "O Marco Civil da Internet (Lei 12.965/2014) trata exclusivamente de crimes cibernéticos, e não de princípios e direitos para o uso da Internet, nem de neutralidade da rede. Trata-se de prática corrente.",
+"velho": "Marco Civil.",
+"aula": [
+"Marco Civil da Internet (Lei 12.965/2014): estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, entre eles a neutralidade da rede, a proteção da privacidade e dos dados pessoais e a liberdade de expressão."
+]
+},
+{
+"id": "Q-TI-0511",
+"g": "C",
+"e": "Pelo Marco Civil da Internet, o provedor de conexão deve guardar os registros de conexão por um ano, e o provedor de aplicações, os registros de acesso a aplicações, por seis meses.",
+"velho": "Prazos de guarda de registros.",
+"aula": [
+"Marco Civil da Internet (Lei 12.965/2014): estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, entre eles a neutralidade da rede, a proteção da privacidade e dos dados pessoais e a liberdade de expressão.",
+"O provedor de conexão deve guardar os registros de conexão por um ano, e o provedor de aplicações de Internet, os registros de acesso a aplicações, por seis meses, em ambiente controlado e de segurança."
+]
+},
+{
+"id": "Q-TI-0512",
+"g": "E",
+"e": "Pelo Marco Civil da Internet, o provedor de conexão deve guardar os registros de conexão por seis meses, e o provedor de aplicações, os registros de acesso a aplicações, por um ano.",
+"velho": "Prazos de guarda de registros.",
+"aula": [
+"Marco Civil da Internet (Lei 12.965/2014): estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, entre eles a neutralidade da rede, a proteção da privacidade e dos dados pessoais e a liberdade de expressão.",
+"O provedor de conexão deve guardar os registros de conexão por um ano, e o provedor de aplicações de Internet, os registros de acesso a aplicações, por seis meses, em ambiente controlado e de segurança."
+]
+},
+{
+"id": "Q-TI-0513",
+"g": "C",
+"e": "O servidor deve usar com cautela as ferramentas de IA, observando a política do órgão, e responde pelo conteúdo que produz e divulga com apoio dessas ferramentas, ainda que parte do texto tenha sido gerada automaticamente.",
+"velho": "Responsabilidade pelo conteúdo.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA.",
+"Recursos de TI do órgão são bens públicos e devem ser usados para fins institucionais, conforme a política interna; credenciais (login e senha) são pessoais e intransferíveis, e o titular responde pelos acessos feitos com elas."
+]
+},
+{
+"id": "Q-TI-0514",
+"g": "E",
+"e": "O servidor que divulga conteúdo produzido com apoio de ferramenta de IA não responde por eventuais erros ou ofensas, pois o texto foi gerado automaticamente. Tal conclusão decorreria, segundo esse entendimento, das características do fenômeno descrito.",
+"velho": "Responsabilidade pelo conteúdo.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA."
+]
+},
+{
+"id": "Q-TI-0515",
+"g": "C",
+"e": "Ao enviar documento com dados pessoais por e-mail, o servidor deve verificar se o envio é necessário e autorizado, se o destinatário está correto e se há necessidade de proteção, como senha ou cifragem do arquivo.",
+"velho": "Cuidado com dados pessoais.",
+"aula": [
+"Proteção de dados: a LGPD (Lei 13.709/2018) aplica-se também ao poder público, que deve tratar dados pessoais para atender a finalidade pública, na persecução do interesse público, com informação clara sobre as hipóteses de tratamento.",
+"Marco Civil da Internet (Lei 12.965/2014): estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil, entre eles a neutralidade da rede, a proteção da privacidade e dos dados pessoais e a liberdade de expressão."
+]
+},
+{
+"id": "Q-TI-0516",
+"g": "E",
+"e": "Ao enviar documento com dados pessoais por e-mail, o servidor não precisa verificar a finalidade do envio nem o destinatário, pois o correio institucional garante, por si só, que não haverá acesso indevido.",
+"velho": "Cuidado com dados pessoais.",
+"aula": [
+"O servidor público responde por suas ações no ambiente digital como em qualquer outro: princípios do art. 37, caput, da CF (legalidade, impessoalidade, moralidade, publicidade e eficiência) aplicam-se ao uso de e-mail institucional, redes sociais, sistemas e ferramentas de IA.",
+"Proteção de dados: a LGPD (Lei 13.709/2018) aplica-se também ao poder público, que deve tratar dados pessoais para atender a finalidade pública, na persecução do interesse público, com informação clara sobre as hipóteses de tratamento."
+]
+},
+{
+"id": "Q-TI-0517",
+"g": "C",
+"e": "O gráfico de colunas empilhadas mostra a composição de cada categoria em segmentos, mas dificulta a comparação entre segmentos que não estão apoiados na base comum.",
+"velho": "Colunas empilhadas.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0518",
+"g": "E",
+"e": "O gráfico de colunas empilhadas facilita a comparação precisa de todos os segmentos, pois todos estão apoiados em uma base comum, independentemente da posição na coluna.",
+"velho": "Colunas empilhadas.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0519",
+"g": "C",
+"e": "Gráficos com dois eixos verticais podem induzir a falsas conclusões quando as escalas são escolhidas de modo arbitrário, pois a aparência de correlação pode ser produzida pela escolha das escalas.",
+"velho": "Eixos duplos.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0520",
+"g": "E",
+"e": "Gráficos com dois eixos verticais nunca induzem a falsas conclusões, pois a aparência de correlação independe da escolha das escalas. Essa seria a posição predominante na literatura técnica.",
+"velho": "Eixos duplos.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0521",
+"g": "C",
+"e": "O treemap representa dados hierárquicos por retângulos aninhados, cuja área é proporcional ao valor de cada categoria.",
+"velho": "Treemap.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0522",
+"g": "E",
+"e": "O treemap representa a evolução de uma variável no tempo por uma linha contínua, cuja inclinação é proporcional ao valor de cada categoria.",
+"velho": "Treemap.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0523",
+"g": "C",
+"e": "A sparkline é um minigráfico inserido no interior de uma célula, útil para mostrar a tendência de uma série em pouco espaço.",
+"velho": "Sparkline.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0524",
+"g": "E",
+"e": "A sparkline é um gráfico tridimensional que ocupa a planilha inteira, usado para comparar muitas categorias com precisão.",
+"velho": "Sparkline.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0525",
+"g": "C",
+"e": "A acessibilidade em visualizações envolve contraste adequado, texto alternativo para elementos gráficos e o uso de recursos além da cor para transmitir informação.",
+"velho": "Acessibilidade.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0526",
+"g": "E",
+"e": "A acessibilidade em visualizações dispensa texto alternativo e contraste adequado, pois a cor é suficiente para transmitir informação a todos os usuários. Trata-se de prática corrente.",
+"velho": "Acessibilidade.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0527",
+"g": "C",
+"e": "Ordenar as barras de um gráfico por valor, do maior para o menor, em geral facilita a comparação entre as categorias, salvo quando as categorias têm ordem natural, como os meses do ano.",
+"velho": "Ordenação de barras.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0528",
+"g": "E",
+"e": "Ordenar as barras de um gráfico por valor prejudica a comparação em qualquer caso, e as categorias devem ser sempre dispostas em ordem alfabética. Isso é consenso na área.",
+"velho": "Ordenação de barras.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+}
+]

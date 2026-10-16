@@ -1,0 +1,669 @@
+[
+{
+"id": "Q-CF-0017",
+"g": "E",
+"e": "O poder constituinte derivado reformador é ilimitado juridicamente, podendo alterar qualquer dispositivo constitucional por procedimento próprio.",
+"velho": "É derivado, subordinado e condicionado: sofre limites formais, circunstanciais e materiais (art. 60).",
+"aula": []
+},
+{
+"id": "Q-CF-0018",
+"g": "C",
+"e": "A Constituição Federal de 1988 é classificada como analítica, por tratar de grande número de matérias e detalhar temas além da organização básica do Estado.",
+"velho": "Classificação quanto à extensão.",
+"aula": []
+},
+{
+"id": "Q-CF-0410",
+"g": "C",
+"e": "A Constituição de 1988 foi elaborada por Assembleia Nacional Constituinte instalada em 1987 e promulgada em 5 de outubro de 1988.",
+"velho": "História constitucional: Constituinte instalada em 1º/2/1987; promulgação em 5/10/1988.",
+"aula": []
+},
+{
+"id": "Q-CF-0411",
+"g": "E",
+"e": "A Constituição de 1937, de caráter democrático, foi elaborada por Assembleia Constituinte eleita.",
+"velho": "A de 1937 foi outorgada por Getúlio Vargas (Estado Novo).",
+"aula": []
+},
+{
+"id": "Q-CF-0412",
+"g": "C",
+"e": "A Constituição de 1824 foi outorgada por Dom Pedro I e a de 1891 foi a primeira constituição republicana do Brasil.",
+"velho": "História constitucional brasileira.",
+"aula": []
+},
+{
+"id": "Q-CF-0413",
+"g": "E",
+"e": "A Constituição de 1934 instituiu o federalismo e a república pela primeira vez no Brasil.",
+"velho": "República e federalismo vieram com a Constituição de 1891.",
+"aula": []
+},
+{
+"id": "Q-CF-0414",
+"g": "C",
+"e": "A Constituição de 1988 é classificada como formal, escrita, dogmática, promulgada e rígida.",
+"velho": "Classificação usual da doutrina.",
+"aula": []
+},
+{
+"id": "Q-CF-0415",
+"g": "C",
+"e": "Segundo a doutrina, a Constituição de 1988 é classificada como analítica, por conter extenso conjunto de matérias, inclusive de caráter não materialmente constitucional.",
+"velho": "Classificação quanto à extensão.",
+"aula": []
+},
+{
+"id": "Q-CF-0416",
+"g": "E",
+"e": "A existência do Ato das Disposições Constitucionais Transitórias torna a Constituição de 1988 uma constituição sintética.",
+"velho": "A CF/88 é analítica; o ADCT integra seu texto e não altera essa classificação.",
+"aula": []
+},
+{
+"id": "Q-DIS-0001",
+"g": "C",
+"e": "A Lei 8.112/1990 rege o processo disciplinar dos servidores públicos civis federais, aplicando-se a Lei 9.784/1999 apenas de forma subsidiária, nos termos do art. 69 desta última.",
+"velho": "Lei 9.784/1999, art. 69.",
+"aula": [
+"Fontes: Constituição (arts. 37 e 41, entre outros), leis (Lei 8.112/1990 para os servidores civis federais; estatutos de cada ente;",
+"Assim, a Lei 8.112/1990 rege o processo disciplinar dos servidores civis federais, e a Lei 9.784/1999 se aplica subsidiariamente."
+]
+},
+{
+"id": "Q-DIS-0002",
+"g": "E",
+"e": "A Lei 9.784/1999 rege o processo disciplinar dos servidores públicos civis federais, aplicando-se a Lei 8.112/1990 apenas de forma subsidiária, nos termos do art. 69 da Lei 9.784/1999.",
+"velho": "Lei 9.784/1999, art. 69.",
+"aula": [
+"Fontes: Constituição (arts. 37 e 41, entre outros), leis (Lei 8.112/1990 para os servidores civis federais; estatutos de cada ente;",
+"Assim, a Lei 8.112/1990 rege o processo disciplinar dos servidores civis federais, e a Lei 9.784/1999 se aplica subsidiariamente."
+]
+},
+{
+"id": "Q-DIS-0003",
+"g": "C",
+"e": "No direito disciplinar, a tipicidade das infrações é atenuada, admitindo-se conceitos abertos, como a conduta escandalosa, ao passo que as penalidades devem estar previstas em lei.",
+"velho": "Tipicidade no direito disciplinar.",
+"aula": [
+"Legalidade e tipicidade: no direito disciplinar a tipicidade é atenuada (flexível), pois a lei não descreve exaustivamente todas as infrações, admitindo conceitos abertos, como a conduta escandalosa e a improbidade; já as penalidades devem estar previstas em lei."
+]
+},
+{
+"id": "Q-DIS-0004",
+"g": "E",
+"e": "No direito disciplinar, vigora a tipicidade estrita das infrações, a exemplo do direito penal, sendo vedado o uso de conceitos abertos, e as penalidades podem ser criadas por regulamento.",
+"velho": "Tipicidade no direito disciplinar.",
+"aula": [
+"Legalidade e tipicidade: no direito disciplinar a tipicidade é atenuada (flexível), pois a lei não descreve exaustivamente todas as infrações, admitindo conceitos abertos, como a conduta escandalosa e a improbidade; já as penalidades devem estar previstas em lei."
+]
+},
+{
+"id": "Q-DIS-0005",
+"g": "C",
+"e": "O princípio do non bis in idem veda a imposição de nova punição ao servidor pelo mesmo fato, e, segundo a Súmula 19 do STF, é inadmissível segunda punição baseada no mesmo processo em que se fundou a primeira.",
+"velho": "STF, Súmula 19.",
+"aula": [
+"Non bis in idem: vedada nova punição pelo mesmo fato (STF, Súmula 19).",
+"Princípio da inexistência de dupla punição pelo mesmo fato no mesmo processo."
+]
+},
+{
+"id": "Q-DIS-0006",
+"g": "E",
+"e": "O princípio do non bis in idem veda apenas a cumulação de sanções penais e administrativas pelo mesmo fato, sendo admissível, segundo a Súmula 19 do STF, segunda punição baseada no mesmo processo em que se fundou a primeira.",
+"velho": "STF, Súmula 19.",
+"aula": [
+"Non bis in idem: vedada nova punição pelo mesmo fato (STF, Súmula 19).",
+"Princípio da inexistência de dupla punição pelo mesmo fato no mesmo processo."
+]
+},
+{
+"id": "Q-DIS-0007",
+"g": "C",
+"e": "A nulidade no processo disciplinar, em regra, exige a demonstração de prejuízo à defesa, e o excesso de prazo para a conclusão do processo só causa nulidade se houver demonstração desse prejuízo.",
+"velho": "STJ, Súmula 592; Lei 8.112/1990, art. 169, § 1º.",
+"aula": [
+"Devido processo legal, contraditório e ampla defesa (CF, art. 5º, LIV e LV).",
+"Formalismo moderado e pas de nullité sans grief: a nulidade exige demonstração de prejuízo (STJ, Súmula 592, quanto ao excesso de prazo)."
+]
+},
+{
+"id": "Q-DIS-0008",
+"g": "E",
+"e": "A nulidade no processo disciplinar independe de demonstração de prejuízo, e o excesso de prazo para a conclusão do processo causa, por si só, a nulidade do procedimento.",
+"velho": "STJ, Súmula 592; Lei 8.112/1990, art. 169, § 1º.",
+"aula": [
+"Formalismo moderado e pas de nullité sans grief: a nulidade exige demonstração de prejuízo (STJ, Súmula 592, quanto ao excesso de prazo)."
+]
+},
+{
+"id": "Q-DIS-0009",
+"g": "C",
+"e": "As sanções civis, penais e administrativas poderão cumular-se, sendo independentes entre si, e a responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria.",
+"velho": "Lei 8.112/1990, arts. 125 e 126.",
+"aula": [
+"Lei 8.112/1990, art. 125: as sanções civis, penais e administrativas poderão cumular-se, sendo independentes entre si.",
+"Art. 126: a responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria."
+]
+},
+{
+"id": "Q-DIS-0010",
+"g": "E",
+"e": "As sanções civis, penais e administrativas não podem cumular-se, e a responsabilidade administrativa do servidor será afastada em qualquer caso de absolvição criminal, ainda que por falta de provas.",
+"velho": "Lei 8.112/1990, arts. 125 e 126.",
+"aula": [
+"Lei 8.112/1990, art. 125: as sanções civis, penais e administrativas poderão cumular-se, sendo independentes entre si.",
+"Art. 126: a responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria."
+]
+},
+{
+"id": "Q-DIS-0011",
+"g": "C",
+"e": "Servidor é absolvido na esfera penal por insuficiência de provas quanto ao crime de peculato. Nesse caso, a absolvição criminal não impede a instauração de processo disciplinar nem a aplicação de penalidade administrativa pelos mesmos fatos.",
+"velho": "Lei 8.112/1990, art. 126.",
+"aula": [
+"Art. 126: a responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria.",
+"Assim, absolvição penal por falta de provas, por ausência de dolo (quando não nega o fato) ou por atipicidade penal não impede a punição administrativa."
+]
+},
+{
+"id": "Q-DIS-0012",
+"g": "E",
+"e": "Servidor é absolvido na esfera penal por insuficiência de provas quanto ao crime de peculato. Nesse caso, a absolvição criminal afasta a responsabilidade administrativa, impedindo a aplicação de penalidade disciplinar pelos mesmos fatos.",
+"velho": "Lei 8.112/1990, art. 126.",
+"aula": [
+"Art. 126: a responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria.",
+"Assim, absolvição penal por falta de provas, por ausência de dolo (quando não nega o fato) ou por atipicidade penal não impede a punição administrativa."
+]
+},
+{
+"id": "Q-DIS-0013",
+"g": "C",
+"e": "Segundo a Súmula 18 do STF, pela falta residual, não compreendida na absolvição pelo juízo criminal, é admissível a punição administrativa do servidor público.",
+"velho": "STF, Súmula 18.",
+"aula": [
+"Art. 126: a responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria.",
+"Súmula 18 do STF: pela falta residual, não compreendida na absolvição pelo juízo criminal, é admissível a punição administrativa do servidor público."
+]
+},
+{
+"id": "Q-DIS-0014",
+"g": "E",
+"e": "Segundo a Súmula 18 do STF, uma vez absolvido o servidor pelo juízo criminal, é inadmissível a punição administrativa por qualquer falta relacionada aos mesmos fatos.",
+"velho": "STF, Súmula 18.",
+"aula": [
+"Art. 126: a responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria.",
+"Súmula 18 do STF: pela falta residual, não compreendida na absolvição pelo juízo criminal, é admissível a punição administrativa do servidor público."
+]
+},
+{
+"id": "Q-DIS-0015",
+"g": "C",
+"e": "O servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições.",
+"velho": "Lei 8.112/1990, art. 121.",
+"aula": [
+"Art. 121: o servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições."
+]
+},
+{
+"id": "Q-DIS-0016",
+"g": "E",
+"e": "O servidor responde apenas administrativamente pelo exercício irregular de suas atribuições, sendo excluída a responsabilidade civil e penal pelos atos praticados no exercício do cargo.",
+"velho": "Lei 8.112/1990, art. 121.",
+"aula": [
+"Art. 126: a responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria.",
+"Art. 121: o servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições."
+]
+},
+{
+"id": "Q-DIS-0017",
+"g": "C",
+"e": "A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância ou processo administrativo disciplinar, assegurada ao acusado ampla defesa.",
+"velho": "Lei 8.112/1990, art. 143.",
+"aula": [
+"O poder disciplinar é o poder-dever de apurar e punir as infrações funcionais; a apuração é obrigatória (princípio da obrigatoriedade): Lei 8.112/1990, art. 143: a autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância ou processo administrativo disciplinar, assegurada ao acusado ampla defesa.",
+"Controle judicial: o Judiciário examina a legalidade, a regularidade do processo e a proporcionalidade da sanção, mas não revê o mérito administrativo."
+]
+},
+{
+"id": "Q-DIS-0018",
+"g": "E",
+"e": "A autoridade que tiver ciência de irregularidade no serviço público pode, a seu critério, promover ou não a sua apuração, mediante sindicância ou processo administrativo disciplinar.",
+"velho": "Lei 8.112/1990, art. 143.",
+"aula": [
+"O poder disciplinar é o poder-dever de apurar e punir as infrações funcionais; a apuração é obrigatória (princípio da obrigatoriedade): Lei 8.112/1990, art. 143: a autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância ou processo administrativo disciplinar, assegurada ao acusado ampla defesa.",
+"Controle judicial: o Judiciário examina a legalidade, a regularidade do processo e a proporcionalidade da sanção, mas não revê o mérito administrativo."
+]
+},
+{
+"id": "Q-DIS-0019",
+"g": "C",
+"e": "Segundo a Súmula 650 do STJ, a autoridade administrativa não dispõe de discricionariedade para aplicar ao servidor pena menos gravosa que a demissão quando caracterizadas as hipóteses previstas no art. 132 da Lei 8.112/1990.",
+"velho": "STJ, Súmula 650.",
+"aula": [
+"Quando a conduta se enquadra nas hipóteses de demissão do art. 132, a autoridade não dispõe de discricionariedade para aplicar pena menos gravosa (STJ, Súmula 650).",
+"STJ, Súmula 651: compete à autoridade administrativa aplicar a servidor público a pena de demissão em razão da prática de improbidade administrativa, independentemente de prévia condenação, por autoridade judiciária, à perda da função pública."
+]
+},
+{
+"id": "Q-DIS-0020",
+"g": "E",
+"e": "Segundo a Súmula 650 do STJ, a autoridade administrativa dispõe de discricionariedade para aplicar ao servidor pena menos gravosa que a demissão, ainda que caracterizadas as hipóteses previstas no art. 132 da Lei 8.112/1990.",
+"velho": "STJ, Súmula 650.",
+"aula": [
+"Quando a conduta se enquadra nas hipóteses de demissão do art. 132, a autoridade não dispõe de discricionariedade para aplicar pena menos gravosa (STJ, Súmula 650).",
+"STJ, Súmula 651: compete à autoridade administrativa aplicar a servidor público a pena de demissão em razão da prática de improbidade administrativa, independentemente de prévia condenação, por autoridade judiciária, à perda da função pública."
+]
+},
+{
+"id": "Q-DIS-0021",
+"g": "C",
+"e": "Segundo a Súmula 651 do STJ, compete à autoridade administrativa aplicar a servidor público a pena de demissão em razão da prática de improbidade administrativa, independentemente de prévia condenação, por autoridade judiciária, à perda da função pública.",
+"velho": "STJ, Súmula 651.",
+"aula": [
+"Quando a conduta se enquadra nas hipóteses de demissão do art. 132, a autoridade não dispõe de discricionariedade para aplicar pena menos gravosa (STJ, Súmula 650).",
+"STJ, Súmula 651: compete à autoridade administrativa aplicar a servidor público a pena de demissão em razão da prática de improbidade administrativa, independentemente de prévia condenação, por autoridade judiciária, à perda da função pública."
+]
+},
+{
+"id": "Q-DIS-0022",
+"g": "E",
+"e": "Segundo a Súmula 651 do STJ, a pena de demissão do servidor em razão da prática de improbidade administrativa somente pode ser aplicada pela autoridade administrativa após prévia condenação judicial à perda da função pública.",
+"velho": "STJ, Súmula 651.",
+"aula": [
+"Quando a conduta se enquadra nas hipóteses de demissão do art. 132, a autoridade não dispõe de discricionariedade para aplicar pena menos gravosa (STJ, Súmula 650).",
+"STJ, Súmula 651: compete à autoridade administrativa aplicar a servidor público a pena de demissão em razão da prática de improbidade administrativa, independentemente de prévia condenação, por autoridade judiciária, à perda da função pública."
+]
+},
+{
+"id": "Q-DIS-0023",
+"g": "C",
+"e": "No controle judicial do processo disciplinar, o Poder Judiciário examina a legalidade, a regularidade do procedimento e a proporcionalidade da sanção, mas não revê o mérito administrativo.",
+"velho": "Controle judicial do ato disciplinar.",
+"aula": [
+"O poder disciplinar é o poder-dever de apurar e punir as infrações funcionais; a apuração é obrigatória (princípio da obrigatoriedade): Lei 8.112/1990, art. 143: a autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância ou processo administrativo disciplinar, assegurada ao acusado ampla defesa.",
+"Controle judicial: o Judiciário examina a legalidade, a regularidade do processo e a proporcionalidade da sanção, mas não revê o mérito administrativo."
+]
+},
+{
+"id": "Q-DIS-0024",
+"g": "E",
+"e": "No controle judicial do processo disciplinar, o Poder Judiciário pode rever o mérito do ato punitivo, substituindo a penalidade aplicada pela que considerar mais adequada, mesmo que o processo tenha sido regular.",
+"velho": "Controle judicial do ato disciplinar.",
+"aula": [
+"O poder disciplinar é o poder-dever de apurar e punir as infrações funcionais; a apuração é obrigatória (princípio da obrigatoriedade): Lei 8.112/1990, art. 143: a autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância ou processo administrativo disciplinar, assegurada ao acusado ampla defesa.",
+"Controle judicial: o Judiciário examina a legalidade, a regularidade do processo e a proporcionalidade da sanção, mas não revê o mérito administrativo."
+]
+},
+{
+"id": "Q-DIS-0025",
+"g": "C",
+"e": "A sindicância investigativa, ou preparatória, não tem acusado nem contraditório obrigatório e não aplica penalidade, ao passo que a sindicância acusatória, ou punitiva, assegura contraditório e ampla defesa e pode resultar em advertência ou suspensão de até trinta dias.",
+"velho": "Lei 8.112/1990, art. 145.",
+"aula": [
+"Sindicância investigativa (preparatória): apura fatos e autoria, sem acusado, sem contraditório obrigatório, não aplica penalidade; sindicância acusatória (punitiva): há acusado, com contraditório e ampla defesa, e pode resultar em advertência ou suspensão de até trinta dias.",
+"Lei 8.112/1990, art. 145: da sindicância poderá resultar arquivamento, aplicação de penalidade de advertência ou suspensão de até 30 dias, ou instauração de processo disciplinar; o prazo para conclusão da sindicância não excederá 30 dias, podendo ser prorrogado por igual período."
+]
+},
+{
+"id": "Q-DIS-0026",
+"g": "E",
+"e": "A sindicância investigativa, ou preparatória, tem acusado e assegura contraditório e ampla defesa, podendo resultar em demissão, ao passo que a sindicância acusatória, ou punitiva, não tem acusado e não aplica penalidade.",
+"velho": "Lei 8.112/1990, art. 145.",
+"aula": [
+"Sindicância investigativa (preparatória): apura fatos e autoria, sem acusado, sem contraditório obrigatório, não aplica penalidade; sindicância acusatória (punitiva): há acusado, com contraditório e ampla defesa, e pode resultar em advertência ou suspensão de até trinta dias.",
+"Lei 8.112/1990, art. 145: da sindicância poderá resultar arquivamento, aplicação de penalidade de advertência ou suspensão de até 30 dias, ou instauração de processo disciplinar; o prazo para conclusão da sindicância não excederá 30 dias, podendo ser prorrogado por igual período."
+]
+},
+{
+"id": "Q-DIS-0027",
+"g": "C",
+"e": "O prazo para a conclusão da sindicância não excederá trinta dias, podendo ser prorrogado por igual período, a critério da autoridade superior.",
+"velho": "Lei 8.112/1990, art. 145, parágrafo único.",
+"aula": [
+"Lei 8.112/1990, art. 145: da sindicância poderá resultar arquivamento, aplicação de penalidade de advertência ou suspensão de até 30 dias, ou instauração de processo disciplinar; o prazo para conclusão da sindicância não excederá 30 dias, podendo ser prorrogado por igual período.",
+"Art. 152: o prazo para a conclusão do processo disciplinar não excederá 60 dias, contados da data de publicação do ato que constituir a comissão, admitida a sua prorrogação por igual prazo."
+]
+},
+{
+"id": "Q-DIS-0028",
+"g": "E",
+"e": "O prazo para a conclusão da sindicância não excederá sessenta dias, podendo ser prorrogado por igual período, a critério da comissão sindicante.",
+"velho": "Lei 8.112/1990, art. 145, parágrafo único.",
+"aula": [
+"Lei 8.112/1990, art. 145: da sindicância poderá resultar arquivamento, aplicação de penalidade de advertência ou suspensão de até 30 dias, ou instauração de processo disciplinar; o prazo para conclusão da sindicância não excederá 30 dias, podendo ser prorrogado por igual período.",
+"Art. 152: o prazo para a conclusão do processo disciplinar não excederá 60 dias, contados da data de publicação do ato que constituir a comissão, admitida a sua prorrogação por igual prazo."
+]
+},
+{
+"id": "Q-DIS-0029",
+"g": "C",
+"e": "É obrigatória a instauração de processo disciplinar sempre que o ilícito ensejar a imposição de suspensão por mais de trinta dias, demissão, cassação de aposentadoria ou disponibilidade ou destituição de cargo em comissão.",
+"velho": "Lei 8.112/1990, art. 146.",
+"aula": [
+"Lei 8.112/1990, art. 145: da sindicância poderá resultar arquivamento, aplicação de penalidade de advertência ou suspensão de até 30 dias, ou instauração de processo disciplinar; o prazo para conclusão da sindicância não excederá 30 dias, podendo ser prorrogado por igual período.",
+"Art. 146: sempre que o ilícito praticado pelo servidor ensejar a imposição das penalidades de suspensão por mais de 30 dias, de demissão, cassação de aposentadoria ou disponibilidade, ou destituição de cargo em comissão, será obrigatória a instauração de processo disciplinar."
+]
+},
+{
+"id": "Q-DIS-0030",
+"g": "E",
+"e": "É obrigatória a instauração de processo disciplinar sempre que o ilícito ensejar a imposição de qualquer penalidade, inclusive advertência e suspensão de até trinta dias.",
+"velho": "Lei 8.112/1990, art. 146.",
+"aula": [
+"Lei 8.112/1990, art. 145: da sindicância poderá resultar arquivamento, aplicação de penalidade de advertência ou suspensão de até 30 dias, ou instauração de processo disciplinar; o prazo para conclusão da sindicância não excederá 30 dias, podendo ser prorrogado por igual período.",
+"Art. 146: sempre que o ilícito praticado pelo servidor ensejar a imposição das penalidades de suspensão por mais de 30 dias, de demissão, cassação de aposentadoria ou disponibilidade, ou destituição de cargo em comissão, será obrigatória a instauração de processo disciplinar."
+]
+},
+{
+"id": "Q-DIS-0031",
+"g": "C",
+"e": "O processo disciplinar se desenvolve nas fases de instauração, inquérito administrativo, que compreende instrução, defesa e relatório, e julgamento, e seu prazo de conclusão não excederá sessenta dias, admitida a prorrogação por igual prazo.",
+"velho": "Lei 8.112/1990, arts. 151 e 152.",
+"aula": [
+"Art. 152: o prazo para a conclusão do processo disciplinar não excederá 60 dias, contados da data de publicação do ato que constituir a comissão, admitida a sua prorrogação por igual prazo.",
+"Art. 151: o processo disciplinar se desenvolve nas fases de instauração, inquérito administrativo (instrução, defesa e relatório) e julgamento."
+]
+},
+{
+"id": "Q-DIS-0032",
+"g": "E",
+"e": "O processo disciplinar se desenvolve nas fases de instauração, instrução e julgamento, sendo a defesa realizada após o julgamento, e seu prazo de conclusão não excederá noventa dias, vedada a prorrogação.",
+"velho": "Lei 8.112/1990, arts. 151 e 152.",
+"aula": [
+"Lei 8.112/1990, art. 145: da sindicância poderá resultar arquivamento, aplicação de penalidade de advertência ou suspensão de até 30 dias, ou instauração de processo disciplinar; o prazo para conclusão da sindicância não excederá 30 dias, podendo ser prorrogado por igual período.",
+"Art. 151: o processo disciplinar se desenvolve nas fases de instauração, inquérito administrativo (instrução, defesa e relatório) e julgamento."
+]
+},
+{
+"id": "Q-DIS-0033",
+"g": "C",
+"e": "O processo disciplinar será conduzido por comissão composta de três servidores estáveis, cujo presidente deverá ocupar cargo efetivo superior ou de mesmo nível, ou ter nível de escolaridade igual ou superior ao do indiciado.",
+"velho": "Lei 8.112/1990, art. 149.",
+"aula": [
+"Lei 8.112/1990, art. 149: o processo disciplinar será conduzido por comissão composta de três servidores estáveis designados pela autoridade competente, que indicará, dentre eles, o seu presidente, que deverá ser ocupante de cargo efetivo superior ou do mesmo nível, ou ter nível de escolaridade igual ou superior ao do indiciado.",
+"Art. 169: verificada a ocorrência de vício insanável, a autoridade que determinou a instauração do processo ou outra de hierarquia superior declarará a sua nulidade, total ou parcial, e ordenará, no mesmo ato, a constituição de outra comissão para instauração de novo processo."
+]
+},
+{
+"id": "Q-DIS-0034",
+"g": "E",
+"e": "O processo disciplinar será conduzido por comissão composta de dois servidores, estáveis ou não, cujo presidente poderá ocupar cargo de nível inferior ao do indiciado.",
+"velho": "Lei 8.112/1990, art. 149.",
+"aula": [
+"Lei 8.112/1990, art. 149: o processo disciplinar será conduzido por comissão composta de três servidores estáveis designados pela autoridade competente, que indicará, dentre eles, o seu presidente, que deverá ser ocupante de cargo efetivo superior ou do mesmo nível, ou ter nível de escolaridade igual ou superior ao do indiciado.",
+"Art. 168: o julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos; quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade."
+]
+},
+{
+"id": "Q-DIS-0035",
+"g": "C",
+"e": "No prazo de vinte dias, contados do recebimento do processo, a autoridade julgadora proferirá a sua decisão, e o julgamento fora do prazo legal não implica nulidade do processo.",
+"velho": "Lei 8.112/1990, arts. 167 e 169, § 1º.",
+"aula": [
+"Art. 167: no prazo de 20 dias, contados do recebimento do processo, a autoridade julgadora proferirá a sua decisão.",
+"Art. 168: o julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos; quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade."
+]
+},
+{
+"id": "Q-DIS-0036",
+"g": "E",
+"e": "No prazo de dez dias, contados do recebimento do processo, a autoridade julgadora proferirá a sua decisão, e o julgamento fora do prazo legal implica nulidade do processo.",
+"velho": "Lei 8.112/1990, arts. 167 e 169, § 1º.",
+"aula": [
+"Art. 167: no prazo de 20 dias, contados do recebimento do processo, a autoridade julgadora proferirá a sua decisão.",
+"Art. 168: o julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos; quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade."
+]
+},
+{
+"id": "Q-DIS-0037",
+"g": "C",
+"e": "O julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos, caso em que a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade.",
+"velho": "Lei 8.112/1990, art. 168.",
+"aula": [
+"Lei 8.112/1990, art. 149: o processo disciplinar será conduzido por comissão composta de três servidores estáveis designados pela autoridade competente, que indicará, dentre eles, o seu presidente, que deverá ser ocupante de cargo efetivo superior ou do mesmo nível, ou ter nível de escolaridade igual ou superior ao do indiciado.",
+"Art. 168: o julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos; quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade."
+]
+},
+{
+"id": "Q-DIS-0038",
+"g": "E",
+"e": "O julgamento acatará sempre o relatório da comissão, ainda que contrário às provas dos autos, não podendo a autoridade julgadora agravar a penalidade proposta nem isentar o servidor de responsabilidade.",
+"velho": "Lei 8.112/1990, art. 168.",
+"aula": [
+"Lei 8.112/1990, art. 149: o processo disciplinar será conduzido por comissão composta de três servidores estáveis designados pela autoridade competente, que indicará, dentre eles, o seu presidente, que deverá ser ocupante de cargo efetivo superior ou do mesmo nível, ou ter nível de escolaridade igual ou superior ao do indiciado.",
+"Art. 168: o julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos; quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade."
+]
+},
+{
+"id": "Q-DIS-0039",
+"g": "C",
+"e": "Verificado vício insanável, a autoridade que determinou a instauração ou outra de hierarquia superior declarará a nulidade, total ou parcial, do processo e ordenará, no mesmo ato, a constituição de outra comissão para a instauração de novo processo.",
+"velho": "Lei 8.112/1990, art. 169.",
+"aula": [
+"Lei 8.112/1990, art. 149: o processo disciplinar será conduzido por comissão composta de três servidores estáveis designados pela autoridade competente, que indicará, dentre eles, o seu presidente, que deverá ser ocupante de cargo efetivo superior ou do mesmo nível, ou ter nível de escolaridade igual ou superior ao do indiciado.",
+"Art. 169: verificada a ocorrência de vício insanável, a autoridade que determinou a instauração do processo ou outra de hierarquia superior declarará a sua nulidade, total ou parcial, e ordenará, no mesmo ato, a constituição de outra comissão para instauração de novo processo."
+]
+},
+{
+"id": "Q-DIS-0040",
+"g": "E",
+"e": "Verificado vício insanável, a autoridade que determinou a instauração declarará a nulidade do processo e arquivará os autos, sendo vedada a instauração de novo processo pelos mesmos fatos. Tal conclusão decorreria, segundo esse entendimento, da sistemática constitucional da responsabilidade do Estado.",
+"velho": "Lei 8.112/1990, art. 169.",
+"aula": [
+"Art. 168: o julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos; quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade.",
+"Art. 169: verificada a ocorrência de vício insanável, a autoridade que determinou a instauração do processo ou outra de hierarquia superior declarará a sua nulidade, total ou parcial, e ordenará, no mesmo ato, a constituição de outra comissão para instauração de novo processo."
+]
+},
+{
+"id": "Q-DIS-0041",
+"g": "C",
+"e": "Não poderá participar de comissão de sindicância ou de inquérito cônjuge, companheiro ou parente do acusado, consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau.",
+"velho": "Lei 8.112/1990, art. 149, § 2º.",
+"aula": [
+"Art. 168: o julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos; quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade."
+]
+},
+{
+"id": "Q-DIS-0042",
+"g": "E",
+"e": "Não poderá participar de comissão de sindicância ou de inquérito cônjuge, companheiro ou parente do acusado, consanguíneo ou afim, em linha reta ou colateral, até o segundo grau, admitida a participação de parente de terceiro grau.",
+"velho": "Lei 8.112/1990, art. 149, § 2º.",
+"aula": [
+"Art. 168: o julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos; quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade."
+]
+},
+{
+"id": "Q-DIS-0043",
+"g": "C",
+"e": "Segundo a Súmula Vinculante 5, a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
+"velho": "SV 5.",
+"aula": [
+"Súmula Vinculante 5 (STF): a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
+"Súmula 591 do STJ: é permitida a prova emprestada no processo administrativo disciplinar, desde que devidamente autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa."
+]
+},
+{
+"id": "Q-DIS-0044",
+"g": "E",
+"e": "Segundo a Súmula Vinculante 5, a falta de defesa técnica por advogado no processo administrativo disciplinar ofende a Constituição, sendo obrigatória a presença de advogado em todas as fases.",
+"velho": "SV 5.",
+"aula": [
+"Súmula Vinculante 5 (STF): a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
+"Súmula 591 do STJ: é permitida a prova emprestada no processo administrativo disciplinar, desde que devidamente autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa."
+]
+},
+{
+"id": "Q-DIS-0045",
+"g": "C",
+"e": "Segundo a Súmula 21 do STF, o funcionário em estágio probatório não pode ser exonerado nem demitido sem inquérito ou sem as formalidades legais de apuração de sua capacidade.",
+"velho": "STF, Súmula 21.",
+"aula": [
+"Súmula 20 do STF: é necessário processo administrativo, com ampla defesa, para demissão de funcionário admitido por concurso.",
+"Súmula 21 do STF: funcionário em estágio probatório não pode ser exonerado nem demitido sem inquérito ou sem as formalidades legais de apuração de sua capacidade."
+]
+},
+{
+"id": "Q-DIS-0046",
+"g": "E",
+"e": "Segundo a Súmula 21 do STF, o funcionário em estágio probatório pode ser exonerado livremente, sem inquérito ou formalidades legais de apuração de sua capacidade, por ausência de estabilidade.",
+"velho": "STF, Súmula 21.",
+"aula": [
+"Súmula 20 do STF: é necessário processo administrativo, com ampla defesa, para demissão de funcionário admitido por concurso.",
+"Súmula 21 do STF: funcionário em estágio probatório não pode ser exonerado nem demitido sem inquérito ou sem as formalidades legais de apuração de sua capacidade."
+]
+},
+{
+"id": "Q-DIS-0047",
+"g": "C",
+"e": "Segundo a Súmula 20 do STF, é necessário processo administrativo, com ampla defesa, para a demissão de funcionário admitido por concurso.",
+"velho": "STF, Súmula 20.",
+"aula": [
+"Súmula 20 do STF: é necessário processo administrativo, com ampla defesa, para demissão de funcionário admitido por concurso.",
+"Súmula 591 do STJ: é permitida a prova emprestada no processo administrativo disciplinar, desde que devidamente autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa."
+]
+},
+{
+"id": "Q-DIS-0048",
+"g": "E",
+"e": "Segundo a Súmula 20 do STF, é dispensável o processo administrativo para a demissão de funcionário admitido por concurso quando a infração for grave.",
+"velho": "STF, Súmula 20.",
+"aula": [
+"Súmula Vinculante 5 (STF): a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
+"Súmula 20 do STF: é necessário processo administrativo, com ampla defesa, para demissão de funcionário admitido por concurso."
+]
+},
+{
+"id": "Q-DIS-0049",
+"g": "C",
+"e": "Segundo a Súmula 591 do STJ, é permitida a prova emprestada no processo administrativo disciplinar, desde que devidamente autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa.",
+"velho": "STJ, Súmula 591.",
+"aula": [
+"Súmula 591 do STJ: é permitida a prova emprestada no processo administrativo disciplinar, desde que devidamente autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa.",
+"Súmula 611 do STJ: desde que devidamente motivada e com amparo em investigação ou sindicância, é permitida a instauração de processo administrativo disciplinar com base em denúncia anônima, em face do poder-dever de autotutela imposto à Administração."
+]
+},
+{
+"id": "Q-DIS-0050",
+"g": "E",
+"e": "Segundo a Súmula 591 do STJ, é vedada a prova emprestada no processo administrativo disciplinar, ainda que autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa.",
+"velho": "STJ, Súmula 591.",
+"aula": [
+"Súmula Vinculante 5 (STF): a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
+"Súmula 591 do STJ: é permitida a prova emprestada no processo administrativo disciplinar, desde que devidamente autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa."
+]
+},
+{
+"id": "Q-DIS-0051",
+"g": "C",
+"e": "Segundo a Súmula 611 do STJ, desde que devidamente motivada e com amparo em investigação ou sindicância, é permitida a instauração de processo administrativo disciplinar com base em denúncia anônima.",
+"velho": "STJ, Súmula 611.",
+"aula": [
+"Súmula 591 do STJ: é permitida a prova emprestada no processo administrativo disciplinar, desde que devidamente autorizada pelo juízo competente e respeitados o contraditório e a ampla defesa.",
+"Súmula 611 do STJ: desde que devidamente motivada e com amparo em investigação ou sindicância, é permitida a instauração de processo administrativo disciplinar com base em denúncia anônima, em face do poder-dever de autotutela imposto à Administração."
+]
+},
+{
+"id": "Q-DIS-0052",
+"g": "E",
+"e": "Segundo a Súmula 611 do STJ, é vedada a instauração de processo administrativo disciplinar com base em denúncia anônima, ainda que motivada e amparada em investigação ou sindicância.",
+"velho": "STJ, Súmula 611.",
+"aula": [
+"Súmula Vinculante 5 (STF): a falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.",
+"Súmula 611 do STJ: desde que devidamente motivada e com amparo em investigação ou sindicância, é permitida a instauração de processo administrativo disciplinar com base em denúncia anônima, em face do poder-dever de autotutela imposto à Administração."
+]
+},
+{
+"id": "Q-DIS-0053",
+"g": "C",
+"e": "A ação disciplinar prescreve em cinco anos quanto às infrações puníveis com demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão, em dois anos quanto à suspensão e em cento e oitenta dias quanto à advertência.",
+"velho": "Lei 8.112/1990, art. 142.",
+"aula": [
+"Lei 8.112/1990, art. 142: a ação disciplinar prescreverá em cinco anos quanto às infrações puníveis com demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão; em dois anos quanto à suspensão; em 180 dias quanto à advertência.",
+"O prazo começa a correr da data em que o fato se tornou conhecido (§1º); os prazos de prescrição previstos na lei penal aplicam-se às infrações disciplinares também capituladas como crime (§2º); a abertura de sindicância ou a instauração de processo disciplinar interrompe a prescrição, até a decisão final proferida por autoridade competente (§3º); interrompido…"
+]
+},
+{
+"id": "Q-DIS-0054",
+"g": "E",
+"e": "A ação disciplinar prescreve em cinco anos quanto às infrações puníveis com suspensão, em dois anos quanto à demissão e à cassação de aposentadoria e em um ano quanto à advertência. Essa seria a orientação adotada pela doutrina e pela jurisprudência no direito brasileiro.",
+"velho": "Lei 8.112/1990, art. 142.",
+"aula": [
+"Lei 8.112/1990, art. 142: a ação disciplinar prescreverá em cinco anos quanto às infrações puníveis com demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão; em dois anos quanto à suspensão; em 180 dias quanto à advertência.",
+"O prazo começa a correr da data em que o fato se tornou conhecido (§1º); os prazos de prescrição previstos na lei penal aplicam-se às infrações disciplinares também capituladas como crime (§2º); a abertura de sindicância ou a instauração de processo disciplinar interrompe a prescrição, até a decisão final proferida por autoridade competente (§3º); interrompido…"
+]
+},
+{
+"id": "Q-DIS-0055",
+"g": "C",
+"e": "O prazo de prescrição da ação disciplinar começa a correr da data em que o fato se tornou conhecido, e os prazos previstos na lei penal aplicam-se às infrações disciplinares capituladas também como crime.",
+"velho": "Lei 8.112/1990, art. 142, §§ 1º e 2º.",
+"aula": [
+"O prazo começa a correr da data em que o fato se tornou conhecido (§1º); os prazos de prescrição previstos na lei penal aplicam-se às infrações disciplinares também capituladas como crime (§2º); a abertura de sindicância ou a instauração de processo disciplinar interrompe a prescrição, até a decisão final proferida por autoridade competente (§3º); interrompido…",
+"STJ, Súmula 635: os prazos prescricionais do art. 142 iniciam-se na data em que a autoridade competente para instaurar o processo toma conhecimento do fato, interrompem-se com o primeiro ato de instauração válido (sindicância de caráter punitivo ou processo disciplinar) e voltam a fluir por inteiro após decorridos 140 dias desde a interrupção."
+]
+},
+{
+"id": "Q-DIS-0056",
+"g": "E",
+"e": "O prazo de prescrição da ação disciplinar começa a correr da data em que o fato foi praticado, e os prazos previstos na lei penal não se aplicam às infrações disciplinares capituladas também como crime.",
+"velho": "Lei 8.112/1990, art. 142, §§ 1º e 2º.",
+"aula": [
+"O prazo começa a correr da data em que o fato se tornou conhecido (§1º); os prazos de prescrição previstos na lei penal aplicam-se às infrações disciplinares também capituladas como crime (§2º); a abertura de sindicância ou a instauração de processo disciplinar interrompe a prescrição, até a decisão final proferida por autoridade competente (§3º); interrompido…",
+"STJ, Súmula 635: os prazos prescricionais do art. 142 iniciam-se na data em que a autoridade competente para instaurar o processo toma conhecimento do fato, interrompem-se com o primeiro ato de instauração válido (sindicância de caráter punitivo ou processo disciplinar) e voltam a fluir por inteiro após decorridos 140 dias desde a interrupção."
+]
+},
+{
+"id": "Q-DIS-0057",
+"g": "C",
+"e": "Segundo a Súmula 635 do STJ, os prazos prescricionais iniciam-se na data em que a autoridade competente para instaurar o processo toma conhecimento do fato, interrompem-se com o primeiro ato de instauração válido e voltam a fluir por inteiro após decorridos cento e quarenta dias desde a interrupção.",
+"velho": "STJ, Súmula 635.",
+"aula": [
+"O prazo começa a correr da data em que o fato se tornou conhecido (§1º); os prazos de prescrição previstos na lei penal aplicam-se às infrações disciplinares também capituladas como crime (§2º); a abertura de sindicância ou a instauração de processo disciplinar interrompe a prescrição, até a decisão final proferida por autoridade competente (§3º); interrompido…",
+"STJ, Súmula 635: os prazos prescricionais do art. 142 iniciam-se na data em que a autoridade competente para instaurar o processo toma conhecimento do fato, interrompem-se com o primeiro ato de instauração válido (sindicância de caráter punitivo ou processo disciplinar) e voltam a fluir por inteiro após decorridos 140 dias desde a interrupção."
+]
+},
+{
+"id": "Q-DIS-0058",
+"g": "E",
+"e": "Segundo a Súmula 635 do STJ, os prazos prescricionais iniciam-se na data do fato, interrompem-se com o julgamento do processo e voltam a fluir por inteiro após decorridos cento e oitenta dias desde a interrupção. Essa seria a orientação adotada pela doutrina e pela jurisprudência no direito brasileiro.",
+"velho": "STJ, Súmula 635.",
+"aula": [
+"O prazo começa a correr da data em que o fato se tornou conhecido (§1º); os prazos de prescrição previstos na lei penal aplicam-se às infrações disciplinares também capituladas como crime (§2º); a abertura de sindicância ou a instauração de processo disciplinar interrompe a prescrição, até a decisão final proferida por autoridade competente (§3º); interrompido…",
+"STJ, Súmula 635: os prazos prescricionais do art. 142 iniciam-se na data em que a autoridade competente para instaurar o processo toma conhecimento do fato, interrompem-se com o primeiro ato de instauração válido (sindicância de caráter punitivo ou processo disciplinar) e voltam a fluir por inteiro após decorridos 140 dias desde a interrupção."
+]
+},
+{
+"id": "Q-DIS-0059",
+"g": "C",
+"e": "São penalidades disciplinares a advertência, a suspensão, a demissão, a cassação de aposentadoria ou disponibilidade, a destituição de cargo em comissão e a destituição de função comissionada.",
+"velho": "Lei 8.112/1990, art. 127.",
+"aula": [
+"Lei 8.112/1990, art. 127: são penalidades disciplinares a advertência, a suspensão, a demissão, a cassação de aposentadoria ou disponibilidade, a destituição de cargo em comissão e a destituição de função comissionada.",
+"Art. 131: as penalidades de advertência e de suspensão terão seus registros cancelados, após o decurso de três e cinco anos de efetivo exercício, respectivamente, se o servidor não houver, nesse período, praticado nova infração disciplinar; o cancelamento não surtirá efeitos retroativos."
+]
+},
+{
+"id": "Q-DIS-0060",
+"g": "E",
+"e": "São penalidades disciplinares a advertência, a suspensão, a multa, a demissão, a cassação de aposentadoria ou disponibilidade e a perda de função pública mediante decisão judicial.",
+"velho": "Lei 8.112/1990, art. 127.",
+"aula": [
+"Lei 8.112/1990, art. 127: são penalidades disciplinares a advertência, a suspensão, a demissão, a cassação de aposentadoria ou disponibilidade, a destituição de cargo em comissão e a destituição de função comissionada.",
+"Art. 131: as penalidades de advertência e de suspensão terão seus registros cancelados, após o decurso de três e cinco anos de efetivo exercício, respectivamente, se o servidor não houver, nesse período, praticado nova infração disciplinar; o cancelamento não surtirá efeitos retroativos."
+]
+},
+{
+"id": "Q-DIS-0061",
+"g": "C",
+"e": "Na aplicação das penalidades serão consideradas a natureza e a gravidade da infração, os danos para o serviço público, as circunstâncias agravantes ou atenuantes e os antecedentes funcionais, e o ato de imposição mencionará sempre o fundamento legal e a causa da sanção.",
+"velho": "Lei 8.112/1990, art. 128.",
+"aula": [
+"Art. 128: na aplicação das penalidades serão consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem para o serviço público, as circunstâncias agravantes ou atenuantes e os antecedentes funcionais; o ato de imposição da penalidade mencionará sempre o fundamento legal e a causa da sanção disciplinar.",
+"Art. 131: as penalidades de advertência e de suspensão terão seus registros cancelados, após o decurso de três e cinco anos de efetivo exercício, respectivamente, se o servidor não houver, nesse período, praticado nova infração disciplinar; o cancelamento não surtirá efeitos retroativos."
+]
+}
+]

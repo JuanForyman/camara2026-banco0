@@ -1,0 +1,665 @@
+[
+{
+"id": "Q-FIA-0354",
+"g": "E",
+"e": "Numa audiência, o sistema de diarização informa automaticamente o nome real de cada parlamentar, sem necessidade de informação externa. Tal conclusão decorreria, segundo esse entendimento, das características da tecnologia descrita.",
+"velho": "Rótulos de diarização.",
+"aula": [
+"Em plenário, associar os rótulos genéricos a nomes exige informação externa, como lista de oradores ou canal de microfone."
+]
+},
+{
+"id": "Q-FIA-0355",
+"g": "C",
+"e": "A restauração de pontuação costuma ser tratada como rotulagem de sequência, em que o modelo prevê, para cada palavra, o sinal que a segue.",
+"velho": "Pontuação.",
+"aula": [
+"Restauração de pontuação costuma ser tratada como rotulagem de sequência: para cada palavra, um modelo, frequentemente baseado em BERT, prevê o sinal que a segue (vírgula, ponto, interrogação ou nenhum).",
+"A avaliação usa precisão, revocação e F1 por sinal de pontuação."
+]
+},
+{
+"id": "Q-FIA-0356",
+"g": "E",
+"e": "A restauração de pontuação costuma ser tratada como problema de agrupamento de falantes, em que o modelo prevê o falante de cada palavra.",
+"velho": "Pontuação.",
+"aula": [
+"Restauração de pontuação costuma ser tratada como rotulagem de sequência: para cada palavra, um modelo, frequentemente baseado em BERT, prevê o sinal que a segue (vírgula, ponto, interrogação ou nenhum)."
+]
+},
+{
+"id": "Q-FIA-0357",
+"g": "C",
+"e": "A ITN baseada em regras é previsível e auditável, mas rígida; a baseada em modelos neurais generaliza melhor, mas pode errar números.",
+"velho": "ITN regras × neural.",
+"aula": [
+"ITN pode ser feita por regras (gramáticas ponderadas, como WFST) ou por modelos neurais.",
+"Regras são previsíveis e auditáveis, mas rígidas; modelos neurais generalizam, mas podem errar números e alucinar."
+]
+},
+{
+"id": "Q-FIA-0358",
+"g": "E",
+"e": "A ITN baseada em modelos neurais é a única auditável e previsível, ao passo que a baseada em regras não admite revisão.",
+"velho": "ITN regras × neural.",
+"aula": [
+"ITN pode ser feita por regras (gramáticas ponderadas, como WFST) ou por modelos neurais.",
+"Regras são previsíveis e auditáveis, mas rígidas; modelos neurais generalizam, mas podem errar números e alucinar."
+]
+},
+{
+"id": "Q-FIA-0359",
+"g": "C",
+"e": "Para medir apenas o reconhecimento das palavras, normalizam-se previamente referência e hipótese, retirando pontuação e diferenças de caixa, antes do cálculo do WER.",
+"velho": "Normalização antes do WER.",
+"aula": [
+"O WER é sensível à formatação: para medir apenas o reconhecimento das palavras, normalizam-se previamente referência e hipótese (caixa baixa, remoção de pontuação, números por extenso). Para avaliar o texto final entregue ao leitor, mede-se a taxa de erro sobre o texto formatado."
+]
+},
+{
+"id": "Q-FIA-0360",
+"g": "E",
+"e": "O WER é insensível a pontuação e a maiúsculas, de modo que não é necessária nenhuma normalização prévia para medir apenas o reconhecimento das palavras.",
+"velho": "Normalização antes do WER.",
+"aula": [
+"O WER é sensível à formatação: para medir apenas o reconhecimento das palavras, normalizam-se previamente referência e hipótese (caixa baixa, remoção de pontuação, números por extenso). Para avaliar o texto final entregue ao leitor, mede-se a taxa de erro sobre o texto formatado."
+]
+},
+{
+"id": "Q-FIA-0361",
+"g": "C",
+"e": "A fala 'artigo quinto da Constituição' deve resultar em 'art. 5º da Constituição' após a ITN, conforme o padrão de redação.",
+"velho": "ITN de dispositivos.",
+"aula": [
+"Ambiguidades: 'um' pode ser numeral ou artigo; 'meio' pode ser numeral fracionário ('meio milhão') ou advérbio; 'artigo quinto' e 'quinto artigo' diferem."
+]
+},
+{
+"id": "Q-FIA-0362",
+"g": "E",
+"e": "A fala 'artigo quinto da Constituição' deve resultar em 'art. 5 da Constituição' após a ITN, porque o ordinal é sempre abolido nas citações de dispositivos.",
+"velho": "ITN de dispositivos.",
+"aula": [
+"Ambiguidades: 'um' pode ser numeral ou artigo; 'meio' pode ser numeral fracionário ('meio milhão') ou advérbio; 'artigo quinto' e 'quinto artigo' diferem."
+]
+},
+{
+"id": "Q-FIA-0363",
+"g": "C",
+"e": "Ponto e vírgula são sinais de difícil restauração automática, porque dependem de escolhas estilísticas e não apenas da prosódia.",
+"velho": "Pontuação difícil.",
+"aula": [
+"Restauração de pontuação costuma ser tratada como rotulagem de sequência: para cada palavra, um modelo, frequentemente baseado em BERT, prevê o sinal que a segue (vírgula, ponto, interrogação ou nenhum).",
+"Ponto e vírgula são especialmente difíceis, pois dependem de escolhas estilísticas."
+]
+},
+{
+"id": "Q-FIA-0364",
+"g": "E",
+"e": "Ponto e vírgula são os sinais de mais fácil restauração automática, porque dependem unicamente da pausa na fala. Isso é consenso na área.",
+"velho": "Pontuação difícil.",
+"aula": [
+"Restauração de pontuação costuma ser tratada como rotulagem de sequência: para cada palavra, um modelo, frequentemente baseado em BERT, prevê o sinal que a segue (vírgula, ponto, interrogação ou nenhum).",
+"Ponto e vírgula são especialmente difíceis, pois dependem de escolhas estilísticas."
+]
+},
+{
+"id": "Q-FIA-0365",
+"g": "C",
+"e": "As palavras 'sessão', 'seção' e 'cessão' são homófonas, e o ASR depende do contexto e do modelo de linguagem para escolher a grafia adequada.",
+"velho": "Homófonos.",
+"aula": [
+"Homófonos e homógrafos: 'sessão' (reunião), 'seção' (divisão) e 'cessão' (ato de ceder) são homófonos; 'conserto' e 'concerto' também.",
+"O reconhecimento acústico não os distingue, de modo que o modelo de linguagem e o contexto decidem; erros dessa natureza são típicos e exigem atenção do revisor."
+]
+},
+{
+"id": "Q-FIA-0366",
+"g": "E",
+"e": "As palavras 'sessão', 'seção' e 'cessão' são distinguidas pelo modelo acústico, que reconhece diferenças de pronúncia entre elas, dispensando o contexto.",
+"velho": "Homófonos.",
+"aula": [
+"Homófonos e homógrafos: 'sessão' (reunião), 'seção' (divisão) e 'cessão' (ato de ceder) são homófonos; 'conserto' e 'concerto' também.",
+"O reconhecimento acústico não os distingue, de modo que o modelo de linguagem e o contexto decidem; erros dessa natureza são típicos e exigem atenção do revisor."
+]
+},
+{
+"id": "Q-FIA-0367",
+"g": "C",
+"e": "Modelos treinados predominantemente com fala lida podem ter desempenho pior em debates parlamentares, que têm fala espontânea, interrupções e sobreposição.",
+"velho": "Fala lida × espontânea.",
+"aula": [
+"Corpora de fala em português: Common Voice (Mozilla, colaborativo, fala lida), Multilingual LibriSpeech (audiolivros) e CORAA (corpora de português brasileiro com fala espontânea e lida).",
+"Fala lida é mais limpa e fácil que fala espontânea; modelos treinados apenas com fala lida têm desempenho pior em debates parlamentares."
+]
+},
+{
+"id": "Q-FIA-0368",
+"g": "E",
+"e": "Modelos treinados predominantemente com fala lida têm, necessariamente, desempenho superior em debates parlamentares, porque a fala lida é mais difícil de reconhecer.",
+"velho": "Fala lida × espontânea.",
+"aula": [
+"Corpora de fala em português: Common Voice (Mozilla, colaborativo, fala lida), Multilingual LibriSpeech (audiolivros) e CORAA (corpora de português brasileiro com fala espontânea e lida).",
+"Fala lida é mais limpa e fácil que fala espontânea; modelos treinados apenas com fala lida têm desempenho pior em debates parlamentares."
+]
+},
+{
+"id": "Q-FIA-0369",
+"g": "C",
+"e": "A alternância de código (code-switching), a presença de estrangeirismos e as diferentes pronúncias de siglas dificultam o reconhecimento da fala em português.",
+"velho": "Code-switching.",
+"aula": [
+"Corpora de fala em português: Common Voice (Mozilla, colaborativo, fala lida), Multilingual LibriSpeech (audiolivros) e CORAA (corpora de português brasileiro com fala espontânea e lida).",
+"Estrangeirismos e siglas pronunciadas de modos diversos ('ONG', 'TCU', 'Fies') e alternância de código (code-switching) também dificultam."
+]
+},
+{
+"id": "Q-FIA-0370",
+"g": "E",
+"e": "A alternância de código e a presença de estrangeirismos não afetam o reconhecimento, pois os modelos separam automaticamente o idioma de cada palavra.",
+"velho": "Code-switching.",
+"aula": [
+"Estrangeirismos e siglas pronunciadas de modos diversos ('ONG', 'TCU', 'Fies') e alternância de código (code-switching) também dificultam."
+]
+},
+{
+"id": "Q-FIA-0371",
+"g": "C",
+"e": "Taxas de erro desiguais entre grupos de falantes, segundo sotaque, gênero ou idade, são discutidas como forma de viés do sistema de ASR.",
+"velho": "Viés em ASR.",
+"aula": [
+"Variação linguística: diferenças regionais e sociais de pronúncia, velocidade de fala e vocabulário. Modelos tendem a apresentar taxas de erro desiguais entre grupos de falantes (sotaque, gênero, idade), o que se discute como viés do sistema."
+]
+},
+{
+"id": "Q-FIA-0372",
+"g": "E",
+"e": "Taxas de erro desiguais entre grupos de falantes são impossíveis em modelos de ASR bem treinados, que apresentam desempenho idêntico para todos os sotaques.",
+"velho": "Viés em ASR.",
+"aula": [
+"Fala lida é mais limpa e fácil que fala espontânea; modelos treinados apenas com fala lida têm desempenho pior em debates parlamentares.",
+"Variação linguística: diferenças regionais e sociais de pronúncia, velocidade de fala e vocabulário. Modelos tendem a apresentar taxas de erro desiguais entre grupos de falantes (sotaque, gênero, idade), o que se discute como viés do sistema."
+]
+},
+{
+"id": "Q-FIA-0373",
+"g": "C",
+"e": "Common Voice e Multilingual LibriSpeech são exemplos de corpora de fala que contêm dados em português, sendo o primeiro colaborativo e o segundo baseado em audiolivros.",
+"velho": "Corpora.",
+"aula": [
+"Corpora de fala em português: Common Voice (Mozilla, colaborativo, fala lida), Multilingual LibriSpeech (audiolivros) e CORAA (corpora de português brasileiro com fala espontânea e lida)."
+]
+},
+{
+"id": "Q-FIA-0374",
+"g": "E",
+"e": "Common Voice é corpus construído exclusivamente com gravações de sessões parlamentares brasileiras, e Multilingual LibriSpeech contém apenas inglês. Trata-se de prática corrente.",
+"velho": "Corpora.",
+"aula": [
+"Corpora de fala em português: Common Voice (Mozilla, colaborativo, fala lida), Multilingual LibriSpeech (audiolivros) e CORAA (corpora de português brasileiro com fala espontânea e lida)."
+]
+},
+{
+"id": "Q-FIA-0375",
+"g": "C",
+"e": "Um RTF (real-time factor) menor que 1 indica que o processamento é mais rápido que a duração do áudio.",
+"velho": "RTF.",
+"aula": [
+"RTF (real-time factor) é a razão entre o tempo de processamento e a duração do áudio: RTF menor que 1 indica processamento mais rápido que o tempo real."
+]
+},
+{
+"id": "Q-FIA-0376",
+"g": "E",
+"e": "Um RTF (real-time factor) menor que 1 indica que o processamento é mais lento que a duração do áudio.",
+"velho": "RTF.",
+"aula": [
+"RTF (real-time factor) é a razão entre o tempo de processamento e a duração do áudio: RTF menor que 1 indica processamento mais rápido que o tempo real."
+]
+},
+{
+"id": "Q-FIA-0377",
+"g": "C",
+"e": "A detecção de atividade de voz (VAD) é usada para descartar silêncios, segmentar o áudio e definir pontos de corte em streaming.",
+"velho": "VAD.",
+"aula": [
+"VAD (Voice Activity Detection) detecta presença de fala; é usado para descartar silêncio, segmentar o áudio e definir pontos de corte (endpointing).",
+"Em streaming, o áudio é enviado em pequenos blocos (chunks), muitas vezes por conexão persistente, como WebSocket ou gRPC; o serviço devolve resultados parciais (interim) e finais."
+]
+},
+{
+"id": "Q-FIA-0378",
+"g": "E",
+"e": "A detecção de atividade de voz (VAD) é usada para identificar o nome do falante e corrigir a pontuação do texto transcrito.",
+"velho": "VAD.",
+"aula": [
+"VAD (Voice Activity Detection) detecta presença de fala; é usado para descartar silêncio, segmentar o áudio e definir pontos de corte (endpointing)."
+]
+},
+{
+"id": "Q-FIA-0379",
+"g": "C",
+"e": "Aumentar o contexto futuro (lookahead) tende a melhorar a acurácia do reconhecimento, mas aumenta a latência da transcrição em tempo real.",
+"velho": "Lookahead.",
+"aula": [
+"RTF (real-time factor) é a razão entre o tempo de processamento e a duração do áudio: RTF menor que 1 indica processamento mais rápido que o tempo real.",
+"Latência é o atraso entre a fala e o aparecimento do texto; o lookahead (contexto futuro) melhora a acurácia, mas aumenta a latência."
+]
+},
+{
+"id": "Q-FIA-0380",
+"g": "E",
+"e": "Aumentar o contexto futuro (lookahead) melhora a acurácia e reduz a latência da transcrição em tempo real. Isso é consenso na área.",
+"velho": "Lookahead.",
+"aula": [
+"RTF (real-time factor) é a razão entre o tempo de processamento e a duração do áudio: RTF menor que 1 indica processamento mais rápido que o tempo real.",
+"Latência é o atraso entre a fala e o aparecimento do texto; o lookahead (contexto futuro) melhora a acurácia, mas aumenta a latência."
+]
+},
+{
+"id": "Q-FIA-0381",
+"g": "C",
+"e": "Em transcrição em lote, a divisão do áudio em trechos exige cuidado nas emendas entre eles, para evitar palavras cortadas ou repetidas.",
+"velho": "Emendas entre trechos.",
+"aula": [
+"Em lote, pode-se paralelizar trechos, mas é preciso cuidar das emendas entre trechos (sobreposição e junção), para evitar palavras cortadas ou repetidas."
+]
+},
+{
+"id": "Q-FIA-0382",
+"g": "E",
+"e": "Em transcrição em lote, a divisão do áudio em trechos nunca causa problemas nas emendas, pois cada trecho é independente do outro.",
+"velho": "Emendas entre trechos.",
+"aula": [
+"Em lote, pode-se paralelizar trechos, mas é preciso cuidar das emendas entre trechos (sobreposição e junção), para evitar palavras cortadas ou repetidas."
+]
+},
+{
+"id": "Q-FIA-0383",
+"g": "C",
+"e": "Para legendar ao vivo uma sessão, priorizam-se baixa latência e resultados parciais; para a nota definitiva, aceita-se processar o áudio completo, com mais contexto e revisão.",
+"velho": "Modos de uso.",
+"aula": [
+"Em streaming, o áudio é enviado em pequenos blocos (chunks), muitas vezes por conexão persistente, como WebSocket ou gRPC; o serviço devolve resultados parciais (interim) e finais.",
+"Para legendagem ao vivo de sessões, a latência importa mais; para a nota taquigráfica definitiva, importa a acurácia e a revisão posterior, de modo que o mesmo áudio pode ser processado nos dois modos."
+]
+},
+{
+"id": "Q-FIA-0384",
+"g": "E",
+"e": "Para legendar ao vivo uma sessão, prioriza-se o processamento do áudio completo com múltiplas passagens; para a nota definitiva, priorizam-se resultados parciais de baixa latência.",
+"velho": "Modos de uso.",
+"aula": [
+"Em streaming, o áudio é enviado em pequenos blocos (chunks), muitas vezes por conexão persistente, como WebSocket ou gRPC; o serviço devolve resultados parciais (interim) e finais.",
+"Para legendagem ao vivo de sessões, a latência importa mais; para a nota taquigráfica definitiva, importa a acurácia e a revisão posterior, de modo que o mesmo áudio pode ser processado nos dois modos."
+]
+},
+{
+"id": "Q-FIA-0385",
+"g": "C",
+"e": "O Whisper foi treinado com 680 mil horas de áudio rotulado, incluindo dados multilíngues e dados de tradução de fala para inglês.",
+"velho": "Treino do Whisper.",
+"aula": [
+"O Whisper foi treinado com 680 mil horas de áudio rotulado, das quais cerca de 438 mil de fala em inglês, cerca de 117 mil em 96 outros idiomas e cerca de 125 mil de tradução de fala para inglês."
+]
+},
+{
+"id": "Q-FIA-0386",
+"g": "E",
+"e": "O Whisper foi treinado com 68 mil horas de áudio rotulado, todas em inglês, sem dados multilíngues. Trata-se de prática corrente.",
+"velho": "Treino do Whisper.",
+"aula": [
+"O Whisper foi treinado com 680 mil horas de áudio rotulado, das quais cerca de 438 mil de fala em inglês, cerca de 117 mil em 96 outros idiomas e cerca de 125 mil de tradução de fala para inglês."
+]
+},
+{
+"id": "Q-FIA-0387",
+"g": "C",
+"e": "O Whisper não realiza diarização de falantes; o WhisperX acrescenta, entre outros recursos, VAD, alinhamento por palavra e diarização com o pyannote.",
+"velho": "Whisper e WhisperX.",
+"aula": [
+"Limitações: pode alucinar texto em trechos de silêncio ou ruído e entrar em repetições; não faz diarização; marcas de tempo por palavra são aproximadas; o desempenho cai em línguas de poucos recursos, e o vocabulário técnico exige apoio (prompt inicial).",
+"Ecossistema: faster-whisper (reimplementação com CTranslate2, mais rápida e com menor uso de memória), whisper.cpp (implementação em C/C++ para CPU), WhisperX (adiciona VAD, processamento em lote, alinhamento forçado por palavra com wav2vec 2.0 e diarização com pyannote)."
+]
+},
+{
+"id": "Q-FIA-0388",
+"g": "E",
+"e": "O Whisper realiza nativamente diarização de falantes; o WhisperX apenas troca o idioma do modelo. Isso é consenso na área.",
+"velho": "Whisper e WhisperX.",
+"aula": [
+"Ecossistema: faster-whisper (reimplementação com CTranslate2, mais rápida e com menor uso de memória), whisper.cpp (implementação em C/C++ para CPU), WhisperX (adiciona VAD, processamento em lote, alinhamento forçado por palavra com wav2vec 2.0 e diarização com pyannote)."
+]
+},
+{
+"id": "Q-FIA-0389",
+"g": "C",
+"e": "O Whisper pode alucinar texto em trechos de silêncio ou ruído e entrar em repetições, o que exige verificação do revisor e uso de VAD.",
+"velho": "Alucinação do Whisper.",
+"aula": [
+"Limitações: pode alucinar texto em trechos de silêncio ou ruído e entrar em repetições; não faz diarização; marcas de tempo por palavra são aproximadas; o desempenho cai em línguas de poucos recursos, e o vocabulário técnico exige apoio (prompt inicial)."
+]
+},
+{
+"id": "Q-FIA-0390",
+"g": "E",
+"e": "O Whisper nunca produz texto em trechos de silêncio ou ruído, o que dispensa o uso de VAD e a verificação do revisor. Trata-se de prática corrente.",
+"velho": "Alucinação do Whisper.",
+"aula": [
+"Limitações: pode alucinar texto em trechos de silêncio ou ruído e entrar em repetições; não faz diarização; marcas de tempo por palavra são aproximadas; o desempenho cai em línguas de poucos recursos, e o vocabulário técnico exige apoio (prompt inicial)."
+]
+},
+{
+"id": "Q-FIA-0391",
+"g": "C",
+"e": "O faster-whisper é uma reimplementação do Whisper com CTranslate2, mais rápida e que usa menos memória, e o whisper.cpp é uma implementação em C/C++ voltada a execução em CPU.",
+"velho": "Variantes do Whisper.",
+"aula": [
+"Ecossistema: faster-whisper (reimplementação com CTranslate2, mais rápida e com menor uso de memória), whisper.cpp (implementação em C/C++ para CPU), WhisperX (adiciona VAD, processamento em lote, alinhamento forçado por palavra com wav2vec 2.0 e diarização com pyannote)."
+]
+},
+{
+"id": "Q-FIA-0392",
+"g": "E",
+"e": "O faster-whisper é uma versão do Whisper treinada em português, e o whisper.cpp é um serviço de nuvem exclusivo para diarização. Isso é consenso na área.",
+"velho": "Variantes do Whisper.",
+"aula": [
+"Ecossistema: faster-whisper (reimplementação com CTranslate2, mais rápida e com menor uso de memória), whisper.cpp (implementação em C/C++ para CPU), WhisperX (adiciona VAD, processamento em lote, alinhamento forçado por palavra com wav2vec 2.0 e diarização com pyannote)."
+]
+},
+{
+"id": "Q-FIA-0393",
+"g": "C",
+"e": "O texto inicial (initial_prompt) pode orientar a grafia de nomes e termos técnicos, mas não garante o resultado.",
+"velho": "initial_prompt.",
+"aula": [
+"Limitações: pode alucinar texto em trechos de silêncio ou ruído e entrar em repetições; não faz diarização; marcas de tempo por palavra são aproximadas; o desempenho cai em línguas de poucos recursos, e o vocabulário técnico exige apoio (prompt inicial).",
+"O initial_prompt (texto inicial) pode orientar grafia de nomes e termos, mas não garante o resultado. A temperatura e a regra de contingência (fallback) controlam a repetição e a baixa confiança."
+]
+},
+{
+"id": "Q-FIA-0394",
+"g": "E",
+"e": "O texto inicial (initial_prompt) garante a grafia correta de todos os nomes e termos técnicos, dispensando a revisão.",
+"velho": "initial_prompt.",
+"aula": [
+"Limitações: pode alucinar texto em trechos de silêncio ou ruído e entrar em repetições; não faz diarização; marcas de tempo por palavra são aproximadas; o desempenho cai em línguas de poucos recursos, e o vocabulário técnico exige apoio (prompt inicial).",
+"O initial_prompt (texto inicial) pode orientar grafia de nomes e termos, mas não garante o resultado. A temperatura e a regra de contingência (fallback) controlam a repetição e a baixa confiança."
+]
+},
+{
+"id": "Q-FIA-0395",
+"g": "C",
+"e": "Notas taquigráficas registram de modo integral o que foi dito em sessão, ao passo que a ata é o registro resumido dos atos e fatos da reunião.",
+"velho": "Notas × ata.",
+"aula": [
+"As notas taquigráficas registram, de modo integral, o que foi dito em sessão, ao passo que a ata é o registro resumido dos atos e fatos da reunião.",
+"A revisão do orador não autoriza alterar o sentido do que foi dito nem apagar fatos registrados."
+]
+},
+{
+"id": "Q-FIA-0396",
+"g": "E",
+"e": "Notas taquigráficas são o registro resumido dos atos da reunião, ao passo que a ata registra de modo integral o que foi dito em sessão.",
+"velho": "Notas × ata.",
+"aula": [
+"As notas taquigráficas registram, de modo integral, o que foi dito em sessão, ao passo que a ata é o registro resumido dos atos e fatos da reunião."
+]
+},
+{
+"id": "Q-FIA-0397",
+"g": "C",
+"e": "Taquigrafia é técnica de escrita rápida por sinais convencionais, e estenotipia visa à mesma finalidade por meio de máquina com teclas.",
+"velho": "Taquigrafia e estenotipia.",
+"aula": [
+"Taquigrafia é técnica de escrita rápida por sinais convencionais que permite acompanhar a velocidade da fala; estenotipia é a mesma finalidade por máquina com teclas."
+]
+},
+{
+"id": "Q-FIA-0398",
+"g": "E",
+"e": "Taquigrafia é técnica de escrita feita exclusivamente por reconhecimento automático de fala, e estenotipia é a revisão ortográfica final do texto.",
+"velho": "Taquigrafia e estenotipia.",
+"aula": [
+"Taquigrafia é técnica de escrita rápida por sinais convencionais que permite acompanhar a velocidade da fala; estenotipia é a mesma finalidade por máquina com teclas.",
+"A transcrição automática não substitui a responsabilidade do profissional pelo texto: o registro oficial exige revisão, cotejo com o áudio e padronização."
+]
+},
+{
+"id": "Q-FIA-0399",
+"g": "C",
+"e": "A expressão 'sem revisão do orador' em notas taquigráficas indica que o texto não foi submetido ao orador para revisão.",
+"velho": "Sem revisão do orador.",
+"aula": [
+"As notas taquigráficas registram, de modo integral, o que foi dito em sessão, ao passo que a ata é o registro resumido dos atos e fatos da reunião.",
+"O orador pode ter a oportunidade de rever o texto de seu discurso, e a expressão 'sem revisão do orador' indica que o texto não foi submetido a ele."
+]
+},
+{
+"id": "Q-FIA-0400",
+"g": "E",
+"e": "A expressão 'sem revisão do orador' indica que o texto foi integralmente revisado e aprovado pelo orador.",
+"velho": "Sem revisão do orador.",
+"aula": [
+"A transcrição automática não substitui a responsabilidade do profissional pelo texto: o registro oficial exige revisão, cotejo com o áudio e padronização.",
+"O orador pode ter a oportunidade de rever o texto de seu discurso, e a expressão 'sem revisão do orador' indica que o texto não foi submetido a ele."
+]
+},
+{
+"id": "Q-FIA-0401",
+"g": "C",
+"e": "A revisão do orador não autoriza alterar o sentido do que foi dito nem apagar fatos registrados na sessão.",
+"velho": "Limite da revisão.",
+"aula": [
+"As notas taquigráficas registram, de modo integral, o que foi dito em sessão, ao passo que a ata é o registro resumido dos atos e fatos da reunião.",
+"A revisão do orador não autoriza alterar o sentido do que foi dito nem apagar fatos registrados."
+]
+},
+{
+"id": "Q-FIA-0402",
+"g": "E",
+"e": "A revisão do orador autoriza alterar o sentido do que foi dito e apagar fatos registrados na sessão, desde que ele o solicite.",
+"velho": "Limite da revisão.",
+"aula": [
+"As notas taquigráficas registram, de modo integral, o que foi dito em sessão, ao passo que a ata é o registro resumido dos atos e fatos da reunião.",
+"A revisão do orador não autoriza alterar o sentido do que foi dito nem apagar fatos registrados."
+]
+},
+{
+"id": "Q-FIA-0403",
+"g": "C",
+"e": "Degravação é a passagem de gravação de áudio ou vídeo para texto e não equivale, por si só, à ata da reunião.",
+"velho": "Degravação × ata.",
+"aula": [
+"Degravação refere-se à passagem de gravação para texto; não equivale a ata.",
+"A transcrição automática não substitui a responsabilidade do profissional pelo texto: o registro oficial exige revisão, cotejo com o áudio e padronização."
+]
+},
+{
+"id": "Q-FIA-0404",
+"g": "E",
+"e": "Degravação é o registro resumido das deliberações e equivale, por si só, à ata da reunião. Isso é consenso na área.",
+"velho": "Degravação × ata.",
+"aula": [
+"As notas taquigráficas registram, de modo integral, o que foi dito em sessão, ao passo que a ata é o registro resumido dos atos e fatos da reunião.",
+"Degravação refere-se à passagem de gravação para texto; não equivale a ata."
+]
+},
+{
+"id": "Q-FIA-0405",
+"g": "C",
+"e": "Pontuações de confiança do ASR servem para destacar ao revisor trechos mais incertos, e só são úteis se estiverem calibradas, isto é, se corresponderem à frequência real de acertos.",
+"velho": "Confiança e calibração.",
+"aula": [
+"Pontuação de confiança (confidence score): o ASR associa a cada palavra ou trecho uma estimativa de certeza; trechos de baixa confiança são destacados para o revisor.",
+"Calibração: confiança só é útil se corresponder à frequência real de acertos."
+]
+},
+{
+"id": "Q-FIA-0406",
+"g": "E",
+"e": "Pontuações de confiança do ASR servem para substituir a revisão humana dos trechos, e são úteis mesmo quando estão descalibradas. Trata-se de prática corrente.",
+"velho": "Confiança e calibração.",
+"aula": [
+"Pontuação de confiança (confidence score): o ASR associa a cada palavra ou trecho uma estimativa de certeza; trechos de baixa confiança são destacados para o revisor.",
+"Calibração: confiança só é útil se corresponder à frequência real de acertos."
+]
+},
+{
+"id": "Q-FIA-0407",
+"g": "C",
+"e": "Viés de automação é a tendência do revisor de aceitar a sugestão da máquina sem verificação, e pode ser reduzido por treinamento, auditoria por amostragem e exibição do áudio sincronizado.",
+"velho": "Viés de automação.",
+"aula": [
+"Viés de automação: tendência do revisor de aceitar a sugestão da máquina sem verificação; reduz-se por treinamento, por amostragem de auditoria e por exibição do áudio sincronizado."
+]
+},
+{
+"id": "Q-FIA-0408",
+"g": "E",
+"e": "Viés de automação é a tendência da máquina de rejeitar as correções feitas pelo revisor, e não é reduzido por nenhuma medida de processo. Isso é consenso na área.",
+"velho": "Viés de automação.",
+"aula": [
+"Viés de automação: tendência do revisor de aceitar a sugestão da máquina sem verificação; reduz-se por treinamento, por amostragem de auditoria e por exibição do áudio sincronizado."
+]
+},
+{
+"id": "Q-FIA-0409",
+"g": "C",
+"e": "No aprendizado ativo, selecionam-se para rotulação humana os trechos em que o modelo está mais incerto ou erra mais, a fim de melhorar o modelo com menos esforço.",
+"velho": "Aprendizado ativo.",
+"aula": [
+"Esforço de pós-edição: mede-se pelo tempo de edição e pela taxa de edição humana (como o HTER, baseado em edições mínimas necessárias).",
+"Aprendizado ativo: seleciona-se para rotulação humana os trechos em que o modelo mais erra ou mais incerto, para melhorar o modelo com menos esforço."
+]
+},
+{
+"id": "Q-FIA-0410",
+"g": "E",
+"e": "No aprendizado ativo, selecionam-se para rotulação humana os trechos em que o modelo está mais seguro, a fim de confirmar o acerto. Trata-se de prática corrente.",
+"velho": "Aprendizado ativo.",
+"aula": [
+"Aprendizado ativo: seleciona-se para rotulação humana os trechos em que o modelo mais erra ou mais incerto, para melhorar o modelo com menos esforço."
+]
+},
+{
+"id": "Q-FIA-0411",
+"g": "C",
+"e": "A LGPD garante ao titular o direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses.",
+"velho": "LGPD, art. 20.",
+"aula": [
+"A LGPD (art. 20) garante ao titular o direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, e de obter informações sobre os critérios e procedimentos utilizados, observados os segredos comercial e industrial."
+]
+},
+{
+"id": "Q-FIA-0412",
+"g": "E",
+"e": "A LGPD proíbe qualquer decisão tomada com base em tratamento automatizado de dados pessoais, independentemente da finalidade. Isso é consenso na área.",
+"velho": "LGPD, art. 20.",
+"aula": [
+"A LGPD (art. 20) garante ao titular o direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, e de obter informações sobre os critérios e procedimentos utilizados, observados os segredos comercial e industrial."
+]
+},
+{
+"id": "Q-FIA-0413",
+"g": "C",
+"e": "Mesmo em fluxo assistido por IA, a responsabilidade final pelo texto publicado permanece com o profissional que o revisa e valida.",
+"velho": "Responsabilidade.",
+"aula": [
+"Responsabilidade final permanece com o profissional."
+]
+},
+{
+"id": "Q-FIA-0414",
+"g": "E",
+"e": "Em fluxo assistido por IA, a responsabilidade final pelo texto publicado transfere-se ao modelo que o produziu. Trata-se de prática corrente.",
+"velho": "Responsabilidade.",
+"aula": [
+"Responsabilidade final permanece com o profissional."
+]
+},
+{
+"id": "Q-FIA-0415",
+"g": "C",
+"e": "Na transcrição limpa (verbatim inteligente), suprimem-se marcas de oralidade sem relevância, preservando o sentido, ao passo que na literal registram-se hesitações, repetições e falsos começos.",
+"velho": "Tipos de transcrição.",
+"aula": [
+"Tipos de transcrição: literal ou verbatim integral, que registra hesitações, repetições e falsos começos; verbatim inteligente ou limpa, que suprime marcas de oralidade sem relevância e preserva o sentido; e editada, que reorganiza o texto para leitura."
+]
+},
+{
+"id": "Q-FIA-0416",
+"g": "E",
+"e": "Na transcrição limpa (verbatim inteligente), registram-se hesitações, repetições e falsos começos, ao passo que na literal suprimem-se as marcas de oralidade. Isso é consenso na área.",
+"velho": "Tipos de transcrição.",
+"aula": [
+"Tipos de transcrição: literal ou verbatim integral, que registra hesitações, repetições e falsos começos; verbatim inteligente ou limpa, que suprime marcas de oralidade sem relevância e preserva o sentido; e editada, que reorganiza o texto para leitura."
+]
+},
+{
+"id": "Q-FIA-0417",
+"g": "C",
+"e": "Quando o orador comete erro de fato, como troca de data ou número, o transcritor não o corrige silenciosamente, podendo manter a forma original com indicação adequada, como (sic), conforme o manual do órgão.",
+"velho": "Erro de fato do orador.",
+"aula": [
+"Erro de fato do orador (data, número ou nome trocado) não é corrigido silenciosamente pelo transcritor; usa-se, quando o manual admite, recurso como a indicação (sic), que sinaliza que a forma original foi mantida intencionalmente.",
+"Expressões em língua estrangeira costumam ser destacadas (itálico), e latinismos mantidos na forma original."
+]
+},
+{
+"id": "Q-FIA-0418",
+"g": "E",
+"e": "Quando o orador comete erro de fato, como troca de data ou número, o transcritor deve corrigi-lo silenciosamente, sem qualquer indicação. Tal conclusão decorreria, segundo esse entendimento, das características da tecnologia descrita.",
+"velho": "Erro de fato do orador.",
+"aula": [
+"Erro de fato do orador (data, número ou nome trocado) não é corrigido silenciosamente pelo transcritor; usa-se, quando o manual admite, recurso como a indicação (sic), que sinaliza que a forma original foi mantida intencionalmente."
+]
+},
+{
+"id": "Q-FIA-0419",
+"g": "C",
+"e": "O registro de eventos que não são fala, como palmas e risos, deve ser feito de forma neutra, sem adjetivação e sem interpretação.",
+"velho": "Eventos não verbais.",
+"aula": [
+"Registrar o que não é fala (palmas, risos, sobreposição de vozes, intervenção fora do microfone) é necessário para a fidelidade do contexto, mas deve ser feito de forma neutra, sem adjetivação e sem interpretação."
+]
+},
+{
+"id": "Q-FIA-0420",
+"g": "E",
+"e": "O registro de eventos que não são fala, como palmas e risos, deve ser feito com adjetivação e interpretação, para melhor transmitir o clima da sessão.",
+"velho": "Eventos não verbais.",
+"aula": [
+"Registrar o que não é fala (palmas, risos, sobreposição de vozes, intervenção fora do microfone) é necessário para a fidelidade do contexto, mas deve ser feito de forma neutra, sem adjetivação e sem interpretação."
+]
+},
+{
+"id": "Q-FIA-0421",
+"g": "C",
+"e": "Um orador diz 'nós vamos, né, votar a matéria'. Na transcrição de fidelidade ao conteúdo adotada em registros parlamentares, a expressão 'né' pode ser suprimida sem alterar o sentido.",
+"velho": "Supressão de vícios.",
+"aula": [
+"Tipos de transcrição: literal ou verbatim integral, que registra hesitações, repetições e falsos começos; verbatim inteligente ou limpa, que suprime marcas de oralidade sem relevância e preserva o sentido; e editada, que reorganiza o texto para leitura.",
+"Em registros parlamentares, a fidelidade é ao conteúdo: não se acrescenta, omite ou altera ideia, e o texto é adequado à norma culta sem mudar o sentido."
+]
+},
+{
+"id": "Q-FIA-0422",
+"g": "E",
+"e": "Um orador diz 'nós vamos, né, votar a matéria'. Na transcrição de fidelidade ao conteúdo adotada em registros parlamentares, a supressão de 'né' é vedada, porque qualquer alteração configura adulteração do discurso.",
+"velho": "Supressão de vícios.",
+"aula": [
+"Em registros parlamentares, a fidelidade é ao conteúdo: não se acrescenta, omite ou altera ideia, e o texto é adequado à norma culta sem mudar o sentido."
+]
+},
+{
+"id": "Q-FIA-0423",
+"g": "C",
+"e": "Citações textuais feitas pelo orador devem ser conferidas com a fonte, e expressões em língua estrangeira costumam ser destacadas.",
+"velho": "Citações.",
+"aula": [
+"Citações textuais devem ser conferidas com a fonte.",
+"Expressões em língua estrangeira costumam ser destacadas (itálico), e latinismos mantidos na forma original."
+]
+}
+]

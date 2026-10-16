@@ -1,0 +1,701 @@
+[
+{
+"id": "Q-LP-0308",
+"g": "E",
+"e": "“Nas últimas eleições, o comparecimento foi menor que o das anteriores.” — O voto passou a ser facultativo nas últimas eleições.",
+"velho": "Texto só compara comparecimento.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0309",
+"g": "C",
+"e": "“Ninguém contestou o resultado, embora alguns tenham manifestado surpresa.” — Houve quem se surpreendesse com o resultado sem contestá-lo.",
+"velho": "Surpresa ≠ contestação.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0310",
+"g": "E",
+"e": "“Ninguém contestou o resultado, embora alguns tenham manifestado surpresa.” — Alguns contestaram o resultado em razão da surpresa.",
+"velho": "Surpresa ≠ contestação.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0311",
+"g": "C",
+"e": "“A transparência pública não se esgota na publicação de dados: exige que a informação seja compreensível e útil ao cidadão.” — O texto defende que publicar dados não basta para haver transparência.",
+"velho": "Não basta ≠ é desnecessário.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0312",
+"g": "E",
+"e": "“A transparência pública não se esgota na publicação de dados: exige que a informação seja compreensível e útil ao cidadão.” — O texto defende que a publicação de dados é desnecessária à transparência.",
+"velho": "Não basta ≠ é desnecessário.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0313",
+"g": "C",
+"e": "“O voto obrigatório garante alta participação, mas não assegura engajamento: comparecer às urnas é diferente de se informar.” — O texto distingue participação formal de engajamento.",
+"velho": "Distinção, não redução.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0314",
+"g": "E",
+"e": "“O voto obrigatório garante alta participação, mas não assegura engajamento: comparecer às urnas é diferente de se informar.” — O texto afirma que o voto obrigatório reduz a participação.",
+"velho": "Distinção, não redução.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0315",
+"g": "C",
+"e": "“Muitos veem na burocracia um entrave; contudo, seus procedimentos protegem o cidadão contra o arbítrio.” — O autor contrapõe a visão comum sobre a burocracia a um benefício que ela traz.",
+"velho": "'Contudo' contrapõe a visão comum.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0316",
+"g": "E",
+"e": "“Muitos veem na burocracia um entrave; contudo, seus procedimentos protegem o cidadão contra o arbítrio.” — O autor endossa a visão de que a burocracia é, em essência, um entrave.",
+"velho": "'Contudo' contrapõe a visão comum.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0317",
+"g": "C",
+"e": "“Primeiro, o prazo era exíguo. Depois, faltaram servidores. Por fim, o sistema falhou. Eis por que o projeto atrasou.” — O trecho enumera causas do atraso do projeto.",
+"velho": "'Eis por que' introduz causas.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0318",
+"g": "E",
+"e": "“Primeiro, o prazo era exíguo. Depois, faltaram servidores. Por fim, o sistema falhou. Eis por que o projeto atrasou.” — O trecho enumera consequências do atraso do projeto.",
+"velho": "'Eis por que' introduz causas.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0319",
+"g": "C",
+"e": "“Segundo o relator, a emenda é inconstitucional; a defesa, porém, sustenta o contrário.” — O texto apresenta posições opostas sobre a constitucionalidade da emenda.",
+"velho": "'Porém' marca oposição.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0320",
+"g": "E",
+"e": "“Segundo o relator, a emenda é inconstitucional; a defesa, porém, sustenta o contrário.” — O texto apresenta consenso sobre a constitucionalidade da emenda.",
+"velho": "'Porém' marca oposição.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0321",
+"g": "C",
+"e": "“A inteligência artificial agiliza a triagem de documentos, mas não substitui a revisão humana.” — O texto reconhece um benefício da inteligência artificial e aponta um limite.",
+"velho": "Limite da IA, não abolição.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0322",
+"g": "E",
+"e": "“A inteligência artificial agiliza a triagem de documentos, mas não substitui a revisão humana.” — O texto defende que a revisão humana deve ser abolida. Trata-se de prática corrente.",
+"velho": "Limite da IA, não abolição.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0323",
+"g": "C",
+"e": "“A cidade cresceu sem planejamento; hoje paga o preço em trânsito e enchentes.” — O texto relaciona o crescimento sem planejamento aos problemas atuais da cidade.",
+"velho": "Falta de planejamento é a causa.",
+"aula": [
+"Marcadores de causa ('eis por que', 'porque') e de consequência ('de modo que', 'por isso') organizam o texto. Distinga posição do autor de posição de terceiros.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0324",
+"g": "E",
+"e": "“A cidade cresceu sem planejamento; hoje paga o preço em trânsito e enchentes.” — O texto atribui o trânsito e as enchentes ao excesso de planejamento. Isso é consenso.",
+"velho": "Falta de planejamento é a causa.",
+"aula": [
+"Marcadores de causa ('eis por que', 'porque') e de consequência ('de modo que', 'por isso') organizam o texto. Distinga posição do autor de posição de terceiros.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0325",
+"g": "C",
+"e": "“Brilhante a ideia de marcar a votação para o feriado: assim ninguém compareceria.” — O adjetivo “brilhante” é empregado com ironia.",
+"velho": "Elogio que critica = ironia.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0326",
+"g": "E",
+"e": "“Brilhante a ideia de marcar a votação para o feriado: assim ninguém compareceria.” — O adjetivo “brilhante” é empregado em sentido literal, elogiando a ideia.",
+"velho": "Elogio que critica = ironia.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0327",
+"g": "C",
+"e": "“O projeto foi engavetado antes mesmo de chegar ao plenário.” — “Engavetado” tem sentido figurado: paralisado, deixado sem andamento.",
+"velho": "Sentido figurado.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0328",
+"g": "E",
+"e": "“O projeto foi engavetado antes mesmo de chegar ao plenário.” — “Engavetado” tem sentido literal: guardado fisicamente em uma gaveta.",
+"velho": "Sentido figurado.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0329",
+"g": "C",
+"e": "“A decisão caiu como uma bomba entre os servidores.” — A comparação indica o forte impacto da decisão.",
+"velho": "Bomba = impacto negativo.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0330",
+"g": "E",
+"e": "“A decisão caiu como uma bomba entre os servidores.” — A comparação indica que a decisão foi recebida com alívio.",
+"velho": "Bomba = impacto negativo.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0331",
+"g": "C",
+"e": "“O ministro, que prometera transparência, recusou-se a divulgar a lista; coerência, afinal, é artigo raro.” — A última oração ironiza a incoerência do ministro.",
+"velho": "Ironia contra o ministro.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0332",
+"g": "E",
+"e": "“O ministro, que prometera transparência, recusou-se a divulgar a lista; coerência, afinal, é artigo raro.” — A última oração elogia a coerência do ministro.",
+"velho": "Ironia contra o ministro.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0333",
+"g": "C",
+"e": "“O parecer, longo e confuso, parecia escrito para não ser lido.” — O trecho critica a falta de clareza do parecer.",
+"velho": "'Confuso' é crítica.",
+"aula": [
+"Descubra o juízo do autor pelos adjetivos e pelo contexto ('longo e confuso' = crítica). 'Ou… ou' apresenta alternativas excludentes.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0334",
+"g": "E",
+"e": "“O parecer, longo e confuso, parecia escrito para não ser lido.” — O trecho elogia a clareza do parecer. Trata-se de prática corrente.",
+"velho": "'Confuso' é crítica.",
+"aula": [
+"Descubra o juízo do autor pelos adjetivos e pelo contexto ('longo e confuso' = crítica). 'Ou… ou' apresenta alternativas excludentes.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0335",
+"g": "C",
+"e": "“A reforma saiu do papel, mas parou no meio do caminho.” — “Saiu do papel” indica que a reforma começou a ser executada.",
+"velho": "Saiu do papel ≠ concluída.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0336",
+"g": "E",
+"e": "“A reforma saiu do papel, mas parou no meio do caminho.” — “Saiu do papel” indica que a reforma foi concluída. Isso é consenso.",
+"velho": "Saiu do papel ≠ concluída.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0337",
+"g": "C",
+"e": "“O relator navegou entre as emendas como quem cruza um campo minado.” — A comparação sugere cautela diante de riscos.",
+"velho": "Campo minado = cuidado.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0338",
+"g": "E",
+"e": "“O relator navegou entre as emendas como quem cruza um campo minado.” — A comparação sugere displicência diante das emendas.",
+"velho": "Campo minado = cuidado.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0339",
+"g": "C",
+"e": "“Ou fazemos as reformas agora, ou o sistema colapsa.” — O período apresenta duas alternativas excludentes e destaca a urgência das reformas.",
+"velho": "Ou… ou: uma exclui a outra.",
+"aula": [
+"Descubra o juízo do autor pelos adjetivos e pelo contexto ('longo e confuso' = crítica). 'Ou… ou' apresenta alternativas excludentes.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0340",
+"g": "E",
+"e": "“Ou fazemos as reformas agora, ou o sistema colapsa.” — O período apresenta as duas alternativas como igualmente desejáveis. Isso é consenso.",
+"velho": "Ou… ou: uma exclui a outra.",
+"aula": [
+"Descubra o juízo do autor pelos adjetivos e pelo contexto ('longo e confuso' = crítica). 'Ou… ou' apresenta alternativas excludentes.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0341",
+"g": "C",
+"e": "“Para o consultor, a medida pode reduzir custos, embora ainda faltem estudos.” — O verbo “pode” atenua a afirmação, indicando possibilidade.",
+"velho": "Poder = possibilidade.",
+"aula": [
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0342",
+"g": "E",
+"e": "“Para o consultor, a medida pode reduzir custos, embora ainda faltem estudos.” — O verbo “pode” indica certeza quanto à redução de custos.",
+"velho": "Poder = possibilidade.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0343",
+"g": "C",
+"e": "“O governo afirma que a inflação cairá; os economistas, porém, duvidam.” — A previsão de queda da inflação é atribuída ao governo, não ao autor.",
+"velho": "Quem afirma: o governo.",
+"aula": [
+"'Segundo X', 'X declarou que' atribuem a afirmação a X; o autor apenas relata, sem ratificar. Identifique quem diz o quê.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0344",
+"g": "E",
+"e": "“O governo afirma que a inflação cairá; os economistas, porém, duvidam.” — A previsão de queda da inflação é apresentada como posição dos economistas.",
+"velho": "Quem afirma: o governo.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0345",
+"g": "C",
+"e": "“O prefeito declarou que as obras terminarão em março.” — O texto relata uma declaração, sem que o autor a ratifique.",
+"velho": "Relato ≠ afirmação própria.",
+"aula": [
+"'Segundo X', 'X declarou que' atribuem a afirmação a X; o autor apenas relata, sem ratificar. Identifique quem diz o quê.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0346",
+"g": "E",
+"e": "“O prefeito declarou que as obras terminarão em março.” — O texto afirma, por conta própria, que as obras terminarão em março.",
+"velho": "Relato ≠ afirmação própria.",
+"aula": [
+"'Segundo X', 'X declarou que' atribuem a afirmação a X; o autor apenas relata, sem ratificar. Identifique quem diz o quê.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0347",
+"g": "C",
+"e": "“Talvez o prazo seja prorrogado.” — O advérbio “talvez” marca incerteza.",
+"velho": "Talvez = dúvida.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0348",
+"g": "E",
+"e": "“Talvez o prazo seja prorrogado.” — O advérbio “talvez” marca certeza.",
+"velho": "Talvez = dúvida.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0349",
+"g": "C",
+"e": "“Infelizmente, o projeto foi rejeitado.” — O advérbio “infelizmente” revela juízo de valor do autor.",
+"velho": "Infelizmente = avaliação.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0350",
+"g": "E",
+"e": "“Infelizmente, o projeto foi rejeitado.” — O advérbio “infelizmente” é neutro e não revela avaliação do autor.",
+"velho": "Infelizmente = avaliação.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0351",
+"g": "C",
+"e": "“Em 2025, o órgão recebeu 4 mil pedidos de acesso à informação.” — O trecho expõe um dado verificável, não uma opinião.",
+"velho": "Número = dado.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0352",
+"g": "E",
+"e": "“Em 2025, o órgão recebeu 4 mil pedidos de acesso à informação.” — O trecho expressa opinião subjetiva do autor.",
+"velho": "Número = dado.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0353",
+"g": "C",
+"e": "“Segundo especialistas, o modelo é eficiente, mas a decisão de adotá-lo cabe ao Congresso.” — A avaliação da eficiência é atribuída a especialistas, e a decisão de adotar o modelo, ao Congresso.",
+"velho": "Quem decide: o Congresso.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0354",
+"g": "E",
+"e": "“Segundo especialistas, o modelo é eficiente, mas a decisão de adotá-lo cabe ao Congresso.” — A decisão de adotar o modelo é atribuída aos especialistas. Trata-se de prática corrente.",
+"velho": "Quem decide: o Congresso.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0355",
+"g": "C",
+"e": "“É inegável que a medida trouxe avanços.” — A expressão “é inegável” reforça o grau de certeza do autor.",
+"velho": "Inegável = reforço.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"Pegadinha: tratar relato como afirmação do autor, ou possibilidade como certeza."
+]
+},
+{
+"id": "Q-LP-0356",
+"g": "E",
+"e": "“É inegável que a medida trouxe avanços.” — A expressão “é inegável” atenua a afirmação do autor.",
+"velho": "Inegável = reforço.",
+"aula": [
+"Modalizadores indicam o grau de certeza: 'talvez', 'pode' (possibilidade); 'é inegável' (certeza). 'Infelizmente', 'felizmente' revelam juízo do autor. Dado numérico é fato verificável.",
+"'Segundo X', 'X declarou que' atribuem a afirmação a X; o autor apenas relata, sem ratificar. Identifique quem diz o quê."
+]
+},
+{
+"id": "Q-LP-0357",
+"g": "C",
+"e": "“O prazo foi cumprido porque a equipe trabalhou em regime de plantão.” — O trabalho em plantão é apresentado como causa do cumprimento do prazo.",
+"velho": "Porque = causa.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0358",
+"g": "E",
+"e": "“O prazo foi cumprido porque a equipe trabalhou em regime de plantão.” — O trabalho em plantão é apresentado como consequência do cumprimento do prazo.",
+"velho": "Porque = causa.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0359",
+"g": "C",
+"e": "“Apesar do corte de verbas, o programa ampliou o atendimento.” — A ampliação do atendimento contraria a expectativa gerada pelo corte de verbas.",
+"velho": "Apesar de = concessão.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0360",
+"g": "E",
+"e": "“Apesar do corte de verbas, o programa ampliou o atendimento.” — O corte de verbas é apresentado como causa da ampliação do atendimento.",
+"velho": "Apesar de = concessão.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0361",
+"g": "C",
+"e": "“Se o quórum não for atingido, a sessão será suspensa.” — A suspensão da sessão está condicionada à ausência de quórum.",
+"velho": "Se = condição.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0362",
+"g": "E",
+"e": "“Se o quórum não for atingido, a sessão será suspensa.” — A suspensão da sessão ocorre independentemente do quórum.",
+"velho": "Se = condição.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0363",
+"g": "C",
+"e": "“Quanto mais o prazo se aproximava, maior era a pressão sobre a equipe.” — O texto estabelece relação de proporção entre a aproximação do prazo e a pressão.",
+"velho": "Quanto mais… maior = proporção.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0364",
+"g": "E",
+"e": "“Quanto mais o prazo se aproximava, maior era a pressão sobre a equipe.” — O texto estabelece relação de oposição entre a aproximação do prazo e a pressão.",
+"velho": "Quanto mais… maior = proporção.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0365",
+"g": "C",
+"e": "“A lei foi sancionada; contudo, não produziu efeitos imediatos.” — O segundo trecho se opõe à expectativa criada pelo primeiro.",
+"velho": "Contudo = oposição.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0366",
+"g": "E",
+"e": "“A lei foi sancionada; contudo, não produziu efeitos imediatos.” — O segundo trecho reforça, como conclusão, o primeiro.",
+"velho": "Contudo = oposição.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0367",
+"g": "C",
+"e": "“O sistema falhou, de modo que as votações foram adiadas.” — O adiamento das votações é consequência da falha do sistema.",
+"velho": "De modo que = consequência.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0368",
+"g": "E",
+"e": "“O sistema falhou, de modo que as votações foram adiadas.” — A falha do sistema é consequência do adiamento das votações.",
+"velho": "De modo que = consequência.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0369",
+"g": "C",
+"e": "“A medida é impopular, mas necessária.” — O texto reconhece um aspecto negativo e destaca um positivo da medida.",
+"velho": "Mas opõe os dois juízos.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0370",
+"g": "E",
+"e": "“A medida é impopular, mas necessária.” — O texto reconhece dois aspectos positivos da medida. Trata-se de prática corrente.",
+"velho": "Mas opõe os dois juízos.",
+"aula": [
+"Causa ('porque'), consequência ('de modo que'), concessão ('apesar de', 'mesmo com': a expectativa é contrariada), condição ('se'), proporção ('quanto mais… maior'), oposição ('contudo', 'mas').",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0371",
+"g": "C",
+"e": "“Mesmo com o recurso, a decisão foi mantida.” — O recurso não alterou a decisão.",
+"velho": "Mesmo com = concessão.",
+"aula": [
+"Ao julgar, localize o conectivo e diga a relação; depois compare com a afirmativa. 'Mesmo com o recurso, a decisão foi mantida' = o recurso não alterou a decisão.",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0372",
+"g": "E",
+"e": "“Mesmo com o recurso, a decisão foi mantida.” — O recurso alterou a decisão.",
+"velho": "Mesmo com = concessão.",
+"aula": [
+"Ao julgar, localize o conectivo e diga a relação; depois compare com a afirmativa. 'Mesmo com o recurso, a decisão foi mantida' = o recurso não alterou a decisão.",
+"Pegadinha: inverter causa e consequência, ou ler concessão como causa."
+]
+},
+{
+"id": "Q-LP-0373",
+"g": "C",
+"e": "“Em geral, os prazos são cumpridos, ainda que haja exceções.” — O texto admite exceções ao cumprimento dos prazos.",
+"velho": "'Em geral' admite exceções.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0374",
+"g": "E",
+"e": "“Em geral, os prazos são cumpridos, ainda que haja exceções.” — O texto afirma que os prazos são cumpridos sem exceções.",
+"velho": "'Em geral' admite exceções.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0375",
+"g": "C",
+"e": "“Alguns servidores aderiram ao sistema.” — O texto não permite concluir que a totalidade dos servidores aderiu.",
+"velho": "'Alguns' não autoriza o total.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0376",
+"g": "E",
+"e": "“Alguns servidores aderiram ao sistema.” — O texto permite concluir que nenhum servidor deixou de aderir.",
+"velho": "'Alguns' não autoriza o total.",
+"aula": [
+"'Em geral', 'alguns', 'sugere', 'não significa' são ressalvas: o item que as apaga (transformando indício em prova, 'alguns' em 'todos') está errado. 'Não por X' exclui X.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+},
+{
+"id": "Q-LP-0377",
+"g": "C",
+"e": "“O programa é mais eficiente que o anterior, porém mais caro.” — O texto compara os dois programas quanto à eficiência e ao custo.",
+"velho": "'Porém mais caro'.",
+"aula": [
+"Em comparações, confira o sentido: 'mais eficiente, porém mais caro' ≠ 'mais barato'. Em ordem temporal, 'antes de' ≠ 'após'.",
+"Pegadinha: generalizar, apagar a ressalva ou inverter a comparação ou a ordem."
+]
+}
+]

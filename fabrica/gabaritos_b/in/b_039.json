@@ -1,0 +1,698 @@
+[
+{
+"id": "Q-LP-0658",
+"g": "E",
+"e": "'À revelia de' significa com a anuência de.",
+"velho": "À revelia = sem consentimento.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0659",
+"g": "C",
+"e": "'Cônscio' é sinônimo de ciente ou consciente.",
+"velho": "Cônscio = ciente.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0660",
+"g": "E",
+"e": "'Cônscio' é sinônimo de ignorante. Trata-se de prática corrente.",
+"velho": "Cônscio = ciente.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0661",
+"g": "C",
+"e": "Em 'O orçamento é limitado; assim, cada gasto deve ser justificado', 'assim' introduz conclusão.",
+"velho": "Assim = conclusão.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0662",
+"g": "E",
+"e": "Em 'O orçamento é limitado; assim, cada gasto deve ser justificado', 'assim' introduz oposição.",
+"velho": "Assim = conclusão.",
+"aula": [
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0663",
+"g": "C",
+"e": "Em 'Não votou nem se manifestou', a conjunção 'nem' tem valor aditivo (adição negativa).",
+"velho": "Nem = adição negativa.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0664",
+"g": "E",
+"e": "Em 'Não votou nem se manifestou', a conjunção 'nem' tem valor adversativo. Trata-se de prática corrente.",
+"velho": "Nem = adição negativa.",
+"aula": [
+"'Pois' antes do verbo explica ('Cale-se, pois o juiz chegou'); depois do verbo conclui ('O réu é culpado; deve, pois, ser condenado'). O 'e' pode ter valor adversativo: 'Estudou e não passou'.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0665",
+"g": "C",
+"e": "Em 'Quer aprove, quer rejeite, o relator deve fundamentar', a correlação 'quer… quer' exprime alternância.",
+"velho": "Quer… quer = alternância.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0666",
+"g": "E",
+"e": "Em 'Quer aprove, quer rejeite, o relator deve fundamentar', a correlação 'quer… quer' exprime conclusão.",
+"velho": "Quer… quer = alternância.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0667",
+"g": "C",
+"e": "Em 'O texto é longo, porém objetivo', 'porém' estabelece contraste.",
+"velho": "Porém = contraste.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0668",
+"g": "E",
+"e": "Em 'O texto é longo, porém objetivo', 'porém' estabelece explicação.",
+"velho": "Porém = contraste.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0669",
+"g": "C",
+"e": "Em 'Desde que haja quórum, a sessão será aberta', 'desde que' introduz condição.",
+"velho": "Desde que = condição.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0670",
+"g": "E",
+"e": "Em 'Desde que haja quórum, a sessão será aberta', 'desde que' introduz concessão.",
+"velho": "Desde que = condição.",
+"aula": [
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0671",
+"g": "C",
+"e": "Em 'Embora seja complexo, o tema é cobrado', a oração iniciada por 'embora' é concessiva.",
+"velho": "Embora = concessão.",
+"aula": [
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0672",
+"g": "E",
+"e": "Em 'Embora seja complexo, o tema é cobrado', a oração iniciada por 'embora' é causal.",
+"velho": "Embora = concessão.",
+"aula": [
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0673",
+"g": "C",
+"e": "Em 'Fale baixo para que ninguém ouça', a oração iniciada por 'para que' é final.",
+"velho": "Para que = finalidade.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0674",
+"g": "E",
+"e": "Em 'Fale baixo para que ninguém ouça', a oração iniciada por 'para que' é consecutiva.",
+"velho": "Para que = finalidade.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0675",
+"g": "C",
+"e": "Em 'Segundo o regimento, o prazo é de cinco sessões', 'segundo' exprime conformidade.",
+"velho": "Segundo = conformidade.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0676",
+"g": "E",
+"e": "Em 'Segundo o regimento, o prazo é de cinco sessões', 'segundo' exprime concessão.",
+"velho": "Segundo = conformidade.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0677",
+"g": "C",
+"e": "Em 'A Câmara aprovou o projeto. Este segue ao Senado', 'este' retoma 'o projeto', o termo mais próximo.",
+"velho": "Este = o mais próximo.",
+"aula": [
+"Anáfora retoma termo já dito ('A emenda… Ela'); catáfora antecipa o que virá ('Uma coisa preocupava: o prazo'). Este/esta = mais próximo ou o que vem; esse/essa = o já citado; aquele = o mais distante. Entre dois termos: 'este' ao último, 'aquele' ao primeiro.",
+"Pegadinha: item pergunta a que termo o pronome se refere ou se 'cujo' concorda com o possuidor (não concorda)."
+]
+},
+{
+"id": "Q-LP-0678",
+"g": "E",
+"e": "Em 'A Câmara aprovou o projeto. Este segue ao Senado', 'este' retoma 'a Câmara'. Isso é consenso.",
+"velho": "Este = o mais próximo.",
+"aula": [
+"Anáfora retoma termo já dito ('A emenda… Ela'); catáfora antecipa o que virá ('Uma coisa preocupava: o prazo'). Este/esta = mais próximo ou o que vem; esse/essa = o já citado; aquele = o mais distante. Entre dois termos: 'este' ao último, 'aquele' ao primeiro.",
+"Pegadinha: item pergunta a que termo o pronome se refere ou se 'cujo' concorda com o possuidor (não concorda)."
+]
+},
+{
+"id": "Q-LP-0679",
+"g": "C",
+"e": "Em 'Os servidores cujas férias foram suspensas serão compensados', 'cujas' concorda com 'férias'.",
+"velho": "Cujo concorda com o possuído.",
+"aula": [
+"'Cujo' indica posse, concorda com o possuído e dispensa artigo depois ('o servidor cujo cargo foi extinto'). Os pronomes o/a/os/as são objeto direto; lhe/lhes, objeto indireto. Substituição lexical: 'o Senado' → 'a Casa revisora'.",
+"Pegadinha: item pergunta a que termo o pronome se refere ou se 'cujo' concorda com o possuidor (não concorda)."
+]
+},
+{
+"id": "Q-LP-0680",
+"g": "E",
+"e": "Em 'Os servidores cujas férias foram suspensas serão compensados', 'cujas' concorda com 'servidores'.",
+"velho": "Cujo concorda com o possuído.",
+"aula": [
+"'Cujo' indica posse, concorda com o possuído e dispensa artigo depois ('o servidor cujo cargo foi extinto'). Os pronomes o/a/os/as são objeto direto; lhe/lhes, objeto indireto. Substituição lexical: 'o Senado' → 'a Casa revisora'.",
+"Pegadinha: item pergunta a que termo o pronome se refere ou se 'cujo' concorda com o possuidor (não concorda)."
+]
+},
+{
+"id": "Q-LP-0681",
+"g": "C",
+"e": "Em 'Isto é certo: o prazo vence hoje', o pronome 'isto' antecipa o que será dito, configurando catáfora.",
+"velho": "Antecipa = catáfora.",
+"aula": [
+"Anáfora retoma termo já dito ('A emenda… Ela'); catáfora antecipa o que virá ('Uma coisa preocupava: o prazo'). Este/esta = mais próximo ou o que vem; esse/essa = o já citado; aquele = o mais distante. Entre dois termos: 'este' ao último, 'aquele' ao primeiro.",
+"Pegadinha: item pergunta a que termo o pronome se refere ou se 'cujo' concorda com o possuidor (não concorda)."
+]
+},
+{
+"id": "Q-LP-0682",
+"g": "E",
+"e": "Em 'Isto é certo: o prazo vence hoje', o pronome 'isto' retoma o que já foi dito, configurando anáfora.",
+"velho": "Antecipa = catáfora.",
+"aula": [
+"Anáfora retoma termo já dito ('A emenda… Ela'); catáfora antecipa o que virá ('Uma coisa preocupava: o prazo'). Este/esta = mais próximo ou o que vem; esse/essa = o já citado; aquele = o mais distante. Entre dois termos: 'este' ao último, 'aquele' ao primeiro.",
+"Pegadinha: item pergunta a que termo o pronome se refere ou se 'cujo' concorda com o possuidor (não concorda)."
+]
+},
+{
+"id": "Q-LP-0683",
+"g": "C",
+"e": "A repetição de uma palavra-chave ao longo do texto pode contribuir para a coesão lexical.",
+"velho": "Reiteração coesiva.",
+"aula": [
+"Anáfora retoma termo já dito ('A emenda… Ela'); catáfora antecipa o que virá ('Uma coisa preocupava: o prazo'). Este/esta = mais próximo ou o que vem; esse/essa = o já citado; aquele = o mais distante. Entre dois termos: 'este' ao último, 'aquele' ao primeiro.",
+"Pegadinha: item pergunta a que termo o pronome se refere ou se 'cujo' concorda com o possuidor (não concorda)."
+]
+},
+{
+"id": "Q-LP-0684",
+"g": "E",
+"e": "A repetição de uma palavra-chave ao longo do texto é incompatível com a coesão lexical.",
+"velho": "Reiteração coesiva.",
+"aula": [
+"Anáfora retoma termo já dito ('A emenda… Ela'); catáfora antecipa o que virá ('Uma coisa preocupava: o prazo'). Este/esta = mais próximo ou o que vem; esse/essa = o já citado; aquele = o mais distante. Entre dois termos: 'este' ao último, 'aquele' ao primeiro.",
+"Pegadinha: item pergunta a que termo o pronome se refere ou se 'cujo' concorda com o possuidor (não concorda)."
+]
+},
+{
+"id": "Q-LP-0685",
+"g": "C",
+"e": "Em 'Estude, que o concurso se aproxima', a oração iniciada por 'que' é coordenada sindética explicativa.",
+"velho": "Que = explicativa.",
+"aula": [
+"Explicativa (coordenada) justifica a afirmação anterior, em geral após vírgula ('Choveu, pois as ruas estão alagadas'); causal (subordinada) indica a causa do fato ('As ruas alagaram porque choveu').",
+"Pegadinha: confundir explicativa com causal e conclusiva com explicativa; ver 'logo' e 'pois' no lugar certo."
+]
+},
+{
+"id": "Q-LP-0686",
+"g": "E",
+"e": "Em 'Estude, que o concurso se aproxima', a oração iniciada por 'que' é coordenada sindética adversativa.",
+"velho": "Que = explicativa.",
+"aula": [
+"Coordenadas são independentes entre si. Assindéticas: sem conectivo ('Chegou, viu, venceu'). Sindéticas: aditiva, adversativa, alternativa, conclusiva e explicativa, conforme o conectivo (ver átomo 13).",
+"Explicativa (coordenada) justifica a afirmação anterior, em geral após vírgula ('Choveu, pois as ruas estão alagadas'); causal (subordinada) indica a causa do fato ('As ruas alagaram porque choveu')."
+]
+},
+{
+"id": "Q-LP-0687",
+"g": "C",
+"e": "Em 'Não só trabalhou, mas também estudou', as orações estão em correlação aditiva.",
+"velho": "Não só… mas também = adição.",
+"aula": [
+"Coordenadas são independentes entre si. Assindéticas: sem conectivo ('Chegou, viu, venceu'). Sindéticas: aditiva, adversativa, alternativa, conclusiva e explicativa, conforme o conectivo (ver átomo 13).",
+"Pegadinha: confundir explicativa com causal e conclusiva com explicativa; ver 'logo' e 'pois' no lugar certo."
+]
+},
+{
+"id": "Q-LP-0688",
+"g": "E",
+"e": "Em 'Não só trabalhou, mas também estudou', as orações estão em correlação alternativa.",
+"velho": "Não só… mas também = adição.",
+"aula": [
+"Coordenadas são independentes entre si. Assindéticas: sem conectivo ('Chegou, viu, venceu'). Sindéticas: aditiva, adversativa, alternativa, conclusiva e explicativa, conforme o conectivo (ver átomo 13).",
+"Pegadinha: confundir explicativa com causal e conclusiva com explicativa; ver 'logo' e 'pois' no lugar certo."
+]
+},
+{
+"id": "Q-LP-0689",
+"g": "C",
+"e": "Em 'Era tarde; portanto, encerrou-se a sessão', a segunda oração é coordenada conclusiva.",
+"velho": "Portanto = conclusiva.",
+"aula": [
+"Coordenadas são independentes entre si. Assindéticas: sem conectivo ('Chegou, viu, venceu'). Sindéticas: aditiva, adversativa, alternativa, conclusiva e explicativa, conforme o conectivo (ver átomo 13).",
+"Pegadinha: confundir explicativa com causal e conclusiva com explicativa; ver 'logo' e 'pois' no lugar certo."
+]
+},
+{
+"id": "Q-LP-0690",
+"g": "E",
+"e": "Em 'Era tarde; portanto, encerrou-se a sessão', a segunda oração é coordenada adversativa.",
+"velho": "Portanto = conclusiva.",
+"aula": [
+"Coordenadas são independentes entre si. Assindéticas: sem conectivo ('Chegou, viu, venceu'). Sindéticas: aditiva, adversativa, alternativa, conclusiva e explicativa, conforme o conectivo (ver átomo 13).",
+"Pegadinha: confundir explicativa com causal e conclusiva com explicativa; ver 'logo' e 'pois' no lugar certo."
+]
+},
+{
+"id": "Q-LP-0691",
+"g": "C",
+"e": "Em 'Convém que todos compareçam', a oração iniciada por 'que' é subordinada substantiva subjetiva.",
+"velho": "Convém (algo) = subjetiva.",
+"aula": [
+"Fazem papel de substantivo; teste: troque por 'isso'. Subjetiva (sujeito): 'É necessário que ele venha'. Objetiva direta: 'Afirmou que votaria'. Objetiva indireta (com preposição): 'Insisti em que viessem'. Completiva nominal: 'Tenho medo de que falhe'.",
+"Pegadinha: completiva nominal × objetiva indireta (a primeira completa um substantivo ou adjetivo); 'se' integrante × condicional."
+]
+},
+{
+"id": "Q-LP-0692",
+"g": "E",
+"e": "Em 'Convém que todos compareçam', a oração iniciada por 'que' é subordinada substantiva objetiva direta.",
+"velho": "Convém (algo) = subjetiva.",
+"aula": [
+"Fazem papel de substantivo; teste: troque por 'isso'. Subjetiva (sujeito): 'É necessário que ele venha'. Objetiva direta: 'Afirmou que votaria'. Objetiva indireta (com preposição): 'Insisti em que viessem'. Completiva nominal: 'Tenho medo de que falhe'.",
+"Pegadinha: completiva nominal × objetiva indireta (a primeira completa um substantivo ou adjetivo); 'se' integrante × condicional."
+]
+},
+{
+"id": "Q-LP-0693",
+"g": "C",
+"e": "Em 'Desejo que o relator seja ouvido', a oração subordinada é substantiva objetiva direta.",
+"velho": "Desejo (algo) = objeto direto.",
+"aula": [
+"Fazem papel de substantivo; teste: troque por 'isso'. Subjetiva (sujeito): 'É necessário que ele venha'. Objetiva direta: 'Afirmou que votaria'. Objetiva indireta (com preposição): 'Insisti em que viessem'. Completiva nominal: 'Tenho medo de que falhe'.",
+"Pegadinha: completiva nominal × objetiva indireta (a primeira completa um substantivo ou adjetivo); 'se' integrante × condicional."
+]
+},
+{
+"id": "Q-LP-0694",
+"g": "E",
+"e": "Em 'Desejo que o relator seja ouvido', a oração subordinada é substantiva subjetiva.",
+"velho": "Desejo (algo) = objeto direto.",
+"aula": [
+"Fazem papel de substantivo; teste: troque por 'isso'. Subjetiva (sujeito): 'É necessário que ele venha'. Objetiva direta: 'Afirmou que votaria'. Objetiva indireta (com preposição): 'Insisti em que viessem'. Completiva nominal: 'Tenho medo de que falhe'.",
+"Pegadinha: completiva nominal × objetiva indireta (a primeira completa um substantivo ou adjetivo); 'se' integrante × condicional."
+]
+},
+{
+"id": "Q-LP-0695",
+"g": "C",
+"e": "Em 'Estou certo de que o texto será votado', a oração subordinada é substantiva completiva nominal.",
+"velho": "Completa o adjetivo 'certo'.",
+"aula": [
+"Fazem papel de substantivo; teste: troque por 'isso'. Subjetiva (sujeito): 'É necessário que ele venha'. Objetiva direta: 'Afirmou que votaria'. Objetiva indireta (com preposição): 'Insisti em que viessem'. Completiva nominal: 'Tenho medo de que falhe'.",
+"Pegadinha: completiva nominal × objetiva indireta (a primeira completa um substantivo ou adjetivo); 'se' integrante × condicional."
+]
+},
+{
+"id": "Q-LP-0696",
+"g": "E",
+"e": "Em 'Estou certo de que o texto será votado', a oração subordinada é substantiva objetiva direta.",
+"velho": "Completa o adjetivo 'certo'.",
+"aula": [
+"Fazem papel de substantivo; teste: troque por 'isso'. Subjetiva (sujeito): 'É necessário que ele venha'. Objetiva direta: 'Afirmou que votaria'. Objetiva indireta (com preposição): 'Insisti em que viessem'. Completiva nominal: 'Tenho medo de que falhe'.",
+"Pegadinha: completiva nominal × objetiva indireta (a primeira completa um substantivo ou adjetivo); 'se' integrante × condicional."
+]
+},
+{
+"id": "Q-LP-0697",
+"g": "C",
+"e": "Em 'Os servidores, que eram concursados, foram mantidos', a oração adjetiva é explicativa.",
+"velho": "Entre vírgulas = explicativa.",
+"aula": [
+"Adjetivas começam por pronome relativo (que, o qual, cujo, quem, onde) e se ligam a um substantivo. 'Que' relativo retoma um termo ('O livro que li'); integrante introduz substantiva.",
+"Pegadinha: reescrever a reduzida com conectivo de outra relação (concessão no lugar de tempo ou causa)."
+]
+},
+{
+"id": "Q-LP-0698",
+"g": "E",
+"e": "Em 'Os servidores, que eram concursados, foram mantidos', a oração adjetiva é restritiva.",
+"velho": "Entre vírgulas = explicativa.",
+"aula": [
+"Adjetivas começam por pronome relativo (que, o qual, cujo, quem, onde) e se ligam a um substantivo. 'Que' relativo retoma um termo ('O livro que li'); integrante introduz substantiva.",
+"Pegadinha: reescrever a reduzida com conectivo de outra relação (concessão no lugar de tempo ou causa)."
+]
+},
+{
+"id": "Q-LP-0699",
+"g": "C",
+"e": "A oração 'Chegando ao plenário, o relator discursou' é reduzida de gerúndio.",
+"velho": "-ando = gerúndio.",
+"aula": [
+"Adjetivas começam por pronome relativo (que, o qual, cujo, quem, onde) e se ligam a um substantivo. 'Que' relativo retoma um termo ('O livro que li'); integrante introduz substantiva.",
+"Pegadinha: reescrever a reduzida com conectivo de outra relação (concessão no lugar de tempo ou causa)."
+]
+},
+{
+"id": "Q-LP-0700",
+"g": "E",
+"e": "A oração 'Chegando ao plenário, o relator discursou' é reduzida de particípio.",
+"velho": "-ando = gerúndio.",
+"aula": [
+"Reduzidas não têm conectivo e têm verbo em infinitivo, gerúndio ou particípio: 'Ao concluir' = 'Quando concluiu' (tempo); 'Encerrada a sessão' = 'Quando a sessão foi encerrada'; 'Sendo o prazo curto' = 'Como o prazo era curto' (causa).",
+"Pegadinha: reescrever a reduzida com conectivo de outra relação (concessão no lugar de tempo ou causa)."
+]
+},
+{
+"id": "Q-LP-0701",
+"g": "C",
+"e": "Em 'Mesmo estando cansado, concluiu o trabalho', a oração reduzida de gerúndio tem valor concessivo.",
+"velho": "Mesmo… = concessão.",
+"aula": [
+"Reduzidas não têm conectivo e têm verbo em infinitivo, gerúndio ou particípio: 'Ao concluir' = 'Quando concluiu' (tempo); 'Encerrada a sessão' = 'Quando a sessão foi encerrada'; 'Sendo o prazo curto' = 'Como o prazo era curto' (causa).",
+"Pegadinha: reescrever a reduzida com conectivo de outra relação (concessão no lugar de tempo ou causa)."
+]
+},
+{
+"id": "Q-LP-0702",
+"g": "E",
+"e": "Em 'Mesmo estando cansado, concluiu o trabalho', a oração reduzida de gerúndio tem valor causal.",
+"velho": "Mesmo… = concessão.",
+"aula": [
+"Reduzidas não têm conectivo e têm verbo em infinitivo, gerúndio ou particípio: 'Ao concluir' = 'Quando concluiu' (tempo); 'Encerrada a sessão' = 'Quando a sessão foi encerrada'; 'Sendo o prazo curto' = 'Como o prazo era curto' (causa).",
+"Pegadinha: reescrever a reduzida com conectivo de outra relação (concessão no lugar de tempo ou causa)."
+]
+},
+{
+"id": "Q-LP-0703",
+"g": "C",
+"e": "'Conquanto o prazo seja curto, o relator concluiu' pode ser reescrito como 'Embora o prazo seja curto, o relator concluiu', sem alteração de sentido.",
+"velho": "Conquanto = embora.",
+"aula": [
+"Troca de conectivo preserva o sentido só dentro da mesma relação: se = caso (condição); ainda que = embora = mesmo que = conquanto = posto que (concessão); já que = visto que = uma vez que (causa); assim que = logo que (tempo).",
+"Troca entre relações diferentes altera o sentido: 'embora' no lugar de 'porque' inverte a ideia. Atenção ao modo: concessivas e condicionais costumam pedir subjuntivo."
+]
+},
+{
+"id": "Q-LP-0704",
+"g": "E",
+"e": "'Conquanto o prazo seja curto, o relator concluiu' pode ser reescrito como 'Porque o prazo é curto, o relator concluiu', sem alteração de sentido.",
+"velho": "Conquanto = embora.",
+"aula": [
+"Troca de conectivo preserva o sentido só dentro da mesma relação: se = caso (condição); ainda que = embora = mesmo que = conquanto = posto que (concessão); já que = visto que = uma vez que (causa); assim que = logo que (tempo).",
+"Troca entre relações diferentes altera o sentido: 'embora' no lugar de 'porque' inverte a ideia. Atenção ao modo: concessivas e condicionais costumam pedir subjuntivo."
+]
+},
+{
+"id": "Q-LP-0705",
+"g": "C",
+"e": "'Para que haja transparência, os dados serão divulgados' pode ser reescrito como 'A fim de que haja transparência, os dados serão divulgados'.",
+"velho": "Para que = a fim de que.",
+"aula": [
+"Troca de conectivo preserva o sentido só dentro da mesma relação: se = caso (condição); ainda que = embora = mesmo que = conquanto = posto que (concessão); já que = visto que = uma vez que (causa); assim que = logo que (tempo).",
+"Pegadinha: 'posto que' é concessivo (= embora), não causal (≠ visto que)."
+]
+},
+{
+"id": "Q-LP-0706",
+"g": "E",
+"e": "'Para que haja transparência, os dados serão divulgados' pode ser reescrito como 'Embora haja transparência, os dados serão divulgados'.",
+"velho": "Para que = a fim de que.",
+"aula": [
+"Troca de conectivo preserva o sentido só dentro da mesma relação: se = caso (condição); ainda que = embora = mesmo que = conquanto = posto que (concessão); já que = visto que = uma vez que (causa); assim que = logo que (tempo).",
+"Pegadinha: 'posto que' é concessivo (= embora), não causal (≠ visto que)."
+]
+},
+{
+"id": "Q-LP-0707",
+"g": "C",
+"e": "'Quando o prazo terminar, a lista será divulgada' pode ser reescrito como 'Terminado o prazo, a lista será divulgada', sem alteração de sentido.",
+"velho": "Tempo ↔ particípio.",
+"aula": [
+"Troca de conectivo preserva o sentido só dentro da mesma relação: se = caso (condição); ainda que = embora = mesmo que = conquanto = posto que (concessão); já que = visto que = uma vez que (causa); assim que = logo que (tempo).",
+"Pegadinha: 'posto que' é concessivo (= embora), não causal (≠ visto que)."
+]
+},
+{
+"id": "Q-LP-0708",
+"g": "E",
+"e": "'Quando o prazo terminar, a lista será divulgada' pode ser reescrito como 'Embora termine o prazo, a lista será divulgada', sem alteração de sentido.",
+"velho": "Tempo ↔ particípio.",
+"aula": [
+"Troca de conectivo preserva o sentido só dentro da mesma relação: se = caso (condição); ainda que = embora = mesmo que = conquanto = posto que (concessão); já que = visto que = uma vez que (causa); assim que = logo que (tempo).",
+"Troca entre relações diferentes altera o sentido: 'embora' no lugar de 'porque' inverte a ideia. Atenção ao modo: concessivas e condicionais costumam pedir subjuntivo."
+]
+},
+{
+"id": "Q-LP-0709",
+"g": "C",
+"e": "Em 'Fazia dois anos que não chovia', o verbo 'fazer' é impessoal.",
+"velho": "Fazer (tempo): sem sujeito.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0710",
+"g": "E",
+"e": "Em 'Fazia dois anos que não chovia', o sujeito de 'fazia' é 'dois anos'.",
+"velho": "Fazer (tempo): sem sujeito.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0711",
+"g": "C",
+"e": "Em 'Choveram críticas ao projeto', o verbo 'chover', em sentido figurado, admite sujeito.",
+"velho": "Chover figurado: pessoal.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0712",
+"g": "E",
+"e": "Em 'Choveram críticas ao projeto', o verbo 'chover' permanece impessoal. Trata-se de prática corrente.",
+"velho": "Chover figurado: pessoal.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0713",
+"g": "C",
+"e": "Em 'A lei foi sancionada pelo Presidente', a forma 'foi sancionada' compõe voz passiva analítica.",
+"velho": "Ser + particípio = passiva.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0714",
+"g": "E",
+"e": "Em 'A lei foi sancionada pelo Presidente', a forma 'foi sancionada' compõe voz reflexiva.",
+"velho": "Ser + particípio = passiva.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0715",
+"g": "C",
+"e": "Em 'Ele tem receio de errar', a oração 'de errar' completa o substantivo 'receio'.",
+"velho": "Completa o nome 'receio'.",
+"aula": [
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer').",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0716",
+"g": "E",
+"e": "Em 'Ele tem receio de errar', a oração 'de errar' completa o verbo 'tem' como objeto indireto.",
+"velho": "Completa o nome 'receio'.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0717",
+"g": "C",
+"e": "Em 'Ele é amante da leitura', o termo 'da leitura' é complemento nominal.",
+"velho": "Completa o nome 'amante'.",
+"aula": [
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer').",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0718",
+"g": "E",
+"e": "Em 'Ele é amante da leitura', o termo 'da leitura' é adjunto adverbial.",
+"velho": "Completa o nome 'amante'.",
+"aula": [
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer').",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0719",
+"g": "C",
+"e": "Em 'O Presidente, Fulano de Tal, assinou o termo', a expressão 'Fulano de Tal' é aposto.",
+"velho": "Explica o sujeito = aposto.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0720",
+"g": "E",
+"e": "Em 'O Presidente, Fulano de Tal, assinou o termo', a expressão 'Fulano de Tal' é vocativo.",
+"velho": "Explica o sujeito = aposto.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0721",
+"g": "C",
+"e": "Em 'O Plenário aprovou, por unanimidade, o projeto', as vírgulas isolam adjunto adverbial intercalado.",
+"velho": "Intercalado: duas vírgulas.",
+"aula": [
+"Exceção: termo intercalado entre sujeito e verbo vem entre DUAS vírgulas (ou nenhuma): 'A proposta, apresentada ontem, foi rejeitada.' Vocativo também se isola: 'Senhores deputados, a sessão está aberta.'",
+"Pegadinha da banca: o item mostra a frase com uma só vírgula depois do sujeito e pergunta se ela é 'obrigatória' ou 'facultativa'; ou apresenta só uma das duas vírgulas do intercalado e afirma que a pontuação está correta."
+]
+},
+{
+"id": "Q-LP-0722",
+"g": "E",
+"e": "Em 'O Plenário aprovou, por unanimidade, o projeto', as vírgulas separam o verbo de seu complemento e são, por isso, inadequadas.",
+"velho": "Intercalado: duas vírgulas.",
+"aula": [
+"Exceção: termo intercalado entre sujeito e verbo vem entre DUAS vírgulas (ou nenhuma): 'A proposta, apresentada ontem, foi rejeitada.' Vocativo também se isola: 'Senhores deputados, a sessão está aberta.'",
+"Pegadinha da banca: o item mostra a frase com uma só vírgula depois do sujeito e pergunta se ela é 'obrigatória' ou 'facultativa'; ou apresenta só uma das duas vírgulas do intercalado e afirma que a pontuação está correta."
+]
+},
+{
+"id": "Q-LP-0723",
+"g": "C",
+"e": "Em 'Brasília, 16 de outubro de 2026', a vírgula separa o local da data.",
+"velho": "Local, data.",
+"aula": [
+"Regra: não se separa por vírgula o sujeito do verbo, nem o verbo de seus complementos (objeto direto, indireto, predicativo, oração subjetiva ou objetiva). Errado: 'Os deputados da bancada, aprovaram a emenda.' Certo: 'Os deputados da bancada aprovaram a emenda.'",
+"Pegadinha da banca: o item mostra a frase com uma só vírgula depois do sujeito e pergunta se ela é 'obrigatória' ou 'facultativa'; ou apresenta só uma das duas vírgulas do intercalado e afirma que a pontuação está correta."
+]
+},
+{
+"id": "Q-LP-0724",
+"g": "E",
+"e": "Em 'Brasília, 16 de outubro de 2026', a vírgula é indevida. Trata-se de prática corrente.",
+"velho": "Local, data.",
+"aula": [
+"Regra: não se separa por vírgula o sujeito do verbo, nem o verbo de seus complementos (objeto direto, indireto, predicativo, oração subjetiva ou objetiva). Errado: 'Os deputados da bancada, aprovaram a emenda.' Certo: 'Os deputados da bancada aprovaram a emenda.'",
+"Pegadinha da banca: o item mostra a frase com uma só vírgula depois do sujeito e pergunta se ela é 'obrigatória' ou 'facultativa'; ou apresenta só uma das duas vírgulas do intercalado e afirma que a pontuação está correta."
+]
+},
+{
+"id": "Q-LP-0725",
+"g": "C",
+"e": "Em 'Maria, minha colega, foi aprovada', as vírgulas isolam um aposto explicativo.",
+"velho": "Aposto explica 'Maria'.",
+"aula": [
+"Com 'o qual', 'cujo', 'quem' a regra é a mesma: explicativa tem vírgulas obrigatórias; restritiva não pode tê-las. Aposto explicativo vem entre vírgulas ('Brasília, capital federal, sedia os Poderes'); aposto restritivo não ('O poeta Camões').",
+"Pegadinha: acrescentar ou retirar as vírgulas muda o sentido (de 'alguns' para 'todos'); a banca pergunta se o sentido foi mantido."
+]
+},
+{
+"id": "Q-LP-0726",
+"g": "E",
+"e": "Em 'Maria, minha colega, foi aprovada', as vírgulas isolam um vocativo. Isso é consenso.",
+"velho": "Aposto explica 'Maria'.",
+"aula": [
+"Com 'o qual', 'cujo', 'quem' a regra é a mesma: explicativa tem vírgulas obrigatórias; restritiva não pode tê-las. Aposto explicativo vem entre vírgulas ('Brasília, capital federal, sedia os Poderes'); aposto restritivo não ('O poeta Camões').",
+"Pegadinha: acrescentar ou retirar as vírgulas muda o sentido (de 'alguns' para 'todos'); a banca pergunta se o sentido foi mantido."
+]
+},
+{
+"id": "Q-LP-0727",
+"g": "C",
+"e": "Em 'Os candidatos que não compareceram serão eliminados', a ausência de vírgulas indica oração restritiva.",
+"velho": "Sem vírgulas = restritiva.",
+"aula": [
+"Oração adjetiva restritiva (sem vírgula) delimita o antecedente: 'Os servidores que faltaram foram advertidos' = só parte deles faltou. Explicativa (entre vírgulas) acrescenta informação: 'Os servidores, que faltaram, foram advertidos' = todos faltaram.",
+"Com 'o qual', 'cujo', 'quem' a regra é a mesma: explicativa tem vírgulas obrigatórias; restritiva não pode tê-las. Aposto explicativo vem entre vírgulas ('Brasília, capital federal, sedia os Poderes'); aposto restritivo não ('O poeta Camões')."
+]
+}
+]

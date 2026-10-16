@@ -1,0 +1,700 @@
+[
+{
+"id": "Q-TI-0179",
+"g": "C",
+"e": "O antispyware detecta e remove programas espiões instalados sem o conhecimento do usuário, ao passo que o IPS é um sistema que, além de detectar tentativas de intrusão, atua para bloqueá-las.",
+"velho": "Antispyware e IPS.",
+"aula": [
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0180",
+"g": "E",
+"e": "O antispyware cifra os arquivos do usuário para impedir que sejam espionados, ao passo que o IPS é um sistema que apenas registra as tentativas de intrusão, sem atuar para bloqueá-las.",
+"velho": "Antispyware e IPS.",
+"aula": [
+"Autenticação confirma quem é o usuário; autorização define o que ele pode fazer; auditoria registra o que fez.",
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…"
+]
+},
+{
+"id": "Q-TI-0181",
+"g": "C",
+"e": "Ao receber uma mensagem que simula comunicação do banco e solicita atualização cadastral por meio de link, o usuário deve desconfiar, conferir o endereço do site e acessar o banco por um canal oficial, em vez de clicar no link recebido.",
+"velho": "Phishing: logotipo não prova autenticidade.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0182",
+"g": "E",
+"e": "Ao receber uma mensagem que simula comunicação do banco e solicita atualização cadastral por meio de link, o usuário pode clicar no link sem receio se a mensagem apresentar o logotipo do banco, pois isso comprova sua autenticidade.",
+"velho": "Phishing: logotipo não prova autenticidade.",
+"aula": [
+"Ameaças de engenharia social e fraude: phishing (mensagem falsa, por e-mail, SMS ou site, que se passa por instituição confiável para induzir a vítima a fornecer dados ou clicar em links; ataca a pessoa, não a máquina); spear phishing (direcionado a alvo específico); vishing (por voz); smishing (por SMS); pharming (redireciona o usuário a site…",
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…"
+]
+},
+{
+"id": "Q-TI-0183",
+"g": "C",
+"e": "Na criptografia simétrica, a mesma chave é usada para cifrar e para decifrar a mensagem; na assimétrica, utiliza-se um par de chaves, uma pública e outra privada.",
+"velho": "Criptografia.",
+"aula": [
+"Criptografia: simétrica usa a mesma chave para cifrar e decifrar (rápida; desafio é distribuir a chave; ex.: AES); assimétrica usa par de chaves, pública e privada (cifra-se com a pública do destinatário e decifra-se com a privada dele; ex.: RSA).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0184",
+"g": "E",
+"e": "Na criptografia simétrica, utiliza-se um par de chaves, uma pública e outra privada; na assimétrica, a mesma chave é usada para cifrar e para decifrar a mensagem.",
+"velho": "Criptografia.",
+"aula": [
+"Criptografia: simétrica usa a mesma chave para cifrar e decifrar (rápida; desafio é distribuir a chave; ex.: AES); assimétrica usa par de chaves, pública e privada (cifra-se com a pública do destinatário e decifra-se com a privada dele; ex.: RSA).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0185",
+"g": "C",
+"e": "Para que Ana envie a Bruno uma mensagem confidencial usando criptografia assimétrica, ela deve cifrá-la com a chave pública de Bruno, e somente Bruno, com a chave privada correspondente, poderá decifrá-la.",
+"velho": "Confidencialidade: cifra-se com a chave pública do destinatário.",
+"aula": [
+"Criptografia: simétrica usa a mesma chave para cifrar e decifrar (rápida; desafio é distribuir a chave; ex.: AES); assimétrica usa par de chaves, pública e privada (cifra-se com a pública do destinatário e decifra-se com a privada dele; ex.: RSA).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0186",
+"g": "E",
+"e": "Para que Ana envie a Bruno uma mensagem confidencial usando criptografia assimétrica, ela deve cifrá-la com a chave privada dela mesma, e Bruno poderá decifrá-la com a chave pública correspondente.",
+"velho": "Confidencialidade: cifra-se com a chave pública do destinatário.",
+"aula": [
+"Criptografia: simétrica usa a mesma chave para cifrar e decifrar (rápida; desafio é distribuir a chave; ex.: AES); assimétrica usa par de chaves, pública e privada (cifra-se com a pública do destinatário e decifra-se com a privada dele; ex.: RSA).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0187",
+"g": "C",
+"e": "A função de hash gera, a partir de uma entrada, um resumo de tamanho fixo e unidirecional, sendo usada para verificar a integridade de dados, pois a alteração da entrada produz hash diferente.",
+"velho": "Hash.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Hash é função unidirecional que gera um resumo de tamanho fixo e serve para verificar integridade; não é criptografia reversível."
+]
+},
+{
+"id": "Q-TI-0188",
+"g": "E",
+"e": "A função de hash cifra a informação de modo reversível, com uma chave secreta, sendo usada para garantir a confidencialidade dos dados, pois permite recuperar a entrada a partir do resultado.",
+"velho": "Hash.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0189",
+"g": "C",
+"e": "A assinatura digital garante a autenticidade, a integridade e o não repúdio de um documento, mas não assegura, por si só, a confidencialidade do conteúdo, que exige a cifragem do documento.",
+"velho": "Assinatura digital.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0190",
+"g": "E",
+"e": "A assinatura digital garante a confidencialidade do conteúdo de um documento, pois o cifra por completo, e, por isso, dispensa a verificação de integridade e de autoria. Isso é consenso na área.",
+"velho": "Assinatura digital.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0191",
+"g": "C",
+"e": "Na assinatura digital, o remetente cifra o hash do documento com a sua chave privada, e o destinatário verifica a assinatura com a chave pública do remetente.",
+"velho": "Assinatura digital.",
+"aula": [
+"Criptografia: simétrica usa a mesma chave para cifrar e decifrar (rápida; desafio é distribuir a chave; ex.: AES); assimétrica usa par de chaves, pública e privada (cifra-se com a pública do destinatário e decifra-se com a privada dele; ex.: RSA).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0192",
+"g": "E",
+"e": "Na assinatura digital, o remetente cifra o hash do documento com a chave pública do destinatário, e o destinatário verifica a assinatura com a sua própria chave privada.",
+"velho": "Assinatura digital.",
+"aula": [
+"Criptografia: simétrica usa a mesma chave para cifrar e decifrar (rápida; desafio é distribuir a chave; ex.: AES); assimétrica usa par de chaves, pública e privada (cifra-se com a pública do destinatário e decifra-se com a privada dele; ex.: RSA).",
+"Assinatura digital: o remetente gera o hash do documento e o cifra com a sua chave privada; o destinatário confere com a chave pública do remetente, o que garante autenticidade, integridade e não repúdio (não confidencialidade, que exige cifrar o conteúdo)."
+]
+},
+{
+"id": "Q-TI-0193",
+"g": "C",
+"e": "O certificado digital vincula uma chave pública a uma pessoa ou entidade e é emitido por uma autoridade certificadora; no Brasil, a ICP-Brasil é a infraestrutura de chaves públicas oficial.",
+"velho": "Certificado e ICP-Brasil.",
+"aula": [
+"Criptografia: simétrica usa a mesma chave para cifrar e decifrar (rápida; desafio é distribuir a chave; ex.: AES); assimétrica usa par de chaves, pública e privada (cifra-se com a pública do destinatário e decifra-se com a privada dele; ex.: RSA).",
+"Certificado digital vincula uma chave pública a uma identidade, emitido por autoridade certificadora na ICP-Brasil."
+]
+},
+{
+"id": "Q-TI-0194",
+"g": "E",
+"e": "O certificado digital vincula uma chave privada a um endereço IP e é emitido pelo próprio titular, sem necessidade de autoridade certificadora; no Brasil, a ICP-Brasil é infraestrutura exclusiva do setor privado.",
+"velho": "Certificado e ICP-Brasil.",
+"aula": [
+"Certificado digital vincula uma chave pública a uma identidade, emitido por autoridade certificadora na ICP-Brasil.",
+"Certificado digital: o tipo A1 é armazenado como arquivo no computador; o tipo A3 é armazenado em dispositivo criptográfico (token ou cartão), com a chave privada protegida pelo dispositivo."
+]
+},
+{
+"id": "Q-TI-0195",
+"g": "C",
+"e": "O backup completo (full) copia todos os dados selecionados; o incremental copia apenas o que mudou desde o último backup, de qualquer tipo; e o diferencial copia o que mudou desde o último backup completo.",
+"velho": "Tipos de backup.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…"
+]
+},
+{
+"id": "Q-TI-0196",
+"g": "E",
+"e": "O backup completo (full) copia apenas o que mudou desde o último backup; o incremental copia todos os dados selecionados; e o diferencial copia o que mudou desde o último backup incremental. Trata-se de prática corrente.",
+"velho": "Tipos de backup.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…"
+]
+},
+{
+"id": "Q-TI-0197",
+"g": "C",
+"e": "Uma organização faz backup completo aos domingos e backups incrementais nos demais dias. Para restaurar os dados da quinta-feira, serão necessários o último backup completo e todos os incrementais feitos entre ele e quinta-feira.",
+"velho": "Restauração com incrementais.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…"
+]
+},
+{
+"id": "Q-TI-0198",
+"g": "E",
+"e": "Uma organização faz backup completo aos domingos e backups incrementais nos demais dias. Para restaurar os dados da quinta-feira, bastará o backup incremental da própria quinta-feira, sem necessidade do backup completo.",
+"velho": "Restauração com incrementais.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…"
+]
+},
+{
+"id": "Q-TI-0199",
+"g": "C",
+"e": "Uma organização faz backup completo aos domingos e backups diferenciais nos demais dias. Para restaurar os dados da quinta-feira, serão necessários o último backup completo e o diferencial da quinta-feira.",
+"velho": "Restauração com diferencial.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…"
+]
+},
+{
+"id": "Q-TI-0200",
+"g": "E",
+"e": "Uma organização faz backup completo aos domingos e backups diferenciais nos demais dias. Para restaurar os dados da quinta-feira, serão necessários o backup completo e todos os diferenciais de segunda a quinta-feira.",
+"velho": "Restauração com diferencial.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Backup (cópia de segurança): completo (full) copia todos os dados selecionados e zera o marcador de arquivamento; incremental copia só o que mudou desde o último backup de qualquer tipo e zera o marcador (restauração exige o último completo e todos os incrementais); diferencial copia o que mudou desde o último backup completo e não…"
+]
+},
+{
+"id": "Q-TI-0201",
+"g": "C",
+"e": "A regra 3-2-1 recomenda manter três cópias dos dados, em dois tipos diferentes de mídia, com pelo menos uma cópia armazenada fora do local principal.",
+"velho": "Regra 3-2-1.",
+"aula": [
+"Autenticação em dois fatores (2FA/MFA) combina fatores de categorias diferentes; duas senhas não são dois fatores.",
+"Regra 3-2-1: três cópias dos dados, em dois tipos de mídia, com uma delas fora do local."
+]
+},
+{
+"id": "Q-TI-0202",
+"g": "E",
+"e": "A regra 3-2-1 recomenda manter duas cópias dos dados, em três tipos diferentes de mídia, com todas as cópias armazenadas no mesmo local, para facilitar a restauração.",
+"velho": "Regra 3-2-1.",
+"aula": [
+"Autenticação em dois fatores (2FA/MFA) combina fatores de categorias diferentes; duas senhas não são dois fatores.",
+"Regra 3-2-1: três cópias dos dados, em dois tipos de mídia, com uma delas fora do local."
+]
+},
+{
+"id": "Q-TI-0203",
+"g": "C",
+"e": "Os sistemas de redundância de discos, como o RAID, aumentam a disponibilidade em caso de falha de disco, mas não substituem o backup, pois não protegem contra exclusão acidental, corrupção lógica ou ransomware.",
+"velho": "RAID não é backup.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Redundância (RAID) não substitui backup."
+]
+},
+{
+"id": "Q-TI-0204",
+"g": "E",
+"e": "Os sistemas de redundância de discos, como o RAID, substituem o backup, pois protegem os dados contra exclusão acidental, corrupção lógica e ransomware. Trata-se de prática corrente.",
+"velho": "RAID não é backup.",
+"aula": [
+"Malware (software malicioso): vírus (precisa de hospedeiro e de execução do arquivo infectado; replica-se infectando arquivos); worm (verme: propaga-se sozinho pelas redes, explorando vulnerabilidades, sem precisar de hospedeiro nem de ação do usuário; consome recursos e banda); cavalo de troia ou trojan (aparenta ser programa legítimo e traz função maliciosa oculta; não se replica por…",
+"Redundância (RAID) não substitui backup."
+]
+},
+{
+"id": "Q-TI-0205",
+"g": "C",
+"e": "A política de segurança da informação define as regras de uso dos recursos de TI, as responsabilidades dos usuários e as sanções em caso de descumprimento.",
+"velho": "Política de segurança.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Política de segurança da informação define regras de uso, responsabilidades e sanções."
+]
+},
+{
+"id": "Q-TI-0206",
+"g": "E",
+"e": "A política de segurança da informação restringe-se a definir as especificações dos equipamentos de TI, sem tratar de responsabilidades dos usuários ou de sanções.",
+"velho": "Política de segurança.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Política de segurança da informação define regras de uso, responsabilidades e sanções."
+]
+},
+{
+"id": "Q-TI-0207",
+"g": "C",
+"e": "A gestão de riscos de segurança envolve identificar ativos, ameaças e vulnerabilidades, avaliar os riscos e definir tratamentos, e as normas ABNT NBR ISO/IEC 27001 e 27002 tratam, respectivamente, do sistema de gestão e dos controles de segurança da informação.",
+"velho": "ISO 27001/27002.",
+"aula": [
+"Gestão de riscos identifica ativos, ameaças e vulnerabilidades.",
+"A ABNT NBR ISO/IEC 27001 trata de sistemas de gestão de segurança da informação e a 27002, de controles."
+]
+},
+{
+"id": "Q-TI-0208",
+"g": "E",
+"e": "A gestão de riscos de segurança limita-se a instalar antivírus e firewall, e as normas ABNT NBR ISO/IEC 27001 e 27002 tratam, respectivamente, de controles de rede e de gestão de projetos. Tal conclusão decorreria, segundo esse entendimento, das características do fenômeno descrito.",
+"velho": "ISO 27001/27002.",
+"aula": [
+"Programas de proteção: antivírus (detecta, bloqueia e remove malware por assinaturas, heurística e comportamento; precisa de atualização constante; não substitui o backup nem garante proteção total); firewall (filtra o tráfego de rede conforme regras, entre redes ou no próprio equipamento; pode ser de software ou de hardware; não elimina vírus já instalados nem impede que…",
+"A ABNT NBR ISO/IEC 27001 trata de sistemas de gestão de segurança da informação e a 27002, de controles."
+]
+},
+{
+"id": "Q-TI-0209",
+"g": "C",
+"e": "A Lei 14.129/2021 (Lei do Governo Digital) estabelece princípios, regras e instrumentos para a prestação digital dos serviços públicos e para o aumento da eficiência da administração pública por meio da desburocratização e da inovação.",
+"velho": "Governo Digital.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Lei 14.129/2021 (Lei do Governo Digital) dispõe sobre princípios, regras e instrumentos para a prestação digital de serviços públicos."
+]
+},
+{
+"id": "Q-TI-0210",
+"g": "E",
+"e": "A Lei 14.129/2021 (Lei do Governo Digital) trata exclusivamente da proteção de dados pessoais, e não de princípios e instrumentos para a prestação digital de serviços públicos. Isso é consenso na área.",
+"velho": "Governo Digital.",
+"aula": [
+"Princípios da segurança: confidencialidade (informação só a quem está autorizado), integridade (informação não alterada indevidamente), disponibilidade (informação acessível quando necessário), autenticidade (origem e autoria verdadeiras) e não repúdio (o autor não pode negar a autoria; obtido, por exemplo, com assinatura digital).",
+"Lei 14.129/2021 (Lei do Governo Digital) dispõe sobre princípios, regras e instrumentos para a prestação digital de serviços públicos."
+]
+},
+{
+"id": "Q-TI-0211",
+"g": "C",
+"e": "Senhas longas, exclusivas para cada serviço e combinadas com autenticação em mais de um fator reduzem o risco de acesso indevido, e o uso de gerenciador de senhas facilita a adoção dessas práticas.",
+"velho": "Boas práticas de senha.",
+"aula": [
+"Fatores de autenticação: o que se sabe (senha), o que se tem (token, celular) e o que se é (biometria).",
+"Boas práticas: atualizar sistema e aplicativos, usar senhas longas e exclusivas, gerenciador de senhas, não abrir anexos e links suspeitos, conferir o endereço e o certificado (cadeado, HTTPS) dos sites."
+]
+},
+{
+"id": "Q-TI-0212",
+"g": "E",
+"e": "Reutilizar a mesma senha em vários serviços é uma boa prática de segurança, pois reduz o risco de esquecimento e, por isso, torna o acesso indevido menos provável. Trata-se de prática corrente.",
+"velho": "Boas práticas de senha.",
+"aula": [
+"Boas práticas: atualizar sistema e aplicativos, usar senhas longas e exclusivas, gerenciador de senhas, não abrir anexos e links suspeitos, conferir o endereço e o certificado (cadeado, HTTPS) dos sites.",
+"Governança digital: conjunto de práticas para que as tecnologias de informação sejam usadas com transparência, segurança, eficiência e foco no cidadão."
+]
+},
+{
+"id": "Q-TI-0213",
+"g": "C",
+"e": "O aprendizado profundo (deep learning) é um subconjunto do aprendizado de máquina que emprega redes neurais com muitas camadas, e o aprendizado de máquina, por sua vez, é um subcampo da inteligência artificial.",
+"velho": "Relação IA, ML e DL.",
+"aula": [
+"Inteligência artificial (IA) é o campo que busca fazer sistemas computacionais realizarem tarefas que normalmente exigem inteligência humana, como perceber, aprender, raciocinar e gerar linguagem.",
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina."
+]
+},
+{
+"id": "Q-TI-0214",
+"g": "E",
+"e": "O aprendizado de máquina é um subconjunto do aprendizado profundo, que emprega redes neurais com muitas camadas, e o aprendizado profundo, por sua vez, é o campo mais amplo da inteligência artificial.",
+"velho": "Relação IA, ML e DL.",
+"aula": [
+"Inteligência artificial (IA) é o campo que busca fazer sistemas computacionais realizarem tarefas que normalmente exigem inteligência humana, como perceber, aprender, raciocinar e gerar linguagem.",
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina."
+]
+},
+{
+"id": "Q-TI-0215",
+"g": "C",
+"e": "No aprendizado supervisionado, o modelo é treinado com dados rotulados, isto é, com a resposta correta conhecida para cada exemplo; no não supervisionado, os dados não possuem rótulos e o modelo busca estruturas neles.",
+"velho": "Supervisionado x não supervisionado.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Aprendizado não supervisionado: usa dados sem rótulos e busca estrutura, como agrupamento (clustering), redução de dimensionalidade e detecção de anomalias."
+]
+},
+{
+"id": "Q-TI-0216",
+"g": "E",
+"e": "No aprendizado supervisionado, os dados de treinamento não possuem rótulos e o modelo busca estruturas neles; no não supervisionado, o modelo é treinado com dados rotulados, com a resposta correta conhecida para cada exemplo.",
+"velho": "Supervisionado x não supervisionado.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Aprendizado não supervisionado: usa dados sem rótulos e busca estrutura, como agrupamento (clustering), redução de dimensionalidade e detecção de anomalias."
+]
+},
+{
+"id": "Q-TI-0217",
+"g": "C",
+"e": "A classificação, que prevê categorias (como spam ou não spam), e a regressão, que prevê valores numéricos (como o preço de um imóvel), são tarefas típicas do aprendizado supervisionado.",
+"velho": "Classificação e regressão.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Tarefas: classificação (prever categoria, como spam ou não spam) e regressão (prever valor numérico, como preço)."
+]
+},
+{
+"id": "Q-TI-0218",
+"g": "E",
+"e": "A classificação, que prevê valores numéricos (como o preço de um imóvel), e a regressão, que prevê categorias (como spam ou não spam), são tarefas típicas do aprendizado não supervisionado.",
+"velho": "Classificação e regressão.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Tarefas: classificação (prever categoria, como spam ou não spam) e regressão (prever valor numérico, como preço)."
+]
+},
+{
+"id": "Q-TI-0219",
+"g": "C",
+"e": "O agrupamento (clustering), que organiza dados em grupos de acordo com a semelhança, sem categorias previamente definidas, é exemplo de aprendizado não supervisionado.",
+"velho": "Clustering.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Aprendizado não supervisionado: usa dados sem rótulos e busca estrutura, como agrupamento (clustering), redução de dimensionalidade e detecção de anomalias."
+]
+},
+{
+"id": "Q-TI-0220",
+"g": "E",
+"e": "O agrupamento (clustering), que organiza dados em grupos de acordo com a semelhança, exige categorias previamente rotuladas para cada exemplo e é exemplo de aprendizado supervisionado.",
+"velho": "Clustering.",
+"aula": [
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina.",
+"Aprendizado não supervisionado: usa dados sem rótulos e busca estrutura, como agrupamento (clustering), redução de dimensionalidade e detecção de anomalias."
+]
+},
+{
+"id": "Q-TI-0221",
+"g": "C",
+"e": "No aprendizado por reforço, um agente interage com um ambiente, recebe recompensas ou penalidades por suas ações e aprende uma política que maximiza a recompensa acumulada.",
+"velho": "Aprendizado por reforço.",
+"aula": [
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina.",
+"Aprendizado por reforço: um agente interage com um ambiente, recebe recompensas ou penalidades e aprende uma política que maximiza a recompensa acumulada (ex.: jogos, robótica)."
+]
+},
+{
+"id": "Q-TI-0222",
+"g": "E",
+"e": "No aprendizado por reforço, o modelo é treinado com dados rotulados que trazem a resposta correta para cada exemplo, sem interação com ambiente e sem recompensas ou penalidades.",
+"velho": "Aprendizado por reforço.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Aprendizado por reforço: um agente interage com um ambiente, recebe recompensas ou penalidades e aprende uma política que maximiza a recompensa acumulada (ex.: jogos, robótica)."
+]
+},
+{
+"id": "Q-TI-0223",
+"g": "C",
+"e": "Um órgão treina um modelo com milhares de e-mails já marcados por especialistas como spam ou não spam, para classificar novas mensagens. Trata-se de aprendizado supervisionado.",
+"velho": "Dados rotulados → supervisionado.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Aprendizado não supervisionado: usa dados sem rótulos e busca estrutura, como agrupamento (clustering), redução de dimensionalidade e detecção de anomalias."
+]
+},
+{
+"id": "Q-TI-0224",
+"g": "E",
+"e": "Um órgão treina um modelo com milhares de e-mails já marcados por especialistas como spam ou não spam, para classificar novas mensagens. Trata-se de aprendizado não supervisionado.",
+"velho": "Dados rotulados → supervisionado.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Aprendizado não supervisionado: usa dados sem rótulos e busca estrutura, como agrupamento (clustering), redução de dimensionalidade e detecção de anomalias."
+]
+},
+{
+"id": "Q-TI-0225",
+"g": "C",
+"e": "Uma instituição aplica um algoritmo a milhares de documentos sem rótulos prévios para descobrir grupos de textos com temas semelhantes. Trata-se de aprendizado não supervisionado.",
+"velho": "Sem rótulos → não supervisionado.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Aprendizado não supervisionado: usa dados sem rótulos e busca estrutura, como agrupamento (clustering), redução de dimensionalidade e detecção de anomalias."
+]
+},
+{
+"id": "Q-TI-0226",
+"g": "E",
+"e": "Uma instituição aplica um algoritmo a milhares de documentos sem rótulos prévios para descobrir grupos de textos com temas semelhantes. Trata-se de aprendizado supervisionado.",
+"velho": "Sem rótulos → não supervisionado.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Aprendizado não supervisionado: usa dados sem rótulos e busca estrutura, como agrupamento (clustering), redução de dimensionalidade e detecção de anomalias."
+]
+},
+{
+"id": "Q-TI-0227",
+"g": "C",
+"e": "Um robô aprende a percorrer um labirinto por tentativa e erro, recebendo pontos positivos quando se aproxima da saída e negativos quando colide com paredes. Trata-se de aprendizado por reforço.",
+"velho": "Recompensa e penalidade → reforço.",
+"aula": [
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina.",
+"Aprendizado por reforço: um agente interage com um ambiente, recebe recompensas ou penalidades e aprende uma política que maximiza a recompensa acumulada (ex.: jogos, robótica)."
+]
+},
+{
+"id": "Q-TI-0228",
+"g": "E",
+"e": "Um robô aprende a percorrer um labirinto por tentativa e erro, recebendo pontos positivos quando se aproxima da saída e negativos quando colide com paredes. Trata-se de aprendizado supervisionado.",
+"velho": "Recompensa e penalidade → reforço.",
+"aula": [
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina.",
+"Aprendizado por reforço: um agente interage com um ambiente, recebe recompensas ou penalidades e aprende uma política que maximiza a recompensa acumulada (ex.: jogos, robótica)."
+]
+},
+{
+"id": "Q-TI-0229",
+"g": "C",
+"e": "O sobreajuste (overfitting) ocorre quando o modelo se ajusta tanto aos dados de treinamento que perde capacidade de generalização, apresentando desempenho pior em dados novos.",
+"velho": "Overfitting x underfitting.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão."
+]
+},
+{
+"id": "Q-TI-0230",
+"g": "E",
+"e": "O sobreajuste (overfitting) ocorre quando o modelo é simples demais para captar os padrões dos dados de treinamento, apresentando desempenho ruim tanto nos dados de treinamento quanto em dados novos.",
+"velho": "Overfitting x underfitting.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão."
+]
+},
+{
+"id": "Q-TI-0231",
+"g": "C",
+"e": "Para estimar a capacidade de generalização de um modelo, avalia-se seu desempenho em dados de teste, que não foram usados no treinamento.",
+"velho": "Avaliação em dados de teste.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão."
+]
+},
+{
+"id": "Q-TI-0232",
+"g": "E",
+"e": "Para estimar a capacidade de generalização de um modelo, o método mais confiável consiste em avaliar seu desempenho nos mesmos dados usados no treinamento.",
+"velho": "Avaliação em dados de teste.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão."
+]
+},
+{
+"id": "Q-TI-0233",
+"g": "C",
+"e": "A precisão mede, entre os casos que o modelo previu como positivos, quantos eram de fato positivos, ao passo que a revocação (sensibilidade) mede, entre os casos realmente positivos, quantos o modelo conseguiu identificar.",
+"velho": "Precisão x revocação.",
+"aula": [
+"Métricas: acurácia (proporção de acertos), precisão (entre os positivos previstos, quantos eram positivos) e revocação ou sensibilidade (entre os positivos reais, quantos foram encontrados).",
+"Fine-tuning ajusta o modelo com dados adicionais, ao passo que o prompt apenas orienta o uso do modelo."
+]
+},
+{
+"id": "Q-TI-0234",
+"g": "E",
+"e": "A precisão mede, entre os casos realmente positivos, quantos o modelo conseguiu identificar, ao passo que a revocação (sensibilidade) mede, entre os casos que o modelo previu como positivos, quantos eram de fato positivos.",
+"velho": "Precisão x revocação.",
+"aula": [
+"Métricas: acurácia (proporção de acertos), precisão (entre os positivos previstos, quantos eram positivos) e revocação ou sensibilidade (entre os positivos reais, quantos foram encontrados).",
+"Fine-tuning ajusta o modelo com dados adicionais, ao passo que o prompt apenas orienta o uso do modelo."
+]
+},
+{
+"id": "Q-TI-0235",
+"g": "C",
+"e": "Um classificador identificou 10 documentos como relevantes, dos quais 8 eram de fato relevantes, e deixou de identificar outros 8 documentos relevantes. A precisão é de 80% e a revocação é de 50%.",
+"velho": "Precisão = 8/10; revocação = 8/16.",
+"aula": [
+"Métricas: acurácia (proporção de acertos), precisão (entre os positivos previstos, quantos eram positivos) e revocação ou sensibilidade (entre os positivos reais, quantos foram encontrados).",
+"RAG (geração aumentada por recuperação) busca documentos relevantes em uma base e os fornece ao modelo para fundamentar a resposta e reduzir alucinações."
+]
+},
+{
+"id": "Q-TI-0236",
+"g": "E",
+"e": "Um classificador identificou 10 documentos como relevantes, dos quais 8 eram de fato relevantes, e deixou de identificar outros 8 documentos relevantes. A precisão é de 50% e a revocação é de 80%.",
+"velho": "Precisão = 8/10; revocação = 8/16.",
+"aula": [
+"Métricas: acurácia (proporção de acertos), precisão (entre os positivos previstos, quantos eram positivos) e revocação ou sensibilidade (entre os positivos reais, quantos foram encontrados).",
+"RAG (geração aumentada por recuperação) busca documentos relevantes em uma base e os fornece ao modelo para fundamentar a resposta e reduzir alucinações."
+]
+},
+{
+"id": "Q-TI-0237",
+"g": "C",
+"e": "Dados de treinamento enviesados tendem a produzir modelos que reproduzem ou amplificam esses vieses em seus resultados, razão pela qual a qualidade e a representatividade dos dados são determinantes.",
+"velho": "Viés algorítmico.",
+"aula": [
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão.",
+"Vieses nos dados geram vieses nos resultados."
+]
+},
+{
+"id": "Q-TI-0238",
+"g": "E",
+"e": "Dados de treinamento enviesados não afetam os resultados de um modelo, pois os algoritmos são neutros e corrigem automaticamente qualquer desvio presente nos dados. Isso é consenso na área.",
+"velho": "Viés algorítmico.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão."
+]
+},
+{
+"id": "Q-TI-0239",
+"g": "C",
+"e": "A IA generativa é capaz de produzir conteúdo novo, como textos, imagens, áudio e código, a partir de padrões aprendidos em grandes volumes de dados.",
+"velho": "IA generativa.",
+"aula": [
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina.",
+"IA generativa: modelos que produzem conteúdo novo (texto, imagem, áudio, código, vídeo) a partir de padrões aprendidos."
+]
+},
+{
+"id": "Q-TI-0240",
+"g": "E",
+"e": "A IA generativa limita-se a classificar conteúdos já existentes, sendo incapaz de produzir textos, imagens, áudio ou código novos a partir de padrões aprendidos.",
+"velho": "IA generativa.",
+"aula": [
+"Aprendizado de máquina (machine learning) é o subcampo em que o sistema aprende padrões a partir de dados, sem ser explicitamente programado com regras para cada caso; aprendizado profundo (deep learning) usa redes neurais com muitas camadas, sendo um subconjunto do aprendizado de máquina.",
+"IA generativa: modelos que produzem conteúdo novo (texto, imagem, áudio, código, vídeo) a partir de padrões aprendidos."
+]
+},
+{
+"id": "Q-TI-0241",
+"g": "C",
+"e": "Os modelos de linguagem de grande porte (LLM) são treinados com grandes volumes de texto para prever o próximo token, o que lhes permite gerar respostas coerentes, mas não necessariamente verdadeiras.",
+"velho": "LLM.",
+"aula": [
+"Aprendizado semissupervisionado combina poucos dados rotulados com muitos sem rótulo; autossupervisionado gera os rótulos a partir dos próprios dados (base dos grandes modelos de linguagem).",
+"Modelos de linguagem de grande porte (LLM) são treinados em grandes volumes de texto para prever o próximo token (unidade de texto, que pode ser parte de palavra); a arquitetura dominante é o transformer."
+]
+},
+{
+"id": "Q-TI-0242",
+"g": "E",
+"e": "Os modelos de linguagem de grande porte (LLM) consultam, a cada resposta, uma base de fatos verificados, o que garante que suas respostas sejam sempre verdadeiras. Isso é consenso na área.",
+"velho": "LLM.",
+"aula": [
+"Aprendizado semissupervisionado combina poucos dados rotulados com muitos sem rótulo; autossupervisionado gera os rótulos a partir dos próprios dados (base dos grandes modelos de linguagem).",
+"Modelos de linguagem de grande porte (LLM) são treinados em grandes volumes de texto para prever o próximo token (unidade de texto, que pode ser parte de palavra); a arquitetura dominante é o transformer."
+]
+},
+{
+"id": "Q-TI-0243",
+"g": "C",
+"e": "A alucinação ocorre quando um modelo generativo produz informação falsa ou inventada, como citações e referências inexistentes, apresentada com aparência de segurança.",
+"velho": "Alucinação.",
+"aula": [
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão.",
+"Resultam em respostas prováveis, não necessariamente verdadeiras: podem produzir alucinações, isto é, informações falsas ou inventadas apresentadas com aparência de segurança, inclusive referências inexistentes."
+]
+},
+{
+"id": "Q-TI-0244",
+"g": "E",
+"e": "A alucinação ocorre quando o equipamento em que o modelo funciona apresenta falha de hardware, o que interrompe a geração de respostas e impede a produção de informação falsa.",
+"velho": "Alucinação.",
+"aula": [
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão.",
+"RAG (geração aumentada por recuperação) busca documentos relevantes em uma base e os fornece ao modelo para fundamentar a resposta e reduzir alucinações."
+]
+},
+{
+"id": "Q-TI-0245",
+"g": "C",
+"e": "Em um LLM, o token é a unidade de texto processada pelo modelo, podendo corresponder a uma palavra, a parte de uma palavra ou a um sinal de pontuação.",
+"velho": "Tokens.",
+"aula": [
+"Modelos de linguagem de grande porte (LLM) são treinados em grandes volumes de texto para prever o próximo token (unidade de texto, que pode ser parte de palavra); a arquitetura dominante é o transformer.",
+"Janela de contexto é a quantidade de texto que o modelo considera de uma vez."
+]
+},
+{
+"id": "Q-TI-0246",
+"g": "E",
+"e": "Em um LLM, o token corresponde sempre a uma palavra completa, e um texto tem o mesmo número de tokens e de palavras, qualquer que seja o idioma.",
+"velho": "Tokens.",
+"aula": [
+"Modelos de linguagem de grande porte (LLM) são treinados em grandes volumes de texto para prever o próximo token (unidade de texto, que pode ser parte de palavra); a arquitetura dominante é o transformer."
+]
+},
+{
+"id": "Q-TI-0247",
+"g": "C",
+"e": "A janela de contexto de um LLM corresponde à quantidade de texto (entrada e saída) que o modelo consegue considerar de uma só vez ao gerar uma resposta.",
+"velho": "Janela de contexto.",
+"aula": [
+"Aprendizado supervisionado: treina com dados rotulados (entrada com resposta correta conhecida).",
+"Janela de contexto é a quantidade de texto que o modelo considera de uma vez."
+]
+},
+{
+"id": "Q-TI-0248",
+"g": "E",
+"e": "A janela de contexto de um LLM corresponde ao volume total de dados usado em seu treinamento, e determina o conhecimento acumulado pelo modelo ao longo de toda a sua vida útil.",
+"velho": "Janela de contexto.",
+"aula": [
+"Modelo é o resultado do treinamento; treinamento ajusta parâmetros; inferência é o uso do modelo treinado em dados novos.",
+"Qualidade do aprendizado: dados de treinamento, validação e teste são separados para avaliar a generalização; sobreajuste (overfitting) ocorre quando o modelo memoriza o treino e vai mal em dados novos; subajuste (underfitting), quando é simples demais para captar o padrão."
+]
+}
+]

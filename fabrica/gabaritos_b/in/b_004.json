@@ -1,0 +1,702 @@
+[
+{
+"id": "Q-EN-0066",
+"g": "E",
+"e": "'May I come in?' expresses a prediction.",
+"velho": "May I = posso?",
+"aula": [
+"Must = obrigação ou dedução forte ('He must be tired').",
+"Pegadinha: trocar 'must not' por 'não precisa', ou 'could have' por fato realizado."
+]
+},
+{
+"id": "Q-EN-0067",
+"g": "C",
+"e": "'If you heat ice, it melts' is a zero conditional, expressing a general truth.",
+"velho": "Zero conditional = verdade geral.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0068",
+"g": "E",
+"e": "'If you heat ice, it melts' expresses a hypothetical future. This is correct.",
+"velho": "Zero conditional = verdade geral.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0069",
+"g": "C",
+"e": "'If the bill passes, taxes will rise' presents a real possibility in the future.",
+"velho": "First conditional = possibilidade real.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0070",
+"g": "E",
+"e": "'If the bill passes, taxes will rise' presents an unreal situation in the present.",
+"velho": "First conditional = possibilidade real.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0071",
+"g": "C",
+"e": "'If I were president, I would change the law' presents an unreal situation.",
+"velho": "Second conditional = irreal.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0072",
+"g": "E",
+"e": "'If I were president, I would change the law' presents a real possibility.",
+"velho": "Second conditional = irreal.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0073",
+"g": "C",
+"e": "'If they had voted earlier, the law would have passed' refers to the past, and the law did not pass.",
+"velho": "Third conditional = passado irreal.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0074",
+"g": "E",
+"e": "'If they had voted earlier, the law would have passed' refers to a future possibility. This is correct.",
+"velho": "Third conditional = passado irreal.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0075",
+"g": "C",
+"e": "'Unless you sign, the contract is void' means 'if you do not sign, the contract is void'.",
+"velho": "Unless = if not.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0076",
+"g": "E",
+"e": "'Unless you sign, the contract is void' means 'if you sign, the contract is void'.",
+"velho": "Unless = if not.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0077",
+"g": "C",
+"e": "'I wish I knew the answer' means I do not know the answer now.",
+"velho": "Wish + passado = lamento no presente.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Unless = if ... not. Provided that / as long as = desde que. 'I wish I knew' = lamento não saber (presente)."
+]
+},
+{
+"id": "Q-EN-0078",
+"g": "E",
+"e": "'I wish I knew the answer' means I know the answer now.",
+"velho": "Wish + passado = lamento no presente.",
+"aula": [
+"Zero: if + presente, presente (verdade geral). First: if + presente, will (possibilidade real no futuro). Second: if + passado (were), would (hipótese irreal no presente). Third: if + had + particípio, would have + particípio (passado que não ocorreu).",
+"Unless = if ... not. Provided that / as long as = desde que. 'I wish I knew' = lamento não saber (presente)."
+]
+},
+{
+"id": "Q-EN-0079",
+"g": "C",
+"e": "'Provided that' and 'as long as' introduce conditions.",
+"velho": "Provided that = desde que.",
+"aula": [
+"Unless = if ... not. Provided that / as long as = desde que. 'I wish I knew' = lamento não saber (presente).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0080",
+"g": "E",
+"e": "'Provided that' and 'as long as' introduce contrasts.",
+"velho": "Provided that = desde que.",
+"aula": [
+"Unless = if ... not. Provided that / as long as = desde que. 'I wish I knew' = lamento não saber (presente).",
+"Pegadinha: ler second/third conditional como fato real ou 'unless' como 'if'."
+]
+},
+{
+"id": "Q-EN-0081",
+"g": "C",
+"e": "'The law was approved by Congress' is in the passive voice.",
+"velho": "Was approved by = passiva.",
+"aula": [
+"Passiva = to be + particípio: 'The law was approved by Congress.' O objeto da ativa vira sujeito: 'The Senate rejected the bill' → 'The bill was rejected by the Senate'.",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0082",
+"g": "E",
+"e": "'The law was approved by Congress' is in the active voice.",
+"velho": "Was approved by = passiva.",
+"aula": [
+"Passiva = to be + particípio: 'The law was approved by Congress.' O objeto da ativa vira sujeito: 'The Senate rejected the bill' → 'The bill was rejected by the Senate'.",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0083",
+"g": "C",
+"e": "'The report has been published' does not say who published it.",
+"velho": "Agente omitido.",
+"aula": [
+"Passiva = to be + particípio: 'The law was approved by Congress.' O objeto da ativa vira sujeito: 'The Senate rejected the bill' → 'The bill was rejected by the Senate'.",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0084",
+"g": "E",
+"e": "'The report has been published' says that the author published it.",
+"velho": "Agente omitido.",
+"aula": [
+"Passiva = to be + particípio: 'The law was approved by Congress.' O objeto da ativa vira sujeito: 'The Senate rejected the bill' → 'The bill was rejected by the Senate'.",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0085",
+"g": "C",
+"e": "The active form of 'The bill was rejected by the Senate' is 'The Senate rejected the bill'.",
+"velho": "Agente vira sujeito.",
+"aula": [
+"Passiva = to be + particípio: 'The law was approved by Congress.' O objeto da ativa vira sujeito: 'The Senate rejected the bill' → 'The bill was rejected by the Senate'.",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0086",
+"g": "E",
+"e": "The active form of 'The bill was rejected by the Senate' is 'The bill rejected the Senate'.",
+"velho": "Agente vira sujeito.",
+"aula": [
+"Passiva = to be + particípio: 'The law was approved by Congress.' O objeto da ativa vira sujeito: 'The Senate rejected the bill' → 'The bill was rejected by the Senate'.",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0087",
+"g": "C",
+"e": "'The new rule is being discussed' means the discussion is in progress.",
+"velho": "Is being + particípio = em andamento.",
+"aula": [
+"Sem agente: 'Mistakes were made.' Em andamento: is/are being + particípio.",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0088",
+"g": "E",
+"e": "'The new rule is being discussed' means the discussion is finished.",
+"velho": "Is being + particípio = em andamento.",
+"aula": [
+"Sem agente: 'Mistakes were made.' Em andamento: is/are being + particípio.",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0089",
+"g": "C",
+"e": "'She had her car repaired' means that someone else repaired the car.",
+"velho": "Causativa: outro fez.",
+"aula": [
+"Causativa: have/get + objeto + particípio = mandar fazer ('She had her car repaired' = o carro foi consertado por outra pessoa).",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0090",
+"g": "E",
+"e": "'She had her car repaired' means that she repaired the car herself.",
+"velho": "Causativa: outro fez.",
+"aula": [
+"Causativa: have/get + objeto + particípio = mandar fazer ('She had her car repaired' = o carro foi consertado por outra pessoa).",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0091",
+"g": "C",
+"e": "In 'Mistakes were made', the agent is omitted.",
+"velho": "Passiva sem agente.",
+"aula": [
+"Sem agente: 'Mistakes were made.' Em andamento: is/are being + particípio.",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0092",
+"g": "E",
+"e": "In 'Mistakes were made', the agent is named.",
+"velho": "Passiva sem agente.",
+"aula": [
+"Sem agente: 'Mistakes were made.' Em andamento: is/are being + particípio.",
+"Pegadinha: inverter os papéis na passiva ou ler a causativa como ação própria."
+]
+},
+{
+"id": "Q-EN-0093",
+"g": "C",
+"e": "'She said she was tired' reports the direct speech 'I am tired'.",
+"velho": "Said + was = I am.",
+"aula": [
+"O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0094",
+"g": "E",
+"e": "'She said she was tired' reports the direct speech 'I will be tired'.",
+"velho": "Said + was = I am.",
+"aula": [
+"O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0095",
+"g": "C",
+"e": "'He told me that he would come' reports 'I will come'.",
+"velho": "Would = will.",
+"aula": [
+"O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0096",
+"g": "E",
+"e": "'He told me that he would come' reports 'I came'.",
+"velho": "Would = will.",
+"aula": [
+"O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0097",
+"g": "C",
+"e": "'She asked whether I had finished' reports a question.",
+"velho": "Asked whether = pergunta.",
+"aula": [
+"O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0098",
+"g": "E",
+"e": "'She asked whether I had finished' reports a command.",
+"velho": "Asked whether = pergunta.",
+"aula": [
+"O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0099",
+"g": "C",
+"e": "The sentence 'He told that he was late' is inadequate, because 'tell' normally requires an object ('told me').",
+"velho": "Tell pede objeto.",
+"aula": [
+"O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0100",
+"g": "E",
+"e": "The sentence 'He told that he was late' is adequate, because 'tell' does not require an object. This is the usual use.",
+"velho": "Tell pede objeto.",
+"aula": [
+"O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0101",
+"g": "C",
+"e": "'The minister denied having signed the document' means he said he did not sign it.",
+"velho": "Deny = negar.",
+"aula": [
+"Deny + -ing = negar ter feito: 'He denied signing' = disse que não assinou.",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0102",
+"g": "E",
+"e": "'The minister denied having signed the document' means he admitted signing it.",
+"velho": "Deny = negar.",
+"aula": [
+"Deny + -ing = negar ter feito: 'He denied signing' = disse que não assinou.",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0103",
+"g": "C",
+"e": "'He urged them to vote' reports an urgent request to vote.",
+"velho": "Urge = instar.",
+"aula": [
+"O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0104",
+"g": "E",
+"e": "'He urged them to vote' reports a prohibition to vote.",
+"velho": "Urge = instar.",
+"aula": [
+"O verbo recua um tempo: 'I am tired' → She said she was tired; 'I will come' → He said he would come; pergunta → asked if/whether; ordem → told/urged ... to + infinitivo. 'Tell' pede objeto (told me); 'say' não (said that).",
+"Pegadinha: inverter o sentido de deny ou usar 'told' sem objeto."
+]
+},
+{
+"id": "Q-EN-0105",
+"g": "C",
+"e": "In 'The senator who proposed the bill resigned', 'who' refers to 'the senator'.",
+"velho": "Who = pessoa.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0106",
+"g": "E",
+"e": "In 'The senator who proposed the bill resigned', 'who' refers to 'the bill'.",
+"velho": "Who = pessoa.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0107",
+"g": "C",
+"e": "'Whose' indicates possession, as in 'the man whose car was stolen'.",
+"velho": "Whose = cujo.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0108",
+"g": "E",
+"e": "'Whose' indicates time, as in 'the man whose car was stolen'.",
+"velho": "Whose = cujo.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0109",
+"g": "C",
+"e": "In 'The report, which was long, was rejected', the clause 'which was long' adds extra information.",
+"velho": "Com vírgulas: informação extra.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0110",
+"g": "E",
+"e": "In 'The report, which was long, was rejected', the clause 'which was long' identifies which report is meant among several.",
+"velho": "Com vírgulas: informação extra.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0111",
+"g": "C",
+"e": "In 'The company said it would hire more staff', 'it' refers to 'the company'.",
+"velho": "It = the company.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0112",
+"g": "E",
+"e": "In 'The company said it would hire more staff', 'it' refers to 'staff'.",
+"velho": "It = the company.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0113",
+"g": "C",
+"e": "In 'He lost the election, which surprised everyone', 'which' refers to the fact that he lost.",
+"velho": "Which = a ideia toda.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pronomes (it, they, this, which) retomam termo anterior; 'which' após vírgula pode retomar a ideia toda: 'He lost, which surprised everyone'."
+]
+},
+{
+"id": "Q-EN-0114",
+"g": "E",
+"e": "In 'He lost the election, which surprised everyone', 'which' refers to 'everyone'. This is the rule.",
+"velho": "Which = a ideia toda.",
+"aula": [
+"Pronomes (it, they, this, which) retomam termo anterior; 'which' após vírgula pode retomar a ideia toda: 'He lost, which surprised everyone'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0115",
+"g": "C",
+"e": "In 'This is the city where I was born', 'where' refers to a place.",
+"velho": "Where = lugar.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0116",
+"g": "E",
+"e": "In 'This is the city where I was born', 'where' refers to a person.",
+"velho": "Where = lugar.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0117",
+"g": "C",
+"e": "In 'the book that I read', 'that' can be omitted: 'the book I read'.",
+"velho": "That objeto pode sair.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0118",
+"g": "E",
+"e": "In 'the book that I read', 'that' cannot be omitted. This is the usual use.",
+"velho": "That objeto pode sair.",
+"aula": [
+"Who = pessoa; which = coisa; that = pessoa/coisa em restritiva; whose = posse; where = lugar. Oração com vírgula (which...) acrescenta informação; sem vírgula, delimita. 'That' como objeto pode ser omitido: 'the book (that) I read'.",
+"Pegadinha: o item aponta o referente errado."
+]
+},
+{
+"id": "Q-EN-0119",
+"g": "C",
+"e": "'Few lawmakers attended' suggests that almost nobody attended, while 'a few lawmakers attended' suggests some did.",
+"velho": "Few = quase nenhum; a few = alguns.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"'Few lawmakers attended' ≠ 'A few lawmakers attended'."
+]
+},
+{
+"id": "Q-EN-0120",
+"g": "E",
+"e": "'Few lawmakers attended' and 'a few lawmakers attended' have the same meaning. This is the rule.",
+"velho": "Few = quase nenhum; a few = alguns.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"'Few lawmakers attended' ≠ 'A few lawmakers attended'."
+]
+},
+{
+"id": "Q-EN-0121",
+"g": "C",
+"e": "'There is little time' means there is not enough time.",
+"velho": "Little = pouco.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0122",
+"g": "E",
+"e": "'There is little time' means there is plenty of time.",
+"velho": "Little = pouco.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0123",
+"g": "C",
+"e": "'Fewer' is used with countable nouns, as in 'fewer people', and 'less' with uncountable nouns, as in 'less money'.",
+"velho": "Fewer + contável; less + incontável.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0124",
+"g": "E",
+"e": "'Fewer' is used with uncountable nouns, as in 'fewer money', and 'less' with countable nouns. This is the usual use.",
+"velho": "Fewer + contável; less + incontável.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0125",
+"g": "C",
+"e": "'The more he explained, the less I understood' shows a proportional relation.",
+"velho": "The more… the less = proporção.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0126",
+"g": "E",
+"e": "'The more he explained, the less I understood' shows a simple condition.",
+"velho": "The more… the less = proporção.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0127",
+"g": "C",
+"e": "'This bill is as important as the last one' means the two bills have equal importance.",
+"velho": "As… as = igualdade.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0128",
+"g": "E",
+"e": "'This bill is as important as the last one' means the last one is more important.",
+"velho": "As… as = igualdade.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0129",
+"g": "C",
+"e": "'Much' is used with uncountable nouns and 'many' with countable nouns.",
+"velho": "Much + incontável; many + contável.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0130",
+"g": "E",
+"e": "'Much' is used with countable nouns and 'many' with uncountable nouns.",
+"velho": "Much + incontável; many + contável.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0131",
+"g": "C",
+"e": "'Neither of the parties agreed' means that none of the two parties agreed.",
+"velho": "Neither = nenhum dos dois.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0132",
+"g": "E",
+"e": "'Neither of the parties agreed' means that both parties agreed. This is the rule.",
+"velho": "Neither = nenhum dos dois.",
+"aula": [
+"Few/little = pouco (sentido negativo: quase nenhum); a few/a little = alguns/um pouco (positivo). Many/few/fewer com contáveis; much/little/less com incontáveis. As ... as = igualdade; than = comparação; the more ..., the more ... = proporção. Neither = nenhum dos dois.",
+"Pegadinha: tratar few e a few como iguais."
+]
+},
+{
+"id": "Q-EN-0133",
+"g": "C",
+"e": "'He hardly speaks' means he speaks very little.",
+"velho": "Hardly = quase não.",
+"aula": [
+"Hardly, barely, scarcely = quase não; rarely, seldom = raramente; never = nunca. Neither ... nor = nem ... nem. Not only ... but also = adição. No sooner ... than = logo que.",
+"Pegadinha: ler 'hardly' como 'muito' ou 'rarely' como 'frequentemente'."
+]
+},
+{
+"id": "Q-EN-0134",
+"g": "E",
+"e": "'He hardly speaks' means he speaks a lot.",
+"velho": "Hardly = quase não.",
+"aula": [
+"Hardly, barely, scarcely = quase não; rarely, seldom = raramente; never = nunca. Neither ... nor = nem ... nem. Not only ... but also = adição. No sooner ... than = logo que.",
+"Pegadinha: ler 'hardly' como 'muito' ou 'rarely' como 'frequentemente'."
+]
+},
+{
+"id": "Q-EN-0135",
+"g": "C",
+"e": "'Rarely' and 'seldom' mean 'raramente'.",
+"velho": "Rarely/seldom = raramente.",
+"aula": [
+"Hardly, barely, scarcely = quase não; rarely, seldom = raramente; never = nunca. Neither ... nor = nem ... nem. Not only ... but also = adição. No sooner ... than = logo que.",
+"Pegadinha: ler 'hardly' como 'muito' ou 'rarely' como 'frequentemente'."
+]
+}
+]

@@ -1,0 +1,671 @@
+[
+{
+"id": "Q-POL-0399",
+"g": "C",
+"e": "Na representação por mandato livre, o parlamentar representa a nação e não está juridicamente vinculado às instruções dos eleitores, ao passo que no mandato imperativo é obrigado a seguir a vontade dos representados.",
+"velho": "Burke; Sieyès.",
+"aula": [
+"Representação: Burke (discurso aos eleitores de Bristol): o representante é um fiduciário, que deve exercer julgamento próprio em favor do interesse nacional, e não um delegado (mandato livre x mandato imperativo)."
+]
+},
+{
+"id": "Q-POL-0400",
+"g": "E",
+"e": "Na representação por mandato imperativo, o parlamentar representa a nação e não está vinculado às instruções dos eleitores, ao passo que no mandato livre é obrigado a seguir a vontade dos representados.",
+"velho": "Burke; Sieyès.",
+"aula": [
+"Representação: Burke (discurso aos eleitores de Bristol): o representante é um fiduciário, que deve exercer julgamento próprio em favor do interesse nacional, e não um delegado (mandato livre x mandato imperativo)."
+]
+},
+{
+"id": "Q-POL-0401",
+"g": "C",
+"e": "Pitkin distingue as dimensões formalista, descritiva, simbólica e substantiva da representação política.",
+"velho": "Pitkin, The Concept of Representation.",
+"aula": [
+"Pitkin: formas de representação (formalista, descritiva, simbólica e substantiva)."
+]
+},
+{
+"id": "Q-POL-0402",
+"g": "E",
+"e": "Pitkin distingue apenas duas dimensões da representação política, a jurídica e a econômica, sendo irrelevantes as dimensões simbólica e descritiva.",
+"velho": "Pitkin, The Concept of Representation.",
+"aula": [
+"Pitkin: formas de representação (formalista, descritiva, simbólica e substantiva)."
+]
+},
+{
+"id": "Q-POL-0403",
+"g": "C",
+"e": "A democracia semidireta combina representação com institutos de participação direta, como o plebiscito, o referendo e a iniciativa popular, que a Constituição brasileira admite.",
+"velho": "CF, art. 1º, parágrafo único.",
+"aula": [
+"Constituição: art. 1º, parágrafo único: todo poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente.",
+"Art. 14: a soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante plebiscito, referendo e iniciativa popular."
+]
+},
+{
+"id": "Q-POL-0404",
+"g": "E",
+"e": "A democracia semidireta elimina a representação e a substitui integralmente pela deliberação direta de todos os cidadãos, o que a Constituição brasileira adota.",
+"velho": "CF, art. 1º, parágrafo único.",
+"aula": [
+"Constituição: art. 1º, parágrafo único: todo poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente.",
+"Democracia direta, representativa e semidireta (participativa)."
+]
+},
+{
+"id": "Q-POL-0405",
+"g": "C",
+"e": "Para Guillermo O'Donnell, o autoritarismo burocrático-militar, como o instaurado no Brasil em 1964, surge em sociedades de industrialização avançada, com apoio de militares e tecnocratas, e busca desmobilizar o setor popular.",
+"velho": "O'Donnell, Reforma e autoritarismo burocrático.",
+"aula": [
+"O'Donnell: o autoritarismo burocrático-militar (Brasil 1964, Argentina 1966 e 1976, Chile e Uruguai 1973) surge em sociedades de industrialização avançada, com apoio de militares e tecnocratas, para desmobilizar o setor popular."
+]
+},
+{
+"id": "Q-POL-0406",
+"g": "E",
+"e": "Para Guillermo O'Donnell, o autoritarismo burocrático-militar, como o instaurado no Brasil em 1964, é típico de sociedades agrárias de baixa modernização, e dispensa o apoio de tecnocratas e a desmobilização do setor popular.",
+"velho": "O'Donnell, Reforma e autoritarismo burocrático.",
+"aula": [
+"O'Donnell: o autoritarismo burocrático-militar (Brasil 1964, Argentina 1966 e 1976, Chile e Uruguai 1973) surge em sociedades de industrialização avançada, com apoio de militares e tecnocratas, para desmobilizar o setor popular."
+]
+},
+{
+"id": "Q-POL-0407",
+"g": "C",
+"e": "Levitsky e Way definem autoritarismo competitivo como o regime que mantém instituições democráticas formais, como eleições multipartidárias, mas em que o governante abusa do poder do Estado e torna a disputa desigual.",
+"velho": "Levitsky e Way.",
+"aula": [
+"Linz e Chehabi: o sultanismo é poder pessoal e arbitrário, com apropriação privada do Estado, patrimonialismo e lealdade pessoal.",
+"Levitsky e Way: autoritarismo competitivo é o regime que mantém instituições democráticas formais, como eleições multipartidárias, mas em que o governante abusa do poder do Estado e a disputa é desigual."
+]
+},
+{
+"id": "Q-POL-0408",
+"g": "E",
+"e": "Levitsky e Way definem autoritarismo competitivo como o regime em que a oposição é proibida de disputar eleições, realizadas apenas de forma simbólica, sob um partido único. Trata-se de prática corrente.",
+"velho": "Levitsky e Way.",
+"aula": [
+"Geddes: ditaduras de partido único tendem a durar mais que as militares e as personalistas, porque o partido distribui benefícios e coopta elites.",
+"Levitsky e Way: autoritarismo competitivo é o regime que mantém instituições democráticas formais, como eleições multipartidárias, mas em que o governante abusa do poder do Estado e a disputa é desigual."
+]
+},
+{
+"id": "Q-POL-0409",
+"g": "C",
+"e": "A expressão democracia iliberal, popularizada por Fareed Zakaria, designa regimes em que há eleições, mas em que os governantes eleitos desrespeitam limites constitucionais e violam direitos e liberdades.",
+"velho": "Zakaria.",
+"aula": [
+"Zakaria: democracia iliberal é a que realiza eleições mas desrespeita limites constitucionais e direitos.",
+"Przeworski: democracia é um sistema em que partidos perdem eleições, marcado pela incerteza institucionalizada quanto aos resultados e pela alternância possível."
+]
+},
+{
+"id": "Q-POL-0410",
+"g": "E",
+"e": "A expressão democracia iliberal, popularizada por Fareed Zakaria, designa regimes sem eleições competitivas, em que o poder é hereditário, mas com ampla garantia de liberdades individuais. Isso é consenso na área.",
+"velho": "Zakaria.",
+"aula": [
+"Levitsky e Way: autoritarismo competitivo é o regime que mantém instituições democráticas formais, como eleições multipartidárias, mas em que o governante abusa do poder do Estado e a disputa é desigual.",
+"Zakaria: democracia iliberal é a que realiza eleições mas desrespeita limites constitucionais e direitos."
+]
+},
+{
+"id": "Q-POL-0411",
+"g": "C",
+"e": "Para Levitsky e Ziblatt, normas informais como a tolerância mútua entre adversários e a reserva institucional no uso das prerrogativas sustentam a democracia, e sua erosão pode produzir retrocesso democrático sem golpe militar clássico.",
+"velho": "Levitsky e Ziblatt, Como as democracias morrem.",
+"aula": [
+"Levitsky e Ziblatt (Como as democracias morrem): normas informais, como tolerância mútua e reserva institucional no uso das prerrogativas, sustentam a democracia, e sua erosão favorece o retrocesso democrático mesmo sem golpe militar clássico."
+]
+},
+{
+"id": "Q-POL-0412",
+"g": "E",
+"e": "Para Levitsky e Ziblatt, a democracia só se deteriora por golpes militares, sendo irrelevantes as normas informais diante do desenho das instituições formais. Tal conclusão decorreria, segundo esse entendimento, das características do arranjo institucional descrito.",
+"velho": "Levitsky e Ziblatt, Como as democracias morrem.",
+"aula": [
+"Levitsky e Way: autoritarismo competitivo é o regime que mantém instituições democráticas formais, como eleições multipartidárias, mas em que o governante abusa do poder do Estado e a disputa é desigual.",
+"Levitsky e Ziblatt (Como as democracias morrem): normas informais, como tolerância mútua e reserva institucional no uso das prerrogativas, sustentam a democracia, e sua erosão favorece o retrocesso democrático mesmo sem golpe militar clássico."
+]
+},
+{
+"id": "Q-POL-0413",
+"g": "C",
+"e": "Para Przeworski, a democracia caracteriza-se pela incerteza institucionalizada quanto aos resultados, pois partidos podem perder eleições e há alternância possível no poder.",
+"velho": "Przeworski.",
+"aula": [
+"Levitsky e Way: autoritarismo competitivo é o regime que mantém instituições democráticas formais, como eleições multipartidárias, mas em que o governante abusa do poder do Estado e a disputa é desigual.",
+"Przeworski: democracia é um sistema em que partidos perdem eleições, marcado pela incerteza institucionalizada quanto aos resultados e pela alternância possível."
+]
+},
+{
+"id": "Q-POL-0414",
+"g": "E",
+"e": "Para Przeworski, a democracia caracteriza-se pela certeza quanto aos resultados, pois as regras fixam de antemão o vencedor das eleições. Isso é consenso na área.",
+"velho": "Przeworski.",
+"aula": [
+"Zakaria: democracia iliberal é a que realiza eleições mas desrespeita limites constitucionais e direitos.",
+"Przeworski: democracia é um sistema em que partidos perdem eleições, marcado pela incerteza institucionalizada quanto aos resultados e pela alternância possível."
+]
+},
+{
+"id": "Q-POL-0415",
+"g": "C",
+"e": "Na tipologia de Linz e Chehabi, o sultanismo caracteriza-se pelo poder pessoal e arbitrário do governante, com apropriação privada do Estado e predominância da lealdade pessoal.",
+"velho": "Linz e Chehabi.",
+"aula": [
+"Linz e Chehabi: o sultanismo é poder pessoal e arbitrário, com apropriação privada do Estado, patrimonialismo e lealdade pessoal.",
+"Levitsky e Way: autoritarismo competitivo é o regime que mantém instituições democráticas formais, como eleições multipartidárias, mas em que o governante abusa do poder do Estado e a disputa é desigual."
+]
+},
+{
+"id": "Q-POL-0416",
+"g": "E",
+"e": "Na tipologia de Linz e Chehabi, o sultanismo caracteriza-se pela forte institucionalização burocrática, pela ideologia oficial elaborada e pela mobilização de massas conduzida por partido único.",
+"velho": "Linz e Chehabi.",
+"aula": [
+"Linz e Chehabi: o sultanismo é poder pessoal e arbitrário, com apropriação privada do Estado, patrimonialismo e lealdade pessoal.",
+"Geddes: ditaduras de partido único tendem a durar mais que as militares e as personalistas, porque o partido distribui benefícios e coopta elites."
+]
+},
+{
+"id": "Q-POL-0417",
+"g": "C",
+"e": "Para Hannah Arendt, o totalitarismo distingue-se das tiranias tradicionais pelo uso do terror como essência do regime, por uma ideologia que pretende explicar toda a história e pela atomização das massas.",
+"velho": "Arendt, Origens do totalitarismo.",
+"aula": [
+"O'Donnell: o autoritarismo burocrático-militar (Brasil 1964, Argentina 1966 e 1976, Chile e Uruguai 1973) surge em sociedades de industrialização avançada, com apoio de militares e tecnocratas, para desmobilizar o setor popular."
+]
+},
+{
+"id": "Q-POL-0418",
+"g": "E",
+"e": "Para Hannah Arendt, o totalitarismo distingue-se das tiranias tradicionais por dispensar o terror, pois o respeito às leis e às tradições garante a obediência. Isso é consenso na área.",
+"velho": "Arendt, Origens do totalitarismo.",
+"aula": [
+"O'Donnell: o autoritarismo burocrático-militar (Brasil 1964, Argentina 1966 e 1976, Chile e Uruguai 1973) surge em sociedades de industrialização avançada, com apoio de militares e tecnocratas, para desmobilizar o setor popular."
+]
+},
+{
+"id": "Q-POL-0419",
+"g": "C",
+"e": "Índices como Freedom House, V-Dem e Democracy Index, da Economist Intelligence Unit, medem aspectos da democracia, como direitos políticos, liberdades civis e qualidade eleitoral, e adotam metodologias distintas, o que pode gerar classificações diferentes para um mesmo país.",
+"velho": "Índices de democracia.",
+"aula": [
+"Zakaria: democracia iliberal é a que realiza eleições mas desrespeita limites constitucionais e direitos.",
+"Índices: Freedom House, V-Dem e Democracy Index (EIU) medem direitos políticos, liberdades civis e qualidade eleitoral com metodologias diferentes."
+]
+},
+{
+"id": "Q-POL-0420",
+"g": "E",
+"e": "Índices como Freedom House, V-Dem e Democracy Index adotam metodologia idêntica e classificam cada país sempre do mesmo modo, por usarem exatamente os mesmos indicadores. Tal conclusão decorreria, segundo esse entendimento, das características do arranjo institucional descrito.",
+"velho": "Índices de democracia.",
+"aula": [
+"Levitsky e Ziblatt (Como as democracias morrem): normas informais, como tolerância mútua e reserva institucional no uso das prerrogativas, sustentam a democracia, e sua erosão favorece o retrocesso democrático mesmo sem golpe militar clássico.",
+"Índices: Freedom House, V-Dem e Democracy Index (EIU) medem direitos políticos, liberdades civis e qualidade eleitoral com metodologias diferentes."
+]
+},
+{
+"id": "Q-POL-0421",
+"g": "C",
+"e": "Na literatura sobre transições, a liberalização, que amplia direitos individuais e reduz a repressão, distingue-se da democratização, que implica eleições competitivas e extensão da cidadania.",
+"velho": "O'Donnell e Schmitter.",
+"aula": [
+"Zakaria: democracia iliberal é a que realiza eleições mas desrespeita limites constitucionais e direitos.",
+"O'Donnell e Schmitter: liberalização (ampliação de direitos e redução da repressão) não se confunde com democratização (eleições competitivas e cidadania plena)."
+]
+},
+{
+"id": "Q-POL-0422",
+"g": "E",
+"e": "Na literatura sobre transições, liberalização e democratização são sinônimos, ambos designando a realização de eleições livres e competitivas. Isso é consenso na área.",
+"velho": "O'Donnell e Schmitter.",
+"aula": [
+"O'Donnell e Schmitter: liberalização (ampliação de direitos e redução da repressão) não se confunde com democratização (eleições competitivas e cidadania plena)."
+]
+},
+{
+"id": "Q-POL-0423",
+"g": "C",
+"e": "Segundo Barbara Geddes, as ditaduras de partido único tendem a durar mais que as militares e as personalistas, porque o partido distribui benefícios e coopta elites.",
+"velho": "Geddes.",
+"aula": [
+"Geddes: ditaduras de partido único tendem a durar mais que as militares e as personalistas, porque o partido distribui benefícios e coopta elites."
+]
+},
+{
+"id": "Q-POL-0424",
+"g": "E",
+"e": "Segundo Barbara Geddes, as ditaduras militares tendem a durar mais que as de partido único, porque o partido enfraquece a cooptação de elites. Trata-se de prática corrente.",
+"velho": "Geddes.",
+"aula": [
+"Geddes: ditaduras de partido único tendem a durar mais que as militares e as personalistas, porque o partido distribui benefícios e coopta elites."
+]
+},
+{
+"id": "Q-POL-0425",
+"g": "C",
+"e": "O Ato Institucional n. 5, de dezembro de 1968, ampliou os poderes do Executivo e permitiu o fechamento do Congresso Nacional no regime instaurado em 1964.",
+"velho": "AI-5.",
+"aula": [
+"AI-5 (13/12/1968): ampliou poderes do Executivo e permitiu o fechamento do Congresso."
+]
+},
+{
+"id": "Q-POL-0426",
+"g": "E",
+"e": "O Ato Institucional n. 5, de 1965, extinguiu os partidos existentes e instituiu o bipartidarismo no regime instaurado em 1964. Isso é consenso na área.",
+"velho": "AI-5.",
+"aula": [
+"O'Donnell: o autoritarismo burocrático-militar (Brasil 1964, Argentina 1966 e 1976, Chile e Uruguai 1973) surge em sociedades de industrialização avançada, com apoio de militares e tecnocratas, para desmobilizar o setor popular."
+]
+},
+{
+"id": "Q-POL-0427",
+"g": "C",
+"e": "Para Huntington, a segunda onda reversa, de 1958 a meados da década de 1970, incluiu a instauração de regimes autoritários em países da América Latina, como o Brasil, em 1964.",
+"velho": "Huntington, A terceira onda.",
+"aula": [
+"Huntington: primeira onda de democratização (1828–1926), primeira onda reversa (1922–1942), segunda onda (1943–1962), segunda onda reversa (1958–c. 1975, com golpes na América Latina, como o de 1964 no Brasil) e terceira onda (a partir de 1974, Portugal)."
+]
+},
+{
+"id": "Q-POL-0428",
+"g": "E",
+"e": "Para Huntington, a primeira onda reversa teve início em 1974, com a Revolução dos Cravos, em Portugal, quando países da América Latina passaram a restaurar regimes autoritários.",
+"velho": "Huntington, A terceira onda.",
+"aula": [
+"Huntington: primeira onda de democratização (1828–1926), primeira onda reversa (1922–1942), segunda onda (1943–1962), segunda onda reversa (1958–c. 1975, com golpes na América Latina, como o de 1964 no Brasil) e terceira onda (a partir de 1974, Portugal)."
+]
+},
+{
+"id": "Q-POL-0429",
+"g": "C",
+"e": "No voto de desconfiança construtivo, adotado na Alemanha, o Parlamento só pode destituir o chanceler se, ao mesmo tempo, eleger seu sucessor por maioria, o que confere estabilidade ao governo.",
+"velho": "Voto de desconfiança construtivo.",
+"aula": [
+"Voto de desconfiança construtivo (Alemanha): o Parlamento só destitui o chanceler se elegê-lo sucessor ao mesmo tempo.",
+"Alemanha e Itália: presidente chefe de Estado de funções predominantemente representativas, chanceler ou presidente do Conselho chefe de governo."
+]
+},
+{
+"id": "Q-POL-0430",
+"g": "E",
+"e": "No voto de desconfiança construtivo, adotado na Alemanha, o Parlamento destitui o chanceler por maioria simples, sem necessidade de indicar sucessor, e o presidente pode dissolver a Câmara livremente.",
+"velho": "Voto de desconfiança construtivo.",
+"aula": [
+"Voto de desconfiança construtivo (Alemanha): o Parlamento só destitui o chanceler se elegê-lo sucessor ao mesmo tempo.",
+"Alemanha e Itália: presidente chefe de Estado de funções predominantemente representativas, chanceler ou presidente do Conselho chefe de governo."
+]
+},
+{
+"id": "Q-POL-0431",
+"g": "C",
+"e": "No parlamentarismo, a moção de censura é o instrumento pelo qual o Parlamento retira a confiança do governo, e sua aprovação leva à demissão do gabinete.",
+"velho": "Moção de censura.",
+"aula": [
+"Parlamentarismo: o governo depende da confiança do Parlamento.",
+"Moção de censura: o Parlamento retira a confiança e o gabinete cai."
+]
+},
+{
+"id": "Q-POL-0432",
+"g": "E",
+"e": "No parlamentarismo, a moção de censura é o instrumento pelo qual o chefe de Estado dissolve o Parlamento e convoca novas eleições. Trata-se de prática corrente.",
+"velho": "Moção de censura.",
+"aula": [
+"Moção de censura: o Parlamento retira a confiança e o gabinete cai.",
+"Dissolução do Parlamento e convocação de eleições: contrapeso típico do parlamentarismo."
+]
+},
+{
+"id": "Q-POL-0433",
+"g": "C",
+"e": "No parlamentarismo, o governo pode, em regra, dissolver o Parlamento e convocar novas eleições, o que funciona como contrapeso à possibilidade de o Parlamento derrubar o gabinete.",
+"velho": "Dissolução do Parlamento.",
+"aula": [
+"Parlamentarismo: o governo depende da confiança do Parlamento.",
+"Dissolução do Parlamento e convocação de eleições: contrapeso típico do parlamentarismo."
+]
+},
+{
+"id": "Q-POL-0434",
+"g": "E",
+"e": "No presidencialismo puro, o Presidente pode dissolver o Congresso quando perde a maioria, como contrapeso à possibilidade de o Congresso destituí-lo por moção de censura.",
+"velho": "Dissolução do Parlamento.",
+"aula": [
+"Moção de censura: o Parlamento retira a confiança e o gabinete cai.",
+"Dissolução do Parlamento e convocação de eleições: contrapeso típico do parlamentarismo."
+]
+},
+{
+"id": "Q-POL-0435",
+"g": "C",
+"e": "Na monarquia constitucional parlamentar, como a do Reino Unido, o monarca é chefe de Estado com funções predominantemente simbólicas, e o governo é chefiado pelo Primeiro-Ministro, responsável perante o Parlamento.",
+"velho": "Monarquia parlamentar.",
+"aula": [
+"Monarquia constitucional parlamentar (Reino Unido): o monarca é chefe de Estado de funções simbólicas, e o Primeiro-Ministro, chefe de governo, responde ao Parlamento.",
+"Alemanha e Itália: presidente chefe de Estado de funções predominantemente representativas, chanceler ou presidente do Conselho chefe de governo."
+]
+},
+{
+"id": "Q-POL-0436",
+"g": "E",
+"e": "Na monarquia constitucional parlamentar, como a do Reino Unido, o monarca é chefe de governo e nomeia livremente os ministros, sem responsabilidade perante o Parlamento. Trata-se de prática corrente.",
+"velho": "Monarquia parlamentar.",
+"aula": [
+"Parlamentarismo: o governo depende da confiança do Parlamento.",
+"Monarquia constitucional parlamentar (Reino Unido): o monarca é chefe de Estado de funções simbólicas, e o Primeiro-Ministro, chefe de governo, responde ao Parlamento."
+]
+},
+{
+"id": "Q-POL-0437",
+"g": "C",
+"e": "Para Duverger, o semipresidencialismo combina presidente eleito por sufrágio universal, com poderes consideráveis, e primeiro-ministro e ministros responsáveis perante o Parlamento, como na França da V República.",
+"velho": "Duverger.",
+"aula": [
+"Monarquia constitucional parlamentar (Reino Unido): o monarca é chefe de Estado de funções simbólicas, e o Primeiro-Ministro, chefe de governo, responde ao Parlamento.",
+"Semipresidencialismo (Duverger): presidente eleito por sufrágio universal e com poderes consideráveis, e Primeiro-Ministro responsável perante o Parlamento (França da V República, Portugal)."
+]
+},
+{
+"id": "Q-POL-0438",
+"g": "E",
+"e": "Para Duverger, o semipresidencialismo combina presidente eleito pelo Parlamento, sem poderes relevantes, e primeiro-ministro eleito diretamente pelo povo, como na França da V República. Isso é consenso na área.",
+"velho": "Duverger.",
+"aula": [
+"Monarquia constitucional parlamentar (Reino Unido): o monarca é chefe de Estado de funções simbólicas, e o Primeiro-Ministro, chefe de governo, responde ao Parlamento.",
+"Semipresidencialismo (Duverger): presidente eleito por sufrágio universal e com poderes consideráveis, e Primeiro-Ministro responsável perante o Parlamento (França da V República, Portugal)."
+]
+},
+{
+"id": "Q-POL-0439",
+"g": "C",
+"e": "Em 1961, a Emenda Constitucional n. 4 instituiu o parlamentarismo no Brasil após a renúncia de Jânio Quadros, e o plebiscito de janeiro de 1963 restabeleceu o presidencialismo.",
+"velho": "Parlamentarismo de 1961.",
+"aula": [
+"Brasil: parlamentarismo no Império (parlamentarismo 'às avessas': o Imperador escolhia o presidente do Conselho, que obtinha a maioria por eleições controladas);",
+"EC 4/1961 instituiu o parlamentarismo após a renúncia de Jânio Quadros; plebiscito de janeiro de 1963 restabeleceu o presidencialismo; plebiscito de 1993 (art. 2º do ADCT) manteve república e presidencialismo."
+]
+},
+{
+"id": "Q-POL-0440",
+"g": "E",
+"e": "Em 1961, a Emenda Constitucional n. 4 instituiu o parlamentarismo no Brasil após a renúncia de Jânio Quadros, e o plebiscito de janeiro de 1963 manteve o parlamentarismo, que só foi extinto pelo golpe de 1964.",
+"velho": "Parlamentarismo de 1961.",
+"aula": [
+"Brasil: parlamentarismo no Império (parlamentarismo 'às avessas': o Imperador escolhia o presidente do Conselho, que obtinha a maioria por eleições controladas);",
+"EC 4/1961 instituiu o parlamentarismo após a renúncia de Jânio Quadros; plebiscito de janeiro de 1963 restabeleceu o presidencialismo; plebiscito de 1993 (art. 2º do ADCT) manteve república e presidencialismo."
+]
+},
+{
+"id": "Q-POL-0441",
+"g": "C",
+"e": "No Segundo Reinado, o chamado parlamentarismo às avessas decorria de ser o Imperador quem escolhia o presidente do Conselho, que depois obtinha a maioria por meio da dissolução da Câmara e de eleições controladas.",
+"velho": "Parlamentarismo às avessas.",
+"aula": [
+"Dissolução do Parlamento e convocação de eleições: contrapeso típico do parlamentarismo.",
+"Brasil: parlamentarismo no Império (parlamentarismo 'às avessas': o Imperador escolhia o presidente do Conselho, que obtinha a maioria por eleições controladas);"
+]
+},
+{
+"id": "Q-POL-0442",
+"g": "E",
+"e": "No Segundo Reinado, o parlamentarismo seguia o modelo inglês, e o presidente do Conselho era escolhido pela maioria eleita da Câmara, sem possibilidade de dissolução pelo Imperador. Isso é consenso na área.",
+"velho": "Parlamentarismo às avessas.",
+"aula": [
+"Dissolução do Parlamento e convocação de eleições: contrapeso típico do parlamentarismo.",
+"Brasil: parlamentarismo no Império (parlamentarismo 'às avessas': o Imperador escolhia o presidente do Conselho, que obtinha a maioria por eleições controladas);"
+]
+},
+{
+"id": "Q-POL-0443",
+"g": "C",
+"e": "Na confederação, os Estados membros conservam a soberania e podem retirar-se da união, ao passo que na federação os Estados têm autonomia política, mas não soberania, e não dispõem do direito de secessão.",
+"velho": "Federação e confederação.",
+"aula": [
+"Formas de Estado: unitário (centralizado ou descentralizado administrativamente, sem autonomia política dos entes), federal (autonomia política dos entes, repartição constitucional de competências, sem direito de secessão) e confederação (Estados conservam soberania e podem retirar-se).",
+"Federalismo cooperativo e competências: arts. 21 a 24 da CF; na competência concorrente (art. 24), a União estabelece normas gerais e os Estados exercem competência suplementar."
+]
+},
+{
+"id": "Q-POL-0444",
+"g": "E",
+"e": "Na federação, os Estados membros são soberanos e dispõem do direito de secessão, ao passo que na confederação a soberania pertence ao ente central. Trata-se de prática corrente.",
+"velho": "Federação e confederação.",
+"aula": [
+"Formas de Estado: unitário (centralizado ou descentralizado administrativamente, sem autonomia política dos entes), federal (autonomia política dos entes, repartição constitucional de competências, sem direito de secessão) e confederação (Estados conservam soberania e podem retirar-se)."
+]
+},
+{
+"id": "Q-POL-0445",
+"g": "C",
+"e": "No Brasil, a união dos entes federados é indissolúvel e a forma federativa de Estado não pode ser objeto de deliberação de proposta de emenda tendente a aboli-la.",
+"velho": "CF, arts. 1º e 60, § 4º, I.",
+"aula": [
+"Formas de Estado: unitário (centralizado ou descentralizado administrativamente, sem autonomia política dos entes), federal (autonomia política dos entes, repartição constitucional de competências, sem direito de secessão) e confederação (Estados conservam soberania e podem retirar-se).",
+"A união é indissolúvel (art. 1º) e a forma federativa é cláusula pétrea (art. 60, § 4º, I)."
+]
+},
+{
+"id": "Q-POL-0446",
+"g": "E",
+"e": "No Brasil, a forma federativa de Estado pode ser abolida por emenda constitucional, desde que aprovada em dois turnos por três quintos dos membros de cada Casa.",
+"velho": "CF, arts. 1º e 60, § 4º, I.",
+"aula": [
+"Monarquia constitucional parlamentar (Reino Unido): o monarca é chefe de Estado de funções simbólicas, e o Primeiro-Ministro, chefe de governo, responde ao Parlamento.",
+"Formas de Estado: unitário (centralizado ou descentralizado administrativamente, sem autonomia política dos entes), federal (autonomia política dos entes, repartição constitucional de competências, sem direito de secessão) e confederação (Estados conservam soberania e podem retirar-se)."
+]
+},
+{
+"id": "Q-POL-0447",
+"g": "C",
+"e": "Na competência concorrente, a União estabelece normas gerais e os Estados e o Distrito Federal exercem competência suplementar, e a edição de normas gerais pela União não suprime a competência suplementar dos Estados.",
+"velho": "CF, art. 24, §§ 1º a 4º.",
+"aula": [
+"Formas de Estado: unitário (centralizado ou descentralizado administrativamente, sem autonomia política dos entes), federal (autonomia política dos entes, repartição constitucional de competências, sem direito de secessão) e confederação (Estados conservam soberania e podem retirar-se).",
+"Federalismo cooperativo e competências: arts. 21 a 24 da CF; na competência concorrente (art. 24), a União estabelece normas gerais e os Estados exercem competência suplementar."
+]
+},
+{
+"id": "Q-POL-0448",
+"g": "E",
+"e": "Na competência concorrente, a edição de normas gerais pela União exclui a competência suplementar dos Estados e do Distrito Federal sobre a matéria. Tal conclusão decorreria, segundo esse entendimento, das características do arranjo institucional descrito.",
+"velho": "CF, art. 24, §§ 1º a 4º.",
+"aula": [
+"Formas de Estado: unitário (centralizado ou descentralizado administrativamente, sem autonomia política dos entes), federal (autonomia política dos entes, repartição constitucional de competências, sem direito de secessão) e confederação (Estados conservam soberania e podem retirar-se).",
+"Federalismo cooperativo e competências: arts. 21 a 24 da CF; na competência concorrente (art. 24), a União estabelece normas gerais e os Estados exercem competência suplementar."
+]
+},
+{
+"id": "Q-POL-0449",
+"g": "C",
+"e": "Na Alemanha e na Itália, o presidente da República é chefe de Estado, com funções predominantemente representativas, e o chefe de governo é, respectivamente, o chanceler e o presidente do Conselho de Ministros.",
+"velho": "Chefia de Estado e de governo.",
+"aula": [
+"Monarquia constitucional parlamentar (Reino Unido): o monarca é chefe de Estado de funções simbólicas, e o Primeiro-Ministro, chefe de governo, responde ao Parlamento.",
+"Alemanha e Itália: presidente chefe de Estado de funções predominantemente representativas, chanceler ou presidente do Conselho chefe de governo."
+]
+},
+{
+"id": "Q-POL-0450",
+"g": "E",
+"e": "Na Alemanha, o chanceler é chefe de Estado e o presidente federal é chefe de governo, ao passo que na Itália os dois cargos se confundem na pessoa do presidente da República. Isso é consenso na área.",
+"velho": "Chefia de Estado e de governo.",
+"aula": [
+"Monarquia constitucional parlamentar (Reino Unido): o monarca é chefe de Estado de funções simbólicas, e o Primeiro-Ministro, chefe de governo, responde ao Parlamento.",
+"Alemanha e Itália: presidente chefe de Estado de funções predominantemente representativas, chanceler ou presidente do Conselho chefe de governo."
+]
+},
+{
+"id": "Q-POL-0451",
+"g": "C",
+"e": "O Estado unitário pode ser centralizado ou descentralizado administrativamente, e a descentralização, nesse caso, não implica autonomia política dos entes, ao contrário do que ocorre na federação.",
+"velho": "Estado unitário.",
+"aula": [
+"Formas de Estado: unitário (centralizado ou descentralizado administrativamente, sem autonomia política dos entes), federal (autonomia política dos entes, repartição constitucional de competências, sem direito de secessão) e confederação (Estados conservam soberania e podem retirar-se)."
+]
+},
+{
+"id": "Q-POL-0452",
+"g": "E",
+"e": "A descentralização do Estado unitário concede aos entes autonomia política plena, inclusive Constituição própria, como no federalismo. Tal conclusão decorreria, segundo esse entendimento, das características do arranjo institucional descrito.",
+"velho": "Estado unitário.",
+"aula": [
+"Formas de Estado: unitário (centralizado ou descentralizado administrativamente, sem autonomia política dos entes), federal (autonomia política dos entes, repartição constitucional de competências, sem direito de secessão) e confederação (Estados conservam soberania e podem retirar-se)."
+]
+},
+{
+"id": "Q-POL-0453",
+"g": "C",
+"e": "Na distinção de O'Donnell, a accountability vertical é exercida pelos cidadãos sobre os governantes, sobretudo por meio de eleições, e a horizontal, por agências estatais que fiscalizam outras, como tribunais de contas e Ministério Público.",
+"velho": "O'Donnell, accountability.",
+"aula": [
+"O'Donnell: accountability vertical é a exercida pelos cidadãos sobre os governantes, sobretudo por eleições; horizontal é a exercida por agências estatais que fiscalizam outras (tribunais de contas, Ministério Público, Judiciário)."
+]
+},
+{
+"id": "Q-POL-0454",
+"g": "E",
+"e": "Na distinção de O'Donnell, a accountability horizontal é exercida pelos cidadãos sobre os governantes, por meio de eleições, e a vertical, por agências estatais que fiscalizam outras, como tribunais de contas. Isso é consenso na área.",
+"velho": "O'Donnell, accountability.",
+"aula": [
+"O'Donnell: accountability vertical é a exercida pelos cidadãos sobre os governantes, sobretudo por eleições; horizontal é a exercida por agências estatais que fiscalizam outras (tribunais de contas, Ministério Público, Judiciário)."
+]
+},
+{
+"id": "Q-POL-0455",
+"g": "C",
+"e": "Para Bernard Manin, o governo representativo passou do parlamentarismo clássico à democracia de partido e, depois, à democracia de público, na qual ganham relevo a personalização e a comunicação de massa nas escolhas eleitorais.",
+"velho": "Manin.",
+"aula": [
+"Manin (Os princípios do governo representativo): parlamentarismo clássico, democracia de partido e democracia de público (personalização e comunicação de massa)."
+]
+},
+{
+"id": "Q-POL-0456",
+"g": "E",
+"e": "Para Bernard Manin, o governo representativo passou da democracia de público à democracia de partido e, depois, ao parlamentarismo de notáveis, com redução da importância da mídia nas escolhas eleitorais. Trata-se de prática corrente.",
+"velho": "Manin.",
+"aula": [
+"Manin (Os princípios do governo representativo): parlamentarismo clássico, democracia de partido e democracia de público (personalização e comunicação de massa)."
+]
+},
+{
+"id": "Q-POL-0457",
+"g": "C",
+"e": "Para Sieyès, a nação é soberana e os representantes exprimem a vontade nacional, e não a das circunscrições que os elegeram, ideia que fundamenta o mandato representativo livre.",
+"velho": "Sieyès.",
+"aula": [
+"Sieyès: a nação é soberana e os representantes exprimem a vontade nacional, não a das circunscrições (mandato representativo livre)."
+]
+},
+{
+"id": "Q-POL-0458",
+"g": "E",
+"e": "Para Sieyès, o mandato é imperativo, e os representantes devem cumprir as instruções dos eleitores sob pena de revogação do mandato. Isso é consenso na área.",
+"velho": "Sieyès.",
+"aula": [
+"Sieyès: a nação é soberana e os representantes exprimem a vontade nacional, não a das circunscrições (mandato representativo livre)."
+]
+},
+{
+"id": "Q-POL-0459",
+"g": "C",
+"e": "Para Rousseau, a soberania não pode ser representada, pois a vontade geral é inalienável, de modo que os deputados do povo seriam apenas comissários, sem poder de decidir definitivamente.",
+"velho": "Rousseau.",
+"aula": [
+"Rousseau: a soberania é inalienável e não pode ser representada; deputados seriam meros comissários."
+]
+},
+{
+"id": "Q-POL-0460",
+"g": "E",
+"e": "Para Rousseau, a representação é a forma ideal de exercício da soberania, pois permite que os representantes decidam em nome do povo de modo definitivo. Trata-se de prática corrente.",
+"velho": "Rousseau.",
+"aula": [
+"Rousseau: a soberania é inalienável e não pode ser representada; deputados seriam meros comissários."
+]
+},
+{
+"id": "Q-POL-0461",
+"g": "C",
+"e": "A Lei 9.504/1997 exige que cada partido ou coligação preencha o mínimo de 30% e o máximo de 70% das candidaturas de cada sexo nas eleições proporcionais.",
+"velho": "Lei 9.504/1997, art. 10, § 3º.",
+"aula": [
+"Lei 9.504/1997, art. 10, § 3º: cada partido ou coligação preenche o mínimo de 30% e o máximo de 70% das candidaturas de cada sexo nas eleições proporcionais."
+]
+},
+{
+"id": "Q-POL-0462",
+"g": "E",
+"e": "A Lei 9.504/1997 exige que cada partido ou coligação preencha o mínimo de 20% e o máximo de 80% das candidaturas de cada sexo nas eleições proporcionais.",
+"velho": "Lei 9.504/1997, art. 10, § 3º.",
+"aula": [
+"Lei 9.504/1997, art. 10, § 3º: cada partido ou coligação preenche o mínimo de 30% e o máximo de 70% das candidaturas de cada sexo nas eleições proporcionais."
+]
+},
+{
+"id": "Q-POL-0463",
+"g": "C",
+"e": "A EC 111/2021 estabeleceu que os votos dados a candidatas mulheres ou a candidatos negros para a Câmara dos Deputados serão contados em dobro, para fins de distribuição dos recursos do fundo partidário e do FEFC, nas eleições de 2022 a 2030.",
+"velho": "EC 111/2021.",
+"aula": [
+"EC 111/2021: votos dados a candidatas mulheres ou a candidatos negros para a Câmara dos Deputados são contados em dobro, para fins de distribuição dos recursos do fundo partidário e do Fundo Especial de Financiamento de Campanha, nas eleições de 2022 a 2030."
+]
+},
+{
+"id": "Q-POL-0464",
+"g": "E",
+"e": "A EC 111/2021 estabeleceu que os votos dados a candidatas mulheres ou a candidatos negros para a Câmara dos Deputados serão contados em dobro para fins de distribuição das cadeiras entre os partidos, nas eleições de 2022 a 2030.",
+"velho": "EC 111/2021.",
+"aula": [
+"Lista fechada e bloqueada: a ordem das cadeiras é definida pelo partido; lista aberta: a ordem decorre dos votos nominais.",
+"EC 111/2021: votos dados a candidatas mulheres ou a candidatos negros para a Câmara dos Deputados são contados em dobro, para fins de distribuição dos recursos do fundo partidário e do Fundo Especial de Financiamento de Campanha, nas eleições de 2022 a 2030."
+]
+},
+{
+"id": "Q-POL-0465",
+"g": "C",
+"e": "Na lista fechada e bloqueada, o eleitor vota na legenda e a ordem de ocupação das cadeiras é definida previamente pelo partido, ao passo que na lista aberta a ordem decorre dos votos nominais recebidos pelos candidatos.",
+"velho": "Lista aberta e fechada.",
+"aula": [
+"Lista fechada e bloqueada: a ordem das cadeiras é definida pelo partido; lista aberta: a ordem decorre dos votos nominais.",
+"EC 111/2021: votos dados a candidatas mulheres ou a candidatos negros para a Câmara dos Deputados são contados em dobro, para fins de distribuição dos recursos do fundo partidário e do Fundo Especial de Financiamento de Campanha, nas eleições de 2022 a 2030."
+]
+},
+{
+"id": "Q-POL-0466",
+"g": "E",
+"e": "Na lista aberta, a ordem de ocupação das cadeiras é definida previamente pelo partido, ao passo que na lista fechada e bloqueada decorre dos votos nominais recebidos. Isso é consenso na área.",
+"velho": "Lista aberta e fechada.",
+"aula": [
+"Lista fechada e bloqueada: a ordem das cadeiras é definida pelo partido; lista aberta: a ordem decorre dos votos nominais."
+]
+},
+{
+"id": "Q-POL-0467",
+"g": "C",
+"e": "A baixa proporção de mulheres na Câmara dos Deputados, em comparação com sua proporção na população, é apontada como déficit de representação descritiva, embora, segundo Pitkin, a representação substantiva possa ser exercida por parlamentares de qualquer sexo.",
+"velho": "Pitkin.",
+"aula": [
+"Pitkin: representação formalista, descritiva, simbólica e substantiva; a sub-representação de mulheres é déficit descritivo, e a representação substantiva pode ser exercida por qualquer parlamentar.",
+"EC 111/2021: votos dados a candidatas mulheres ou a candidatos negros para a Câmara dos Deputados são contados em dobro, para fins de distribuição dos recursos do fundo partidário e do Fundo Especial de Financiamento de Campanha, nas eleições de 2022 a 2030."
+]
+},
+{
+"id": "Q-POL-0468",
+"g": "E",
+"e": "A baixa proporção de mulheres na Câmara dos Deputados demonstra, segundo Pitkin, que a representação substantiva só é possível por parlamentares pertencentes ao mesmo grupo social dos representados. Tal conclusão decorreria, segundo esse entendimento, das características do arranjo institucional descrito.",
+"velho": "Pitkin.",
+"aula": [
+"Pitkin: representação formalista, descritiva, simbólica e substantiva; a sub-representação de mulheres é déficit descritivo, e a representação substantiva pode ser exercida por qualquer parlamentar.",
+"EC 111/2021: votos dados a candidatas mulheres ou a candidatos negros para a Câmara dos Deputados são contados em dobro, para fins de distribuição dos recursos do fundo partidário e do Fundo Especial de Financiamento de Campanha, nas eleições de 2022 a 2030."
+]
+}
+]

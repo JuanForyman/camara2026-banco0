@@ -1,0 +1,686 @@
+[
+{
+"id": "Q-TI-0039",
+"g": "C",
+"e": "No PowerPoint, as alterações feitas no slide mestre (fontes, cores e layouts) refletem-se em todos os slides que utilizam o layout alterado.",
+"velho": "PowerPoint, slide mestre.",
+"aula": [
+"Slide mestre define layout, fontes e cores padrão de todos os slides;",
+"POWERPOINT ADICIONAL: o Designer sugere layouts; o documento pode ser exportado como PDF ou vídeo; o Modo Apresentador exibe notas e cronômetro só ao apresentador."
+]
+},
+{
+"id": "Q-TI-0040",
+"g": "E",
+"e": "No PowerPoint, as alterações feitas no slide mestre aplicam-se ao primeiro slide da apresentação, sem efeito sobre os demais slides.",
+"velho": "PowerPoint, slide mestre.",
+"aula": [
+"POWERPOINT: formatos .pptx, .ppsx (apresentação em tela cheia), .potx (modelo).",
+"Slide mestre define layout, fontes e cores padrão de todos os slides;"
+]
+},
+{
+"id": "Q-TI-0041",
+"g": "C",
+"e": "No PowerPoint, a tecla F5 inicia a apresentação de slides a partir do primeiro slide, enquanto Shift+F5 a inicia a partir do slide atualmente selecionado.",
+"velho": "PowerPoint, atalhos de exibição.",
+"aula": [
+"POWERPOINT: formatos .pptx, .ppsx (apresentação em tela cheia), .potx (modelo).",
+"F5 inicia do começo e Shift+F5 inicia do slide atual."
+]
+},
+{
+"id": "Q-TI-0042",
+"g": "E",
+"e": "No PowerPoint, a tecla F5 inicia a apresentação de slides a partir do slide atualmente selecionado, enquanto Shift+F5 a inicia a partir do primeiro slide.",
+"velho": "PowerPoint, atalhos de exibição.",
+"aula": [
+"POWERPOINT: formatos .pptx, .ppsx (apresentação em tela cheia), .potx (modelo).",
+"F5 inicia do começo e Shift+F5 inicia do slide atual."
+]
+},
+{
+"id": "Q-TI-0043",
+"g": "C",
+"e": "No PowerPoint, o arquivo salvo como .ppsx abre diretamente em modo de apresentação, ao passo que o arquivo .potx é um modelo (template) usado como base para novas apresentações.",
+"velho": "PowerPoint, formatos.",
+"aula": [
+"WORD: formatos .docx (documento), .dotx (modelo) e .pdf (exportação).",
+"POWERPOINT: formatos .pptx, .ppsx (apresentação em tela cheia), .potx (modelo)."
+]
+},
+{
+"id": "Q-TI-0044",
+"g": "E",
+"e": "No PowerPoint, o arquivo salvo como .potx abre diretamente em modo de apresentação, ao passo que o arquivo .ppsx é um modelo (template) usado como base para novas apresentações.",
+"velho": "PowerPoint, formatos.",
+"aula": [
+"WORD: formatos .docx (documento), .dotx (modelo) e .pdf (exportação).",
+"POWERPOINT: formatos .pptx, .ppsx (apresentação em tela cheia), .potx (modelo)."
+]
+},
+{
+"id": "Q-TI-0045",
+"g": "C",
+"e": "No OneDrive, o recurso Arquivos Sob Demanda exibe os arquivos da nuvem no Explorador de Arquivos sem armazená-los no computador até que sejam abertos, economizando espaço em disco.",
+"velho": "OneDrive, Arquivos Sob Demanda.",
+"aula": [
+"ONEDRIVE: armazenamento em nuvem sincronizado com o computador.",
+"Arquivos Sob Demanda mostra os arquivos no Explorador sem baixá-los até serem abertos (nuvem, disponível localmente, sempre mantido neste dispositivo)."
+]
+},
+{
+"id": "Q-TI-0046",
+"g": "E",
+"e": "No OneDrive, o recurso Arquivos Sob Demanda baixa de modo obrigatório todos os arquivos da nuvem para o computador, ocupando espaço em disco mesmo que nunca sejam abertos.",
+"velho": "OneDrive, Arquivos Sob Demanda.",
+"aula": [
+"ONEDRIVE: armazenamento em nuvem sincronizado com o computador.",
+"Arquivos Sob Demanda mostra os arquivos no Explorador sem baixá-los até serem abertos (nuvem, disponível localmente, sempre mantido neste dispositivo)."
+]
+},
+{
+"id": "Q-TI-0047",
+"g": "C",
+"e": "Um servidor exclui, no computador, um arquivo localizado em pasta sincronizada com o OneDrive. A exclusão é propagada para a nuvem e para os demais dispositivos sincronizados, mas o arquivo pode ser recuperado na Lixeira do OneDrive dentro do prazo de retenção.",
+"velho": "OneDrive: a exclusão se propaga.",
+"aula": [
+"ONEDRIVE: armazenamento em nuvem sincronizado com o computador.",
+"A exclusão de um arquivo na pasta sincronizada propaga-se para a nuvem e para os demais dispositivos."
+]
+},
+{
+"id": "Q-TI-0048",
+"g": "E",
+"e": "Um servidor exclui, no computador, um arquivo localizado em pasta sincronizada com o OneDrive. A exclusão remove apenas a cópia local: o arquivo permanece intacto na nuvem e nos demais dispositivos sincronizados. Trata-se de prática corrente.",
+"velho": "OneDrive: a exclusão se propaga.",
+"aula": [
+"ONEDRIVE: armazenamento em nuvem sincronizado com o computador.",
+"A exclusão de um arquivo na pasta sincronizada propaga-se para a nuvem e para os demais dispositivos."
+]
+},
+{
+"id": "Q-TI-0049",
+"g": "C",
+"e": "No OneDrive, o histórico de versões permite restaurar uma versão anterior de um arquivo, e o compartilhamento por link pode definir se o destinatário poderá apenas visualizar ou também editar o conteúdo.",
+"velho": "OneDrive, versões e compartilhamento.",
+"aula": [
+"Os aplicativos têm versão desktop e versão web; a gravação automática (salvamento automático) funciona em arquivos armazenados no OneDrive ou SharePoint e permite coautoria em tempo real.",
+"Histórico de versões permite restaurar versões anteriores de um arquivo."
+]
+},
+{
+"id": "Q-TI-0050",
+"g": "E",
+"e": "No OneDrive, o histórico de versões só permite visualizar versões anteriores, sem restaurá-las, e o link de compartilhamento sempre concede permissão de edição, sem opção de apenas visualização.",
+"velho": "OneDrive, versões e compartilhamento.",
+"aula": [
+"Permite compartilhar por link, definindo se qualquer pessoa, pessoas da organização ou pessoas específicas podem acessar, com permissão de exibição ou edição, e opcionalmente data de expiração e senha.",
+"Histórico de versões permite restaurar versões anteriores de um arquivo."
+]
+},
+{
+"id": "Q-TI-0051",
+"g": "C",
+"e": "O Cofre Pessoal do OneDrive é uma área protegida que exige verificação de identidade adicional para ser acessada, acrescentando uma camada de segurança aos arquivos mais sensíveis ali guardados.",
+"velho": "OneDrive, Cofre Pessoal.",
+"aula": [
+"Os aplicativos têm versão desktop e versão web; a gravação automática (salvamento automático) funciona em arquivos armazenados no OneDrive ou SharePoint e permite coautoria em tempo real.",
+"Cofre Pessoal é uma área protegida por verificação de identidade adicional."
+]
+},
+{
+"id": "Q-TI-0052",
+"g": "E",
+"e": "O Cofre Pessoal do OneDrive é uma área de armazenamento que dispensa verificação de identidade adicional, pois seus arquivos ficam protegidos apenas pelo fato de estarem em pasta separada.",
+"velho": "OneDrive, Cofre Pessoal.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint).",
+"Cofre Pessoal é uma área protegida por verificação de identidade adicional."
+]
+},
+{
+"id": "Q-TI-0053",
+"g": "C",
+"e": "Dois servidores abrem simultaneamente uma planilha armazenada no OneDrive com o salvamento automático ativado. Eles podem editar o arquivo ao mesmo tempo (coautoria), e as alterações de cada um são sincronizadas quase em tempo real.",
+"velho": "Coautoria no Microsoft 365.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint).",
+"Os aplicativos têm versão desktop e versão web; a gravação automática (salvamento automático) funciona em arquivos armazenados no OneDrive ou SharePoint e permite coautoria em tempo real."
+]
+},
+{
+"id": "Q-TI-0054",
+"g": "E",
+"e": "Dois servidores abrem simultaneamente uma planilha armazenada no OneDrive com o salvamento automático ativado. Só o primeiro a abri-la pode editar; o outro só consegue visualizar até que o arquivo seja fechado. Isso é consenso na área.",
+"velho": "Coautoria no Microsoft 365.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint).",
+"Os aplicativos têm versão desktop e versão web; a gravação automática (salvamento automático) funciona em arquivos armazenados no OneDrive ou SharePoint e permite coautoria em tempo real."
+]
+},
+{
+"id": "Q-TI-0055",
+"g": "C",
+"e": "O Microsoft 365 é oferecido por assinatura e combina aplicativos instalados no computador ou usados pela web com serviços em nuvem, como OneDrive e Teams.",
+"velho": "Microsoft 365.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint).",
+"ONEDRIVE: armazenamento em nuvem sincronizado com o computador."
+]
+},
+{
+"id": "Q-TI-0056",
+"g": "E",
+"e": "O Microsoft 365 é um pacote vendido exclusivamente por licença perpétua e funciona apenas com aplicativos instalados no computador, sem serviços em nuvem integrados.",
+"velho": "Microsoft 365.",
+"aula": [
+"Microsoft 365 é um serviço por assinatura (nuvem) que reúne aplicativos (Word, Excel, PowerPoint, Outlook, OneNote), armazenamento (OneDrive) e colaboração (Teams, SharePoint).",
+"Os aplicativos têm versão desktop e versão web; a gravação automática (salvamento automático) funciona em arquivos armazenados no OneDrive ou SharePoint e permite coautoria em tempo real."
+]
+},
+{
+"id": "Q-TI-0057",
+"g": "C",
+"e": "Uma rede LAN abrange área geograficamente restrita, como um edifício ou um campus, ao passo que uma WAN interliga redes situadas em grandes distâncias, e a Internet é o exemplo mais conhecido de WAN.",
+"velho": "Classificação por alcance.",
+"aula": [
+"Classificação por alcance: PAN (pessoal), LAN (local, ex.: um prédio), MAN (metropolitana), WAN (longa distância; a Internet é a maior WAN).",
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…"
+]
+},
+{
+"id": "Q-TI-0058",
+"g": "E",
+"e": "Uma rede LAN abrange grandes distâncias, interligando cidades e países, ao passo que uma WAN se restringe a área geográfica pequena, como um edifício ou um campus. Isso é consenso na área.",
+"velho": "Classificação por alcance.",
+"aula": [
+"Classificação por alcance: PAN (pessoal), LAN (local, ex.: um prédio), MAN (metropolitana), WAN (longa distância; a Internet é a maior WAN)."
+]
+},
+{
+"id": "Q-TI-0059",
+"g": "C",
+"e": "Na topologia em estrela, os computadores se conectam a um dispositivo central, como um switch; a falha de um cabo isola apenas o computador correspondente, mas a falha do dispositivo central compromete toda a rede.",
+"velho": "Topologia em estrela.",
+"aula": [
+"Topologias: barramento, anel, estrela (a mais comum em LANs, com switch central; falha de um nó não derruba os demais, mas falha do ponto central derruba a rede), malha (alta redundância) e árvore.",
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…"
+]
+},
+{
+"id": "Q-TI-0060",
+"g": "E",
+"e": "Na topologia em estrela, os computadores se conectam a um dispositivo central, como um switch; a falha do dispositivo central não afeta o funcionamento da rede, pois os computadores continuam se comunicando diretamente entre si.",
+"velho": "Topologia em estrela.",
+"aula": [
+"Topologias: barramento, anel, estrela (a mais comum em LANs, com switch central; falha de um nó não derruba os demais, mas falha do ponto central derruba a rede), malha (alta redundância) e árvore.",
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…"
+]
+},
+{
+"id": "Q-TI-0061",
+"g": "C",
+"e": "A fibra óptica transmite dados por pulsos de luz, é imune a interferências eletromagnéticas e oferece maior alcance e velocidade que o par trançado metálico.",
+"velho": "Meios de transmissão.",
+"aula": [
+"Meios: par trançado (UTP, conector RJ-45), cabo coaxial, fibra óptica (imune a interferência eletromagnética, maior alcance e velocidade) e sem fio (Wi-Fi, padrão IEEE 802.11;",
+"WPA2 (com AES) e WPA3 são mais seguros; a banda de 2,4 GHz tem maior alcance e menor velocidade, e a de 5 GHz maior velocidade e menor alcance."
+]
+},
+{
+"id": "Q-TI-0062",
+"g": "E",
+"e": "A fibra óptica transmite dados por sinais elétricos, é muito sujeita a interferências eletromagnéticas e oferece menor alcance que o par trançado metálico.",
+"velho": "Meios de transmissão.",
+"aula": [
+"Meios: par trançado (UTP, conector RJ-45), cabo coaxial, fibra óptica (imune a interferência eletromagnética, maior alcance e velocidade) e sem fio (Wi-Fi, padrão IEEE 802.11;",
+"WPA2 (com AES) e WPA3 são mais seguros; a banda de 2,4 GHz tem maior alcance e menor velocidade, e a de 5 GHz maior velocidade e menor alcance."
+]
+},
+{
+"id": "Q-TI-0063",
+"g": "C",
+"e": "O switch encaminha os quadros às portas de destino com base nos endereços MAC e atua na camada de enlace, enquanto o roteador interliga redes distintas, decidindo o caminho dos pacotes com base nos endereços IP.",
+"velho": "Switch x roteador.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…"
+]
+},
+{
+"id": "Q-TI-0064",
+"g": "E",
+"e": "O switch interliga redes distintas, decidindo o caminho dos pacotes com base nos endereços IP, enquanto o roteador encaminha os quadros às portas de destino com base nos endereços MAC, na camada de enlace.",
+"velho": "Switch x roteador.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…"
+]
+},
+{
+"id": "Q-TI-0065",
+"g": "C",
+"e": "O hub repete o sinal recebido em uma porta para todas as demais portas, sem distinguir o destinatário, ao passo que o switch encaminha o quadro apenas à porta do destinatário.",
+"velho": "Hub x switch.",
+"aula": [
+"Topologias: barramento, anel, estrela (a mais comum em LANs, com switch central; falha de um nó não derruba os demais, mas falha do ponto central derruba a rede), malha (alta redundância) e árvore.",
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…"
+]
+},
+{
+"id": "Q-TI-0066",
+"g": "E",
+"e": "O hub encaminha o sinal recebido em uma porta apenas à porta do destinatário, ao passo que o switch o repete para todas as demais portas, sem distinguir o destinatário.",
+"velho": "Hub x switch.",
+"aula": [
+"Topologias: barramento, anel, estrela (a mais comum em LANs, com switch central; falha de um nó não derruba os demais, mas falha do ponto central derruba a rede), malha (alta redundância) e árvore.",
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…"
+]
+},
+{
+"id": "Q-TI-0067",
+"g": "C",
+"e": "O endereço IPv4 é composto por 32 bits, normalmente representados por quatro números decimais de 0 a 255, enquanto o IPv6 utiliza 128 bits.",
+"velho": "IPv4 x IPv6.",
+"aula": [
+"Endereçamento: IPv4 tem 32 bits (quatro octetos decimais, de 0 a 255, ex.: 192.168.0.1);",
+"O endereço MAC identifica a placa de rede (48 bits) e é fixo no hardware; o IP identifica o host na rede e pode mudar."
+]
+},
+{
+"id": "Q-TI-0068",
+"g": "E",
+"e": "O endereço IPv4 é composto por 128 bits, normalmente representados por quatro números decimais de 0 a 255, enquanto o IPv6 utiliza 32 bits.",
+"velho": "IPv4 x IPv6.",
+"aula": [
+"Endereçamento: IPv4 tem 32 bits (quatro octetos decimais, de 0 a 255, ex.: 192.168.0.1);",
+"O endereço MAC identifica a placa de rede (48 bits) e é fixo no hardware; o IP identifica o host na rede e pode mudar."
+]
+},
+{
+"id": "Q-TI-0069",
+"g": "C",
+"e": "O endereço 192.168.10.25 pertence a uma faixa de endereços IPv4 privados e, por isso, não é roteável na Internet pública; a comunicação desse equipamento com a Internet depende de NAT.",
+"velho": "Faixas privadas: 10/8, 172.16/12, 192.168/16.",
+"aula": [
+"Faixas privadas IPv4: 10.0.0.0/8, 172.16.0.0 a 172.31.255.255 e 192.168.0.0/16; não são roteáveis na Internet, e o NAT traduz endereços privados em público.",
+"Internet é a rede mundial pública de redes, baseada no TCP/IP;"
+]
+},
+{
+"id": "Q-TI-0070",
+"g": "E",
+"e": "O endereço 192.168.10.25 pertence a uma faixa de endereços IPv4 públicos, roteável diretamente na Internet; por isso, a comunicação desse equipamento com a Internet dispensa NAT.",
+"velho": "Faixas privadas: 10/8, 172.16/12, 192.168/16.",
+"aula": [
+"Faixas privadas IPv4: 10.0.0.0/8, 172.16.0.0 a 172.31.255.255 e 192.168.0.0/16; não são roteáveis na Internet, e o NAT traduz endereços privados em público.",
+"Máscara de sub-rede e CIDR: /24 equivale a 255.255.255.0, com 256 endereços, dos quais 254 utilizáveis por hosts (o primeiro é o endereço da rede e o último o de broadcast); /16 equivale a 255.255.0.0."
+]
+},
+{
+"id": "Q-TI-0071",
+"g": "C",
+"e": "O endereço 300.10.5.1 não é um endereço IPv4 válido, pois cada um dos quatro octetos deve estar entre 0 e 255.",
+"velho": "Octeto IPv4: 0 a 255.",
+"aula": [
+"Endereçamento: IPv4 tem 32 bits (quatro octetos decimais, de 0 a 255, ex.: 192.168.0.1);"
+]
+},
+{
+"id": "Q-TI-0072",
+"g": "E",
+"e": "O endereço 300.10.5.1 é um endereço IPv4 válido, pois cada um dos quatro octetos pode assumir qualquer valor inteiro positivo.",
+"velho": "Octeto IPv4: 0 a 255.",
+"aula": [
+"Endereçamento: IPv4 tem 32 bits (quatro octetos decimais, de 0 a 255, ex.: 192.168.0.1);"
+]
+},
+{
+"id": "Q-TI-0073",
+"g": "C",
+"e": "O protocolo DHCP atribui automaticamente aos equipamentos da rede o endereço IP e outros parâmetros, como máscara, gateway e servidores DNS, ao passo que o DNS traduz nomes de domínio em endereços IP.",
+"velho": "DHCP x DNS.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"DHCP atribui automaticamente IP, máscara, gateway e DNS aos hosts."
+]
+},
+{
+"id": "Q-TI-0074",
+"g": "E",
+"e": "O protocolo DHCP traduz nomes de domínio em endereços IP, ao passo que o DNS atribui automaticamente aos equipamentos da rede o endereço IP e outros parâmetros, como máscara e gateway. Isso é consenso na área.",
+"velho": "DHCP x DNS.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"DHCP atribui automaticamente IP, máscara, gateway e DNS aos hosts."
+]
+},
+{
+"id": "Q-TI-0075",
+"g": "C",
+"e": "O endereço MAC identifica a interface de rede e é gravado pelo fabricante no hardware, ao passo que o endereço IP identifica o equipamento na rede e pode mudar conforme a rede a que ele se conecta.",
+"velho": "MAC x IP.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"O endereço MAC identifica a placa de rede (48 bits) e é fixo no hardware; o IP identifica o host na rede e pode mudar."
+]
+},
+{
+"id": "Q-TI-0076",
+"g": "E",
+"e": "O endereço MAC identifica o equipamento na rede e pode mudar conforme a rede a que ele se conecta, ao passo que o endereço IP identifica a interface de rede e é gravado pelo fabricante no hardware.",
+"velho": "MAC x IP.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"O endereço MAC identifica a placa de rede (48 bits) e é fixo no hardware; o IP identifica o host na rede e pode mudar."
+]
+},
+{
+"id": "Q-TI-0077",
+"g": "C",
+"e": "As portas padrão dos protocolos HTTP e HTTPS são, respectivamente, 80 e 443.",
+"velho": "Portas padrão.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"Protocolos e portas padrão: HTTP 80;"
+]
+},
+{
+"id": "Q-TI-0078",
+"g": "E",
+"e": "As portas padrão dos protocolos HTTP e HTTPS são, respectivamente, 443 e 80.",
+"velho": "Portas padrão.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"Protocolos e portas padrão: HTTP 80;"
+]
+},
+{
+"id": "Q-TI-0079",
+"g": "C",
+"e": "O protocolo SMTP, usado para o envio de mensagens de correio eletrônico, utiliza por padrão a porta 25, ao passo que o POP3, usado para recebê-las, utiliza a porta 110.",
+"velho": "SMTP 25; POP3 110.",
+"aula": [
+"SMTP 25 (envio de e-mail; 587 para submissão);"
+]
+},
+{
+"id": "Q-TI-0080",
+"g": "E",
+"e": "O protocolo SMTP, usado para o recebimento de mensagens de correio eletrônico, utiliza por padrão a porta 110, ao passo que o POP3, usado para enviá-las, utiliza a porta 25.",
+"velho": "SMTP 25; POP3 110.",
+"aula": [
+"Classificação por alcance: PAN (pessoal), LAN (local, ex.: um prédio), MAN (metropolitana), WAN (longa distância; a Internet é a maior WAN)."
+]
+},
+{
+"id": "Q-TI-0081",
+"g": "C",
+"e": "O protocolo IMAP mantém as mensagens armazenadas no servidor e permite que sejam acessadas e sincronizadas por vários dispositivos, ao passo que o POP3, em seu uso típico, baixa as mensagens para o dispositivo e as remove do servidor.",
+"velho": "POP3 x IMAP.",
+"aula": [
+"POP3 110 (baixa as mensagens, em regra removendo-as do servidor);",
+"IMAP 143 (mantém as mensagens no servidor e sincroniza entre dispositivos);"
+]
+},
+{
+"id": "Q-TI-0082",
+"g": "E",
+"e": "O protocolo POP3 mantém as mensagens armazenadas no servidor e permite que sejam sincronizadas por vários dispositivos, ao passo que o IMAP, em seu uso típico, baixa as mensagens para o dispositivo e as remove do servidor. Isso é consenso na área.",
+"velho": "POP3 x IMAP.",
+"aula": [
+"POP3 110 (baixa as mensagens, em regra removendo-as do servidor);",
+"IMAP 143 (mantém as mensagens no servidor e sincroniza entre dispositivos);"
+]
+},
+{
+"id": "Q-TI-0083",
+"g": "C",
+"e": "O HTTPS é o HTTP executado sobre uma camada de segurança (TLS), que cifra os dados trafegados entre o navegador e o servidor, e comumente é indicado por um cadeado na barra de endereços.",
+"velho": "HTTPS.",
+"aula": [
+"Modelo TCP/IP em quatro camadas: aplicação (HTTP, HTTPS, FTP, SMTP, POP3, IMAP, DNS, DHCP), transporte (TCP, orientado a conexão e confiável;",
+"HTTPS 443 (HTTP sobre TLS, que cifra o tráfego);"
+]
+},
+{
+"id": "Q-TI-0084",
+"g": "E",
+"e": "O HTTPS é um protocolo exclusivo para transferência de arquivos entre computadores, que dispensa a cifragem dos dados, e comumente é indicado por um cadeado na barra de endereços.",
+"velho": "HTTPS.",
+"aula": [
+"FTP 20 e 21 (transferência de arquivos);"
+]
+},
+{
+"id": "Q-TI-0085",
+"g": "C",
+"e": "O protocolo TCP é orientado a conexão e oferece entrega confiável e ordenada dos dados, ao passo que o UDP não estabelece conexão nem garante a entrega, sendo mais leve e usado, por exemplo, em transmissões em tempo real.",
+"velho": "TCP x UDP.",
+"aula": [
+"Modelo TCP/IP em quatro camadas: aplicação (HTTP, HTTPS, FTP, SMTP, POP3, IMAP, DNS, DHCP), transporte (TCP, orientado a conexão e confiável;",
+"UDP, sem conexão, mais rápido e sem garantia de entrega), internet ou rede (IP, ICMP) e acesso à rede ou enlace."
+]
+},
+{
+"id": "Q-TI-0086",
+"g": "E",
+"e": "O protocolo UDP é orientado a conexão e oferece entrega confiável e ordenada dos dados, ao passo que o TCP não estabelece conexão nem garante a entrega, sendo mais leve e usado, por exemplo, em transmissões em tempo real.",
+"velho": "TCP x UDP.",
+"aula": [
+"Modelo TCP/IP em quatro camadas: aplicação (HTTP, HTTPS, FTP, SMTP, POP3, IMAP, DNS, DHCP), transporte (TCP, orientado a conexão e confiável;",
+"UDP, sem conexão, mais rápido e sem garantia de entrega), internet ou rede (IP, ICMP) e acesso à rede ou enlace."
+]
+},
+{
+"id": "Q-TI-0087",
+"g": "C",
+"e": "A Internet é a rede mundial pública que interliga redes por meio do conjunto de protocolos TCP/IP, enquanto a World Wide Web é um dos serviços que funcionam sobre a Internet.",
+"velho": "Internet x Web.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"Internet é a rede mundial pública de redes, baseada no TCP/IP;"
+]
+},
+{
+"id": "Q-TI-0088",
+"g": "E",
+"e": "A World Wide Web é a rede mundial que interliga redes por meio do conjunto de protocolos TCP/IP, enquanto a Internet é um dos serviços que funcionam sobre ela. Trata-se de prática corrente.",
+"velho": "Internet x Web.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"Internet é a rede mundial pública de redes, baseada no TCP/IP;"
+]
+},
+{
+"id": "Q-TI-0089",
+"g": "C",
+"e": "A intranet é uma rede privada de uma organização que utiliza as mesmas tecnologias da Internet, como navegador e protocolos TCP/IP, mas com acesso restrito a usuários autorizados.",
+"velho": "Intranet.",
+"aula": [
+"Intranet é a rede privada de uma organização que usa as mesmas tecnologias e protocolos da Internet (navegador, TCP/IP), restrita a usuários autorizados.",
+"VPN cria um túnel cifrado sobre a Internet para acesso seguro a uma rede privada."
+]
+},
+{
+"id": "Q-TI-0090",
+"g": "E",
+"e": "A intranet é uma rede pública, aberta a qualquer usuário da Internet, que utiliza tecnologias próprias, incompatíveis com navegadores e com o protocolo TCP/IP. Isso é consenso na área.",
+"velho": "Intranet.",
+"aula": [
+"Internet é a rede mundial pública de redes, baseada no TCP/IP;",
+"Intranet é a rede privada de uma organização que usa as mesmas tecnologias e protocolos da Internet (navegador, TCP/IP), restrita a usuários autorizados."
+]
+},
+{
+"id": "Q-TI-0091",
+"g": "C",
+"e": "A extranet corresponde à extensão da intranet de uma organização a usuários externos autorizados, como fornecedores e parceiros, que acessam parte dos recursos internos.",
+"velho": "Extranet.",
+"aula": [
+"Intranet é a rede privada de uma organização que usa as mesmas tecnologias e protocolos da Internet (navegador, TCP/IP), restrita a usuários autorizados.",
+"Extranet é a intranet estendida a parceiros externos autorizados."
+]
+},
+{
+"id": "Q-TI-0092",
+"g": "E",
+"e": "A extranet corresponde ao acesso irrestrito de qualquer usuário da Internet à intranet de uma organização, sem necessidade de autorização prévia. Trata-se de prática corrente.",
+"velho": "Extranet.",
+"aula": [
+"UDP, sem conexão, mais rápido e sem garantia de entrega), internet ou rede (IP, ICMP) e acesso à rede ou enlace.",
+"Intranet é a rede privada de uma organização que usa as mesmas tecnologias e protocolos da Internet (navegador, TCP/IP), restrita a usuários autorizados."
+]
+},
+{
+"id": "Q-TI-0093",
+"g": "C",
+"e": "A VPN estabelece um canal cifrado (túnel) sobre uma rede pública, como a Internet, permitindo o acesso remoto seguro à rede privada de uma organização.",
+"velho": "VPN.",
+"aula": [
+"Intranet é a rede privada de uma organização que usa as mesmas tecnologias e protocolos da Internet (navegador, TCP/IP), restrita a usuários autorizados.",
+"VPN cria um túnel cifrado sobre a Internet para acesso seguro a uma rede privada."
+]
+},
+{
+"id": "Q-TI-0094",
+"g": "E",
+"e": "A VPN dispensa a cifragem do tráfego, pois utiliza exclusivamente cabos dedicados e privados, sem trafegar por redes públicas, como a Internet.",
+"velho": "VPN.",
+"aula": [
+"Faixas privadas IPv4: 10.0.0.0/8, 172.16.0.0 a 172.31.255.255 e 192.168.0.0/16; não são roteáveis na Internet, e o NAT traduz endereços privados em público.",
+"Internet é a rede mundial pública de redes, baseada no TCP/IP;"
+]
+},
+{
+"id": "Q-TI-0095",
+"g": "C",
+"e": "Um servidor digita o endereço correto do site de um banco, mas é levado a uma página falsa porque o servidor DNS utilizado foi adulterado. Trata-se de ataque de pharming, que explora o sistema de nomes de domínio.",
+"velho": "Pharming x phishing (link fraudulento é phishing).",
+"aula": [
+"DNS traduz nomes de domínio em endereços IP."
+]
+},
+{
+"id": "Q-TI-0096",
+"g": "E",
+"e": "Um servidor digita o endereço correto do site de um banco, mas é levado a uma página falsa porque recebeu um e-mail com link fraudulento. Trata-se de ataque de pharming, que explora o sistema de nomes de domínio.",
+"velho": "Pharming x phishing (link fraudulento é phishing).",
+"aula": [
+"DNS traduz nomes de domínio em endereços IP."
+]
+},
+{
+"id": "Q-TI-0097",
+"g": "C",
+"e": "A janela anônima do navegador não grava o histórico local de navegação nem mantém cookies após ser fechada, mas não impede que os sites visitados, o provedor de acesso ou o empregador identifiquem a navegação.",
+"velho": "Navegação anônima.",
+"aula": [
+"Navegadores (Chrome, Edge, Firefox) têm janela anônima/InPrivate, que não grava histórico local nem cookies ao fechar, mas não torna o usuário anônimo perante sites, provedor ou empregador.",
+"Cookies são pequenos arquivos que guardam informações de navegação; cache armazena cópias de recursos para acelerar o carregamento."
+]
+},
+{
+"id": "Q-TI-0098",
+"g": "E",
+"e": "A janela anônima do navegador impede que os sites visitados, o provedor de acesso e o empregador identifiquem a navegação, tornando o usuário totalmente anônimo na rede. Isso é consenso na área.",
+"velho": "Navegação anônima.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"Navegadores (Chrome, Edge, Firefox) têm janela anônima/InPrivate, que não grava histórico local nem cookies ao fechar, mas não torna o usuário anônimo perante sites, provedor ou empregador."
+]
+},
+{
+"id": "Q-TI-0099",
+"g": "C",
+"e": "Cookies são pequenos arquivos armazenados pelo navegador que guardam informações de navegação, como preferências e sessões, ao passo que o cache guarda cópias de recursos das páginas para acelerar carregamentos futuros.",
+"velho": "Cookies x cache.",
+"aula": [
+"Cookies são pequenos arquivos que guardam informações de navegação; cache armazena cópias de recursos para acelerar o carregamento."
+]
+},
+{
+"id": "Q-TI-0100",
+"g": "E",
+"e": "Cookies são cópias de recursos das páginas armazenadas pelo navegador para acelerar carregamentos futuros, ao passo que o cache guarda pequenos arquivos com preferências e sessões do usuário. Trata-se de prática corrente.",
+"velho": "Cookies x cache.",
+"aula": [
+"Navegadores (Chrome, Edge, Firefox) têm janela anônima/InPrivate, que não grava histórico local nem cookies ao fechar, mas não torna o usuário anônimo perante sites, provedor ou empregador.",
+"Cookies são pequenos arquivos que guardam informações de navegação; cache armazena cópias de recursos para acelerar o carregamento."
+]
+},
+{
+"id": "Q-TI-0101",
+"g": "C",
+"e": "O Microsoft 365 é exemplo de software como serviço (SaaS), no qual o usuário utiliza aplicativos hospedados e mantidos pelo provedor na nuvem, sem gerenciar a infraestrutura subjacente.",
+"velho": "SaaS, PaaS e IaaS.",
+"aula": [
+"Navegadores (Chrome, Edge, Firefox) têm janela anônima/InPrivate, que não grava histórico local nem cookies ao fechar, mas não torna o usuário anônimo perante sites, provedor ou empregador.",
+"Computação em nuvem: IaaS, PaaS e SaaS (Microsoft 365 é SaaS)."
+]
+},
+{
+"id": "Q-TI-0102",
+"g": "E",
+"e": "O Microsoft 365 é exemplo de infraestrutura como serviço (IaaS), no qual o usuário aluga servidores e redes virtuais e responsabiliza-se pela instalação e manutenção de todo o software.",
+"velho": "SaaS, PaaS e IaaS.",
+"aula": [
+"Computação em nuvem: IaaS, PaaS e SaaS (Microsoft 365 é SaaS)."
+]
+},
+{
+"id": "Q-TI-0103",
+"g": "C",
+"e": "Um arquivo de 8 megabytes (MB) corresponde a 64 megabits (Mb), pois cada byte equivale a 8 bits.",
+"velho": "8 bits = 1 byte.",
+"aula": [
+"Velocidade de conexão mede-se em bits por segundo (Mbps); tamanho de arquivo em bytes (8 bits = 1 byte)."
+]
+},
+{
+"id": "Q-TI-0104",
+"g": "E",
+"e": "Um arquivo de 8 megabytes (MB) corresponde a 8 megabits (Mb), pois cada byte equivale a 1 bit.",
+"velho": "8 bits = 1 byte.",
+"aula": [
+"Velocidade de conexão mede-se em bits por segundo (Mbps); tamanho de arquivo em bytes (8 bits = 1 byte)."
+]
+},
+{
+"id": "Q-TI-0105",
+"g": "C",
+"e": "Numa conexão com velocidade de 80 megabits por segundo, a transferência ideal de um arquivo de 80 megabytes leva cerca de 8 segundos.",
+"velho": "80 MB = 640 Mb; 640/80 = 8 s.",
+"aula": [
+"Velocidade de conexão mede-se em bits por segundo (Mbps); tamanho de arquivo em bytes (8 bits = 1 byte)."
+]
+},
+{
+"id": "Q-TI-0106",
+"g": "E",
+"e": "Numa conexão com velocidade de 80 megabits por segundo, a transferência ideal de um arquivo de 80 megabytes leva cerca de 1 segundo.",
+"velho": "80 MB = 640 Mb; 640/80 = 8 s.",
+"aula": [
+"Velocidade de conexão mede-se em bits por segundo (Mbps); tamanho de arquivo em bytes (8 bits = 1 byte)."
+]
+},
+{
+"id": "Q-TI-0107",
+"g": "C",
+"e": "O padrão IEEE 802.11 define as redes locais sem fio (Wi-Fi), e o ponto de acesso (access point) é o equipamento que permite a dispositivos sem fio se conectarem à rede cabeada.",
+"velho": "Wi-Fi.",
+"aula": [
+"Topologias: barramento, anel, estrela (a mais comum em LANs, com switch central; falha de um nó não derruba os demais, mas falha do ponto central derruba a rede), malha (alta redundância) e árvore.",
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…"
+]
+},
+{
+"id": "Q-TI-0108",
+"g": "E",
+"e": "O padrão IEEE 802.11 define as redes locais cabeadas Ethernet, e o ponto de acesso (access point) é o equipamento que traduz nomes de domínio em endereços IP. Trata-se de prática corrente.",
+"velho": "Wi-Fi.",
+"aula": [
+"Equipamentos: hub (repete o sinal a todas as portas, camada física); switch (encaminha quadros pelo endereço MAC, camada de enlace, cria domínios de colisão separados); roteador (interliga redes distintas e encaminha pacotes pelo endereço IP, camada de rede); modem (modula e demodula sinais); access point (ponto de acesso sem fio); gateway (porta de entrada entre…",
+"DNS traduz nomes de domínio em endereços IP."
+]
+}
+]

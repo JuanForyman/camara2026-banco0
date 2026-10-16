@@ -1,0 +1,680 @@
+[
+{
+"id": "Q-FIA-0144",
+"g": "E",
+"e": "O padrão exato de marcações e de identificação de oradores é universal e idêntico em todos os parlamentos, independentemente de manual.",
+"velho": "Manual do órgão.",
+"aula": [
+"A transcrição de sessão parlamentar identifica o orador (nome, partido e unidade da Federação, conforme o padrão do órgão), registra a ordem das falas e utiliza marcações para eventos que não são fala: pausa, aplausos, risos, ruídos, trecho inaudível, sobreposição de vozes, manifestações de plenário.",
+"O padrão exato é definido pelo manual de estilo do órgão."
+]
+},
+{
+"id": "Q-FIA-0145",
+"g": "C",
+"e": "A normalização de texto na transcrição consiste na padronização de números, datas, valores, siglas, abreviações e termos técnicos conforme o manual de estilo.",
+"velho": "Normalização.",
+"aula": [
+"Normalização de texto na transcrição é a padronização de números, datas, valores, siglas, abreviações e termos técnicos conforme o manual de estilo.",
+"Números: define-se regra uniforme para uso de algarismos ou extenso (por exemplo, extenso para números pequenos e algarismos para valores, datas, artigos, percentuais); valores monetários e percentuais seguem formato padronizado; numeração de proposições e artigos segue o formato oficial (por exemplo, PL 1234/2024; art. 5º)."
+]
+},
+{
+"id": "Q-FIA-0146",
+"g": "E",
+"e": "A normalização de texto na transcrição consiste em substituir termos técnicos por sinônimos populares para facilitar a leitura. Isso é consenso na área.",
+"velho": "Normalização.",
+"aula": [
+"Normalização de texto na transcrição é a padronização de números, datas, valores, siglas, abreviações e termos técnicos conforme o manual de estilo.",
+"Termos técnicos e latinismos devem ser grafados corretamente, com conferência em glossário ou fonte oficial; nomes próprios devem ser conferidos em lista de parlamentares."
+]
+},
+{
+"id": "Q-FIA-0147",
+"g": "C",
+"e": "A numeração de proposições e de artigos deve seguir o formato oficial, como em 'PL 1234/2024' e 'art. 5º'.",
+"velho": "Formato oficial.",
+"aula": [
+"Números: define-se regra uniforme para uso de algarismos ou extenso (por exemplo, extenso para números pequenos e algarismos para valores, datas, artigos, percentuais); valores monetários e percentuais seguem formato padronizado; numeração de proposições e artigos segue o formato oficial (por exemplo, PL 1234/2024; art. 5º).",
+"Siglas: padronizar o uso de maiúsculas, a explicitação na primeira ocorrência quando o manual exigir e a grafia oficial (PEC, MPV, STF); abreviações devem seguir regra uniforme."
+]
+},
+{
+"id": "Q-FIA-0148",
+"g": "E",
+"e": "A numeração de proposições e de artigos deve ser escrita por extenso em todos os casos, como em 'projeto de lei mil duzentos e trinta e quatro'.",
+"velho": "Formato oficial.",
+"aula": [
+"Números: define-se regra uniforme para uso de algarismos ou extenso (por exemplo, extenso para números pequenos e algarismos para valores, datas, artigos, percentuais); valores monetários e percentuais seguem formato padronizado; numeração de proposições e artigos segue o formato oficial (por exemplo, PL 1234/2024; art. 5º)."
+]
+},
+{
+"id": "Q-FIA-0149",
+"g": "C",
+"e": "Termos técnicos, latinismos e nomes próprios devem ser conferidos em glossário ou fonte oficial, pois o ASR pode errar sua grafia.",
+"velho": "Conferência de termos.",
+"aula": [
+"Normalização de texto na transcrição é a padronização de números, datas, valores, siglas, abreviações e termos técnicos conforme o manual de estilo.",
+"Termos técnicos e latinismos devem ser grafados corretamente, com conferência em glossário ou fonte oficial; nomes próprios devem ser conferidos em lista de parlamentares."
+]
+},
+{
+"id": "Q-FIA-0150",
+"g": "E",
+"e": "Termos técnicos, latinismos e nomes próprios dispensam conferência, pois o ASR os grafa corretamente. Isso é consenso na área.",
+"velho": "Conferência de termos.",
+"aula": [
+"Normalização de texto na transcrição é a padronização de números, datas, valores, siglas, abreviações e termos técnicos conforme o manual de estilo.",
+"Termos técnicos e latinismos devem ser grafados corretamente, com conferência em glossário ou fonte oficial; nomes próprios devem ser conferidos em lista de parlamentares."
+]
+},
+{
+"id": "Q-FIA-0151",
+"g": "C",
+"e": "Siglas devem ser padronizadas quanto às maiúsculas e à grafia oficial, e abreviações devem seguir regra uniforme.",
+"velho": "Siglas e abreviações.",
+"aula": [
+"Números: define-se regra uniforme para uso de algarismos ou extenso (por exemplo, extenso para números pequenos e algarismos para valores, datas, artigos, percentuais); valores monetários e percentuais seguem formato padronizado; numeração de proposições e artigos segue o formato oficial (por exemplo, PL 1234/2024; art. 5º).",
+"Siglas: padronizar o uso de maiúsculas, a explicitação na primeira ocorrência quando o manual exigir e a grafia oficial (PEC, MPV, STF); abreviações devem seguir regra uniforme."
+]
+},
+{
+"id": "Q-FIA-0152",
+"g": "E",
+"e": "Siglas e abreviações podem ser grafadas livremente em cada trecho, sem regra uniforme. Trata-se de prática corrente.",
+"velho": "Siglas e abreviações.",
+"aula": [
+"Normalização de texto na transcrição é a padronização de números, datas, valores, siglas, abreviações e termos técnicos conforme o manual de estilo.",
+"Siglas: padronizar o uso de maiúsculas, a explicitação na primeira ocorrência quando o manual exigir e a grafia oficial (PEC, MPV, STF); abreviações devem seguir regra uniforme."
+]
+},
+{
+"id": "Q-FIA-0153",
+"g": "C",
+"e": "A conversão automática de 'primeiro' ou 'um' pode errar entre numeral e artigo ou entre ordinal e cardinal, razão pela qual a normalização automática é revisada pelo humano.",
+"velho": "ITN e ambiguidade.",
+"aula": [
+"Armadilhas do ASR: pontuação automática e ITN podem converter erroneamente (por exemplo, 'um' como numeral em vez de artigo; 'primeiro' ordinal e 'um' cardinal); a normalização automática é revisada pelo humano, que garante a consistência com o manual."
+]
+},
+{
+"id": "Q-FIA-0154",
+"g": "E",
+"e": "A conversão automática de 'primeiro' ou 'um' nunca erra, razão pela qual a normalização automática dispensa revisão. Isso é consenso na área.",
+"velho": "ITN e ambiguidade.",
+"aula": [
+"Armadilhas do ASR: pontuação automática e ITN podem converter erroneamente (por exemplo, 'um' como numeral em vez de artigo; 'primeiro' ordinal e 'um' cardinal); a normalização automática é revisada pelo humano, que garante a consistência com o manual."
+]
+},
+{
+"id": "Q-FIA-0155",
+"g": "C",
+"e": "A regra de usar extenso ou algarismos deve ser uniforme em todo o documento, definida pelo manual de estilo.",
+"velho": "Uniformidade numérica.",
+"aula": [
+"Números: define-se regra uniforme para uso de algarismos ou extenso (por exemplo, extenso para números pequenos e algarismos para valores, datas, artigos, percentuais); valores monetários e percentuais seguem formato padronizado; numeração de proposições e artigos segue o formato oficial (por exemplo, PL 1234/2024; art. 5º).",
+"Siglas: padronizar o uso de maiúsculas, a explicitação na primeira ocorrência quando o manual exigir e a grafia oficial (PEC, MPV, STF); abreviações devem seguir regra uniforme."
+]
+},
+{
+"id": "Q-FIA-0156",
+"g": "E",
+"e": "A regra de usar extenso ou algarismos pode variar a cada frase, conforme a preferência do transcritor.",
+"velho": "Uniformidade numérica.",
+"aula": [
+"Números: define-se regra uniforme para uso de algarismos ou extenso (por exemplo, extenso para números pequenos e algarismos para valores, datas, artigos, percentuais); valores monetários e percentuais seguem formato padronizado; numeração de proposições e artigos segue o formato oficial (por exemplo, PL 1234/2024; art. 5º)."
+]
+},
+{
+"id": "Q-FIA-0157",
+"g": "C",
+"e": "Ferramentas de CAT, no sentido de Computer Assisted Transcription, são editores com texto sincronizado ao áudio, controle de velocidade, atalhos e marcadores de orador.",
+"velho": "CAT.",
+"aula": [
+"CAT (Computer Assisted Transcription) designa ferramentas que auxiliam a transcrição e a revisão: editor de texto sincronizado com o áudio (marcações de tempo), controle de velocidade de reprodução, retrocesso automático, atalhos de teclado, pedal de controle, substituição de termos, glossários, marcadores de orador e verificação ortográfica.",
+"CAT para transcrição (Computer Assisted Transcription) não deve ser confundido com CAT de tradução (Computer-Assisted Translation), que usa memórias de tradução e bases terminológicas, embora a sigla coincida."
+]
+},
+{
+"id": "Q-FIA-0158",
+"g": "E",
+"e": "Ferramentas de CAT, no sentido de Computer Assisted Transcription, usam memórias de tradução e bases terminológicas para traduzir textos. Isso é consenso na área.",
+"velho": "CAT.",
+"aula": [
+"CAT (Computer Assisted Transcription) designa ferramentas que auxiliam a transcrição e a revisão: editor de texto sincronizado com o áudio (marcações de tempo), controle de velocidade de reprodução, retrocesso automático, atalhos de teclado, pedal de controle, substituição de termos, glossários, marcadores de orador e verificação ortográfica.",
+"CAT para transcrição (Computer Assisted Transcription) não deve ser confundido com CAT de tradução (Computer-Assisted Translation), que usa memórias de tradução e bases terminológicas, embora a sigla coincida."
+]
+},
+{
+"id": "Q-FIA-0159",
+"g": "C",
+"e": "Um editor de transcrição moderno permite clicar em uma palavra e ouvir o trecho correspondente do áudio.",
+"velho": "Sincronização.",
+"aula": [
+"CAT (Computer Assisted Transcription) designa ferramentas que auxiliam a transcrição e a revisão: editor de texto sincronizado com o áudio (marcações de tempo), controle de velocidade de reprodução, retrocesso automático, atalhos de teclado, pedal de controle, substituição de termos, glossários, marcadores de orador e verificação ortográfica.",
+"Um editor de transcrição moderno carrega o texto produzido pelo ASR, destaca trechos de baixa confiança, permite clicar em uma palavra e ouvir o trecho correspondente, aplica regras de normalização e exporta em formatos (texto, legenda, documento)."
+]
+},
+{
+"id": "Q-FIA-0160",
+"g": "E",
+"e": "Um editor de transcrição moderno dissocia o texto do áudio, de modo que não é possível ouvir o trecho correspondente a uma palavra.",
+"velho": "Sincronização.",
+"aula": [
+"CAT (Computer Assisted Transcription) designa ferramentas que auxiliam a transcrição e a revisão: editor de texto sincronizado com o áudio (marcações de tempo), controle de velocidade de reprodução, retrocesso automático, atalhos de teclado, pedal de controle, substituição de termos, glossários, marcadores de orador e verificação ortográfica.",
+"Um editor de transcrição moderno carrega o texto produzido pelo ASR, destaca trechos de baixa confiança, permite clicar em uma palavra e ouvir o trecho correspondente, aplica regras de normalização e exporta em formatos (texto, legenda, documento)."
+]
+},
+{
+"id": "Q-FIA-0161",
+"g": "C",
+"e": "Editores de transcrição podem destacar trechos de baixa confiança do ASR e registrar as alterações feitas pelo revisor.",
+"velho": "Funções.",
+"aula": [
+"Um editor de transcrição moderno carrega o texto produzido pelo ASR, destaca trechos de baixa confiança, permite clicar em uma palavra e ouvir o trecho correspondente, aplica regras de normalização e exporta em formatos (texto, legenda, documento).",
+"Funções de comparação entre versões registram as alterações feitas pelo revisor."
+]
+},
+{
+"id": "Q-FIA-0162",
+"g": "E",
+"e": "Editores de transcrição não podem destacar trechos de baixa confiança nem registrar alterações do revisor.",
+"velho": "Funções.",
+"aula": [
+"Um editor de transcrição moderno carrega o texto produzido pelo ASR, destaca trechos de baixa confiança, permite clicar em uma palavra e ouvir o trecho correspondente, aplica regras de normalização e exporta em formatos (texto, legenda, documento).",
+"Funções de comparação entre versões registram as alterações feitas pelo revisor."
+]
+},
+{
+"id": "Q-FIA-0163",
+"g": "C",
+"e": "Recursos como retrocesso automático, controle de velocidade de reprodução e atalhos de teclado reduzem o tempo de revisão.",
+"velho": "Produtividade.",
+"aula": [
+"CAT (Computer Assisted Transcription) designa ferramentas que auxiliam a transcrição e a revisão: editor de texto sincronizado com o áudio (marcações de tempo), controle de velocidade de reprodução, retrocesso automático, atalhos de teclado, pedal de controle, substituição de termos, glossários, marcadores de orador e verificação ortográfica."
+]
+},
+{
+"id": "Q-FIA-0164",
+"g": "E",
+"e": "Recursos como retrocesso automático e controle de velocidade só servem para tradução e não afetam o tempo de revisão da transcrição.",
+"velho": "Produtividade.",
+"aula": [
+"CAT (Computer Assisted Transcription) designa ferramentas que auxiliam a transcrição e a revisão: editor de texto sincronizado com o áudio (marcações de tempo), controle de velocidade de reprodução, retrocesso automático, atalhos de teclado, pedal de controle, substituição de termos, glossários, marcadores de orador e verificação ortográfica.",
+"CAT para transcrição (Computer Assisted Transcription) não deve ser confundido com CAT de tradução (Computer-Assisted Translation), que usa memórias de tradução e bases terminológicas, embora a sigla coincida."
+]
+},
+{
+"id": "Q-FIA-0165",
+"g": "C",
+"e": "Um editor que carrega a saída do ASR, aplica regras de normalização e exporta em formatos como texto ou legenda é exemplo de ferramenta de apoio à degravação.",
+"velho": "Ferramenta de apoio.",
+"aula": [
+"CAT (Computer Assisted Transcription) designa ferramentas que auxiliam a transcrição e a revisão: editor de texto sincronizado com o áudio (marcações de tempo), controle de velocidade de reprodução, retrocesso automático, atalhos de teclado, pedal de controle, substituição de termos, glossários, marcadores de orador e verificação ortográfica.",
+"Um editor de transcrição moderno carrega o texto produzido pelo ASR, destaca trechos de baixa confiança, permite clicar em uma palavra e ouvir o trecho correspondente, aplica regras de normalização e exporta em formatos (texto, legenda, documento)."
+]
+},
+{
+"id": "Q-FIA-0166",
+"g": "E",
+"e": "Um editor que carrega a saída do ASR e a exporta em texto sem permitir correção é suficiente para substituir a revisão humana. Isso é consenso na área.",
+"velho": "Ferramenta de apoio.",
+"aula": [
+"CAT (Computer Assisted Transcription) designa ferramentas que auxiliam a transcrição e a revisão: editor de texto sincronizado com o áudio (marcações de tempo), controle de velocidade de reprodução, retrocesso automático, atalhos de teclado, pedal de controle, substituição de termos, glossários, marcadores de orador e verificação ortográfica.",
+"Um editor de transcrição moderno carrega o texto produzido pelo ASR, destaca trechos de baixa confiança, permite clicar em uma palavra e ouvir o trecho correspondente, aplica regras de normalização e exporta em formatos (texto, legenda, documento)."
+]
+},
+{
+"id": "Q-FIA-0167",
+"g": "C",
+"e": "A função de comparação entre versões de um texto permite registrar as correções feitas pelo revisor e auditar o trabalho.",
+"velho": "Comparação.",
+"aula": [
+"Um editor de transcrição moderno carrega o texto produzido pelo ASR, destaca trechos de baixa confiança, permite clicar em uma palavra e ouvir o trecho correspondente, aplica regras de normalização e exporta em formatos (texto, legenda, documento).",
+"Funções de comparação entre versões registram as alterações feitas pelo revisor."
+]
+},
+{
+"id": "Q-FIA-0168",
+"g": "E",
+"e": "A função de comparação entre versões impede a auditoria, pois apaga as correções. Trata-se de prática corrente.",
+"velho": "Comparação.",
+"aula": [
+"Funções de comparação entre versões registram as alterações feitas pelo revisor."
+]
+},
+{
+"id": "Q-FIA-0169",
+"g": "C",
+"e": "Na revisão em dupla, um segundo profissional revisa o trabalho do primeiro, o que aumenta a detecção de erros.",
+"velho": "Revisão em dupla.",
+"aula": [
+"Controle de qualidade combina medidas preventivas (manual de estilo, treinamento, glossário) e detectivas (revisão em dupla, auditoria, métricas).",
+"Revisão em dupla (ou por pares): um segundo profissional revisa o trabalho do primeiro, o que aumenta a detecção de erros e reduz vieses individuais."
+]
+},
+{
+"id": "Q-FIA-0170",
+"g": "E",
+"e": "Na revisão em dupla, o mesmo profissional revisa duas vezes o próprio trabalho, o que dispensa um segundo revisor.",
+"velho": "Revisão em dupla.",
+"aula": [
+"Controle de qualidade combina medidas preventivas (manual de estilo, treinamento, glossário) e detectivas (revisão em dupla, auditoria, métricas).",
+"Revisão em dupla (ou por pares): um segundo profissional revisa o trabalho do primeiro, o que aumenta a detecção de erros e reduz vieses individuais."
+]
+},
+{
+"id": "Q-FIA-0171",
+"g": "C",
+"e": "Na auditoria de amostras, seleciona-se parte do material, aleatória ou direcionada a risco, para conferência com o áudio e cálculo de taxa de erro.",
+"velho": "Auditoria.",
+"aula": [
+"Auditoria de amostras: seleciona-se uma amostra do material (aleatória ou direcionada a risco) para conferência com o áudio e cálculo de taxa de erro, sem revisar todo o conteúdo."
+]
+},
+{
+"id": "Q-FIA-0172",
+"g": "E",
+"e": "Na auditoria de amostras, todo o material é obrigatoriamente reexaminado, sendo vedada a seleção de amostra. Trata-se de prática corrente.",
+"velho": "Auditoria.",
+"aula": [
+"Auditoria de amostras: seleciona-se uma amostra do material (aleatória ou direcionada a risco) para conferência com o áudio e cálculo de taxa de erro, sem revisar todo o conteúdo."
+]
+},
+{
+"id": "Q-FIA-0173",
+"g": "C",
+"e": "O SLA (acordo de nível de serviço) define metas mensuráveis, como prazo de entrega, acurácia mínima e disponibilidade.",
+"velho": "SLA.",
+"aula": [
+"SLA (Service Level Agreement, acordo de nível de serviço) define metas mensuráveis, como prazo de entrega, acurácia mínima, disponibilidade e tempo de resposta a correções."
+]
+},
+{
+"id": "Q-FIA-0174",
+"g": "E",
+"e": "O SLA (acordo de nível de serviço) é o manual de estilo que define a grafia de nomes e siglas. Isso é consenso na área.",
+"velho": "SLA.",
+"aula": [
+"Controle de qualidade combina medidas preventivas (manual de estilo, treinamento, glossário) e detectivas (revisão em dupla, auditoria, métricas).",
+"SLA (Service Level Agreement, acordo de nível de serviço) define metas mensuráveis, como prazo de entrega, acurácia mínima, disponibilidade e tempo de resposta a correções."
+]
+},
+{
+"id": "Q-FIA-0175",
+"g": "C",
+"e": "Entre as métricas de controle de qualidade estão o WER ou a taxa de erros por mil palavras, o tempo de retorno e o percentual de retrabalho.",
+"velho": "Métricas.",
+"aula": [
+"Controle de qualidade combina medidas preventivas (manual de estilo, treinamento, glossário) e detectivas (revisão em dupla, auditoria, métricas).",
+"Métricas comuns: WER ou taxa de erros por mil palavras, tempo de retorno (turnaround), percentual de retrabalho e conformidade com o manual."
+]
+},
+{
+"id": "Q-FIA-0176",
+"g": "E",
+"e": "Entre as métricas de controle de qualidade não se incluem taxas de erro, apenas a opinião subjetiva do revisor. Trata-se de prática corrente.",
+"velho": "Métricas.",
+"aula": [
+"Controle de qualidade combina medidas preventivas (manual de estilo, treinamento, glossário) e detectivas (revisão em dupla, auditoria, métricas)."
+]
+},
+{
+"id": "Q-FIA-0177",
+"g": "C",
+"e": "Em fluxos com IA, também se auditam a deriva de desempenho do modelo ao longo do tempo, o efeito de atualizações e a ocorrência de alucinações.",
+"velho": "Auditoria de IA.",
+"aula": [
+"Em fluxos com IA, auditam-se também o desempenho do modelo ao longo do tempo (deriva), o impacto de atualizações do modelo e a ocorrência de alucinações."
+]
+},
+{
+"id": "Q-FIA-0178",
+"g": "E",
+"e": "Em fluxos com IA, o desempenho do modelo permanece estável para sempre e atualizações não exigem nova auditoria. Isso é consenso na área.",
+"velho": "Auditoria de IA.",
+"aula": [
+"Em fluxos com IA, auditam-se também o desempenho do modelo ao longo do tempo (deriva), o impacto de atualizações do modelo e a ocorrência de alucinações."
+]
+},
+{
+"id": "Q-FIA-0179",
+"g": "C",
+"e": "Medidas preventivas, como manual de estilo, treinamento e glossário, complementam medidas detectivas, como revisão em dupla e auditoria.",
+"velho": "Preventivas e detectivas.",
+"aula": [
+"Controle de qualidade combina medidas preventivas (manual de estilo, treinamento, glossário) e detectivas (revisão em dupla, auditoria, métricas).",
+"Revisão em dupla (ou por pares): um segundo profissional revisa o trabalho do primeiro, o que aumenta a detecção de erros e reduz vieses individuais."
+]
+},
+{
+"id": "Q-FIA-0180",
+"g": "E",
+"e": "Medidas preventivas, como manual de estilo e treinamento, são desnecessárias quando há revisão em dupla. Trata-se de prática corrente.",
+"velho": "Preventivas e detectivas.",
+"aula": [
+"Controle de qualidade combina medidas preventivas (manual de estilo, treinamento, glossário) e detectivas (revisão em dupla, auditoria, métricas).",
+"Revisão em dupla (ou por pares): um segundo profissional revisa o trabalho do primeiro, o que aumenta a detecção de erros e reduz vieses individuais."
+]
+},
+{
+"id": "Q-FIA-0181",
+"g": "C",
+"e": "O vocabulário personalizado (custom vocabulary, hotwords ou phrase hints) aumenta a probabilidade de que certos termos sejam reconhecidos, o que ajuda com nomes próprios e siglas do domínio.",
+"velho": "Vocabulário personalizado.",
+"aula": [
+"Meios: lista de palavras personalizadas (custom vocabulary, hotwords, phrase hints), que aumenta a probabilidade de certos termos; adaptação do modelo de linguagem com textos do domínio (anais, notas taquigráficas, proposições); ajuste fino (fine-tuning) do modelo acústico com áudio degravado.",
+"Cuidados: vocabulário personalizado em excesso, ou com pesos muito altos, causa falsos positivos (o modelo passa a 'ouvir' termos do vocabulário onde não foram ditos); é preciso manter a lista atualizada com nomes de parlamentares de cada legislatura, siglas e proposições; a qualidade do corpus de adaptação (revisado e sem erros) determina a qualidade do…"
+]
+},
+{
+"id": "Q-FIA-0182",
+"g": "E",
+"e": "O vocabulário personalizado reduz a probabilidade de reconhecimento dos termos listados, razão pela qual é usado apenas para bloquear palavras impróprias. Isso é consenso na área.",
+"velho": "Vocabulário personalizado.",
+"aula": [
+"Meios: lista de palavras personalizadas (custom vocabulary, hotwords, phrase hints), que aumenta a probabilidade de certos termos; adaptação do modelo de linguagem com textos do domínio (anais, notas taquigráficas, proposições); ajuste fino (fine-tuning) do modelo acústico com áudio degravado.",
+"Cuidados: vocabulário personalizado em excesso, ou com pesos muito altos, causa falsos positivos (o modelo passa a 'ouvir' termos do vocabulário onde não foram ditos); é preciso manter a lista atualizada com nomes de parlamentares de cada legislatura, siglas e proposições; a qualidade do corpus de adaptação (revisado e sem erros) determina a qualidade do…"
+]
+},
+{
+"id": "Q-FIA-0183",
+"g": "C",
+"e": "A adaptação do modelo de linguagem pode usar corpus de texto do domínio, mesmo sem áudio correspondente, para reponderar a probabilidade das palavras.",
+"velho": "Adaptação com texto.",
+"aula": [
+"Meios: lista de palavras personalizadas (custom vocabulary, hotwords, phrase hints), que aumenta a probabilidade de certos termos; adaptação do modelo de linguagem com textos do domínio (anais, notas taquigráficas, proposições); ajuste fino (fine-tuning) do modelo acústico com áudio degravado.",
+"Language model adaptation (adaptação do modelo de linguagem) usa corpus de texto do domínio, mesmo sem áudio correspondente, para reponderar a probabilidade das palavras; em ASR end-to-end pode-se integrar um modelo de linguagem externo (por exemplo, por fusão superficial, shallow fusion) ou reclassificar as hipóteses (rescoring)."
+]
+},
+{
+"id": "Q-FIA-0184",
+"g": "E",
+"e": "A adaptação do modelo de linguagem exige sempre áudio correspondente a cada texto do corpus, sendo impossível adaptar apenas com texto. Trata-se de prática corrente.",
+"velho": "Adaptação com texto.",
+"aula": [
+"Meios: lista de palavras personalizadas (custom vocabulary, hotwords, phrase hints), que aumenta a probabilidade de certos termos; adaptação do modelo de linguagem com textos do domínio (anais, notas taquigráficas, proposições); ajuste fino (fine-tuning) do modelo acústico com áudio degravado.",
+"Language model adaptation (adaptação do modelo de linguagem) usa corpus de texto do domínio, mesmo sem áudio correspondente, para reponderar a probabilidade das palavras; em ASR end-to-end pode-se integrar um modelo de linguagem externo (por exemplo, por fusão superficial, shallow fusion) ou reclassificar as hipóteses (rescoring)."
+]
+},
+{
+"id": "Q-FIA-0185",
+"g": "C",
+"e": "Vocabulário personalizado em excesso, ou com pesos muito altos, pode causar falsos positivos, em que o modelo passa a reconhecer termos da lista onde não foram ditos.",
+"velho": "Falsos positivos.",
+"aula": [
+"Meios: lista de palavras personalizadas (custom vocabulary, hotwords, phrase hints), que aumenta a probabilidade de certos termos; adaptação do modelo de linguagem com textos do domínio (anais, notas taquigráficas, proposições); ajuste fino (fine-tuning) do modelo acústico com áudio degravado.",
+"Cuidados: vocabulário personalizado em excesso, ou com pesos muito altos, causa falsos positivos (o modelo passa a 'ouvir' termos do vocabulário onde não foram ditos); é preciso manter a lista atualizada com nomes de parlamentares de cada legislatura, siglas e proposições; a qualidade do corpus de adaptação (revisado e sem erros) determina a qualidade do…"
+]
+},
+{
+"id": "Q-FIA-0186",
+"g": "E",
+"e": "Vocabulário personalizado em excesso não tem efeito colateral, e quanto maior o peso de cada termo, melhor o reconhecimento em todos os casos. Isso é consenso na área.",
+"velho": "Falsos positivos.",
+"aula": [
+"Cuidados: vocabulário personalizado em excesso, ou com pesos muito altos, causa falsos positivos (o modelo passa a 'ouvir' termos do vocabulário onde não foram ditos); é preciso manter a lista atualizada com nomes de parlamentares de cada legislatura, siglas e proposições; a qualidade do corpus de adaptação (revisado e sem erros) determina a qualidade do…"
+]
+},
+{
+"id": "Q-FIA-0187",
+"g": "C",
+"e": "O ajuste fino (fine-tuning) do modelo acústico com áudio degravado do domínio é uma das formas de adaptação ao vocabulário e às condições de gravação.",
+"velho": "Fine-tuning.",
+"aula": [
+"Meios: lista de palavras personalizadas (custom vocabulary, hotwords, phrase hints), que aumenta a probabilidade de certos termos; adaptação do modelo de linguagem com textos do domínio (anais, notas taquigráficas, proposições); ajuste fino (fine-tuning) do modelo acústico com áudio degravado.",
+"Language model adaptation (adaptação do modelo de linguagem) usa corpus de texto do domínio, mesmo sem áudio correspondente, para reponderar a probabilidade das palavras; em ASR end-to-end pode-se integrar um modelo de linguagem externo (por exemplo, por fusão superficial, shallow fusion) ou reclassificar as hipóteses (rescoring)."
+]
+},
+{
+"id": "Q-FIA-0188",
+"g": "E",
+"e": "O ajuste fino (fine-tuning) do modelo acústico é incompatível com áudio degravado, pois só pode ser feito com áudio sem transcrição. Trata-se de prática corrente.",
+"velho": "Fine-tuning.",
+"aula": [
+"Meios: lista de palavras personalizadas (custom vocabulary, hotwords, phrase hints), que aumenta a probabilidade de certos termos; adaptação do modelo de linguagem com textos do domínio (anais, notas taquigráficas, proposições); ajuste fino (fine-tuning) do modelo acústico com áudio degravado.",
+"Language model adaptation (adaptação do modelo de linguagem) usa corpus de texto do domínio, mesmo sem áudio correspondente, para reponderar a probabilidade das palavras; em ASR end-to-end pode-se integrar um modelo de linguagem externo (por exemplo, por fusão superficial, shallow fusion) ou reclassificar as hipóteses (rescoring)."
+]
+},
+{
+"id": "Q-FIA-0189",
+"g": "C",
+"e": "A lista de nomes de parlamentares e de siglas de proposições deve ser atualizada a cada legislatura para manter a qualidade do vocabulário adaptado.",
+"velho": "Atualização da lista.",
+"aula": [
+"Meios: lista de palavras personalizadas (custom vocabulary, hotwords, phrase hints), que aumenta a probabilidade de certos termos; adaptação do modelo de linguagem com textos do domínio (anais, notas taquigráficas, proposições); ajuste fino (fine-tuning) do modelo acústico com áudio degravado.",
+"Cuidados: vocabulário personalizado em excesso, ou com pesos muito altos, causa falsos positivos (o modelo passa a 'ouvir' termos do vocabulário onde não foram ditos); é preciso manter a lista atualizada com nomes de parlamentares de cada legislatura, siglas e proposições; a qualidade do corpus de adaptação (revisado e sem erros) determina a qualidade do…"
+]
+},
+{
+"id": "Q-FIA-0190",
+"g": "E",
+"e": "A lista de nomes de parlamentares dispensa atualização, pois os nomes não mudam entre legislaturas. Isso é consenso na área.",
+"velho": "Atualização da lista.",
+"aula": [
+"Cuidados: vocabulário personalizado em excesso, ou com pesos muito altos, causa falsos positivos (o modelo passa a 'ouvir' termos do vocabulário onde não foram ditos); é preciso manter a lista atualizada com nomes de parlamentares de cada legislatura, siglas e proposições; a qualidade do corpus de adaptação (revisado e sem erros) determina a qualidade do…"
+]
+},
+{
+"id": "Q-FIA-0191",
+"g": "C",
+"e": "A qualidade do corpus usado na adaptação, revisado e sem erros, determina a qualidade do resultado.",
+"velho": "Corpus.",
+"aula": [
+"Language model adaptation (adaptação do modelo de linguagem) usa corpus de texto do domínio, mesmo sem áudio correspondente, para reponderar a probabilidade das palavras; em ASR end-to-end pode-se integrar um modelo de linguagem externo (por exemplo, por fusão superficial, shallow fusion) ou reclassificar as hipóteses (rescoring).",
+"Cuidados: vocabulário personalizado em excesso, ou com pesos muito altos, causa falsos positivos (o modelo passa a 'ouvir' termos do vocabulário onde não foram ditos); é preciso manter a lista atualizada com nomes de parlamentares de cada legislatura, siglas e proposições; a qualidade do corpus de adaptação (revisado e sem erros) determina a qualidade do…"
+]
+},
+{
+"id": "Q-FIA-0192",
+"g": "E",
+"e": "A qualidade do corpus usado na adaptação é irrelevante, pois o modelo corrige sozinho os erros do texto de treinamento.",
+"velho": "Corpus.",
+"aula": [
+"Language model adaptation (adaptação do modelo de linguagem) usa corpus de texto do domínio, mesmo sem áudio correspondente, para reponderar a probabilidade das palavras; em ASR end-to-end pode-se integrar um modelo de linguagem externo (por exemplo, por fusão superficial, shallow fusion) ou reclassificar as hipóteses (rescoring).",
+"Cuidados: vocabulário personalizado em excesso, ou com pesos muito altos, causa falsos positivos (o modelo passa a 'ouvir' termos do vocabulário onde não foram ditos); é preciso manter a lista atualizada com nomes de parlamentares de cada legislatura, siglas e proposições; a qualidade do corpus de adaptação (revisado e sem erros) determina a qualidade do…"
+]
+},
+{
+"id": "Q-FIA-0193",
+"g": "C",
+"e": "Em comissões e audiências públicas, a presença de convidados externos e a sobreposição de falas aumentam a dificuldade da diarização e da transcrição.",
+"velho": "Comissões.",
+"aula": [
+"Sessões de plenário e de comissões têm características diferentes: no plenário há grande número de oradores, microfones fixos, regras de uso da palavra, apartes e votações nominais; em comissões e audiências públicas há convidados externos, debates mais livres, sobreposição de falas e menor controle sobre a qualidade do áudio.",
+"Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes."
+]
+},
+{
+"id": "Q-FIA-0194",
+"g": "E",
+"e": "Em comissões e audiências públicas, a presença de convidados externos reduz a dificuldade da transcrição, pois não há sobreposição de falas.",
+"velho": "Comissões.",
+"aula": [
+"Sessões de plenário e de comissões têm características diferentes: no plenário há grande número de oradores, microfones fixos, regras de uso da palavra, apartes e votações nominais; em comissões e audiências públicas há convidados externos, debates mais livres, sobreposição de falas e menor controle sobre a qualidade do áudio."
+]
+},
+{
+"id": "Q-FIA-0195",
+"g": "C",
+"e": "No plenário, as regras de uso da palavra e os microfones fixos tendem a facilitar a separação dos falantes em comparação com debates mais livres.",
+"velho": "Plenário.",
+"aula": [
+"Sessões de plenário e de comissões têm características diferentes: no plenário há grande número de oradores, microfones fixos, regras de uso da palavra, apartes e votações nominais; em comissões e audiências públicas há convidados externos, debates mais livres, sobreposição de falas e menor controle sobre a qualidade do áudio.",
+"Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes."
+]
+},
+{
+"id": "Q-FIA-0196",
+"g": "E",
+"e": "No plenário, as regras de uso da palavra impedem a identificação dos falantes e tornam a separação dos falantes mais difícil do que em debates livres.",
+"velho": "Plenário.",
+"aula": [
+"Sessões de plenário e de comissões têm características diferentes: no plenário há grande número de oradores, microfones fixos, regras de uso da palavra, apartes e votações nominais; em comissões e audiências públicas há convidados externos, debates mais livres, sobreposição de falas e menor controle sobre a qualidade do áudio.",
+"Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes."
+]
+},
+{
+"id": "Q-FIA-0197",
+"g": "C",
+"e": "Sessões com múltiplas faixas de áudio, como microfone por parlamentar, facilitam a separação dos falantes.",
+"velho": "Múltiplas faixas.",
+"aula": [
+"Sessões de plenário e de comissões têm características diferentes: no plenário há grande número de oradores, microfones fixos, regras de uso da palavra, apartes e votações nominais; em comissões e audiências públicas há convidados externos, debates mais livres, sobreposição de falas e menor controle sobre a qualidade do áudio.",
+"Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes."
+]
+},
+{
+"id": "Q-FIA-0198",
+"g": "E",
+"e": "Sessões com múltiplas faixas de áudio dificultam a separação dos falantes, pois cada faixa duplica o ruído.",
+"velho": "Múltiplas faixas.",
+"aula": [
+"Sessões de plenário e de comissões têm características diferentes: no plenário há grande número de oradores, microfones fixos, regras de uso da palavra, apartes e votações nominais; em comissões e audiências públicas há convidados externos, debates mais livres, sobreposição de falas e menor controle sobre a qualidade do áudio.",
+"Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes."
+]
+},
+{
+"id": "Q-FIA-0199",
+"g": "C",
+"e": "A lista de oradores e o registro de presença podem ser usados para atribuir o nome ao falante identificado por diarização.",
+"velho": "Atribuição de nomes.",
+"aula": [
+"Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes."
+]
+},
+{
+"id": "Q-FIA-0200",
+"g": "E",
+"e": "A lista de oradores e o registro de presença não podem ser usados para atribuir nomes, pois a diarização já identifica o nome de cada falante.",
+"velho": "Atribuição de nomes.",
+"aula": [
+"Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes."
+]
+},
+{
+"id": "Q-FIA-0201",
+"g": "C",
+"e": "Entre as aplicações estão a transcrição ao vivo para acessibilidade, a transcrição revisada para registro oficial, a legendagem e a indexação de vídeos por tema e orador.",
+"velho": "Aplicações.",
+"aula": [
+"Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes.",
+"Aplicações: transcrição ao vivo para acessibilidade e acompanhamento, transcrição revisada para registro oficial, geração de legendas, indexação de vídeos por tema e orador."
+]
+},
+{
+"id": "Q-FIA-0202",
+"g": "E",
+"e": "Entre as aplicações não se inclui a indexação de vídeos, pois a transcrição serve apenas para legenda. Essa seria a posição predominante na literatura técnica da área.",
+"velho": "Aplicações.",
+"aula": [
+"Aplicações: transcrição ao vivo para acessibilidade e acompanhamento, transcrição revisada para registro oficial, geração de legendas, indexação de vídeos por tema e orador."
+]
+},
+{
+"id": "Q-FIA-0203",
+"g": "C",
+"e": "A marcação de eventos como palmas, tumulto e intervenções fora do microfone faz parte do tratamento de sessões de plenário.",
+"velho": "Eventos.",
+"aula": [
+"Sessões de plenário e de comissões têm características diferentes: no plenário há grande número de oradores, microfones fixos, regras de uso da palavra, apartes e votações nominais; em comissões e audiências públicas há convidados externos, debates mais livres, sobreposição de falas e menor controle sobre a qualidade do áudio.",
+"Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes."
+]
+},
+{
+"id": "Q-FIA-0204",
+"g": "E",
+"e": "A marcação de palmas, tumulto e intervenções fora do microfone é proibida, pois só se registra a fala do orador.",
+"velho": "Eventos.",
+"aula": [
+"Implicações para ASR e degravação: necessidade de diarização robusta; uso de lista de oradores e registro de presença para identificar falantes; vocabulário adaptado ao tema de cada comissão; marcação de eventos (palmas, tumulto, intervenções fora do microfone); sessões com múltiplas faixas de áudio (microfone por parlamentar) facilitam a separação dos falantes."
+]
+},
+{
+"id": "Q-FIA-0205",
+"g": "C",
+"e": "A sumarização extrativa seleciona trechos do texto original, sem criar texto novo, ao passo que a abstrativa gera texto novo reformulando o conteúdo.",
+"velho": "Extrativa x abstrativa.",
+"aula": [
+"Sumarização extrativa seleciona e combina trechos do texto original (frases ou parágrafos), sem criar texto novo; tende a preservar a literalidade e a reduzir o risco de alucinação, mas pode ficar fragmentada.",
+"Sumarização abstrativa gera texto novo, reformulando o conteúdo; é mais fluente e condensada, mas tem risco de alucinação (informação não presente na fonte) e de distorção, como atribuição incorreta de falas, mudança de ênfase e omissão de ressalvas."
+]
+},
+{
+"id": "Q-FIA-0206",
+"g": "E",
+"e": "A sumarização extrativa gera texto novo reformulando o conteúdo, ao passo que a abstrativa seleciona trechos do texto original sem criar texto novo.",
+"velho": "Extrativa x abstrativa.",
+"aula": [
+"Sumarização extrativa seleciona e combina trechos do texto original (frases ou parágrafos), sem criar texto novo; tende a preservar a literalidade e a reduzir o risco de alucinação, mas pode ficar fragmentada.",
+"Sumarização abstrativa gera texto novo, reformulando o conteúdo; é mais fluente e condensada, mas tem risco de alucinação (informação não presente na fonte) e de distorção, como atribuição incorreta de falas, mudança de ênfase e omissão de ressalvas."
+]
+},
+{
+"id": "Q-FIA-0207",
+"g": "C",
+"e": "A sumarização abstrativa tem maior risco de alucinação e de distorção, como atribuição incorreta de falas e omissão de ressalvas.",
+"velho": "Risco da abstrativa.",
+"aula": [
+"Sumarização extrativa seleciona e combina trechos do texto original (frases ou parágrafos), sem criar texto novo; tende a preservar a literalidade e a reduzir o risco de alucinação, mas pode ficar fragmentada.",
+"Sumarização abstrativa gera texto novo, reformulando o conteúdo; é mais fluente e condensada, mas tem risco de alucinação (informação não presente na fonte) e de distorção, como atribuição incorreta de falas, mudança de ênfase e omissão de ressalvas."
+]
+},
+{
+"id": "Q-FIA-0208",
+"g": "E",
+"e": "A sumarização abstrativa é imune a alucinação, pois reformula o texto com base apenas nas palavras da fonte. Trata-se de prática corrente.",
+"velho": "Risco da abstrativa.",
+"aula": [
+"Sumarização extrativa seleciona e combina trechos do texto original (frases ou parágrafos), sem criar texto novo; tende a preservar a literalidade e a reduzir o risco de alucinação, mas pode ficar fragmentada.",
+"Sumarização abstrativa gera texto novo, reformulando o conteúdo; é mais fluente e condensada, mas tem risco de alucinação (informação não presente na fonte) e de distorção, como atribuição incorreta de falas, mudança de ênfase e omissão de ressalvas."
+]
+},
+{
+"id": "Q-FIA-0209",
+"g": "C",
+"e": "A métrica ROUGE mede a sobreposição lexical com resumos de referência e não garante a fidelidade factual do resumo.",
+"velho": "ROUGE.",
+"aula": [
+"Para transcrições longas, usa-se divisão em partes (chunking) e sumarização hierárquica (map-reduce). Avaliação: métricas automáticas, como ROUGE, medem sobreposição lexical com resumos de referência, e não garantem fidelidade factual; a avaliação por pessoas e a checagem de fundamentação (atribuição à fonte) são necessárias."
+]
+},
+{
+"id": "Q-FIA-0210",
+"g": "E",
+"e": "A métrica ROUGE mede diretamente a fidelidade factual do resumo, dispensando a avaliação humana. Isso é consenso na área.",
+"velho": "ROUGE.",
+"aula": [
+"Para transcrições longas, usa-se divisão em partes (chunking) e sumarização hierárquica (map-reduce). Avaliação: métricas automáticas, como ROUGE, medem sobreposição lexical com resumos de referência, e não garantem fidelidade factual; a avaliação por pessoas e a checagem de fundamentação (atribuição à fonte) são necessárias."
+]
+},
+{
+"id": "Q-FIA-0211",
+"g": "C",
+"e": "Para transcrições longas, pode-se dividir o texto em partes e sumarizar de forma hierárquica (map-reduce).",
+"velho": "Textos longos.",
+"aula": [
+"Para transcrições longas, usa-se divisão em partes (chunking) e sumarização hierárquica (map-reduce). Avaliação: métricas automáticas, como ROUGE, medem sobreposição lexical com resumos de referência, e não garantem fidelidade factual; a avaliação por pessoas e a checagem de fundamentação (atribuição à fonte) são necessárias."
+]
+},
+{
+"id": "Q-FIA-0212",
+"g": "E",
+"e": "Para transcrições longas, a sumarização só é possível se o texto inteiro couber de uma única vez no modelo, sendo impossível dividi-lo.",
+"velho": "Textos longos.",
+"aula": [
+"Sumarização extrativa seleciona e combina trechos do texto original (frases ou parágrafos), sem criar texto novo; tende a preservar a literalidade e a reduzir o risco de alucinação, mas pode ficar fragmentada.",
+"Para transcrições longas, usa-se divisão em partes (chunking) e sumarização hierárquica (map-reduce). Avaliação: métricas automáticas, como ROUGE, medem sobreposição lexical com resumos de referência, e não garantem fidelidade factual; a avaliação por pessoas e a checagem de fundamentação (atribuição à fonte) são necessárias."
+]
+},
+{
+"id": "Q-FIA-0213",
+"g": "C",
+"e": "Resumos de sessões devem indicar a fonte, como minuto do vídeo ou trecho da transcrição, para permitir verificação, e devem ser revisados antes do uso oficial.",
+"velho": "Fonte e revisão.",
+"aula": [
+"Para transcrições longas, usa-se divisão em partes (chunking) e sumarização hierárquica (map-reduce). Avaliação: métricas automáticas, como ROUGE, medem sobreposição lexical com resumos de referência, e não garantem fidelidade factual; a avaliação por pessoas e a checagem de fundamentação (atribuição à fonte) são necessárias.",
+"Em contexto parlamentar, resumos devem indicar a fonte (minuto do vídeo, trecho da transcrição), permitindo verificação, e devem ser revisados antes de uso oficial."
+]
+}
+]

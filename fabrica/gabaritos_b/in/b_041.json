@@ -1,0 +1,679 @@
+[
+{
+"id": "Q-ORG-0041",
+"g": "C",
+"e": "Segundo o STF, é constitucional a dispensa de licitação para a celebração do contrato de gestão com organizações sociais, desde que o procedimento de qualificação e de celebração observe critérios objetivos e impessoais, de acordo com os princípios do art. 37 da Constituição.",
+"velho": "STF, ADI 1.923.",
+"aula": [
+"Organização social (Lei 9.637/1998): qualificada pelo Poder Executivo, firma contrato de gestão com o Poder Público; o STF (ADI 1.923) entendeu constitucional a dispensa de licitação para o contrato de gestão, desde que o procedimento de qualificação e a celebração observem critérios objetivos e impessoais, conforme os princípios do art. 37.",
+"Organização da sociedade civil (Lei 13.019/2014): firma termo de colaboração (propostas da Administração), termo de fomento (propostas das organizações) ou acordo de cooperação (sem transferência de recursos), em regra precedidos de chamamento público."
+]
+},
+{
+"id": "Q-ORG-0042",
+"g": "E",
+"e": "Segundo o STF, é inconstitucional a dispensa de licitação para a celebração do contrato de gestão com organizações sociais, devendo ser aplicada a Lei 14.133/2021 a todos os contratos de gestão. Essa seria a orientação adotada pela doutrina e pela jurisprudência no direito brasileiro.",
+"velho": "STF, ADI 1.923.",
+"aula": [
+"Organização social (Lei 9.637/1998): qualificada pelo Poder Executivo, firma contrato de gestão com o Poder Público; o STF (ADI 1.923) entendeu constitucional a dispensa de licitação para o contrato de gestão, desde que o procedimento de qualificação e a celebração observem critérios objetivos e impessoais, conforme os princípios do art. 37."
+]
+},
+{
+"id": "Q-ORG-0043",
+"g": "C",
+"e": "As entidades do terceiro setor não integram a Administração Pública, direta ou indireta, e são pessoas jurídicas de direito privado sem fins lucrativos que atuam em colaboração com o Estado.",
+"velho": "Terceiro setor.",
+"aula": [
+"Entidades do terceiro setor não integram a Administração Pública, são pessoas jurídicas de direito privado sem fins lucrativos que atuam em colaboração com o Estado.",
+"Organização da sociedade civil (Lei 13.019/2014): firma termo de colaboração (propostas da Administração), termo de fomento (propostas das organizações) ou acordo de cooperação (sem transferência de recursos), em regra precedidos de chamamento público."
+]
+},
+{
+"id": "Q-ORG-0044",
+"g": "E",
+"e": "As entidades do terceiro setor integram a Administração indireta e são pessoas jurídicas de direito público que atuam como braços do Estado.",
+"velho": "Terceiro setor.",
+"aula": [
+"Entidades do terceiro setor não integram a Administração Pública, são pessoas jurídicas de direito privado sem fins lucrativos que atuam em colaboração com o Estado.",
+"Organização da sociedade civil (Lei 13.019/2014): firma termo de colaboração (propostas da Administração), termo de fomento (propostas das organizações) ou acordo de cooperação (sem transferência de recursos), em regra precedidos de chamamento público."
+]
+},
+{
+"id": "Q-ORG-0045",
+"g": "C",
+"e": "Os serviços sociais autônomos, que compõem o chamado Sistema S, são entidades privadas mantidas por contribuições parafiscais, sujeitas ao controle do Tribunal de Contas da União e que, em regra, adotam regulamentos próprios de contratação.",
+"velho": "Serviços sociais autônomos.",
+"aula": [
+"Serviços sociais autônomos (Sistema S): entidades privadas, criadas por autorização legal, mantidas por contribuições parafiscais; sujeitas ao controle do TCU, mas não ao dever de licitar pela Lei 14.133, adotando regulamentos próprios."
+]
+},
+{
+"id": "Q-ORG-0046",
+"g": "E",
+"e": "Os serviços sociais autônomos, que compõem o chamado Sistema S, são autarquias mantidas por contribuições parafiscais, não sujeitas ao controle do Tribunal de Contas da União. Essa seria a orientação adotada pela doutrina e pela jurisprudência no direito brasileiro.",
+"velho": "Serviços sociais autônomos.",
+"aula": [
+"Serviços sociais autônomos (Sistema S): entidades privadas, criadas por autorização legal, mantidas por contribuições parafiscais; sujeitas ao controle do TCU, mas não ao dever de licitar pela Lei 14.133, adotando regulamentos próprios."
+]
+},
+{
+"id": "Q-ORG-0047",
+"g": "C",
+"e": "O termo de colaboração e o termo de fomento são, em regra, precedidos de chamamento público, e o acordo de cooperação é o instrumento sem transferência de recursos financeiros.",
+"velho": "Lei 13.019/2014.",
+"aula": [
+"Organização da sociedade civil (Lei 13.019/2014): firma termo de colaboração (propostas da Administração), termo de fomento (propostas das organizações) ou acordo de cooperação (sem transferência de recursos), em regra precedidos de chamamento público."
+]
+},
+{
+"id": "Q-ORG-0048",
+"g": "E",
+"e": "O termo de colaboração e o termo de fomento prescindem de chamamento público, e o acordo de cooperação é o instrumento que prevê transferência de recursos financeiros.",
+"velho": "Lei 13.019/2014.",
+"aula": [
+"Organização da sociedade civil (Lei 13.019/2014): firma termo de colaboração (propostas da Administração), termo de fomento (propostas das organizações) ou acordo de cooperação (sem transferência de recursos), em regra precedidos de chamamento público."
+]
+},
+{
+"id": "Q-ORG-0049",
+"g": "C",
+"e": "Os órgãos públicos não têm personalidade jurídica própria, mas podem ter, de forma excepcional, capacidade processual para a defesa de suas prerrogativas institucionais.",
+"velho": "Teoria do órgão; Súmula 525 do STJ.",
+"aula": [
+"Teoria do órgão: a vontade do órgão é imputada à pessoa jurídica a que pertence.",
+"Órgão: centro de competências sem personalidade jurídica própria; não pode ser sujeito de direitos e obrigações em nome próprio, embora possa excepcionalmente ter capacidade processual para defesa de suas prerrogativas institucionais (STJ, Súmula 525: a Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, e somente pode demandar em juízo para defender os seus…"
+]
+},
+{
+"id": "Q-ORG-0050",
+"g": "E",
+"e": "Os órgãos públicos têm personalidade jurídica própria e podem ser sujeitos de direitos e obrigações em nome próprio, respondendo diretamente pelos danos causados por seus agentes.",
+"velho": "Teoria do órgão; Súmula 525 do STJ.",
+"aula": [
+"Teoria do órgão: a vontade do órgão é imputada à pessoa jurídica a que pertence.",
+"Órgão: centro de competências sem personalidade jurídica própria; não pode ser sujeito de direitos e obrigações em nome próprio, embora possa excepcionalmente ter capacidade processual para defesa de suas prerrogativas institucionais (STJ, Súmula 525: a Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, e somente pode demandar em juízo para defender os seus…"
+]
+},
+{
+"id": "Q-ORG-0051",
+"g": "C",
+"e": "Nos termos da Lei 9.784/1999, órgão é a unidade de atuação integrante da estrutura da Administração direta e da indireta, entidade é a unidade de atuação dotada de personalidade jurídica, e autoridade é o servidor ou agente público dotado de poder de decisão.",
+"velho": "Lei 9.784/99, art. 1º, § 2º.",
+"aula": [
+"Órgão: centro de competências sem personalidade jurídica própria; não pode ser sujeito de direitos e obrigações em nome próprio, embora possa excepcionalmente ter capacidade processual para defesa de suas prerrogativas institucionais (STJ, Súmula 525: a Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, e somente pode demandar em juízo para defender os seus…",
+"Lei 9.784/1999, art. 1º, §2º: órgão é a unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta; entidade é a unidade de atuação dotada de personalidade jurídica; autoridade é o servidor ou agente público dotado de poder de decisão."
+]
+},
+{
+"id": "Q-ORG-0052",
+"g": "E",
+"e": "Nos termos da Lei 9.784/1999, órgão é a unidade de atuação dotada de personalidade jurídica, entidade é a unidade de atuação integrante da estrutura da Administração direta, e autoridade é qualquer servidor público.",
+"velho": "Lei 9.784/99, art. 1º, § 2º.",
+"aula": [
+"Órgão: centro de competências sem personalidade jurídica própria; não pode ser sujeito de direitos e obrigações em nome próprio, embora possa excepcionalmente ter capacidade processual para defesa de suas prerrogativas institucionais (STJ, Súmula 525: a Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, e somente pode demandar em juízo para defender os seus…",
+"Lei 9.784/1999, art. 1º, §2º: órgão é a unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta; entidade é a unidade de atuação dotada de personalidade jurídica; autoridade é o servidor ou agente público dotado de poder de decisão."
+]
+},
+{
+"id": "Q-ORG-0053",
+"g": "C",
+"e": "Quanto à composição, os órgãos classificam-se em singulares ou unipessoais, que atuam por um único agente, e colegiados ou pluripessoais, que atuam por manifestação conjunta de seus membros.",
+"velho": "Classificação dos órgãos.",
+"aula": [
+"Quanto à atuação funcional: singulares (unipessoais) e colegiados (pluripessoais)."
+]
+},
+{
+"id": "Q-ORG-0054",
+"g": "E",
+"e": "Quanto à composição, os órgãos classificam-se em singulares ou pluripessoais, que atuam por manifestação conjunta de seus membros, e colegiados ou unipessoais, que atuam por um único agente.",
+"velho": "Classificação dos órgãos.",
+"aula": [
+"Quanto à atuação funcional: singulares (unipessoais) e colegiados (pluripessoais)."
+]
+},
+{
+"id": "Q-ORG-0055",
+"g": "C",
+"e": "Segundo a Súmula 525 do STJ, a Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, e somente pode demandar em juízo para defender os seus direitos institucionais.",
+"velho": "STJ, Súmula 525.",
+"aula": [
+"Órgão: centro de competências sem personalidade jurídica própria; não pode ser sujeito de direitos e obrigações em nome próprio, embora possa excepcionalmente ter capacidade processual para defesa de suas prerrogativas institucionais (STJ, Súmula 525: a Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, e somente pode demandar em juízo para defender os seus…",
+"Lei 9.784/1999, art. 1º, §2º: órgão é a unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta; entidade é a unidade de atuação dotada de personalidade jurídica; autoridade é o servidor ou agente público dotado de poder de decisão."
+]
+},
+{
+"id": "Q-ORG-0056",
+"g": "E",
+"e": "Segundo a Súmula 525 do STJ, a Câmara de Vereadores possui personalidade jurídica própria e pode demandar em juízo para defender quaisquer direitos do Município.",
+"velho": "STJ, Súmula 525.",
+"aula": [
+"Órgão: centro de competências sem personalidade jurídica própria; não pode ser sujeito de direitos e obrigações em nome próprio, embora possa excepcionalmente ter capacidade processual para defesa de suas prerrogativas institucionais (STJ, Súmula 525: a Câmara de Vereadores não possui personalidade jurídica, apenas personalidade judiciária, e somente pode demandar em juízo para defender os seus…",
+"Lei 9.784/1999, art. 1º, §2º: órgão é a unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta; entidade é a unidade de atuação dotada de personalidade jurídica; autoridade é o servidor ou agente público dotado de poder de decisão."
+]
+},
+{
+"id": "Q-ORG-0057",
+"g": "C",
+"e": "O controle exercido pela Administração direta sobre as entidades da Administração indireta é finalístico, também chamado de supervisão ministerial ou tutela, e depende de previsão legal.",
+"velho": "DL 200/67, arts. 19 a 29.",
+"aula": [
+"As entidades da Administração Indireta não se subordinam hierarquicamente à Administração Direta; vinculam-se a ela e sujeitam-se ao controle finalístico, também chamado supervisão ministerial ou tutela, previsto no DL 200/67 (arts. 19 a 29), que alcança a verificação do cumprimento dos objetivos, a harmonia com a política do Governo e a eficiência administrativa.",
+"A tutela depende de previsão legal e não se presume."
+]
+},
+{
+"id": "Q-ORG-0058",
+"g": "E",
+"e": "O controle exercido pela Administração direta sobre as entidades da Administração indireta decorre de hierarquia e independe de previsão legal, permitindo a revisão de ofício de todos os seus atos pelo Ministro.",
+"velho": "DL 200/67, arts. 19 a 29.",
+"aula": [
+"As entidades da Administração Indireta não se subordinam hierarquicamente à Administração Direta; vinculam-se a ela e sujeitam-se ao controle finalístico, também chamado supervisão ministerial ou tutela, previsto no DL 200/67 (arts. 19 a 29), que alcança a verificação do cumprimento dos objetivos, a harmonia com a política do Governo e a eficiência administrativa.",
+"A supervisão ministerial é exercida pelo Ministro de Estado, a quem as entidades se vinculam."
+]
+},
+{
+"id": "Q-ORG-0059",
+"g": "C",
+"e": "O consórcio público pode revestir a forma de associação pública, com personalidade de direito público e natureza autárquica, ou de pessoa jurídica de direito privado, e é constituído por contrato precedido de protocolo de intenções ratificado por lei.",
+"velho": "Lei 11.107/2005.",
+"aula": [
+"Pode revestir a forma de associação pública, com personalidade jurídica de direito público e natureza autárquica, integrando a Administração indireta de todos os entes consorciados, ou de pessoa jurídica de direito privado.",
+"Constitui-se por contrato, precedido da celebração de protocolo de intenções e da ratificação deste por lei de cada ente, salvo se previamente disciplinado o consórcio por lei."
+]
+},
+{
+"id": "Q-ORG-0060",
+"g": "E",
+"e": "O consórcio público somente pode revestir a forma de pessoa jurídica de direito privado e é constituído por simples protocolo de intenções, dispensada a ratificação por lei de cada ente consorciado.",
+"velho": "Lei 11.107/2005.",
+"aula": [
+"Pode revestir a forma de associação pública, com personalidade jurídica de direito público e natureza autárquica, integrando a Administração indireta de todos os entes consorciados, ou de pessoa jurídica de direito privado.",
+"Constitui-se por contrato, precedido da celebração de protocolo de intenções e da ratificação deste por lei de cada ente, salvo se previamente disciplinado o consórcio por lei."
+]
+},
+{
+"id": "Q-ORG-0061",
+"g": "C",
+"e": "A União somente pode participar de consórcio público em que também façam parte todos os Estados em cujos territórios estejam situados os Municípios consorciados.",
+"velho": "Lei 11.107/2005, art. 1º, § 2º.",
+"aula": [
+"Consórcio público: pessoa jurídica formada exclusivamente por entes da Federação, para estabelecer relações de cooperação federativa.",
+"A União somente participará de consórcios públicos em que também façam parte todos os Estados em cujos territórios estejam situados os Municípios consorciados."
+]
+},
+{
+"id": "Q-ORG-0062",
+"g": "E",
+"e": "A União pode participar livremente de consórcio público formado apenas por Municípios, sem necessidade de participação dos Estados em que estejam situados.",
+"velho": "Lei 11.107/2005, art. 1º, § 2º.",
+"aula": [
+"Consórcio público: pessoa jurídica formada exclusivamente por entes da Federação, para estabelecer relações de cooperação federativa.",
+"A União somente participará de consórcios públicos em que também façam parte todos os Estados em cujos territórios estejam situados os Municípios consorciados."
+]
+},
+{
+"id": "Q-POL-0001",
+"g": "C",
+"e": "Para Robert Dahl, as poliarquias são regimes reais de ampla contestação pública e participação inclusiva, e não a democracia ideal, e entre suas instituições estão eleições livres, justas e frequentes, liberdade de expressão e de associação e fontes alternativas de informação.",
+"velho": "Dahl, Poliarquia.",
+"aula": [
+"Dahl (poliarquia): regimes reais de ampla contestação pública e participação inclusiva, com instituições como eleições livres, justas e frequentes, liberdade de expressão, fontes alternativas de informação, liberdade de associação e cidadania inclusiva; poliarquia não é a democracia ideal, mas a democracia existente.",
+"Regimes sultanistas, burocrático-autoritários (O'Donnell) e democracia delegativa (O'Donnell): o presidente eleito se considera autorizado a governar como quiser, sem accountability horizontal."
+]
+},
+{
+"id": "Q-POL-0002",
+"g": "E",
+"e": "Para Robert Dahl, a poliarquia é a democracia ideal, plenamente realizada, em que há igualdade política absoluta entre os cidadãos e participação direta de todos nas decisões, dispensadas eleições periódicas. Essa seria a posição predominante na literatura especializada de ciência política.",
+"velho": "Dahl, Poliarquia.",
+"aula": [
+"Schumpeter (concepção minimalista ou elitista competitiva): democracia é o método institucional para chegar a decisões políticas pelo qual indivíduos adquirem o poder de decidir mediante competição pelo voto do povo.",
+"Dahl (poliarquia): regimes reais de ampla contestação pública e participação inclusiva, com instituições como eleições livres, justas e frequentes, liberdade de expressão, fontes alternativas de informação, liberdade de associação e cidadania inclusiva; poliarquia não é a democracia ideal, mas a democracia existente."
+]
+},
+{
+"id": "Q-POL-0003",
+"g": "C",
+"e": "Segundo Schumpeter, a democracia é um método institucional para chegar a decisões políticas, em que indivíduos adquirem o poder de decidir mediante a competição pelo voto do povo.",
+"velho": "Schumpeter, Capitalismo, Socialismo e Democracia.",
+"aula": [
+"Democracia: regime em que o poder emana do povo;",
+"Schumpeter (concepção minimalista ou elitista competitiva): democracia é o método institucional para chegar a decisões políticas pelo qual indivíduos adquirem o poder de decidir mediante competição pelo voto do povo."
+]
+},
+{
+"id": "Q-POL-0004",
+"g": "E",
+"e": "Segundo Schumpeter, a democracia é a realização da vontade geral por meio da participação direta e permanente dos cidadãos, o que dispensa a competição entre elites pelo voto.",
+"velho": "Schumpeter, Capitalismo, Socialismo e Democracia.",
+"aula": [
+"Schumpeter (concepção minimalista ou elitista competitiva): democracia é o método institucional para chegar a decisões políticas pelo qual indivíduos adquirem o poder de decidir mediante competição pelo voto do povo.",
+"Dahl (poliarquia): regimes reais de ampla contestação pública e participação inclusiva, com instituições como eleições livres, justas e frequentes, liberdade de expressão, fontes alternativas de informação, liberdade de associação e cidadania inclusiva; poliarquia não é a democracia ideal, mas a democracia existente."
+]
+},
+{
+"id": "Q-POL-0005",
+"g": "C",
+"e": "Na tipologia de Juan Linz, os regimes autoritários se distinguem dos totalitários por apresentarem pluralismo político limitado e baixa mobilização política, sem uma ideologia oficial abrangente e elaborada.",
+"velho": "Linz, regimes totalitários e autoritários.",
+"aula": [
+"Autoritarismo (Linz): pluralismo político limitado, sem ideologia elaborada e diretriz, sem mobilização política intensa, com líder ou pequeno grupo exercendo o poder dentro de limites mal definidos.",
+"Totalitarismo: ideologia oficial abrangente, partido único de massa, mobilização intensa, controle monopolista dos meios de comunicação e do aparato de coerção, terror (Arendt, Friedrich e Brzezinski)."
+]
+},
+{
+"id": "Q-POL-0006",
+"g": "E",
+"e": "Na tipologia de Juan Linz, os regimes autoritários se distinguem dos totalitários por apresentarem partido único de massa, ideologia oficial abrangente e mobilização política intensa, com controle monopolista dos meios de comunicação.",
+"velho": "Linz, regimes totalitários e autoritários.",
+"aula": [
+"Autoritarismo (Linz): pluralismo político limitado, sem ideologia elaborada e diretriz, sem mobilização política intensa, com líder ou pequeno grupo exercendo o poder dentro de limites mal definidos.",
+"Totalitarismo: ideologia oficial abrangente, partido único de massa, mobilização intensa, controle monopolista dos meios de comunicação e do aparato de coerção, terror (Arendt, Friedrich e Brzezinski)."
+]
+},
+{
+"id": "Q-POL-0007",
+"g": "C",
+"e": "O conceito de democracia delegativa, de Guillermo O'Donnell, designa regimes em que o presidente eleito se considera autorizado a governar como entender conveniente, com fraca accountability horizontal.",
+"velho": "O'Donnell, democracia delegativa.",
+"aula": [
+"Dahl (poliarquia): regimes reais de ampla contestação pública e participação inclusiva, com instituições como eleições livres, justas e frequentes, liberdade de expressão, fontes alternativas de informação, liberdade de associação e cidadania inclusiva; poliarquia não é a democracia ideal, mas a democracia existente.",
+"Regimes sultanistas, burocrático-autoritários (O'Donnell) e democracia delegativa (O'Donnell): o presidente eleito se considera autorizado a governar como quiser, sem accountability horizontal."
+]
+},
+{
+"id": "Q-POL-0008",
+"g": "E",
+"e": "O conceito de democracia delegativa, de Guillermo O'Donnell, designa regimes em que o presidente eleito compartilha o poder com assembleias, com forte accountability horizontal e controle mútuo entre os Poderes.",
+"velho": "O'Donnell, democracia delegativa.",
+"aula": [
+"Democracia: regime em que o poder emana do povo;",
+"Regimes sultanistas, burocrático-autoritários (O'Donnell) e democracia delegativa (O'Donnell): o presidente eleito se considera autorizado a governar como quiser, sem accountability horizontal."
+]
+},
+{
+"id": "Q-POL-0009",
+"g": "C",
+"e": "Segundo Huntington, a terceira onda de democratização teve início em 1974, com a transição em Portugal, e foi seguida de países do sul da Europa, da América Latina e do Leste Europeu.",
+"velho": "Huntington, A Terceira Onda.",
+"aula": [
+"Huntington: três ondas de democratização (1828-1926; 1943-1962; a partir de 1974) e ondas reversas."
+]
+},
+{
+"id": "Q-POL-0010",
+"g": "E",
+"e": "Segundo Huntington, a terceira onda de democratização teve início em 1945, após a Segunda Guerra Mundial, e se encerrou com a queda do Muro de Berlim, em 1989.",
+"velho": "Huntington, A Terceira Onda.",
+"aula": [
+"Huntington: três ondas de democratização (1828-1926; 1943-1962; a partir de 1974) e ondas reversas."
+]
+},
+{
+"id": "Q-POL-0011",
+"g": "C",
+"e": "Na classificação de Arend Lijphart, a democracia majoritária concentra o poder na maioria, com tendência ao bipartidarismo e ao sistema eleitoral majoritário, ao passo que a democracia consensual partilha o poder, com multipartidarismo, representação proporcional e federalismo.",
+"velho": "Lijphart, Modelos de Democracia.",
+"aula": [
+"Przeworski: a democracia é um sistema em que partidos perdem eleições, com incerteza institucionalizada.",
+"Lijphart: democracia majoritária (modelo Westminster: concentração de poder, bipartidarismo, sistema majoritário, Estado unitário) x democracia consensual (partilha de poder, multipartidarismo, representação proporcional, federalismo, coalizões amplas)."
+]
+},
+{
+"id": "Q-POL-0012",
+"g": "E",
+"e": "Na classificação de Arend Lijphart, a democracia consensual concentra o poder na maioria, com tendência ao bipartidarismo e ao sistema eleitoral majoritário, ao passo que a democracia majoritária partilha o poder, com multipartidarismo e representação proporcional.",
+"velho": "Lijphart, Modelos de Democracia.",
+"aula": [
+"Przeworski: a democracia é um sistema em que partidos perdem eleições, com incerteza institucionalizada.",
+"Lijphart: democracia majoritária (modelo Westminster: concentração de poder, bipartidarismo, sistema majoritário, Estado unitário) x democracia consensual (partilha de poder, multipartidarismo, representação proporcional, federalismo, coalizões amplas)."
+]
+},
+{
+"id": "Q-POL-0013",
+"g": "C",
+"e": "Para Linz e Stepan, a democracia está consolidada quando se torna the only game in town, isto é, quando nenhum ator relevante tenta derrubar o regime democrático e a disputa política se dá segundo suas regras.",
+"velho": "Linz e Stepan, consolidação democrática.",
+"aula": [
+"Transição e consolidação: a democracia está consolidada quando se torna 'the only game in town' (Linz e Stepan)."
+]
+},
+{
+"id": "Q-POL-0014",
+"g": "E",
+"e": "Para Linz e Stepan, a democracia está consolidada quando o primeiro governo eleito conclui seu mandato, o que basta para caracterizar a ausência de risco de reversão autoritária.",
+"velho": "Linz e Stepan, consolidação democrática.",
+"aula": [
+"Transição e consolidação: a democracia está consolidada quando se torna 'the only game in town' (Linz e Stepan)."
+]
+},
+{
+"id": "Q-POL-0015",
+"g": "C",
+"e": "No presidencialismo, o chefe de Estado e o chefe de governo são a mesma pessoa, eleita para mandato fixo, e a sobrevivência do governo não depende da confiança da maioria parlamentar.",
+"velho": "Sistemas de governo.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…",
+"Diferença central: no presidencialismo, a sobrevivência do governo não depende do apoio da maioria parlamentar; no parlamentarismo, depende."
+]
+},
+{
+"id": "Q-POL-0016",
+"g": "E",
+"e": "No presidencialismo, o chefe de Estado e o chefe de governo são pessoas distintas, e a sobrevivência do governo depende da confiança da maioria parlamentar, que pode destituí-lo por moção de desconfiança.",
+"velho": "Sistemas de governo.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…",
+"Diferença central: no presidencialismo, a sobrevivência do governo não depende do apoio da maioria parlamentar; no parlamentarismo, depende."
+]
+},
+{
+"id": "Q-POL-0017",
+"g": "C",
+"e": "No parlamentarismo, o Gabinete depende da confiança do Parlamento, e o chefe de Estado, monarca ou presidente, em regra não exerce a chefia do governo.",
+"velho": "Sistemas de governo.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…",
+"Diferença central: no presidencialismo, a sobrevivência do governo não depende do apoio da maioria parlamentar; no parlamentarismo, depende."
+]
+},
+{
+"id": "Q-POL-0018",
+"g": "E",
+"e": "No parlamentarismo, o Gabinete independe da confiança do Parlamento, e o chefe de Estado exerce a chefia do governo por mandato fixo, não podendo o Parlamento ser dissolvido.",
+"velho": "Sistemas de governo.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…",
+"Diferença central: no presidencialismo, a sobrevivência do governo não depende do apoio da maioria parlamentar; no parlamentarismo, depende."
+]
+},
+{
+"id": "Q-POL-0019",
+"g": "C",
+"e": "O semipresidencialismo caracteriza-se por um Presidente eleito diretamente pelo povo, com poderes relevantes, que convive com um Primeiro-Ministro responsável perante o Parlamento, como ocorre na França.",
+"velho": "Semipresidencialismo.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…"
+]
+},
+{
+"id": "Q-POL-0020",
+"g": "E",
+"e": "O semipresidencialismo caracteriza-se por um Presidente escolhido pelo Parlamento, sem poderes relevantes, que convive com um Primeiro-Ministro responsável apenas perante o Presidente, como ocorre na França.",
+"velho": "Semipresidencialismo.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…"
+]
+},
+{
+"id": "Q-POL-0021",
+"g": "C",
+"e": "Monarquia e república distinguem-se, quanto à forma de governo, pela hereditariedade, vitaliciedade e irresponsabilidade política do monarca, em contraste com a eletividade, a temporariedade e a responsabilidade do governante republicano.",
+"velho": "Formas de governo.",
+"aula": [
+"Forma de governo: monarquia (hereditariedade, vitaliciedade, irresponsabilidade) e república (eletividade, temporariedade, responsabilidade).",
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…"
+]
+},
+{
+"id": "Q-POL-0022",
+"g": "E",
+"e": "Monarquia e república distinguem-se, quanto à forma de governo, pela eletividade, temporariedade e responsabilidade do monarca, em contraste com a hereditariedade e a vitaliciedade do governante republicano.",
+"velho": "Formas de governo.",
+"aula": [
+"Forma de governo: monarquia (hereditariedade, vitaliciedade, irresponsabilidade) e república (eletividade, temporariedade, responsabilidade).",
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…"
+]
+},
+{
+"id": "Q-POL-0023",
+"g": "C",
+"e": "Na federação, os entes possuem autonomia política e repartição constitucional de competências, ao passo que na confederação a união ocorre entre Estados soberanos, com direito de secessão.",
+"velho": "Formas de Estado.",
+"aula": [
+"Forma de Estado: unitário, federal (autonomia dos entes, repartição de competências, indissolubilidade; no Brasil, CF art. 18) e confederação (união de Estados soberanos, direito de secessão).",
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…"
+]
+},
+{
+"id": "Q-POL-0024",
+"g": "E",
+"e": "Na federação, os entes são soberanos e podem separar-se da união por decisão própria, ao passo que na confederação há autonomia dos entes sem direito de secessão.",
+"velho": "Formas de Estado.",
+"aula": [
+"Forma de Estado: unitário, federal (autonomia dos entes, repartição de competências, indissolubilidade; no Brasil, CF art. 18) e confederação (união de Estados soberanos, direito de secessão)."
+]
+},
+{
+"id": "Q-POL-0025",
+"g": "C",
+"e": "Em um país, o Primeiro-Ministro precisa manter a confiança da maioria parlamentar e pode ser destituído por moção de censura, enquanto o Presidente da República, eleito pelo voto popular direto, nomeia o Primeiro-Ministro e dispõe de poderes próprios em política externa e defesa. Esse arranjo corresponde ao semipresidencialismo.",
+"velho": "Semipresidencialismo.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…",
+"Diferença central: no presidencialismo, a sobrevivência do governo não depende do apoio da maioria parlamentar; no parlamentarismo, depende."
+]
+},
+{
+"id": "Q-POL-0026",
+"g": "E",
+"e": "Em um país, o Primeiro-Ministro precisa manter a confiança da maioria parlamentar e pode ser destituído por moção de censura, enquanto o Presidente da República, eleito pelo voto popular direto, nomeia o Primeiro-Ministro e dispõe de poderes próprios em política externa e defesa. Esse arranjo corresponde ao presidencialismo.",
+"velho": "Semipresidencialismo.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…",
+"Diferença central: no presidencialismo, a sobrevivência do governo não depende do apoio da maioria parlamentar; no parlamentarismo, depende."
+]
+},
+{
+"id": "Q-POL-0027",
+"g": "C",
+"e": "Para Burke, o representante é um fiduciário, que deve exercer seu julgamento em benefício do interesse nacional, e não um delegado vinculado às instruções de seus eleitores locais, o que corresponde ao mandato livre.",
+"velho": "Burke, discurso aos eleitores de Bristol.",
+"aula": [
+"Representação: Burke (discurso aos eleitores de Bristol): o representante é um fiduciário, que deve exercer julgamento próprio em favor do interesse nacional, e não um delegado (mandato livre x mandato imperativo)."
+]
+},
+{
+"id": "Q-POL-0028",
+"g": "E",
+"e": "Para Burke, o representante é um delegado, que deve seguir fielmente as instruções de seus eleitores locais, o que corresponde ao mandato imperativo. Tal conclusão decorreria, segundo esse entendimento, das características do arranjo institucional descrito.",
+"velho": "Burke, discurso aos eleitores de Bristol.",
+"aula": [
+"Representação: Burke (discurso aos eleitores de Bristol): o representante é um fiduciário, que deve exercer julgamento próprio em favor do interesse nacional, e não um delegado (mandato livre x mandato imperativo)."
+]
+},
+{
+"id": "Q-POL-0029",
+"g": "C",
+"e": "No mandato livre o representante não está juridicamente vinculado às instruções de seus eleitores nem pode ser por eles revogado durante o mandato, ao passo que no mandato imperativo o representante age conforme instruções vinculantes e pode ser revogado.",
+"velho": "Mandato livre e imperativo.",
+"aula": [
+"Representação: Burke (discurso aos eleitores de Bristol): o representante é um fiduciário, que deve exercer julgamento próprio em favor do interesse nacional, e não um delegado (mandato livre x mandato imperativo)."
+]
+},
+{
+"id": "Q-POL-0030",
+"g": "E",
+"e": "No mandato imperativo o representante não está vinculado às instruções de seus eleitores, ao passo que no mandato livre ele age conforme instruções vinculantes e pode ser revogado a qualquer tempo.",
+"velho": "Mandato livre e imperativo.",
+"aula": [
+"Representação: Burke (discurso aos eleitores de Bristol): o representante é um fiduciário, que deve exercer julgamento próprio em favor do interesse nacional, e não um delegado (mandato livre x mandato imperativo)."
+]
+},
+{
+"id": "Q-POL-0031",
+"g": "C",
+"e": "Segundo a Constituição, o plebiscito é a consulta prévia ao povo sobre determinada matéria, e o referendo é a consulta posterior, para ratificar ou rejeitar ato já editado.",
+"velho": "CF, art. 14, I e II.",
+"aula": [
+"Constituição: art. 1º, parágrafo único: todo poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente.",
+"Plebiscito: consulta prévia; referendo: consulta posterior, para ratificar ou rejeitar."
+]
+},
+{
+"id": "Q-POL-0032",
+"g": "E",
+"e": "Segundo a Constituição, o referendo é a consulta prévia ao povo sobre determinada matéria, e o plebiscito é a consulta posterior, para ratificar ou rejeitar ato já editado.",
+"velho": "CF, art. 14, I e II.",
+"aula": [
+"Constituição: art. 1º, parágrafo único: todo poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente.",
+"Plebiscito: consulta prévia; referendo: consulta posterior, para ratificar ou rejeitar."
+]
+},
+{
+"id": "Q-POL-0033",
+"g": "C",
+"e": "A Constituição consagra a democracia semidireta, ao dispor que todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, e prevê, como instrumentos de participação direta, o plebiscito, o referendo e a iniciativa popular.",
+"velho": "CF, art. 1º, parágrafo único, e art. 14.",
+"aula": [
+"Constituição: art. 1º, parágrafo único: todo poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente.",
+"Art. 14: a soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante plebiscito, referendo e iniciativa popular."
+]
+},
+{
+"id": "Q-POL-0034",
+"g": "E",
+"e": "A Constituição consagra a democracia exclusivamente representativa, ao dispor que o poder emana do povo, que o exerce somente por meio de representantes eleitos, sem previsão de instrumentos de participação direta.",
+"velho": "CF, art. 1º, parágrafo único, e art. 14.",
+"aula": [
+"Constituição: art. 1º, parágrafo único: todo poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente.",
+"Democracia direta, representativa e semidireta (participativa)."
+]
+},
+{
+"id": "Q-POL-0035",
+"g": "C",
+"e": "Para Madison, no Federalista n. 10, a república representativa, em um território extenso, é um meio de controlar os efeitos das facções, em contraste com a democracia direta, mais vulnerável a elas.",
+"velho": "Madison, O Federalista, n. 10.",
+"aula": [
+"Madison (O Federalista, n. 10): a representação e a extensão territorial controlam os males das facções.",
+"Democracia direta, representativa e semidireta (participativa)."
+]
+},
+{
+"id": "Q-POL-0036",
+"g": "E",
+"e": "Para Madison, no Federalista n. 10, a democracia direta, em território reduzido, é o melhor meio de controlar os efeitos das facções, em contraste com a república representativa em território extenso.",
+"velho": "Madison, O Federalista, n. 10.",
+"aula": [
+"Madison (O Federalista, n. 10): a representação e a extensão territorial controlam os males das facções.",
+"Democracia direta, representativa e semidireta (participativa)."
+]
+},
+{
+"id": "Q-POL-0037",
+"g": "C",
+"e": "Para Hanna Pitkin, a representação descritiva refere-se à semelhança entre representantes e representados, ao passo que a representação substantiva refere-se à atuação do representante em favor dos interesses dos representados.",
+"velho": "Pitkin, O Conceito de Representação.",
+"aula": [
+"Representação: Burke (discurso aos eleitores de Bristol): o representante é um fiduciário, que deve exercer julgamento próprio em favor do interesse nacional, e não um delegado (mandato livre x mandato imperativo).",
+"Pitkin: formas de representação (formalista, descritiva, simbólica e substantiva)."
+]
+},
+{
+"id": "Q-POL-0038",
+"g": "E",
+"e": "Para Hanna Pitkin, a representação substantiva refere-se à semelhança de características entre representantes e representados, ao passo que a representação descritiva refere-se à atuação em favor dos interesses dos representados.",
+"velho": "Pitkin, O Conceito de Representação.",
+"aula": [
+"Representação: Burke (discurso aos eleitores de Bristol): o representante é um fiduciário, que deve exercer julgamento próprio em favor do interesse nacional, e não um delegado (mandato livre x mandato imperativo).",
+"Pitkin: formas de representação (formalista, descritiva, simbólica e substantiva)."
+]
+},
+{
+"id": "Q-POL-0039",
+"g": "C",
+"e": "Em Montesquieu, a separação das funções de legislar, executar e julgar em órgãos distintos é concebida como meio de impedir o abuso, pois o poder deve limitar o poder.",
+"velho": "Montesquieu, O Espírito das Leis.",
+"aula": [
+"Montesquieu (O Espírito das Leis): separação das funções de legislar, executar e julgar, e o poder freia o poder."
+]
+},
+{
+"id": "Q-POL-0040",
+"g": "E",
+"e": "Em Montesquieu, a separação das funções de legislar, executar e julgar em órgãos distintos tem por objetivo concentrar o poder no Executivo, para garantir a eficiência do governo.",
+"velho": "Montesquieu, O Espírito das Leis.",
+"aula": [
+"Montesquieu (O Espírito das Leis): separação das funções de legislar, executar e julgar, e o poder freia o poder.",
+"Limongi e Figueiredo: o Executivo brasileiro tem forte poder de agenda (iniciativa legislativa, medidas provisórias, urgência, controle da agenda pelos líderes partidários), e os partidos votam de forma disciplinada no plenário."
+]
+},
+{
+"id": "Q-POL-0041",
+"g": "C",
+"e": "O conceito de presidencialismo de coalizão, de Sérgio Abranches, descreve a combinação, no Brasil, de presidencialismo, federalismo, representação proporcional e multipartidarismo, o que leva o Presidente a formar grandes coalizões para obter maioria no Congresso.",
+"velho": "Abranches, Presidencialismo de coalizão.",
+"aula": [
+"Presidencialismo de coalizão (Abranches, 1988): combinação de presidencialismo, federalismo, representação proporcional com multipartidarismo e grandes coalizões partidárias para formar maioria, distribuindo ministérios e cargos."
+]
+},
+{
+"id": "Q-POL-0042",
+"g": "E",
+"e": "O conceito de presidencialismo de coalizão, de Sérgio Abranches, descreve a combinação, no Brasil, de parlamentarismo, unitarismo e bipartidarismo, o que dispensa o Presidente de formar coalizões para obter maioria no Congresso.",
+"velho": "Abranches, Presidencialismo de coalizão.",
+"aula": [
+"Presidencialismo de coalizão (Abranches, 1988): combinação de presidencialismo, federalismo, representação proporcional com multipartidarismo e grandes coalizões partidárias para formar maioria, distribuindo ministérios e cargos."
+]
+},
+{
+"id": "Q-POL-0043",
+"g": "C",
+"e": "Segundo Limongi e Figueiredo, o Executivo brasileiro tem forte poder de agenda, devido a prerrogativas como a iniciativa legislativa, as medidas provisórias e o pedido de urgência, e os partidos votam de forma disciplinada, sob o comando de seus líderes.",
+"velho": "Limongi e Figueiredo, Executivo e Legislativo na nova ordem constitucional.",
+"aula": [
+"Constituição, art. 2º: são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",
+"Limongi e Figueiredo: o Executivo brasileiro tem forte poder de agenda (iniciativa legislativa, medidas provisórias, urgência, controle da agenda pelos líderes partidários), e os partidos votam de forma disciplinada no plenário."
+]
+},
+{
+"id": "Q-POL-0044",
+"g": "E",
+"e": "Segundo Limongi e Figueiredo, o Executivo brasileiro tem fraco poder de agenda, e os partidos votam de forma indisciplinada, de acordo com as preferências individuais dos parlamentares, que agem de forma paroquial.",
+"velho": "Limongi e Figueiredo, Executivo e Legislativo na nova ordem constitucional.",
+"aula": [
+"Constituição, art. 2º: são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",
+"Limongi e Figueiredo: o Executivo brasileiro tem forte poder de agenda (iniciativa legislativa, medidas provisórias, urgência, controle da agenda pelos líderes partidários), e os partidos votam de forma disciplinada no plenário."
+]
+},
+{
+"id": "Q-POL-0045",
+"g": "C",
+"e": "A Constituição estabelece que são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",
+"velho": "CF, art. 2º.",
+"aula": [
+"Constituição, art. 2º: são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário."
+]
+},
+{
+"id": "Q-POL-0046",
+"g": "E",
+"e": "A Constituição estabelece que são Poderes da União, harmônicos e subordinados entre si, o Legislativo, o Executivo, o Judiciário e o Ministério Público.",
+"velho": "CF, art. 2º.",
+"aula": [
+"Constituição, art. 2º: são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário."
+]
+},
+{
+"id": "Q-POL-0047",
+"g": "C",
+"e": "A judicialização da política refere-se à transferência, para o Judiciário, de decisões políticas relevantes, favorecida pela ampliação do controle de constitucionalidade e dos legitimados para propor ações diretas.",
+"velho": "Judicialização da política.",
+"aula": [
+"Freios e contrapesos (checks and balances): o veto, a sanção, o controle de constitucionalidade, o impeachment, a convocação de Ministros.",
+"Judicialização da política: transferência ao Judiciário de decisões políticas relevantes (ampliação do controle de constitucionalidade e dos legitimados)."
+]
+},
+{
+"id": "Q-POL-0048",
+"g": "E",
+"e": "A judicialização da política refere-se à transferência, para o Legislativo, de decisões que seriam do Judiciário, favorecida pela restrição do controle de constitucionalidade a poucos legitimados.",
+"velho": "Judicialização da política.",
+"aula": [
+"Freios e contrapesos (checks and balances): o veto, a sanção, o controle de constitucionalidade, o impeachment, a convocação de Ministros.",
+"Judicialização da política: transferência ao Judiciário de decisões políticas relevantes (ampliação do controle de constitucionalidade e dos legitimados)."
+]
+}
+]

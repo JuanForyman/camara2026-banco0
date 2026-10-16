@@ -1,0 +1,680 @@
+[
+{
+"id": "Q-TI-0319",
+"g": "C",
+"e": "Os quartis dividem os dados ordenados em quatro partes de mesma frequência, e o segundo quartil (Q2) coincide com a mediana.",
+"velho": "Quartis.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…"
+]
+},
+{
+"id": "Q-TI-0320",
+"g": "E",
+"e": "Os quartis dividem os dados ordenados em quatro partes de mesma amplitude, e o segundo quartil (Q2) coincide com a média aritmética.",
+"velho": "Quartis.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…"
+]
+},
+{
+"id": "Q-TI-0321",
+"g": "C",
+"e": "A existência de correlação entre duas variáveis indica associação entre elas, mas, por si só, não comprova relação de causa e efeito.",
+"velho": "Correlação não implica causalidade.",
+"aula": [
+"Correlação mede associação entre variáveis e não implica causalidade."
+]
+},
+{
+"id": "Q-TI-0322",
+"g": "E",
+"e": "A existência de correlação forte entre duas variáveis comprova que uma delas é a causa da outra, dispensando outras análises.",
+"velho": "Correlação não implica causalidade.",
+"aula": [
+"Correlação mede associação entre variáveis e não implica causalidade."
+]
+},
+{
+"id": "Q-TI-0323",
+"g": "C",
+"e": "Os valores atípicos (outliers) devem ser investigados antes de qualquer tratamento, pois podem ser erros de registro ou representar fenômenos reais relevantes para a análise.",
+"velho": "Outliers.",
+"aula": [
+"Valores atípicos (outliers) afastam-se muito do padrão.",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0324",
+"g": "E",
+"e": "Os valores atípicos (outliers) devem ser sempre excluídos automaticamente da base, pois constituem invariavelmente erros de registro, sem relevância para a análise. Trata-se de prática corrente.",
+"velho": "Outliers.",
+"aula": [
+"Valores atípicos (outliers) afastam-se muito do padrão.",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0325",
+"g": "C",
+"e": "No processo ETL, os dados são extraídos das fontes, transformados e depois carregados no destino; no ELT, os dados são carregados no destino antes de serem transformados.",
+"velho": "ETL x ELT.",
+"aula": [
+"Transformação e qualidade de dados: ETL (extrair, transformar, carregar) move dados de fontes para um repositório;"
+]
+},
+{
+"id": "Q-TI-0326",
+"g": "E",
+"e": "No processo ETL, os dados são carregados no destino antes de serem transformados; no ELT, os dados são extraídos das fontes, transformados e depois carregados no destino.",
+"velho": "ETL x ELT.",
+"aula": [
+"Transformação e qualidade de dados: ETL (extrair, transformar, carregar) move dados de fontes para um repositório;"
+]
+},
+{
+"id": "Q-TI-0327",
+"g": "C",
+"e": "Os valores ausentes podem ser tratados por meio de remoção dos registros ou de imputação (por média, mediana ou moda, por exemplo), e a escolha depende do contexto e do impacto sobre a análise.",
+"velho": "Valores ausentes.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0328",
+"g": "E",
+"e": "Os valores ausentes devem ser sempre substituídos por zero, qualquer que seja o contexto, pois essa é a única técnica de tratamento que não distorce a análise. Trata-se de prática corrente.",
+"velho": "Valores ausentes.",
+"aula": [
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0329",
+"g": "C",
+"e": "A normalização min-max reescala os valores para um intervalo definido, em geral de 0 a 1, ao passo que a padronização por z-score transforma os dados para que tenham média zero e desvio padrão um.",
+"velho": "Escalas de variáveis.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0330",
+"g": "E",
+"e": "A normalização min-max transforma os dados para que tenham média zero e desvio padrão um, ao passo que a padronização por z-score reescala os valores para um intervalo definido, em geral de 0 a 1.",
+"velho": "Escalas de variáveis.",
+"aula": [
+"Métricas e medidas: média aritmética (soma dividida pela quantidade; sensível a valores extremos), mediana (valor central dos dados ordenados; robusta a extremos), moda (valor mais frequente), amplitude (máximo menos mínimo), variância e desvio padrão (dispersão em torno da média; desvio padrão é a raiz quadrada da variância e mantém a unidade original), quartis (dividem os…",
+"Limpeza trata duplicados, inconsistências, erros de digitação e valores ausentes (remoção, imputação por média, mediana ou moda); padronização de formatos (datas, caixa, unidades); normalização e padronização de escala (min-max, z-score) colocam variáveis em escalas comparáveis; agregação, filtragem, junção (join), pivotagem e criação de variáveis derivadas."
+]
+},
+{
+"id": "Q-TI-0331",
+"g": "C",
+"e": "São dimensões da qualidade de dados, entre outras, a completude, a consistência, a exatidão, a atualidade e a unicidade, esta última associada à ausência de registros duplicados.",
+"velho": "Qualidade de dados.",
+"aula": [
+"Transformação e qualidade de dados: ETL (extrair, transformar, carregar) move dados de fontes para um repositório;",
+"Dimensões da qualidade: completude, consistência, exatidão, atualidade, unicidade e validade."
+]
+},
+{
+"id": "Q-TI-0332",
+"g": "E",
+"e": "São dimensões da qualidade de dados, entre outras, a completude, a consistência, a exatidão, a atualidade e a unicidade, esta última associada à presença deliberada de registros duplicados.",
+"velho": "Qualidade de dados.",
+"aula": [
+"Transformação e qualidade de dados: ETL (extrair, transformar, carregar) move dados de fontes para um repositório;",
+"Dimensões da qualidade: completude, consistência, exatidão, atualidade, unicidade e validade."
+]
+},
+{
+"id": "Q-TI-0333",
+"g": "C",
+"e": "O data warehouse reúne dados históricos integrados e estruturados para análise, ao passo que o data lake armazena dados brutos em vários formatos, estruturados ou não.",
+"velho": "Data warehouse x data lake.",
+"aula": [
+"Data warehouse reúne dados históricos integrados para análise; data lake armazena dados brutos em vários formatos; governança de dados define responsabilidades, políticas e padrões.",
+"Dados abertos governamentais devem ser disponibilizados em formatos abertos, estruturados e legíveis por máquina (CSV, JSON)."
+]
+},
+{
+"id": "Q-TI-0334",
+"g": "E",
+"e": "O data lake reúne dados históricos integrados e estruturados para análise, ao passo que o data warehouse armazena dados brutos em vários formatos, estruturados ou não.",
+"velho": "Data warehouse x data lake.",
+"aula": [
+"Data warehouse reúne dados históricos integrados para análise; data lake armazena dados brutos em vários formatos; governança de dados define responsabilidades, políticas e padrões.",
+"Dados abertos governamentais devem ser disponibilizados em formatos abertos, estruturados e legíveis por máquina (CSV, JSON)."
+]
+},
+{
+"id": "Q-TI-0335",
+"g": "C",
+"e": "Os dados abertos governamentais devem ser disponibilizados em formatos abertos, estruturados e legíveis por máquina, como CSV e JSON, para facilitar sua reutilização.",
+"velho": "Dados abertos.",
+"aula": [
+"Dados estruturados têm formato fixo, em linhas e colunas (tabelas de bancos relacionais, planilhas); semiestruturados têm marcação, mas esquema flexível (JSON, XML, HTML); não estruturados não têm modelo predefinido (texto livre, imagem, áudio, vídeo).",
+"Dados abertos governamentais devem ser disponibilizados em formatos abertos, estruturados e legíveis por máquina (CSV, JSON)."
+]
+},
+{
+"id": "Q-TI-0336",
+"g": "E",
+"e": "Os dados abertos governamentais atendem plenamente à finalidade quando disponibilizados em imagens digitalizadas de documentos impressos, pois o formato não interfere em sua reutilização por máquinas.",
+"velho": "Dados abertos.",
+"aula": [
+"Dados estruturados têm formato fixo, em linhas e colunas (tabelas de bancos relacionais, planilhas); semiestruturados têm marcação, mas esquema flexível (JSON, XML, HTML); não estruturados não têm modelo predefinido (texto livre, imagem, áudio, vídeo).",
+"Dados abertos governamentais devem ser disponibilizados em formatos abertos, estruturados e legíveis por máquina (CSV, JSON)."
+]
+},
+{
+"id": "Q-TI-0337",
+"g": "C",
+"e": "Os indicadores e os KPIs são métricas vinculadas a objetivos, usadas para acompanhar o desempenho de um processo ou de uma instituição em relação a metas.",
+"velho": "Indicadores e KPIs.",
+"aula": [
+"Indicadores e KPIs são métricas ligadas a objetivos; taxa é razão entre um evento e uma população de referência; proporção e percentual expressam parte do todo."
+]
+},
+{
+"id": "Q-TI-0338",
+"g": "E",
+"e": "Os indicadores e os KPIs são dados brutos sem vínculo com objetivos, armazenados exclusivamente para fins de arquivamento, sem uso no acompanhamento de desempenho.",
+"velho": "Indicadores e KPIs.",
+"aula": [
+"Indicadores e KPIs são métricas ligadas a objetivos; taxa é razão entre um evento e uma população de referência; proporção e percentual expressam parte do todo.",
+"Data warehouse reúne dados históricos integrados para análise; data lake armazena dados brutos em vários formatos; governança de dados define responsabilidades, políticas e padrões."
+]
+},
+{
+"id": "Q-TI-0339",
+"g": "C",
+"e": "Em gráficos de barras, o eixo de valores deve partir do zero, pois a comparação se faz pelo comprimento das barras; truncar o eixo exagera visualmente as diferenças entre as categorias.",
+"velho": "Princípio da honestidade gráfica.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0340",
+"g": "E",
+"e": "Em gráficos de barras, é recomendável truncar o eixo de valores para que ele não parta do zero, pois isso torna a comparação mais fiel e evita exagero visual das diferenças entre as categorias.",
+"velho": "Princípio da honestidade gráfica.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0341",
+"g": "C",
+"e": "O histograma representa a distribuição de uma variável quantitativa contínua, agrupada em intervalos contíguos, e suas barras se tocam, ao contrário do gráfico de barras, que compara categorias e tem barras separadas.",
+"velho": "Histograma x gráfico de barras.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0342",
+"g": "E",
+"e": "O histograma compara categorias nominais, e suas barras são sempre separadas, ao contrário do gráfico de barras, que representa a distribuição de variável contínua em intervalos contíguos. Isso é consenso na área.",
+"velho": "Histograma x gráfico de barras.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0343",
+"g": "C",
+"e": "O gráfico de dispersão relaciona duas variáveis quantitativas, cada ponto representando uma observação, e permite identificar correlação, agrupamentos e valores atípicos.",
+"velho": "Gráfico de dispersão.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0344",
+"g": "E",
+"e": "O gráfico de dispersão mostra a composição de um todo em partes, cada fatia representando uma categoria, e não permite identificar correlação entre variáveis. Trata-se de prática corrente.",
+"velho": "Gráfico de dispersão.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0345",
+"g": "C",
+"e": "O gráfico de linhas é adequado para mostrar a evolução de uma variável ao longo do tempo e evidenciar tendências.",
+"velho": "Gráfico de linhas.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0346",
+"g": "E",
+"e": "O gráfico de linhas é adequado para mostrar a composição de um todo em partes, sendo inadequado para evidenciar a evolução de uma variável ao longo do tempo.",
+"velho": "Gráfico de linhas.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0347",
+"g": "C",
+"e": "O box plot resume a distribuição de um conjunto de dados pelo mínimo, primeiro quartil, mediana, terceiro quartil e máximo, e a linha no interior da caixa representa a mediana.",
+"velho": "Box plot.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0348",
+"g": "E",
+"e": "O box plot resume a distribuição de um conjunto de dados pela média e pelo desvio padrão, e a linha no interior da caixa representa a média. Trata-se de prática corrente.",
+"velho": "Box plot.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0349",
+"g": "C",
+"e": "No box plot, a caixa se estende do primeiro ao terceiro quartil, correspondendo à amplitude interquartil, e os pontos situados muito além dos limites, em regra 1,5 vez essa amplitude, são representados como valores atípicos.",
+"velho": "Box plot e outliers.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0350",
+"g": "E",
+"e": "No box plot, a caixa se estende do valor mínimo ao valor máximo do conjunto, e o gráfico não permite representar valores atípicos, que são sempre ocultados. Essa seria a posição predominante na literatura técnica.",
+"velho": "Box plot e outliers.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0351",
+"g": "C",
+"e": "Para comparar a mediana e a dispersão dos salários entre quatro departamentos de um órgão, é adequado um conjunto de box plots lado a lado, um por departamento.",
+"velho": "Escolha do gráfico.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0352",
+"g": "E",
+"e": "Para comparar a mediana e a dispersão dos salários entre quatro departamentos de um órgão, o mais adequado é um gráfico de pizza com uma fatia por departamento.",
+"velho": "Escolha do gráfico.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0353",
+"g": "C",
+"e": "Para representar a distribuição das idades de milhares de servidores, agrupadas em faixas de cinco anos, é adequado o uso de um histograma.",
+"velho": "Escolha do gráfico.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0354",
+"g": "E",
+"e": "Para representar a distribuição das idades de milhares de servidores, agrupadas em faixas de cinco anos, é adequado o uso de um gráfico de linhas ligando cada servidor ao seguinte.",
+"velho": "Escolha do gráfico.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0355",
+"g": "C",
+"e": "Para verificar a relação entre as horas de estudo e as notas de duzentos candidatos, o gráfico mais adequado é o de dispersão, com as horas no eixo horizontal e as notas no eixo vertical.",
+"velho": "Escolha do gráfico.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0356",
+"g": "E",
+"e": "Para verificar a relação entre as horas de estudo e as notas de duzentos candidatos, o gráfico mais adequado é o de pizza, com uma fatia para cada candidato. Trata-se de prática corrente.",
+"velho": "Escolha do gráfico.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0357",
+"g": "C",
+"e": "Para acompanhar a arrecadação mensal de um tributo ao longo de vinte e quatro meses, o gráfico de linhas é uma escolha adequada, por evidenciar a evolução e as tendências no tempo.",
+"velho": "Escolha do gráfico.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0358",
+"g": "E",
+"e": "Para acompanhar a arrecadação mensal de um tributo ao longo de vinte e quatro meses, o gráfico de pizza é a escolha mais adequada, por evidenciar a evolução e as tendências no tempo.",
+"velho": "Escolha do gráfico.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0359",
+"g": "C",
+"e": "Em uma nuvem de pontos, a correlação positiva ocorre quando os valores de uma variável tendem a crescer à medida que os da outra crescem, e a correlação negativa, quando uma tende a diminuir enquanto a outra aumenta.",
+"velho": "Interpretação da dispersão.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0360",
+"g": "E",
+"e": "Em uma nuvem de pontos, a correlação positiva ocorre quando os valores de uma variável tendem a diminuir à medida que os da outra crescem, e a correlação negativa, quando ambas tendem a crescer juntas. Trata-se de prática corrente.",
+"velho": "Interpretação da dispersão.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0361",
+"g": "C",
+"e": "O gráfico de pizza (setores) é indicado para mostrar partes de um todo com poucas categorias, sendo pouco adequado para muitas fatias ou para comparações precisas entre valores próximos.",
+"velho": "Gráfico de pizza.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0362",
+"g": "E",
+"e": "O gráfico de pizza (setores) é o mais indicado para muitas categorias e para comparações precisas entre valores próximos, pois permite estimar com exatidão os ângulos de cada fatia.",
+"velho": "Gráfico de pizza.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0363",
+"g": "C",
+"e": "Os efeitos tridimensionais em gráficos costumam distorcer a percepção dos valores e, em regra, devem ser evitados em favor de representações bidimensionais simples.",
+"velho": "Princípios de visualização.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…"
+]
+},
+{
+"id": "Q-TI-0364",
+"g": "E",
+"e": "Os efeitos tridimensionais em gráficos aumentam a precisão da leitura dos valores e, em regra, devem ser preferidos às representações bidimensionais simples.",
+"velho": "Princípios de visualização.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…"
+]
+},
+{
+"id": "Q-TI-0365",
+"g": "C",
+"e": "O uso de cor em visualizações deve ter propósito, como destacar a informação principal, e considerar contraste e acessibilidade a pessoas com daltonismo; excesso de cores prejudica a leitura.",
+"velho": "Uso de cores.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0366",
+"g": "E",
+"e": "Quanto maior o número de cores usadas em uma visualização, melhor a leitura, e não há necessidade de considerar contraste ou acessibilidade a pessoas com daltonismo. Isso é consenso na área.",
+"velho": "Uso de cores.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0367",
+"g": "C",
+"e": "A ideia de alta razão dados-tinta recomenda que a maior parte dos elementos gráficos represente dados, eliminando decorações e ruídos visuais que não ajudam a transmitir a mensagem.",
+"velho": "Razão dados-tinta.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…"
+]
+},
+{
+"id": "Q-TI-0368",
+"g": "E",
+"e": "A ideia de alta razão dados-tinta recomenda que a maior parte dos elementos gráficos seja ornamental, para atrair a atenção do leitor, ainda que isso reduza o espaço destinado aos dados.",
+"velho": "Razão dados-tinta.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…"
+]
+},
+{
+"id": "Q-TI-0369",
+"g": "C",
+"e": "O Power BI é ferramenta de análise e visualização de dados da Microsoft, que usa o Power Query para transformação de dados e a linguagem DAX para criação de medidas e cálculos.",
+"velho": "Power BI.",
+"aula": [
+"Ferramentas: Microsoft Power BI (Microsoft;",
+"Power BI Desktop para criar relatórios, serviço online para publicar e compartilhar, DAX como linguagem de fórmulas, Power Query para transformação);"
+]
+},
+{
+"id": "Q-TI-0370",
+"g": "E",
+"e": "O Power BI é ferramenta de análise e visualização de dados do Google, que usa o Power Query para criação de relatórios e a linguagem DAX para armazenamento dos dados. Isso é consenso na área.",
+"velho": "Power BI.",
+"aula": [
+"Power BI Desktop para criar relatórios, serviço online para publicar e compartilhar, DAX como linguagem de fórmulas, Power Query para transformação);",
+"Looker Studio (nome atual do antigo Google Data Studio, ferramenta gratuita do Google que cria relatórios e painéis a partir de várias fontes, como Planilhas Google e BigQuery)."
+]
+},
+{
+"id": "Q-TI-0371",
+"g": "C",
+"e": "O Tableau é plataforma de análise visual de dados pertencente à Salesforce, e o Looker Studio é a ferramenta gratuita do Google para criar relatórios e painéis a partir de diferentes fontes de dados.",
+"velho": "Ferramentas de BI.",
+"aula": [
+"Tableau (Salesforce; análise visual interativa);",
+"Looker Studio (nome atual do antigo Google Data Studio, ferramenta gratuita do Google que cria relatórios e painéis a partir de várias fontes, como Planilhas Google e BigQuery)."
+]
+},
+{
+"id": "Q-TI-0372",
+"g": "E",
+"e": "O Tableau é plataforma de análise visual de dados pertencente à Microsoft, e o Looker Studio é a ferramenta paga da Salesforce para criar relatórios e painéis a partir de diferentes fontes de dados.",
+"velho": "Ferramentas de BI.",
+"aula": [
+"Tableau (Salesforce; análise visual interativa);",
+"Looker Studio (nome atual do antigo Google Data Studio, ferramenta gratuita do Google que cria relatórios e painéis a partir de várias fontes, como Planilhas Google e BigQuery)."
+]
+},
+{
+"id": "Q-TI-0373",
+"g": "C",
+"e": "O Looker Studio é o nome atual da ferramenta anteriormente denominada Google Data Studio, que permite conectar fontes como Planilhas Google e criar painéis interativos.",
+"velho": "Data Studio = Looker Studio.",
+"aula": [
+"Looker Studio (nome atual do antigo Google Data Studio, ferramenta gratuita do Google que cria relatórios e painéis a partir de várias fontes, como Planilhas Google e BigQuery)."
+]
+},
+{
+"id": "Q-TI-0374",
+"g": "E",
+"e": "O Google Data Studio foi descontinuado e substituído pelo Power BI, ferramenta que passou a ser a denominação atual do mesmo produto do Google. Isso é consenso na área.",
+"velho": "Data Studio = Looker Studio.",
+"aula": [
+"Looker Studio (nome atual do antigo Google Data Studio, ferramenta gratuita do Google que cria relatórios e painéis a partir de várias fontes, como Planilhas Google e BigQuery)."
+]
+},
+{
+"id": "Q-TI-0375",
+"g": "C",
+"e": "O dashboard (painel) reúne, em uma só tela, indicadores e visualizações para acompanhamento de um objetivo, com recursos como filtros e segmentação para explorar os dados.",
+"velho": "Dashboard.",
+"aula": [
+"Dashboard é painel que reúne indicadores e visualizações em uma tela para acompanhamento de um objetivo; relatório tende a ser mais detalhado.",
+"Interatividade (filtros, segmentação, drill-down) permite explorar os dados."
+]
+},
+{
+"id": "Q-TI-0376",
+"g": "E",
+"e": "O dashboard (painel) é um documento extenso e estático, formado apenas por texto corrido, sem indicadores nem visualizações e sem recursos de interatividade. Trata-se de prática corrente.",
+"velho": "Dashboard.",
+"aula": [
+"Dashboard é painel que reúne indicadores e visualizações em uma tela para acompanhamento de um objetivo; relatório tende a ser mais detalhado.",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0377",
+"g": "C",
+"e": "O recurso de drill-down permite detalhar um dado agregado em níveis mais granulares, como passar do total anual para o mensal e deste para o diário, ao passo que o drill-up faz o caminho inverso.",
+"velho": "Drill-down e drill-up.",
+"aula": [
+"Interatividade (filtros, segmentação, drill-down) permite explorar os dados."
+]
+},
+{
+"id": "Q-TI-0378",
+"g": "E",
+"e": "O recurso de drill-down permite consolidar dados detalhados em totais mais agregados, como passar do total diário para o mensal e deste para o anual, ao passo que o drill-up detalha os dados.",
+"velho": "Drill-down e drill-up.",
+"aula": [
+"Interatividade (filtros, segmentação, drill-down) permite explorar os dados."
+]
+},
+{
+"id": "Q-TI-0379",
+"g": "C",
+"e": "No storytelling com dados, a narrativa combina dados, visualização e história, e o título do gráfico deve, sempre que possível, enunciar a conclusão (título informativo) em vez de apenas descrever o tema.",
+"velho": "Storytelling.",
+"aula": [
+"Storytelling com dados: narrativa construída a partir dos dados, com contexto (quem é o público e o que se quer que faça), destaque do que importa (cor e anotações no ponto-chave) e estrutura com começo (contexto), meio (conflito ou achado) e fim (conclusão e chamada à ação).",
+"Adequar a linguagem ao público; escolher poucas mensagens principais; o título do gráfico deve enunciar a conclusão (título informativo); eliminar o que não apoia a mensagem."
+]
+},
+{
+"id": "Q-TI-0380",
+"g": "E",
+"e": "No storytelling com dados, a narrativa dispensa a visualização, e o título do gráfico deve ser sempre neutro e restrito ao tema, sendo vedado enunciar a conclusão. Trata-se de prática corrente.",
+"velho": "Storytelling.",
+"aula": [
+"Storytelling com dados: narrativa construída a partir dos dados, com contexto (quem é o público e o que se quer que faça), destaque do que importa (cor e anotações no ponto-chave) e estrutura com começo (contexto), meio (conflito ou achado) e fim (conclusão e chamada à ação).",
+"Adequar a linguagem ao público; escolher poucas mensagens principais; o título do gráfico deve enunciar a conclusão (título informativo); eliminar o que não apoia a mensagem."
+]
+},
+{
+"id": "Q-TI-0381",
+"g": "C",
+"e": "No storytelling com dados, a linguagem e o nível de detalhe devem ser adequados ao público, destacando-se poucas mensagens principais e eliminando-se o que não apoia a mensagem.",
+"velho": "Storytelling.",
+"aula": [
+"Storytelling com dados: narrativa construída a partir dos dados, com contexto (quem é o público e o que se quer que faça), destaque do que importa (cor e anotações no ponto-chave) e estrutura com começo (contexto), meio (conflito ou achado) e fim (conclusão e chamada à ação).",
+"Adequar a linguagem ao público; escolher poucas mensagens principais; o título do gráfico deve enunciar a conclusão (título informativo); eliminar o que não apoia a mensagem."
+]
+},
+{
+"id": "Q-TI-0382",
+"g": "E",
+"e": "No storytelling com dados, devem ser apresentados todos os dados disponíveis, sem filtro, independentemente do público, pois a seleção de mensagens principais compromete a transparência.",
+"velho": "Storytelling.",
+"aula": [
+"Storytelling com dados: narrativa construída a partir dos dados, com contexto (quem é o público e o que se quer que faça), destaque do que importa (cor e anotações no ponto-chave) e estrutura com começo (contexto), meio (conflito ou achado) e fim (conclusão e chamada à ação).",
+"Adequar a linguagem ao público; escolher poucas mensagens principais; o título do gráfico deve enunciar a conclusão (título informativo); eliminar o que não apoia a mensagem."
+]
+},
+{
+"id": "Q-TI-0383",
+"g": "C",
+"e": "No gráfico de bolhas, a posição de cada bolha em dois eixos representa duas variáveis, e o tamanho da bolha pode representar uma terceira variável quantitativa.",
+"velho": "Gráfico de bolhas.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0384",
+"g": "E",
+"e": "No gráfico de bolhas, a posição de cada bolha em um único eixo representa uma variável, e o tamanho da bolha representa a categoria a que ela pertence, sem outra variável quantitativa.",
+"velho": "Gráfico de bolhas.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…",
+"Outros recursos: gráfico de colunas empilhadas mostra a composição de cada categoria, mas dificulta comparar segmentos que não estão na base; gráfico com eixos duplos pode induzir a falsas conclusões se mal escalado; treemap representa hierarquias por retângulos proporcionais; sparkline é um minigráfico dentro de uma célula; texto alternativo e contraste adequado favorecem a acessibilidade…"
+]
+},
+{
+"id": "Q-TI-0385",
+"g": "C",
+"e": "O mapa coroplético colore regiões geográficas (como estados) de acordo com o valor de uma variável, enquanto o mapa de calor (heatmap) usa a intensidade de cor para representar valores em uma matriz ou em uma área.",
+"velho": "Mapas.",
+"aula": [
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0386",
+"g": "E",
+"e": "O mapa coroplético usa pontos de tamanhos variados sobre um mapa, sem colorir regiões, enquanto o mapa de calor (heatmap) é um gráfico de linhas que mostra a evolução de uma variável ao longo do tempo. Isso é consenso na área.",
+"velho": "Mapas.",
+"aula": [
+"Princípios: o objetivo é comunicar com clareza e fidelidade; escolher o gráfico pela pergunta que os dados respondem (comparação, composição, distribuição, relação, evolução no tempo); reduzir ruído visual e elementos decorativos (alta razão dados-tinta); eixos e escalas honestos (barras devem partir do zero, pois comparam comprimentos; truncar o eixo exagera diferenças); rótulos, título, unidade e…",
+"Tipos de gráfico: barras ou colunas comparam categorias discretas (barras agrupadas e empilhadas); linha mostra evolução ao longo do tempo e tendência; histograma mostra a distribuição de uma variável quantitativa contínua, agrupando em intervalos (classes) contíguos, com altura (ou área) proporcional à frequência, e as barras se tocam, ao contrário do gráfico de barras; gráfico…"
+]
+},
+{
+"id": "Q-TI-0387",
+"g": "C",
+"e": "No Outlook, os convites de reunião são enviados pelo calendário, e os destinatários podem responder aceitando, recusando ou aceitando provisoriamente.",
+"velho": "Outlook, calendário.",
+"aula": [
+"OUTLOOK E SHAREPOINT: o Outlook reúne e-mail, calendário, contatos e tarefas; convites de reunião são enviados pelo calendário e os destinatários respondem aceitando, recusando ou aceitando provisoriamente; regras movem ou marcam mensagens automaticamente; mensagens excluídas vão para a pasta Itens Excluídos antes da remoção definitiva."
+]
+},
+{
+"id": "Q-TI-0388",
+"g": "E",
+"e": "No Outlook, os convites de reunião são enviados pela pasta Caixa de Saída, e os destinatários só podem responder aceitando, sem opção de recusar ou de aceitar provisoriamente.",
+"velho": "Outlook, calendário.",
+"aula": [
+"OUTLOOK E SHAREPOINT: o Outlook reúne e-mail, calendário, contatos e tarefas; convites de reunião são enviados pelo calendário e os destinatários respondem aceitando, recusando ou aceitando provisoriamente; regras movem ou marcam mensagens automaticamente; mensagens excluídas vão para a pasta Itens Excluídos antes da remoção definitiva."
+]
+}
+]

@@ -1,0 +1,701 @@
+[
+{
+"id": "Q-LP-0238",
+"g": "E",
+"e": "Em 'Havia dúvidas sobre a votação', o verbo 'haver' é impessoal e, por isso, deveria ir ao plural, concordando com 'dúvidas'.",
+"velho": "Haver (existir): sem sujeito, singular.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0239",
+"g": "C",
+"e": "Em 'Vendem-se casas', o 'se' é partícula apassivadora e 'casas' é o sujeito.",
+"velho": "VTD + se = passiva sintética.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0240",
+"g": "E",
+"e": "Em 'Vendem-se casas', o 'se' é índice de indeterminação do sujeito e 'casas' é objeto direto.",
+"velho": "VTD + se = passiva sintética.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0241",
+"g": "C",
+"e": "Em 'Precisa-se de servidores', o sujeito é indeterminado e o verbo fica no singular.",
+"velho": "VTI + se = indeterminado, singular.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0242",
+"g": "E",
+"e": "Em 'Precisa-se de servidores', o sujeito é 'servidores' e o verbo deveria ir ao plural.",
+"velho": "VTI + se = indeterminado, singular.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0243",
+"g": "C",
+"e": "Em 'O projeto foi aprovado pelo Senado', a expressão 'pelo Senado' é agente da passiva.",
+"velho": "Por + agente = agente da passiva.",
+"aula": [
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer').",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0244",
+"g": "E",
+"e": "Em 'O projeto foi aprovado pelo Senado', a expressão 'pelo Senado' é complemento nominal.",
+"velho": "Por + agente = agente da passiva.",
+"aula": [
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer').",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0245",
+"g": "C",
+"e": "Em 'A leitura do parecer foi demorada', a expressão 'do parecer' é complemento nominal, pois completa o substantivo 'leitura' e tem valor passivo.",
+"velho": "O parecer é lido: complemento nominal.",
+"aula": [
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer').",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0246",
+"g": "E",
+"e": "Em 'A leitura do parecer foi demorada', a expressão 'do parecer' é adjunto adnominal, pois indica quem realizou a leitura. Isso é consenso.",
+"velho": "O parecer é lido: complemento nominal.",
+"aula": [
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer').",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0247",
+"g": "C",
+"e": "Em 'Os deputados consideraram o texto inconstitucional', o termo 'inconstitucional' é predicativo do objeto.",
+"velho": "Qualifica 'o texto' (objeto).",
+"aula": [
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer').",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0248",
+"g": "E",
+"e": "Em 'Os deputados consideraram o texto inconstitucional', o termo 'inconstitucional' é predicativo do sujeito.",
+"velho": "Qualifica 'o texto' (objeto).",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0249",
+"g": "C",
+"e": "Em 'Os servidores estavam cansados', o verbo é de ligação e 'cansados' é predicativo do sujeito.",
+"velho": "Estar = ligação.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0250",
+"g": "E",
+"e": "Em 'Os servidores estavam cansados', o verbo é transitivo direto e 'cansados' é objeto direto.",
+"velho": "Estar = ligação.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0251",
+"g": "C",
+"e": "Em 'Obedeceram às ordens', o termo 'às ordens' é objeto indireto.",
+"velho": "Obedecer a: preposição = indireto.",
+"aula": [
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer').",
+"Pegadinha: se apassivador × índice de indeterminação; complemento nominal × adjunto adnominal."
+]
+},
+{
+"id": "Q-LP-0252",
+"g": "E",
+"e": "Em 'Obedeceram às ordens', o termo 'às ordens' é objeto direto.",
+"velho": "Obedecer a: preposição = indireto.",
+"aula": [
+"Sem sujeito: haver (existir), fazer (tempo), fenômenos da natureza. Indeterminado: 3ª pessoa do plural sem referente, ou verbo sem objeto direto + se ('Precisa-se de servidores'). 'Vendem-se casas': se apassivador, 'casas' é sujeito.",
+"Objeto direto: sem preposição; indireto: com preposição ('Obedeceram às ordens'). Predicativo do sujeito (verbo de ligação) × do objeto ('considerar o texto inconstitucional'). Agente da passiva: 'por/de' + agente. Complemento nominal completa um nome e tem valor passivo ('leitura do parecer')."
+]
+},
+{
+"id": "Q-LP-0253",
+"g": "C",
+"e": "'O Senado rejeitou a emenda' pode ser reescrito como 'A emenda foi rejeitada pelo Senado', sem alteração de sentido.",
+"velho": "Passiva: objeto vira sujeito.",
+"aula": [
+"Ativa → passiva: o objeto direto vira sujeito e o sujeito vira agente da passiva; o verbo concorda com o novo sujeito ('As emendas foram aprovadas'). 'Aprovaram-se as emendas' equivale à passiva. Só verbo com objeto direto vai à passiva.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0254",
+"g": "E",
+"e": "'O Senado rejeitou a emenda' pode ser reescrito como 'O Senado foi rejeitado pela emenda', sem alteração de sentido.",
+"velho": "Passiva: objeto vira sujeito.",
+"aula": [
+"Ativa → passiva: o objeto direto vira sujeito e o sujeito vira agente da passiva; o verbo concorda com o novo sujeito ('As emendas foram aprovadas'). 'Aprovaram-se as emendas' equivale à passiva. Só verbo com objeto direto vai à passiva.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0255",
+"g": "C",
+"e": "A frase 'Aprovaram-se as emendas' equivale a 'As emendas foram aprovadas'.",
+"velho": "Se apassivador concorda.",
+"aula": [
+"Ativa → passiva: o objeto direto vira sujeito e o sujeito vira agente da passiva; o verbo concorda com o novo sujeito ('As emendas foram aprovadas'). 'Aprovaram-se as emendas' equivale à passiva. Só verbo com objeto direto vai à passiva.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0256",
+"g": "E",
+"e": "A frase 'Aprovou-se as emendas' mantém a correção da frase original 'Aprovaram-se as emendas'.",
+"velho": "Se apassivador concorda.",
+"aula": [
+"Ativa → passiva: o objeto direto vira sujeito e o sujeito vira agente da passiva; o verbo concorda com o novo sujeito ('As emendas foram aprovadas'). 'Aprovaram-se as emendas' equivale à passiva. Só verbo com objeto direto vai à passiva.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0257",
+"g": "C",
+"e": "'Ao aprovarem o projeto, os deputados comemoraram' pode ser reescrito como 'Com a aprovação do projeto, os deputados comemoraram', sem alteração de sentido.",
+"velho": "Ao + infinitivo = no momento de.",
+"aula": [
+"Nominalização: 'Ao aprovarem o projeto' = 'Com a aprovação do projeto'. Deslocar termos pode mudar o sentido, em especial palavras de escopo como 'só', 'também', 'até'.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0258",
+"g": "E",
+"e": "'Ao aprovarem o projeto, os deputados comemoraram' pode ser reescrito como 'Antes da aprovação do projeto, os deputados comemoraram', sem alteração de sentido.",
+"velho": "Ao + infinitivo = no momento de.",
+"aula": [
+"Nominalização: 'Ao aprovarem o projeto' = 'Com a aprovação do projeto'. Deslocar termos pode mudar o sentido, em especial palavras de escopo como 'só', 'também', 'até'.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0259",
+"g": "C",
+"e": "Verbos intransitivos, como 'chegar', não admitem voz passiva.",
+"velho": "Passiva exige objeto direto.",
+"aula": [
+"Ativa → passiva: o objeto direto vira sujeito e o sujeito vira agente da passiva; o verbo concorda com o novo sujeito ('As emendas foram aprovadas'). 'Aprovaram-se as emendas' equivale à passiva. Só verbo com objeto direto vai à passiva.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0260",
+"g": "E",
+"e": "Verbos intransitivos, como 'chegar', admitem voz passiva.",
+"velho": "Passiva exige objeto direto.",
+"aula": [
+"Ativa → passiva: o objeto direto vira sujeito e o sujeito vira agente da passiva; o verbo concorda com o novo sujeito ('As emendas foram aprovadas'). 'Aprovaram-se as emendas' equivale à passiva. Só verbo com objeto direto vai à passiva.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0261",
+"g": "C",
+"e": "Na passagem de 'O governo anunciou medidas' para 'Medidas foram anunciadas pelo governo', o objeto direto passa a sujeito.",
+"velho": "Objeto direto → sujeito.",
+"aula": [
+"Ativa → passiva: o objeto direto vira sujeito e o sujeito vira agente da passiva; o verbo concorda com o novo sujeito ('As emendas foram aprovadas'). 'Aprovaram-se as emendas' equivale à passiva. Só verbo com objeto direto vai à passiva.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0262",
+"g": "E",
+"e": "Na passagem de 'O governo anunciou medidas' para 'Medidas foram anunciadas pelo governo', o sujeito passa a objeto direto.",
+"velho": "Objeto direto → sujeito.",
+"aula": [
+"Ativa → passiva: o objeto direto vira sujeito e o sujeito vira agente da passiva; o verbo concorda com o novo sujeito ('As emendas foram aprovadas'). 'Aprovaram-se as emendas' equivale à passiva. Só verbo com objeto direto vai à passiva.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0263",
+"g": "C",
+"e": "'Só o relator leu o parecer' e 'O relator só leu o parecer' têm sentidos diferentes.",
+"velho": "Deslocar 'só' muda o sentido.",
+"aula": [
+"Nominalização: 'Ao aprovarem o projeto' = 'Com a aprovação do projeto'. Deslocar termos pode mudar o sentido, em especial palavras de escopo como 'só', 'também', 'até'.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0264",
+"g": "E",
+"e": "'Só o relator leu o parecer' e 'O relator só leu o parecer' têm o mesmo sentido.",
+"velho": "Deslocar 'só' muda o sentido.",
+"aula": [
+"Nominalização: 'Ao aprovarem o projeto' = 'Com a aprovação do projeto'. Deslocar termos pode mudar o sentido, em especial palavras de escopo como 'só', 'também', 'até'.",
+"Pegadinha: passiva com troca de papéis; 'Aprovou-se as emendas' (errado)."
+]
+},
+{
+"id": "Q-LP-0265",
+"g": "C",
+"e": "Substituir 'Haviam muitas dúvidas' por 'Havia muitas dúvidas' corrige a concordância.",
+"velho": "Haver impessoal: singular.",
+"aula": [
+"Exemplos: 'Haviam dúvidas' (errado) → 'Havia dúvidas'; 'Assisti o filme' (errado) → 'Assisti ao filme'; 'Informei ele' (inadequado) → 'Informei-o'; sem a crase em 'Fui a sessão' (errado).",
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0266",
+"g": "E",
+"e": "Substituir 'Havia muitas dúvidas' por 'Haviam muitas dúvidas' corrige a concordância.",
+"velho": "Haver impessoal: singular.",
+"aula": [
+"Exemplos: 'Haviam dúvidas' (errado) → 'Havia dúvidas'; 'Assisti o filme' (errado) → 'Assisti ao filme'; 'Informei ele' (inadequado) → 'Informei-o'; sem a crase em 'Fui a sessão' (errado).",
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0267",
+"g": "C",
+"e": "Reescrever 'Assisti o filme' como 'Assisti ao filme' corrige a regência.",
+"velho": "Assistir (ver) pede 'a'.",
+"aula": [
+"Exemplos: 'Haviam dúvidas' (errado) → 'Havia dúvidas'; 'Assisti o filme' (errado) → 'Assisti ao filme'; 'Informei ele' (inadequado) → 'Informei-o'; sem a crase em 'Fui a sessão' (errado).",
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0268",
+"g": "E",
+"e": "Reescrever 'Assisti ao filme' como 'Assisti o filme' corrige a regência.",
+"velho": "Assistir (ver) pede 'a'.",
+"aula": [
+"Exemplos: 'Haviam dúvidas' (errado) → 'Havia dúvidas'; 'Assisti o filme' (errado) → 'Assisti ao filme'; 'Informei ele' (inadequado) → 'Informei-o'; sem a crase em 'Fui a sessão' (errado).",
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0269",
+"g": "C",
+"e": "Em 'Visitei a cidade onde nasci', trocar 'onde' por 'em que' mantém correção e sentido.",
+"velho": "Nascer em: 'em que'.",
+"aula": [
+"O item propõe nova redação e pergunta se mantém correção gramatical e sentido. Cheque nesta ordem: concordância, regência, crase, pontuação, pronomes, conectivo. Um erro basta para a reescrita estar errada.",
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0270",
+"g": "E",
+"e": "Em 'Visitei a cidade onde nasci', trocar 'onde' por 'a que' mantém correção e sentido.",
+"velho": "Nascer em: 'em que'.",
+"aula": [
+"O item propõe nova redação e pergunta se mantém correção gramatical e sentido. Cheque nesta ordem: concordância, regência, crase, pontuação, pronomes, conectivo. Um erro basta para a reescrita estar errada.",
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0271",
+"g": "C",
+"e": "Em 'Informei-o do prazo', a troca por 'Informei ele do prazo' compromete a adequação à norma-padrão.",
+"velho": "Objeto direto: o/a, não 'ele'.",
+"aula": [
+"O item propõe nova redação e pergunta se mantém correção gramatical e sentido. Cheque nesta ordem: concordância, regência, crase, pontuação, pronomes, conectivo. Um erro basta para a reescrita estar errada.",
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0272",
+"g": "E",
+"e": "Em 'Informei-o do prazo', a troca por 'Informei ele do prazo' mantém a adequação à norma-padrão.",
+"velho": "Objeto direto: o/a, não 'ele'.",
+"aula": [
+"O item propõe nova redação e pergunta se mantém correção gramatical e sentido. Cheque nesta ordem: concordância, regência, crase, pontuação, pronomes, conectivo. Um erro basta para a reescrita estar errada.",
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0273",
+"g": "C",
+"e": "Trocar 'Fui à sessão' por 'Fui a sessão' compromete a correção, por ausência de crase.",
+"velho": "Ir a + a sessão = à.",
+"aula": [
+"O item propõe nova redação e pergunta se mantém correção gramatical e sentido. Cheque nesta ordem: concordância, regência, crase, pontuação, pronomes, conectivo. Um erro basta para a reescrita estar errada.",
+"Exemplos: 'Haviam dúvidas' (errado) → 'Havia dúvidas'; 'Assisti o filme' (errado) → 'Assisti ao filme'; 'Informei ele' (inadequado) → 'Informei-o'; sem a crase em 'Fui a sessão' (errado)."
+]
+},
+{
+"id": "Q-LP-0274",
+"g": "E",
+"e": "Trocar 'Fui à sessão' por 'Fui a sessão' mantém a correção. Isso é consenso.",
+"velho": "Ir a + a sessão = à.",
+"aula": [
+"O item propõe nova redação e pergunta se mantém correção gramatical e sentido. Cheque nesta ordem: concordância, regência, crase, pontuação, pronomes, conectivo. Um erro basta para a reescrita estar errada.",
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0275",
+"g": "C",
+"e": "Reescrever 'A decisão, tomada por unanimidade, foi publicada' como 'A decisão tomada por unanimidade foi publicada' pode alterar o sentido, por transformar a oração explicativa em restritiva.",
+"velho": "Sem vírgulas = restritiva.",
+"aula": [
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0276",
+"g": "E",
+"e": "Reescrever 'A decisão, tomada por unanimidade, foi publicada' como 'A decisão tomada por unanimidade foi publicada' não altera o sentido, pois a pontuação não interfere no significado.",
+"velho": "Sem vírgulas = restritiva.",
+"aula": [
+"O item propõe nova redação e pergunta se mantém correção gramatical e sentido. Cheque nesta ordem: concordância, regência, crase, pontuação, pronomes, conectivo. Um erro basta para a reescrita estar errada.",
+"Pegadinha: reescrita correta, mas com sentido alterado (restritiva no lugar de explicativa)."
+]
+},
+{
+"id": "Q-LP-0277",
+"g": "C",
+"e": "'A fim de' pode ser substituída por 'para' em 'Votou-se rápido a fim de evitar atrasos'.",
+"velho": "A fim de = para (finalidade).",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0278",
+"g": "E",
+"e": "'A fim de' pode ser substituída por 'porque' em 'Votou-se rápido a fim de evitar atrasos'.",
+"velho": "A fim de = para (finalidade).",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0279",
+"g": "C",
+"e": "'Haja vista' equivale a 'tendo em vista' em 'O pedido foi negado, haja vista a ausência de provas'.",
+"velho": "Haja vista = tendo em vista.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0280",
+"g": "E",
+"e": "'Haja vista' equivale a 'apesar de' em 'O pedido foi negado, haja vista a ausência de provas'.",
+"velho": "Haja vista = tendo em vista.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0281",
+"g": "C",
+"e": "'Não obstante' pode ser substituída por 'apesar de' em 'Não obstante o recurso, a sentença foi mantida'.",
+"velho": "Não obstante = apesar de.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0282",
+"g": "E",
+"e": "'Não obstante' pode ser substituída por 'em razão de' em 'Não obstante o recurso, a sentença foi mantida'.",
+"velho": "Não obstante = apesar de.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0283",
+"g": "C",
+"e": "'Tampouco' equivale a 'também não' em 'Não votou, tampouco opinou'.",
+"velho": "Tampouco = também não.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0284",
+"g": "E",
+"e": "'Tampouco' equivale a 'além disso' em 'Não votou, tampouco opinou'.",
+"velho": "Tampouco = também não.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0285",
+"g": "C",
+"e": "Em 'Não fez outra coisa senão reclamar', 'senão' equivale a 'exceto'.",
+"velho": "Senão = exceto/a não ser.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Distinguir senão (conjunção ou prep., 'a não ser') de se não (condição + negação): 'Não fez outra coisa senão reclamar'; 'Se não votar, será multado'."
+]
+},
+{
+"id": "Q-LP-0286",
+"g": "E",
+"e": "Em 'Não fez outra coisa senão reclamar', 'senão' deve ser grafado 'se não'.",
+"velho": "Senão = exceto/a não ser.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Distinguir senão (conjunção ou prep., 'a não ser') de se não (condição + negação): 'Não fez outra coisa senão reclamar'; 'Se não votar, será multado'."
+]
+},
+{
+"id": "Q-LP-0287",
+"g": "C",
+"e": "'A despeito de' tem valor concessivo e equivale a 'apesar de'.",
+"velho": "A despeito de = apesar de.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0288",
+"g": "E",
+"e": "'A despeito de' tem valor causal e equivale a 'por causa de'.",
+"velho": "A despeito de = apesar de.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0289",
+"g": "C",
+"e": "'Porquanto' equivale a 'pois' ou 'porque', introduzindo explicação ou causa.",
+"velho": "Porquanto = porque.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0290",
+"g": "E",
+"e": "'Porquanto' equivale a 'embora', introduzindo concessão. Isso é consenso.",
+"velho": "Porquanto = porque.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0291",
+"g": "C",
+"e": "'Bem como' tem valor aditivo e equivale a 'e também'.",
+"velho": "Bem como = e também.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0292",
+"g": "E",
+"e": "'Bem como' tem valor adversativo e equivale a 'mas'.",
+"velho": "Bem como = e também.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0293",
+"g": "C",
+"e": "Em 'Ele vota a favor, ao passo que ela se opõe', a locução 'ao passo que' exprime oposição.",
+"velho": "Ao passo que = oposição/proporção.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0294",
+"g": "E",
+"e": "Em 'Ele vota a favor, ao passo que ela se opõe', a locução 'ao passo que' exprime causa.",
+"velho": "Ao passo que = oposição/proporção.",
+"aula": [
+"Equivalências: a fim de = para; haja vista = tendo em vista; não obstante / a despeito de = apesar de; tampouco = também não; bem como = e também; porquanto = porque; ao passo que = oposição, proporção ou tempo; senão = exceto, a não ser.",
+"Pegadinha: trocar concessão por causa (não obstante → em razão de) ou causa por concessão (porquanto → embora)."
+]
+},
+{
+"id": "Q-LP-0295",
+"g": "C",
+"e": "“A prefeitura adiou a obra do viaduto até que o estudo de impacto seja concluído.” — O texto permite inferir que o estudo de impacto ainda não foi concluído.",
+"velho": "Adiar não é cancelar.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Teste: a conclusão decorre necessariamente das palavras do texto? Adiar ≠ cancelar; suspender ≠ extinguir; 'real' ≠ 'nominal'; prazo 'até 18h' exclui 19h."
+]
+},
+{
+"id": "Q-LP-0296",
+"g": "E",
+"e": "“A prefeitura adiou a obra do viaduto até que o estudo de impacto seja concluído.” — O texto permite inferir que a obra foi cancelada definitivamente.",
+"velho": "Adiar não é cancelar.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Teste: a conclusão decorre necessariamente das palavras do texto? Adiar ≠ cancelar; suspender ≠ extinguir; 'real' ≠ 'nominal'; prazo 'até 18h' exclui 19h."
+]
+},
+{
+"id": "Q-LP-0297",
+"g": "C",
+"e": "“Embora o parecer seja favorável, o relator pediu vista para examinar as emendas.” — Depreende-se que o relator ainda não votou o parecer.",
+"velho": "Pedir vista adia o voto.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0298",
+"g": "E",
+"e": "“Embora o parecer seja favorável, o relator pediu vista para examinar as emendas.” — Depreende-se que o parecer foi rejeitado. Trata-se de prática corrente.",
+"velho": "Pedir vista adia o voto.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0299",
+"g": "C",
+"e": "“Poucos servidores concluíram o curso no prazo, o que levou o órgão a prorrogá-lo.” — A prorrogação decorre do baixo número de concluintes no prazo.",
+"velho": "Causa dada: poucos concluíram.",
+"aula": [
+"Teste: a conclusão decorre necessariamente das palavras do texto? Adiar ≠ cancelar; suspender ≠ extinguir; 'real' ≠ 'nominal'; prazo 'até 18h' exclui 19h.",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0300",
+"g": "E",
+"e": "“Poucos servidores concluíram o curso no prazo, o que levou o órgão a prorrogá-lo.” — A prorrogação decorre da falta de interesse dos servidores.",
+"velho": "Causa dada: poucos concluíram.",
+"aula": [
+"Teste: a conclusão decorre necessariamente das palavras do texto? Adiar ≠ cancelar; suspender ≠ extinguir; 'real' ≠ 'nominal'; prazo 'até 18h' exclui 19h.",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0301",
+"g": "C",
+"e": "“O orçamento cresceu 5% em 2025, mas a inflação do período foi de 6%.” — Houve queda do orçamento em termos reais.",
+"velho": "Real ≠ nominal.",
+"aula": [
+"Teste: a conclusão decorre necessariamente das palavras do texto? Adiar ≠ cancelar; suspender ≠ extinguir; 'real' ≠ 'nominal'; prazo 'até 18h' exclui 19h.",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0302",
+"g": "E",
+"e": "“O orçamento cresceu 5% em 2025, mas a inflação do período foi de 6%.” — O orçamento diminuiu em valores nominais.",
+"velho": "Real ≠ nominal.",
+"aula": [
+"Teste: a conclusão decorre necessariamente das palavras do texto? Adiar ≠ cancelar; suspender ≠ extinguir; 'real' ≠ 'nominal'; prazo 'até 18h' exclui 19h.",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0303",
+"g": "C",
+"e": "“Só serão aceitas inscrições feitas até sexta-feira, às 18h.” — Inscrição feita no sábado não será aceita.",
+"velho": "Prazo vencido às 18h.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0304",
+"g": "E",
+"e": "“Só serão aceitas inscrições feitas até sexta-feira, às 18h.” — Inscrição feita na sexta-feira, às 19h, será aceita.",
+"velho": "Prazo vencido às 18h.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0305",
+"g": "C",
+"e": "“A comissão não aprovou o requerimento, ainda que tenha reconhecido sua relevância.” — A comissão reconheceu a relevância do requerimento e, mesmo assim, não o aprovou.",
+"velho": "Ainda que = concessão.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0306",
+"g": "E",
+"e": "“A comissão não aprovou o requerimento, ainda que tenha reconhecido sua relevância.” — A comissão aprovou o requerimento por reconhecer sua relevância. Trata-se de prática corrente.",
+"velho": "Ainda que = concessão.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0307",
+"g": "C",
+"e": "“Nas últimas eleições, o comparecimento foi menor que o das anteriores.” — O comparecimento diminuiu em relação aos pleitos anteriores.",
+"velho": "Texto só compara comparecimento.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+}
+]

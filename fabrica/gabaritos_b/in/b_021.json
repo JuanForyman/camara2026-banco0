@@ -1,0 +1,675 @@
+[
+{
+"id": "Q-LIN-0150",
+"g": "E",
+"e": "Em um discurso lido em plenário, a expressão 'hoje' remete sempre à data de publicação do texto, independentemente do momento da leitura. Isso é consenso na área.",
+"velho": "Dêiticos temporais.",
+"aula": [
+"Discurso é o texto em sua dimensão social e histórica, ligado a condições de produção, a uma posição social ou ideológica e a outros discursos (interdiscurso)."
+]
+},
+{
+"id": "Q-LIN-0151",
+"g": "C",
+"e": "Texto é a unidade de sentido materializada, ao passo que discurso é o texto em sua dimensão social e histórica, ligado às condições de produção e a outros discursos.",
+"velho": "Texto e discurso.",
+"aula": [
+"Texto é a unidade de sentido materializada, verbal ou não.",
+"Discurso é o texto em sua dimensão social e histórica, ligado a condições de produção, a uma posição social ou ideológica e a outros discursos (interdiscurso)."
+]
+},
+{
+"id": "Q-LIN-0152",
+"g": "E",
+"e": "Discurso é a unidade de sentido materializada, sem relação com condições de produção, ao passo que texto é o produto social e histórico ligado a outros discursos.",
+"velho": "Texto e discurso.",
+"aula": [
+"Texto é a unidade de sentido materializada, verbal ou não.",
+"Discurso é o texto em sua dimensão social e histórica, ligado a condições de produção, a uma posição social ou ideológica e a outros discursos (interdiscurso)."
+]
+},
+{
+"id": "Q-LIN-0153",
+"g": "C",
+"e": "Para a análise do discurso de linha francesa, o sentido não é transparente: depende da formação discursiva e ideológica em que o enunciado é produzido.",
+"velho": "Pêcheux.",
+"aula": [
+"Discurso é o texto em sua dimensão social e histórica, ligado a condições de produção, a uma posição social ou ideológica e a outros discursos (interdiscurso).",
+"Para a análise do discurso de linha francesa (Pêcheux), o sentido não é transparente: depende da formação discursiva e da formação ideológica em que o enunciado é produzido; o sujeito é afetado pela ideologia e pelo inconsciente."
+]
+},
+{
+"id": "Q-LIN-0154",
+"g": "E",
+"e": "Para a análise do discurso de linha francesa, o sentido é transparente e independente da formação discursiva, pois decorre da intenção consciente do emissor.",
+"velho": "Pêcheux.",
+"aula": [
+"Para a análise do discurso de linha francesa (Pêcheux), o sentido não é transparente: depende da formação discursiva e da formação ideológica em que o enunciado é produzido; o sujeito é afetado pela ideologia e pelo inconsciente."
+]
+},
+{
+"id": "Q-LIN-0155",
+"g": "C",
+"e": "O interdiscurso é o conjunto de discursos anteriores e externos que sustentam o que se diz em um enunciado, e é constitutivo de todo discurso.",
+"velho": "Interdiscurso.",
+"aula": [
+"Discurso é o texto em sua dimensão social e histórica, ligado a condições de produção, a uma posição social ou ideológica e a outros discursos (interdiscurso).",
+"Dialogismo (Bakhtin): todo enunciado é uma resposta a enunciados anteriores e antecipa respostas, e todo discurso é atravessado pelo discurso do outro; o dialogismo é constitutivo da linguagem."
+]
+},
+{
+"id": "Q-LIN-0156",
+"g": "E",
+"e": "O interdiscurso é o discurso que o próprio emissor produz no interior de um único texto, sem relação com outros discursos. Trata-se de prática corrente.",
+"velho": "Interdiscurso.",
+"aula": [
+"Discurso é o texto em sua dimensão social e histórica, ligado a condições de produção, a uma posição social ou ideológica e a outros discursos (interdiscurso).",
+"Polifonia: presença de várias vozes no texto, autônomas em relação ao autor, conceito que Bakhtin aplicou a Dostoiévski;"
+]
+},
+{
+"id": "Q-LIN-0157",
+"g": "C",
+"e": "Para Bakhtin, o dialogismo é constitutivo da linguagem: todo enunciado responde a enunciados anteriores e antecipa respostas.",
+"velho": "Dialogismo.",
+"aula": [
+"Dialogismo (Bakhtin): todo enunciado é uma resposta a enunciados anteriores e antecipa respostas, e todo discurso é atravessado pelo discurso do outro; o dialogismo é constitutivo da linguagem."
+]
+},
+{
+"id": "Q-LIN-0158",
+"g": "E",
+"e": "Para Bakhtin, o dialogismo ocorre apenas em textos que reproduzem diálogos entre personagens, e não é constitutivo da linguagem.",
+"velho": "Dialogismo.",
+"aula": [
+"Dialogismo (Bakhtin): todo enunciado é uma resposta a enunciados anteriores e antecipa respostas, e todo discurso é atravessado pelo discurso do outro; o dialogismo é constitutivo da linguagem."
+]
+},
+{
+"id": "Q-LIN-0159",
+"g": "C",
+"e": "A polifonia, na obra de Bakhtin sobre Dostoiévski, refere-se à presença de várias vozes autônomas no texto, que não se submetem à voz do autor.",
+"velho": "Polifonia.",
+"aula": [
+"Polifonia: presença de várias vozes no texto, autônomas em relação ao autor, conceito que Bakhtin aplicou a Dostoiévski;"
+]
+},
+{
+"id": "Q-LIN-0160",
+"g": "E",
+"e": "A polifonia, na obra de Bakhtin sobre Dostoiévski, refere-se à presença de uma única voz, a do autor, que organiza todas as demais. Trata-se de prática corrente.",
+"velho": "Polifonia.",
+"aula": [
+"Polifonia: presença de várias vozes no texto, autônomas em relação ao autor, conceito que Bakhtin aplicou a Dostoiévski;"
+]
+},
+{
+"id": "Q-LIN-0161",
+"g": "C",
+"e": "Ducrot, ao retomar a noção de polifonia na linguística, distingue o locutor e os enunciadores, e admite que o autor empírico não se identifica sempre com a voz que se manifesta no enunciado.",
+"velho": "Ducrot, polifonia.",
+"aula": [
+"Polifonia: presença de várias vozes no texto, autônomas em relação ao autor, conceito que Bakhtin aplicou a Dostoiévski;",
+"Ducrot a retoma na linguística, distinguindo locutor e enunciadores."
+]
+},
+{
+"id": "Q-LIN-0162",
+"g": "E",
+"e": "Ducrot, ao retomar a noção de polifonia na linguística, afirma que o locutor e o autor empírico são sempre a mesma instância, não havendo enunciadores distintos. Isso é consenso na área.",
+"velho": "Ducrot, polifonia.",
+"aula": [
+"Polifonia: presença de várias vozes no texto, autônomas em relação ao autor, conceito que Bakhtin aplicou a Dostoiévski;",
+"Ducrot a retoma na linguística, distinguindo locutor e enunciadores."
+]
+},
+{
+"id": "Q-LIN-0163",
+"g": "C",
+"e": "As esferas sociais de comunicação, como a jurídica, a jornalística e a política, determinam os gêneros do discurso que nelas circulam.",
+"velho": "Esferas sociais.",
+"aula": [
+"Esferas sociais de comunicação (esferas da atividade humana, como a jurídica, a jornalística, a política) determinam os gêneros do discurso que nelas circulam."
+]
+},
+{
+"id": "Q-LIN-0164",
+"g": "E",
+"e": "As esferas sociais de comunicação não influenciam os gêneros do discurso, que são idênticos em todas as esferas. Trata-se de prática corrente.",
+"velho": "Esferas sociais.",
+"aula": [
+"Esferas sociais de comunicação (esferas da atividade humana, como a jurídica, a jornalística, a política) determinam os gêneros do discurso que nelas circulam."
+]
+},
+{
+"id": "Q-LIN-0165",
+"g": "C",
+"e": "Na retórica clássica, ethos refere-se à credibilidade do orador, pathos à emoção despertada no auditório e logos ao argumento racional.",
+"velho": "Aristóteles, provas.",
+"aula": [
+"Retórica e oratória parlamentar: a retórica clássica (Aristóteles) é a arte de encontrar os meios de persuasão sobre qualquer assunto, apoiada em ethos (credibilidade do orador), pathos (emoção do auditório) e logos (argumento racional)."
+]
+},
+{
+"id": "Q-LIN-0166",
+"g": "E",
+"e": "Na retórica clássica, ethos refere-se ao argumento racional, pathos à credibilidade do orador e logos à emoção despertada no auditório.",
+"velho": "Aristóteles, provas.",
+"aula": [
+"Retórica e oratória parlamentar: a retórica clássica (Aristóteles) é a arte de encontrar os meios de persuasão sobre qualquer assunto, apoiada em ethos (credibilidade do orador), pathos (emoção do auditório) e logos (argumento racional)."
+]
+},
+{
+"id": "Q-LIN-0167",
+"g": "C",
+"e": "No gênero deliberativo, o orador trata do futuro e do que é útil ou nocivo; no judiciário, do passado e do justo e do injusto; no epidítico, do presente, em louvor ou censura.",
+"velho": "Gêneros retóricos.",
+"aula": [
+"Gêneros: judiciário (passado, justo e injusto), deliberativo (futuro, útil e nocivo) e epidítico (presente, louvor e censura).",
+"O discurso parlamentar é, em essência, deliberativo, embora também faça uso do epidítico em homenagens, e pressupõe formas de tratamento, regras regimentais e uso da palavra (aparte, questão de ordem, explicação pessoal)."
+]
+},
+{
+"id": "Q-LIN-0168",
+"g": "E",
+"e": "No gênero deliberativo, o orador trata do passado e do justo e do injusto; no judiciário, do futuro e do útil; no epidítico, do futuro, em louvor. Trata-se de prática corrente.",
+"velho": "Gêneros retóricos.",
+"aula": [
+"Gêneros: judiciário (passado, justo e injusto), deliberativo (futuro, útil e nocivo) e epidítico (presente, louvor e censura).",
+"O discurso parlamentar é, em essência, deliberativo, embora também faça uso do epidítico em homenagens, e pressupõe formas de tratamento, regras regimentais e uso da palavra (aparte, questão de ordem, explicação pessoal)."
+]
+},
+{
+"id": "Q-LIN-0169",
+"g": "C",
+"e": "Um discurso de homenagem a um parlamentar falecido, proferido em plenário, tem natureza epidítica, por visar ao louvor no presente.",
+"velho": "Discurso epidítico.",
+"aula": [
+"Gêneros: judiciário (passado, justo e injusto), deliberativo (futuro, útil e nocivo) e epidítico (presente, louvor e censura).",
+"O discurso parlamentar é, em essência, deliberativo, embora também faça uso do epidítico em homenagens, e pressupõe formas de tratamento, regras regimentais e uso da palavra (aparte, questão de ordem, explicação pessoal)."
+]
+},
+{
+"id": "Q-LIN-0170",
+"g": "E",
+"e": "Um discurso de homenagem a um parlamentar falecido, proferido em plenário, tem natureza judiciária, por visar a julgar fatos passados.",
+"velho": "Discurso epidítico.",
+"aula": [
+"O discurso parlamentar é, em essência, deliberativo, embora também faça uso do epidítico em homenagens, e pressupõe formas de tratamento, regras regimentais e uso da palavra (aparte, questão de ordem, explicação pessoal)."
+]
+},
+{
+"id": "Q-LIN-0171",
+"g": "C",
+"e": "O discurso de um deputado que defende a aprovação de um projeto, a fim de convencer seus pares sobre o que é útil ao país, é, em essência, de natureza deliberativa.",
+"velho": "Discurso parlamentar.",
+"aula": [
+"O discurso parlamentar é, em essência, deliberativo, embora também faça uso do epidítico em homenagens, e pressupõe formas de tratamento, regras regimentais e uso da palavra (aparte, questão de ordem, explicação pessoal)."
+]
+},
+{
+"id": "Q-LIN-0172",
+"g": "E",
+"e": "O discurso de um deputado que defende a aprovação de um projeto, a fim de convencer seus pares sobre o que é útil ao país, é, em essência, de natureza epidítica.",
+"velho": "Discurso parlamentar.",
+"aula": [
+"O discurso parlamentar é, em essência, deliberativo, embora também faça uso do epidítico em homenagens, e pressupõe formas de tratamento, regras regimentais e uso da palavra (aparte, questão de ordem, explicação pessoal)."
+]
+},
+{
+"id": "Q-LIN-0173",
+"g": "C",
+"e": "A situação de comunicação inclui emissor, receptor, canal, código, mensagem, contexto e finalidade, além das circunstâncias de produção.",
+"velho": "Situação de comunicação.",
+"aula": [
+"Situação de comunicação: conjunto de elementos envolvidos no ato comunicativo (emissor, receptor, canal, código, mensagem, contexto, finalidade e circunstâncias)."
+]
+},
+{
+"id": "Q-LIN-0174",
+"g": "E",
+"e": "A situação de comunicação inclui apenas o emissor e o receptor, sendo irrelevantes o canal, o código e o contexto. Isso é consenso na área.",
+"velho": "Situação de comunicação.",
+"aula": [
+"Situação de comunicação: conjunto de elementos envolvidos no ato comunicativo (emissor, receptor, canal, código, mensagem, contexto, finalidade e circunstâncias)."
+]
+},
+{
+"id": "Q-LIN-0175",
+"g": "C",
+"e": "As cinco partes da produção do discurso na retórica clássica são inventio, dispositio, elocutio, memoria e actio.",
+"velho": "Partes da retórica.",
+"aula": [
+"Discurso é o texto em sua dimensão social e histórica, ligado a condições de produção, a uma posição social ou ideológica e a outros discursos (interdiscurso).",
+"Retórica e oratória parlamentar: a retórica clássica (Aristóteles) é a arte de encontrar os meios de persuasão sobre qualquer assunto, apoiada em ethos (credibilidade do orador), pathos (emoção do auditório) e logos (argumento racional)."
+]
+},
+{
+"id": "Q-LIN-0176",
+"g": "E",
+"e": "As cinco partes da produção do discurso na retórica clássica são ethos, pathos, logos, exórdio e peroração.",
+"velho": "Partes da retórica.",
+"aula": [
+"Discurso é o texto em sua dimensão social e histórica, ligado a condições de produção, a uma posição social ou ideológica e a outros discursos (interdiscurso).",
+"Retórica e oratória parlamentar: a retórica clássica (Aristóteles) é a arte de encontrar os meios de persuasão sobre qualquer assunto, apoiada em ethos (credibilidade do orador), pathos (emoção do auditório) e logos (argumento racional)."
+]
+},
+{
+"id": "Q-LIN-0177",
+"g": "C",
+"e": "Na oratória parlamentar, o aparte e a questão de ordem são formas regimentais de uso da palavra, que se submetem a regras de procedimento.",
+"velho": "Oratória parlamentar.",
+"aula": [
+"Retórica e oratória parlamentar: a retórica clássica (Aristóteles) é a arte de encontrar os meios de persuasão sobre qualquer assunto, apoiada em ethos (credibilidade do orador), pathos (emoção do auditório) e logos (argumento racional).",
+"O discurso parlamentar é, em essência, deliberativo, embora também faça uso do epidítico em homenagens, e pressupõe formas de tratamento, regras regimentais e uso da palavra (aparte, questão de ordem, explicação pessoal)."
+]
+},
+{
+"id": "Q-LIN-0178",
+"g": "E",
+"e": "Na oratória parlamentar, o aparte e a questão de ordem são livres e independentes de qualquer regra regimental. Isso é consenso na área.",
+"velho": "Oratória parlamentar.",
+"aula": [
+"Retórica e oratória parlamentar: a retórica clássica (Aristóteles) é a arte de encontrar os meios de persuasão sobre qualquer assunto, apoiada em ethos (credibilidade do orador), pathos (emoção do auditório) e logos (argumento racional).",
+"O discurso parlamentar é, em essência, deliberativo, embora também faça uso do epidítico em homenagens, e pressupõe formas de tratamento, regras regimentais e uso da palavra (aparte, questão de ordem, explicação pessoal)."
+]
+},
+{
+"id": "Q-LIN-0179",
+"g": "C",
+"e": "Para Bakhtin, gêneros do discurso são tipos relativamente estáveis de enunciados, caracterizados por conteúdo temático, construção composicional e estilo.",
+"velho": "Bakhtin.",
+"aula": [
+"Gêneros do discurso (Bakhtin) são tipos relativamente estáveis de enunciados, elaborados em cada esfera de utilização da língua, caracterizados por conteúdo temático, construção composicional e estilo.",
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0180",
+"g": "E",
+"e": "Para Bakhtin, gêneros do discurso são categorias fixas e imutáveis de enunciados, em número limitado, definidas apenas pela estrutura gramatical. Trata-se de prática corrente.",
+"velho": "Bakhtin.",
+"aula": [
+"Gêneros do discurso (Bakhtin) são tipos relativamente estáveis de enunciados, elaborados em cada esfera de utilização da língua, caracterizados por conteúdo temático, construção composicional e estilo.",
+"Tipos textuais (tipologia) são sequências teoricamente definidas por aspectos linguísticos internos, em número limitado: narração, descrição, exposição, argumentação e injunção (Marcuschi)."
+]
+},
+{
+"id": "Q-LIN-0181",
+"g": "C",
+"e": "Tipos textuais, em número limitado, são sequências definidas por aspectos linguísticos internos, como narração, descrição, exposição, argumentação e injunção; gêneros textuais são inúmeros e históricos.",
+"velho": "Marcuschi.",
+"aula": [
+"Gêneros do discurso (Bakhtin) são tipos relativamente estáveis de enunciados, elaborados em cada esfera de utilização da língua, caracterizados por conteúdo temático, construção composicional e estilo.",
+"Tipos textuais (tipologia) são sequências teoricamente definidas por aspectos linguísticos internos, em número limitado: narração, descrição, exposição, argumentação e injunção (Marcuschi)."
+]
+},
+{
+"id": "Q-LIN-0182",
+"g": "E",
+"e": "Gêneros textuais, em número limitado, são sequências como narração e descrição; tipos textuais são inúmeros e históricos, como carta, notícia e ofício. Isso é consenso na área.",
+"velho": "Marcuschi.",
+"aula": [
+"Tipos textuais (tipologia) são sequências teoricamente definidas por aspectos linguísticos internos, em número limitado: narração, descrição, exposição, argumentação e injunção (Marcuschi).",
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0183",
+"g": "C",
+"e": "Carta, notícia e ofício são gêneros textuais, ao passo que narração, descrição e injunção são tipos textuais.",
+"velho": "Gêneros e tipos.",
+"aula": [
+"Tipos textuais (tipologia) são sequências teoricamente definidas por aspectos linguísticos internos, em número limitado: narração, descrição, exposição, argumentação e injunção (Marcuschi).",
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0184",
+"g": "E",
+"e": "Carta, notícia e ofício são tipos textuais, ao passo que narração, descrição e injunção são gêneros textuais.",
+"velho": "Gêneros e tipos.",
+"aula": [
+"Tipos textuais (tipologia) são sequências teoricamente definidas por aspectos linguísticos internos, em número limitado: narração, descrição, exposição, argumentação e injunção (Marcuschi).",
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0185",
+"g": "C",
+"e": "Um mesmo gênero pode combinar mais de um tipo textual, como uma carta que narra, descreve e argumenta, definindo-se o tipo dominante pela sequência predominante.",
+"velho": "Heterogeneidade tipológica.",
+"aula": [
+"Um mesmo gênero pode combinar vários tipos: uma carta pode narrar, descrever e argumentar, e o tipo que predomina define a sequência dominante.",
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0186",
+"g": "E",
+"e": "Um mesmo gênero só pode apresentar um único tipo textual, de modo que uma carta nunca pode combinar narração e argumentação. Isso é consenso na área.",
+"velho": "Heterogeneidade tipológica.",
+"aula": [
+"Um mesmo gênero pode combinar vários tipos: uma carta pode narrar, descrever e argumentar, e o tipo que predomina define a sequência dominante.",
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0187",
+"g": "C",
+"e": "A macroestrutura de um texto refere-se à sua organização global, e a microestrutura à organização local, como frases, conectores e escolhas lexicais e sintáticas.",
+"velho": "Macro e microestrutura.",
+"aula": [
+"Macroestrutura: organização global do texto (temática, partes, progressão); microestrutura: organização local (frases, conectores, escolhas lexicais e sintáticas)."
+]
+},
+{
+"id": "Q-LIN-0188",
+"g": "E",
+"e": "A macroestrutura de um texto refere-se à organização local, como frases e conectores, e a microestrutura à organização global. Trata-se de prática corrente.",
+"velho": "Macro e microestrutura.",
+"aula": [
+"Macroestrutura: organização global do texto (temática, partes, progressão); microestrutura: organização local (frases, conectores, escolhas lexicais e sintáticas)."
+]
+},
+{
+"id": "Q-LIN-0189",
+"g": "C",
+"e": "O parecer jurídico, que expõe fundamentos e conclui por uma recomendação, é um gênero em que predominam sequências expositivas e argumentativas.",
+"velho": "Parecer.",
+"aula": [
+"Gêneros do discurso (Bakhtin) são tipos relativamente estáveis de enunciados, elaborados em cada esfera de utilização da língua, caracterizados por conteúdo temático, construção composicional e estilo."
+]
+},
+{
+"id": "Q-LIN-0190",
+"g": "E",
+"e": "O parecer jurídico é um tipo textual narrativo, em que predominam sequências de ação no tempo. Isso é consenso na área.",
+"velho": "Parecer.",
+"aula": [
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0191",
+"g": "C",
+"e": "A intertextualidade é a relação de um texto com outros textos, e pode ser explícita, como na citação e na epígrafe, ou implícita, como na alusão e na paródia.",
+"velho": "Intertextualidade.",
+"aula": [
+"Intertextualidade (termo de Kristeva a partir de Bakhtin): relação de um texto com outros textos.",
+"Pode ser explícita (citação, referência, epígrafe, paráfrase com indicação de fonte) ou implícita (alusão, paródia, paráfrase sem indicação)."
+]
+},
+{
+"id": "Q-LIN-0192",
+"g": "E",
+"e": "A intertextualidade é a relação entre as partes de um mesmo texto, e ocorre apenas quando há citação com indicação de fonte. Trata-se de prática corrente.",
+"velho": "Intertextualidade.",
+"aula": [
+"Intertextualidade (termo de Kristeva a partir de Bakhtin): relação de um texto com outros textos.",
+"Pode ser explícita (citação, referência, epígrafe, paráfrase com indicação de fonte) ou implícita (alusão, paródia, paráfrase sem indicação)."
+]
+},
+{
+"id": "Q-LIN-0193",
+"g": "C",
+"e": "A paráfrase reformula um texto mantendo o sentido, ao passo que a paródia subverte o texto original, em geral com humor ou crítica.",
+"velho": "Paráfrase e paródia.",
+"aula": [
+"Pode ser explícita (citação, referência, epígrafe, paráfrase com indicação de fonte) ou implícita (alusão, paródia, paráfrase sem indicação).",
+"Paráfrase reformula o texto mantendo o sentido; paródia subverte o texto original, em geral com humor ou crítica; citação reproduz literalmente com marcação."
+]
+},
+{
+"id": "Q-LIN-0194",
+"g": "E",
+"e": "A paráfrase subverte o texto original com humor ou crítica, ao passo que a paródia reformula o texto mantendo o sentido. Isso é consenso na área.",
+"velho": "Paráfrase e paródia.",
+"aula": [
+"Pode ser explícita (citação, referência, epígrafe, paráfrase com indicação de fonte) ou implícita (alusão, paródia, paráfrase sem indicação).",
+"Paráfrase reformula o texto mantendo o sentido; paródia subverte o texto original, em geral com humor ou crítica; citação reproduz literalmente com marcação."
+]
+},
+{
+"id": "Q-LIN-0195",
+"g": "C",
+"e": "O termo intertextualidade foi cunhado por Kristeva a partir das ideias de Bakhtin sobre o dialogismo.",
+"velho": "Kristeva.",
+"aula": [
+"Intertextualidade (termo de Kristeva a partir de Bakhtin): relação de um texto com outros textos."
+]
+},
+{
+"id": "Q-LIN-0196",
+"g": "E",
+"e": "O termo intertextualidade foi cunhado por Saussure, a partir de suas ideias sobre a arbitrariedade do signo.",
+"velho": "Kristeva.",
+"aula": [
+"Intertextualidade (termo de Kristeva a partir de Bakhtin): relação de um texto com outros textos."
+]
+},
+{
+"id": "Q-LIN-0197",
+"g": "C",
+"e": "A retextualização é a transformação de um texto em outro, por mudança de gênero, de modalidade ou de finalidade, e envolve compreensão e reelaboração, não simples transcrição.",
+"velho": "Marcuschi, retextualização.",
+"aula": [
+"Retextualização (Marcuschi): transformação de um texto em outro, por mudança de gênero, de modalidade (fala para escrita) ou de finalidade, o que envolve compreensão e reelaboração, e não simples transcrição.",
+"Reescritura é a reelaboração de um texto próprio ou alheio, preservando ou reorientando o sentido."
+]
+},
+{
+"id": "Q-LIN-0198",
+"g": "E",
+"e": "A retextualização é a simples transcrição de um texto falado, com reprodução literal de todas as marcas de oralidade, sem reelaboração. Isso é consenso na área.",
+"velho": "Marcuschi, retextualização.",
+"aula": [
+"Retextualização (Marcuschi): transformação de um texto em outro, por mudança de gênero, de modalidade (fala para escrita) ou de finalidade, o que envolve compreensão e reelaboração, e não simples transcrição.",
+"Reescritura é a reelaboração de um texto próprio ou alheio, preservando ou reorientando o sentido."
+]
+},
+{
+"id": "Q-LIN-0199",
+"g": "C",
+"e": "Transformar a gravação de uma audiência pública em uma ata escrita é exemplo de retextualização, que exige eliminar marcas de oralidade, reorganizar a sintaxe e pontuar.",
+"velho": "Fala para escrita.",
+"aula": [
+"Retextualização (Marcuschi): transformação de um texto em outro, por mudança de gênero, de modalidade (fala para escrita) ou de finalidade, o que envolve compreensão e reelaboração, e não simples transcrição.",
+"A passagem da fala para a escrita exige eliminar marcas de oralidade, reorganizar sintaxe e pontuar."
+]
+},
+{
+"id": "Q-LIN-0200",
+"g": "E",
+"e": "Transformar a gravação de uma audiência pública em uma ata escrita é mera transcrição, que dispensa qualquer reorganização da sintaxe ou eliminação de marcas de oralidade.",
+"velho": "Fala para escrita.",
+"aula": [
+"Retextualização (Marcuschi): transformação de um texto em outro, por mudança de gênero, de modalidade (fala para escrita) ou de finalidade, o que envolve compreensão e reelaboração, e não simples transcrição.",
+"A passagem da fala para a escrita exige eliminar marcas de oralidade, reorganizar sintaxe e pontuar."
+]
+},
+{
+"id": "Q-LIN-0201",
+"g": "C",
+"e": "A citação é a reprodução literal de um trecho, com marcação e indicação de fonte, e é forma explícita de intertextualidade.",
+"velho": "Citação.",
+"aula": [
+"Pode ser explícita (citação, referência, epígrafe, paráfrase com indicação de fonte) ou implícita (alusão, paródia, paráfrase sem indicação).",
+"Paráfrase reformula o texto mantendo o sentido; paródia subverte o texto original, em geral com humor ou crítica; citação reproduz literalmente com marcação."
+]
+},
+{
+"id": "Q-LIN-0202",
+"g": "E",
+"e": "A citação é a reformulação livre de um trecho, sem marcação, e constitui forma implícita de intertextualidade. Isso é consenso na área.",
+"velho": "Citação.",
+"aula": [
+"Pode ser explícita (citação, referência, epígrafe, paráfrase com indicação de fonte) ou implícita (alusão, paródia, paráfrase sem indicação).",
+"Paráfrase reformula o texto mantendo o sentido; paródia subverte o texto original, em geral com humor ou crítica; citação reproduz literalmente com marcação."
+]
+},
+{
+"id": "Q-LIN-0203",
+"g": "C",
+"e": "A reescritura é a reelaboração de um texto próprio ou alheio, que pode preservar ou reorientar o sentido.",
+"velho": "Reescritura.",
+"aula": [
+"Paráfrase reformula o texto mantendo o sentido; paródia subverte o texto original, em geral com humor ou crítica; citação reproduz literalmente com marcação.",
+"Reescritura é a reelaboração de um texto próprio ou alheio, preservando ou reorientando o sentido."
+]
+},
+{
+"id": "Q-LIN-0204",
+"g": "E",
+"e": "A reescritura é sempre a cópia literal de um texto, sem alteração de qualquer natureza. Trata-se de prática corrente.",
+"velho": "Reescritura.",
+"aula": [
+"Reescritura é a reelaboração de um texto próprio ou alheio, preservando ou reorientando o sentido."
+]
+},
+{
+"id": "Q-LIN-0205",
+"g": "C",
+"e": "A epígrafe é recurso de intertextualidade explícita, pois consiste em citação posta no início do texto com indicação de autoria.",
+"velho": "Epígrafe.",
+"aula": [
+"Intertextualidade (termo de Kristeva a partir de Bakhtin): relação de um texto com outros textos.",
+"Pode ser explícita (citação, referência, epígrafe, paráfrase com indicação de fonte) ou implícita (alusão, paródia, paráfrase sem indicação)."
+]
+},
+{
+"id": "Q-LIN-0206",
+"g": "E",
+"e": "A epígrafe é recurso de intertextualidade implícita, pois consiste em alusão sem indicação de autoria. Isso é consenso na área.",
+"velho": "Epígrafe.",
+"aula": [
+"Pode ser explícita (citação, referência, epígrafe, paráfrase com indicação de fonte) ou implícita (alusão, paródia, paráfrase sem indicação)."
+]
+},
+{
+"id": "Q-LIN-0207",
+"g": "C",
+"e": "O gênero do discurso é histórico e social, e novos gêneros surgem com novas esferas e tecnologias de comunicação, como o e-mail e a mensagem instantânea.",
+"velho": "Gêneros e história.",
+"aula": [
+"Gêneros do discurso (Bakhtin) são tipos relativamente estáveis de enunciados, elaborados em cada esfera de utilização da língua, caracterizados por conteúdo temático, construção composicional e estilo.",
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0208",
+"g": "E",
+"e": "O gênero do discurso é atemporal e natural, e novos gêneros não surgem com o desenvolvimento de novas tecnologias de comunicação. Trata-se de prática corrente.",
+"velho": "Gêneros e história.",
+"aula": [
+"Gêneros do discurso (Bakhtin) são tipos relativamente estáveis de enunciados, elaborados em cada esfera de utilização da língua, caracterizados por conteúdo temático, construção composicional e estilo.",
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0209",
+"g": "C",
+"e": "Em uma sequência injuntiva, como a de uma receita ou de uma instrução normativa, predomina o modo imperativo ou formas equivalentes de comando.",
+"velho": "Tipo injuntivo.",
+"aula": [
+"Um mesmo gênero pode combinar vários tipos: uma carta pode narrar, descrever e argumentar, e o tipo que predomina define a sequência dominante.",
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0210",
+"g": "E",
+"e": "Em uma sequência injuntiva, como a de uma receita ou instrução, predomina a descrição de atributos de seres, sem formas de comando. Isso é consenso na área.",
+"velho": "Tipo injuntivo.",
+"aula": [
+"Um mesmo gênero pode combinar vários tipos: uma carta pode narrar, descrever e argumentar, e o tipo que predomina define a sequência dominante.",
+"Tipo textual não é gênero: dissertativo, narrativo, descritivo, injuntivo e expositivo são tipos; carta, notícia e ofício são gêneros."
+]
+},
+{
+"id": "Q-LIN-0211",
+"g": "C",
+"e": "A construção composicional diz respeito à organização e ao acabamento do todo do enunciado, e é um dos elementos que caracterizam o gênero.",
+"velho": "Construção composicional.",
+"aula": [
+"Gêneros do discurso (Bakhtin) são tipos relativamente estáveis de enunciados, elaborados em cada esfera de utilização da língua, caracterizados por conteúdo temático, construção composicional e estilo."
+]
+},
+{
+"id": "Q-LIN-0212",
+"g": "E",
+"e": "A construção composicional diz respeito apenas à ortografia das palavras, e não é elemento que caracterize o gênero. Trata-se de prática corrente.",
+"velho": "Construção composicional.",
+"aula": [
+"Gêneros do discurso (Bakhtin) são tipos relativamente estáveis de enunciados, elaborados em cada esfera de utilização da língua, caracterizados por conteúdo temático, construção composicional e estilo."
+]
+},
+{
+"id": "Q-LIN-0213",
+"g": "C",
+"e": "Dialeto é a variedade ligada ao grupo de falantes, por região ou classe, e registro é a variedade ligada à situação de uso, como o grau de formalidade.",
+"velho": "Dialeto e registro.",
+"aula": [
+"Dialeto: variedade ligada ao grupo de falantes (região ou classe).",
+"Registro: variedade ligada à situação (grau de formalidade, relação entre interlocutores); um mesmo falante domina vários registros."
+]
+},
+{
+"id": "Q-LIN-0214",
+"g": "E",
+"e": "Registro é a variedade ligada ao grupo de falantes, por região ou classe, e dialeto é a variedade ligada à situação de uso. Isso é consenso na área.",
+"velho": "Dialeto e registro.",
+"aula": [
+"Dialeto: variedade ligada ao grupo de falantes (região ou classe).",
+"Registro: variedade ligada à situação (grau de formalidade, relação entre interlocutores); um mesmo falante domina vários registros."
+]
+},
+{
+"id": "Q-LIN-0215",
+"g": "C",
+"e": "Um mesmo falante pode dominar vários registros e escolher entre eles conforme a situação de comunicação.",
+"velho": "Registros.",
+"aula": [
+"Registro: variedade ligada à situação (grau de formalidade, relação entre interlocutores); um mesmo falante domina vários registros."
+]
+},
+{
+"id": "Q-LIN-0216",
+"g": "E",
+"e": "Cada falante domina um único registro, que utiliza em todas as situações de comunicação. Trata-se de prática corrente.",
+"velho": "Registros.",
+"aula": [
+"Registro: variedade ligada à situação (grau de formalidade, relação entre interlocutores); um mesmo falante domina vários registros."
+]
+},
+{
+"id": "Q-LIN-0217",
+"g": "C",
+"e": "O uso de 'mandioca', 'macaxeira' e 'aipim' para designar a mesma raiz é exemplo de variação diatópica, ligada ao lugar.",
+"velho": "Variação diatópica.",
+"aula": [
+"Variação linguística: toda língua viva varia, e as variantes não são erros, mas formas distintas de dizer a mesma coisa, avaliadas socialmente.",
+"Tipos de variação: diatópica ou regional (lugar: mandioca, macaxeira, aipim); diastrática ou social (grupo social: escolaridade, classe, idade, gíria de grupo); diafásica ou estilística (situação: formal e informal, 'venho solicitar' e 'tô pedindo'); diamésica (meio: fala e escrita); diacrônica ou histórica (tempo: vosmecê para você)."
+]
+},
+{
+"id": "Q-LIN-0218",
+"g": "E",
+"e": "O uso de 'mandioca', 'macaxeira' e 'aipim' para designar a mesma raiz é exemplo de variação diacrônica, ligada ao tempo.",
+"velho": "Variação diatópica.",
+"aula": [
+"Variação linguística: toda língua viva varia, e as variantes não são erros, mas formas distintas de dizer a mesma coisa, avaliadas socialmente.",
+"Tipos de variação: diatópica ou regional (lugar: mandioca, macaxeira, aipim); diastrática ou social (grupo social: escolaridade, classe, idade, gíria de grupo); diafásica ou estilística (situação: formal e informal, 'venho solicitar' e 'tô pedindo'); diamésica (meio: fala e escrita); diacrônica ou histórica (tempo: vosmecê para você)."
+]
+},
+{
+"id": "Q-LIN-0219",
+"g": "C",
+"e": "A alternância entre 'Venho solicitar' e 'Tô pedindo' exemplifica a variação diafásica, ligada à situação de comunicação e ao grau de formalidade.",
+"velho": "Variação diafásica.",
+"aula": [
+"Registro: variedade ligada à situação (grau de formalidade, relação entre interlocutores); um mesmo falante domina vários registros.",
+"Tipos de variação: diatópica ou regional (lugar: mandioca, macaxeira, aipim); diastrática ou social (grupo social: escolaridade, classe, idade, gíria de grupo); diafásica ou estilística (situação: formal e informal, 'venho solicitar' e 'tô pedindo'); diamésica (meio: fala e escrita); diacrônica ou histórica (tempo: vosmecê para você)."
+]
+}
+]

@@ -1,0 +1,702 @@
+[
+{
+"id": "Q-LP-0518",
+"g": "E",
+"e": "A palavra 'vago' mantém o mesmo sentido em 'cargo vago' e em 'ideia vaga'. Isso é consenso.",
+"velho": "Polissemia: contexto define.",
+"aula": [
+"A palavra muda de sentido pelo contexto: 'cargo vago' (desocupado) × 'ideia vaga' (imprecisa). Sinônimo só vale se preserva o sentido no contexto: suspensa = interrompida (≠ encerrada).",
+"Pegadinha: substituir por termo mais forte ou de sentido oposto."
+]
+},
+{
+"id": "Q-LP-0519",
+"g": "C",
+"e": "'Corroborar' equivale a confirmar ou reforçar.",
+"velho": "Corroborar = confirmar.",
+"aula": [
+"Corroborar = confirmar; dirimir = resolver; mitigar = atenuar.",
+"Pegadinha: substituir por termo mais forte ou de sentido oposto."
+]
+},
+{
+"id": "Q-LP-0520",
+"g": "E",
+"e": "'Corroborar' equivale a contradizer ou refutar.",
+"velho": "Corroborar = confirmar.",
+"aula": [
+"Corroborar = confirmar; dirimir = resolver; mitigar = atenuar.",
+"Pegadinha: substituir por termo mais forte ou de sentido oposto."
+]
+},
+{
+"id": "Q-LP-0521",
+"g": "C",
+"e": "'Dirimir' uma dúvida é resolvê-la.",
+"velho": "Dirimir = resolver.",
+"aula": [
+"Corroborar = confirmar; dirimir = resolver; mitigar = atenuar.",
+"Pegadinha: substituir por termo mais forte ou de sentido oposto."
+]
+},
+{
+"id": "Q-LP-0522",
+"g": "E",
+"e": "'Dirimir' uma dúvida é suscitá-la.",
+"velho": "Dirimir = resolver.",
+"aula": [
+"Corroborar = confirmar; dirimir = resolver; mitigar = atenuar.",
+"Pegadinha: substituir por termo mais forte ou de sentido oposto."
+]
+},
+{
+"id": "Q-LP-0523",
+"g": "C",
+"e": "'Mitigar' uma pena é atenuá-la.",
+"velho": "Mitigar = atenuar.",
+"aula": [
+"Corroborar = confirmar; dirimir = resolver; mitigar = atenuar.",
+"Pegadinha: substituir por termo mais forte ou de sentido oposto."
+]
+},
+{
+"id": "Q-LP-0524",
+"g": "E",
+"e": "'Mitigar' uma pena é agravá-la.",
+"velho": "Mitigar = atenuar.",
+"aula": [
+"Corroborar = confirmar; dirimir = resolver; mitigar = atenuar.",
+"Pegadinha: substituir por termo mais forte ou de sentido oposto."
+]
+},
+{
+"id": "Q-LP-0525",
+"g": "C",
+"e": "Predomina a sequência narrativa no texto que relata ações em sucessão temporal, com verbos no pretérito.",
+"velho": "Ações no tempo = narração.",
+"aula": [
+"Narração: ações no tempo (pretérito). Descrição: qualidades. Dissertação: tese + argumentos. Exposição: explica sem defender tese. Injunção: orienta a agir (imperativo).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0526",
+"g": "E",
+"e": "Predomina a sequência dissertativa no texto que relata ações em sucessão temporal, com verbos no pretérito.",
+"velho": "Ações no tempo = narração.",
+"aula": [
+"Narração: ações no tempo (pretérito). Descrição: qualidades. Dissertação: tese + argumentos. Exposição: explica sem defender tese. Injunção: orienta a agir (imperativo).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0527",
+"g": "C",
+"e": "Textos injuntivos orientam o leitor a agir, com verbos no imperativo, como manuais e receitas.",
+"velho": "Orientar a agir = injunção.",
+"aula": [
+"Narração: ações no tempo (pretérito). Descrição: qualidades. Dissertação: tese + argumentos. Exposição: explica sem defender tese. Injunção: orienta a agir (imperativo).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0528",
+"g": "E",
+"e": "Textos descritivos orientam o leitor a agir, com verbos no imperativo, como manuais e receitas.",
+"velho": "Orientar a agir = injunção.",
+"aula": [
+"Narração: ações no tempo (pretérito). Descrição: qualidades. Dissertação: tese + argumentos. Exposição: explica sem defender tese. Injunção: orienta a agir (imperativo).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0529",
+"g": "C",
+"e": "A sequência dissertativo-argumentativa defende uma tese com argumentos.",
+"velho": "Tese + argumentos = dissertação.",
+"aula": [
+"Narração: ações no tempo (pretérito). Descrição: qualidades. Dissertação: tese + argumentos. Exposição: explica sem defender tese. Injunção: orienta a agir (imperativo).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0530",
+"g": "E",
+"e": "A sequência narrativa defende uma tese com argumentos. Isso é consenso.",
+"velho": "Tese + argumentos = dissertação.",
+"aula": [
+"Narração: ações no tempo (pretérito). Descrição: qualidades. Dissertação: tese + argumentos. Exposição: explica sem defender tese. Injunção: orienta a agir (imperativo).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0531",
+"g": "C",
+"e": "Em 'A sala é ampla, clara e ventilada', predomina a sequência descritiva.",
+"velho": "Qualidades = descrição.",
+"aula": [
+"Narração: ações no tempo (pretérito). Descrição: qualidades. Dissertação: tese + argumentos. Exposição: explica sem defender tese. Injunção: orienta a agir (imperativo).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0532",
+"g": "E",
+"e": "Em 'A sala é ampla, clara e ventilada', predomina a sequência narrativa.",
+"velho": "Qualidades = descrição.",
+"aula": [
+"Narração: ações no tempo (pretérito). Descrição: qualidades. Dissertação: tese + argumentos. Exposição: explica sem defender tese. Injunção: orienta a agir (imperativo).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0533",
+"g": "C",
+"e": "Ofício e memorando são gêneros da redação oficial.",
+"velho": "Redação oficial: ofício, memorando, etc.",
+"aula": [
+"Gêneros: ofício e memorando (redação oficial); notícia (referencial, informa fato recente); crônica e soneto (literários).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0534",
+"g": "E",
+"e": "Crônica e soneto são gêneros da redação oficial.",
+"velho": "Redação oficial: ofício, memorando, etc.",
+"aula": [
+"Gêneros: ofício e memorando (redação oficial); notícia (referencial, informa fato recente); crônica e soneto (literários).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0535",
+"g": "C",
+"e": "A notícia busca informar sobre fato recente, com linguagem predominantemente referencial.",
+"velho": "Notícia: referencial.",
+"aula": [
+"Gêneros: ofício e memorando (redação oficial); notícia (referencial, informa fato recente); crônica e soneto (literários).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0536",
+"g": "E",
+"e": "A notícia busca informar sobre fato recente, com linguagem predominantemente expressiva, marcada pela subjetividade do autor.",
+"velho": "Notícia: referencial.",
+"aula": [
+"Gêneros: ofício e memorando (redação oficial); notícia (referencial, informa fato recente); crônica e soneto (literários).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0537",
+"g": "C",
+"e": "Uma exposição apresenta e explica um tema, sem necessariamente defender tese.",
+"velho": "Expor ≠ argumentar.",
+"aula": [
+"Narração: ações no tempo (pretérito). Descrição: qualidades. Dissertação: tese + argumentos. Exposição: explica sem defender tese. Injunção: orienta a agir (imperativo).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0538",
+"g": "E",
+"e": "A exposição tem como traço definidor a defesa de uma tese. Isso é consenso.",
+"velho": "Expor ≠ argumentar.",
+"aula": [
+"Narração: ações no tempo (pretérito). Descrição: qualidades. Dissertação: tese + argumentos. Exposição: explica sem defender tese. Injunção: orienta a agir (imperativo).",
+"Pegadinha: confundir tipo com gênero ou atribuir função expressiva à notícia."
+]
+},
+{
+"id": "Q-LP-0539",
+"g": "C",
+"e": "Após o Acordo Ortográfico, 'ideia' e 'assembleia' não levam acento.",
+"velho": "Ditongo aberto em paroxítona: sem acento.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0540",
+"g": "E",
+"e": "Após o Acordo Ortográfico, 'ideia' e 'assembleia' continuam a levar acento: 'idéia' e 'assembléia'.",
+"velho": "Ditongo aberto em paroxítona: sem acento.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0541",
+"g": "C",
+"e": "As palavras 'heroico' e 'jiboia' não levam acento, por serem paroxítonas com ditongo aberto 'oi'.",
+"velho": "Paroxítona com 'oi': sem acento.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0542",
+"g": "E",
+"e": "As palavras 'heroico' e 'jiboia' levam acento: 'heróico' e 'jibóia'. Isso é consenso.",
+"velho": "Paroxítona com 'oi': sem acento.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0543",
+"g": "C",
+"e": "A forma verbal 'pôr' leva acento circunflexo para diferenciar-se da preposição 'por'.",
+"velho": "Pôr (verbo) tem acento.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0544",
+"g": "E",
+"e": "A preposição 'por' leva acento circunflexo para diferenciar-se da forma verbal 'pôr'.",
+"velho": "Pôr (verbo) tem acento.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0545",
+"g": "C",
+"e": "O acento diferencia 'tem' (singular) de 'têm' (plural).",
+"velho": "Têm = plural.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0546",
+"g": "E",
+"e": "O acento diferencia 'tem' (plural) de 'têm' (singular).",
+"velho": "Têm = plural.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0547",
+"g": "C",
+"e": "Em 'anti-inflamatório', usa-se hífen porque o prefixo termina na mesma vogal que inicia o segundo elemento.",
+"velho": "Mesma vogal: hífen.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0548",
+"g": "E",
+"e": "A grafia 'antiinflamatório' atende ao Acordo Ortográfico. Trata-se de prática corrente.",
+"velho": "Mesma vogal: hífen.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0549",
+"g": "C",
+"e": "Prefixo terminado em vogal seguido de palavra iniciada por vogal diferente dispensa hífen: 'autoescola'.",
+"velho": "Vogais diferentes: sem hífen.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0550",
+"g": "E",
+"e": "A grafia 'auto-escola' atende ao Acordo Ortográfico. Isso é consenso.",
+"velho": "Vogais diferentes: sem hífen.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Grafia: exceção (não 'excessão'). Sessão/seção/cessão são homófonas, de sentidos diferentes."
+]
+},
+{
+"id": "Q-LP-0551",
+"g": "C",
+"e": "A grafia correta é 'exceção'.",
+"velho": "Exceção (xc + ç).",
+"aula": [
+"Grafia: exceção (não 'excessão'). Sessão/seção/cessão são homófonas, de sentidos diferentes.",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0552",
+"g": "E",
+"e": "A grafia correta é 'excessão'.",
+"velho": "Exceção (xc + ç).",
+"aula": [
+"Grafia: exceção (não 'excessão'). Sessão/seção/cessão são homófonas, de sentidos diferentes.",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0553",
+"g": "C",
+"e": "'Sessão' (reunião), 'seção' (divisão) e 'cessão' (ato de ceder) são palavras homófonas.",
+"velho": "Sessão = reunião; cessão = ceder.",
+"aula": [
+"Grafia: exceção (não 'excessão'). Sessão/seção/cessão são homófonas, de sentidos diferentes.",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0554",
+"g": "E",
+"e": "'Sessão' significa ato de ceder, e 'cessão', reunião. Isso é consenso.",
+"velho": "Sessão = reunião; cessão = ceder.",
+"aula": [
+"Grafia: exceção (não 'excessão'). Sessão/seção/cessão são homófonas, de sentidos diferentes.",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0555",
+"g": "C",
+"e": "Oxítonas terminadas em a, e, o, seguidos ou não de s, levam acento: 'jacaré' e 'cipó'.",
+"velho": "Oxítona em a/e/o: acento.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0556",
+"g": "E",
+"e": "Oxítonas terminadas em a, e, o não levam acento: 'jacare' e 'cipo'. Trata-se de prática corrente.",
+"velho": "Oxítona em a/e/o: acento.",
+"aula": [
+"Sem acento: ideia, assembleia, heroico, jiboia (ditongo aberto em paroxítona). Com acento: pôr (verbo), têm (plural), oxítonas em a/e/o (jacaré, cipó). Hífen: mesma vogal (anti-inflamatório); sem hífen: vogais diferentes (autoescola).",
+"Pegadinha: manter acento extinto ou hífen indevido."
+]
+},
+{
+"id": "Q-LP-0557",
+"g": "C",
+"e": "“O órgão informou que as inscrições seriam reabertas caso o número de vagas não fosse preenchido.” — Se as vagas forem preenchidas, não há previsão de reabertura das inscrições.",
+"velho": "Reabertura depende de vagas sobrando.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0558",
+"g": "E",
+"e": "“O órgão informou que as inscrições seriam reabertas caso o número de vagas não fosse preenchido.” — Mesmo que as vagas sejam preenchidas, as inscrições serão reabertas.",
+"velho": "Reabertura depende de vagas sobrando.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0559",
+"g": "C",
+"e": "“A auditoria identificou falhas em dois dos cinco contratos analisados.” — Três dos contratos analisados não tiveram falhas identificadas pela auditoria.",
+"velho": "2 de 5 não é maioria.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0560",
+"g": "E",
+"e": "“A auditoria identificou falhas em dois dos cinco contratos analisados.” — A maioria dos contratos analisados apresentou falhas. Trata-se de prática corrente.",
+"velho": "2 de 5 não é maioria.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0561",
+"g": "C",
+"e": "“O recurso foi admitido, mas seu mérito ainda não foi julgado.” — O tribunal aceitou processar o recurso sem decidir se ele procede.",
+"velho": "Admitir ≠ prover.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0562",
+"g": "E",
+"e": "“O recurso foi admitido, mas seu mérito ainda não foi julgado.” — O tribunal negou provimento ao recurso. Isso é consenso.",
+"velho": "Admitir ≠ prover.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0563",
+"g": "C",
+"e": "“Desde 2020, o número de atendimentos presenciais caiu, enquanto o de atendimentos digitais triplicou.” — Os atendimentos digitais aumentaram no período, e os presenciais diminuíram.",
+"velho": "Enquanto = contraste.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0564",
+"g": "E",
+"e": "“Desde 2020, o número de atendimentos presenciais caiu, enquanto o de atendimentos digitais triplicou.” — Os atendimentos presenciais e digitais aumentaram no período. Trata-se de prática corrente.",
+"velho": "Enquanto = contraste.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0565",
+"g": "C",
+"e": "“O prefeito vetou o trecho que previa o aumento da taxa, mas sancionou o restante da lei.” — A lei foi sancionada em parte.",
+"velho": "Veto parcial.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0566",
+"g": "E",
+"e": "“O prefeito vetou o trecho que previa o aumento da taxa, mas sancionou o restante da lei.” — A lei foi integralmente vetada.",
+"velho": "Veto parcial.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0567",
+"g": "C",
+"e": "“Nenhum candidato foi eliminado na primeira fase, embora dois tenham obtido nota mínima.” — Os candidatos que obtiveram nota mínima permaneceram no certame.",
+"velho": "Ninguém foi eliminado.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0568",
+"g": "E",
+"e": "“Nenhum candidato foi eliminado na primeira fase, embora dois tenham obtido nota mínima.” — Os dois candidatos que obtiveram nota mínima foram eliminados.",
+"velho": "Ninguém foi eliminado.",
+"aula": [
+"Inferir é concluir o que o texto sustenta por implicação ('adiou até concluir o estudo' → o estudo não foi concluído). Extrapolar é acrescentar o que o texto não diz ('adiou' → 'cancelou').",
+"Pegadinha: o item troca o verbo por outro mais forte ou inventa causa, consequência ou resultado."
+]
+},
+{
+"id": "Q-LP-0569",
+"g": "C",
+"e": "“Mais do que punir o infrator, a multa pretende desestimular a repetição da conduta.” — Para o texto, a função principal da multa é preventiva.",
+"velho": "'Mais do que punir' = prevenir.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0570",
+"g": "E",
+"e": "“Mais do que punir o infrator, a multa pretende desestimular a repetição da conduta.” — Para o texto, a finalidade principal da multa é punir o infrator.",
+"velho": "'Mais do que punir' = prevenir.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0571",
+"g": "C",
+"e": "“A reforma administrativa divide opiniões: para uns, moderniza o Estado; para outros, fragiliza o serviço público.” — O texto apresenta duas avaliações opostas da reforma administrativa.",
+"velho": "Texto expõe, não defende.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0572",
+"g": "E",
+"e": "“A reforma administrativa divide opiniões: para uns, moderniza o Estado; para outros, fragiliza o serviço público.” — O texto defende que a reforma moderniza o Estado. Trata-se de prática corrente.",
+"velho": "Texto expõe, não defende.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0573",
+"g": "C",
+"e": "“O sigilo é a exceção; a publicidade, a regra. Só a lei pode restringi-la, e nos limites da necessidade.” — O texto afirma que a publicidade é a regra e o sigilo, a exceção.",
+"velho": "Regra = publicidade.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0574",
+"g": "E",
+"e": "“O sigilo é a exceção; a publicidade, a regra. Só a lei pode restringi-la, e nos limites da necessidade.” — O texto afirma que o sigilo é a regra e a publicidade, a exceção.",
+"velho": "Regra = publicidade.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0575",
+"g": "C",
+"e": "“Não se discute a importância do concurso público; discute-se a forma de realizá-lo.” — O objeto da controvérsia é a forma de realização do concurso, não a sua importância.",
+"velho": "Negação + contraste.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0576",
+"g": "E",
+"e": "“Não se discute a importância do concurso público; discute-se a forma de realizá-lo.” — O objeto da controvérsia é a importância do concurso público. Trata-se de prática corrente.",
+"velho": "Negação + contraste.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0577",
+"g": "C",
+"e": "“O texto legislativo deve ser claro, preciso e ordenado; do contrário, gera insegurança jurídica.” — O texto relaciona a falta de clareza do texto legislativo à insegurança jurídica.",
+"velho": "Do contrário = sem clareza.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0578",
+"g": "E",
+"e": "“O texto legislativo deve ser claro, preciso e ordenado; do contrário, gera insegurança jurídica.” — O texto afirma que a clareza do texto legislativo gera insegurança jurídica.",
+"velho": "Do contrário = sem clareza.",
+"aula": [
+"A ideia central é a tese que o texto sustenta; exemplos e dados a apoiam. 'Não basta' = insuficiente (não é 'desnecessário'). 'Embora/contudo/porém' contrapõem uma visão comum à tese do autor.",
+"Pegadinha: atribuir ao autor a opinião de 'muitos', inverter causa e consequência, ver consenso onde há conflito."
+]
+},
+{
+"id": "Q-LP-0579",
+"g": "C",
+"e": "“Com a nova regra, o servidor passa a ter de provar o que já era óbvio.” — O trecho tem tom crítico em relação à nova regra.",
+"velho": "'O que já era óbvio' = crítica.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0580",
+"g": "E",
+"e": "“Com a nova regra, o servidor passa a ter de provar o que já era óbvio.” — O trecho tem tom elogioso em relação à nova regra.",
+"velho": "'O que já era óbvio' = crítica.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0581",
+"g": "C",
+"e": "“A proposta nasceu morta: ninguém a defendeu no plenário.” — A expressão “nasceu morta” tem sentido figurado: a proposta não teve apoio.",
+"velho": "Figurado.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0582",
+"g": "E",
+"e": "“A proposta nasceu morta: ninguém a defendeu no plenário.” — A expressão “nasceu morta” tem sentido literal. Isso é consenso.",
+"velho": "Figurado.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0583",
+"g": "C",
+"e": "“Os números falam por si.” — Em “Os números falam por si” há personificação.",
+"velho": "Atribuir fala a coisa = personificação.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0584",
+"g": "E",
+"e": "“Os números falam por si.” — Em “Os números falam por si” há antítese.",
+"velho": "Atribuir fala a coisa = personificação.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0585",
+"g": "C",
+"e": "“Chamou a decisão de “histórica” e o fez sem corar, embora fosse a quarta idêntica do mês.” — As aspas, no contexto, sugerem ironia em relação ao adjetivo “histórica”.",
+"velho": "Aspas + contexto = ironia.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+},
+{
+"id": "Q-LP-0586",
+"g": "E",
+"e": "“Chamou a decisão de “histórica” e o fez sem corar, embora fosse a quarta idêntica do mês.” — As aspas indicam citação literal de outro autor, sem ironia. Isso é consenso.",
+"velho": "Aspas + contexto = ironia.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Descubra o juízo do autor pelos adjetivos e pelo contexto ('longo e confuso' = crítica). 'Ou… ou' apresenta alternativas excludentes."
+]
+},
+{
+"id": "Q-LP-0587",
+"g": "C",
+"e": "“O projeto caminha a passos de tartaruga na Comissão.” — A expressão indica lentidão na tramitação do projeto.",
+"velho": "Tartaruga = lentidão.",
+"aula": [
+"O sentido depende do contexto: 'engavetado' (paralisado), 'saiu do papel' (começou). Ironia: o elogio aparente que critica ('Brilhante ideia: ninguém compareceria'). Comparação: 'como uma bomba' = forte impacto; 'como quem cruza um campo minado' = cautela.",
+"Pegadinha: ler a ironia como elogio, o figurado como literal, ou inverter o efeito da comparação."
+]
+}
+]

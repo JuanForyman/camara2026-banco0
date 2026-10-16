@@ -1,0 +1,668 @@
+[
+{
+"id": "Q-POL-0259",
+"g": "C",
+"e": "Cabe à Câmara dos Deputados autorizar, por dois terços de seus membros, a instauração de processo contra o Presidente por crime de responsabilidade, e ao Senado Federal, sob a presidência do Presidente do STF, processá-lo e julgá-lo, exigindo-se dois terços dos votos para a condenação.",
+"velho": "CF, arts. 51, I, e 52, I e parágrafo único.",
+"aula": [
+"Impeachment: CF, art. 85, crimes de responsabilidade do Presidente;",
+"Lei 1.079/1950; compete à Câmara autorizar, por dois terços de seus membros, a instauração do processo (art. 51, I), e ao Senado processar e julgar o Presidente nos crimes de responsabilidade (art. 52, I), sob a presidência do Presidente do STF; a condenação exige dois terços dos votos do Senado (art. 52, parágrafo único), com…"
+]
+},
+{
+"id": "Q-POL-0260",
+"g": "E",
+"e": "Cabe à Câmara dos Deputados processar e julgar o Presidente por crime de responsabilidade, por maioria absoluta, e ao Senado Federal autorizar a instauração do processo, sob a presidência do Presidente da Câmara. Essa seria a posição predominante na literatura especializada de ciência política.",
+"velho": "CF, arts. 51, I, e 52, I e parágrafo único.",
+"aula": [
+"Impeachment: CF, art. 85, crimes de responsabilidade do Presidente;",
+"Lei 1.079/1950; compete à Câmara autorizar, por dois terços de seus membros, a instauração do processo (art. 51, I), e ao Senado processar e julgar o Presidente nos crimes de responsabilidade (art. 52, I), sob a presidência do Presidente do STF; a condenação exige dois terços dos votos do Senado (art. 52, parágrafo único), com…"
+]
+},
+{
+"id": "Q-POL-0261",
+"g": "C",
+"e": "A condenação do Presidente da República por crime de responsabilidade acarreta a perda do cargo, com inabilitação, por oito anos, para o exercício de função pública, sem prejuízo das demais sanções judiciais cabíveis.",
+"velho": "CF, art. 52, parágrafo único.",
+"aula": [
+"Impeachment: CF, art. 85, crimes de responsabilidade do Presidente;",
+"Lei 1.079/1950; compete à Câmara autorizar, por dois terços de seus membros, a instauração do processo (art. 51, I), e ao Senado processar e julgar o Presidente nos crimes de responsabilidade (art. 52, I), sob a presidência do Presidente do STF; a condenação exige dois terços dos votos do Senado (art. 52, parágrafo único), com…"
+]
+},
+{
+"id": "Q-POL-0262",
+"g": "E",
+"e": "A condenação do Presidente da República por crime de responsabilidade acarreta somente a perda do cargo, sem inabilitação para o exercício de função pública, e impede outras sanções judiciais.",
+"velho": "CF, art. 52, parágrafo único.",
+"aula": [
+"Impeachment: CF, art. 85, crimes de responsabilidade do Presidente;",
+"Lei 1.079/1950; compete à Câmara autorizar, por dois terços de seus membros, a instauração do processo (art. 51, I), e ao Senado processar e julgar o Presidente nos crimes de responsabilidade (art. 52, I), sob a presidência do Presidente do STF; a condenação exige dois terços dos votos do Senado (art. 52, parágrafo único), com…"
+]
+},
+{
+"id": "Q-POL-0263",
+"g": "C",
+"e": "Shugart e Carey classificam os regimes presidencialistas segundo os poderes legislativos do Presidente, como o veto, o decreto e a iniciativa exclusiva de projetos.",
+"velho": "Shugart e Carey.",
+"aula": [
+"Shugart e Carey: classificam os sistemas conforme os poderes legislativos do Presidente (veto, decreto, iniciativa exclusiva)."
+]
+},
+{
+"id": "Q-POL-0264",
+"g": "E",
+"e": "Shugart e Carey classificam os regimes presidencialistas segundo o número de partidos no Parlamento, sendo irrelevantes os poderes legislativos do Presidente.",
+"velho": "Shugart e Carey.",
+"aula": [
+"Shugart e Carey: classificam os sistemas conforme os poderes legislativos do Presidente (veto, decreto, iniciativa exclusiva)."
+]
+},
+{
+"id": "Q-POL-0265",
+"g": "C",
+"e": "O federalismo dual separa rigidamente as competências entre a União e os Estados, ao passo que o federalismo cooperativo prevê competências comuns e concorrentes e a cooperação entre os entes.",
+"velho": "Federalismo dual e cooperativo.",
+"aula": [
+"Federalismo dual (EUA clássico): separação rígida de competências entre União e Estados.",
+"Federalismo cooperativo: competências comuns e concorrentes, com cooperação entre os entes (CF, arts. 23 e 24)."
+]
+},
+{
+"id": "Q-POL-0266",
+"g": "E",
+"e": "O federalismo cooperativo separa rigidamente as competências entre a União e os Estados, ao passo que o federalismo dual prevê competências comuns e concorrentes e a cooperação entre os entes.",
+"velho": "Federalismo dual e cooperativo.",
+"aula": [
+"Federalismo dual (EUA clássico): separação rígida de competências entre União e Estados.",
+"Federalismo cooperativo: competências comuns e concorrentes, com cooperação entre os entes (CF, arts. 23 e 24)."
+]
+},
+{
+"id": "Q-POL-0267",
+"g": "C",
+"e": "O federalismo brasileiro formou-se por desagregação, pois um Estado unitário se descentralizou em 1889, ao passo que o norte-americano formou-se por agregação de Estados antes independentes.",
+"velho": "Federalismo por agregação e desagregação.",
+"aula": [
+"Federalismo dual (EUA clássico): separação rígida de competências entre União e Estados.",
+"Federalismo por agregação (Estados soberanos que se unem, EUA) e por desagregação (Estado unitário que se descentraliza, Brasil, em 1889)."
+]
+},
+{
+"id": "Q-POL-0268",
+"g": "E",
+"e": "O federalismo brasileiro formou-se por agregação de Estados antes independentes, ao passo que o norte-americano formou-se por desagregação de um Estado unitário.",
+"velho": "Federalismo por agregação e desagregação.",
+"aula": [
+"Federalismo dual (EUA clássico): separação rígida de competências entre União e Estados.",
+"Federalismo por agregação (Estados soberanos que se unem, EUA) e por desagregação (Estado unitário que se descentraliza, Brasil, em 1889)."
+]
+},
+{
+"id": "Q-POL-0269",
+"g": "C",
+"e": "No Brasil, a forma federativa de Estado é cláusula pétrea, e os Municípios são entes federados, ao lado da União, dos Estados e do Distrito Federal.",
+"velho": "CF, arts. 1º, 18 e 60, § 4º, I.",
+"aula": [
+"Federalismo por agregação (Estados soberanos que se unem, EUA) e por desagregação (Estado unitário que se descentraliza, Brasil, em 1889).",
+"Os Municípios são entes federados no Brasil (CF, arts. 1º e 18)."
+]
+},
+{
+"id": "Q-POL-0270",
+"g": "E",
+"e": "No Brasil, a forma federativa de Estado pode ser abolida por emenda constitucional, e os Municípios não são entes federados, mas apenas divisões administrativas dos Estados.",
+"velho": "CF, arts. 1º, 18 e 60, § 4º, I.",
+"aula": [
+"Federalismo por agregação (Estados soberanos que se unem, EUA) e por desagregação (Estado unitário que se descentraliza, Brasil, em 1889).",
+"Os Municípios são entes federados no Brasil (CF, arts. 1º e 18)."
+]
+},
+{
+"id": "Q-POL-0271",
+"g": "C",
+"e": "No federalismo centrípeto, o poder tende a se concentrar na União, ao passo que no centrífugo se concentra nos entes subnacionais.",
+"velho": "Federalismo centrípeto e centrífugo.",
+"aula": [
+"Federalismo dual (EUA clássico): separação rígida de competências entre União e Estados.",
+"Federalismo centrípeto (poder concentrado na União) e centrífugo (poder concentrado nos entes)."
+]
+},
+{
+"id": "Q-POL-0272",
+"g": "E",
+"e": "No federalismo centrípeto, o poder tende a se concentrar nos entes subnacionais, ao passo que no centrífugo se concentra na União.",
+"velho": "Federalismo centrípeto e centrífugo.",
+"aula": [
+"Federalismo dual (EUA clássico): separação rígida de competências entre União e Estados.",
+"Federalismo centrípeto (poder concentrado na União) e centrífugo (poder concentrado nos entes)."
+]
+},
+{
+"id": "Q-POL-0273",
+"g": "C",
+"e": "Para a tradição marxista clássica, o Estado é instrumento da classe dominante, ao passo que Gramsci amplia a análise com o conceito de hegemonia, em que a dominação combina coerção e consenso.",
+"velho": "Marx; Gramsci.",
+"aula": [
+"Marx e Engels (Manifesto Comunista): o Estado moderno é um comitê para gerir os negócios comuns de toda a burguesia; o Estado é instrumento da classe dominante (concepção instrumental).",
+"Gramsci: Estado ampliado, formado pela sociedade política (coerção) e pela sociedade civil (consenso); a hegemonia é a direção intelectual e moral exercida pela classe dominante, que obtém o consentimento dos governados mediante instituições da sociedade civil (escola, Igreja, imprensa); o intelectual orgânico; guerra de posição e guerra de movimento."
+]
+},
+{
+"id": "Q-POL-0274",
+"g": "E",
+"e": "Para a tradição marxista clássica, o Estado é árbitro neutro entre as classes, ao passo que Gramsci rejeita o conceito de hegemonia e sustenta que a dominação se dá apenas por coerção.",
+"velho": "Marx; Gramsci.",
+"aula": [
+"Marx e Engels (Manifesto Comunista): o Estado moderno é um comitê para gerir os negócios comuns de toda a burguesia; o Estado é instrumento da classe dominante (concepção instrumental).",
+"Gramsci: Estado ampliado, formado pela sociedade política (coerção) e pela sociedade civil (consenso); a hegemonia é a direção intelectual e moral exercida pela classe dominante, que obtém o consentimento dos governados mediante instituições da sociedade civil (escola, Igreja, imprensa); o intelectual orgânico; guerra de posição e guerra de movimento."
+]
+},
+{
+"id": "Q-POL-0275",
+"g": "C",
+"e": "Em Gramsci, a sociedade civil, composta por escolas, igrejas, imprensa e associações, é espaço de disputa pela hegemonia, e os intelectuais orgânicos articulam a visão de mundo de uma classe.",
+"velho": "Gramsci, Cadernos do Cárcere.",
+"aula": [
+"Gramsci: Estado ampliado, formado pela sociedade política (coerção) e pela sociedade civil (consenso); a hegemonia é a direção intelectual e moral exercida pela classe dominante, que obtém o consentimento dos governados mediante instituições da sociedade civil (escola, Igreja, imprensa); o intelectual orgânico; guerra de posição e guerra de movimento."
+]
+},
+{
+"id": "Q-POL-0276",
+"g": "E",
+"e": "Em Gramsci, a sociedade civil é espaço alheio à disputa política, e os intelectuais orgânicos são servidores neutros que não vinculam suas ideias a nenhuma classe.",
+"velho": "Gramsci, Cadernos do Cárcere.",
+"aula": [
+"Gramsci: Estado ampliado, formado pela sociedade política (coerção) e pela sociedade civil (consenso); a hegemonia é a direção intelectual e moral exercida pela classe dominante, que obtém o consentimento dos governados mediante instituições da sociedade civil (escola, Igreja, imprensa); o intelectual orgânico; guerra de posição e guerra de movimento."
+]
+},
+{
+"id": "Q-POL-0277",
+"g": "C",
+"e": "Poulantzas concebe o Estado como a condensação material de uma relação de forças entre classes e frações de classe, dotado de autonomia relativa.",
+"velho": "Poulantzas, O Estado, o Poder, o Socialismo.",
+"aula": [
+"Marx e Engels (Manifesto Comunista): o Estado moderno é um comitê para gerir os negócios comuns de toda a burguesia; o Estado é instrumento da classe dominante (concepção instrumental).",
+"Poulantzas: o Estado possui autonomia relativa em relação à classe dominante e é condensação material de relações de força."
+]
+},
+{
+"id": "Q-POL-0278",
+"g": "E",
+"e": "Poulantzas concebe o Estado como mero instrumento sem autonomia, controlado diretamente por uma única classe, sem qualquer relação de forças.",
+"velho": "Poulantzas, O Estado, o Poder, o Socialismo.",
+"aula": [
+"Marx e Engels (Manifesto Comunista): o Estado moderno é um comitê para gerir os negócios comuns de toda a burguesia; o Estado é instrumento da classe dominante (concepção instrumental).",
+"Poulantzas: o Estado possui autonomia relativa em relação à classe dominante e é condensação material de relações de força."
+]
+},
+{
+"id": "Q-POL-0279",
+"g": "C",
+"e": "Para Marshall, a cidadania desenvolveu-se, na Inglaterra, em sequência de direitos civis, políticos e sociais, correspondentes aos séculos XVIII, XIX e XX.",
+"velho": "Marshall, Cidadania, Classe Social e Status.",
+"aula": [
+"Marshall (Cidadania, Classe Social e Status): a cidadania compreende os direitos civis (século XVIII), políticos (século XIX) e sociais (século XX), e na Inglaterra a sequência foi essa.",
+"Esping-Andersen (As Três Economias Políticas do Welfare State): os regimes de bem-estar são liberal (assistência focalizada, mercado, baixa desmercantilização), conservador-corporativo (direitos vinculados à posição ocupacional, tradição de Bismarck) e social-democrata (universalismo e alta desmercantilização)."
+]
+},
+{
+"id": "Q-POL-0280",
+"g": "E",
+"e": "Para Marshall, a cidadania desenvolveu-se, na Inglaterra, em sequência de direitos sociais, políticos e civis, correspondentes aos séculos XVIII, XIX e XX.",
+"velho": "Marshall, Cidadania, Classe Social e Status.",
+"aula": [
+"Marshall (Cidadania, Classe Social e Status): a cidadania compreende os direitos civis (século XVIII), políticos (século XIX) e sociais (século XX), e na Inglaterra a sequência foi essa.",
+"Esping-Andersen (As Três Economias Políticas do Welfare State): os regimes de bem-estar são liberal (assistência focalizada, mercado, baixa desmercantilização), conservador-corporativo (direitos vinculados à posição ocupacional, tradição de Bismarck) e social-democrata (universalismo e alta desmercantilização)."
+]
+},
+{
+"id": "Q-POL-0281",
+"g": "C",
+"e": "Carvalho observa que, no Brasil, a sequência de Marshall foi alterada: os direitos sociais antecederam os políticos plenos e os civis, o que explicaria uma cidadania de tipo estadualista.",
+"velho": "Carvalho, Cidadania no Brasil.",
+"aula": [
+"Marshall (Cidadania, Classe Social e Status): a cidadania compreende os direitos civis (século XVIII), políticos (século XIX) e sociais (século XX), e na Inglaterra a sequência foi essa."
+]
+},
+{
+"id": "Q-POL-0282",
+"g": "E",
+"e": "Carvalho observa que, no Brasil, a sequência de Marshall foi rigorosamente reproduzida, com a conquista dos direitos civis antes dos políticos e sociais.",
+"velho": "Carvalho, Cidadania no Brasil.",
+"aula": [
+"Marshall (Cidadania, Classe Social e Status): a cidadania compreende os direitos civis (século XVIII), políticos (século XIX) e sociais (século XX), e na Inglaterra a sequência foi essa."
+]
+},
+{
+"id": "Q-POL-0283",
+"g": "C",
+"e": "Esping-Andersen distingue três regimes de bem-estar: o liberal, o conservador-corporativo e o social-democrata, diferenciados pelo grau de desmercantilização dos direitos sociais.",
+"velho": "Esping-Andersen, Três Mundos do Welfare State.",
+"aula": [
+"Marshall (Cidadania, Classe Social e Status): a cidadania compreende os direitos civis (século XVIII), políticos (século XIX) e sociais (século XX), e na Inglaterra a sequência foi essa.",
+"Esping-Andersen (As Três Economias Políticas do Welfare State): os regimes de bem-estar são liberal (assistência focalizada, mercado, baixa desmercantilização), conservador-corporativo (direitos vinculados à posição ocupacional, tradição de Bismarck) e social-democrata (universalismo e alta desmercantilização)."
+]
+},
+{
+"id": "Q-POL-0284",
+"g": "E",
+"e": "Esping-Andersen distingue dois regimes de bem-estar, o capitalista e o socialista, diferenciados pela propriedade estatal dos meios de produção.",
+"velho": "Esping-Andersen, Três Mundos do Welfare State.",
+"aula": [
+"Esping-Andersen (As Três Economias Políticas do Welfare State): os regimes de bem-estar são liberal (assistência focalizada, mercado, baixa desmercantilização), conservador-corporativo (direitos vinculados à posição ocupacional, tradição de Bismarck) e social-democrata (universalismo e alta desmercantilização).",
+"Relatório Beveridge (1942) e o Welfare State britânico."
+]
+},
+{
+"id": "Q-POL-0285",
+"g": "C",
+"e": "No regime liberal descrito por Esping-Andersen, predominam benefícios assistenciais focalizados e baixa desmercantilização, ao passo que o social-democrata é universalista e redistributivo.",
+"velho": "Esping-Andersen.",
+"aula": [
+"Esping-Andersen (As Três Economias Políticas do Welfare State): os regimes de bem-estar são liberal (assistência focalizada, mercado, baixa desmercantilização), conservador-corporativo (direitos vinculados à posição ocupacional, tradição de Bismarck) e social-democrata (universalismo e alta desmercantilização)."
+]
+},
+{
+"id": "Q-POL-0286",
+"g": "E",
+"e": "No regime liberal descrito por Esping-Andersen, predominam benefícios universais e alta desmercantilização, ao passo que o social-democrata é focalizado e mínimo.",
+"velho": "Esping-Andersen.",
+"aula": [
+"Esping-Andersen (As Três Economias Políticas do Welfare State): os regimes de bem-estar são liberal (assistência focalizada, mercado, baixa desmercantilização), conservador-corporativo (direitos vinculados à posição ocupacional, tradição de Bismarck) e social-democrata (universalismo e alta desmercantilização)."
+]
+},
+{
+"id": "Q-POL-0287",
+"g": "C",
+"e": "Para Benedict Anderson, a nação é uma comunidade política imaginada, limitada e soberana, e a imprensa e o capitalismo editorial contribuíram para sua formação.",
+"velho": "Anderson, Comunidades Imaginadas.",
+"aula": [
+"Anderson (Comunidades Imaginadas): a nação é uma comunidade política imaginada, limitada e soberana, com papel do capitalismo editorial."
+]
+},
+{
+"id": "Q-POL-0288",
+"g": "E",
+"e": "Para Benedict Anderson, a nação é uma realidade natural e eterna, anterior a qualquer construção social, e a imprensa não teve papel em sua formação.",
+"velho": "Anderson, Comunidades Imaginadas.",
+"aula": [
+"Anderson (Comunidades Imaginadas): a nação é uma comunidade política imaginada, limitada e soberana, com papel do capitalismo editorial."
+]
+},
+{
+"id": "Q-POL-0289",
+"g": "C",
+"e": "Para Gellner, o nacionalismo é anterior às nações e as produz, pois a industrialização exigiu culturas homogêneas e educação padronizada.",
+"velho": "Gellner, Nações e Nacionalismo.",
+"aula": [
+"Gellner: o nacionalismo é um princípio político que sustenta que a unidade nacional e a política devem coincidir, e surge com a industrialização."
+]
+},
+{
+"id": "Q-POL-0290",
+"g": "E",
+"e": "Para Gellner, as nações são anteriores ao nacionalismo, que apenas as revela, e a industrialização foi irrelevante para sua formação.",
+"velho": "Gellner, Nações e Nacionalismo.",
+"aula": [
+"Gellner: o nacionalismo é um princípio político que sustenta que a unidade nacional e a política devem coincidir, e surge com a industrialização."
+]
+},
+{
+"id": "Q-POL-0291",
+"g": "C",
+"e": "Hobsbawm e Ranger tratam as tradições nacionais como em grande parte inventadas, isto é, práticas que aparentam antiguidade mas são recentes e servem à construção da identidade.",
+"velho": "Hobsbawm e Ranger, A Invenção das Tradições.",
+"aula": [
+"Hobsbawm: tradições inventadas."
+]
+},
+{
+"id": "Q-POL-0292",
+"g": "E",
+"e": "Hobsbawm e Ranger tratam as tradições nacionais como genuinamente imemoriais, sem qualquer componente de invenção política.",
+"velho": "Hobsbawm e Ranger, A Invenção das Tradições.",
+"aula": [
+"Hobsbawm: tradições inventadas."
+]
+},
+{
+"id": "Q-POL-0293",
+"g": "C",
+"e": "Para Bodin, a soberania é o poder absoluto e perpétuo de uma república, e, no direito internacional contemporâneo, ela se expressa também na igualdade jurídica entre os Estados.",
+"velho": "Bodin, Os Seis Livros da República.",
+"aula": [
+"Bodin: soberania como poder absoluto e perpétuo."
+]
+},
+{
+"id": "Q-POL-0294",
+"g": "E",
+"e": "Para Bodin, a soberania é um poder temporário, limitado por todos os demais Estados, e, no direito internacional contemporâneo, ela é incompatível com a igualdade jurídica entre os Estados.",
+"velho": "Bodin, Os Seis Livros da República.",
+"aula": [
+"Bodin: soberania como poder absoluto e perpétuo."
+]
+},
+{
+"id": "Q-POL-0295",
+"g": "C",
+"e": "Estados falidos são aqueles que perdem a capacidade de exercer o monopólio da violência legítima e de prover serviços básicos em seu território.",
+"velho": "Estados falidos.",
+"aula": [
+"Estados falidos (failed states): incapacidade de monopolizar a violência legítima e de prover bens públicos."
+]
+},
+{
+"id": "Q-POL-0296",
+"g": "E",
+"e": "Estados falidos são aqueles que mantêm plenamente o monopólio da violência legítima e a prestação de serviços básicos, mas descumprem tratados internacionais.",
+"velho": "Estados falidos.",
+"aula": [
+"Estados falidos (failed states): incapacidade de monopolizar a violência legítima e de prover bens públicos."
+]
+},
+{
+"id": "Q-POL-0297",
+"g": "C",
+"e": "Em Hobbes, o contrato social origina um soberano forte para pôr fim ao estado de natureza de guerra de todos contra todos, ao passo que em Locke o governo é limitado e a sociedade conserva o direito de resistência.",
+"velho": "Hobbes; Locke.",
+"aula": [
+"Contratualismo: Hobbes (Leviatã): estado de natureza como guerra de todos contra todos; pacto de submissão ao soberano absoluto;",
+"Locke (Segundo Tratado): estado de natureza com direitos naturais à vida, liberdade e propriedade; governo limitado, consentimento e direito de resistência;"
+]
+},
+{
+"id": "Q-POL-0298",
+"g": "E",
+"e": "Em Hobbes, o contrato social origina um governo limitado e a sociedade conserva o direito de resistência, ao passo que em Locke o soberano é absoluto para pôr fim ao estado de natureza.",
+"velho": "Hobbes; Locke.",
+"aula": [
+"Contratualismo: Hobbes (Leviatã): estado de natureza como guerra de todos contra todos; pacto de submissão ao soberano absoluto;",
+"Locke (Segundo Tratado): estado de natureza com direitos naturais à vida, liberdade e propriedade; governo limitado, consentimento e direito de resistência;"
+]
+},
+{
+"id": "Q-POL-0299",
+"g": "C",
+"e": "Para Weber, o Estado moderno é a comunidade humana que reivindica, com êxito, o monopólio do uso legítimo da força física em um território.",
+"velho": "Weber, A Política como Vocação.",
+"aula": [
+"Elementos do Estado: povo, território e governo soberano (poder político soberano).",
+"Weber: o Estado é a comunidade humana que reivindica, com êxito, o monopólio do uso legítimo da força física em um determinado território."
+]
+},
+{
+"id": "Q-POL-0300",
+"g": "E",
+"e": "Para Weber, o Estado moderno é a comunidade humana que renuncia ao uso da força física, delegando-o inteiramente à sociedade civil em seu território.",
+"velho": "Weber, A Política como Vocação.",
+"aula": [
+"Elementos do Estado: povo, território e governo soberano (poder político soberano).",
+"Weber: o Estado é a comunidade humana que reivindica, com êxito, o monopólio do uso legítimo da força física em um determinado território."
+]
+},
+{
+"id": "Q-POL-0301",
+"g": "C",
+"e": "Weber distingue três tipos de dominação legítima: a tradicional, a carismática e a racional-legal, sendo esta última típica da burocracia moderna.",
+"velho": "Weber, tipos de dominação.",
+"aula": [
+"Tipos puros de dominação legítima (Weber): tradicional (costume), carismática (dom do líder) e legal-racional (regras impessoais, burocracia)."
+]
+},
+{
+"id": "Q-POL-0302",
+"g": "E",
+"e": "Weber distingue três tipos de dominação legítima: a monárquica, a aristocrática e a democrática, sendo esta última típica da burocracia moderna.",
+"velho": "Weber, tipos de dominação.",
+"aula": [
+"Tipos puros de dominação legítima (Weber): tradicional (costume), carismática (dom do líder) e legal-racional (regras impessoais, burocracia)."
+]
+},
+{
+"id": "Q-POL-0303",
+"g": "C",
+"e": "Para Rousseau, a soberania pertence ao povo e se expressa pela vontade geral, que é inalienável e indivisível.",
+"velho": "Rousseau, Do Contrato Social.",
+"aula": [
+"Rousseau (O Contrato Social): vontade geral, soberania popular inalienável e indivisível."
+]
+},
+{
+"id": "Q-POL-0304",
+"g": "E",
+"e": "Para Rousseau, a soberania pertence ao monarca e se expressa pela soma das vontades particulares, sendo alienável e divisível.",
+"velho": "Rousseau, Do Contrato Social.",
+"aula": [
+"Rousseau (O Contrato Social): vontade geral, soberania popular inalienável e indivisível."
+]
+},
+{
+"id": "Q-POL-0305",
+"g": "C",
+"e": "A Paz de Westfália, de 1648, é tradicionalmente apontada como marco do sistema de Estados soberanos na Europa, fundado na igualdade jurídica e na não intervenção.",
+"velho": "Westfália.",
+"aula": [
+"Paz de Westfália (1648): princípio da soberania territorial e da não-intervenção."
+]
+},
+{
+"id": "Q-POL-0306",
+"g": "E",
+"e": "A Paz de Westfália, de 1648, é tradicionalmente apontada como marco da extinção dos Estados soberanos na Europa e da criação de um império universal.",
+"velho": "Westfália.",
+"aula": [
+"Estado absolutista (séculos XVI a XVIII): centralização do poder no monarca, exército permanente, burocracia, tributação centralizada."
+]
+},
+{
+"id": "Q-POL-0307",
+"g": "C",
+"e": "Para Tilly, a formação dos Estados europeus relacionou-se à guerra e à extração de recursos, resumida na ideia de que a guerra fez o Estado e o Estado fez a guerra.",
+"velho": "Tilly.",
+"aula": [
+"Tilly: a guerra fez o Estado e o Estado fez a guerra (extração de recursos para a guerra e formação de aparato fiscal)."
+]
+},
+{
+"id": "Q-POL-0308",
+"g": "E",
+"e": "Para Tilly, a formação dos Estados europeus decorreu de pactos pacíficos de cooperação, e a guerra não teve papel na extração de recursos nem na construção estatal.",
+"velho": "Tilly.",
+"aula": [
+"Tilly: a guerra fez o Estado e o Estado fez a guerra (extração de recursos para a guerra e formação de aparato fiscal)."
+]
+},
+{
+"id": "Q-POL-0309",
+"g": "C",
+"e": "Para Sérgio Buarque de Holanda, o homem cordial é marcado pela predominância de vínculos pessoais e afetivos, o que dificulta a separação entre o público e o privado.",
+"velho": "Buarque de Holanda, Raízes do Brasil.",
+"aula": [
+"Sérgio Buarque de Holanda (Raízes do Brasil): o homem cordial, a dificuldade de separar o público do privado (personalismo) e a herança ibérica.",
+"Victor Nunes Leal (Coronelismo, Enxada e Voto): o coronelismo como sistema de compromisso entre o poder público, em crescente fortalecimento, e o poder privado decadente dos grandes proprietários rurais; troca de votos de cabresto por favores do governo estadual; o mandonismo local."
+]
+},
+{
+"id": "Q-POL-0310",
+"g": "E",
+"e": "Para Sérgio Buarque de Holanda, o homem cordial é marcado pela polidez e pela impessoalidade, o que garante a nítida separação entre o público e o privado.",
+"velho": "Buarque de Holanda, Raízes do Brasil.",
+"aula": [
+"Sérgio Buarque de Holanda (Raízes do Brasil): o homem cordial, a dificuldade de separar o público do privado (personalismo) e a herança ibérica.",
+"Victor Nunes Leal (Coronelismo, Enxada e Voto): o coronelismo como sistema de compromisso entre o poder público, em crescente fortalecimento, e o poder privado decadente dos grandes proprietários rurais; troca de votos de cabresto por favores do governo estadual; o mandonismo local."
+]
+},
+{
+"id": "Q-POL-0311",
+"g": "C",
+"e": "Raymundo Faoro identifica no patrimonialismo estamental, herdado de Portugal, a chave para entender o Estado brasileiro, dominado por um estamento burocrático.",
+"velho": "Faoro, Os Donos do Poder.",
+"aula": [
+"Faoro (Os Donos do Poder): patrimonialismo estamental, estamento burocrático que se apropria do aparelho estatal desde a herança portuguesa."
+]
+},
+{
+"id": "Q-POL-0312",
+"g": "E",
+"e": "Raymundo Faoro identifica no feudalismo, herdado de Portugal, a chave para entender o Estado brasileiro, dominado por uma burguesia industrial.",
+"velho": "Faoro, Os Donos do Poder.",
+"aula": [
+"Faoro (Os Donos do Poder): patrimonialismo estamental, estamento burocrático que se apropria do aparelho estatal desde a herança portuguesa."
+]
+},
+{
+"id": "Q-POL-0313",
+"g": "C",
+"e": "Victor Nunes Leal explica o coronelismo como um compromisso entre o poder público, fortalecido, e o poder privado decadente dos proprietários rurais, em que o voto é trocado por favores.",
+"velho": "Nunes Leal, Coronelismo, Enxada e Voto.",
+"aula": [
+"Sérgio Buarque de Holanda (Raízes do Brasil): o homem cordial, a dificuldade de separar o público do privado (personalismo) e a herança ibérica.",
+"Victor Nunes Leal (Coronelismo, Enxada e Voto): o coronelismo como sistema de compromisso entre o poder público, em crescente fortalecimento, e o poder privado decadente dos grandes proprietários rurais; troca de votos de cabresto por favores do governo estadual; o mandonismo local."
+]
+},
+{
+"id": "Q-POL-0314",
+"g": "E",
+"e": "Victor Nunes Leal explica o coronelismo como a expressão da força autônoma e crescente dos proprietários rurais frente a um poder público ausente, sem troca de favores.",
+"velho": "Nunes Leal, Coronelismo, Enxada e Voto.",
+"aula": [
+"Victor Nunes Leal (Coronelismo, Enxada e Voto): o coronelismo como sistema de compromisso entre o poder público, em crescente fortalecimento, e o poder privado decadente dos grandes proprietários rurais; troca de votos de cabresto por favores do governo estadual; o mandonismo local."
+]
+},
+{
+"id": "Q-POL-0315",
+"g": "C",
+"e": "José Murilo de Carvalho aponta a estadania, na qual o Estado, e não a participação, é o principal vetor de acesso a direitos, e a cultura de dependência do Executivo.",
+"velho": "Carvalho, Cidadania no Brasil.",
+"aula": [
+"José Murilo de Carvalho: cidadania no Brasil, com a sequência diferente da inglesa (Marshall: direitos civis, políticos e sociais); no Brasil, os direitos sociais vieram primeiro, na Era Vargas, em um contexto de supressão dos direitos políticos;",
+"Wanderley Guilherme dos Santos: cidadania regulada, em que os direitos dependem da inserção profissional reconhecida pelo Estado (carteira de trabalho e sindicatos oficiais)."
+]
+},
+{
+"id": "Q-POL-0316",
+"g": "E",
+"e": "José Murilo de Carvalho aponta a participação ativa da sociedade civil como principal vetor de acesso a direitos no Brasil, em contraste com a dependência do Executivo.",
+"velho": "Carvalho, Cidadania no Brasil.",
+"aula": [
+"José Murilo de Carvalho: cidadania no Brasil, com a sequência diferente da inglesa (Marshall: direitos civis, políticos e sociais); no Brasil, os direitos sociais vieram primeiro, na Era Vargas, em um contexto de supressão dos direitos políticos;",
+"Wanderley Guilherme dos Santos: cidadania regulada, em que os direitos dependem da inserção profissional reconhecida pelo Estado (carteira de trabalho e sindicatos oficiais)."
+]
+},
+{
+"id": "Q-POL-0317",
+"g": "C",
+"e": "Wanderley Guilherme dos Santos cunhou o conceito de cidadania regulada, em que a cidadania se vincula à profissão reconhecida em lei, de modo que quem não tem ofício regulamentado fica à margem dos direitos.",
+"velho": "W. G. dos Santos, Cidadania e Justiça.",
+"aula": [
+"José Murilo de Carvalho: cidadania no Brasil, com a sequência diferente da inglesa (Marshall: direitos civis, políticos e sociais); no Brasil, os direitos sociais vieram primeiro, na Era Vargas, em um contexto de supressão dos direitos políticos;",
+"Wanderley Guilherme dos Santos: cidadania regulada, em que os direitos dependem da inserção profissional reconhecida pelo Estado (carteira de trabalho e sindicatos oficiais)."
+]
+},
+{
+"id": "Q-POL-0318",
+"g": "E",
+"e": "Wanderley Guilherme dos Santos cunhou o conceito de cidadania regulada, em que a cidadania é universal e independente da profissão, de modo que todos têm acesso igual a direitos.",
+"velho": "W. G. dos Santos, Cidadania e Justiça.",
+"aula": [
+"José Murilo de Carvalho: cidadania no Brasil, com a sequência diferente da inglesa (Marshall: direitos civis, políticos e sociais); no Brasil, os direitos sociais vieram primeiro, na Era Vargas, em um contexto de supressão dos direitos políticos;",
+"Wanderley Guilherme dos Santos: cidadania regulada, em que os direitos dependem da inserção profissional reconhecida pelo Estado (carteira de trabalho e sindicatos oficiais)."
+]
+},
+{
+"id": "Q-POL-0319",
+"g": "C",
+"e": "Gilberto Freyre, em Casa-Grande & Senzala, valoriza a miscigenação e a contribuição de índios e africanos para a formação social brasileira, tese por vezes associada ao mito da democracia racial.",
+"velho": "Freyre, Casa-Grande & Senzala.",
+"aula": [
+"Gilberto Freyre (Casa-Grande & Senzala): a miscigenação e as relações entre senhores e escravos formaram a sociedade brasileira, e a ideia de democracia racial é criticada por seus críticos."
+]
+},
+{
+"id": "Q-POL-0320",
+"g": "E",
+"e": "Gilberto Freyre, em Casa-Grande & Senzala, sustenta a superioridade racial dos colonizadores europeus e condena a miscigenação como causa do atraso brasileiro.",
+"velho": "Freyre, Casa-Grande & Senzala.",
+"aula": [
+"Gilberto Freyre (Casa-Grande & Senzala): a miscigenação e as relações entre senhores e escravos formaram a sociedade brasileira, e a ideia de democracia racial é criticada por seus críticos."
+]
+},
+{
+"id": "Q-POL-0321",
+"g": "C",
+"e": "Oliveira Vianna defendia um Estado forte e centralizado para organizar uma sociedade que considerava fragmentada em clãs rurais, em visão autoritária e elitista.",
+"velho": "Oliveira Vianna.",
+"aula": [
+"Oliveira Vianna: defendeu o Estado forte e centralizador (autoritarismo instrumental), diante do insolidarismo social e do localismo."
+]
+},
+{
+"id": "Q-POL-0322",
+"g": "E",
+"e": "Oliveira Vianna defendia um Estado mínimo e descentralizado, por considerar a sociedade brasileira naturalmente organizada e participativa.",
+"velho": "Oliveira Vianna.",
+"aula": [
+"Gilberto Freyre (Casa-Grande & Senzala): a miscigenação e as relações entre senhores e escravos formaram a sociedade brasileira, e a ideia de democracia racial é criticada por seus críticos.",
+"Oliveira Vianna: defendeu o Estado forte e centralizador (autoritarismo instrumental), diante do insolidarismo social e do localismo."
+]
+},
+{
+"id": "Q-POL-0323",
+"g": "C",
+"e": "Caio Prado Júnior, em Formação do Brasil Contemporâneo, define o sentido da colonização como o de fornecer produtos tropicais ao mercado europeu, a partir de uma perspectiva marxista.",
+"velho": "Caio Prado Jr.",
+"aula": [
+"Caio Prado Júnior (Formação do Brasil Contemporâneo): o sentido da colonização como empresa voltada à exportação.",
+"Celso Furtado (Formação Econômica do Brasil): subdesenvolvimento como processo histórico."
+]
+},
+{
+"id": "Q-POL-0324",
+"g": "E",
+"e": "Caio Prado Júnior, em Formação do Brasil Contemporâneo, define o sentido da colonização como a construção de uma sociedade autônoma voltada ao mercado interno, a partir de uma perspectiva liberal.",
+"velho": "Caio Prado Jr.",
+"aula": [
+"Caio Prado Júnior (Formação do Brasil Contemporâneo): o sentido da colonização como empresa voltada à exportação.",
+"Celso Furtado (Formação Econômica do Brasil): subdesenvolvimento como processo histórico."
+]
+},
+{
+"id": "Q-POL-0325",
+"g": "C",
+"e": "Florestan Fernandes, em A Revolução Burguesa no Brasil, descreve uma modernização conservadora, em que a burguesia se consolida sem romper com estruturas oligárquicas.",
+"velho": "Florestan Fernandes.",
+"aula": [
+"Florestan Fernandes (A Revolução Burguesa no Brasil): o capitalismo dependente e a revolução burguesa sem ruptura com a oligarquia."
+]
+},
+{
+"id": "Q-POL-0326",
+"g": "E",
+"e": "Florestan Fernandes, em A Revolução Burguesa no Brasil, descreve uma revolução radical, em que a burguesia rompe totalmente com as estruturas oligárquicas.",
+"velho": "Florestan Fernandes.",
+"aula": [
+"Florestan Fernandes (A Revolução Burguesa no Brasil): o capitalismo dependente e a revolução burguesa sem ruptura com a oligarquia."
+]
+},
+{
+"id": "Q-POL-0327",
+"g": "C",
+"e": "Celso Furtado, em Formação Econômica do Brasil, analisa o subdesenvolvimento como resultado de um processo histórico específico, e não como uma etapa anterior ao desenvolvimento.",
+"velho": "Furtado.",
+"aula": [
+"Caio Prado Júnior (Formação do Brasil Contemporâneo): o sentido da colonização como empresa voltada à exportação.",
+"Celso Furtado (Formação Econômica do Brasil): subdesenvolvimento como processo histórico."
+]
+},
+{
+"id": "Q-POL-0328",
+"g": "E",
+"e": "Celso Furtado, em Formação Econômica do Brasil, analisa o subdesenvolvimento como mera etapa natural pela qual todos os países passam antes de alcançar o desenvolvimento.",
+"velho": "Furtado.",
+"aula": [
+"Caio Prado Júnior (Formação do Brasil Contemporâneo): o sentido da colonização como empresa voltada à exportação.",
+"Celso Furtado (Formação Econômica do Brasil): subdesenvolvimento como processo histórico."
+]
+}
+]

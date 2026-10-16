@@ -1,0 +1,675 @@
+[
+{
+"id": "Q-FIA-0284",
+"g": "E",
+"e": "As conferências, as alocuções e os sermões não são obras protegidas pela Lei de Direitos Autorais, por serem orais.",
+"velho": "Lei 9.610/1998, art. 7º, V.",
+"aula": [
+"Lei 9.610/1998: são obras protegidas, entre outras, as conferências, alocuções, sermões e outras obras da mesma natureza (art. 7º, V).",
+"A Lei de Direitos Autorais permite a reprodução em diários ou periódicos de discursos pronunciados em reuniões públicas de qualquer natureza (art. 46, I, b)."
+]
+},
+{
+"id": "Q-FIA-0285",
+"g": "C",
+"e": "Não são objeto de proteção como direitos autorais os textos de tratados, leis, decretos, regulamentos e decisões judiciais.",
+"velho": "Lei 9.610/1998, art. 8º.",
+"aula": [
+"Não são objeto de proteção os textos de tratados, leis, decretos, regulamentos e decisões judiciais, as informações de uso comum, as ideias e os nomes e títulos isolados (art. 8º).",
+"A Lei de Direitos Autorais permite a reprodução em diários ou periódicos de discursos pronunciados em reuniões públicas de qualquer natureza (art. 46, I, b)."
+]
+},
+{
+"id": "Q-FIA-0286",
+"g": "E",
+"e": "Os textos de leis, decretos e decisões judiciais são obras protegidas pelos direitos autorais, dependendo de autorização para reprodução.",
+"velho": "Lei 9.610/1998, art. 8º.",
+"aula": [
+"Não são objeto de proteção os textos de tratados, leis, decretos, regulamentos e decisões judiciais, as informações de uso comum, as ideias e os nomes e títulos isolados (art. 8º).",
+"A Lei de Direitos Autorais permite a reprodução em diários ou periódicos de discursos pronunciados em reuniões públicas de qualquer natureza (art. 46, I, b)."
+]
+},
+{
+"id": "Q-FIA-0287",
+"g": "C",
+"e": "É permitida a reprodução, em diários ou periódicos, de discursos pronunciados em reuniões públicas de qualquer natureza.",
+"velho": "Lei 9.610/1998, art. 46, I, b.",
+"aula": [
+"A Lei de Direitos Autorais permite a reprodução em diários ou periódicos de discursos pronunciados em reuniões públicas de qualquer natureza (art. 46, I, b)."
+]
+},
+{
+"id": "Q-FIA-0288",
+"g": "E",
+"e": "É vedada a reprodução, em diários ou periódicos, de discursos pronunciados em reuniões públicas, salvo autorização do orador.",
+"velho": "Lei 9.610/1998, art. 46, I, b.",
+"aula": [
+"O orador é, em regra, titular de direitos sobre seu discurso, e a transcrição é reprodução da obra.",
+"A Lei de Direitos Autorais permite a reprodução em diários ou periódicos de discursos pronunciados em reuniões públicas de qualquer natureza (art. 46, I, b)."
+]
+},
+{
+"id": "Q-FIA-0289",
+"g": "C",
+"e": "A transcrição não esgota os direitos morais do autor do discurso, e alterar o sentido pode ferir a integridade da obra.",
+"velho": "Lei 9.610/1998, art. 24.",
+"aula": [
+"O orador é, em regra, titular de direitos sobre seu discurso, e a transcrição é reprodução da obra.",
+"Direitos morais do autor, como o de ter seu nome indicado e o de assegurar a integridade da obra (art. 24), não se esgotam na transcrição; alterar o sentido do discurso pode ferir a integridade."
+]
+},
+{
+"id": "Q-FIA-0290",
+"g": "E",
+"e": "Com a transcrição, os direitos morais do autor do discurso se esgotam, e o transcritor pode alterar livremente o sentido.",
+"velho": "Lei 9.610/1998, art. 24.",
+"aula": [
+"O orador é, em regra, titular de direitos sobre seu discurso, e a transcrição é reprodução da obra.",
+"Direitos morais do autor, como o de ter seu nome indicado e o de assegurar a integridade da obra (art. 24), não se esgotam na transcrição; alterar o sentido do discurso pode ferir a integridade."
+]
+},
+{
+"id": "Q-FIA-0291",
+"g": "C",
+"e": "A legislação autoral brasileira pressupõe autoria humana, e a titularidade de obras geradas por IA permanece em debate, sem regra expressa na Lei 9.610/1998.",
+"velho": "Lei 9.610/1998.",
+"aula": [
+"Conteúdo gerado por IA levanta debate sobre autoria e proteção; a legislação autoral brasileira pressupõe autoria humana (pessoa física), e a questão de titularidade de obras geradas por IA permanece em debate, sem regra expressa na Lei 9.610/1998."
+]
+},
+{
+"id": "Q-FIA-0292",
+"g": "E",
+"e": "A Lei 9.610/1998 atribui expressamente a titularidade das obras geradas por IA ao fornecedor do modelo. Trata-se de prática corrente.",
+"velho": "Lei 9.610/1998.",
+"aula": [
+"Conteúdo gerado por IA levanta debate sobre autoria e proteção; a legislação autoral brasileira pressupõe autoria humana (pessoa física), e a questão de titularidade de obras geradas por IA permanece em debate, sem regra expressa na Lei 9.610/1998."
+]
+},
+{
+"id": "Q-FIA-0293",
+"g": "C",
+"e": "Na ética do uso de IA, a transparência quanto ao uso, a responsabilidade humana pelo conteúdo e a não discriminação são princípios relevantes.",
+"velho": "Ética.",
+"aula": [
+"Ética no uso de IA: transparência (informar que houve uso de IA), responsabilidade humana pelo conteúdo, revisão, não discriminação (vieses de sotaque, gênero e região podem gerar taxas de erro diferentes entre grupos de falantes), proteção de dados, prevenção de desinformação (conteúdo gerado ou clonado de voz, deepfakes) e respeito à propriedade intelectual dos dados…",
+"Conteúdo gerado por IA levanta debate sobre autoria e proteção; a legislação autoral brasileira pressupõe autoria humana (pessoa física), e a questão de titularidade de obras geradas por IA permanece em debate, sem regra expressa na Lei 9.610/1998."
+]
+},
+{
+"id": "Q-FIA-0294",
+"g": "E",
+"e": "Na ética do uso de IA, a responsabilidade pelo conteúdo é do sistema, e a transparência quanto ao uso é dispensável. Isso é consenso na área.",
+"velho": "Ética.",
+"aula": [
+"Ética no uso de IA: transparência (informar que houve uso de IA), responsabilidade humana pelo conteúdo, revisão, não discriminação (vieses de sotaque, gênero e região podem gerar taxas de erro diferentes entre grupos de falantes), proteção de dados, prevenção de desinformação (conteúdo gerado ou clonado de voz, deepfakes) e respeito à propriedade intelectual dos dados…"
+]
+},
+{
+"id": "Q-FIA-0295",
+"g": "C",
+"e": "Vieses de sotaque, gênero e região podem gerar taxas de erro diferentes entre grupos de falantes em sistemas de ASR.",
+"velho": "Vieses.",
+"aula": [
+"Ética no uso de IA: transparência (informar que houve uso de IA), responsabilidade humana pelo conteúdo, revisão, não discriminação (vieses de sotaque, gênero e região podem gerar taxas de erro diferentes entre grupos de falantes), proteção de dados, prevenção de desinformação (conteúdo gerado ou clonado de voz, deepfakes) e respeito à propriedade intelectual dos dados…"
+]
+},
+{
+"id": "Q-FIA-0296",
+"g": "E",
+"e": "Sistemas de ASR têm a mesma taxa de erro para todos os grupos de falantes, razão pela qual não geram problemas de discriminação.",
+"velho": "Vieses.",
+"aula": [
+"Ética no uso de IA: transparência (informar que houve uso de IA), responsabilidade humana pelo conteúdo, revisão, não discriminação (vieses de sotaque, gênero e região podem gerar taxas de erro diferentes entre grupos de falantes), proteção de dados, prevenção de desinformação (conteúdo gerado ou clonado de voz, deepfakes) e respeito à propriedade intelectual dos dados…"
+]
+},
+{
+"id": "Q-FIA-0297",
+"g": "C",
+"e": "A clonagem de voz e os deepfakes de áudio representam risco ético e de desinformação associados à IA aplicada à fala.",
+"velho": "Deepfakes.",
+"aula": [
+"Ética no uso de IA: transparência (informar que houve uso de IA), responsabilidade humana pelo conteúdo, revisão, não discriminação (vieses de sotaque, gênero e região podem gerar taxas de erro diferentes entre grupos de falantes), proteção de dados, prevenção de desinformação (conteúdo gerado ou clonado de voz, deepfakes) e respeito à propriedade intelectual dos dados…"
+]
+},
+{
+"id": "Q-FIA-0298",
+"g": "E",
+"e": "A clonagem de voz não representa risco ético, pois somente é usada em dublagens autorizadas. Isso é consenso na área.",
+"velho": "Deepfakes.",
+"aula": [
+"Lei 9.610/1998: são obras protegidas, entre outras, as conferências, alocuções, sermões e outras obras da mesma natureza (art. 7º, V)."
+]
+},
+{
+"id": "Q-FIA-0299",
+"g": "C",
+"e": "A segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade, e cada etapa do pipeline de áudio exige controles.",
+"velho": "Pilares.",
+"aula": [
+"Segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade. Em pipelines de áudio e transcrição, o dado percorre captação, transporte, armazenamento, processamento por modelos, revisão e publicação, e cada etapa exige controles.",
+"Controles: criptografia em trânsito (por exemplo, TLS) e em repouso; controle de acesso por perfil e mínimo privilégio; autenticação forte; registros de acesso (logs) e trilhas de auditoria; segregação de ambientes; política de retenção e descarte do áudio e dos textos; backup; hash para comprovar a integridade de gravações e de arquivos finais; gestão de…"
+]
+},
+{
+"id": "Q-FIA-0300",
+"g": "E",
+"e": "A segurança da informação baseia-se apenas na confidencialidade, e as etapas de transporte e armazenamento do áudio não exigem controles. Trata-se de prática corrente.",
+"velho": "Pilares.",
+"aula": [
+"Segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade. Em pipelines de áudio e transcrição, o dado percorre captação, transporte, armazenamento, processamento por modelos, revisão e publicação, e cada etapa exige controles.",
+"Riscos específicos: envio de áudio sigiloso a serviços externos sem garantias; uso do dado para treinar modelos de terceiros; vazamento por armazenamento inadequado; adulteração de gravações; falsificação de voz (deepfake de áudio) e fraude; injeção de instruções (prompt injection) em conteúdo transcrito processado por LLM; alucinação que expõe informação."
+]
+},
+{
+"id": "Q-FIA-0301",
+"g": "C",
+"e": "Criptografia em trânsito e em repouso, controle de acesso por perfil, logs de auditoria e política de retenção e descarte do áudio são controles de segurança em pipelines de transcrição.",
+"velho": "Controles.",
+"aula": [
+"Segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade. Em pipelines de áudio e transcrição, o dado percorre captação, transporte, armazenamento, processamento por modelos, revisão e publicação, e cada etapa exige controles.",
+"Controles: criptografia em trânsito (por exemplo, TLS) e em repouso; controle de acesso por perfil e mínimo privilégio; autenticação forte; registros de acesso (logs) e trilhas de auditoria; segregação de ambientes; política de retenção e descarte do áudio e dos textos; backup; hash para comprovar a integridade de gravações e de arquivos finais; gestão de…"
+]
+},
+{
+"id": "Q-FIA-0302",
+"g": "E",
+"e": "Em pipelines de transcrição, o áudio deve ser mantido indefinidamente em formato aberto, sem política de descarte nem registros de acesso. Isso é consenso na área.",
+"velho": "Controles.",
+"aula": [
+"Segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade. Em pipelines de áudio e transcrição, o dado percorre captação, transporte, armazenamento, processamento por modelos, revisão e publicação, e cada etapa exige controles.",
+"Controles: criptografia em trânsito (por exemplo, TLS) e em repouso; controle de acesso por perfil e mínimo privilégio; autenticação forte; registros de acesso (logs) e trilhas de auditoria; segregação de ambientes; política de retenção e descarte do áudio e dos textos; backup; hash para comprovar a integridade de gravações e de arquivos finais; gestão de…"
+]
+},
+{
+"id": "Q-FIA-0303",
+"g": "C",
+"e": "O hash de arquivos pode ser usado para comprovar a integridade de gravações e de arquivos finais.",
+"velho": "Hash.",
+"aula": [
+"Controles: criptografia em trânsito (por exemplo, TLS) e em repouso; controle de acesso por perfil e mínimo privilégio; autenticação forte; registros de acesso (logs) e trilhas de auditoria; segregação de ambientes; política de retenção e descarte do áudio e dos textos; backup; hash para comprovar a integridade de gravações e de arquivos finais; gestão de…"
+]
+},
+{
+"id": "Q-FIA-0304",
+"g": "E",
+"e": "O hash de arquivos serve para ocultar o conteúdo do áudio e não permite comprovar integridade.",
+"velho": "Hash.",
+"aula": [
+"Segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade. Em pipelines de áudio e transcrição, o dado percorre captação, transporte, armazenamento, processamento por modelos, revisão e publicação, e cada etapa exige controles.",
+"Controles: criptografia em trânsito (por exemplo, TLS) e em repouso; controle de acesso por perfil e mínimo privilégio; autenticação forte; registros de acesso (logs) e trilhas de auditoria; segregação de ambientes; política de retenção e descarte do áudio e dos textos; backup; hash para comprovar a integridade de gravações e de arquivos finais; gestão de…"
+]
+},
+{
+"id": "Q-FIA-0305",
+"g": "C",
+"e": "A injeção de instruções (prompt injection) em conteúdo transcrito e processado por LLM é risco específico de pipelines que combinam transcrição e IA generativa.",
+"velho": "Prompt injection.",
+"aula": [
+"Segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade. Em pipelines de áudio e transcrição, o dado percorre captação, transporte, armazenamento, processamento por modelos, revisão e publicação, e cada etapa exige controles.",
+"Riscos específicos: envio de áudio sigiloso a serviços externos sem garantias; uso do dado para treinar modelos de terceiros; vazamento por armazenamento inadequado; adulteração de gravações; falsificação de voz (deepfake de áudio) e fraude; injeção de instruções (prompt injection) em conteúdo transcrito processado por LLM; alucinação que expõe informação."
+]
+},
+{
+"id": "Q-FIA-0306",
+"g": "E",
+"e": "A injeção de instruções (prompt injection) é risco restrito a ataques de rede e não afeta pipelines que usam LLM sobre texto transcrito. Isso é consenso na área.",
+"velho": "Prompt injection.",
+"aula": [
+"Riscos específicos: envio de áudio sigiloso a serviços externos sem garantias; uso do dado para treinar modelos de terceiros; vazamento por armazenamento inadequado; adulteração de gravações; falsificação de voz (deepfake de áudio) e fraude; injeção de instruções (prompt injection) em conteúdo transcrito processado por LLM; alucinação que expõe informação."
+]
+},
+{
+"id": "Q-FIA-0307",
+"g": "C",
+"e": "Para dados sensíveis, pode-se optar pela implantação local de modelos abertos, como o Whisper, ou por serviço de nuvem com contrato que vede o uso dos dados para treinamento.",
+"velho": "Implantação.",
+"aula": [
+"Alternativas: implantação local (on-premises) de modelos abertos, como o Whisper, para dados sensíveis, ou serviços de nuvem com contrato que vede o uso dos dados para treinamento, localização dos dados definida e certificações."
+]
+},
+{
+"id": "Q-FIA-0308",
+"g": "E",
+"e": "Para dados sensíveis, é sempre suficiente enviar o áudio a qualquer serviço de nuvem, pois todos eliminam o áudio imediatamente após a transcrição. Trata-se de prática corrente.",
+"velho": "Implantação.",
+"aula": [
+"Segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade. Em pipelines de áudio e transcrição, o dado percorre captação, transporte, armazenamento, processamento por modelos, revisão e publicação, e cada etapa exige controles.",
+"Alternativas: implantação local (on-premises) de modelos abertos, como o Whisper, para dados sensíveis, ou serviços de nuvem com contrato que vede o uso dos dados para treinamento, localização dos dados definida e certificações."
+]
+},
+{
+"id": "Q-FIA-0309",
+"g": "C",
+"e": "Os incidentes de segurança que possam acarretar risco ou dano relevante aos titulares devem ser comunicados à ANPD e aos titulares.",
+"velho": "LGPD, art. 48.",
+"aula": [
+"Incidentes de segurança que possam acarretar risco ou dano relevante aos titulares devem ser comunicados à ANPD e aos titulares (LGPD, art. 48)."
+]
+},
+{
+"id": "Q-FIA-0310",
+"g": "E",
+"e": "Os incidentes de segurança com dados pessoais devem ser comunicados somente ao fornecedor do serviço, não à ANPD. Isso é consenso na área.",
+"velho": "LGPD, art. 48.",
+"aula": [
+"Incidentes de segurança que possam acarretar risco ou dano relevante aos titulares devem ser comunicados à ANPD e aos titulares (LGPD, art. 48)."
+]
+},
+{
+"id": "Q-FIA-0311",
+"g": "C",
+"e": "A falsificação de voz (deepfake de áudio) e a adulteração de gravações são riscos à integridade e à autenticidade em pipelines de áudio.",
+"velho": "Integridade.",
+"aula": [
+"Segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade. Em pipelines de áudio e transcrição, o dado percorre captação, transporte, armazenamento, processamento por modelos, revisão e publicação, e cada etapa exige controles.",
+"Riscos específicos: envio de áudio sigiloso a serviços externos sem garantias; uso do dado para treinar modelos de terceiros; vazamento por armazenamento inadequado; adulteração de gravações; falsificação de voz (deepfake de áudio) e fraude; injeção de instruções (prompt injection) em conteúdo transcrito processado por LLM; alucinação que expõe informação."
+]
+},
+{
+"id": "Q-FIA-0312",
+"g": "E",
+"e": "A falsificação de voz afeta apenas a disponibilidade dos sistemas e não a integridade ou a autenticidade. Trata-se de prática corrente.",
+"velho": "Integridade.",
+"aula": [
+"Segurança da informação baseia-se em confidencialidade, integridade, disponibilidade e autenticidade. Em pipelines de áudio e transcrição, o dado percorre captação, transporte, armazenamento, processamento por modelos, revisão e publicação, e cada etapa exige controles."
+]
+},
+{
+"id": "Q-FIA-0313",
+"g": "C",
+"e": "O mínimo privilégio determina que cada usuário tenha acesso apenas ao que for necessário às suas funções, o que reduz riscos no acesso a gravações e transcrições.",
+"velho": "Mínimo privilégio.",
+"aula": [
+"Controles: criptografia em trânsito (por exemplo, TLS) e em repouso; controle de acesso por perfil e mínimo privilégio; autenticação forte; registros de acesso (logs) e trilhas de auditoria; segregação de ambientes; política de retenção e descarte do áudio e dos textos; backup; hash para comprovar a integridade de gravações e de arquivos finais; gestão de…",
+"Riscos específicos: envio de áudio sigiloso a serviços externos sem garantias; uso do dado para treinar modelos de terceiros; vazamento por armazenamento inadequado; adulteração de gravações; falsificação de voz (deepfake de áudio) e fraude; injeção de instruções (prompt injection) em conteúdo transcrito processado por LLM; alucinação que expõe informação."
+]
+},
+{
+"id": "Q-FIA-0314",
+"g": "E",
+"e": "O mínimo privilégio determina que todos os usuários tenham acesso irrestrito às gravações, para agilizar a revisão. Isso é consenso na área.",
+"velho": "Mínimo privilégio.",
+"aula": [
+"Controles: criptografia em trânsito (por exemplo, TLS) e em repouso; controle de acesso por perfil e mínimo privilégio; autenticação forte; registros de acesso (logs) e trilhas de auditoria; segregação de ambientes; política de retenção e descarte do áudio e dos textos; backup; hash para comprovar a integridade de gravações e de arquivos finais; gestão de…"
+]
+},
+{
+"id": "Q-FIA-0315",
+"g": "C",
+"e": "Os coeficientes MFCC são obtidos, em linhas gerais, por janelamento do sinal, transformada de Fourier, aplicação de um banco de filtros na escala mel, logaritmo e transformada discreta do cosseno.",
+"velho": "MFCC.",
+"aula": [
+"MFCC: pré-ênfase, divisão em quadros com janelamento, FFT, banco de filtros na escala mel, logaritmo e transformada discreta do cosseno; costumam-se usar 13 coeficientes, acrescidos de suas derivadas (delta e delta-delta)."
+]
+},
+{
+"id": "Q-FIA-0316",
+"g": "E",
+"e": "Os coeficientes MFCC são obtidos, em linhas gerais, por janelamento do sinal, aplicação de um modelo de linguagem em n-gramas e decodificação por busca em feixe, sem emprego da escala mel.",
+"velho": "MFCC.",
+"aula": [
+"MFCC: pré-ênfase, divisão em quadros com janelamento, FFT, banco de filtros na escala mel, logaritmo e transformada discreta do cosseno; costumam-se usar 13 coeficientes, acrescidos de suas derivadas (delta e delta-delta).",
+"Modelos de linguagem em n-gramas estimam a probabilidade de uma palavra dada as n−1 anteriores; a perplexidade mede a capacidade de previsão do modelo (quanto menor, melhor)."
+]
+},
+{
+"id": "Q-FIA-0317",
+"g": "C",
+"e": "No ASR clássico, a hipótese escolhida é a sequência de palavras que maximiza o produto da verossimilhança acústica pela probabilidade fornecida pelo modelo de linguagem.",
+"velho": "Regra de Bayes no ASR.",
+"aula": [
+"Regra de Bayes no ASR: a hipótese escolhida é a sequência de palavras W que maximiza P(X|W)·P(W), em que P(X|W) vem do modelo acústico e P(W) do modelo de linguagem.",
+"Modelos de linguagem em n-gramas estimam a probabilidade de uma palavra dada as n−1 anteriores; a perplexidade mede a capacidade de previsão do modelo (quanto menor, melhor)."
+]
+},
+{
+"id": "Q-FIA-0318",
+"g": "E",
+"e": "No ASR clássico, a hipótese escolhida é a sequência de palavras que maximiza apenas a verossimilhança acústica, pois o modelo de linguagem é usado somente para pontuar o léxico de pronúncias.",
+"velho": "Regra de Bayes no ASR.",
+"aula": [
+"Regra de Bayes no ASR: a hipótese escolhida é a sequência de palavras W que maximiza P(X|W)·P(W), em que P(X|W) vem do modelo acústico e P(W) do modelo de linguagem.",
+"Modelos de linguagem em n-gramas estimam a probabilidade de uma palavra dada as n−1 anteriores; a perplexidade mede a capacidade de previsão do modelo (quanto menor, melhor)."
+]
+},
+{
+"id": "Q-FIA-0319",
+"g": "C",
+"e": "A perplexidade é medida usada para avaliar modelos de linguagem, e valores menores indicam que o modelo prevê melhor o texto de teste.",
+"velho": "Perplexidade.",
+"aula": [
+"Regra de Bayes no ASR: a hipótese escolhida é a sequência de palavras W que maximiza P(X|W)·P(W), em que P(X|W) vem do modelo acústico e P(W) do modelo de linguagem.",
+"Modelos de linguagem em n-gramas estimam a probabilidade de uma palavra dada as n−1 anteriores; a perplexidade mede a capacidade de previsão do modelo (quanto menor, melhor)."
+]
+},
+{
+"id": "Q-FIA-0320",
+"g": "E",
+"e": "A perplexidade é medida usada para avaliar modelos acústicos, e valores maiores indicam que o modelo prevê melhor o texto de teste.",
+"velho": "Perplexidade.",
+"aula": [
+"Modelos de linguagem em n-gramas estimam a probabilidade de uma palavra dada as n−1 anteriores; a perplexidade mede a capacidade de previsão do modelo (quanto menor, melhor)."
+]
+},
+{
+"id": "Q-FIA-0321",
+"g": "C",
+"e": "O lattice produzido pelo decodificador é um grafo compacto de hipóteses alternativas, que pode ser reavaliado (rescoring) com modelo de linguagem mais forte, e o beam search reduz o custo da busca ao podar hipóteses pouco prováveis.",
+"velho": "Lattice; beam search.",
+"aula": [
+"Regra de Bayes no ASR: a hipótese escolhida é a sequência de palavras W que maximiza P(X|W)·P(W), em que P(X|W) vem do modelo acústico e P(W) do modelo de linguagem.",
+"Decodificação: a busca na rede de hipóteses usa beam search, que poda hipóteses pouco prováveis para reduzir o custo computacional; o lattice (treliça) é o grafo compacto de hipóteses alternativas gerado pelo decodificador e usado em reclassificação (rescoring)."
+]
+},
+{
+"id": "Q-FIA-0322",
+"g": "E",
+"e": "O lattice produzido pelo decodificador é a lista de pronúncias do léxico, e o beam search garante a obtenção da hipótese ótima global, pois examina todas as hipóteses possíveis. Trata-se de prática corrente.",
+"velho": "Lattice; beam search.",
+"aula": [
+"Decodificação: a busca na rede de hipóteses usa beam search, que poda hipóteses pouco prováveis para reduzir o custo computacional; o lattice (treliça) é o grafo compacto de hipóteses alternativas gerado pelo decodificador e usado em reclassificação (rescoring)."
+]
+},
+{
+"id": "Q-FIA-0323",
+"g": "C",
+"e": "Sistemas de vocabulário fechado não reconhecem palavras fora do vocabulário (OOV), o que é problema relevante para nomes próprios de parlamentares e siglas novas.",
+"velho": "OOV.",
+"aula": [
+"Palavras fora do vocabulário (OOV) não podem ser reconhecidas por sistemas de vocabulário fechado."
+]
+},
+{
+"id": "Q-FIA-0324",
+"g": "E",
+"e": "Sistemas de vocabulário fechado reconhecem normalmente palavras fora do vocabulário, pois o modelo acústico dispensa o léxico para formar novas palavras.",
+"velho": "OOV.",
+"aula": [
+"Regra de Bayes no ASR: a hipótese escolhida é a sequência de palavras W que maximiza P(X|W)·P(W), em que P(X|W) vem do modelo acústico e P(W) do modelo de linguagem.",
+"Palavras fora do vocabulário (OOV) não podem ser reconhecidas por sistemas de vocabulário fechado."
+]
+},
+{
+"id": "Q-FIA-0325",
+"g": "C",
+"e": "O transducer (RNN-T) acrescenta ao codificador uma rede de predição e uma rede de junção, e por isso condiciona a saída aos rótulos já emitidos, o que também favorece o uso em streaming.",
+"velho": "RNN-T.",
+"aula": [
+"O transducer (RNN-T, Graves, 2012) acrescenta uma rede de predição, que condiciona a saída aos rótulos anteriores, e uma rede de junção (joint network) que combina codificador e predição; por emitir símbolos em ordem e quadro a quadro, adapta-se bem a streaming."
+]
+},
+{
+"id": "Q-FIA-0326",
+"g": "E",
+"e": "O transducer (RNN-T) mantém a hipótese de independência condicional do CTC entre as saídas e, por exigir o áudio completo, não é adequado ao uso em streaming. Trata-se de prática corrente.",
+"velho": "RNN-T.",
+"aula": [
+"CTC (Graves, 2006) alinha quadros e rótulos com o símbolo blank e colapsa repetições; assume independência condicional entre as saídas.",
+"O transducer (RNN-T, Graves, 2012) acrescenta uma rede de predição, que condiciona a saída aos rótulos anteriores, e uma rede de junção (joint network) que combina codificador e predição; por emitir símbolos em ordem e quadro a quadro, adapta-se bem a streaming."
+]
+},
+{
+"id": "Q-FIA-0327",
+"g": "C",
+"e": "SpecAugment é técnica de aumento de dados que aplica máscaras de tempo e de frequência ao espectrograma durante o treinamento do modelo de ASR.",
+"velho": "SpecAugment.",
+"aula": [
+"SpecAugment é técnica de aumento de dados que aplica máscaras de tempo e de frequência ao espectrograma durante o treino."
+]
+},
+{
+"id": "Q-FIA-0328",
+"g": "E",
+"e": "SpecAugment é técnica de decodificação que reordena as hipóteses do lattice com base em um modelo de linguagem externo, após o treinamento do modelo de ASR.",
+"velho": "SpecAugment.",
+"aula": [
+"SpecAugment é técnica de aumento de dados que aplica máscaras de tempo e de frequência ao espectrograma durante o treino."
+]
+},
+{
+"id": "Q-FIA-0329",
+"g": "C",
+"e": "O wav2vec 2.0 aprende representações do áudio de forma auto-supervisionada, sem transcrições, e pode ser ajustado depois com poucos dados rotulados, tipicamente com perda CTC.",
+"velho": "wav2vec 2.0.",
+"aula": [
+"Modelos de atenção codificador-decodificador (como Listen, Attend and Spell e o Whisper) geram o texto de forma autorregressiva, mas exigem, em geral, o áudio completo ou janelas.",
+"Aprendizado auto-supervisionado: wav2vec 2.0 (Meta) aprende representações do áudio sem transcrição, por tarefa contrastiva sobre unidades quantizadas mascaradas, e depois é ajustado com poucos dados rotulados, tipicamente com perda CTC;"
+]
+},
+{
+"id": "Q-FIA-0330",
+"g": "E",
+"e": "O wav2vec 2.0 exige grandes volumes de áudio transcrito para o pré-treinamento e, por isso, não é indicado para ajuste fino com poucos dados rotulados. Trata-se de prática corrente.",
+"velho": "wav2vec 2.0.",
+"aula": [
+"Aprendizado auto-supervisionado: wav2vec 2.0 (Meta) aprende representações do áudio sem transcrição, por tarefa contrastiva sobre unidades quantizadas mascaradas, e depois é ajustado com poucos dados rotulados, tipicamente com perda CTC;",
+"Treinar do zero exige muitas horas de fala transcrita; o ajuste fino (fine-tuning) de modelos pré-treinados reduz a demanda de dados rotulados. Subpalavras (BPE ou SentencePiece) são unidades de saída comuns, que reduzem o problema de OOV."
+]
+},
+{
+"id": "Q-FIA-0331",
+"g": "C",
+"e": "A arquitetura Conformer combina camadas de autoatenção, que captam contexto global, e convoluções, que captam padrões locais, e é usada em codificadores de ASR.",
+"velho": "Conformer.",
+"aula": [
+"Conformer combina camadas de autoatenção (contexto global) e convolução (padrões locais) e é arquitetura comum de codificadores de ASR."
+]
+},
+{
+"id": "Q-FIA-0332",
+"g": "E",
+"e": "A arquitetura Conformer substitui as camadas de autoatenção por redes recorrentes simples, pois dispensa convoluções e contexto global. Isso é consenso na área.",
+"velho": "Conformer.",
+"aula": [
+"Conformer combina camadas de autoatenção (contexto global) e convolução (padrões locais) e é arquitetura comum de codificadores de ASR."
+]
+},
+{
+"id": "Q-FIA-0333",
+"g": "C",
+"e": "Modelos de atenção do tipo codificador-decodificador, como o Whisper, geram o texto de forma autorregressiva, o que os torna menos naturais para o streaming de baixa latência do que os transducers.",
+"velho": "Atenção × transducer.",
+"aula": [
+"O transducer (RNN-T, Graves, 2012) acrescenta uma rede de predição, que condiciona a saída aos rótulos anteriores, e uma rede de junção (joint network) que combina codificador e predição; por emitir símbolos em ordem e quadro a quadro, adapta-se bem a streaming.",
+"Modelos de atenção codificador-decodificador (como Listen, Attend and Spell e o Whisper) geram o texto de forma autorregressiva, mas exigem, em geral, o áudio completo ou janelas."
+]
+},
+{
+"id": "Q-FIA-0334",
+"g": "E",
+"e": "Modelos de atenção do tipo codificador-decodificador, como o Whisper, emitem todas as palavras em paralelo e são, por isso, os mais indicados para streaming de baixa latência. Trata-se de prática corrente.",
+"velho": "Atenção × transducer.",
+"aula": [
+"O transducer (RNN-T, Graves, 2012) acrescenta uma rede de predição, que condiciona a saída aos rótulos anteriores, e uma rede de junção (joint network) que combina codificador e predição; por emitir símbolos em ordem e quadro a quadro, adapta-se bem a streaming.",
+"Modelos de atenção codificador-decodificador (como Listen, Attend and Spell e o Whisper) geram o texto de forma autorregressiva, mas exigem, em geral, o áudio completo ou janelas."
+]
+},
+{
+"id": "Q-FIA-0335",
+"g": "C",
+"e": "Na correção generativa de erros, o LLM recebe as melhores hipóteses do ASR e produz o texto final, podendo corrigir termos pelo contexto, mas com o risco de alterar o que foi efetivamente dito.",
+"velho": "Correção generativa.",
+"aula": [
+"Em cascata, o LLM recebe o texto do ASR; a etapa intermediária pode ser auditada e corrigida por humano.",
+"Correção generativa de erros: o LLM recebe as melhores hipóteses do ASR (lista N-best) e produz o texto final, podendo corrigir termos pelo contexto, mas pode também alterar o que foi dito (excesso de correção)."
+]
+},
+{
+"id": "Q-FIA-0336",
+"g": "E",
+"e": "Na correção generativa de erros, o LLM recebe o áudio, sem hipóteses do ASR, e produz o texto final com fidelidade garantida ao que foi dito. Isso é consenso na área.",
+"velho": "Correção generativa.",
+"aula": [
+"Em cascata, o LLM recebe o texto do ASR; a etapa intermediária pode ser auditada e corrigida por humano.",
+"Correção generativa de erros: o LLM recebe as melhores hipóteses do ASR (lista N-best) e produz o texto final, podendo corrigir termos pelo contexto, mas pode também alterar o que foi dito (excesso de correção)."
+]
+},
+{
+"id": "Q-FIA-0337",
+"g": "C",
+"e": "Modelos multimodais que processam o áudio diretamente podem dificultar a auditoria quando não geram transcrição intermediária, o que é relevante para registros oficiais.",
+"velho": "Auditoria.",
+"aula": [
+"Modelos multimodais com entrada de áudio (por exemplo, GPT-4o e Gemini) processam fala diretamente, sem etapa explícita de transcrição.",
+"Para registros oficiais, a literalidade e a auditabilidade favorecem manter uma transcrição intermediária e a revisão humana, mesmo quando modelos nativos de áudio são usados para tarefas auxiliares, como busca e resumo."
+]
+},
+{
+"id": "Q-FIA-0338",
+"g": "E",
+"e": "Modelos multimodais que processam o áudio diretamente asseguram melhor auditoria que a cascata ASR + LLM, porque dispensam registro intermediário. Trata-se de prática corrente.",
+"velho": "Auditoria.",
+"aula": [
+"Modelos multimodais com entrada de áudio (por exemplo, GPT-4o e Gemini) processam fala diretamente, sem etapa explícita de transcrição.",
+"Para registros oficiais, a literalidade e a auditabilidade favorecem manter uma transcrição intermediária e a revisão humana, mesmo quando modelos nativos de áudio são usados para tarefas auxiliares, como busca e resumo."
+]
+},
+{
+"id": "Q-FIA-0339",
+"g": "C",
+"e": "A janela de contexto limita a quantidade de tokens, inclusive de áudio, que o modelo processa em uma chamada, e a entrada de áudio costuma elevar o custo por minuto processado.",
+"velho": "Contexto e tokens de áudio.",
+"aula": [
+"Tokens de áudio: o áudio pode ser convertido em tokens discretos por codecs neurais, tratados como vocabulário do modelo.",
+"Latência e custo: a entrada de áudio ocupa muitos tokens e eleva o custo por minuto processado; o tamanho da janela de contexto limita a duração do áudio por chamada."
+]
+},
+{
+"id": "Q-FIA-0340",
+"g": "E",
+"e": "A janela de contexto não limita a duração do áudio processado por chamada, pois o áudio não é convertido em tokens. Essa seria a posição predominante na literatura técnica da área.",
+"velho": "Contexto e tokens de áudio.",
+"aula": [
+"Tokens de áudio: o áudio pode ser convertido em tokens discretos por codecs neurais, tratados como vocabulário do modelo.",
+"Latência e custo: a entrada de áudio ocupa muitos tokens e eleva o custo por minuto processado; o tamanho da janela de contexto limita a duração do áudio por chamada."
+]
+},
+{
+"id": "Q-FIA-0341",
+"g": "C",
+"e": "Um órgão que precisa de registro oficial literal de uma audiência adota fluxo de ASR com texto intermediário revisado por humano e, só depois, usa LLM para resumo e consulta. A escolha favorece a auditabilidade.",
+"velho": "Cascata e auditabilidade.",
+"aula": [
+"Em cascata, o LLM recebe o texto do ASR; a etapa intermediária pode ser auditada e corrigida por humano.",
+"Para registros oficiais, a literalidade e a auditabilidade favorecem manter uma transcrição intermediária e a revisão humana, mesmo quando modelos nativos de áudio são usados para tarefas auxiliares, como busca e resumo."
+]
+},
+{
+"id": "Q-FIA-0342",
+"g": "E",
+"e": "Um órgão que precisa de registro oficial literal de uma audiência adota modelo multimodal que recebe o áudio e entrega o resumo, sem texto intermediário. A escolha favorece a auditabilidade. Trata-se de prática corrente.",
+"velho": "Cascata e auditabilidade.",
+"aula": [
+"Em cascata, o LLM recebe o texto do ASR; a etapa intermediária pode ser auditada e corrigida por humano.",
+"Para registros oficiais, a literalidade e a auditabilidade favorecem manter uma transcrição intermediária e a revisão humana, mesmo quando modelos nativos de áudio são usados para tarefas auxiliares, como busca e resumo."
+]
+},
+{
+"id": "Q-FIA-0343",
+"g": "C",
+"e": "Na cascata, erros de reconhecimento do ASR propagam-se para as etapas seguintes, e informações paralinguísticas, como entonação e emoção, tendem a ser perdidas.",
+"velho": "Cascata.",
+"aula": [
+"Em cascata, o LLM recebe o texto do ASR; a etapa intermediária pode ser auditada e corrigida por humano."
+]
+},
+{
+"id": "Q-FIA-0344",
+"g": "E",
+"e": "Na cascata, erros de reconhecimento do ASR são corrigidos automaticamente pelo LLM, e informações paralinguísticas são integralmente preservadas. Isso é consenso na área.",
+"velho": "Cascata.",
+"aula": [
+"Em cascata, o LLM recebe o texto do ASR; a etapa intermediária pode ser auditada e corrigida por humano."
+]
+},
+{
+"id": "Q-FIA-0345",
+"g": "C",
+"e": "A taxa de erro de diarização (DER) soma fala perdida, falsa detecção de fala e confusão de falante, e divide o resultado pela duração total da fala de referência.",
+"velho": "DER.",
+"aula": [
+"A taxa de erro de diarização (DER) soma três componentes: falsa detecção de fala (false alarm), fala perdida (missed speech) e confusão de falante, dividida pela duração total da fala de referência.",
+"Trechos com sobreposição de vozes (overlap) são a principal fonte de erro de sistemas por agrupamento, que atribuem cada instante a um único falante."
+]
+},
+{
+"id": "Q-FIA-0346",
+"g": "E",
+"e": "A taxa de erro de diarização (DER) soma apenas a confusão de falante e divide o resultado pelo número de falantes distintos da referência. Trata-se de prática corrente.",
+"velho": "DER.",
+"aula": [
+"A taxa de erro de diarização (DER) soma três componentes: falsa detecção de fala (false alarm), fala perdida (missed speech) e confusão de falante, dividida pela duração total da fala de referência.",
+"Diarização não é identificação nem verificação de falante: identificação compara a voz com um conjunto de falantes cadastrados para dizer quem é; verificação confirma se a voz pertence à identidade alegada; a diarização agrupa trechos por falante sem saber quem são."
+]
+},
+{
+"id": "Q-FIA-0347",
+"g": "C",
+"e": "Diarização não equivale a identificação de falante: a primeira agrupa trechos por falante sem saber quem são, e a segunda compara a voz com falantes cadastrados.",
+"velho": "Diarização × identificação.",
+"aula": [
+"A taxa de erro de diarização (DER) soma três componentes: falsa detecção de fala (false alarm), fala perdida (missed speech) e confusão de falante, dividida pela duração total da fala de referência.",
+"Diarização não é identificação nem verificação de falante: identificação compara a voz com um conjunto de falantes cadastrados para dizer quem é; verificação confirma se a voz pertence à identidade alegada; a diarização agrupa trechos por falante sem saber quem são."
+]
+},
+{
+"id": "Q-FIA-0348",
+"g": "E",
+"e": "Diarização equivale a identificação de falante, pois ambas dispensam qualquer cadastro prévio e informam o nome do orador. Isso é consenso na área.",
+"velho": "Diarização × identificação.",
+"aula": [
+"A taxa de erro de diarização (DER) soma três componentes: falsa detecção de fala (false alarm), fala perdida (missed speech) e confusão de falante, dividida pela duração total da fala de referência.",
+"Diarização não é identificação nem verificação de falante: identificação compara a voz com um conjunto de falantes cadastrados para dizer quem é; verificação confirma se a voz pertence à identidade alegada; a diarização agrupa trechos por falante sem saber quem são."
+]
+},
+{
+"id": "Q-FIA-0349",
+"g": "C",
+"e": "A sobreposição de vozes é fonte importante de erro em sistemas de diarização por agrupamento, que atribuem cada instante a um único falante, ao passo que modelos neurais end-to-end podem tratar mais de um falante ativo no mesmo quadro.",
+"velho": "Overlap.",
+"aula": [
+"Trechos com sobreposição de vozes (overlap) são a principal fonte de erro de sistemas por agrupamento, que atribuem cada instante a um único falante.",
+"Modelos neurais end-to-end (EEND) tratam a sobreposição, ao permitir vários falantes ativos no mesmo quadro."
+]
+},
+{
+"id": "Q-FIA-0350",
+"g": "E",
+"e": "A sobreposição de vozes não afeta sistemas de diarização por agrupamento, que atribuem vários falantes a cada instante. Tal conclusão decorreria, segundo esse entendimento, das características da tecnologia descrita.",
+"velho": "Overlap.",
+"aula": [
+"Trechos com sobreposição de vozes (overlap) são a principal fonte de erro de sistemas por agrupamento, que atribuem cada instante a um único falante.",
+"Modelos neurais end-to-end (EEND) tratam a sobreposição, ao permitir vários falantes ativos no mesmo quadro."
+]
+},
+{
+"id": "Q-FIA-0351",
+"g": "C",
+"e": "X-vectors são embeddings de falante extraídos de redes treinadas para classificar falantes, e são usados no agrupamento dos trechos de fala.",
+"velho": "x-vectors.",
+"aula": [
+"Trechos com sobreposição de vozes (overlap) são a principal fonte de erro de sistemas por agrupamento, que atribuem cada instante a um único falante.",
+"Embeddings de falante: i-vectors, d-vectors e x-vectors (Snyder et al., redes TDNN treinadas para classificar falantes)."
+]
+},
+{
+"id": "Q-FIA-0352",
+"g": "E",
+"e": "X-vectors são os rótulos de pontuação emitidos pelo modelo de linguagem, e são usados na normalização inversa de texto. Isso é consenso na área.",
+"velho": "x-vectors.",
+"aula": [
+"A taxa de erro de diarização (DER) soma três componentes: falsa detecção de fala (false alarm), fala perdida (missed speech) e confusão de falante, dividida pela duração total da fala de referência."
+]
+},
+{
+"id": "Q-FIA-0353",
+"g": "C",
+"e": "Numa audiência, o sistema rotula os trechos como Falante 1, Falante 2 e Falante 3. Para associar esses rótulos aos nomes dos parlamentares, é preciso informação externa, como a lista de oradores ou o canal de cada microfone.",
+"velho": "Rótulos de diarização.",
+"aula": [
+"Trechos com sobreposição de vozes (overlap) são a principal fonte de erro de sistemas por agrupamento, que atribuem cada instante a um único falante.",
+"Em plenário, associar os rótulos genéricos a nomes exige informação externa, como lista de oradores ou canal de microfone."
+]
+}
+]

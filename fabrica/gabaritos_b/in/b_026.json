@@ -1,0 +1,696 @@
+[
+{
+"id": "Q-LIN-0500",
+"g": "E",
+"e": "No ofício circular, um órgão envia o mesmo expediente a mais de um órgão receptor, e a epígrafe traz as siglas de todos os órgãos receptores.",
+"velho": "Manual, item 6.1.",
+"aula": [
+"Variações: circular (mesmo expediente a mais de um órgão receptor; sigla do remetente na epígrafe), conjunto (mais de um órgão remetente a um receptor) e conjunto circular.",
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…"
+]
+},
+{
+"id": "Q-LIN-0501",
+"g": "C",
+"e": "No ofício conjunto, mais de um órgão envia, em conjunto, o mesmo expediente a um único órgão receptor, e as siglas dos órgãos remetentes constam da epígrafe.",
+"velho": "Manual, item 6.1.",
+"aula": [
+"Variações: circular (mesmo expediente a mais de um órgão receptor; sigla do remetente na epígrafe), conjunto (mais de um órgão remetente a um receptor) e conjunto circular.",
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…"
+]
+},
+{
+"id": "Q-LIN-0502",
+"g": "E",
+"e": "No ofício conjunto, um único órgão envia o mesmo expediente a mais de um órgão receptor, e as siglas dos órgãos receptores constam da epígrafe. Isso é consenso na área.",
+"velho": "Manual, item 6.1.",
+"aula": [
+"Variações: circular (mesmo expediente a mais de um órgão receptor; sigla do remetente na epígrafe), conjunto (mais de um órgão remetente a um receptor) e conjunto circular.",
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…"
+]
+},
+{
+"id": "Q-LIN-0503",
+"g": "C",
+"e": "A identificação do expediente traz o nome do documento por extenso e em maiúsculas, a abreviatura 'Nº', o número, o ano com quatro dígitos e as siglas do setor da menor para a maior hierarquia, separados por barra, alinhada à margem esquerda.",
+"velho": "Manual, item 5.1.2.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Papel A4; margem esquerda no mínimo 3 cm, direita 1,5 cm, superior e inferior 2 cm; texto em preto sobre papel branco; destaque com negrito, sem abuso, evitando itálico, sublinhado, maiúsculas, sombreado etc.; palavras estrangeiras em itálico."
+]
+},
+{
+"id": "Q-LIN-0504",
+"g": "E",
+"e": "A identificação do expediente traz o nome do documento por extenso e em maiúsculas, a abreviatura 'Nº', o número, o ano com dois dígitos e as siglas do setor da maior para a menor hierarquia, separados por hífen, alinhada à margem direita.",
+"velho": "Manual, item 5.1.2.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Papel A4; margem esquerda no mínimo 3 cm, direita 1,5 cm, superior e inferior 2 cm; texto em preto sobre papel branco; destaque com negrito, sem abuso, evitando itálico, sublinhado, maiúsculas, sombreado etc.; palavras estrangeiras em itálico."
+]
+},
+{
+"id": "Q-LIN-0505",
+"g": "C",
+"e": "Um ofício expedido em Brasília no primeiro dia de outubro de 2026 traz a data 'Brasília, 1º de outubro de 2026.', alinhada à margem direita.",
+"velho": "Manual, item 5.1.3.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Papel A4; margem esquerda no mínimo 3 cm, direita 1,5 cm, superior e inferior 2 cm; texto em preto sobre papel branco; destaque com negrito, sem abuso, evitando itálico, sublinhado, maiúsculas, sombreado etc.; palavras estrangeiras em itálico."
+]
+},
+{
+"id": "Q-LIN-0506",
+"g": "E",
+"e": "Um ofício expedido em Brasília no primeiro dia de outubro de 2026 traz a data 'Brasília/DF, 01 de Outubro de 2026', alinhada à margem esquerda.",
+"velho": "Manual, item 5.1.3.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Papel A4; margem esquerda no mínimo 3 cm, direita 1,5 cm, superior e inferior 2 cm; texto em preto sobre papel branco; destaque com negrito, sem abuso, evitando itálico, sublinhado, maiúsculas, sombreado etc.; palavras estrangeiras em itálico."
+]
+},
+{
+"id": "Q-LIN-0507",
+"g": "C",
+"e": "Na grafia da data do ofício, o dia do mês é em numeração ordinal só para o primeiro dia e cardinal para os demais, sem zero à esquerda; o nome do mês é escrito com inicial minúscula; e coloca-se ponto-final depois da data.",
+"velho": "Manual, item 5.1.3.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Assunto: palavra 'Assunto' seguida de dois-pontos, frase com inicial maiúscula, sem verbos (sugere-se quatro a cinco palavras), tudo em negrito, ponto final ao fim, alinhado à esquerda."
+]
+},
+{
+"id": "Q-LIN-0508",
+"g": "E",
+"e": "Na grafia da data do ofício, o dia do mês é em numeração ordinal para os nove primeiros dias e cardinal para os demais, com zero à esquerda; o nome do mês é escrito com inicial maiúscula; e não se coloca ponto-final depois da data.",
+"velho": "Manual, item 5.1.3.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Assunto: palavra 'Assunto' seguida de dois-pontos, frase com inicial maiúscula, sem verbos (sugere-se quatro a cinco palavras), tudo em negrito, ponto final ao fim, alinhado à esquerda."
+]
+},
+{
+"id": "Q-LIN-0509",
+"g": "C",
+"e": "O assunto do ofício é precedido da palavra 'Assunto' e de dois-pontos, descrito em frase com inicial maiúscula e sem verbos (sugerindo-se quatro a cinco palavras), destacado em negrito e encerrado com ponto-final.",
+"velho": "Manual, item 5.1.5.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Assunto: palavra 'Assunto' seguida de dois-pontos, frase com inicial maiúscula, sem verbos (sugere-se quatro a cinco palavras), tudo em negrito, ponto final ao fim, alinhado à esquerda."
+]
+},
+{
+"id": "Q-LIN-0510",
+"g": "E",
+"e": "O assunto do ofício é precedido da palavra 'ASSUNTO' e de travessão, descrito em frase com verbo no infinitivo e inicial minúscula, sem negrito e sem ponto-final. Isso é consenso na área.",
+"velho": "Manual, item 5.1.5.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Assunto: palavra 'Assunto' seguida de dois-pontos, frase com inicial maiúscula, sem verbos (sugere-se quatro a cinco palavras), tudo em negrito, ponto final ao fim, alinhado à esquerda."
+]
+},
+{
+"id": "Q-LIN-0511",
+"g": "C",
+"e": "Na introdução do texto do ofício, o Manual recomenda evitar 'Tenho a honra de', 'Tenho o prazer de' e 'Cumpre-me informar que', preferindo a forma direta, como 'Informo', 'Solicito' e 'Comunico'.",
+"velho": "Manual, item 5.1.6.",
+"aula": [
+"Até a 2ª edição havia três expedientes diferenciados mais pela finalidade que pela forma: aviso (exclusivo de Ministros de Estado, para autoridades de mesma hierarquia), ofício (para e pelas demais autoridades) e memorando (entre unidades de um mesmo órgão).",
+"Texto sem encaminhamento: introdução (objetivo da comunicação; evitar 'Tenho a honra de', 'Tenho o prazer de', 'Cumpre-me informar que'; preferir 'Informo', 'Solicito', 'Comunico'), desenvolvimento (ideias distintas em parágrafos distintos) e conclusão (posição sobre o assunto)."
+]
+},
+{
+"id": "Q-LIN-0512",
+"g": "E",
+"e": "Na introdução do texto do ofício, o Manual recomenda empregar 'Tenho a honra de', 'Tenho o prazer de' e 'Cumpre-me informar que', como fórmulas de cortesia que preservam a formalidade e evitam a forma direta.",
+"velho": "Manual, item 5.1.6.",
+"aula": [
+"Até a 2ª edição havia três expedientes diferenciados mais pela finalidade que pela forma: aviso (exclusivo de Ministros de Estado, para autoridades de mesma hierarquia), ofício (para e pelas demais autoridades) e memorando (entre unidades de um mesmo órgão).",
+"Texto sem encaminhamento: introdução (objetivo da comunicação; evitar 'Tenho a honra de', 'Tenho o prazer de', 'Cumpre-me informar que'; preferir 'Informo', 'Solicito', 'Comunico'), desenvolvimento (ideias distintas em parágrafos distintos) e conclusão (posição sobre o assunto)."
+]
+},
+{
+"id": "Q-LIN-0513",
+"g": "C",
+"e": "Quando o ofício serve para encaminhar documentos, a introdução inicia com referência ao expediente que solicitou o encaminhamento ou, se a remessa não foi solicitada, com a informação do motivo da comunicação, e só há parágrafos de desenvolvimento se o autor quiser comentar o documento.",
+"velho": "Manual, item 5.1.6.",
+"aula": [
+"Texto sem encaminhamento: introdução (objetivo da comunicação; evitar 'Tenho a honra de', 'Tenho o prazer de', 'Cumpre-me informar que'; preferir 'Informo', 'Solicito', 'Comunico'), desenvolvimento (ideias distintas em parágrafos distintos) e conclusão (posição sobre o assunto).",
+"Texto de encaminhamento de documentos: introdução inicia com referência ao expediente que solicitou a remessa (ou, se não solicitada, informa o motivo: encaminhar), indicando tipo, data, origem ou signatário e assunto do documento; só há desenvolvimento se o autor quiser comentar."
+]
+},
+{
+"id": "Q-LIN-0514",
+"g": "E",
+"e": "Quando o ofício serve para encaminhar documentos, a estrutura é a mesma dos demais ofícios, com introdução, desenvolvimento e conclusão obrigatórios, e a referência ao expediente que solicitou o encaminhamento consta da conclusão. Isso é consenso na área.",
+"velho": "Manual, item 5.1.6.",
+"aula": [
+"Texto sem encaminhamento: introdução (objetivo da comunicação; evitar 'Tenho a honra de', 'Tenho o prazer de', 'Cumpre-me informar que'; preferir 'Informo', 'Solicito', 'Comunico'), desenvolvimento (ideias distintas em parágrafos distintos) e conclusão (posição sobre o assunto).",
+"Texto de encaminhamento de documentos: introdução inicia com referência ao expediente que solicitou a remessa (ou, se não solicitada, informa o motivo: encaminhar), indicando tipo, data, origem ou signatário e assunto do documento; só há desenvolvimento se o autor quiser comentar."
+]
+},
+{
+"id": "Q-LIN-0515",
+"g": "C",
+"e": "No padrão ofício, os parágrafos são numerados apenas quando o documento tiver três ou mais parágrafos, desde o primeiro, e não se numeram o vocativo e o fecho.",
+"velho": "Manual, item 5.1.6.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Formatação do texto: justificado, entrelinhas simples, 6 pontos após cada parágrafo, recuo de 2,5 cm, fonte Calibri ou Carlito (corpo 12; citações recuadas 11; notas de rodapé 10); parágrafos numerados apenas quando o documento tiver três ou mais parágrafos, desde o primeiro; não se numeram vocativo e fecho."
+]
+},
+{
+"id": "Q-LIN-0516",
+"g": "E",
+"e": "No padrão ofício, os parágrafos são numerados quando o documento tiver mais de um parágrafo, a partir do segundo, e se numeram também o vocativo e o fecho.",
+"velho": "Manual, item 5.1.6.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Formatação do texto: justificado, entrelinhas simples, 6 pontos após cada parágrafo, recuo de 2,5 cm, fonte Calibri ou Carlito (corpo 12; citações recuadas 11; notas de rodapé 10); parágrafos numerados apenas quando o documento tiver três ou mais parágrafos, desde o primeiro; não se numeram vocativo e fecho."
+]
+},
+{
+"id": "Q-LIN-0517",
+"g": "C",
+"e": "O texto do ofício é justificado, com entrelinhas simples, recuo de parágrafo de 2,5 cm, espaçamento de 6 pontos após cada parágrafo e fonte Calibri ou Carlito em corpo 12.",
+"velho": "Manual, item 5.1.6.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Formatação do texto: justificado, entrelinhas simples, 6 pontos após cada parágrafo, recuo de 2,5 cm, fonte Calibri ou Carlito (corpo 12; citações recuadas 11; notas de rodapé 10); parágrafos numerados apenas quando o documento tiver três ou mais parágrafos, desde o primeiro; não se numeram vocativo e fecho."
+]
+},
+{
+"id": "Q-LIN-0518",
+"g": "E",
+"e": "O texto do ofício é alinhado à esquerda, com entrelinhas de 1,5, recuo de parágrafo de 1,25 cm, espaçamento de 12 pontos após cada parágrafo e fonte Times New Roman em corpo 14.",
+"velho": "Manual, item 5.1.6.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Formatação do texto: justificado, entrelinhas simples, 6 pontos após cada parágrafo, recuo de 2,5 cm, fonte Calibri ou Carlito (corpo 12; citações recuadas 11; notas de rodapé 10); parágrafos numerados apenas quando o documento tiver três ou mais parágrafos, desde o primeiro; não se numeram vocativo e fecho."
+]
+},
+{
+"id": "Q-LIN-0519",
+"g": "C",
+"e": "Os documentos do padrão ofício usam papel A4, margem lateral esquerda de no mínimo 3 cm, margem direita de 1,5 cm e margens superior e inferior de 2 cm.",
+"velho": "Manual, item 5.2.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Papel A4; margem esquerda no mínimo 3 cm, direita 1,5 cm, superior e inferior 2 cm; texto em preto sobre papel branco; destaque com negrito, sem abuso, evitando itálico, sublinhado, maiúsculas, sombreado etc.; palavras estrangeiras em itálico."
+]
+},
+{
+"id": "Q-LIN-0520",
+"g": "E",
+"e": "Os documentos do padrão ofício usam papel A4, margem lateral esquerda de 1,5 cm, margem direita de no mínimo 3 cm e margens superior e inferior de 3 cm.",
+"velho": "Manual, item 5.2.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Papel A4; margem esquerda no mínimo 3 cm, direita 1,5 cm, superior e inferior 2 cm; texto em preto sobre papel branco; destaque com negrito, sem abuso, evitando itálico, sublinhado, maiúsculas, sombreado etc.; palavras estrangeiras em itálico."
+]
+},
+{
+"id": "Q-LIN-0521",
+"g": "C",
+"e": "Para destaques, o Manual manda utilizar o negrito, sem abuso, e evitar itálico, sublinhado, maiúsculas, sombreado e outras formatações que afetem a sobriedade e a padronização, reservando o itálico às palavras estrangeiras.",
+"velho": "Manual, item 5.2.",
+"aula": [
+"Assunto: palavra 'Assunto' seguida de dois-pontos, frase com inicial maiúscula, sem verbos (sugere-se quatro a cinco palavras), tudo em negrito, ponto final ao fim, alinhado à esquerda.",
+"Papel A4; margem esquerda no mínimo 3 cm, direita 1,5 cm, superior e inferior 2 cm; texto em preto sobre papel branco; destaque com negrito, sem abuso, evitando itálico, sublinhado, maiúsculas, sombreado etc.; palavras estrangeiras em itálico."
+]
+},
+{
+"id": "Q-LIN-0522",
+"g": "E",
+"e": "Para destaques, o Manual manda utilizar o sublinhado e o itálico, sem abuso, e evitar o negrito, por afetar a sobriedade do documento, reservando o itálico a todas as palavras estrangeiras. Isso é consenso na área.",
+"velho": "Manual, item 5.2.",
+"aula": [
+"Assunto: palavra 'Assunto' seguida de dois-pontos, frase com inicial maiúscula, sem verbos (sugere-se quatro a cinco palavras), tudo em negrito, ponto final ao fim, alinhado à esquerda.",
+"Papel A4; margem esquerda no mínimo 3 cm, direita 1,5 cm, superior e inferior 2 cm; texto em preto sobre papel branco; destaque com negrito, sem abuso, evitando itálico, sublinhado, maiúsculas, sombreado etc.; palavras estrangeiras em itálico."
+]
+},
+{
+"id": "Q-LIN-0523",
+"g": "C",
+"e": "O Manual estabelece apenas dois fechos para todas as comunicações oficiais: 'Respeitosamente,' para autoridades de hierarquia superior à do remetente, inclusive o Presidente da República, e 'Atenciosamente,' para autoridades de mesma hierarquia, de hierarquia inferior ou nos demais casos.",
+"velho": "Manual, item 5.1.7.",
+"aula": [
+"Até a 2ª edição havia três expedientes diferenciados mais pela finalidade que pela forma: aviso (exclusivo de Ministros de Estado, para autoridades de mesma hierarquia), ofício (para e pelas demais autoridades) e memorando (entre unidades de um mesmo órgão).",
+"Fechos: apenas dois para todas as comunicações. 'Respeitosamente,' para autoridades de hierarquia superior à do remetente, inclusive o Presidente da República; 'Atenciosamente,' para autoridades de mesma hierarquia, de hierarquia inferior ou demais casos."
+]
+},
+{
+"id": "Q-LIN-0524",
+"g": "E",
+"e": "O Manual estabelece apenas dois fechos para todas as comunicações oficiais: 'Atenciosamente,' para autoridades de hierarquia superior à do remetente, inclusive o Presidente da República, e 'Respeitosamente,' para autoridades de mesma hierarquia, de hierarquia inferior ou nos demais casos.",
+"velho": "Manual, item 5.1.7.",
+"aula": [
+"Até a 2ª edição havia três expedientes diferenciados mais pela finalidade que pela forma: aviso (exclusivo de Ministros de Estado, para autoridades de mesma hierarquia), ofício (para e pelas demais autoridades) e memorando (entre unidades de um mesmo órgão).",
+"Fechos: apenas dois para todas as comunicações. 'Respeitosamente,' para autoridades de hierarquia superior à do remetente, inclusive o Presidente da República; 'Atenciosamente,' para autoridades de mesma hierarquia, de hierarquia inferior ou demais casos."
+]
+},
+{
+"id": "Q-LIN-0525",
+"g": "C",
+"e": "Um coordenador-geral que envia ofício ao Presidente da República encerra o texto com 'Respeitosamente,', pois esse fecho se aplica às autoridades de hierarquia superior, inclusive ao Presidente.",
+"velho": "Manual, item 5.1.7.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Fechos: apenas dois para todas as comunicações. 'Respeitosamente,' para autoridades de hierarquia superior à do remetente, inclusive o Presidente da República; 'Atenciosamente,' para autoridades de mesma hierarquia, de hierarquia inferior ou demais casos."
+]
+},
+{
+"id": "Q-LIN-0526",
+"g": "E",
+"e": "Um coordenador-geral que envia ofício ao Presidente da República encerra o texto com 'Atenciosamente,', pois o Presidente da República é excluído do fecho destinado às autoridades de hierarquia superior.",
+"velho": "Manual, item 5.1.7.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Fechos: apenas dois para todas as comunicações. 'Respeitosamente,' para autoridades de hierarquia superior à do remetente, inclusive o Presidente da República; 'Atenciosamente,' para autoridades de mesma hierarquia, de hierarquia inferior ou demais casos."
+]
+},
+{
+"id": "Q-LIN-0527",
+"g": "C",
+"e": "Ficam excluídas dos dois fechos padronizados as comunicações dirigidas a autoridades estrangeiras, que atendem a rito e tradição próprios.",
+"velho": "Manual, item 5.1.7.",
+"aula": [
+"Fechos: apenas dois para todas as comunicações. 'Respeitosamente,' para autoridades de hierarquia superior à do remetente, inclusive o Presidente da República; 'Atenciosamente,' para autoridades de mesma hierarquia, de hierarquia inferior ou demais casos.",
+"Excluídas as comunicações a autoridades estrangeiras, que atendem a rito próprio."
+]
+},
+{
+"id": "Q-LIN-0528",
+"g": "E",
+"e": "Os dois fechos padronizados aplicam-se também às comunicações dirigidas a autoridades estrangeiras, em respeito à uniformidade das comunicações oficiais.",
+"velho": "Manual, item 5.1.7.",
+"aula": [
+"Fechos: apenas dois para todas as comunicações. 'Respeitosamente,' para autoridades de hierarquia superior à do remetente, inclusive o Presidente da República; 'Atenciosamente,' para autoridades de mesma hierarquia, de hierarquia inferior ou demais casos.",
+"Excluídas as comunicações a autoridades estrangeiras, que atendem a rito próprio."
+]
+},
+{
+"id": "Q-LIN-0529",
+"g": "C",
+"e": "O fecho da comunicação é alinhado à margem esquerda, com recuo de 2,5 cm, e não é numerado.",
+"velho": "Manual, item 5.1.7.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Fecho alinhado à esquerda, recuo de 2,5 cm, não numerado."
+]
+},
+{
+"id": "Q-LIN-0530",
+"g": "E",
+"e": "O fecho da comunicação é centralizado, sem recuo, e é numerado em sequência aos parágrafos do texto.",
+"velho": "Manual, item 5.1.7.",
+"aula": [
+"Texto sem encaminhamento: introdução (objetivo da comunicação; evitar 'Tenho a honra de', 'Tenho o prazer de', 'Cumpre-me informar que'; preferir 'Informo', 'Solicito', 'Comunico'), desenvolvimento (ideias distintas em parágrafos distintos) e conclusão (posição sobre o assunto).",
+"Formatação do texto: justificado, entrelinhas simples, 6 pontos após cada parágrafo, recuo de 2,5 cm, fonte Calibri ou Carlito (corpo 12; citações recuadas 11; notas de rodapé 10); parágrafos numerados apenas quando o documento tiver três ou mais parágrafos, desde o primeiro; não se numeram vocativo e fecho."
+]
+},
+{
+"id": "Q-LIN-0531",
+"g": "C",
+"e": "Na identificação do signatário, o nome é grafado em letras maiúsculas, sem negrito e sem linha acima, o cargo traz apenas iniciais maiúsculas, e o bloco é centralizado na página; o Presidente da República, porém, não identifica o signatário.",
+"velho": "Manual, item 5.1.8.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Identificação do signatário (exceto o Presidente da República): nome em maiúsculas, sem negrito e sem linha acima; cargo só com iniciais maiúsculas (preposições minúsculas); centralizada; recomenda-se não deixar a assinatura em página isolada."
+]
+},
+{
+"id": "Q-LIN-0532",
+"g": "E",
+"e": "Na identificação do signatário, o nome é grafado em negrito e com linha acima, o cargo é grafado em maiúsculas, e o bloco é alinhado à direita; o Presidente da República identifica o signatário como as demais autoridades. Trata-se de prática corrente.",
+"velho": "Manual, item 5.1.8.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Identificação do signatário (exceto o Presidente da República): nome em maiúsculas, sem negrito e sem linha acima; cargo só com iniciais maiúsculas (preposições minúsculas); centralizada; recomenda-se não deixar a assinatura em página isolada."
+]
+},
+{
+"id": "Q-LIN-0533",
+"g": "C",
+"e": "A numeração das páginas do ofício é obrigatória apenas a partir da segunda página, é centralizada e fica no rodapé.",
+"velho": "Manual, item 5.1.9.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Identificação do signatário (exceto o Presidente da República): nome em maiúsculas, sem negrito e sem linha acima; cargo só com iniciais maiúsculas (preposições minúsculas); centralizada; recomenda-se não deixar a assinatura em página isolada."
+]
+},
+{
+"id": "Q-LIN-0534",
+"g": "E",
+"e": "A numeração das páginas do ofício é obrigatória desde a primeira página, é alinhada à direita e fica no cabeçalho.",
+"velho": "Manual, item 5.1.9.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…"
+]
+},
+{
+"id": "Q-LIN-0535",
+"g": "C",
+"e": "O cabeçalho do ofício é utilizado apenas na primeira página e traz o brasão de Armas da República no topo; o uso de marca da instituição deve ser evitado para não se sobrepor ao Brasão.",
+"velho": "Manual, item 5.1.1.",
+"aula": [
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…",
+"Identificação do signatário (exceto o Presidente da República): nome em maiúsculas, sem negrito e sem linha acima; cargo só com iniciais maiúsculas (preposições minúsculas); centralizada; recomenda-se não deixar a assinatura em página isolada."
+]
+},
+{
+"id": "Q-LIN-0536",
+"g": "E",
+"e": "O cabeçalho do ofício repete-se em todas as páginas e traz a marca da instituição no topo, em lugar do brasão de Armas da República, para valorizar a identidade do órgão. Trata-se de prática corrente.",
+"velho": "Manual, item 5.1.1.",
+"aula": [
+"Até a 2ª edição havia três expedientes diferenciados mais pela finalidade que pela forma: aviso (exclusivo de Ministros de Estado, para autoridades de mesma hierarquia), ofício (para e pelas demais autoridades) e memorando (entre unidades de um mesmo órgão).",
+"Partes: cabeçalho (apenas na primeira página; brasão de Armas da República no topo, nome do órgão principal e dos secundários da maior para a menor hierarquia); identificação do expediente (nome do documento por extenso em maiúsculas, 'Nº', número/ano com quatro dígitos/siglas do setor da menor para a maior hierarquia, separados por barra, à esquerda: OFÍCIO…"
+]
+},
+{
+"id": "Q-LIN-0537",
+"g": "C",
+"e": "A exposição de motivos é o expediente dirigido ao Presidente ou ao Vice-Presidente da República para propor alguma medida, submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto.",
+"velho": "Manual, item 6.2.1.",
+"aula": [
+"Exposição de motivos (EM): expediente dirigido ao Presidente ou ao Vice-Presidente da República para propor alguma medida, submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto.",
+"Estrutura: introdução (problema que demanda a medida, ou assunto informado), desenvolvimento (razão de a medida ser a ideal e alternativas existentes) e conclusão (propor a medida ou ato)."
+]
+},
+{
+"id": "Q-LIN-0538",
+"g": "E",
+"e": "A exposição de motivos é o expediente dirigido pelo Presidente da República ao Congresso Nacional para propor alguma medida, submeter projeto de ato normativo ou informar sobre determinado assunto. Isso é consenso na área.",
+"velho": "Manual, item 6.2.1.",
+"aula": [
+"Exposição de motivos (EM): expediente dirigido ao Presidente ou ao Vice-Presidente da República para propor alguma medida, submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto.",
+"Estrutura: introdução (problema que demanda a medida, ou assunto informado), desenvolvimento (razão de a medida ser a ideal e alternativas existentes) e conclusão (propor a medida ou ato)."
+]
+},
+{
+"id": "Q-LIN-0539",
+"g": "C",
+"e": "A exposição de motivos é dirigida ao Presidente da República por um Ministro de Estado e, se o assunto envolver mais de um ministério, é assinada por todos os ministros envolvidos, sendo chamada de interministerial.",
+"velho": "Manual, item 6.2.1.",
+"aula": [
+"Exposição de motivos (EM): expediente dirigido ao Presidente ou ao Vice-Presidente da República para propor alguma medida, submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto.",
+"É dirigida ao Presidente por um Ministro de Estado; se o assunto envolver mais de um ministério, é assinada por todos os ministros envolvidos (interministerial)."
+]
+},
+{
+"id": "Q-LIN-0540",
+"g": "E",
+"e": "A exposição de motivos é dirigida ao Presidente da República por qualquer autoridade do Executivo e, se o assunto envolver mais de um ministério, é assinada pelo Ministro da Casa Civil, sendo chamada de interministerial.",
+"velho": "Manual, item 6.2.1.",
+"aula": [
+"Exposição de motivos (EM): expediente dirigido ao Presidente ou ao Vice-Presidente da República para propor alguma medida, submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto.",
+"É dirigida ao Presidente por um Ministro de Estado; se o assunto envolver mais de um ministério, é assinada por todos os ministros envolvidos (interministerial)."
+]
+},
+{
+"id": "Q-LIN-0541",
+"g": "C",
+"e": "A sequência numérica das exposições de motivos é única, seja a EM de um só autor ou interministerial, e a numeração começa e termina dentro de um mesmo ano civil.",
+"velho": "Manual, item 6.2.1.",
+"aula": [
+"A sequência numérica é única (EM comum e interministerial), começando e terminando dentro de um mesmo ano civil."
+]
+},
+{
+"id": "Q-LIN-0542",
+"g": "E",
+"e": "A sequência numérica das exposições de motivos interministeriais é própria, separada da das EM de um só autor, e a numeração é contínua, atravessando os anos.",
+"velho": "Manual, item 6.2.1.",
+"aula": [
+"A sequência numérica é única (EM comum e interministerial), começando e terminando dentro de um mesmo ano civil."
+]
+},
+{
+"id": "Q-LIN-0543",
+"g": "C",
+"e": "Na exposição de motivos, a introdução aponta o problema que demanda a medida ou o ato normativo proposto, o desenvolvimento indica a razão de a medida ser a ideal e as alternativas existentes, e a conclusão propõe novamente a medida a ser tomada.",
+"velho": "Manual, item 6.2.2.",
+"aula": [
+"Exposição de motivos (EM): expediente dirigido ao Presidente ou ao Vice-Presidente da República para propor alguma medida, submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto.",
+"Estrutura: introdução (problema que demanda a medida, ou assunto informado), desenvolvimento (razão de a medida ser a ideal e alternativas existentes) e conclusão (propor a medida ou ato)."
+]
+},
+{
+"id": "Q-LIN-0544",
+"g": "E",
+"e": "Na exposição de motivos, a introdução propõe a medida ou o ato normativo, o desenvolvimento aponta o problema que a demanda, e a conclusão indica as alternativas existentes para equacioná-lo. Trata-se de prática corrente.",
+"velho": "Manual, item 6.2.2.",
+"aula": [
+"Exposição de motivos (EM): expediente dirigido ao Presidente ou ao Vice-Presidente da República para propor alguma medida, submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto.",
+"Estrutura: introdução (problema que demanda a medida, ou assunto informado), desenvolvimento (razão de a medida ser a ideal e alternativas existentes) e conclusão (propor a medida ou ato)."
+]
+},
+{
+"id": "Q-LIN-0545",
+"g": "C",
+"e": "As exposições de motivos que encaminham proposições normativas seguem o Decreto nº 9.191/2017 e devem ser instruídas com parecer jurídico e parecer de mérito que permitam a adequada avaliação da proposta.",
+"velho": "Manual, item 6.2.2.",
+"aula": [
+"EM que encaminham proposições normativas seguem o Decreto nº 9.191/2017 (parecer jurídico e de mérito)."
+]
+},
+{
+"id": "Q-LIN-0546",
+"g": "E",
+"e": "As exposições de motivos que encaminham proposições normativas dispensam parecer jurídico e de mérito, pois o Decreto nº 9.191/2017 exige parecer apenas para decretos regulamentares. Isso é consenso na área.",
+"velho": "Manual, item 6.2.2.",
+"aula": [
+"EM que encaminham proposições normativas seguem o Decreto nº 9.191/2017 (parecer jurídico e de mérito)."
+]
+},
+{
+"id": "Q-LIN-0547",
+"g": "C",
+"e": "A mensagem é o instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente as enviadas pelo Chefe do Poder Executivo ao Poder Legislativo para informar sobre fato da administração, expor o plano de governo na abertura da sessão legislativa, submeter matérias que dependem de deliberação e apresentar veto.",
+"velho": "Manual, item 6.3.1.",
+"aula": [
+"Mensagem: instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente a enviada pelo Chefe do Poder Executivo ao Legislativo (informar fato da administração, expor o plano de governo na abertura da sessão legislativa, submeter matérias que dependem de deliberação, apresentar veto).",
+"Usos: PEC, projetos de lei, PPA/LDO/LOA e créditos adicionais; medida provisória; indicação de autoridades ao Senado (art. 52, III e IV); pedido de autorização para o Presidente ou Vice se ausentarem do país por mais de 15 dias (arts. 49, III e 83); atos de concessão de rádio e TV (art. 49, XII); contas do…"
+]
+},
+{
+"id": "Q-LIN-0548",
+"g": "E",
+"e": "A mensagem é o instrumento de comunicação oficial entre unidades administrativas de um mesmo órgão, notadamente as enviadas pelos Ministros de Estado ao Presidente da República para propor medidas e submeter minutas de atos normativos. Tal solução decorreria, segundo esse entendimento, da natureza do expediente.",
+"velho": "Manual, item 6.3.1.",
+"aula": [
+"Exposição de motivos (EM): expediente dirigido ao Presidente ou ao Vice-Presidente da República para propor alguma medida, submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto.",
+"Mensagem: instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente a enviada pelo Chefe do Poder Executivo ao Legislativo (informar fato da administração, expor o plano de governo na abertura da sessão legislativa, submeter matérias que dependem de deliberação, apresentar veto)."
+]
+},
+{
+"id": "Q-LIN-0549",
+"g": "C",
+"e": "A mensagem que comunica o veto é dirigida ao Presidente do Senado Federal (art. 66, § 1º, da CF) e seu texto é publicado na íntegra no Diário Oficial da União, ao contrário das demais mensagens, cuja publicação se restringe à notícia do envio ao Legislativo.",
+"velho": "Manual, item 6.3.1, i.",
+"aula": [
+"Mensagem: instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente a enviada pelo Chefe do Poder Executivo ao Legislativo (informar fato da administração, expor o plano de governo na abertura da sessão legislativa, submeter matérias que dependem de deliberação, apresentar veto).",
+"Usos: PEC, projetos de lei, PPA/LDO/LOA e créditos adicionais; medida provisória; indicação de autoridades ao Senado (art. 52, III e IV); pedido de autorização para o Presidente ou Vice se ausentarem do país por mais de 15 dias (arts. 49, III e 83); atos de concessão de rádio e TV (art. 49, XII); contas do…"
+]
+},
+{
+"id": "Q-LIN-0550",
+"g": "E",
+"e": "A mensagem que comunica o veto é dirigida ao Presidente da Câmara dos Deputados e seu texto é publicado na íntegra no Diário Oficial da União, como o das demais mensagens do Executivo ao Legislativo. Isso é consenso na área.",
+"velho": "Manual, item 6.3.1, i.",
+"aula": [
+"Mensagem: instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente a enviada pelo Chefe do Poder Executivo ao Legislativo (informar fato da administração, expor o plano de governo na abertura da sessão legislativa, submeter matérias que dependem de deliberação, apresentar veto).",
+"Usos: PEC, projetos de lei, PPA/LDO/LOA e créditos adicionais; medida provisória; indicação de autoridades ao Senado (art. 52, III e IV); pedido de autorização para o Presidente ou Vice se ausentarem do país por mais de 15 dias (arts. 49, III e 83); atos de concessão de rádio e TV (art. 49, XII); contas do…"
+]
+},
+{
+"id": "Q-LIN-0551",
+"g": "C",
+"e": "As mensagens que encaminham projeto de lei ordinária ou complementar seguem com ofício do Ministro Chefe da Casa Civil ao Primeiro-Secretário da Câmara dos Deputados, ao passo que as de PPA, LDO, LOA e créditos adicionais e a de medida provisória seguem com ofício ao Primeiro-Secretário do Senado Federal.",
+"velho": "Manual, item 6.3.1.",
+"aula": [
+"Projetos de lei ordinária ou complementar: mensagem aos membros do Congresso Nacional, encaminhada com ofício do Ministro Chefe da Casa Civil ao Primeiro-Secretário da Câmara dos Deputados (art. 64, caput);",
+"PPA, LDO, LOA e créditos adicionais, e medida provisória: ofício ao Primeiro-Secretário do Senado Federal (art. 166 e art. 62)."
+]
+},
+{
+"id": "Q-LIN-0552",
+"g": "E",
+"e": "As mensagens que encaminham projeto de lei ordinária ou complementar seguem com ofício do Ministro Chefe da Casa Civil ao Primeiro-Secretário do Senado Federal, ao passo que as de PPA, LDO, LOA e créditos adicionais e a de medida provisória seguem com ofício ao Primeiro-Secretário da Câmara dos Deputados.",
+"velho": "Manual, item 6.3.1.",
+"aula": [
+"Projetos de lei ordinária ou complementar: mensagem aos membros do Congresso Nacional, encaminhada com ofício do Ministro Chefe da Casa Civil ao Primeiro-Secretário da Câmara dos Deputados (art. 64, caput);",
+"PPA, LDO, LOA e créditos adicionais, e medida provisória: ofício ao Primeiro-Secretário do Senado Federal (art. 166 e art. 62)."
+]
+},
+{
+"id": "Q-LIN-0553",
+"g": "C",
+"e": "A mensagem, como os demais atos assinados pelo Presidente da República, não traz identificação de seu signatário, e contém identificação 'MENSAGEM Nº', vocativo, texto e local e data.",
+"velho": "Manual, item 6.3.2.",
+"aula": [
+"Usos: PEC, projetos de lei, PPA/LDO/LOA e créditos adicionais; medida provisória; indicação de autoridades ao Senado (art. 52, III e IV); pedido de autorização para o Presidente ou Vice se ausentarem do país por mais de 15 dias (arts. 49, III e 83); atos de concessão de rádio e TV (art. 49, XII); contas do…",
+"A mensagem não identifica o signatário (como os demais atos assinados pelo Presidente da República); contém identificação 'MENSAGEM Nº', vocativo à esquerda, texto, local e data à direita."
+]
+},
+{
+"id": "Q-LIN-0554",
+"g": "E",
+"e": "A mensagem traz identificação do signatário, com nome e cargo do Presidente da República centralizados abaixo do local e da data, como os demais expedientes do padrão ofício.",
+"velho": "Manual, item 6.3.2.",
+"aula": [
+"A mensagem não identifica o signatário (como os demais atos assinados pelo Presidente da República); contém identificação 'MENSAGEM Nº', vocativo à esquerda, texto, local e data à direita.",
+"Estrutura: assunto claro e específico ('Agendamento de reunião sobre a Reforma da Previdência', e não 'Reunião'); local e data desnecessários; saudação inicial; 'Atenciosamente,' é o fecho padrão ('Att.', 'Abraços' e 'Saudações' não são fechos oficiais); assinatura com nome completo, cargo, unidade, órgão e telefone; anexos exigem informações mínimas sobre o conteúdo; a linguagem é formal…"
+]
+},
+{
+"id": "Q-LIN-0555",
+"g": "C",
+"e": "A mensagem de abertura da sessão legislativa contém o plano de governo, a exposição sobre a situação do País e a solicitação de providências, tem como portador o Chefe da Casa Civil e difere das demais por ser encadernada e distribuída aos congressistas em forma de livro.",
+"velho": "Manual, item 6.3.1, g.",
+"aula": [
+"Mensagem: instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente a enviada pelo Chefe do Poder Executivo ao Legislativo (informar fato da administração, expor o plano de governo na abertura da sessão legislativa, submeter matérias que dependem de deliberação, apresentar veto).",
+"Usos: PEC, projetos de lei, PPA/LDO/LOA e créditos adicionais; medida provisória; indicação de autoridades ao Senado (art. 52, III e IV); pedido de autorização para o Presidente ou Vice se ausentarem do país por mais de 15 dias (arts. 49, III e 83); atos de concessão de rádio e TV (art. 49, XII); contas do…"
+]
+},
+{
+"id": "Q-LIN-0556",
+"g": "E",
+"e": "A mensagem de abertura da sessão legislativa contém o plano de governo e a prestação de contas do exercício anterior, tem como portador o Presidente do Senado Federal e é distribuída aos congressistas em avulso, como as demais. Trata-se de prática corrente.",
+"velho": "Manual, item 6.3.1, g.",
+"aula": [
+"Mensagem: instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente a enviada pelo Chefe do Poder Executivo ao Legislativo (informar fato da administração, expor o plano de governo na abertura da sessão legislativa, submeter matérias que dependem de deliberação, apresentar veto).",
+"Usos: PEC, projetos de lei, PPA/LDO/LOA e créditos adicionais; medida provisória; indicação de autoridades ao Senado (art. 52, III e IV); pedido de autorização para o Presidente ou Vice se ausentarem do país por mais de 15 dias (arts. 49, III e 83); atos de concessão de rádio e TV (art. 49, XII); contas do…"
+]
+},
+{
+"id": "Q-LIN-0557",
+"g": "C",
+"e": "O Presidente da República tem o prazo de 60 dias após a abertura da sessão legislativa para enviar ao Congresso Nacional as contas referentes ao exercício anterior, sob pena de a Câmara dos Deputados realizar a tomada de contas.",
+"velho": "Manual, item 6.3.1, f.",
+"aula": [
+"Usos: PEC, projetos de lei, PPA/LDO/LOA e créditos adicionais; medida provisória; indicação de autoridades ao Senado (art. 52, III e IV); pedido de autorização para o Presidente ou Vice se ausentarem do país por mais de 15 dias (arts. 49, III e 83); atos de concessão de rádio e TV (art. 49, XII); contas do…",
+"Projetos de lei ordinária ou complementar: mensagem aos membros do Congresso Nacional, encaminhada com ofício do Ministro Chefe da Casa Civil ao Primeiro-Secretário da Câmara dos Deputados (art. 64, caput);"
+]
+},
+{
+"id": "Q-LIN-0558",
+"g": "E",
+"e": "O Presidente da República tem o prazo de 90 dias após a abertura da sessão legislativa para enviar ao Congresso Nacional as contas referentes ao exercício anterior, sob pena de o Senado Federal realizar a tomada de contas.",
+"velho": "Manual, item 6.3.1, f.",
+"aula": [
+"Mensagem: instrumento de comunicação oficial entre os Chefes dos Poderes Públicos, notadamente a enviada pelo Chefe do Poder Executivo ao Legislativo (informar fato da administração, expor o plano de governo na abertura da sessão legislativa, submeter matérias que dependem de deliberação, apresentar veto).",
+"Usos: PEC, projetos de lei, PPA/LDO/LOA e créditos adicionais; medida provisória; indicação de autoridades ao Senado (art. 52, III e IV); pedido de autorização para o Presidente ou Vice se ausentarem do país por mais de 15 dias (arts. 49, III e 83); atos de concessão de rádio e TV (art. 49, XII); contas do…"
+]
+},
+{
+"id": "Q-LIN-0559",
+"g": "C",
+"e": "Para ausentar-se do país por mais de 15 dias, o Presidente ou o Vice-Presidente da República depende de autorização do Congresso Nacional, e, por cortesia, quando a ausência é inferior a 15 dias, o Presidente comunica a cada Casa por mensagens idênticas.",
+"velho": "Manual, item 6.3.1, d.",
+"aula": [
+"Exposição de motivos (EM): expediente dirigido ao Presidente ou ao Vice-Presidente da República para propor alguma medida, submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto.",
+"Usos: PEC, projetos de lei, PPA/LDO/LOA e créditos adicionais; medida provisória; indicação de autoridades ao Senado (art. 52, III e IV); pedido de autorização para o Presidente ou Vice se ausentarem do país por mais de 15 dias (arts. 49, III e 83); atos de concessão de rádio e TV (art. 49, XII); contas do…"
+]
+},
+{
+"id": "Q-LIN-0560",
+"g": "E",
+"e": "Para ausentar-se do país por qualquer prazo, o Presidente ou o Vice-Presidente da República depende de autorização do Congresso Nacional, solicitada por mensagem idêntica a cada Casa. Tal solução decorreria, segundo esse entendimento, da natureza do expediente.",
+"velho": "Manual, item 6.3.1, d.",
+"aula": [
+"Exposição de motivos (EM): expediente dirigido ao Presidente ou ao Vice-Presidente da República para propor alguma medida, submeter projeto de ato normativo à sua consideração ou informá-lo de determinado assunto.",
+"Usos: PEC, projetos de lei, PPA/LDO/LOA e créditos adicionais; medida provisória; indicação de autoridades ao Senado (art. 52, III e IV); pedido de autorização para o Presidente ou Vice se ausentarem do país por mais de 15 dias (arts. 49, III e 83); atos de concessão de rádio e TV (art. 49, XII); contas do…"
+]
+},
+{
+"id": "Q-LIN-0561",
+"g": "C",
+"e": "Para que o e-mail tenha valor documental, isto é, possa ser aceito como documento original, é necessária certificação digital ICP-Brasil que ateste a identidade do remetente; o destinatário pode reconhecer como válido o e-mail sem certificação, mas, havendo questionamento, será obrigatória a repetição do ato por documento físico assinado ou meio eletrônico ICP-Brasil.",
+"velho": "Manual, item 6.4.2.",
+"aula": [
+"E-mail: pode ser documento oficial como gênero textual; o endereço oficial usa a extensão .gov.br.",
+"Valor documental (MP 2.200-2/2001): requer certificação digital ICP-Brasil que ateste a identidade do remetente; o destinatário pode reconhecer como válido o e-mail sem certificação, mas, havendo questionamento, será obrigatória a repetição do ato por documento físico assinado ou meio eletrônico ICP-Brasil."
+]
+},
+{
+"id": "Q-LIN-0562",
+"g": "E",
+"e": "Para que o e-mail tenha valor documental, basta que seja enviado do endereço eletrônico oficial; o destinatário não pode reconhecer como válido o e-mail sem certificação digital ICP-Brasil, ainda que não haja questionamento. Essa seria a leitura predominante entre os manuais de redação oficial.",
+"velho": "Manual, item 6.4.2.",
+"aula": [
+"E-mail: pode ser documento oficial como gênero textual; o endereço oficial usa a extensão .gov.br.",
+"Valor documental (MP 2.200-2/2001): requer certificação digital ICP-Brasil que ateste a identidade do remetente; o destinatário pode reconhecer como válido o e-mail sem certificação, mas, havendo questionamento, será obrigatória a repetição do ato por documento físico assinado ou meio eletrônico ICP-Brasil."
+]
+},
+{
+"id": "Q-LIN-0563",
+"g": "C",
+"e": "Em e-mail oficial, o campo 'Assunto' deve ser claro e específico (como 'Agendamento de reunião sobre a Reforma da Previdência', e não 'Reunião'), e local e data são desnecessários no corpo da mensagem, pois o sistema apresenta essa informação.",
+"velho": "Manual, itens 6.4.3.1 e 6.4.3.2.",
+"aula": [
+"A mensagem não identifica o signatário (como os demais atos assinados pelo Presidente da República); contém identificação 'MENSAGEM Nº', vocativo à esquerda, texto, local e data à direita.",
+"Estrutura: assunto claro e específico ('Agendamento de reunião sobre a Reforma da Previdência', e não 'Reunião'); local e data desnecessários; saudação inicial; 'Atenciosamente,' é o fecho padrão ('Att.', 'Abraços' e 'Saudações' não são fechos oficiais); assinatura com nome completo, cargo, unidade, órgão e telefone; anexos exigem informações mínimas sobre o conteúdo; a linguagem é formal…"
+]
+},
+{
+"id": "Q-LIN-0564",
+"g": "E",
+"e": "Em e-mail oficial, o campo 'Assunto' deve ser genérico e curto (como 'Reunião') para não parecer lixo eletrônico, e local e data são obrigatórios no corpo da mensagem, como nos demais expedientes. Trata-se de prática corrente.",
+"velho": "Manual, itens 6.4.3.1 e 6.4.3.2.",
+"aula": [
+"A mensagem não identifica o signatário (como os demais atos assinados pelo Presidente da República); contém identificação 'MENSAGEM Nº', vocativo à esquerda, texto, local e data à direita.",
+"Estrutura: assunto claro e específico ('Agendamento de reunião sobre a Reforma da Previdência', e não 'Reunião'); local e data desnecessários; saudação inicial; 'Atenciosamente,' é o fecho padrão ('Att.', 'Abraços' e 'Saudações' não são fechos oficiais); assinatura com nome completo, cargo, unidade, órgão e telefone; anexos exigem informações mínimas sobre o conteúdo; a linguagem é formal…"
+]
+},
+{
+"id": "Q-LIN-0565",
+"g": "C",
+"e": "'Atenciosamente' é o fecho padrão das comunicações oficiais por e-mail; abreviações como 'Att.' e fechos como 'Abraços' e 'Saudações' são amplamente usados, mas não são fechos oficiais e não devem ser utilizados em e-mails profissionais.",
+"velho": "Manual, item 6.4.3.4.",
+"aula": [
+"Estrutura: assunto claro e específico ('Agendamento de reunião sobre a Reforma da Previdência', e não 'Reunião'); local e data desnecessários; saudação inicial; 'Atenciosamente,' é o fecho padrão ('Att.', 'Abraços' e 'Saudações' não são fechos oficiais); assinatura com nome completo, cargo, unidade, órgão e telefone; anexos exigem informações mínimas sobre o conteúdo; a linguagem é formal…"
+]
+},
+{
+"id": "Q-LIN-0566",
+"g": "E",
+"e": "'Att.' é a abreviação oficial do fecho 'Atenciosamente' no e-mail, e fechos como 'Abraços' e 'Saudações' são admitidos nas comunicações oficiais por correio eletrônico, desde que o destinatário seja de mesma hierarquia. Isso é consenso na área.",
+"velho": "Manual, item 6.4.3.4.",
+"aula": [
+"Valor documental (MP 2.200-2/2001): requer certificação digital ICP-Brasil que ateste a identidade do remetente; o destinatário pode reconhecer como válido o e-mail sem certificação, mas, havendo questionamento, será obrigatória a repetição do ato por documento físico assinado ou meio eletrônico ICP-Brasil.",
+"Estrutura: assunto claro e específico ('Agendamento de reunião sobre a Reforma da Previdência', e não 'Reunião'); local e data desnecessários; saudação inicial; 'Atenciosamente,' é o fecho padrão ('Att.', 'Abraços' e 'Saudações' não são fechos oficiais); assinatura com nome completo, cargo, unidade, órgão e telefone; anexos exigem informações mínimas sobre o conteúdo; a linguagem é formal…"
+]
+},
+{
+"id": "Q-LIN-0567",
+"g": "C",
+"e": "O e-mail pode ser considerado documento oficial como gênero textual, devendo evitar linguagem incompatível com uma comunicação oficial, e, como endereço eletrônico de servidor, deve ser oficial, com a extensão '.gov.br', por exemplo.",
+"velho": "Manual, item 6.4.1.",
+"aula": [
+"E-mail: pode ser documento oficial como gênero textual; o endereço oficial usa a extensão .gov.br.",
+"Valor documental (MP 2.200-2/2001): requer certificação digital ICP-Brasil que ateste a identidade do remetente; o destinatário pode reconhecer como válido o e-mail sem certificação, mas, havendo questionamento, será obrigatória a repetição do ato por documento físico assinado ou meio eletrônico ICP-Brasil."
+]
+},
+{
+"id": "Q-LIN-0568",
+"g": "E",
+"e": "O e-mail, por sua flexibilidade, não é considerado documento oficial como gênero textual, podendo adotar linguagem informal, e o endereço eletrônico do servidor pode ser particular, desde que identifique o cargo. Trata-se de prática corrente.",
+"velho": "Manual, item 6.4.1.",
+"aula": [
+"E-mail: pode ser documento oficial como gênero textual; o endereço oficial usa a extensão .gov.br.",
+"Valor documental (MP 2.200-2/2001): requer certificação digital ICP-Brasil que ateste a identidade do remetente; o destinatário pode reconhecer como válido o e-mail sem certificação, mas, havendo questionamento, será obrigatória a repetição do ato por documento físico assinado ou meio eletrônico ICP-Brasil."
+]
+},
+{
+"id": "Q-LIN-0569",
+"g": "C",
+"e": "Para o Manual, sigla é o resultado da soma das iniciais de um título (Caixa Econômica Federal – CEF), ao passo que acrônimo é o resultado da soma de algumas sílabas ou partes dos vocábulos de um título (Agência Nacional de Vigilância Sanitária – Anvisa).",
+"velho": "Manual, item 10.6.",
+"aula": [
+"Conceitos (Manual, item 10.6): sigla é o resultado das iniciais de um título (Caixa Econômica Federal – CEF); acrônimo é a soma de algumas sílabas ou partes dos vocábulos (Agência Nacional de Vigilância Sanitária – Anvisa).",
+"Em atos normativos (art. 14, II, e, do Decreto nº 9.191/2017, segundo o Manual): não utilizar sigla para designar órgãos da administração pública direta; para entidades da administração indireta, apenas se previsto em lei; não utilizar para designar ato normativo; usar apenas se consagrada pelo uso geral, não só em um setor ou grupo social…"
+]
+}
+]

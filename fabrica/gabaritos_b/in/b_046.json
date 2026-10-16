@@ -1,0 +1,666 @@
+[
+{
+"id": "Q-POL-0329",
+"g": "C",
+"e": "O voto feminino foi instituído no Brasil, em âmbito nacional, pelo Código Eleitoral de 1932, e consolidado como obrigatório para as mulheres que exercessem função pública remunerada, na Constituição de 1934.",
+"velho": "História do voto.",
+"aula": [
+"República: a Constituição de 1891 aboliu o critério censitário, mas manteve a exclusão dos analfabetos e das mulheres, e o voto era aberto (a descoberto).",
+"Código Eleitoral de 1932: instituiu o voto secreto, o voto feminino, a Justiça Eleitoral e a representação proporcional."
+]
+},
+{
+"id": "Q-POL-0330",
+"g": "E",
+"e": "O voto feminino foi instituído no Brasil, em âmbito nacional, somente pela Constituição de 1988, que o estendeu às mulheres pela primeira vez. Tal conclusão decorreria, segundo esse entendimento, das características do arranjo institucional descrito.",
+"velho": "História do voto.",
+"aula": [
+"República: a Constituição de 1891 aboliu o critério censitário, mas manteve a exclusão dos analfabetos e das mulheres, e o voto era aberto (a descoberto).",
+"Constituição de 1934: voto feminino consagrado na Constituição."
+]
+},
+{
+"id": "Q-POL-0331",
+"g": "C",
+"e": "A Constituição de 1988 facultou o voto aos analfabetos, aos maiores de setenta anos e aos maiores de dezesseis e menores de dezoito anos.",
+"velho": "CF, art. 14, § 1º, II.",
+"aula": [
+"República: a Constituição de 1891 aboliu o critério censitário, mas manteve a exclusão dos analfabetos e das mulheres, e o voto era aberto (a descoberto).",
+"Constituição de 1988: voto facultativo aos analfabetos, aos maiores de setenta anos e aos maiores de dezesseis e menores de dezoito anos; voto direto, secreto, universal e periódico (cláusula pétrea, art. 60, §4º, II)."
+]
+},
+{
+"id": "Q-POL-0332",
+"g": "E",
+"e": "A Constituição de 1988 tornou obrigatório o voto dos analfabetos, dos maiores de setenta anos e dos maiores de dezesseis e menores de dezoito anos.",
+"velho": "CF, art. 14, § 1º, II.",
+"aula": [
+"República: a Constituição de 1891 aboliu o critério censitário, mas manteve a exclusão dos analfabetos e das mulheres, e o voto era aberto (a descoberto).",
+"Constituição de 1988: voto facultativo aos analfabetos, aos maiores de setenta anos e aos maiores de dezesseis e menores de dezoito anos; voto direto, secreto, universal e periódico (cláusula pétrea, art. 60, §4º, II)."
+]
+},
+{
+"id": "Q-POL-0333",
+"g": "C",
+"e": "A Emenda Constitucional 25/1985 concedeu o direito de voto aos analfabetos, que a Constituição de 1988 manteve de forma facultativa.",
+"velho": "Redemocratização.",
+"aula": [
+"República: a Constituição de 1891 aboliu o critério censitário, mas manteve a exclusão dos analfabetos e das mulheres, e o voto era aberto (a descoberto).",
+"EC 25/1985: concedeu o direito de voto aos analfabetos (facultativo)."
+]
+},
+{
+"id": "Q-POL-0334",
+"g": "E",
+"e": "A Emenda Constitucional 25/1985 manteve a proibição do voto dos analfabetos, que a Constituição de 1988 tornou obrigatório.",
+"velho": "Redemocratização.",
+"aula": [
+"República: a Constituição de 1891 aboliu o critério censitário, mas manteve a exclusão dos analfabetos e das mulheres, e o voto era aberto (a descoberto).",
+"Constituição de 1988: voto facultativo aos analfabetos, aos maiores de setenta anos e aos maiores de dezesseis e menores de dezoito anos; voto direto, secreto, universal e periódico (cláusula pétrea, art. 60, §4º, II)."
+]
+},
+{
+"id": "Q-POL-0335",
+"g": "C",
+"e": "Durante a Primeira República, o voto era aberto, não secreto, e as eleições eram marcadas por fraude e pelo controle dos chefes locais, em um sistema conhecido como política dos governadores.",
+"velho": "República Velha.",
+"aula": [
+"Império: Constituição de 1824, voto censitário (renda mínima) e eleições indiretas em dois graus (assembleias paroquiais e eleitores de província).",
+"República: a Constituição de 1891 aboliu o critério censitário, mas manteve a exclusão dos analfabetos e das mulheres, e o voto era aberto (a descoberto)."
+]
+},
+{
+"id": "Q-POL-0336",
+"g": "E",
+"e": "Durante a Primeira República, o voto era secreto e as eleições eram limpas e livres de controle dos chefes locais, em um sistema conhecido como política dos governadores.",
+"velho": "República Velha.",
+"aula": [
+"Império: Constituição de 1824, voto censitário (renda mínima) e eleições indiretas em dois graus (assembleias paroquiais e eleitores de província).",
+"República: a Constituição de 1891 aboliu o critério censitário, mas manteve a exclusão dos analfabetos e das mulheres, e o voto era aberto (a descoberto)."
+]
+},
+{
+"id": "Q-POL-0337",
+"g": "C",
+"e": "O Código Eleitoral de 1932 instituiu o voto secreto e criou a Justiça Eleitoral, que passou a organizar o alistamento e a apuração das eleições.",
+"velho": "Código Eleitoral de 1932.",
+"aula": [
+"Império: Constituição de 1824, voto censitário (renda mínima) e eleições indiretas em dois graus (assembleias paroquiais e eleitores de província).",
+"Código Eleitoral de 1932: instituiu o voto secreto, o voto feminino, a Justiça Eleitoral e a representação proporcional."
+]
+},
+{
+"id": "Q-POL-0338",
+"g": "E",
+"e": "O Código Eleitoral de 1932 manteve o voto aberto e extinguiu a Justiça Eleitoral, que voltou a ser conduzida pelos chefes locais.",
+"velho": "Código Eleitoral de 1932.",
+"aula": [
+"República: a Constituição de 1891 aboliu o critério censitário, mas manteve a exclusão dos analfabetos e das mulheres, e o voto era aberto (a descoberto).",
+"Código Eleitoral de 1932: instituiu o voto secreto, o voto feminino, a Justiça Eleitoral e a representação proporcional."
+]
+},
+{
+"id": "Q-POL-0339",
+"g": "C",
+"e": "O Ato Institucional 2, de 1965, extinguiu os partidos existentes e instituiu o bipartidarismo, com a Arena e o MDB, e a reforma partidária de 1979 restabeleceu o pluripartidarismo.",
+"velho": "AI-2/1965; Lei 6.767/1979.",
+"aula": [
+"Ato Institucional nº 2 (1965): extinguiu os partidos existentes, e o Ato Complementar nº 4 (1966) viabilizou a criação de duas organizações, a ARENA (governo) e o MDB (oposição), instituindo o bipartidarismo.",
+"Reforma partidária de 1979 (Lei 6.767/1979): extinguiu o bipartidarismo e restabeleceu o pluripartidarismo."
+]
+},
+{
+"id": "Q-POL-0340",
+"g": "E",
+"e": "O Ato Institucional 2, de 1965, instituiu o pluripartidarismo, e a reforma partidária de 1979 extinguiu os partidos e restabeleceu o bipartidarismo com a Arena e o MDB.",
+"velho": "AI-2/1965; Lei 6.767/1979.",
+"aula": [
+"Ato Institucional nº 2 (1965): extinguiu os partidos existentes, e o Ato Complementar nº 4 (1966) viabilizou a criação de duas organizações, a ARENA (governo) e o MDB (oposição), instituindo o bipartidarismo.",
+"Reforma partidária de 1979 (Lei 6.767/1979): extinguiu o bipartidarismo e restabeleceu o pluripartidarismo."
+]
+},
+{
+"id": "Q-POL-0341",
+"g": "C",
+"e": "O período de 1945 a 1964 é conhecido como experiência pluripartidária, com partidos de âmbito nacional como PSD, UDN e PTB.",
+"velho": "República de 1946.",
+"aula": [
+"Primeira República: partidos republicanos estaduais (PRP, PRM) e a política dos governadores."
+]
+},
+{
+"id": "Q-POL-0342",
+"g": "E",
+"e": "O período de 1945 a 1964 é conhecido como experiência de partido único, em que o PSD absorveu a UDN e o PTB.",
+"velho": "República de 1946.",
+"aula": [
+"Império: Partido Conservador e Partido Liberal (alternância de gabinetes pelo Poder Moderador)."
+]
+},
+{
+"id": "Q-POL-0343",
+"g": "C",
+"e": "Durante o Estado Novo, os partidos políticos foram extintos, e a Constituição de 1937 foi outorgada por Getúlio Vargas.",
+"velho": "Estado Novo.",
+"aula": [
+"Império: Partido Conservador e Partido Liberal (alternância de gabinetes pelo Poder Moderador)."
+]
+},
+{
+"id": "Q-POL-0344",
+"g": "E",
+"e": "Durante o Estado Novo, os partidos políticos foram fortalecidos, e a Constituição de 1937 foi promulgada por uma assembleia constituinte eleita.",
+"velho": "Estado Novo.",
+"aula": [
+"Império: Partido Conservador e Partido Liberal (alternância de gabinetes pelo Poder Moderador)."
+]
+},
+{
+"id": "Q-POL-0345",
+"g": "C",
+"e": "Em regime presidencialista de coalizão, o Presidente distribui ministérios a partidos aliados em troca de apoio legislativo, e a literatura aponta como instrumentos para a governabilidade o poder de agenda e a edição de medidas provisórias.",
+"velho": "Abranches, presidencialismo de coalizão.",
+"aula": [
+"Presidencialismo de coalizão (Abranches, 1988): combinação de presidencialismo, federalismo, representação proporcional com multipartidarismo e grandes coalizões partidárias para formar maioria, distribuindo ministérios e cargos.",
+"Limongi e Figueiredo: o Executivo brasileiro tem forte poder de agenda (iniciativa legislativa, medidas provisórias, urgência, controle da agenda pelos líderes partidários), e os partidos votam de forma disciplinada no plenário."
+]
+},
+{
+"id": "Q-POL-0346",
+"g": "E",
+"e": "Em regime presidencialista de coalizão, o Presidente distribui ministérios a partidos aliados em troca de apoio legislativo, e a literatura aponta que tal prática é vedada pela Constituição e inexiste na prática política brasileira.",
+"velho": "Abranches, presidencialismo de coalizão.",
+"aula": [
+"Constituição, art. 2º: são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.",
+"Presidencialismo de coalizão (Abranches, 1988): combinação de presidencialismo, federalismo, representação proporcional com multipartidarismo e grandes coalizões partidárias para formar maioria, distribuindo ministérios e cargos."
+]
+},
+{
+"id": "Q-POL-0347",
+"g": "C",
+"e": "Em Montesquieu, a liberdade política exige que o poder contenha o poder, e a separação entre legislativo, executivo e judiciário é o meio para evitar o abuso.",
+"velho": "Montesquieu, O Espírito das Leis.",
+"aula": [
+"Montesquieu (O Espírito das Leis): separação das funções de legislar, executar e julgar, e o poder freia o poder.",
+"Constituição, art. 2º: são Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário."
+]
+},
+{
+"id": "Q-POL-0348",
+"g": "E",
+"e": "Em Montesquieu, a liberdade política exige a concentração dos três poderes em um único órgão, para garantir a unidade da ação estatal.",
+"velho": "Montesquieu, O Espírito das Leis.",
+"aula": [
+"Montesquieu (O Espírito das Leis): separação das funções de legislar, executar e julgar, e o poder freia o poder."
+]
+},
+{
+"id": "Q-POL-0349",
+"g": "C",
+"e": "O sistema de freios e contrapesos, de origem norte-americana, supõe que os poderes se controlem reciprocamente, como o veto presidencial e o controle de constitucionalidade.",
+"velho": "Federalista; checks and balances.",
+"aula": [
+"Freios e contrapesos (checks and balances): o veto, a sanção, o controle de constitucionalidade, o impeachment, a convocação de Ministros.",
+"Judicialização da política: transferência ao Judiciário de decisões políticas relevantes (ampliação do controle de constitucionalidade e dos legitimados)."
+]
+},
+{
+"id": "Q-POL-0350",
+"g": "E",
+"e": "O sistema de freios e contrapesos, de origem norte-americana, supõe que os poderes se mantenham totalmente isolados, sem qualquer forma de controle recíproco.",
+"velho": "Federalista; checks and balances.",
+"aula": [
+"Freios e contrapesos (checks and balances): o veto, a sanção, o controle de constitucionalidade, o impeachment, a convocação de Ministros.",
+"Limongi e Figueiredo: o Executivo brasileiro tem forte poder de agenda (iniciativa legislativa, medidas provisórias, urgência, controle da agenda pelos líderes partidários), e os partidos votam de forma disciplinada no plenário."
+]
+},
+{
+"id": "Q-POL-0351",
+"g": "C",
+"e": "No parlamentarismo, o governo depende da confiança do Parlamento e há distinção entre chefe de Estado e chefe de governo, ao passo que no presidencialismo o Presidente acumula as duas funções.",
+"velho": "Sistemas de governo.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…",
+"Diferença central: no presidencialismo, a sobrevivência do governo não depende do apoio da maioria parlamentar; no parlamentarismo, depende."
+]
+},
+{
+"id": "Q-POL-0352",
+"g": "E",
+"e": "No parlamentarismo, o chefe de governo é eleito diretamente pelo povo para mandato fixo e acumula a chefia de Estado, ao passo que no presidencialismo há distinção entre as duas funções.",
+"velho": "Sistemas de governo.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…",
+"Diferença central: no presidencialismo, a sobrevivência do governo não depende do apoio da maioria parlamentar; no parlamentarismo, depende."
+]
+},
+{
+"id": "Q-POL-0353",
+"g": "C",
+"e": "A República Federativa do Brasil adota a forma de governo republicana e o sistema de governo presidencialista, o que foi mantido pelo plebiscito de 1993 em detrimento da monarquia e do parlamentarismo.",
+"velho": "ADCT, art. 2º; plebiscito de 1993.",
+"aula": [
+"Forma de governo: monarquia (hereditariedade, vitaliciedade, irresponsabilidade) e república (eletividade, temporariedade, responsabilidade).",
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…"
+]
+},
+{
+"id": "Q-POL-0354",
+"g": "E",
+"e": "A República Federativa do Brasil adota a forma de governo monárquica e o sistema presidencialista, o que foi confirmado pelo plebiscito de 1993 em detrimento da república e do parlamentarismo.",
+"velho": "ADCT, art. 2º; plebiscito de 1993.",
+"aula": [
+"Forma de governo: monarquia (hereditariedade, vitaliciedade, irresponsabilidade) e república (eletividade, temporariedade, responsabilidade).",
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…"
+]
+},
+{
+"id": "Q-POL-0355",
+"g": "C",
+"e": "O semipresidencialismo combina um Presidente eleito diretamente com um Primeiro-Ministro responsável perante o Parlamento, como se vê na França.",
+"velho": "Duverger; Sartori.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…"
+]
+},
+{
+"id": "Q-POL-0356",
+"g": "E",
+"e": "O semipresidencialismo combina um Presidente indicado pelo Parlamento sem poderes com um Primeiro-Ministro eleito diretamente, como se vê nos Estados Unidos.",
+"velho": "Duverger; Sartori.",
+"aula": [
+"Sistema de governo: presidencialismo (chefe de Estado e chefe de governo na mesma pessoa, eleito, mandato fixo, separação rígida de Poderes, Executivo unipessoal), parlamentarismo (chefia de Estado separada da chefia de governo, o Gabinete depende da confiança do Parlamento, que pode ser dissolvido; responsabilidade política do governo perante o Legislativo) e semipresidencialismo (Presidente eleito diretamente…"
+]
+},
+{
+"id": "Q-POL-0357",
+"g": "C",
+"e": "O realismo nas relações internacionais enfatiza o Estado como ator central, a anarquia do sistema internacional e a busca de poder e segurança, ao passo que o liberalismo valoriza a cooperação e as instituições.",
+"velho": "Morgenthau; Waltz; Keohane.",
+"aula": [
+"Realismo (Morgenthau) e neorrealismo (Waltz): sistema internacional anárquico, Estados unitários e racionais, poder e segurança, balança de poder; polaridade (unipolar, bipolar, multipolar).",
+"Liberalismo e institucionalismo (Keohane e Nye): interdependência complexa, cooperação por instituições e regimes internacionais; soft power (Nye): capacidade de atrair e persuadir."
+]
+},
+{
+"id": "Q-POL-0358",
+"g": "E",
+"e": "O realismo nas relações internacionais enfatiza a cooperação e as instituições internacionais como fator de paz, ao passo que o liberalismo valoriza a anarquia e a busca de poder.",
+"velho": "Morgenthau; Waltz; Keohane.",
+"aula": [
+"Realismo (Morgenthau) e neorrealismo (Waltz): sistema internacional anárquico, Estados unitários e racionais, poder e segurança, balança de poder; polaridade (unipolar, bipolar, multipolar).",
+"Liberalismo e institucionalismo (Keohane e Nye): interdependência complexa, cooperação por instituições e regimes internacionais; soft power (Nye): capacidade de atrair e persuadir."
+]
+},
+{
+"id": "Q-POL-0359",
+"g": "C",
+"e": "O construtivismo, de Wendt, sustenta que as identidades e os interesses dos Estados são socialmente construídos, e que a anarquia é aquilo que os Estados fazem dela.",
+"velho": "Wendt, Social Theory of International Politics.",
+"aula": [
+"Construtivismo (Wendt): a anarquia é o que os Estados fazem dela, e as identidades e normas constituem os interesses."
+]
+},
+{
+"id": "Q-POL-0360",
+"g": "E",
+"e": "O construtivismo, de Wendt, sustenta que as identidades e os interesses dos Estados são dados materialmente e imutáveis, e que a anarquia determina sua conduta.",
+"velho": "Wendt, Social Theory of International Politics.",
+"aula": [
+"Construtivismo (Wendt): a anarquia é o que os Estados fazem dela, e as identidades e normas constituem os interesses."
+]
+},
+{
+"id": "Q-POL-0361",
+"g": "C",
+"e": "A Organização Mundial do Comércio sucedeu o GATT e dispõe de mecanismo de solução de controvérsias, e o Mercosul tem como membros plenos, entre outros, Argentina, Brasil, Paraguai e Uruguai.",
+"velho": "OMC; Mercosul.",
+"aula": [
+"Mercosul: Argentina, Brasil, Paraguai e Uruguai, pelo Tratado de Assunção (1991)."
+]
+},
+{
+"id": "Q-POL-0362",
+"g": "E",
+"e": "A Organização Mundial do Comércio foi criada antes do GATT e não dispõe de mecanismo de solução de controvérsias, e o Mercosul é formado apenas por Argentina e Brasil.",
+"velho": "OMC; Mercosul.",
+"aula": [
+"Mercosul: Argentina, Brasil, Paraguai e Uruguai, pelo Tratado de Assunção (1991)."
+]
+},
+{
+"id": "Q-POL-0363",
+"g": "C",
+"e": "Os acordos de Bretton Woods, de 1944, criaram o Fundo Monetário Internacional e o Banco Mundial, para a reconstrução econômica e a estabilidade monetária no pós-guerra.",
+"velho": "Bretton Woods.",
+"aula": [
+"Bretton Woods (1944): FMI e Banco Mundial;"
+]
+},
+{
+"id": "Q-POL-0364",
+"g": "E",
+"e": "Os acordos de Bretton Woods, de 1944, criaram a Organização das Nações Unidas e a OTAN, para a manutenção da paz no pós-guerra.",
+"velho": "Bretton Woods.",
+"aula": [
+"Bretton Woods (1944): FMI e Banco Mundial;"
+]
+},
+{
+"id": "Q-POL-0365",
+"g": "C",
+"e": "A teoria da dependência sustenta que o subdesenvolvimento da periferia está relacionado à sua inserção subordinada no sistema capitalista mundial, e são autores associados a ela Cardoso e Faletto e Gunder Frank.",
+"velho": "Cardoso e Faletto; Gunder Frank.",
+"aula": [
+"Teoria da dependência e centro-periferia (Prebisch, Cardoso e Faletto)."
+]
+},
+{
+"id": "Q-POL-0366",
+"g": "E",
+"e": "A teoria da dependência sustenta que o subdesenvolvimento da periferia decorre exclusivamente de fatores culturais internos, sem relação com o sistema capitalista mundial.",
+"velho": "Cardoso e Faletto; Gunder Frank.",
+"aula": [
+"Teoria da dependência e centro-periferia (Prebisch, Cardoso e Faletto)."
+]
+},
+{
+"id": "Q-POL-0367",
+"g": "C",
+"e": "Compete ao Presidente da República manter relações com Estados estrangeiros e celebrar tratados, convenções e atos internacionais, sujeitos a referendo do Congresso Nacional.",
+"velho": "CF, art. 84, VII e VIII.",
+"aula": [
+"Competência: a manutenção de relações com Estados estrangeiros e a participação em organizações internacionais cabem à União (CF, art. 21, I) e, no Executivo, ao Presidente da República (art. 84, VII e VIII), cabendo ao Congresso Nacional resolver definitivamente sobre tratados (art. 49, I)."
+]
+},
+{
+"id": "Q-POL-0368",
+"g": "E",
+"e": "Compete ao Congresso Nacional manter relações com Estados estrangeiros e celebrar tratados, sujeitos a referendo do Presidente da República.",
+"velho": "CF, art. 84, VII e VIII.",
+"aula": [
+"Competência: a manutenção de relações com Estados estrangeiros e a participação em organizações internacionais cabem à União (CF, art. 21, I) e, no Executivo, ao Presidente da República (art. 84, VII e VIII), cabendo ao Congresso Nacional resolver definitivamente sobre tratados (art. 49, I)."
+]
+},
+{
+"id": "Q-POL-0369",
+"g": "C",
+"e": "Compete ao Congresso Nacional resolver definitivamente sobre tratados, acordos ou atos internacionais que acarretem encargos ou compromissos gravosos ao patrimônio nacional.",
+"velho": "CF, art. 49, I.",
+"aula": [
+"Competência: a manutenção de relações com Estados estrangeiros e a participação em organizações internacionais cabem à União (CF, art. 21, I) e, no Executivo, ao Presidente da República (art. 84, VII e VIII), cabendo ao Congresso Nacional resolver definitivamente sobre tratados (art. 49, I)."
+]
+},
+{
+"id": "Q-POL-0370",
+"g": "E",
+"e": "Compete ao Presidente da República resolver definitivamente, sem manifestação do Congresso Nacional, sobre tratados que acarretem encargos gravosos ao patrimônio nacional.",
+"velho": "CF, art. 49, I.",
+"aula": [
+"Competência: a manutenção de relações com Estados estrangeiros e a participação em organizações internacionais cabem à União (CF, art. 21, I) e, no Executivo, ao Presidente da República (art. 84, VII e VIII), cabendo ao Congresso Nacional resolver definitivamente sobre tratados (art. 49, I)."
+]
+},
+{
+"id": "Q-POL-0371",
+"g": "C",
+"e": "O Barão do Rio Branco é associado à consolidação das fronteiras brasileiras por meios diplomáticos, e a política externa brasileira é tradicionalmente caracterizada pelo universalismo e pela busca de solução pacífica de controvérsias.",
+"velho": "Rio Branco; Itamaraty.",
+"aula": [
+"Barão do Rio Branco: consolidação das fronteiras por meio da diplomacia.",
+"Tradição do universalismo, do multilateralismo e da busca de autonomia, e a ideia de autonomia pela diversificação, em contraste com o alinhamento automático."
+]
+},
+{
+"id": "Q-POL-0372",
+"g": "E",
+"e": "O Barão do Rio Branco é associado à ampliação das fronteiras brasileiras por meio de guerras de conquista, e a política externa brasileira é tradicionalmente caracterizada pelo isolacionismo.",
+"velho": "Rio Branco; Itamaraty.",
+"aula": [
+"Barão do Rio Branco: consolidação das fronteiras por meio da diplomacia."
+]
+},
+{
+"id": "Q-POL-0373",
+"g": "C",
+"e": "O Brasil integra o G4, com Alemanha, Índia e Japão, que pleiteia reforma do Conselho de Segurança da ONU para ampliar o número de membros permanentes.",
+"velho": "G4; Conselho de Segurança.",
+"aula": [
+"O Brasil pleiteia assento permanente no Conselho de Segurança da ONU, no grupo G4 (Brasil, Alemanha, Índia e Japão)."
+]
+},
+{
+"id": "Q-POL-0374",
+"g": "E",
+"e": "O Brasil integra o G4, com Estados Unidos, Rússia e China, que são membros permanentes do Conselho de Segurança da ONU com poder de veto.",
+"velho": "G4; Conselho de Segurança.",
+"aula": [
+"O Brasil pleiteia assento permanente no Conselho de Segurança da ONU, no grupo G4 (Brasil, Alemanha, Índia e Japão)."
+]
+},
+{
+"id": "Q-POL-0375",
+"g": "C",
+"e": "A República Federativa do Brasil rege-se nas suas relações internacionais, entre outros, pelos princípios da independência nacional, da prevalência dos direitos humanos, da autodeterminação dos povos, da não intervenção e da igualdade entre os Estados.",
+"velho": "CF, art. 4º.",
+"aula": [
+"CF, art. 4º: a República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: I - independência nacional;",
+"Parágrafo único: a República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações."
+]
+},
+{
+"id": "Q-POL-0376",
+"g": "E",
+"e": "A República Federativa do Brasil rege-se nas suas relações internacionais, entre outros, pelos princípios da intervenção humanitária irrestrita, da hierarquia entre Estados e da supremacia das decisões de organismos regionais sobre a Constituição.",
+"velho": "CF, art. 4º.",
+"aula": [
+"CF, art. 4º: a República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: I - independência nacional;",
+"Parágrafo único: a República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações."
+]
+},
+{
+"id": "Q-POL-0377",
+"g": "C",
+"e": "O Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.",
+"velho": "CF, art. 4º, parágrafo único.",
+"aula": [
+"Parágrafo único: a República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações."
+]
+},
+{
+"id": "Q-POL-0378",
+"g": "E",
+"e": "O Brasil buscará exclusivamente a integração econômica com países desenvolvidos, sendo vedada a integração política ou cultural dos povos da América Latina.",
+"velho": "CF, art. 4º, parágrafo único.",
+"aula": [
+"Parágrafo único: a República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações."
+]
+},
+{
+"id": "Q-POL-0379",
+"g": "C",
+"e": "Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos da Constituição, e o Brasil se constitui em Estado Democrático de Direito.",
+"velho": "CF, art. 1º.",
+"aula": [
+"CF, art. 1º: a República Federativa do Brasil, formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político."
+]
+},
+{
+"id": "Q-POL-0380",
+"g": "E",
+"e": "Todo o poder emana do Estado, que o exerce por meio de representantes designados pelo Presidente, e o Brasil se constitui em Estado confessional de Direito.",
+"velho": "CF, art. 1º.",
+"aula": [
+"CF, art. 1º: a República Federativa do Brasil, formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político."
+]
+},
+{
+"id": "Q-POL-0381",
+"g": "C",
+"e": "O alistamento eleitoral e o voto são obrigatórios para os maiores de dezoito anos e facultativos para os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos.",
+"velho": "CF, art. 14, § 1º.",
+"aula": [
+"Voto: CF, art. 14, §1º: o alistamento eleitoral e o voto são obrigatórios para os maiores de dezoito anos e facultativos para os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos."
+]
+},
+{
+"id": "Q-POL-0382",
+"g": "E",
+"e": "O alistamento eleitoral e o voto são facultativos para os maiores de dezoito anos e obrigatórios para os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos.",
+"velho": "CF, art. 14, § 1º.",
+"aula": [
+"Voto: CF, art. 14, §1º: o alistamento eleitoral e o voto são obrigatórios para os maiores de dezoito anos e facultativos para os analfabetos, os maiores de setenta anos e os maiores de dezesseis e menores de dezoito anos."
+]
+},
+{
+"id": "Q-POL-0383",
+"g": "C",
+"e": "Não podem alistar-se como eleitores os estrangeiros e, durante o período do serviço militar obrigatório, os conscritos.",
+"velho": "CF, art. 14, § 2º.",
+"aula": [
+"CF, art. 1º: a República Federativa do Brasil, formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político."
+]
+},
+{
+"id": "Q-POL-0384",
+"g": "E",
+"e": "Podem alistar-se como eleitores os estrangeiros residentes há mais de cinco anos e os conscritos durante o serviço militar obrigatório.",
+"velho": "CF, art. 14, § 2º.",
+"aula": [
+"CF, art. 1º: a República Federativa do Brasil, formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político."
+]
+},
+{
+"id": "Q-POL-0385",
+"g": "C",
+"e": "A soberania popular é exercida pelo sufrágio universal e pelo voto direto e secreto, com valor igual para todos, e, nos termos da lei, mediante plebiscito, referendo e iniciativa popular.",
+"velho": "CF, art. 14.",
+"aula": [
+"CF, art. 1º: a República Federativa do Brasil, formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político."
+]
+},
+{
+"id": "Q-POL-0386",
+"g": "E",
+"e": "A soberania popular é exercida pelo voto direto e secreto, com valor proporcional à renda do eleitor, e é vedado o uso de plebiscito, referendo e iniciativa popular.",
+"velho": "CF, art. 14.",
+"aula": [
+"CF, art. 1º: a República Federativa do Brasil, formada pela união indissolúvel dos Estados, Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos a soberania, a cidadania, a dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa e o pluralismo político."
+]
+},
+{
+"id": "Q-POL-0387",
+"g": "C",
+"e": "Um Estado com população pequena elege oito Deputados Federais, e outro, muito populoso, elege setenta, de modo que a representação não é estritamente proporcional à população, o que a literatura chama de malapportionment.",
+"velho": "Malapportionment; CF, art. 45, § 1º.",
+"aula": [
+"A Câmara compõe-se de representantes do povo, eleitos pelo sistema proporcional, em cada Estado, Território e no Distrito Federal; o número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas…",
+"O Senado compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário; cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos; a representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços."
+]
+},
+{
+"id": "Q-POL-0388",
+"g": "E",
+"e": "Um Estado com população pequena elege oito Deputados Federais, e outro, muito populoso, elege setenta, de modo que a representação é estritamente proporcional à população, o que a literatura chama de distritão.",
+"velho": "Malapportionment; CF, art. 45, § 1º.",
+"aula": [
+"A Câmara compõe-se de representantes do povo, eleitos pelo sistema proporcional, em cada Estado, Território e no Distrito Federal; o número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas…",
+"O Senado compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário; cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos; a representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços."
+]
+},
+{
+"id": "Q-POL-0389",
+"g": "C",
+"e": "Em um país em que se realizam eleições periódicas, mas o governo restringe a imprensa independente e persegue opositores, a literatura classifica o regime como autoritarismo competitivo, ou democracia iliberal.",
+"velho": "Levitsky e Way; Zakaria.",
+"aula": [
+"Democracia: regime em que o poder emana do povo;",
+"Dahl (poliarquia): regimes reais de ampla contestação pública e participação inclusiva, com instituições como eleições livres, justas e frequentes, liberdade de expressão, fontes alternativas de informação, liberdade de associação e cidadania inclusiva; poliarquia não é a democracia ideal, mas a democracia existente."
+]
+},
+{
+"id": "Q-POL-0390",
+"g": "E",
+"e": "Em um país em que se realizam eleições periódicas, mas o governo restringe a imprensa independente e persegue opositores, a literatura classifica o regime como poliarquia plena, pois o voto basta à democracia.",
+"velho": "Levitsky e Way; Zakaria.",
+"aula": [
+"Democracia: regime em que o poder emana do povo;",
+"Dahl (poliarquia): regimes reais de ampla contestação pública e participação inclusiva, com instituições como eleições livres, justas e frequentes, liberdade de expressão, fontes alternativas de informação, liberdade de associação e cidadania inclusiva; poliarquia não é a democracia ideal, mas a democracia existente."
+]
+},
+{
+"id": "Q-POL-0391",
+"g": "C",
+"e": "Dahl chama poliarquia o regime caracterizado por alta contestação pública e alta inclusão, por entender que a democracia plena seria um ideal inalcançável.",
+"velho": "Dahl, Poliarquia.",
+"aula": [
+"Democracia: regime em que o poder emana do povo;",
+"Dahl (poliarquia): regimes reais de ampla contestação pública e participação inclusiva, com instituições como eleições livres, justas e frequentes, liberdade de expressão, fontes alternativas de informação, liberdade de associação e cidadania inclusiva; poliarquia não é a democracia ideal, mas a democracia existente."
+]
+},
+{
+"id": "Q-POL-0392",
+"g": "E",
+"e": "Dahl chama poliarquia o regime caracterizado por baixa contestação pública e baixa inclusão, por entender que a democracia plena já se realizou nas sociedades modernas.",
+"velho": "Dahl, Poliarquia.",
+"aula": [
+"Democracia: regime em que o poder emana do povo;",
+"Dahl (poliarquia): regimes reais de ampla contestação pública e participação inclusiva, com instituições como eleições livres, justas e frequentes, liberdade de expressão, fontes alternativas de informação, liberdade de associação e cidadania inclusiva; poliarquia não é a democracia ideal, mas a democracia existente."
+]
+},
+{
+"id": "Q-POL-0393",
+"g": "C",
+"e": "Arendt e Friedrich e Brzezinski descrevem o totalitarismo como regime de ideologia oficial, partido único, terror policial e controle da sociedade, ao passo que o autoritarismo, em Linz, tem pluralismo limitado e sem mobilização intensa.",
+"velho": "Arendt; Linz.",
+"aula": [
+"Autoritarismo (Linz): pluralismo político limitado, sem ideologia elaborada e diretriz, sem mobilização política intensa, com líder ou pequeno grupo exercendo o poder dentro de limites mal definidos.",
+"Totalitarismo: ideologia oficial abrangente, partido único de massa, mobilização intensa, controle monopolista dos meios de comunicação e do aparato de coerção, terror (Arendt, Friedrich e Brzezinski)."
+]
+},
+{
+"id": "Q-POL-0394",
+"g": "E",
+"e": "Arendt e Friedrich e Brzezinski descrevem o totalitarismo como regime de pluralismo político amplo e baixa intervenção do Estado, ao passo que o autoritarismo, em Linz, tem ideologia elaborada e mobilização intensa.",
+"velho": "Arendt; Linz.",
+"aula": [
+"Autoritarismo (Linz): pluralismo político limitado, sem ideologia elaborada e diretriz, sem mobilização política intensa, com líder ou pequeno grupo exercendo o poder dentro de limites mal definidos.",
+"Totalitarismo: ideologia oficial abrangente, partido único de massa, mobilização intensa, controle monopolista dos meios de comunicação e do aparato de coerção, terror (Arendt, Friedrich e Brzezinski)."
+]
+},
+{
+"id": "Q-POL-0395",
+"g": "C",
+"e": "Para Huntington, a terceira onda de democratização teve início em 1974, com a Revolução dos Cravos em Portugal, e, segundo o autor, está associada à crise de legitimidade dos regimes autoritários e ao crescimento econômico.",
+"velho": "Huntington, A Terceira Onda.",
+"aula": [
+"Huntington: três ondas de democratização (1828-1926; 1943-1962; a partir de 1974) e ondas reversas."
+]
+},
+{
+"id": "Q-POL-0396",
+"g": "E",
+"e": "Para Huntington, a terceira onda de democratização teve início em 1945, com o fim da Segunda Guerra, e, segundo o autor, nenhuma outra onda ocorreu depois dela. Essa seria a posição predominante na literatura especializada de ciência política.",
+"velho": "Huntington, A Terceira Onda.",
+"aula": [
+"Huntington: três ondas de democratização (1828-1926; 1943-1962; a partir de 1974) e ondas reversas."
+]
+},
+{
+"id": "Q-POL-0397",
+"g": "C",
+"e": "Em Lijphart, a democracia consensual caracteriza-se por governos de coalizão amplos, representação proporcional e federalismo, ao passo que a majoritária concentra o poder na maioria.",
+"velho": "Lijphart, Modelos de Democracia.",
+"aula": [
+"Lijphart: democracia majoritária (modelo Westminster: concentração de poder, bipartidarismo, sistema majoritário, Estado unitário) x democracia consensual (partilha de poder, multipartidarismo, representação proporcional, federalismo, coalizões amplas)."
+]
+},
+{
+"id": "Q-POL-0398",
+"g": "E",
+"e": "Em Lijphart, a democracia consensual caracteriza-se por governos de partido único, voto majoritário e unitarismo, ao passo que a majoritária dispersa o poder em coalizões.",
+"velho": "Lijphart, Modelos de Democracia.",
+"aula": [
+"Lijphart: democracia majoritária (modelo Westminster: concentração de poder, bipartidarismo, sistema majoritário, Estado unitário) x democracia consensual (partilha de poder, multipartidarismo, representação proporcional, federalismo, coalizões amplas)."
+]
+}
+]

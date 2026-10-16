@@ -1,0 +1,681 @@
+[
+{
+"id": "Q-POL-0189",
+"g": "C",
+"e": "Na concepção tridimensional de Lukes, a terceira face do poder consiste em moldar as preferências e crenças dos dominados, de modo que aceitem a dominação.",
+"velho": "Lukes, Power: A Radical View.",
+"aula": [
+"Dahl (concepção unidimensional): A tem poder sobre B na medida em que consegue fazer B fazer algo que B não faria de outro modo; o poder se revela em decisões observáveis.",
+"Lukes (três dimensões do poder): a terceira dimensão é a formação das preferências, o poder de moldar desejos e crenças, de modo que os dominados aceitem a dominação."
+]
+},
+{
+"id": "Q-POL-0190",
+"g": "E",
+"e": "Na concepção tridimensional de Lukes, a terceira face do poder consiste na coerção física direta contra os dominados, de modo que dispensa o consentimento.",
+"velho": "Lukes, Power: A Radical View.",
+"aula": [
+"Dahl (concepção unidimensional): A tem poder sobre B na medida em que consegue fazer B fazer algo que B não faria de outro modo; o poder se revela em decisões observáveis.",
+"Lukes (três dimensões do poder): a terceira dimensão é a formação das preferências, o poder de moldar desejos e crenças, de modo que os dominados aceitem a dominação."
+]
+},
+{
+"id": "Q-POL-0191",
+"g": "C",
+"e": "Para Foucault, o poder é disperso nas relações sociais e tem caráter produtivo, exercendo-se por meio de disciplina e vigilância, e não apenas como repressão localizada no Estado.",
+"velho": "Foucault, Vigiar e Punir; Microfísica do Poder.",
+"aula": [
+"Foucault: o poder é produtivo e disperso em relações (microfísica do poder), exercido por meio de disciplina e vigilância (biopoder), e não apenas repressivo e localizado no Estado."
+]
+},
+{
+"id": "Q-POL-0192",
+"g": "E",
+"e": "Para Foucault, o poder é localizado exclusivamente no Estado e tem caráter meramente repressivo, exercendo-se apenas pela proibição e pela força.",
+"velho": "Foucault, Vigiar e Punir; Microfísica do Poder.",
+"aula": [
+"Foucault: o poder é produtivo e disperso em relações (microfísica do poder), exercido por meio de disciplina e vigilância (biopoder), e não apenas repressivo e localizado no Estado."
+]
+},
+{
+"id": "Q-POL-0193",
+"g": "C",
+"e": "Na concepção de Dahl, o poder se revela em decisões observáveis, e A tem poder sobre B quando consegue fazer B fazer algo que B não faria de outro modo.",
+"velho": "Dahl, concepção unidimensional.",
+"aula": [
+"Dahl (concepção unidimensional): A tem poder sobre B na medida em que consegue fazer B fazer algo que B não faria de outro modo; o poder se revela em decisões observáveis.",
+"Bachrach e Baratz (segunda face do poder): o poder também se exerce impedindo que certas questões entrem na agenda (não decisões)."
+]
+},
+{
+"id": "Q-POL-0194",
+"g": "E",
+"e": "Na concepção de Dahl, o poder se revela na formação inconsciente das preferências dos dominados, e A tem poder sobre B mesmo quando B faria o mesmo sem a influência de A.",
+"velho": "Dahl, concepção unidimensional.",
+"aula": [
+"Dahl (concepção unidimensional): A tem poder sobre B na medida em que consegue fazer B fazer algo que B não faria de outro modo; o poder se revela em decisões observáveis.",
+"Lukes (três dimensões do poder): a terceira dimensão é a formação das preferências, o poder de moldar desejos e crenças, de modo que os dominados aceitem a dominação."
+]
+},
+{
+"id": "Q-POL-0195",
+"g": "C",
+"e": "No modelo dos múltiplos fluxos, de Kingdon, a janela de oportunidade se abre quando convergem os fluxos dos problemas, das alternativas de política e da política, e os empreendedores de políticas atuam para aproveitá-la.",
+"velho": "Kingdon, Agendas, Alternatives and Public Policies.",
+"aula": [
+"Kingdon (modelo dos múltiplos fluxos): a janela de oportunidade se abre quando os fluxos dos problemas, das políticas e da política (politics) convergem, com a atuação de empreendedores de políticas.",
+"Lowi (tipologia): políticas distributivas, regulatórias, redistributivas e constitutivas, e a política determina a arena política (policy determines politics)."
+]
+},
+{
+"id": "Q-POL-0196",
+"g": "E",
+"e": "No modelo dos múltiplos fluxos, de Kingdon, a mudança de política decorre exclusivamente da formulação racional e linear de alternativas, sem relação com a atuação de empreendedores ou com a convergência de fluxos.",
+"velho": "Kingdon, Agendas, Alternatives and Public Policies.",
+"aula": [
+"Kingdon (modelo dos múltiplos fluxos): a janela de oportunidade se abre quando os fluxos dos problemas, das políticas e da política (politics) convergem, com a atuação de empreendedores de políticas."
+]
+},
+{
+"id": "Q-POL-0197",
+"g": "C",
+"e": "Na tipologia de Lowi, as políticas públicas dividem-se em distributivas, regulatórias, redistributivas e constitutivas, e a política determina a arena política em que o processo decisório se desenvolve.",
+"velho": "Lowi, tipologia de políticas públicas.",
+"aula": [
+"Ciclo de políticas públicas: formação da agenda, formulação, tomada de decisão, implementação e avaliação.",
+"Lowi (tipologia): políticas distributivas, regulatórias, redistributivas e constitutivas, e a política determina a arena política (policy determines politics)."
+]
+},
+{
+"id": "Q-POL-0198",
+"g": "E",
+"e": "Na tipologia de Lowi, as políticas públicas dividem-se em federais, estaduais e municipais, e a arena política determina o tipo de política pública a ser formulada.",
+"velho": "Lowi, tipologia de políticas públicas.",
+"aula": [
+"Ciclo de políticas públicas: formação da agenda, formulação, tomada de decisão, implementação e avaliação.",
+"Lowi (tipologia): políticas distributivas, regulatórias, redistributivas e constitutivas, e a política determina a arena política (policy determines politics)."
+]
+},
+{
+"id": "Q-POL-0199",
+"g": "C",
+"e": "No incrementalismo, de Lindblom, as decisões públicas avançam por pequenas mudanças em relação ao status quo, em razão das limitações de informação e do conflito político.",
+"velho": "Lindblom, The Science of Muddling Through.",
+"aula": [
+"Incrementalismo (Lindblom): as decisões avançam por pequenas mudanças."
+]
+},
+{
+"id": "Q-POL-0200",
+"g": "E",
+"e": "No incrementalismo, de Lindblom, as decisões públicas resultam de uma análise racional abrangente de todas as alternativas possíveis, o que afasta a mudança gradual.",
+"velho": "Lindblom, The Science of Muddling Through.",
+"aula": [
+"Incrementalismo (Lindblom): as decisões avançam por pequenas mudanças."
+]
+},
+{
+"id": "Q-POL-0201",
+"g": "C",
+"e": "O ciclo das políticas públicas compreende a formação da agenda, a formulação, a tomada de decisão, a implementação e a avaliação.",
+"velho": "Ciclo de políticas públicas.",
+"aula": [
+"Ciclo de políticas públicas: formação da agenda, formulação, tomada de decisão, implementação e avaliação."
+]
+},
+{
+"id": "Q-POL-0202",
+"g": "E",
+"e": "O ciclo das políticas públicas compreende a implementação, a formulação, a avaliação e, por fim, a formação da agenda, nessa ordem obrigatória.",
+"velho": "Ciclo de políticas públicas.",
+"aula": [
+"Ciclo de políticas públicas: formação da agenda, formulação, tomada de decisão, implementação e avaliação."
+]
+},
+{
+"id": "Q-POL-0203",
+"g": "C",
+"e": "Lipsky chamou de burocratas de nível de rua os servidores que, na linha de frente, interagem diretamente com os cidadãos e exercem discricionariedade que afeta a implementação das políticas.",
+"velho": "Lipsky, Street-Level Bureaucracy.",
+"aula": [
+"Ciclo de políticas públicas: formação da agenda, formulação, tomada de decisão, implementação e avaliação.",
+"Implementação top-down e bottom-up (Lipsky: burocratas de nível de rua)."
+]
+},
+{
+"id": "Q-POL-0204",
+"g": "E",
+"e": "Lipsky chamou de burocratas de nível de rua os dirigentes de cúpula que formulam as políticas, sem contato direto com os cidadãos e sem discricionariedade na implementação.",
+"velho": "Lipsky, Street-Level Bureaucracy.",
+"aula": [
+"Ciclo de políticas públicas: formação da agenda, formulação, tomada de decisão, implementação e avaliação.",
+"Implementação top-down e bottom-up (Lipsky: burocratas de nível de rua)."
+]
+},
+{
+"id": "Q-POL-0205",
+"g": "C",
+"e": "Em Downs, os partidos agem como empresas que buscam maximizar votos, e, em competição bipartidária em uma única dimensão, tendem a convergir para as posições do eleitor mediano.",
+"velho": "Downs, Uma Teoria Econômica da Democracia.",
+"aula": [
+"Downs (Uma Teoria Econômica da Democracia): partidos agem como empresas que buscam maximizar votos, e os eleitores, racionalmente, tomam decisões com informação custosa (ignorância racional); o teorema do eleitor mediano prevê a convergência dos partidos ao centro em competição bipartidária unidimensional."
+]
+},
+{
+"id": "Q-POL-0206",
+"g": "E",
+"e": "Em Downs, os partidos agem como organizações voltadas exclusivamente à defesa de uma ideologia, e, em competição bipartidária em uma única dimensão, tendem a radicalizar suas posições para os extremos.",
+"velho": "Downs, Uma Teoria Econômica da Democracia.",
+"aula": [
+"Downs (Uma Teoria Econômica da Democracia): partidos agem como empresas que buscam maximizar votos, e os eleitores, racionalmente, tomam decisões com informação custosa (ignorância racional); o teorema do eleitor mediano prevê a convergência dos partidos ao centro em competição bipartidária unidimensional."
+]
+},
+{
+"id": "Q-POL-0207",
+"g": "C",
+"e": "Segundo Olson, indivíduos racionais não cooperam espontaneamente para obter bens coletivos, e grupos pequenos se organizam com mais facilidade do que grandes, salvo existência de incentivos seletivos ou coerção.",
+"velho": "Olson, A Lógica da Ação Coletiva.",
+"aula": [
+"Olson (A Lógica da Ação Coletiva): indivíduos racionais não cooperam espontaneamente para obter bens coletivos (problema do carona, free rider), e grupos pequenos se organizam com mais facilidade do que grupos grandes, salvo incentivos seletivos ou coerção."
+]
+},
+{
+"id": "Q-POL-0208",
+"g": "E",
+"e": "Segundo Olson, indivíduos racionais cooperam espontaneamente para obter bens coletivos, e grupos grandes se organizam com mais facilidade do que pequenos, mesmo na ausência de incentivos seletivos ou coerção.",
+"velho": "Olson, A Lógica da Ação Coletiva.",
+"aula": [
+"Olson (A Lógica da Ação Coletiva): indivíduos racionais não cooperam espontaneamente para obter bens coletivos (problema do carona, free rider), e grupos pequenos se organizam com mais facilidade do que grupos grandes, salvo incentivos seletivos ou coerção."
+]
+},
+{
+"id": "Q-POL-0209",
+"g": "C",
+"e": "O teorema da impossibilidade, de Arrow, sustenta que nenhum sistema de agregação de preferências individuais satisfaz, ao mesmo tempo, um conjunto de critérios razoáveis de justiça, e o paradoxo de Condorcet mostra que maiorias podem ser cíclicas.",
+"velho": "Arrow; Condorcet.",
+"aula": [
+"Arrow: teorema da impossibilidade, segundo o qual nenhum sistema de agregação de preferências individuais atende, ao mesmo tempo, a um conjunto de critérios razoáveis.",
+"Paradoxo de Condorcet: maiorias podem ser cíclicas."
+]
+},
+{
+"id": "Q-POL-0210",
+"g": "E",
+"e": "O teorema da impossibilidade, de Arrow, sustenta que a regra da maioria simples sempre produz uma escolha coletiva transitiva e consistente, e o paradoxo de Condorcet mostra que as maiorias nunca são cíclicas.",
+"velho": "Arrow; Condorcet.",
+"aula": [
+"Arrow: teorema da impossibilidade, segundo o qual nenhum sistema de agregação de preferências individuais atende, ao mesmo tempo, a um conjunto de critérios razoáveis.",
+"Paradoxo de Condorcet: maiorias podem ser cíclicas."
+]
+},
+{
+"id": "Q-POL-0211",
+"g": "C",
+"e": "A ignorância racional, em Downs, significa que o eleitor pode considerar racional não investir tempo em se informar, porque o custo da informação supera o benefício esperado de seu voto isolado.",
+"velho": "Downs.",
+"aula": [
+"Downs (Uma Teoria Econômica da Democracia): partidos agem como empresas que buscam maximizar votos, e os eleitores, racionalmente, tomam decisões com informação custosa (ignorância racional); o teorema do eleitor mediano prevê a convergência dos partidos ao centro em competição bipartidária unidimensional."
+]
+},
+{
+"id": "Q-POL-0212",
+"g": "E",
+"e": "A ignorância racional, em Downs, significa que o eleitor é irracional ao não se informar, porque o benefício esperado do voto individual sempre supera o custo da informação.",
+"velho": "Downs.",
+"aula": [
+"Downs (Uma Teoria Econômica da Democracia): partidos agem como empresas que buscam maximizar votos, e os eleitores, racionalmente, tomam decisões com informação custosa (ignorância racional); o teorema do eleitor mediano prevê a convergência dos partidos ao centro em competição bipartidária unidimensional."
+]
+},
+{
+"id": "Q-POL-0213",
+"g": "C",
+"e": "Lipset e Rokkan identificaram clivagens críticas que estruturaram os sistemas partidários europeus, como as oposições entre centro e periferia, Estado e Igreja, rural e urbano e capital e trabalho, e sustentaram que esses alinhamentos se congelaram.",
+"velho": "Lipset e Rokkan.",
+"aula": [
+"Lipset e Rokkan: as clivagens críticas que estruturaram os sistemas partidários europeus (centro-periferia, Estado-Igreja, rural-urbano e capital-trabalho), e a tese do congelamento dos alinhamentos partidários."
+]
+},
+{
+"id": "Q-POL-0214",
+"g": "E",
+"e": "Lipset e Rokkan identificaram uma única clivagem estruturante, a oposição entre capital e trabalho, e sustentaram que os alinhamentos partidários se alteram completamente a cada eleição. Tal conclusão decorreria, segundo esse entendimento, das características do arranjo institucional descrito.",
+"velho": "Lipset e Rokkan.",
+"aula": [
+"Lipset e Rokkan: as clivagens críticas que estruturaram os sistemas partidários europeus (centro-periferia, Estado-Igreja, rural-urbano e capital-trabalho), e a tese do congelamento dos alinhamentos partidários."
+]
+},
+{
+"id": "Q-POL-0215",
+"g": "C",
+"e": "Para Mainwaring, o sistema partidário brasileiro apresenta baixa institucionalização, com partidos fracos, alta volatilidade eleitoral e indisciplina dos parlamentares.",
+"velho": "Mainwaring, Rethinking Party Systems.",
+"aula": [
+"Mainwaring: o sistema partidário brasileiro apresenta baixa institucionalização, partidos fracos, alta volatilidade e indisciplina.",
+"Ames: o individualismo dos parlamentares e a busca de recursos para seus redutos (pork), em razão do sistema eleitoral de lista aberta."
+]
+},
+{
+"id": "Q-POL-0216",
+"g": "E",
+"e": "Para Mainwaring, o sistema partidário brasileiro apresenta alta institucionalização, com partidos fortes, baixa volatilidade eleitoral e elevada disciplina dos parlamentares.",
+"velho": "Mainwaring, Rethinking Party Systems.",
+"aula": [
+"Mainwaring: o sistema partidário brasileiro apresenta baixa institucionalização, partidos fracos, alta volatilidade e indisciplina.",
+"Ames: o individualismo dos parlamentares e a busca de recursos para seus redutos (pork), em razão do sistema eleitoral de lista aberta."
+]
+},
+{
+"id": "Q-POL-0217",
+"g": "C",
+"e": "A leitura de Limongi e Figueiredo contesta a visão de partidos fracos e parlamentares individualistas, sustentando que os partidos votam de forma disciplinada, em razão dos poderes legislativos do Presidente e dos líderes partidários.",
+"velho": "Limongi e Figueiredo x Ames.",
+"aula": [
+"Ames: o individualismo dos parlamentares e a busca de recursos para seus redutos (pork), em razão do sistema eleitoral de lista aberta.",
+"Limongi e Figueiredo: contra essa leitura, os partidos votam de forma disciplinada em razão dos poderes legislativos do Presidente e dos líderes."
+]
+},
+{
+"id": "Q-POL-0218",
+"g": "E",
+"e": "A leitura de Limongi e Figueiredo corrobora a visão de Ames, de que os partidos são fracos e os parlamentares agem de forma individualista, sem disciplina, em busca de recursos para seus redutos.",
+"velho": "Limongi e Figueiredo x Ames.",
+"aula": [
+"Ames: o individualismo dos parlamentares e a busca de recursos para seus redutos (pork), em razão do sistema eleitoral de lista aberta.",
+"Limongi e Figueiredo: contra essa leitura, os partidos votam de forma disciplinada em razão dos poderes legislativos do Presidente e dos líderes."
+]
+},
+{
+"id": "Q-POL-0219",
+"g": "C",
+"e": "O número efetivo de partidos, de Laakso e Taagepera, é o inverso da soma dos quadrados das proporções de votos ou cadeiras dos partidos, de modo que pondera o tamanho de cada um e mede a fragmentação do sistema.",
+"velho": "Laakso e Taagepera.",
+"aula": [
+"Mainwaring: o sistema partidário brasileiro apresenta baixa institucionalização, partidos fracos, alta volatilidade e indisciplina.",
+"Número efetivo de partidos (Laakso e Taagepera): índice que pondera o tamanho dos partidos e mede a fragmentação partidária.",
+"Número efetivo de partidos (Laakso e Taagepera): 1 dividido pela soma dos quadrados das proporções de votos ou cadeiras dos partidos.",
+"Magnitude do distrito: número de cadeiras em disputa em cada distrito; quanto maior, mais proporcional o resultado."
+]
+},
+{
+"id": "Q-POL-0220",
+"g": "E",
+"e": "O número efetivo de partidos, de Laakso e Taagepera, é o número total de partidos registrados na Justiça Eleitoral, sem ponderar o tamanho de cada um e sem relação com a fragmentação do sistema.",
+"velho": "Laakso e Taagepera.",
+"aula": [
+"Mainwaring: o sistema partidário brasileiro apresenta baixa institucionalização, partidos fracos, alta volatilidade e indisciplina.",
+"Número efetivo de partidos (Laakso e Taagepera): índice que pondera o tamanho dos partidos e mede a fragmentação partidária.",
+"Número efetivo de partidos (Laakso e Taagepera): 1 dividido pela soma dos quadrados das proporções de votos ou cadeiras dos partidos.",
+"Volatilidade eleitoral (Pedersen): mudança agregada na votação dos partidos de uma eleição para a seguinte."
+]
+},
+{
+"id": "Q-POL-0221",
+"g": "C",
+"e": "A volatilidade eleitoral mede a mudança agregada na votação dos partidos entre duas eleições sucessivas, e a desproporcionalidade mede a distância entre a proporção de votos e a proporção de cadeiras.",
+"velho": "Pedersen; Gallagher.",
+"aula": [
+"Volatilidade eleitoral (Pedersen): mudança agregada na votação dos partidos de uma eleição para a seguinte.",
+"Desproporcionalidade (Gallagher): distância entre a proporção de votos e a proporção de cadeiras."
+]
+},
+{
+"id": "Q-POL-0222",
+"g": "E",
+"e": "A volatilidade eleitoral mede a distância entre a proporção de votos e a proporção de cadeiras, e a desproporcionalidade mede a mudança agregada na votação dos partidos entre duas eleições sucessivas.",
+"velho": "Pedersen; Gallagher.",
+"aula": [
+"Volatilidade eleitoral (Pedersen): mudança agregada na votação dos partidos de uma eleição para a seguinte.",
+"Desproporcionalidade (Gallagher): distância entre a proporção de votos e a proporção de cadeiras."
+]
+},
+{
+"id": "Q-POL-0223",
+"g": "C",
+"e": "O distritão é um sistema majoritário aplicado a cargos legislativos, em que são eleitos os candidatos mais votados, independentemente do partido, e não é adotado no Brasil para as eleições proporcionais.",
+"velho": "Distritão.",
+"aula": [
+"Lista aberta (o eleitor define a ordem dos eleitos), lista fechada (o partido define a ordem antes da eleição) e lista flexível.",
+"Distritão: sistema majoritário aplicado a cargos legislativos, em que são eleitos os mais votados, independentemente do partido; não adotado no Brasil."
+]
+},
+{
+"id": "Q-POL-0224",
+"g": "E",
+"e": "O distritão é um sistema proporcional de lista fechada, em que o partido define a ordem dos eleitos, e é adotado no Brasil para as eleições de Deputados e Vereadores.",
+"velho": "Distritão.",
+"aula": [
+"Lista aberta (o eleitor define a ordem dos eleitos), lista fechada (o partido define a ordem antes da eleição) e lista flexível.",
+"Distritão: sistema majoritário aplicado a cargos legislativos, em que são eleitos os mais votados, independentemente do partido; não adotado no Brasil."
+]
+},
+{
+"id": "Q-POL-0225",
+"g": "C",
+"e": "No sistema alemão, o eleitor tem dois votos, um para o candidato do distrito e outro para a lista do partido, e a composição final é proporcional.",
+"velho": "Sistema proporcional personalizado.",
+"aula": [
+"Lista aberta (o eleitor define a ordem dos eleitos), lista fechada (o partido define a ordem antes da eleição) e lista flexível.",
+"Voto único transferível (Irlanda e Malta); voto alternativo (Austrália); sistema alemão: proporcional personalizado, em que o eleitor tem dois votos, um no distrito e outro na lista partidária."
+]
+},
+{
+"id": "Q-POL-0226",
+"g": "E",
+"e": "No sistema alemão, o eleitor tem um único voto, destinado ao candidato do distrito, e a composição final é majoritária.",
+"velho": "Sistema proporcional personalizado.",
+"aula": [
+"Voto único transferível (Irlanda e Malta); voto alternativo (Austrália); sistema alemão: proporcional personalizado, em que o eleitor tem dois votos, um no distrito e outro na lista partidária.",
+"Magnitude do distrito: número de cadeiras em disputa em cada distrito; quanto maior, mais proporcional o resultado."
+]
+},
+{
+"id": "Q-POL-0227",
+"g": "C",
+"e": "Quanto maior a magnitude do distrito, isto é, quanto maior o número de cadeiras em disputa, mais proporcional tende a ser o resultado da eleição.",
+"velho": "Magnitude do distrito.",
+"aula": [
+"Número efetivo de partidos (Laakso e Taagepera): 1 dividido pela soma dos quadrados das proporções de votos ou cadeiras dos partidos.",
+"Magnitude do distrito: número de cadeiras em disputa em cada distrito; quanto maior, mais proporcional o resultado."
+]
+},
+{
+"id": "Q-POL-0228",
+"g": "E",
+"e": "Quanto maior a magnitude do distrito, isto é, quanto maior o número de cadeiras em disputa, menos proporcional tende a ser o resultado da eleição.",
+"velho": "Magnitude do distrito.",
+"aula": [
+"Número efetivo de partidos (Laakso e Taagepera): 1 dividido pela soma dos quadrados das proporções de votos ou cadeiras dos partidos.",
+"Magnitude do distrito: número de cadeiras em disputa em cada distrito; quanto maior, mais proporcional o resultado."
+]
+},
+{
+"id": "Q-POL-0229",
+"g": "C",
+"e": "A idade mínima para ser Presidente da República, Vice-Presidente e Senador é de trinta e cinco anos, para Governador, trinta anos, para Deputado Federal e Prefeito, vinte e um anos, e para Vereador, dezoito anos.",
+"velho": "CF, art. 14, § 3º, VI.",
+"aula": [
+"São condições de elegibilidade, na forma da lei: a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, o domicílio eleitoral na circunscrição, a filiação partidária e a idade mínima de: trinta e cinco anos para Presidente e Vice-Presidente da República e Senador; trinta anos para Governador e Vice-Governador de Estado e do…",
+"O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos, poderão ser reeleitos para um único período subsequente (EC 16/1997)."
+]
+},
+{
+"id": "Q-POL-0230",
+"g": "E",
+"e": "A idade mínima para ser Presidente da República, Vice-Presidente e Senador é de trinta anos, para Governador, vinte e um anos, para Deputado Federal e Prefeito, dezoito anos, e para Vereador, dezesseis anos.",
+"velho": "CF, art. 14, § 3º, VI.",
+"aula": [
+"São condições de elegibilidade, na forma da lei: a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, o domicílio eleitoral na circunscrição, a filiação partidária e a idade mínima de: trinta e cinco anos para Presidente e Vice-Presidente da República e Senador; trinta anos para Governador e Vice-Governador de Estado e do…",
+"O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos, poderão ser reeleitos para um único período subsequente (EC 16/1997)."
+]
+},
+{
+"id": "Q-POL-0231",
+"g": "C",
+"e": "O Presidente da República, os Governadores, os Prefeitos e quem os houver sucedido ou substituído no curso do mandato poderão ser reeleitos para um único período subsequente.",
+"velho": "CF, art. 14, § 5º.",
+"aula": [
+"São condições de elegibilidade, na forma da lei: a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, o domicílio eleitoral na circunscrição, a filiação partidária e a idade mínima de: trinta e cinco anos para Presidente e Vice-Presidente da República e Senador; trinta anos para Governador e Vice-Governador de Estado e do…",
+"O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos, poderão ser reeleitos para um único período subsequente (EC 16/1997)."
+]
+},
+{
+"id": "Q-POL-0232",
+"g": "E",
+"e": "O Presidente da República, os Governadores, os Prefeitos e quem os houver sucedido ou substituído no curso do mandato poderão ser reeleitos para quantos períodos subsequentes desejarem.",
+"velho": "CF, art. 14, § 5º.",
+"aula": [
+"São condições de elegibilidade, na forma da lei: a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, o domicílio eleitoral na circunscrição, a filiação partidária e a idade mínima de: trinta e cinco anos para Presidente e Vice-Presidente da República e Senador; trinta anos para Governador e Vice-Governador de Estado e do…",
+"O Presidente da República, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou substituído no curso dos mandatos, poderão ser reeleitos para um único período subsequente (EC 16/1997)."
+]
+},
+{
+"id": "Q-POL-0233",
+"g": "C",
+"e": "O militar alistável é elegível e, se contar mais de dez anos de serviço, será agregado pela autoridade superior e, se eleito, passará à inatividade no ato da diplomação.",
+"velho": "CF, art. 14, § 8º.",
+"aula": [
+"Os militares alistáveis são elegíveis: se contar menos de dez anos de serviço, deverá afastar-se da atividade; se contar mais de dez anos, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade."
+]
+},
+{
+"id": "Q-POL-0234",
+"g": "E",
+"e": "O militar alistável é inelegível, vedada a candidatura a qualquer cargo eletivo enquanto estiver na ativa, independentemente do tempo de serviço.",
+"velho": "CF, art. 14, § 8º.",
+"aula": [
+"São condições de elegibilidade, na forma da lei: a nacionalidade brasileira, o pleno exercício dos direitos políticos, o alistamento eleitoral, o domicílio eleitoral na circunscrição, a filiação partidária e a idade mínima de: trinta e cinco anos para Presidente e Vice-Presidente da República e Senador; trinta anos para Governador e Vice-Governador de Estado e do…"
+]
+},
+{
+"id": "Q-POL-0235",
+"g": "C",
+"e": "É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos previstos na Constituição, entre eles a condenação criminal transitada em julgado, enquanto durarem seus efeitos, e a improbidade administrativa.",
+"velho": "CF, art. 15.",
+"aula": [
+"É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos de: I - cancelamento da naturalização por sentença transitada em julgado;",
+"III - condenação criminal transitada em julgado, enquanto durarem seus efeitos;"
+]
+},
+{
+"id": "Q-POL-0236",
+"g": "E",
+"e": "A cassação de direitos políticos é admitida por decisão fundamentada do Presidente da República, e a perda ou suspensão ocorre em qualquer caso de condenação criminal, ainda que sem trânsito em julgado.",
+"velho": "CF, art. 15.",
+"aula": [
+"É vedada a cassação de direitos políticos, cuja perda ou suspensão só se dará nos casos de: I - cancelamento da naturalização por sentença transitada em julgado;",
+"III - condenação criminal transitada em julgado, enquanto durarem seus efeitos;"
+]
+},
+{
+"id": "Q-POL-0237",
+"g": "C",
+"e": "A lei que alterar o processo eleitoral entra em vigor na data de sua publicação, mas não se aplica à eleição que ocorra até um ano da data de sua vigência, em respeito ao princípio da anualidade eleitoral.",
+"velho": "CF, art. 16.",
+"aula": [
+"Art. 16: a lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência (princípio da anualidade eleitoral, também chamado de anterioridade eleitoral)."
+]
+},
+{
+"id": "Q-POL-0238",
+"g": "E",
+"e": "A lei que alterar o processo eleitoral entra em vigor após seis meses de sua publicação e aplica-se imediatamente a qualquer eleição, em respeito ao princípio da anualidade eleitoral.",
+"velho": "CF, art. 16.",
+"aula": [
+"Art. 16: a lei que alterar o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência (princípio da anualidade eleitoral, também chamado de anterioridade eleitoral)."
+]
+},
+{
+"id": "Q-POL-0239",
+"g": "C",
+"e": "A Lei da Ficha Limpa, Lei Complementar 135/2010, alterou a Lei Complementar 64/1990, que trata dos casos de inelegibilidade, instituídos por lei complementar nos termos do art. 14, § 9º, da Constituição.",
+"velho": "CF, art. 14, § 9º; LC 135/2010.",
+"aula": [
+"Art. 14, §9º: lei complementar estabelecerá outros casos de inelegibilidade (Lei Complementar 64/1990, alterada pela LC 135/2010, a Lei da Ficha Limpa)."
+]
+},
+{
+"id": "Q-POL-0240",
+"g": "E",
+"e": "A Lei da Ficha Limpa, Lei Ordinária 135/2010, alterou o Código Eleitoral, e os casos de inelegibilidade podem ser instituídos por simples lei ordinária, nos termos do art. 14, § 9º, da Constituição.",
+"velho": "CF, art. 14, § 9º; LC 135/2010.",
+"aula": [
+"Art. 14, §9º: lei complementar estabelecerá outros casos de inelegibilidade (Lei Complementar 64/1990, alterada pela LC 135/2010, a Lei da Ficha Limpa)."
+]
+},
+{
+"id": "Q-POL-0241",
+"g": "C",
+"e": "O Senado compõe-se de três Senadores por Estado e pelo Distrito Federal, com mandato de oito anos, e sua representação é renovada de quatro em quatro anos, alternadamente, por um e dois terços.",
+"velho": "CF, art. 46.",
+"aula": [
+"A Câmara compõe-se de representantes do povo, eleitos pelo sistema proporcional, em cada Estado, Território e no Distrito Federal; o número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas…",
+"O Senado compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário; cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos; a representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços."
+]
+},
+{
+"id": "Q-POL-0242",
+"g": "E",
+"e": "O Senado compõe-se de dois Senadores por Estado e pelo Distrito Federal, com mandato de seis anos, e sua representação é renovada de quatro em quatro anos, alternadamente, por um e dois terços.",
+"velho": "CF, art. 46.",
+"aula": [
+"A Câmara compõe-se de representantes do povo, eleitos pelo sistema proporcional, em cada Estado, Território e no Distrito Federal; o número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas…",
+"O Senado compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário; cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos; a representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços."
+]
+},
+{
+"id": "Q-POL-0243",
+"g": "C",
+"e": "A Câmara dos Deputados compõe-se de representantes do povo, eleitos pelo sistema proporcional, e o Senado, de representantes dos Estados e do Distrito Federal, eleitos pelo princípio majoritário.",
+"velho": "CF, arts. 45 e 46.",
+"aula": [
+"A Câmara compõe-se de representantes do povo, eleitos pelo sistema proporcional, em cada Estado, Território e no Distrito Federal; o número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas…",
+"O Senado compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário; cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos; a representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços."
+]
+},
+{
+"id": "Q-POL-0244",
+"g": "E",
+"e": "A Câmara dos Deputados compõe-se de representantes dos Estados, eleitos pelo princípio majoritário, e o Senado, de representantes do povo, eleitos pelo sistema proporcional.",
+"velho": "CF, arts. 45 e 46.",
+"aula": [
+"A Câmara compõe-se de representantes do povo, eleitos pelo sistema proporcional, em cada Estado, Território e no Distrito Federal; o número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas…",
+"O Senado compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário; cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos; a representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços."
+]
+},
+{
+"id": "Q-POL-0245",
+"g": "C",
+"e": "Nenhuma unidade da Federação pode ter menos de oito ou mais de setenta Deputados Federais, e o número total, bem como a representação por unidade, é fixado por lei complementar, proporcionalmente à população.",
+"velho": "CF, art. 45, § 1º.",
+"aula": [
+"A Câmara compõe-se de representantes do povo, eleitos pelo sistema proporcional, em cada Estado, Território e no Distrito Federal; o número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas…",
+"O Senado compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário; cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos; a representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços."
+]
+},
+{
+"id": "Q-POL-0246",
+"g": "E",
+"e": "Nenhuma unidade da Federação pode ter menos de três ou mais de cinquenta Deputados Federais, e o número total, bem como a representação por unidade, é fixado por lei ordinária, em partes iguais entre os Estados.",
+"velho": "CF, art. 45, § 1º.",
+"aula": [
+"A Câmara compõe-se de representantes do povo, eleitos pelo sistema proporcional, em cada Estado, Território e no Distrito Federal; o número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas…",
+"O Senado compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário; cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos; a representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços."
+]
+},
+{
+"id": "Q-POL-0247",
+"g": "C",
+"e": "O bicameralismo, adotado pelo Congresso Nacional, associa-se ao federalismo, pois o Senado representa os Estados e o Distrito Federal em condição de igualdade numérica.",
+"velho": "Bicameralismo e federalismo.",
+"aula": [
+"O Poder Legislativo é exercido pelo Congresso Nacional, que se compõe da Câmara dos Deputados e do Senado Federal (bicameralismo).",
+"O Senado compõe-se de representantes dos Estados e do Distrito Federal, eleitos segundo o princípio majoritário; cada Estado e o Distrito Federal elegerão três Senadores, com mandato de oito anos; a representação de cada Estado e do Distrito Federal será renovada de quatro em quatro anos, alternadamente, por um e dois terços."
+]
+},
+{
+"id": "Q-POL-0248",
+"g": "E",
+"e": "O bicameralismo, adotado pelo Congresso Nacional, é incompatível com o federalismo, pois o Senado representa o povo em proporção à população de cada Estado.",
+"velho": "Bicameralismo e federalismo.",
+"aula": [
+"O Poder Legislativo é exercido pelo Congresso Nacional, que se compõe da Câmara dos Deputados e do Senado Federal (bicameralismo).",
+"A Câmara compõe-se de representantes do povo, eleitos pelo sistema proporcional, em cada Estado, Território e no Distrito Federal; o número total de Deputados, bem como a representação por Estado e pelo Distrito Federal, será estabelecido por lei complementar, proporcionalmente à população, procedendo-se aos ajustes necessários, no ano anterior às eleições, para que nenhuma daquelas…"
+]
+},
+{
+"id": "Q-POL-0249",
+"g": "C",
+"e": "Tancredo Neves foi eleito Presidente da República, em 1985, de forma indireta, pelo Colégio Eleitoral, e, em razão de sua morte, José Sarney assumiu a Presidência.",
+"velho": "Redemocratização.",
+"aula": [
+"Tancredo Neves foi eleito indiretamente pelo Colégio Eleitoral em 1985, e, com sua morte, José Sarney assumiu a Presidência.",
+"Collor foi eleito em 1989, na primeira eleição direta para Presidente desde 1960, e sofreu impeachment em 1992."
+]
+},
+{
+"id": "Q-POL-0250",
+"g": "E",
+"e": "Tancredo Neves foi eleito Presidente da República, em 1985, de forma direta, pelo voto popular, e, após o término de seu mandato, José Sarney foi eleito como seu sucessor.",
+"velho": "Redemocratização.",
+"aula": [
+"Tancredo Neves foi eleito indiretamente pelo Colégio Eleitoral em 1985, e, com sua morte, José Sarney assumiu a Presidência.",
+"Collor foi eleito em 1989, na primeira eleição direta para Presidente desde 1960, e sofreu impeachment em 1992."
+]
+},
+{
+"id": "Q-POL-0251",
+"g": "C",
+"e": "A emenda Dante de Oliveira, que previa eleições diretas para Presidente, foi rejeitada pela Câmara dos Deputados em 1984, apesar da mobilização popular das Diretas Já.",
+"velho": "Diretas Já.",
+"aula": [
+"Diretas Já (1984): movimento pela eleição direta para Presidente, e a emenda Dante de Oliveira foi rejeitada na Câmara."
+]
+},
+{
+"id": "Q-POL-0252",
+"g": "E",
+"e": "A emenda Dante de Oliveira, que previa eleições diretas para Presidente, foi aprovada pela Câmara dos Deputados em 1984, em razão da mobilização popular das Diretas Já.",
+"velho": "Diretas Já.",
+"aula": [
+"Diretas Já (1984): movimento pela eleição direta para Presidente, e a emenda Dante de Oliveira foi rejeitada na Câmara."
+]
+},
+{
+"id": "Q-POL-0253",
+"g": "C",
+"e": "Fernando Collor foi eleito em 1989, na primeira eleição direta para Presidente desde 1960, e sofreu impeachment em 1992.",
+"velho": "Marcos políticos.",
+"aula": [
+"Diretas Já (1984): movimento pela eleição direta para Presidente, e a emenda Dante de Oliveira foi rejeitada na Câmara.",
+"Collor foi eleito em 1989, na primeira eleição direta para Presidente desde 1960, e sofreu impeachment em 1992."
+]
+},
+{
+"id": "Q-POL-0254",
+"g": "E",
+"e": "Fernando Collor foi eleito em 1985, na primeira eleição direta para Presidente desde 1930, e sofreu impeachment em 1994.",
+"velho": "Marcos políticos.",
+"aula": [
+"Diretas Já (1984): movimento pela eleição direta para Presidente, e a emenda Dante de Oliveira foi rejeitada na Câmara.",
+"Collor foi eleito em 1989, na primeira eleição direta para Presidente desde 1960, e sofreu impeachment em 1992."
+]
+},
+{
+"id": "Q-POL-0255",
+"g": "C",
+"e": "A Emenda Constitucional 86/2015 tornou de execução obrigatória as emendas parlamentares individuais ao orçamento, e a Emenda Constitucional 100/2019 estendeu a obrigatoriedade às emendas de bancada.",
+"velho": "EC 86/2015; EC 100/2019.",
+"aula": [
+"EC 86/2015: emendas parlamentares individuais ao orçamento tornaram-se de execução obrigatória;",
+"EC 100/2019: emendas de bancada."
+]
+},
+{
+"id": "Q-POL-0256",
+"g": "E",
+"e": "A Emenda Constitucional 86/2015 tornou facultativa a execução das emendas parlamentares individuais ao orçamento, e a Emenda Constitucional 100/2019 proibiu as emendas de bancada.",
+"velho": "EC 86/2015; EC 100/2019.",
+"aula": [
+"EC 86/2015: emendas parlamentares individuais ao orçamento tornaram-se de execução obrigatória;",
+"EC 100/2019: emendas de bancada."
+]
+},
+{
+"id": "Q-POL-0257",
+"g": "C",
+"e": "Para Linz, o presidencialismo é mais propenso a crises em razão da rigidez do mandato fixo, da dupla legitimidade do Presidente e do Legislativo e da lógica de soma zero da eleição majoritária.",
+"velho": "Linz, O Fracasso do Presidencialismo.",
+"aula": [
+"Linz (O Fracasso do Presidencialismo): o presidencialismo é mais propenso a crises e rupturas, em razão da rigidez do mandato fixo, da dupla legitimidade (Presidente e Legislativo eleitos separadamente) e da lógica de soma zero da eleição majoritária."
+]
+},
+{
+"id": "Q-POL-0258",
+"g": "E",
+"e": "Para Linz, o presidencialismo é mais estável que o parlamentarismo em razão da flexibilidade do mandato, da legitimidade única do governo e da lógica de soma positiva da eleição proporcional.",
+"velho": "Linz, O Fracasso do Presidencialismo.",
+"aula": [
+"Linz (O Fracasso do Presidencialismo): o presidencialismo é mais propenso a crises e rupturas, em razão da rigidez do mandato fixo, da dupla legitimidade (Presidente e Legislativo eleitos separadamente) e da lógica de soma zero da eleição majoritária."
+]
+}
+]

@@ -1,0 +1,697 @@
+[
+{
+"id": "Q-LP-0098",
+"g": "E",
+"e": "Em 'Tratam-se de projetos relevantes', o verbo fica no plural, pois concorda com 'projetos'.",
+"velho": "Tratar-se de: singular.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0099",
+"g": "C",
+"e": "Em 'A maioria dos deputados votou a favor', o verbo no singular concorda com o núcleo 'maioria', sendo também admitido o plural.",
+"velho": "Coletivo + especificador: ambos.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0100",
+"g": "E",
+"e": "Em 'A maioria dos deputados votou a favor', o verbo no singular concorda com o núcleo 'maioria', mas o plural é incorreto.",
+"velho": "Coletivo + especificador: ambos.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0101",
+"g": "C",
+"e": "Em 'Mais de um deputado votou contra', o verbo fica no singular.",
+"velho": "'Mais de um' + singular: verbo singular.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Pegadinha: concordar com 'cerca' em vez do numeral; plural com 'mais de um'."
+]
+},
+{
+"id": "Q-LP-0102",
+"g": "E",
+"e": "Em 'Mais de um deputado votaram contra', o verbo fica no plural, concordando com a ideia de pluralidade.",
+"velho": "'Mais de um' + singular: verbo singular.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0103",
+"g": "C",
+"e": "Em 'Um dos deputados que votaram contra era do partido X', o verbo da oração adjetiva concorda no plural com 'deputados'.",
+"velho": "'Um dos que': plural.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0104",
+"g": "E",
+"e": "Em 'Um dos deputados que votaram contra era do partido X', o verbo da oração adjetiva deveria estar no singular, concordando com 'um'.",
+"velho": "'Um dos que': plural.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0105",
+"g": "C",
+"e": "Em 'Cerca de cem deputados faltaram', o verbo concorda com o numeral que a expressão 'cerca de' antecede.",
+"velho": "'Cerca de' não é o núcleo.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0106",
+"g": "E",
+"e": "Em 'Cerca de cem deputados faltaram', o verbo deveria estar no singular, concordando com o substantivo 'cerca'.",
+"velho": "'Cerca de' não é o núcleo.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0107",
+"g": "C",
+"e": "Em 'Somos nós que decidimos', o verbo da oração adjetiva concorda com o pronome 'nós', antecedente do relativo 'que'.",
+"velho": "'Que' retoma o antecedente.",
+"aula": [
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'.",
+"Pegadinha: concordar com 'cerca' em vez do numeral; plural com 'mais de um'."
+]
+},
+{
+"id": "Q-LP-0108",
+"g": "E",
+"e": "Em 'Somos nós que decidem', o verbo da oração adjetiva concorda com o relativo 'que', na terceira pessoa. Trata-se de prática corrente.",
+"velho": "'Que' retoma o antecedente.",
+"aula": [
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'.",
+"Pegadinha: concordar com 'cerca' em vez do numeral; plural com 'mais de um'."
+]
+},
+{
+"id": "Q-LP-0109",
+"g": "C",
+"e": "Em 'Cada um dos deputados apresentou emendas', o verbo concorda no singular com 'cada um'.",
+"velho": "'Cada um': singular.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0110",
+"g": "E",
+"e": "Em 'Cada um dos deputados apresentaram emendas', o verbo concorda no plural com 'deputados'.",
+"velho": "'Cada um': singular.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0111",
+"g": "C",
+"e": "Em 'Os Estados Unidos apoiaram a medida', o verbo concorda no plural com o nome próprio acompanhado de artigo no plural.",
+"velho": "Artigo plural: verbo plural.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0112",
+"g": "E",
+"e": "Em 'Os Estados Unidos apoiou a medida', o verbo concorda no singular com o nome próprio, ainda que o artigo esteja no plural.",
+"velho": "Artigo plural: verbo plural.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0113",
+"g": "C",
+"e": "Em 'Mais de dez deputados faltaram', o verbo concorda no plural com o numeral.",
+"velho": "'Mais de dez': plural.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0114",
+"g": "E",
+"e": "Em 'Mais de dez deputados faltou', o verbo concorda no singular com 'mais de'.",
+"velho": "'Mais de dez': plural.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Relativo 'que': concorda com o antecedente ('Somos nós que decidimos'). 'Cada um dos deputados apresentou' (singular). Nomes próprios no plural com artigo: 'Os Estados Unidos apoiaram'."
+]
+},
+{
+"id": "Q-LP-0115",
+"g": "C",
+"e": "A frase 'Era uma hora quando a sessão terminou' atende à norma-padrão, pois o verbo concorda com o numeral que indica a hora.",
+"velho": "Verbo ser com hora: concorda com o numeral.",
+"aula": [
+"Com horas, o verbo concorda com o numeral: 'Era uma hora', 'Eram duas horas'. Verbos 'bater', 'dar', 'soar' com horas concordam com o numeral: 'Bateram cinco horas'."
+]
+},
+{
+"id": "Q-LP-0116",
+"g": "E",
+"e": "A frase 'Eram uma hora quando a sessão terminou' atende à norma-padrão, pois o verbo vai ao plural em indicações de hora.",
+"velho": "Verbo ser com hora: concorda com o numeral.",
+"aula": [
+"Com horas, o verbo concorda com o numeral: 'Era uma hora', 'Eram duas horas'. Verbos 'bater', 'dar', 'soar' com horas concordam com o numeral: 'Bateram cinco horas'.",
+"Pegadinha: 'Eram uma hora', 'Bateu cinco horas'."
+]
+},
+{
+"id": "Q-LP-0117",
+"g": "C",
+"e": "A frase 'Bateram cinco horas no relógio da Câmara' atende à norma-padrão, pois o verbo bater concorda com o numeral que indica as horas.",
+"velho": "Bater/dar/soar + horas: concorda.",
+"aula": [
+"Com horas, o verbo concorda com o numeral: 'Era uma hora', 'Eram duas horas'. Verbos 'bater', 'dar', 'soar' com horas concordam com o numeral: 'Bateram cinco horas'.",
+"Pegadinha: 'Eram uma hora', 'Bateu cinco horas'."
+]
+},
+{
+"id": "Q-LP-0118",
+"g": "E",
+"e": "A frase 'Bateu cinco horas no relógio da Câmara' atende à norma-padrão, pois o verbo bater é impessoal. Isso é consenso.",
+"velho": "Bater/dar/soar + horas: concorda.",
+"aula": [
+"Com horas, o verbo concorda com o numeral: 'Era uma hora', 'Eram duas horas'. Verbos 'bater', 'dar', 'soar' com horas concordam com o numeral: 'Bateram cinco horas'.",
+"Pegadinha: 'Eram uma hora', 'Bateu cinco horas'."
+]
+},
+{
+"id": "Q-LP-0119",
+"g": "C",
+"e": "A frase 'É proibida a entrada de estranhos' atende à norma-padrão, pois há artigo antes do substantivo e o adjetivo concorda com ele.",
+"velho": "Com artigo, concorda.",
+"aula": [
+"'É proibido/necessário/bom' fica invariável sem artigo ('É proibido entrada'); com artigo concorda ('É proibida a entrada').",
+"Pegadinha: 'meia cansada', 'bastantes preocupadas', 'seguem anexo os documentos', 'obrigado' dito por mulher, 'menas'."
+]
+},
+{
+"id": "Q-LP-0120",
+"g": "E",
+"e": "A frase 'É proibido a entrada de estranhos' atende à norma-padrão, pois a expressão 'é proibido' é invariável em qualquer contexto.",
+"velho": "Com artigo, concorda.",
+"aula": [
+"'É proibido/necessário/bom' fica invariável sem artigo ('É proibido entrada'); com artigo concorda ('É proibida a entrada').",
+"Pegadinha: 'meia cansada', 'bastantes preocupadas', 'seguem anexo os documentos', 'obrigado' dito por mulher, 'menas'."
+]
+},
+{
+"id": "Q-LP-0121",
+"g": "C",
+"e": "A frase 'Ela está meio cansada' atende à norma-padrão, pois 'meio' é advérbio e fica invariável.",
+"velho": "'Meio' advérbio: invariável.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"'É proibido/necessário/bom' fica invariável sem artigo ('É proibido entrada'); com artigo concorda ('É proibida a entrada')."
+]
+},
+{
+"id": "Q-LP-0122",
+"g": "E",
+"e": "A frase 'Ela está meia cansada' atende à norma-padrão, pois 'meio' concorda com o adjetivo.",
+"velho": "'Meio' advérbio: invariável.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"'É proibido/necessário/bom' fica invariável sem artigo ('É proibido entrada'); com artigo concorda ('É proibida a entrada')."
+]
+},
+{
+"id": "Q-LP-0123",
+"g": "C",
+"e": "A frase 'Seguem anexos os documentos solicitados' atende à norma-padrão, pois 'anexo' concorda com o substantivo.",
+"velho": "'Anexo' é adjetivo: concorda.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"Pegadinha: 'meia cansada', 'bastantes preocupadas', 'seguem anexo os documentos', 'obrigado' dito por mulher, 'menas'."
+]
+},
+{
+"id": "Q-LP-0124",
+"g": "E",
+"e": "A frase 'Seguem anexo os documentos solicitados' atende à norma-padrão, pois 'anexo' é invariável. Trata-se de prática corrente.",
+"velho": "'Anexo' é adjetivo: concorda.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"Pegadinha: 'meia cansada', 'bastantes preocupadas', 'seguem anexo os documentos', 'obrigado' dito por mulher, 'menas'."
+]
+},
+{
+"id": "Q-LP-0125",
+"g": "C",
+"e": "Na frase 'Obrigada', disse a ministra, a forma 'obrigada' concorda com o gênero de quem fala.",
+"velho": "'Obrigado' concorda com quem fala.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"Pegadinha: 'meia cansada', 'bastantes preocupadas', 'seguem anexo os documentos', 'obrigado' dito por mulher, 'menas'."
+]
+},
+{
+"id": "Q-LP-0126",
+"g": "E",
+"e": "Na frase 'Obrigado', disse a ministra, a forma 'obrigado' é invariável e atende à norma-padrão.",
+"velho": "'Obrigado' concorda com quem fala.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"'É proibido/necessário/bom' fica invariável sem artigo ('É proibido entrada'); com artigo concorda ('É proibida a entrada')."
+]
+},
+{
+"id": "Q-LP-0127",
+"g": "C",
+"e": "A frase 'Elas mesmas redigiram o texto' atende à norma-padrão, pois 'mesmas' concorda com o pronome 'elas'.",
+"velho": "'Mesmo' adjetivo/pronome: concorda.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"Pegadinha: 'meia cansada', 'bastantes preocupadas', 'seguem anexo os documentos', 'obrigado' dito por mulher, 'menas'."
+]
+},
+{
+"id": "Q-LP-0128",
+"g": "E",
+"e": "A frase 'Elas mesmo redigiram o texto' atende à norma-padrão, pois 'mesmo' é invariável. Trata-se de prática corrente.",
+"velho": "'Mesmo' adjetivo/pronome: concorda.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"'É proibido/necessário/bom' fica invariável sem artigo ('É proibido entrada'); com artigo concorda ('É proibida a entrada')."
+]
+},
+{
+"id": "Q-LP-0129",
+"g": "C",
+"e": "Em 'Elas estão bastante preocupadas', 'bastante' é advérbio e fica invariável.",
+"velho": "'Bastante' modificando adjetivo: invariável.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"'É proibido/necessário/bom' fica invariável sem artigo ('É proibido entrada'); com artigo concorda ('É proibida a entrada')."
+]
+},
+{
+"id": "Q-LP-0130",
+"g": "E",
+"e": "A frase 'Elas estão bastantes preocupadas' atende à norma-padrão, pois 'bastante' concorda com 'preocupadas'.",
+"velho": "'Bastante' modificando adjetivo: invariável.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"'É proibido/necessário/bom' fica invariável sem artigo ('É proibido entrada'); com artigo concorda ('É proibida a entrada')."
+]
+},
+{
+"id": "Q-LP-0131",
+"g": "C",
+"e": "A frase 'Havia menos servidores na sessão' atende à norma-padrão, pois 'menos' é invariável.",
+"velho": "'Menos' é invariável.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"Pegadinha: 'meia cansada', 'bastantes preocupadas', 'seguem anexo os documentos', 'obrigado' dito por mulher, 'menas'."
+]
+},
+{
+"id": "Q-LP-0132",
+"g": "E",
+"e": "A frase 'Havia menas servidoras na sessão' atende à norma-padrão, pois 'menos' concorda com o substantivo feminino.",
+"velho": "'Menos' é invariável.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"'É proibido/necessário/bom' fica invariável sem artigo ('É proibido entrada'); com artigo concorda ('É proibida a entrada')."
+]
+},
+{
+"id": "Q-LP-0133",
+"g": "C",
+"e": "Em 'Obtivemos as melhores condições possíveis', 'possíveis' concorda com 'condições'.",
+"velho": "Adjetivo concorda.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"Pegadinha: 'meia cansada', 'bastantes preocupadas', 'seguem anexo os documentos', 'obrigado' dito por mulher, 'menas'."
+]
+},
+{
+"id": "Q-LP-0134",
+"g": "E",
+"e": "Em 'Obtivemos as melhores condições possível', 'possível' é invariável e atende à norma-padrão.",
+"velho": "Adjetivo concorda.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"'É proibido/necessário/bom' fica invariável sem artigo ('É proibido entrada'); com artigo concorda ('É proibida a entrada')."
+]
+},
+{
+"id": "Q-LP-0135",
+"g": "C",
+"e": "A frase 'Deve haver problemas no sistema' atende à norma-padrão, pois o auxiliar acompanha o verbo impessoal haver e fica no singular.",
+"velho": "Auxiliar de impessoal: singular.",
+"aula": [
+"O auxiliar de locução com impessoal fica no singular: 'Deve haver problemas'. Locução com existir concorda: 'Podem existir falhas'. Voz passiva analítica: o auxiliar concorda com o sujeito paciente ('Devem ser votados dois projetos').",
+"Pegadinha: 'Devem haver problemas' (errado), 'Pode existir falhas' (errado), 'Deve ser votados dois projetos' (errado)."
+]
+},
+{
+"id": "Q-LP-0136",
+"g": "E",
+"e": "A frase 'Devem haver problemas no sistema' atende à norma-padrão, pois o auxiliar concorda com 'problemas'. Trata-se de prática corrente.",
+"velho": "Auxiliar de impessoal: singular.",
+"aula": [
+"O auxiliar de locução com impessoal fica no singular: 'Deve haver problemas'. Locução com existir concorda: 'Podem existir falhas'. Voz passiva analítica: o auxiliar concorda com o sujeito paciente ('Devem ser votados dois projetos').",
+"Pegadinha: 'Devem haver problemas' (errado), 'Pode existir falhas' (errado), 'Deve ser votados dois projetos' (errado)."
+]
+},
+{
+"id": "Q-LP-0137",
+"g": "C",
+"e": "A frase 'Podem existir falhas no sistema' atende à norma-padrão, pois o auxiliar concorda com o sujeito de existir.",
+"velho": "Existir tem sujeito.",
+"aula": [
+"O auxiliar de locução com impessoal fica no singular: 'Deve haver problemas'. Locução com existir concorda: 'Podem existir falhas'. Voz passiva analítica: o auxiliar concorda com o sujeito paciente ('Devem ser votados dois projetos').",
+"Pegadinha: 'Devem haver problemas' (errado), 'Pode existir falhas' (errado), 'Deve ser votados dois projetos' (errado)."
+]
+},
+{
+"id": "Q-LP-0138",
+"g": "E",
+"e": "A frase 'Pode existir falhas no sistema' atende à norma-padrão, pois existir é impessoal. Isso é consenso.",
+"velho": "Existir tem sujeito.",
+"aula": [
+"O auxiliar de locução com impessoal fica no singular: 'Deve haver problemas'. Locução com existir concorda: 'Podem existir falhas'. Voz passiva analítica: o auxiliar concorda com o sujeito paciente ('Devem ser votados dois projetos').",
+"Pegadinha: 'Devem haver problemas' (errado), 'Pode existir falhas' (errado), 'Deve ser votados dois projetos' (errado)."
+]
+},
+{
+"id": "Q-LP-0139",
+"g": "C",
+"e": "A frase 'Devem ser votados dois projetos hoje' atende à norma-padrão, pois o auxiliar concorda com o sujeito paciente.",
+"velho": "Passiva: auxiliar concorda com o sujeito.",
+"aula": [
+"O auxiliar de locução com impessoal fica no singular: 'Deve haver problemas'. Locução com existir concorda: 'Podem existir falhas'. Voz passiva analítica: o auxiliar concorda com o sujeito paciente ('Devem ser votados dois projetos').",
+"Pegadinha: 'Devem haver problemas' (errado), 'Pode existir falhas' (errado), 'Deve ser votados dois projetos' (errado)."
+]
+},
+{
+"id": "Q-LP-0140",
+"g": "E",
+"e": "A frase 'Deve ser votados dois projetos hoje' atende à norma-padrão, pois o auxiliar permanece no singular. Trata-se de prática corrente.",
+"velho": "Passiva: auxiliar concorda com o sujeito.",
+"aula": [
+"O auxiliar de locução com impessoal fica no singular: 'Deve haver problemas'. Locução com existir concorda: 'Podem existir falhas'. Voz passiva analítica: o auxiliar concorda com o sujeito paciente ('Devem ser votados dois projetos').",
+"Pegadinha: 'Devem haver problemas' (errado), 'Pode existir falhas' (errado), 'Deve ser votados dois projetos' (errado)."
+]
+},
+{
+"id": "Q-LP-0141",
+"g": "C",
+"e": "Em 'Estudou muito, logo foi aprovado', 'logo' introduz uma conclusão.",
+"velho": "'Logo' é conclusiva.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0142",
+"g": "E",
+"e": "Em 'Estudou muito, logo foi aprovado', 'logo' introduz uma oposição.",
+"velho": "'Logo' é conclusiva.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0143",
+"g": "C",
+"e": "Em 'Cale-se, pois o juiz chegou', 'pois' introduz uma explicação.",
+"velho": "'Pois' antes do verbo explica.",
+"aula": [
+"'Pois' antes do verbo explica ('Cale-se, pois o juiz chegou'); depois do verbo conclui ('O réu é culpado; deve, pois, ser condenado'). O 'e' pode ter valor adversativo: 'Estudou e não passou'.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0144",
+"g": "E",
+"e": "Em 'Cale-se, pois o juiz chegou', 'pois' introduz uma conclusão.",
+"velho": "'Pois' antes do verbo explica.",
+"aula": [
+"'Pois' antes do verbo explica ('Cale-se, pois o juiz chegou'); depois do verbo conclui ('O réu é culpado; deve, pois, ser condenado'). O 'e' pode ter valor adversativo: 'Estudou e não passou'.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0145",
+"g": "C",
+"e": "Em 'O réu é culpado; deve, pois, ser condenado', 'pois' tem valor conclusivo.",
+"velho": "'Pois' depois do verbo conclui.",
+"aula": [
+"'Pois' antes do verbo explica ('Cale-se, pois o juiz chegou'); depois do verbo conclui ('O réu é culpado; deve, pois, ser condenado'). O 'e' pode ter valor adversativo: 'Estudou e não passou'.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0146",
+"g": "E",
+"e": "Em 'O réu é culpado; deve, pois, ser condenado', 'pois' tem valor explicativo.",
+"velho": "'Pois' depois do verbo conclui.",
+"aula": [
+"'Pois' antes do verbo explica ('Cale-se, pois o juiz chegou'); depois do verbo conclui ('O réu é culpado; deve, pois, ser condenado'). O 'e' pode ter valor adversativo: 'Estudou e não passou'.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0147",
+"g": "C",
+"e": "Em 'O projeto é bom; no entanto, não será votado', 'no entanto' pode ser substituído por 'contudo' sem alteração da relação lógica.",
+"velho": "No entanto = contudo (oposição).",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0148",
+"g": "E",
+"e": "Em 'O projeto é bom; no entanto, não será votado', 'no entanto' pode ser substituído por 'portanto' sem alteração da relação lógica.",
+"velho": "No entanto = contudo (oposição).",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0149",
+"g": "C",
+"e": "Em 'Ora votava a favor, ora votava contra', a correlação 'ora… ora' exprime alternância.",
+"velho": "Ora… ora = alternância.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0150",
+"g": "E",
+"e": "Em 'Ora votava a favor, ora votava contra', a correlação 'ora… ora' exprime conclusão.",
+"velho": "Ora… ora = alternância.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0151",
+"g": "C",
+"e": "Em 'Estudou e não passou', a conjunção 'e' estabelece relação de oposição entre as orações.",
+"velho": "'E' pode ter valor adversativo.",
+"aula": [
+"'Pois' antes do verbo explica ('Cale-se, pois o juiz chegou'); depois do verbo conclui ('O réu é culpado; deve, pois, ser condenado'). O 'e' pode ter valor adversativo: 'Estudou e não passou'.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0152",
+"g": "E",
+"e": "Em 'Estudou e não passou', a conjunção 'e' estabelece relação de causa entre as orações.",
+"velho": "'E' pode ter valor adversativo.",
+"aula": [
+"'Pois' antes do verbo explica ('Cale-se, pois o juiz chegou'); depois do verbo conclui ('O réu é culpado; deve, pois, ser condenado'). O 'e' pode ter valor adversativo: 'Estudou e não passou'.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0153",
+"g": "C",
+"e": "Em 'Não só estudou, mas também trabalhou', a correlação indica adição.",
+"velho": "Não só… mas também = adição.",
+"aula": [
+"Aditivas: e, nem, não só… mas também. Adversativas: mas, porém, contudo, todavia, entretanto, no entanto. Alternativas: ou, ora… ora, quer… quer. Conclusivas: logo, portanto, por isso, assim. Explicativas: que, porque, pois.",
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0154",
+"g": "E",
+"e": "Em 'Não só estudou, mas também trabalhou', a correlação indica concessão.",
+"velho": "Não só… mas também = adição.",
+"aula": [
+"Pegadinha: a banca troca a relação lógica (conclusão por oposição, adição por concessão) e pergunta se o sentido se mantém."
+]
+},
+{
+"id": "Q-LP-0155",
+"g": "C",
+"e": "Em 'Embora estivesse cansado, o relator concluiu o parecer', a oração iniciada por 'embora' exprime concessão.",
+"velho": "Embora = concessão.",
+"aula": [
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0156",
+"g": "E",
+"e": "Em 'Embora estivesse cansado, o relator concluiu o parecer', a oração iniciada por 'embora' exprime causa.",
+"velho": "Embora = concessão.",
+"aula": [
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0157",
+"g": "C",
+"e": "Em 'Caso o prazo seja prorrogado, a votação será adiada', 'caso' introduz condição.",
+"velho": "Caso = condição.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0158",
+"g": "E",
+"e": "Em 'Caso o prazo seja prorrogado, a votação será adiada', 'caso' introduz finalidade.",
+"velho": "Caso = condição.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0159",
+"g": "C",
+"e": "Em 'Votou-se à noite, a fim de que o prazo fosse cumprido', a locução 'a fim de que' introduz finalidade.",
+"velho": "A fim de que = finalidade.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0160",
+"g": "E",
+"e": "Em 'Votou-se à noite, a fim de que o prazo fosse cumprido', a locução 'a fim de que' introduz consequência.",
+"velho": "A fim de que = finalidade.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0161",
+"g": "C",
+"e": "Em 'À medida que a discussão avançava, crescia a tensão', a locução indica proporção.",
+"velho": "À medida que = proporção.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0162",
+"g": "E",
+"e": "Em 'À medida que a discussão avançava, crescia a tensão', a locução indica condição.",
+"velho": "À medida que = proporção.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0163",
+"g": "C",
+"e": "Em 'Conforme dispõe a lei, o prazo é de dez dias', 'conforme' exprime conformidade.",
+"velho": "Conforme/segundo = conformidade.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0164",
+"g": "E",
+"e": "Em 'Conforme dispõe a lei, o prazo é de dez dias', 'conforme' exprime concessão.",
+"velho": "Conforme/segundo = conformidade.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0165",
+"g": "C",
+"e": "Em 'Como estava doente, faltou à sessão', 'como' introduz oração causal.",
+"velho": "'Como' no início = causa.",
+"aula": [
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0166",
+"g": "E",
+"e": "Em 'Como estava doente, faltou à sessão', 'como' introduz oração comparativa.",
+"velho": "'Como' no início = causa.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+},
+{
+"id": "Q-LP-0167",
+"g": "C",
+"e": "Em 'Era tão grande a pressão que o ministro renunciou', a oração iniciada por 'que' exprime consequência.",
+"velho": "Tão… que = consequência.",
+"aula": [
+"Causais: porque, já que, visto que, uma vez que, como (no início). Concessivas: embora, conquanto, ainda que, mesmo que, se bem que. Condicionais: se, caso, desde que, a menos que. Finais: para que, a fim de que. Consecutivas: tão… que, de modo que.",
+"Pegadinha: concessão não é causa nem condição ('embora' ≠ 'porque'; 'mesmo que' = 'ainda que', não 'desde que'); 'como' inicial costuma ser causal."
+]
+}
+]

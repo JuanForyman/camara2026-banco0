@@ -1,0 +1,681 @@
+[
+{
+"id": "Q-LP-0728",
+"g": "E",
+"e": "Em 'Os candidatos que não compareceram serão eliminados', a ausência de vírgulas indica oração explicativa.",
+"velho": "Sem vírgulas = restritiva.",
+"aula": [
+"Oração adjetiva restritiva (sem vírgula) delimita o antecedente: 'Os servidores que faltaram foram advertidos' = só parte deles faltou. Explicativa (entre vírgulas) acrescenta informação: 'Os servidores, que faltaram, foram advertidos' = todos faltaram.",
+"Com 'o qual', 'cujo', 'quem' a regra é a mesma: explicativa tem vírgulas obrigatórias; restritiva não pode tê-las. Aposto explicativo vem entre vírgulas ('Brasília, capital federal, sedia os Poderes'); aposto restritivo não ('O poeta Camões')."
+]
+},
+{
+"id": "Q-LP-0729",
+"g": "C",
+"e": "Em 'A proposta é, portanto, inconstitucional', 'portanto' vem isolado por vírgulas por estar intercalado.",
+"velho": "Conclusiva intercalada: vírgulas.",
+"aula": [
+"Conjunções adversativas, conclusivas e explicativas vêm isoladas por vírgula ('mas', 'porém', 'portanto', 'pois' após o verbo); intercaladas, entre duas vírgulas ('A proposta é, portanto, inconstitucional'). A conjunção 'e' em regra dispensa vírgula, mas admite-se quando liga orações de sujeitos diferentes.",
+"Pegadinha: afirmar que a vírgula é 'indevida' onde é obrigatória (intercalação) ou 'obrigatória' onde é facultativa (adjunto curto)."
+]
+},
+{
+"id": "Q-LP-0730",
+"g": "E",
+"e": "Em 'A proposta é, portanto, inconstitucional', as vírgulas em torno de 'portanto' são indevidas. Isso é consenso.",
+"velho": "Conclusiva intercalada: vírgulas.",
+"aula": [
+"Conjunções adversativas, conclusivas e explicativas vêm isoladas por vírgula ('mas', 'porém', 'portanto', 'pois' após o verbo); intercaladas, entre duas vírgulas ('A proposta é, portanto, inconstitucional'). A conjunção 'e' em regra dispensa vírgula, mas admite-se quando liga orações de sujeitos diferentes.",
+"Pegadinha: afirmar que a vírgula é 'indevida' onde é obrigatória (intercalação) ou 'obrigatória' onde é facultativa (adjunto curto)."
+]
+},
+{
+"id": "Q-LP-0731",
+"g": "C",
+"e": "Em 'Quando o relator concluiu, o presidente abriu a discussão', a vírgula após a oração adverbial anteposta é adequada.",
+"velho": "Adverbial anteposta: vírgula.",
+"aula": [
+"Oração subordinada adverbial anteposta: vírgula ('Quando o relator concluiu, o presidente abriu a discussão'). Posposta: vírgula facultativa. Expressões explicativas ('isto é', 'ou seja', 'por exemplo') vêm entre vírgulas.",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0732",
+"g": "E",
+"e": "Em 'Quando o relator concluiu, o presidente abriu a discussão', a vírgula após a oração adverbial anteposta é indevida.",
+"velho": "Adverbial anteposta: vírgula.",
+"aula": [
+"Oração subordinada adverbial anteposta: vírgula ('Quando o relator concluiu, o presidente abriu a discussão'). Posposta: vírgula facultativa. Expressões explicativas ('isto é', 'ou seja', 'por exemplo') vêm entre vírgulas.",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0733",
+"g": "C",
+"e": "Em 'Comprou livros, canetas e cadernos', não se usa vírgula antes do 'e' final da enumeração.",
+"velho": "Antes do 'e': sem vírgula.",
+"aula": [
+"Enumeração: vírgulas entre os itens, sem vírgula antes do 'e' final. Elipse do verbo: vírgula no lugar do verbo omitido ('O Senado aprovou o projeto; a Câmara, a emenda'). Local e data: 'Brasília, 16 de outubro de 2026.'",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0734",
+"g": "E",
+"e": "Em 'Comprou livros, canetas e cadernos', é obrigatória a vírgula antes do 'e' final da enumeração.",
+"velho": "Antes do 'e': sem vírgula.",
+"aula": [
+"Enumeração: vírgulas entre os itens, sem vírgula antes do 'e' final. Elipse do verbo: vírgula no lugar do verbo omitido ('O Senado aprovou o projeto; a Câmara, a emenda'). Local e data: 'Brasília, 16 de outubro de 2026.'",
+"Pegadinha: tratar a vírgula da elipse como separação entre sujeito e verbo; exigir vírgula antes do 'e' da enumeração."
+]
+},
+{
+"id": "Q-LP-0735",
+"g": "C",
+"e": "Em 'Vamos comer, crianças', a vírgula marca o vocativo; sem ela, 'comer crianças' alteraria o sentido.",
+"velho": "Vírgula muda o sentido.",
+"aula": [
+"A pontuação pode mudar o sentido: 'Não, quero ajuda' (nega algo e pede ajuda) × 'Não quero ajuda' (recusa ajuda); 'Vamos comer, João' (vocativo) × 'Vamos comer João' (objeto). Vírgula entre verbo e oração completiva é indevida ('O ministro disse, que votaria...').",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0736",
+"g": "E",
+"e": "Em 'Vamos comer, crianças', a retirada da vírgula não alteraria o sentido da frase. Trata-se de prática corrente.",
+"velho": "Vírgula muda o sentido.",
+"aula": [
+"A pontuação pode mudar o sentido: 'Não, quero ajuda' (nega algo e pede ajuda) × 'Não quero ajuda' (recusa ajuda); 'Vamos comer, João' (vocativo) × 'Vamos comer João' (objeto). Vírgula entre verbo e oração completiva é indevida ('O ministro disse, que votaria...').",
+"Pegadinha: a reescrita 'mantém o sentido' quando a vírgula foi movida ou retirada, mas o sentido mudou."
+]
+},
+{
+"id": "Q-LP-0737",
+"g": "C",
+"e": "Em 'O diretor e o chefe de gabinete foram à reunião', o verbo concorda com o sujeito composto.",
+"velho": "Composto → plural.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Pessoas diferentes: 1ª pessoa prevalece sobre a 2ª e a 3ª ('Eu e o relator votamos'). Sujeito resumido por 'tudo', 'nada', 'ninguém': o verbo concorda com o pronome ('Votos, emendas, tudo se resolveu'). Núcleos sinônimos ou em gradação admitem singular."
+]
+},
+{
+"id": "Q-LP-0738",
+"g": "E",
+"e": "Em 'O diretor e o chefe de gabinete foram à reunião', o verbo deveria ficar no singular.",
+"velho": "Composto → plural.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Composto posposto: plural ou concordância com o mais próximo."
+]
+},
+{
+"id": "Q-LP-0739",
+"g": "C",
+"e": "Em 'Eu e você votamos a favor', o verbo vai para a primeira pessoa do plural.",
+"velho": "Eu + você = nós.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Pessoas diferentes: 1ª pessoa prevalece sobre a 2ª e a 3ª ('Eu e o relator votamos'). Sujeito resumido por 'tudo', 'nada', 'ninguém': o verbo concorda com o pronome ('Votos, emendas, tudo se resolveu'). Núcleos sinônimos ou em gradação admitem singular."
+]
+},
+{
+"id": "Q-LP-0740",
+"g": "E",
+"e": "Em 'Eu e você votamos a favor', o verbo deveria ir para a segunda pessoa do plural.",
+"velho": "Eu + você = nós.",
+"aula": [
+"Sujeito composto anteposto: verbo no plural ('O ministro e o secretário chegaram').",
+"Pessoas diferentes: 1ª pessoa prevalece sobre a 2ª e a 3ª ('Eu e o relator votamos'). Sujeito resumido por 'tudo', 'nada', 'ninguém': o verbo concorda com o pronome ('Votos, emendas, tudo se resolveu'). Núcleos sinônimos ou em gradação admitem singular."
+]
+},
+{
+"id": "Q-LP-0741",
+"g": "C",
+"e": "O verbo 'fazer', indicando tempo decorrido, é impessoal: 'Faz dois anos que ele saiu'.",
+"velho": "Fazer (tempo): singular.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0742",
+"g": "E",
+"e": "O verbo 'fazer', indicando tempo decorrido, concorda com o complemento: 'Fazem dois anos que ele saiu'.",
+"velho": "Fazer (tempo): singular.",
+"aula": [
+"Haver (existir) e fazer (tempo decorrido) são impessoais: ficam no singular ('Há muitos projetos'; 'Faz dois anos'; 'Houve problemas'). Existir NÃO é impessoal: concorda com o sujeito ('Existem falhas').",
+"'Se' apassivador: verbo transitivo direto concorda com o sujeito ('Vendem-se casas', 'Alugam-se salas'). 'Se' índice de indeterminação: verbo intransitivo, transitivo indireto ou de ligação fica no singular ('Precisa-se de servidores'; 'Trata-se de projetos')."
+]
+},
+{
+"id": "Q-LP-0743",
+"g": "C",
+"e": "Em 'A maioria dos servidores aprovou a medida', o verbo no singular é adequado.",
+"velho": "Coletivo: singular.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Pegadinha: concordar com 'cerca' em vez do numeral; plural com 'mais de um'."
+]
+},
+{
+"id": "Q-LP-0744",
+"g": "E",
+"e": "Em 'A maioria dos servidores aprovou a medida', o verbo no singular é inadequado.",
+"velho": "Coletivo: singular.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Pegadinha: concordar com 'cerca' em vez do numeral; plural com 'mais de um'."
+]
+},
+{
+"id": "Q-LP-0745",
+"g": "C",
+"e": "Em 'Fui eu que fiz o parecer', o verbo da oração relativa concorda com o pronome 'eu'.",
+"velho": "Eu que fiz.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Pegadinha: concordar com 'cerca' em vez do numeral; plural com 'mais de um'."
+]
+},
+{
+"id": "Q-LP-0746",
+"g": "E",
+"e": "Em 'Fui eu que fez o parecer', o verbo da oração relativa concorda com o pronome 'eu', como exige a norma-padrão.",
+"velho": "Eu que fiz.",
+"aula": [
+"'A maioria dos deputados votou/votaram' (singular ou plural). 'Mais de um deputado votou' (singular). 'Um dos deputados que votaram contra' (plural; singular só se a ação for exclusiva). 'Cerca de cem deputados faltaram' (concorda com o numeral). 'Mais de dez deputados faltaram' (plural).",
+"Pegadinha: concordar com 'cerca' em vez do numeral; plural com 'mais de um'."
+]
+},
+{
+"id": "Q-LP-0747",
+"g": "C",
+"e": "Em 'É uma hora', o verbo fica no singular; em 'São duas horas', fica no plural.",
+"velho": "Verbo concorda com a hora.",
+"aula": [
+"Com horas, o verbo concorda com o numeral: 'Era uma hora', 'Eram duas horas'. Verbos 'bater', 'dar', 'soar' com horas concordam com o numeral: 'Bateram cinco horas'.",
+"Pegadinha: 'Eram uma hora', 'Bateu cinco horas'."
+]
+},
+{
+"id": "Q-LP-0748",
+"g": "E",
+"e": "A forma 'É duas horas' atende à norma-padrão. Trata-se de prática corrente.",
+"velho": "Verbo concorda com a hora.",
+"aula": [
+"Com horas, o verbo concorda com o numeral: 'Era uma hora', 'Eram duas horas'. Verbos 'bater', 'dar', 'soar' com horas concordam com o numeral: 'Bateram cinco horas'.",
+"Pegadinha: 'Eram uma hora', 'Bateu cinco horas'."
+]
+},
+{
+"id": "Q-LP-0749",
+"g": "C",
+"e": "A expressão 'É meio-dia e meia' atende à norma-padrão.",
+"velho": "Meia (hora) é feminino.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"Pegadinha: 'meia cansada', 'bastantes preocupadas', 'seguem anexo os documentos', 'obrigado' dito por mulher, 'menas'."
+]
+},
+{
+"id": "Q-LP-0750",
+"g": "E",
+"e": "A expressão 'É meio-dia e meio' atende à norma-padrão.",
+"velho": "Meia (hora) é feminino.",
+"aula": [
+"Advérbios são invariáveis: 'meio cansada', 'bastante preocupadas', 'menos servidores' (nunca 'menas'). Adjetivos concordam: 'bastantes razões', 'seguem anexos os documentos', 'elas mesmas', 'as melhores condições possíveis'. 'Obrigado' concorda com quem fala ('Obrigada', disse a ministra).",
+"Pegadinha: 'meia cansada', 'bastantes preocupadas', 'seguem anexo os documentos', 'obrigado' dito por mulher, 'menas'."
+]
+},
+{
+"id": "Q-M8-i004",
+"g": "E",
+"e": "Os rótulos \"procedimento abreviado\", \"sumaríssimo\" e \"concentrado\" constam expressamente do texto do Regimento Interno da Câmara dos Deputados.",
+"velho": "Conferi o texto integral do RICD (29ª ed., 15/5/2025): nenhuma ocorrência de \"abreviado\", \"sumaríssimo\", \"concentrado\" ou \"procedimento ordinário/sumário\". São rótulos doutrinários (ex.: Senado, TD 292). A banca pode usá-los, mas ligados a mecanismos regimentais.",
+"aula": []
+},
+{
+"id": "Q-M8-i024",
+"g": "C",
+"e": "O Presidente da República dispõe de quinze dias úteis, contados do recebimento, para sancionar ou vetar o projeto, e o silêncio equivale à sanção.",
+"velho": "Veto parcial só alcança texto integral de artigo, parágrafo, inciso ou alínea.",
+"aula": []
+},
+{
+"id": "Q-M8-i026",
+"g": "E",
+"e": "O Presidente da República comunica ao Presidente da Câmara, em quarenta e oito horas, os motivos do veto.",
+"velho": "A comunicação é ao Presidente do Senado Federal.",
+"aula": []
+},
+{
+"id": "Q-M8-i040",
+"g": "E",
+"e": "É admitida lei delegada sobre matéria reservada a lei complementar, desde que a resolução do Congresso especifique seu conteúdo.",
+"velho": "Matéria de LC é indelegável.",
+"aula": []
+},
+{
+"id": "Q-M8-i041",
+"g": "C",
+"e": "A votação das medidas provisórias tem início na Câmara dos Deputados, e é vedada sua reedição na mesma sessão legislativa quando rejeitada ou perdida a eficácia por decurso de prazo.",
+"velho": "Vigência de 60 dias, prorrogável uma vez por igual período.",
+"aula": []
+},
+{
+"id": "Q-M8-i042",
+"g": "E",
+"e": "Os projetos de lei de iniciativa do Presidente da República, do Supremo Tribunal Federal e dos Tribunais Superiores têm sua discussão e votação iniciadas no Senado Federal.",
+"velho": "A discussão e votação começam na Câmara dos Deputados.",
+"aula": []
+},
+{
+"id": "Q-M8-i059",
+"g": "E",
+"e": "A iniciativa popular de lei exige projeto subscrito por, no mínimo, cinco por cento do eleitorado nacional.",
+"velho": "1% do eleitorado nacional, distribuído por pelo menos cinco Estados, com não menos de 0,3% dos eleitores de cada um deles.",
+"aula": []
+},
+{
+"id": "Q-ORG-0001",
+"g": "C",
+"e": "Em sentido subjetivo, formal ou orgânico, a Administração Pública é o conjunto de órgãos, entidades e agentes que exercem a função administrativa; em sentido objetivo ou material, é a própria atividade administrativa.",
+"velho": "Sentidos de Administração Pública.",
+"aula": [
+"Administração Pública: função de execução dos planos de governo.",
+"Administração em sentido objetivo (material): atividade administrativa; em sentido subjetivo (formal ou orgânico): conjunto de órgãos, entidades e agentes que a exercem."
+]
+},
+{
+"id": "Q-ORG-0002",
+"g": "E",
+"e": "Em sentido objetivo, formal ou orgânico, a Administração Pública é o conjunto de órgãos, entidades e agentes que exercem a função administrativa; em sentido subjetivo ou material, é a própria atividade administrativa.",
+"velho": "Sentidos de Administração Pública.",
+"aula": [
+"Administração Pública: função de execução dos planos de governo.",
+"Administração em sentido objetivo (material): atividade administrativa; em sentido subjetivo (formal ou orgânico): conjunto de órgãos, entidades e agentes que a exercem."
+]
+},
+{
+"id": "Q-ORG-0003",
+"g": "C",
+"e": "O governo exerce função política, de comando e de fixação de diretrizes, ao passo que a Administração Pública executa os planos de governo, e a função administrativa é exercida de forma atípica pelo Legislativo e pelo Judiciário.",
+"velho": "Governo e Administração.",
+"aula": [
+"Governo: função política, de comando e de fixação de diretrizes;",
+"Administração Pública: função de execução dos planos de governo."
+]
+},
+{
+"id": "Q-ORG-0004",
+"g": "E",
+"e": "O governo exerce função meramente executiva dos atos da Administração Pública, e a função administrativa é exercida exclusivamente pelo Poder Executivo, não podendo ser exercida pelo Legislativo e pelo Judiciário.",
+"velho": "Governo e Administração.",
+"aula": [
+"Administração Pública: função de execução dos planos de governo.",
+"Função administrativa é exercida típica, mas não exclusivamente, pelo Poder Executivo; os demais Poderes a exercem de forma atípica."
+]
+},
+{
+"id": "Q-ORG-0005",
+"g": "C",
+"e": "A desconcentração é a distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, mantendo-se o vínculo hierárquico, ao passo que a descentralização é a transferência da execução do serviço a pessoa jurídica distinta.",
+"velho": "Descentralização e desconcentração.",
+"aula": [
+"Descentralização: transferência da execução a pessoa jurídica distinta, por outorga (por lei, transfere a titularidade e a execução do serviço, como nas autarquias) ou por delegação (por contrato ou ato, transfere somente a execução, como na concessão).",
+"Desconcentração: distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, com hierarquia."
+]
+},
+{
+"id": "Q-ORG-0006",
+"g": "E",
+"e": "A descentralização é a distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, mantendo-se o vínculo hierárquico, ao passo que a desconcentração é a transferência da execução do serviço a pessoa jurídica distinta.",
+"velho": "Descentralização e desconcentração.",
+"aula": [
+"Descentralização: transferência da execução a pessoa jurídica distinta, por outorga (por lei, transfere a titularidade e a execução do serviço, como nas autarquias) ou por delegação (por contrato ou ato, transfere somente a execução, como na concessão).",
+"Desconcentração: distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, com hierarquia."
+]
+},
+{
+"id": "Q-ORG-0007",
+"g": "C",
+"e": "Na descentralização por outorga, a lei transfere a titularidade e a execução do serviço a pessoa jurídica da Administração indireta, ao passo que na descentralização por delegação transfere-se somente a execução, por contrato ou ato.",
+"velho": "Outorga e delegação.",
+"aula": [
+"Descentralização: transferência da execução a pessoa jurídica distinta, por outorga (por lei, transfere a titularidade e a execução do serviço, como nas autarquias) ou por delegação (por contrato ou ato, transfere somente a execução, como na concessão).",
+"Desconcentração: distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, com hierarquia."
+]
+},
+{
+"id": "Q-ORG-0008",
+"g": "E",
+"e": "Na descentralização por delegação, a lei transfere a titularidade e a execução do serviço a pessoa jurídica da Administração indireta, ao passo que na descentralização por outorga transfere-se somente a execução, por contrato ou ato.",
+"velho": "Outorga e delegação.",
+"aula": [
+"Descentralização: transferência da execução a pessoa jurídica distinta, por outorga (por lei, transfere a titularidade e a execução do serviço, como nas autarquias) ou por delegação (por contrato ou ato, transfere somente a execução, como na concessão).",
+"Desconcentração: distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, com hierarquia."
+]
+},
+{
+"id": "Q-ORG-0009",
+"g": "C",
+"e": "Entre o órgão desconcentrado e a pessoa jurídica de que faz parte há subordinação hierárquica, ao passo que, entre a Administração direta e as entidades descentralizadas, há apenas vinculação e controle finalístico.",
+"velho": "Hierarquia e vinculação.",
+"aula": [
+"Desconcentração: distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, com hierarquia.",
+"A descentralização gera vínculo de controle (vinculação), e a desconcentração gera vínculo de subordinação hierárquica.",
+"As entidades da Administração Indireta não se subordinam hierarquicamente à Administração Direta; vinculam-se a ela e sujeitam-se ao controle finalístico, também chamado supervisão ministerial ou tutela, previsto no DL 200/67 (arts. 19 a 29), que alcança a verificação do cumprimento dos objetivos, a harmonia com a política do Governo e a eficiência administrativa."
+]
+},
+{
+"id": "Q-ORG-0010",
+"g": "E",
+"e": "Entre a Administração direta e as entidades descentralizadas há subordinação hierárquica, ao passo que, entre o órgão desconcentrado e a pessoa jurídica de que faz parte, há apenas vinculação e controle finalístico.",
+"velho": "Hierarquia e vinculação.",
+"aula": [
+"Desconcentração: distribuição interna de competências entre órgãos de uma mesma pessoa jurídica, com hierarquia.",
+"A descentralização gera vínculo de controle (vinculação), e a desconcentração gera vínculo de subordinação hierárquica.",
+"As entidades da Administração Indireta não se subordinam hierarquicamente à Administração Direta; vinculam-se a ela e sujeitam-se ao controle finalístico, também chamado supervisão ministerial ou tutela, previsto no DL 200/67 (arts. 19 a 29), que alcança a verificação do cumprimento dos objetivos, a harmonia com a política do Governo e a eficiência administrativa."
+]
+},
+{
+"id": "Q-ORG-0011",
+"g": "C",
+"e": "Segundo o Decreto-Lei 200/1967, a Administração Indireta compreende as autarquias, as empresas públicas, as sociedades de economia mista e as fundações públicas, vinculadas ao Ministério em cuja área de competência estiver enquadrada sua principal atividade.",
+"velho": "DL 200/67, arts. 4º e 5º.",
+"aula": [
+"Art. 4º: a Administração Federal compreende a Administração Direta, constituída dos serviços integrados na estrutura administrativa da Presidência da República e dos Ministérios, e a Administração Indireta, que compreende autarquias, empresas públicas, sociedades de economia mista e fundações públicas.",
+"As entidades da Administração Indireta vinculam-se ao Ministério em cuja área de competência estiver enquadrada sua principal atividade."
+]
+},
+{
+"id": "Q-ORG-0012",
+"g": "E",
+"e": "Segundo o Decreto-Lei 200/1967, a Administração Indireta compreende as autarquias, as empresas públicas, as sociedades de economia mista, as fundações públicas e os Ministérios, vinculadas diretamente à Presidência da República.",
+"velho": "DL 200/67, arts. 4º e 5º.",
+"aula": [
+"Art. 4º: a Administração Federal compreende a Administração Direta, constituída dos serviços integrados na estrutura administrativa da Presidência da República e dos Ministérios, e a Administração Indireta, que compreende autarquias, empresas públicas, sociedades de economia mista e fundações públicas.",
+"Sociedade de economia mista é entidade de direito privado, criada por lei, sob a forma de sociedade anônima, cujas ações com direito a voto pertençam em sua maioria à União ou a entidade da Administração Indireta."
+]
+},
+{
+"id": "Q-ORG-0013",
+"g": "C",
+"e": "A sociedade de economia mista é entidade de direito privado, criada por lei, sob a forma de sociedade anônima, cujas ações com direito a voto pertencem em sua maioria à União ou a entidade da Administração indireta.",
+"velho": "DL 200/67, art. 5º, III.",
+"aula": [
+"Empresa pública é entidade de personalidade jurídica de direito privado, com capital exclusivo da União, criada por lei para exploração de atividade econômica.",
+"Sociedade de economia mista é entidade de direito privado, criada por lei, sob a forma de sociedade anônima, cujas ações com direito a voto pertençam em sua maioria à União ou a entidade da Administração Indireta."
+]
+},
+{
+"id": "Q-ORG-0014",
+"g": "E",
+"e": "A sociedade de economia mista é entidade de direito público, criada por lei, sob a forma de sociedade limitada, cujo capital pertence integralmente à União ou a entidade da Administração indireta.",
+"velho": "DL 200/67, art. 5º, III.",
+"aula": [
+"Empresa pública é entidade de personalidade jurídica de direito privado, com capital exclusivo da União, criada por lei para exploração de atividade econômica.",
+"Sociedade de economia mista é entidade de direito privado, criada por lei, sob a forma de sociedade anônima, cujas ações com direito a voto pertençam em sua maioria à União ou a entidade da Administração Indireta."
+]
+},
+{
+"id": "Q-ORG-0015",
+"g": "C",
+"e": "A autarquia é o serviço autônomo criado por lei, com personalidade jurídica, patrimônio e receita próprios, para executar atividades típicas da Administração Pública que requeiram gestão administrativa e financeira descentralizada.",
+"velho": "DL 200/67, art. 5º, I.",
+"aula": [
+"Art. 5º: autarquia é o serviço autônomo, criado por lei, com personalidade jurídica, patrimônio e receita próprios, para executar atividades típicas da Administração Pública que requeiram gestão administrativa e financeira descentralizada.",
+"Fundação pública é entidade de personalidade jurídica de direito privado, sem fins lucrativos, criada em virtude de autorização legislativa, para atividades que não exijam execução por órgãos ou entidades de direito público."
+]
+},
+{
+"id": "Q-ORG-0016",
+"g": "E",
+"e": "A autarquia é entidade de direito privado, criada por autorização legislativa, para exploração de atividade econômica que o Governo seja levado a exercer por força de contingência ou de conveniência administrativa.",
+"velho": "DL 200/67, art. 5º, I.",
+"aula": [
+"Empresa pública é entidade de personalidade jurídica de direito privado, com capital exclusivo da União, criada por lei para exploração de atividade econômica.",
+"Fundação pública é entidade de personalidade jurídica de direito privado, sem fins lucrativos, criada em virtude de autorização legislativa, para atividades que não exijam execução por órgãos ou entidades de direito público."
+]
+},
+{
+"id": "Q-ORG-0017",
+"g": "C",
+"e": "A autarquia é criada diretamente por lei específica, ao passo que a instituição de empresa pública, de sociedade de economia mista e de fundação é apenas autorizada por lei específica.",
+"velho": "CF, art. 37, XIX.",
+"aula": [
+"Art. 37, XIX: somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação.",
+"Assim, a autarquia é criada diretamente pela lei, e as demais têm sua instituição autorizada por lei, adquirindo personalidade jurídica com o registro de seus atos constitutivos."
+]
+},
+{
+"id": "Q-ORG-0018",
+"g": "E",
+"e": "A autarquia tem sua instituição autorizada por lei específica, ao passo que a criação de empresa pública, de sociedade de economia mista e de fundação é feita diretamente pela lei.",
+"velho": "CF, art. 37, XIX.",
+"aula": [
+"Art. 37, XIX: somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação.",
+"Assim, a autarquia é criada diretamente pela lei, e as demais têm sua instituição autorizada por lei, adquirindo personalidade jurídica com o registro de seus atos constitutivos."
+]
+},
+{
+"id": "Q-ORG-0019",
+"g": "C",
+"e": "Compete à lei complementar definir as áreas de atuação das fundações cuja instituição seja autorizada por lei específica.",
+"velho": "CF, art. 37, XIX.",
+"aula": [
+"Art. 37, XIX: somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação.",
+"Assim, a autarquia é criada diretamente pela lei, e as demais têm sua instituição autorizada por lei, adquirindo personalidade jurídica com o registro de seus atos constitutivos."
+]
+},
+{
+"id": "Q-ORG-0020",
+"g": "E",
+"e": "Compete à lei complementar definir as áreas de atuação das autarquias e das empresas estatais cuja instituição seja autorizada por lei específica.",
+"velho": "CF, art. 37, XIX.",
+"aula": [
+"Art. 37, XIX: somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação.",
+"Assim, a autarquia é criada diretamente pela lei, e as demais têm sua instituição autorizada por lei, adquirindo personalidade jurídica com o registro de seus atos constitutivos."
+]
+},
+{
+"id": "Q-ORG-0021",
+"g": "C",
+"e": "A criação de subsidiárias das entidades da Administração indireta, assim como a participação de qualquer delas em empresa privada, depende de autorização legislativa, em cada caso.",
+"velho": "CF, art. 37, XX.",
+"aula": [
+"Art. 37, XIX: somente por lei específica poderá ser criada autarquia e autorizada a instituição de empresa pública, de sociedade de economia mista e de fundação, cabendo à lei complementar, neste último caso, definir as áreas de sua atuação.",
+"Art. 37, XX: depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada."
+]
+},
+{
+"id": "Q-ORG-0022",
+"g": "E",
+"e": "A criação de subsidiárias das entidades da Administração indireta depende de autorização legislativa, mas a participação delas em empresa privada pode ser realizada por decisão do administrador, sem autorização legislativa.",
+"velho": "CF, art. 37, XX.",
+"aula": [
+"Art. 37, XX: depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas no inciso anterior, assim como a participação de qualquer delas em empresa privada."
+]
+},
+{
+"id": "Q-ORG-0023",
+"g": "C",
+"e": "As autarquias são pessoas jurídicas de direito público cujos bens são públicos e cujos débitos judiciais são pagos mediante precatórios, e gozam de imunidade tributária recíproca quanto ao patrimônio, à renda e aos serviços vinculados às suas finalidades essenciais.",
+"velho": "Regime das autarquias.",
+"aula": [
+"Autarquias: pessoas jurídicas de direito público; prestam serviço público típico de Estado; seus bens são públicos (impenhoráveis e inalienáveis na forma da lei); pagam débitos por precatórios; gozam de imunidade tributária recíproca quanto ao patrimônio, renda e serviços vinculados a suas finalidades essenciais (CF, art. 150, §2º); a responsabilidade civil segue o art. 37, §6º…",
+"Fundação pública pode ter personalidade de direito público (natureza autárquica, também chamada autarquia fundacional) ou de direito privado; o STF reconhece a fundação estatal de direito público como espécie de autarquia."
+]
+},
+{
+"id": "Q-ORG-0024",
+"g": "E",
+"e": "As autarquias são pessoas jurídicas de direito privado cujos bens são penhoráveis e cujos débitos judiciais são pagos diretamente, sem precatórios, e não gozam de imunidade tributária recíproca. Tal conclusão decorreria, segundo esse entendimento, da sistemática constitucional da responsabilidade do Estado.",
+"velho": "Regime das autarquias.",
+"aula": [
+"Autarquias: pessoas jurídicas de direito público; prestam serviço público típico de Estado; seus bens são públicos (impenhoráveis e inalienáveis na forma da lei); pagam débitos por precatórios; gozam de imunidade tributária recíproca quanto ao patrimônio, renda e serviços vinculados a suas finalidades essenciais (CF, art. 150, §2º); a responsabilidade civil segue o art. 37, §6º…",
+"Fundação pública pode ter personalidade de direito público (natureza autárquica, também chamada autarquia fundacional) ou de direito privado; o STF reconhece a fundação estatal de direito público como espécie de autarquia."
+]
+},
+{
+"id": "Q-ORG-0025",
+"g": "C",
+"e": "As agências reguladoras são autarquias em regime especial, com autonomia reforçada, ausência de subordinação hierárquica ao Ministro e dirigentes com mandato fixo, nos termos da Lei 13.848/2019.",
+"velho": "Lei 13.848/2019.",
+"aula": [
+"Autarquias: pessoas jurídicas de direito público; prestam serviço público típico de Estado; seus bens são públicos (impenhoráveis e inalienáveis na forma da lei); pagam débitos por precatórios; gozam de imunidade tributária recíproca quanto ao patrimônio, renda e serviços vinculados a suas finalidades essenciais (CF, art. 150, §2º); a responsabilidade civil segue o art. 37, §6º…",
+"Autarquia em regime especial: tem prerrogativas específicas, como as agências reguladoras (Lei 13.848/2019), com autonomia reforçada, ausência de subordinação hierárquica e dirigentes com mandato fixo."
+]
+},
+{
+"id": "Q-ORG-0026",
+"g": "E",
+"e": "As agências reguladoras são autarquias em regime especial subordinadas hierarquicamente ao Ministro de Estado, cujas decisões podem ser revistas de ofício por ele, e com dirigentes demissíveis ad nutum.",
+"velho": "Lei 13.848/2019.",
+"aula": [
+"Autarquias: pessoas jurídicas de direito público; prestam serviço público típico de Estado; seus bens são públicos (impenhoráveis e inalienáveis na forma da lei); pagam débitos por precatórios; gozam de imunidade tributária recíproca quanto ao patrimônio, renda e serviços vinculados a suas finalidades essenciais (CF, art. 150, §2º); a responsabilidade civil segue o art. 37, §6º…",
+"Autarquia em regime especial: tem prerrogativas específicas, como as agências reguladoras (Lei 13.848/2019), com autonomia reforçada, ausência de subordinação hierárquica e dirigentes com mandato fixo."
+]
+},
+{
+"id": "Q-ORG-0027",
+"g": "C",
+"e": "A fundação pública pode ter personalidade jurídica de direito público, hipótese em que tem natureza autárquica, ou de direito privado, entendendo o STF que a fundação estatal de direito público é espécie de autarquia.",
+"velho": "STF, jurisprudência sobre fundações estatais de direito público.",
+"aula": [
+"Autarquias: pessoas jurídicas de direito público; prestam serviço público típico de Estado; seus bens são públicos (impenhoráveis e inalienáveis na forma da lei); pagam débitos por precatórios; gozam de imunidade tributária recíproca quanto ao patrimônio, renda e serviços vinculados a suas finalidades essenciais (CF, art. 150, §2º); a responsabilidade civil segue o art. 37, §6º…",
+"Fundação pública pode ter personalidade de direito público (natureza autárquica, também chamada autarquia fundacional) ou de direito privado; o STF reconhece a fundação estatal de direito público como espécie de autarquia."
+]
+},
+{
+"id": "Q-ORG-0028",
+"g": "E",
+"e": "A fundação pública tem sempre personalidade jurídica de direito privado, sendo vedado, segundo o STF, que a fundação estatal tenha natureza autárquica. Tal conclusão decorreria, segundo esse entendimento, da sistemática constitucional da responsabilidade do Estado.",
+"velho": "STF, jurisprudência sobre fundações estatais de direito público.",
+"aula": [
+"Autarquias: pessoas jurídicas de direito público; prestam serviço público típico de Estado; seus bens são públicos (impenhoráveis e inalienáveis na forma da lei); pagam débitos por precatórios; gozam de imunidade tributária recíproca quanto ao patrimônio, renda e serviços vinculados a suas finalidades essenciais (CF, art. 150, §2º); a responsabilidade civil segue o art. 37, §6º…",
+"Fundação pública pode ter personalidade de direito público (natureza autárquica, também chamada autarquia fundacional) ou de direito privado; o STF reconhece a fundação estatal de direito público como espécie de autarquia."
+]
+},
+{
+"id": "Q-ORG-0029",
+"g": "C",
+"e": "A empresa estatal exploradora de atividade econômica sujeita-se ao regime jurídico próprio das empresas privadas quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários, não podendo gozar de privilégios fiscais não extensivos ao setor privado.",
+"velho": "CF, art. 173, §§ 1º e 2º.",
+"aula": [
+"Lei 13.303/2016: empresa pública é entidade de direito privado cujo capital social é integralmente detido pela União, Estados, Distrito Federal ou Municípios, admitida participação de outras pessoas de direito público interno e de entidades da Administração Indireta, desde que a maioria do capital votante permaneça com a pessoa federada; a sociedade de economia mista é…",
+"Empresas estatais exploradoras de atividade econômica submetem-se ao regime jurídico próprio das empresas privadas quanto a direitos e obrigações civis, comerciais, trabalhistas e tributários (CF, art. 173, §1º, II), e não gozam de privilégios fiscais não extensivos ao setor privado (art. 173, §2º)."
+]
+},
+{
+"id": "Q-ORG-0030",
+"g": "E",
+"e": "A empresa estatal exploradora de atividade econômica sujeita-se ao regime jurídico de direito público quanto aos direitos e obrigações civis, comerciais, trabalhistas e tributários, podendo gozar de privilégios fiscais não extensivos ao setor privado.",
+"velho": "CF, art. 173, §§ 1º e 2º.",
+"aula": [
+"Lei 13.303/2016: empresa pública é entidade de direito privado cujo capital social é integralmente detido pela União, Estados, Distrito Federal ou Municípios, admitida participação de outras pessoas de direito público interno e de entidades da Administração Indireta, desde que a maioria do capital votante permaneça com a pessoa federada; a sociedade de economia mista é…",
+"Empresas estatais exploradoras de atividade econômica submetem-se ao regime jurídico próprio das empresas privadas quanto a direitos e obrigações civis, comerciais, trabalhistas e tributários (CF, art. 173, §1º, II), e não gozam de privilégios fiscais não extensivos ao setor privado (art. 173, §2º)."
+]
+},
+{
+"id": "Q-ORG-0031",
+"g": "C",
+"e": "Os empregados das empresas públicas e das sociedades de economia mista são regidos pela CLT e admitidos mediante concurso público.",
+"velho": "CF, art. 37, II.",
+"aula": [
+"Lei 13.303/2016: empresa pública é entidade de direito privado cujo capital social é integralmente detido pela União, Estados, Distrito Federal ou Municípios, admitida participação de outras pessoas de direito público interno e de entidades da Administração Indireta, desde que a maioria do capital votante permaneça com a pessoa federada; a sociedade de economia mista é…",
+"O pessoal é regido pela CLT, com concurso público (CF, art. 37, II)."
+]
+},
+{
+"id": "Q-ORG-0032",
+"g": "E",
+"e": "Os empregados das empresas públicas e das sociedades de economia mista são regidos pelo regime estatutário e admitidos sem necessidade de concurso público, por se tratar de entidades de direito privado.",
+"velho": "CF, art. 37, II.",
+"aula": [
+"Lei 13.303/2016: empresa pública é entidade de direito privado cujo capital social é integralmente detido pela União, Estados, Distrito Federal ou Municípios, admitida participação de outras pessoas de direito público interno e de entidades da Administração Indireta, desde que a maioria do capital votante permaneça com a pessoa federada; a sociedade de economia mista é…",
+"Empresas estatais exploradoras de atividade econômica submetem-se ao regime jurídico próprio das empresas privadas quanto a direitos e obrigações civis, comerciais, trabalhistas e tributários (CF, art. 173, §1º, II), e não gozam de privilégios fiscais não extensivos ao setor privado (art. 173, §2º)."
+]
+},
+{
+"id": "Q-ORG-0033",
+"g": "C",
+"e": "O teto remuneratório constitucional aplica-se às empresas estatais que receberem recursos da União, dos Estados, do Distrito Federal ou dos Municípios para pagamento de despesas de pessoal ou de custeio em geral.",
+"velho": "CF, art. 37, § 9º.",
+"aula": [
+"Lei 13.303/2016: empresa pública é entidade de direito privado cujo capital social é integralmente detido pela União, Estados, Distrito Federal ou Municípios, admitida participação de outras pessoas de direito público interno e de entidades da Administração Indireta, desde que a maioria do capital votante permaneça com a pessoa federada; a sociedade de economia mista é…",
+"O teto remuneratório (art. 37, XI e §9º) aplica-se às empresas estatais que receberem recursos da União, dos Estados, do DF ou dos Municípios para pagamento de despesas de pessoal ou de custeio em geral."
+]
+},
+{
+"id": "Q-ORG-0034",
+"g": "E",
+"e": "O teto remuneratório constitucional aplica-se a todas as empresas estatais, ainda que não recebam recursos públicos para pagamento de despesas de pessoal ou de custeio em geral.",
+"velho": "CF, art. 37, § 9º.",
+"aula": [
+"Empresas estatais exploradoras de atividade econômica submetem-se ao regime jurídico próprio das empresas privadas quanto a direitos e obrigações civis, comerciais, trabalhistas e tributários (CF, art. 173, §1º, II), e não gozam de privilégios fiscais não extensivos ao setor privado (art. 173, §2º).",
+"O teto remuneratório (art. 37, XI e §9º) aplica-se às empresas estatais que receberem recursos da União, dos Estados, do DF ou dos Municípios para pagamento de despesas de pessoal ou de custeio em geral."
+]
+},
+{
+"id": "Q-ORG-0035",
+"g": "C",
+"e": "Segundo o STF, a Empresa Brasileira de Correios e Telégrafos, prestadora de serviço público em regime de monopólio, equipara-se à Fazenda Pública quanto à impenhorabilidade de seus bens e ao pagamento de débitos por precatório.",
+"velho": "STF, RE 220.906.",
+"aula": [
+"Lei 13.303/2016: empresa pública é entidade de direito privado cujo capital social é integralmente detido pela União, Estados, Distrito Federal ou Municípios, admitida participação de outras pessoas de direito público interno e de entidades da Administração Indireta, desde que a maioria do capital votante permaneça com a pessoa federada; a sociedade de economia mista é…",
+"As estatais prestadoras de serviço público submetem-se a regime híbrido; a ECT (Correios) foi equiparada à Fazenda Pública quanto a impenhorabilidade de bens e precatórios (STF, RE 220.906)."
+]
+},
+{
+"id": "Q-ORG-0036",
+"g": "E",
+"e": "Segundo o STF, a Empresa Brasileira de Correios e Telégrafos, por ser empresa pública de direito privado, não se equipara à Fazenda Pública, devendo pagar seus débitos judiciais sem precatório e tendo bens penhoráveis.",
+"velho": "STF, RE 220.906.",
+"aula": [
+"Lei 13.303/2016: empresa pública é entidade de direito privado cujo capital social é integralmente detido pela União, Estados, Distrito Federal ou Municípios, admitida participação de outras pessoas de direito público interno e de entidades da Administração Indireta, desde que a maioria do capital votante permaneça com a pessoa federada; a sociedade de economia mista é…",
+"As estatais prestadoras de serviço público submetem-se a regime híbrido; a ECT (Correios) foi equiparada à Fazenda Pública quanto a impenhorabilidade de bens e precatórios (STF, RE 220.906)."
+]
+},
+{
+"id": "Q-ORG-0037",
+"g": "C",
+"e": "A empresa pública é entidade de direito privado cujo capital social é integralmente detido pelo ente federativo, admitida a participação de outras pessoas de direito público interno e de entidades da Administração indireta, desde que a maioria do capital votante permaneça com a pessoa federada.",
+"velho": "Lei 13.303/2016, art. 3º.",
+"aula": [
+"Lei 13.303/2016: empresa pública é entidade de direito privado cujo capital social é integralmente detido pela União, Estados, Distrito Federal ou Municípios, admitida participação de outras pessoas de direito público interno e de entidades da Administração Indireta, desde que a maioria do capital votante permaneça com a pessoa federada; a sociedade de economia mista é…",
+"As estatais prestadoras de serviço público submetem-se a regime híbrido; a ECT (Correios) foi equiparada à Fazenda Pública quanto a impenhorabilidade de bens e precatórios (STF, RE 220.906)."
+]
+},
+{
+"id": "Q-ORG-0038",
+"g": "E",
+"e": "A empresa pública é entidade de direito privado cujo capital social pode ser detido majoritariamente por particulares, desde que o ente federativo mantenha ao menos trinta por cento do capital votante. Essa seria a orientação adotada pela doutrina e pela jurisprudência no direito brasileiro.",
+"velho": "Lei 13.303/2016, art. 3º.",
+"aula": [
+"Lei 13.303/2016: empresa pública é entidade de direito privado cujo capital social é integralmente detido pela União, Estados, Distrito Federal ou Municípios, admitida participação de outras pessoas de direito público interno e de entidades da Administração Indireta, desde que a maioria do capital votante permaneça com a pessoa federada; a sociedade de economia mista é…"
+]
+},
+{
+"id": "Q-ORG-0039",
+"g": "C",
+"e": "A organização social firma contrato de gestão com o Poder Público, ao passo que a OSCIP firma termo de parceria, e as organizações da sociedade civil, nos termos da Lei 13.019/2014, firmam termo de colaboração, termo de fomento ou acordo de cooperação.",
+"velho": "Leis 9.637/98, 9.790/99 e 13.019/14.",
+"aula": [
+"Organização social (Lei 9.637/1998): qualificada pelo Poder Executivo, firma contrato de gestão com o Poder Público; o STF (ADI 1.923) entendeu constitucional a dispensa de licitação para o contrato de gestão, desde que o procedimento de qualificação e a celebração observem critérios objetivos e impessoais, conforme os princípios do art. 37.",
+"Organização da sociedade civil (Lei 13.019/2014): firma termo de colaboração (propostas da Administração), termo de fomento (propostas das organizações) ou acordo de cooperação (sem transferência de recursos), em regra precedidos de chamamento público."
+]
+},
+{
+"id": "Q-ORG-0040",
+"g": "E",
+"e": "A organização social firma termo de parceria com o Poder Público, ao passo que a OSCIP firma contrato de gestão, e as organizações da sociedade civil, nos termos da Lei 13.019/2014, firmam apenas contrato administrativo regido pela Lei 14.133/2021.",
+"velho": "Leis 9.637/98, 9.790/99 e 13.019/14.",
+"aula": [
+"Organização social (Lei 9.637/1998): qualificada pelo Poder Executivo, firma contrato de gestão com o Poder Público; o STF (ADI 1.923) entendeu constitucional a dispensa de licitação para o contrato de gestão, desde que o procedimento de qualificação e a celebração observem critérios objetivos e impessoais, conforme os princípios do art. 37.",
+"Organização da sociedade civil (Lei 13.019/2014): firma termo de colaboração (propostas da Administração), termo de fomento (propostas das organizações) ou acordo de cooperação (sem transferência de recursos), em regra precedidos de chamamento público."
+]
+}
+]
