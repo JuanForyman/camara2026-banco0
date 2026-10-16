@@ -117,3 +117,5 @@ Lote LP: itens curtos (frases de ~20 palavras), gabarito de ≤25 palavras e "sa
 
 ## L23 — Língua Inglesa, onda 1
 139 pares (278 itens), átomos A-EN-1..18 (atomos/en_a.py, questoes/en_a.py, blueprint en.json). Itens curtos em inglês (frase ou microtexto ≤40 palavras), comentário em português ≤25 palavras, mini-aula por átomo. Pontos: EN01 compreensão, EN02 gramática para o sentido, EN03 vocabulário/formação de palavras, EN04 formas contemporâneas. Calibração: em prova recente da Câmara (Cebraspe, 180 itens) inglês teve 10 itens (vocabulário e interpretação). Resolução cega 276/278; 2 divergências (resume, parents) em itens corretos, reformulados. Lint 0 alertas.
+
+L24 — Língua Inglesa onda 2: 204 itens (102 pares), átomos A-EN-19..28 (base, phrasal verbs de notícias, vocabulário de notícias, hedging, verbos de relato, preposições, inglês digital, palavras que confundem, siglas). Itens em `fabrica/questoes/en_b.py` (tags f###). Lint 0 alertas; resolução cega 203/204 (1 item reescrito).

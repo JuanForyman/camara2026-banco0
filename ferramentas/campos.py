@@ -140,6 +140,12 @@ EN[8] = ('EN-referentes', 'Inglês: pronomes relativos e referentes')
 for _i in (1,12,13,11): EN[_i] = ('EN-vocabulario', 'Inglês: vocabulário, falsos cognatos e phrasal verbs')
 for _i in (14,15,17): EN[_i] = ('EN-leitura', 'Inglês: leitura, inferência e números')
 EN[16] = ('EN-contemporaneo', 'Inglês: formas contemporâneas')
+for _i in (19,20): EN[_i] = ('EN-base', 'Inglês: base (artigos, plurais, pronomes, auxiliares)')
+EN[21] = ('EN-phrasal', 'Inglês: phrasal verbs de notícias')
+EN[22] = ('EN-noticias', 'Inglês: vocabulário de notícias e políticas públicas')
+for _i in (23,24): EN[_i] = ('EN-atribuicao', 'Inglês: leitura — hedging, fato × opinião e verbos de relato')
+for _i in (25,27): EN[_i] = ('EN-preposicoes', 'Inglês: preposições e palavras que confundem')
+for _i in (26,28): EN[_i] = ('EN-contemporaneo', 'Inglês: formas contemporâneas')
 
 def campo(atom):
     mti = re.match(r"A-TI-(\d+)", atom)
