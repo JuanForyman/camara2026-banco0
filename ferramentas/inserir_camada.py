@@ -3,7 +3,9 @@ import json, re, runpy, sys, collections
 arq, nn = sys.argv[1], sys.argv[2]
 raiz = "."
 B = json.load(open(f"{raiz}/dados/site/banco.json", encoding="utf-8")); A = json.load(open(f"{raiz}/dados/site/artigos.json", encoding="utf-8")); T = json.load(open(f"{raiz}/dados/site/topicos.json", encoding="utf-8"))
-Q = runpy.run_path(arq)["Q"]
+M = runpy.run_path(arq); Q = M["Q"]
+for k_, v_ in M.get("ATOMOS", {}).items(): A[k_] = v_
+if M.get("ATOMOS"): json.dump(A, open(f"{raiz}/dados/site/artigos.json", "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
 norm = lambda s: re.sub(r"\s+", " ", " ".join(s) if isinstance(s, list) else s)
 B = [q for q in B if not q["id"].startswith(f"Q-N{nn}-")]  # idempotente
 fcamp = {t: collections.Counter(q.get("f") for q in B if q["t"] == t and q.get("f")).most_common(1) for t in T}
