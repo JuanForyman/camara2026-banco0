@@ -60,7 +60,7 @@
       return 0.45 * (1 + (1 - cov)) * (1 - 0.4 * Math.min(1, tr / 0.6));
     }
     const { p } = pAtom(x, t), u = urgency(x, t);
-    if (x.streak === 0) return 0.6 + (1 - p); // errou por último: outra questão do mesmo artigo logo
+    if (x.streak === 0) return 0.35 + 0.45 * (1 - p); // errou por último: volta logo, mas sem engolir o conteúdo novo (antes 0,6+(1-p))
     return Math.max(0.02, (1 - p) * (0.6 + 0.4 * Math.min(u, 3)) + (u >= 1 ? 0.35 : -0.25 * (1 - u)));
   }
 

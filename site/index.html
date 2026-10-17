@@ -224,7 +224,7 @@ svg .pt{fill:var(--acc)}
       return 0.45 * (1 + (1 - cov)) * (1 - 0.4 * Math.min(1, tr / 0.6));
     }
     const { p } = pAtom(x, t), u = urgency(x, t);
-    if (x.streak === 0) return 0.6 + (1 - p); // errou por último: outra questão do mesmo artigo logo
+    if (x.streak === 0) return 0.35 + 0.45 * (1 - p); // errou por último: volta logo, mas sem engolir o conteúdo novo (antes 0,6+(1-p))
     return Math.max(0.02, (1 - p) * (0.6 + 0.4 * Math.min(u, 3)) + (u >= 1 ? 0.35 : -0.25 * (1 - u)));
   }
 
@@ -467,8 +467,14 @@ function pickNext(){
  if(!sess)sess=newSess({});
  if(sess.mode==="erros"){const d=dueList().filter(inScope);why=d.length?"caderno de erros":"";return d[0]||null}
  const due=dueList().filter(inScope);sess.k++;
- if(due.length&&(sess.k%3===0||due.length>10)){why="revisão de erro";return due[0]}
+ /* Revisões vencidas entram intercaladas, sem dominar a sessão: 1 a cada 4 questões (1 a cada 3 se o acúmulo passar de 30), nunca duas seguidas e nunca nas 3 primeiras. O resto é conteúdo novo, pela matéria que mais precisa. Para revisar tudo de uma vez há o modo "Só caderno de erros". */
+ const gap=due.length>30?3:4;
+ if(due.length&&sess.k>3&&sess.k%gap===0&&!sess.lastRev){sess.lastRev=1;why="revisão de erro";return due[0]}
+ sess.lastRev=0;
  const list=Q.filter(inScope);
+ /* Progressão: 2 em cada 3 questões do treino adaptativo são conteúdo ainda não visto (se houver no escopo); a terceira segue o motor (reforço de pontos fracos). */
+ if(sess.k%3!==0){const nv=list.filter(q=>!QH[q.id]);
+  if(nv.length)for(const m of pickMods(nv)){const r=Motor.pick(nv.filter(q=>mod(q)===m),EV,now());if(r){why="conteúdo novo · "+m;return r.q}}}
  for(const m of pickMods(list)){const r=Motor.pick(list.filter(q=>mod(q)===m),EV,now());if(r){why=r.motivo+" · "+m;return r.q}}
  return null;
 }
