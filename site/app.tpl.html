@@ -159,7 +159,7 @@ svg .pt{fill:var(--acc)}
 @media (prefers-reduced-motion:no-preference){.btn,.chip{transition:border-color .15s}}
 </style>
 <header><div class="bar-in"><span class="brand">Câmara <i>26</i></span>
-<nav id="nav"></nav><span class="zm" role="group" aria-label="Tamanho do texto"><button id="zMinus" aria-label="Diminuir texto">A−</button><span class="zl" id="zLbl">100%</span><button id="zPlus" aria-label="Aumentar texto">A+</button></span></div></header>
+<nav id="nav"></nav><span class="zm" role="group" aria-label="Tamanho do texto"><button id="zMinus" aria-label="Diminuir texto">A−</button><span class="zl" id="zLbl">100%</span><button id="zPlus" aria-label="Aumentar texto">A+</button><button id="syncB" aria-label="Sincronizar" style="margin-left:6px;font:11px var(--f-mono);padding:4px 7px">…</button></span></div><div id="syncMsg" style="display:none;max-width:780px;margin:0 auto;padding:0 0 6px;font:11px var(--f-mono);color:var(--mut)"></div></header>
 <main id="app"><div class="vazio">Carregando banco…</div></main>
 <script>
 <!--MOTOR-->
@@ -195,16 +195,47 @@ async function load(){
  const l=lsGet(LS);if(l){ST=l.ST||{};EV=l.EV||[]}
  SIMS=lsGet(LSIMS)||[];SIM=lsGet(LSIM);
  rebuild();render();
- try{const c=await claude.use("db");const u=await claude.use("user");
-  if(c){DB=c;UID=u?await u.id():null;
-   const s=await DB.collection("estado").limit(2000).get();
-   s.docs.forEach(d=>{const x=d.data();if(x&&(!ST[d.id]||(x.u||0)>(ST[d.id].u||0)))ST[d.id]=x});
-   try{const es=await DB.collection("eventos").orderBy("t","desc").limit(3000).get();
-    const key=e=>e.q+"|"+e.t,have=new Set(EV.map(key));
-    es.docs.forEach(d=>{const x=d.data();if(x&&x.q&&!have.has(key(x))){EV.push(x);have.add(key(x))}});
-    EV.sort((a,b)=>a.t-b.t)}catch(e){}
-   try{const ss=await DB.collection("simulados").limit(100).get();const have=new Set(SIMS.map(s=>s.id));ss.docs.forEach(d=>{const x=d.data();if(x&&!have.has(x.id))SIMS.push(x)});SIMS.sort((a,b)=>a.t-b.t);lsPut(LSIMS,SIMS)}catch(e){}
-   saveLocal();rebuild();if(!answered&&!(view==="sim"&&SIM&&!SIM.done))render()}}catch(e){}
+ syncDB(false);
+}
+/* sincronização com o banco do artefato (conta do Claude). Paginação por campo: o banco entrega no máximo 1000 por consulta. */
+let SYNC={st:"…",msg:"Sincronizando…"};
+function syncUi(man){const el=document.getElementById("syncB");if(!el)return;el.textContent=SYNC.st;el.title=SYNC.msg;el.setAttribute("aria-label",SYNC.msg);const m=document.getElementById("syncMsg");if(m){const show=man||SYNC.st==="Só aqui"||SYNC.st==="⚠ erro";m.textContent=show?SYNC.msg:"";m.style.display=show?"block":"none"}}
+async function pageAll(col,field,max){
+ const out=[],seen=new Set();let bound=null;
+ for(let i=0;i<12;i++){
+  let q=DB.collection(col);if(bound!==null)q=q.where(field,"<=",bound);
+  const snap=await q.orderBy(field,"desc").limit(1000).get();
+  let add=0,min=bound;
+  snap.docs.forEach(d=>{if(!seen.has(d.id)){seen.add(d.id);out.push(d);add++}const v=(d.data()||{})[field];if(typeof v==="number"&&(min===null||v<min))min=v});
+  if(snap.docs.length<1000||!add||min===null||out.length>=max)break;
+  bound=min;
+ }
+ return out;
+}
+async function syncDB(manual){
+ SYNC={st:"…",msg:"Sincronizando…"};syncUi(manual);
+ try{
+  const c=await claude.use("db");
+  if(!c){SYNC={st:"Só aqui",msg:"Sem conta do Claude neste navegador: o avanço fica só neste aparelho. Entre na sua conta e toque aqui."};syncUi(manual);return}
+  DB=c;try{const u=await claude.use("user");UID=u&&u.id?await u.id():null}catch(e){}
+  const est=await pageAll("estado","u",20000);
+  let got=0;
+  est.forEach(d=>{const x=d.data();if(x&&(!ST[d.id]||(x.u||0)>(ST[d.id].u||0))){ST[d.id]=x;got++}});
+  let evn=[];try{evn=await pageAll("eventos","t",20000)}catch(e){}
+  const key=e=>e.q+"|"+e.t,have=new Set(EV.map(key));let gotE=0;
+  evn.forEach(d=>{const x=d.data();if(x&&x.q&&!have.has(key(x))){EV.push(x);have.add(key(x));gotE++}});
+  EV.sort((a,b)=>a.t-b.t);
+  try{const ss=await DB.collection("simulados").limit(100).get();const hv=new Set(SIMS.map(s=>s.id));ss.docs.forEach(d=>{const x=d.data();if(x&&!hv.has(x.id))SIMS.push(x)});SIMS.sort((a,b)=>a.t-b.t);lsPut(LSIMS,SIMS)}catch(e){}
+  /* sobe o que só existe neste aparelho (até 400 por vez) */
+  const remoteS=new Set(est.map(d=>d.id));let up=0;
+  for(const id of Object.keys(ST)){if(up>=400)break;const x=ST[id];if(x&&x.u&&(!remoteS.has(id))){try{await DB.doc("estado/"+id).set(x);up++}catch(e){break}}}
+  const remoteE=new Set(evn.map(d=>{const x=d.data()||{};return key(x)}));let upE=0;
+  for(const e of EV.slice(-4000)){if(upE>=400)break;if(!remoteE.has(key(e))&&(e.ok===true||e.ok===false)){try{await DB.collection("eventos").add(e);upE++}catch(er){break}}}
+  saveLocal();rebuild();
+  SYNC={st:"☁ ok",msg:"Sincronizado: "+est.length+" questões e "+evn.length+" respostas na nuvem"+(got||gotE?" ("+got+" estados e "+gotE+" respostas novos trazidos)":"")+(up||upE?"; enviados "+up+"+"+upE:"")+"."};
+  syncUi(manual);
+  if(!answered&&!(view==="sim"&&SIM&&!SIM.done))render();
+ }catch(e){SYNC={st:"⚠ erro",msg:"Falha ao sincronizar ("+(e&&(e.code||e.message)||"erro")+"). Toque para tentar de novo."};syncUi(manual)}
 }
 /* ---------- histórico por questão ---------- */
 function rebuild(){
@@ -597,7 +628,8 @@ function zApply(){
 }
 function zStep(d){const n=Math.max(0,Math.min(ZS.length-1,zi+d));if(n!==zi){zi=n;zApply()}}
 zApply();
-document.addEventListener("click",e=>{const t=e.target.closest&&e.target.closest("#zMinus,#zPlus");if(t){zStep(t.id==="zPlus"?1:-1);e.stopPropagation()}},true);
+document.addEventListener("visibilitychange",()=>{if(!document.hidden&&SYNC&&(SYNC.st==="Só aqui"||SYNC.st==="⚠ erro"))syncDB(false)});
+document.addEventListener("click",e=>{if(e.target.closest&&e.target.closest("#syncB")){syncDB(true);e.stopPropagation();return}const t=e.target.closest&&e.target.closest("#zMinus,#zPlus");if(t){zStep(t.id==="zPlus"?1:-1);e.stopPropagation()}},true);
 setInterval(()=>{
  if(view!=="treino"||!sess||!sess.sprint||sess.ended)return;
  const el=document.getElementById("spT");if(!el)return;
