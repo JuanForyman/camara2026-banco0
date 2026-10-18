@@ -99,6 +99,8 @@ main{max-width:780px;margin:0 auto;padding-block:18px 56px;display:grid;gap:14px
 .res.ok{background:var(--okbg)}.res.no{background:var(--errbg)}.res.bl{background:var(--accbg)}
 .res .v{font-weight:600}.res.ok .v{color:var(--ok)}.res.no .v{color:var(--err)}
 .com{margin:0;font-size:1rem}
+.fonte{display:inline-block;font:600 .74rem var(--f-mono);color:var(--acc);border:1px solid color-mix(in srgb,var(--acc) 45%,var(--line));border-radius:6px;padding:0 6px;margin-right:4px;vertical-align:1px;white-space:nowrap}
+.com b,.rule b{font-weight:700}
 .caus{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:4px;font-size:.82rem;color:var(--mut)}
 .caus button{background:none;border:1px solid var(--line);border-radius:99px;padding:2px 10px;color:var(--fg)}
 .caus button[aria-pressed="true"]{background:var(--err);border-color:var(--err);color:#fff}
@@ -107,6 +109,7 @@ details summary{cursor:pointer;color:var(--acc);font-size:.9rem}
 .art{margin-top:8px;font:.95rem/1.55 var(--f-read);display:grid;gap:10px}
 .art h4{margin:0;font:600 .8rem var(--f-mono);color:var(--fg);letter-spacing:.01em}
 .art .cab{color:var(--mut);font-size:.88rem;margin:0}
+.pan{border:1px solid var(--line);border-radius:10px;padding:8px 10px}.pan summary{font-weight:600}.pan table{width:100%;border-collapse:collapse;margin-top:8px;font-size:.88rem}.pan th,.pan td{border:1px solid var(--line);padding:5px 7px;text-align:left;vertical-align:top}.pan thead th{background:color-mix(in srgb,var(--acc) 10%,var(--card))}.pan tbody th{font-weight:600;background:color-mix(in srgb,var(--acc) 5%,var(--card))}.pan b{color:var(--acc)}
 .ga{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
 .ga .gl{font:600 .7rem var(--f-mono);color:var(--mut);text-transform:uppercase;letter-spacing:.06em;margin-right:2px}
 .ga .gc{border:1px solid color-mix(in srgb,var(--acc) 50%,var(--line));background:color-mix(in srgb,var(--acc) 10%,var(--card));border-radius:8px;padding:2px 9px;font:600 .9rem var(--f-read)}
@@ -581,10 +584,24 @@ function blockHtml(b,q){
  return`<section class="bl2"><div class="hd"><h4>${esc(b.t)}</h4>${b.c?`<p class="cab">${esc(b.c)}</p>`:""}</div><div class="bd">${rows.map(rowHtml).join("")}</div></section>`;
 }
 function fullHtml(q){return(q.a||[]).map(id=>{const a=ART[id];if(!a)return"";return blockHtml({t:a.t,c:"",l:a.x})}).join("")||`<p>Sem texto vinculado.</p>`}
+const PAN={
+"L8429-sanc":{t:"Sanções do art. 12 por tipo de ato",src:"Lei 8.429/92, art. 12, I a III",cols:["","Art. 9º enriquecimento ilícito","Art. 10 prejuízo ao erário","Art. 11 violação a princípio"],rows:[
+ ["Perda dos bens acrescidos","sim","sim, se concorrer","não"],
+ ["Perda da função pública","sim","sim","não"],
+ ["Suspensão dos direitos políticos","até **14 anos**","até **12 anos**","não"],
+ ["Multa civil","= acréscimo patrimonial","= valor do dano","até **24×** a remuneração"],
+ ["Proibição de contratar ou receber benefícios","até **14 anos**","até **12 anos**","até **4 anos**"]],
+ note:"A multa pode ser aumentada até o dobro se for ineficaz pela situação econômica do réu (§ 2º). As sanções só são executadas após o trânsito em julgado (§ 9º)."}
+};
+function panHtml(q){
+ const P=PAN[q.f];if(!P)return"";
+ const b=x=>esc(x).replace(/\*\*(.+?)\*\*/g,"<b>$1</b>");
+ return`<details class="pan" open><summary>Panorama: ${esc(P.t)}</summary><div class="tw"><table><thead><tr>${P.cols.map(c=>`<th>${esc(c)}</th>`).join("")}</tr></thead><tbody>${P.rows.map(r=>`<tr>${r.map((c,i)=>i?`<td>${b(c)}</td>`:`<th scope="row">${esc(c)}</th>`).join("")}</tr>`).join("")}</tbody></table></div><p class="nota">${esc(P.src)}. ${esc(P.note||"")}</p></details>`;
+}
 function artHtml(q){
- if(!q.s||!q.s.length)return fullHtml(q);
+ if(!q.s||!q.s.length)return panHtml(q)+fullHtml(q);
  const g=guarde(q.s.flatMap(b=>b.l)),kd=KD[q.k];
- return(g.length?`<div class="ga"><span class="gl">Guarde</span>${g.map(([c,t])=>`<span class="gc ${c==="r"?"r":""}">${esc(t)}</span>`).join("")}</div>`:"")
+ return panHtml(q)+(g.length?`<div class="ga"><span class="gl">Guarde</span>${g.map(([c,t])=>`<span class="gc ${c==="r"?"r":""}">${esc(t)}</span>`).join("")}</div>`:"")
   +(kd?`<div class="bq"><b>Como a banca cobra</b>${esc(kd)}</div>`:"")
   +q.s.map(b=>blockHtml(b,q)).join("")
   +`<details class="full"><summary>Texto completo do artigo ou da aula</summary><div class="art" style="margin-top:8px">${fullHtml(q)}</div></details>`;
@@ -643,7 +660,7 @@ function vTreino(){
   <div class="pal"><button id="bPal" aria-pressed="${palp}">Palpite</button><span>${palp?"Marcado como palpite: entra na sua estatística de chutes.":"Marque se for chutar. Cada erro anula um acerto."} <kbd>P</kbd></span></div>`;
  }else{
   const a=answered,cls=a.branco?"bl":a.acertou?"ok":"no";
-  h+=`<div class="res ${cls}"><div><span class="v">${a.branco?"Em branco":a.acertou?"Você acertou":"Você errou"}.</span> Gabarito: <b>${cur.g==="C"?"Certo":"Errado"}</b></div><p class="com">${esc(cur.c)}</p>
+  h+=`<div class="res ${cls}"><div><span class="v">${a.branco?"Em branco":a.acertou?"Você acertou":"Você errou"}.</span> Gabarito: <b>${cur.g==="C"?"Certo":"Errado"}</b></div><p class="com">${cHtml(cur.c)}</p>
   ${!a.acertou&&!a.branco?`<div class="caus"><span>Por que errou?</span>${CAUSAS.map(([k,l],i)=>`<button data-cz="${k}" aria-pressed="${s.last_cz===k}">${l} <kbd>${i+1}</kbd></button>`).join("")}</div>`:""}</div>
   <details class="mais" ${!a.acertou&&!a.branco?"open":""}><summary>Saiba mais: ${cur.s&&cur.s.length?"o ponto da questão":"texto do artigo"}</summary><div class="art">${artHtml(cur)}</div></details>
   <div class="marks" role="group" aria-label="Marcações">${[["dif","Difícil","d"],["rev","Rever","v"],["ruim","Ruim","r"],["lix","Lixeira","x"]].map(([k,l,key])=>`<button data-m="${k}" aria-pressed="${!!s.m[k]}">${l}<kbd>${key}</kbd></button>`).join("")}</div>
@@ -666,6 +683,13 @@ function sessResumo(){
 }
 /* ---------- caderno de erros ---------- */
 function ruleOf(q){const c=q.c||"";return c.length>230?c.slice(0,227)+"…":c}
+function cHtml(c){
+ c=c||"";let src="",body=c;const m=c.match(/^((?:Arts?\.?|§§?|Lei|LC|CF|CRFB|RICD|RC|Súmula|Decreto|Res\.?|Resolução|Portaria|Constituição|Regimento)[^:]{0,48}):\s+([\s\S]+)$/);
+ if(m){src=m[1];body=m[2]}
+ const b=esc(body).replace(/\*\*(.+?)\*\*/g,"<b>$1</b>").replace(/\*\*/g,"");
+ return(src?`<span class="fonte">${esc(src)}</span> `:"")+b;
+}
+function ruleH(q){return cHtml(ruleOf(q))}
 function vErros(){
  const cad=cadernoList(),due=dueList(),cards=cardList(),dom=Q.filter(q=>QH[q.id]&&QH[q.id].errs>0&&!noCad(q)).length;
  const rein=cad.filter(q=>QH[q.id]&&QH[q.id].errs>=2);
@@ -678,7 +702,7 @@ function vErros(){
  if(errTab==="cart")return h+vCards(cards.filter(q=>!errMod||mod(q)===errMod));
  const src={venc:due,todos:cad,rein}[errTab].filter(q=>!errMod||mod(q)===errMod);
  if(!src.length)return h+`<div class="card vazio">${errTab==="venc"?"Nada vence agora. Os próximos erros voltam nos dias seguintes.":"Nenhum item aqui."}</div>`;
- h+=`<section class="card flat" style="padding:4px 0">`+src.slice(0,60).map(q=>{const hh=QH[q.id]||{errs:0,streak:0};return`<div class="er-item"><div class="row"><span class="chip ${blk(q)==="P1"?"p1":"p2"}">${blk(q)}</span><span class="chip">${esc(mod(q))}</span><span class="chip ${hh.errs>=2?"er":"wn"}">errou ${hh.errs}×</span>${hh.errs?`<span class="chip">volta ${rel(dueT(hh))} · ${Math.min(hh.streak,LAD.length)}/${LAD.length} acertos</span>`:`<span class="chip">marcada para rever</span>`}</div><p style="font-family:var(--f-read)">${esc(q.e)}</p><p class="rule"><b>${q.g==="C"?"Certo":"Errado"}.</b> ${esc(ruleOf(q))}</p></div>`}).join("")+(src.length>60?`<p class="nota">Mostrando 60 de ${src.length}.</p>`:"")+`</section>`;
+ h+=`<section class="card flat" style="padding:4px 0">`+src.slice(0,60).map(q=>{const hh=QH[q.id]||{errs:0,streak:0};return`<div class="er-item"><div class="row"><span class="chip ${blk(q)==="P1"?"p1":"p2"}">${blk(q)}</span><span class="chip">${esc(mod(q))}</span><span class="chip ${hh.errs>=2?"er":"wn"}">errou ${hh.errs}×</span>${hh.errs?`<span class="chip">volta ${rel(dueT(hh))} · ${Math.min(hh.streak,LAD.length)}/${LAD.length} acertos</span>`:`<span class="chip">marcada para rever</span>`}</div><p style="font-family:var(--f-read)">${esc(q.e)}</p><p class="rule"><b>${q.g==="C"?"Certo":"Errado"}.</b> ${ruleH(q)}</p></div>`}).join("")+(src.length>60?`<p class="nota">Mostrando 60 de ${src.length}.</p>`:"")+`</section>`;
  return h;
 }
 function vCards(list){
@@ -687,7 +711,7 @@ function vCards(list){
  const head=a?a.t:(TOP[q.t]||{}).t||q.t;
  let h=`<div class="card"><div class="sbar"><span>${list.length} ${list.length===1?"cartão":"cartões"} hoje</span><span>${esc(mod(q))}</span></div><div class="cardf"><div class="lbl">Qual é a regra?</div><h3>${esc(head)}</h3>`;
  if(!cardSt){h+=`<p class="nota">Tente lembrar antes de virar. O cartão vem de uma questão que você errou.</p></div><div class="row"><button class="btn pri" data-a="flip">Virar</button></div></div>`}
- else{h+=`<p class="com" style="font-size:1.05rem"><b>${q.g==="C"?"Certo":"Errado"}:</b> ${esc(q.e)}</p><p class="com">${esc(q.c)}</p>${q.s&&q.s.length?`<div class="art">${q.s.map(b=>blockHtml(b,q)).join("")}</div>`:""}</div>
+ else{h+=`<p class="com" style="font-size:1.05rem"><b>${q.g==="C"?"Certo":"Errado"}:</b> ${esc(q.e)}</p><p class="com">${cHtml(q.c)}</p>${q.s&&q.s.length?`<div class="art">${q.s.map(b=>blockHtml(b,q)).join("")}</div>`:""}</div>
  <div class="row"><button class="btn pri" data-a="cgood">Sabia</button><button class="btn" data-a="cbad">Não sabia</button></div></div>`}
  return h;
 }
@@ -767,7 +791,7 @@ function simResult(s){
  return`<section class="card"><div class="lbl">Resultado · Prova ${s.b}</div><div class="count" style="margin-top:6px"><b>${c-e}</b><span>pontos líquidos de ${n} (${pct(liq)}). Meta provisória ${pct(M.pp)}.</span></div>
  <p style="margin:10px 0 0">${c} certas, ${e} erradas, ${bl} em branco, em ${fmtT(s.el)}. ${liq>=M.pp?"Acima da meta provisória.":"Abaixo da meta provisória: os erros abaixo já entraram no caderno."}</p></section>
  <section class="card"><div class="lbl">Por matéria</div><div class="tw"><table><thead><tr><th>Matéria</th><th class="n">Itens</th><th class="n">C</th><th class="n">E</th><th class="n">Líquido</th></tr></thead><tbody>${Object.entries(pm).map(([m,o])=>`<tr><td>${esc(m)}</td><td class="n">${o.n}</td><td class="n">${o.c}</td><td class="n">${o.e}</td><td class="n">${pct((o.c-o.e)/o.n)}</td></tr>`).join("")}</tbody></table></div></section>
- <section class="card"><div class="lbl">Erros do simulado (${err.length})</div>${err.map(q=>`<div class="er-item"><div class="row"><span class="chip">${esc(mod(q))}</span></div><p style="font-family:var(--f-read)">${esc(q.e)}</p><p class="rule"><b>${q.g==="C"?"Certo":"Errado"}.</b> ${esc(ruleOf(q))}</p></div>`).join("")||"<p class='nota'>Nenhum erro.</p>"}</section>
+ <section class="card"><div class="lbl">Erros do simulado (${err.length})</div>${err.map(q=>`<div class="er-item"><div class="row"><span class="chip">${esc(mod(q))}</span></div><p style="font-family:var(--f-read)">${esc(q.e)}</p><p class="rule"><b>${q.g==="C"?"Certo":"Errado"}.</b> ${ruleH(q)}</p></div>`).join("")||"<p class='nota'>Nenhum erro.</p>"}</section>
  <div class="row"><button class="btn pri" data-a="simclose">Concluir</button></div>`;
 }
 /* ---------- painel ---------- */
@@ -857,7 +881,7 @@ function vPainel(){
  <section class="card"><div class="lbl">Por matéria</div><div class="tw"><table><thead><tr><th>Matéria</th><th>Vistas (alta incid.)</th><th class="n">Resp.</th><th class="n">Líquido</th><th class="n">Peso</th></tr></thead><tbody>${rows.map(o=>`<tr><td>${esc(o.m)} <span class="chip ${o.b==="P1"?"p1":"p2"}">${o.b}</span></td><td><div class="minibar"><i style="width:${100*o.cov1}%"></i></div></td><td class="n">${o.tot}</td><td class="n">${o.tot?pct(o.liq):"–"}</td><td class="n">${(WT[o.b]||{})[o.m]||0}</td></tr>`).join("")}</tbody></table></div><p class="nota" style="margin-top:6px">Peso: itens estimados em cada prova de 90.</p></section>
  <div class="grid2"><section class="card"><div class="lbl">Palpites</div>${ch.g+ch.s?`<p style="margin:8px 0 0">Com certeza: <b class="num">${ch.s?pct(ch.so/ch.s):"–"}</b> de acerto em ${ch.s}.<br>Palpite: <b class="num">${ch.g?pct(ch.go/ch.g):"–"}</b> em ${ch.g}.</p><p class="nota" style="margin-top:6px">Acima de 50% palpitar compensa; abaixo, deixe em branco.</p>`:`<p class="nota" style="margin-top:8px">Marque Palpite no treino quando for chutar para o site medir se compensa.</p>`}</section>
  <section class="card"><div class="lbl">Por que você erra</div>${cs?CAUSAS.map(([k,l])=>`<div class="g" style="grid-template-columns:6rem 1fr 2rem;margin-top:6px"><span>${l}</span><div class="track"><i style="width:${100*cz[k]/cs}%"></i></div><span class="num">${cz[k]}</span></div>`).join(""):`<p class="nota" style="margin-top:8px">Depois de um erro, toque na causa. Isso mostra se o problema é conteúdo, pegadinha ou leitura.</p>`}${ms?`<p class="nota" style="margin-top:8px">Tempo mediano por questão: <b class="num">${Math.round(ms/1000)} s</b>.</p>`:""}</section></div>`;
- if(rein.length)h+=`<section class="card"><div class="lbl">Mais erradas</div>${rein.map(q=>`<div class="er-item"><div class="row"><span class="chip">${esc(mod(q))}</span><span class="chip er">${QH[q.id].errs}×</span></div><p class="rule">${esc(ruleOf(q))}</p></div>`).join("")}</section>`;
+ if(rein.length)h+=`<section class="card"><div class="lbl">Mais erradas</div>${rein.map(q=>`<div class="er-item"><div class="row"><span class="chip">${esc(mod(q))}</span><span class="chip er">${QH[q.id].errs}×</span></div><p class="rule">${ruleH(q)}</p></div>`).join("")}</section>`;
  h+=`<div class="row"><button class="btn" id="bExp">Exportar meu histórico (JSON)</button><span class="nota">${ruim.length} marcadas como ruins · ${lix.length} na lixeira</span></div>`;
  if(ruim.length)h+=`<section class="card"><div class="lbl">Marcadas como ruins</div>${ruim.slice(0,30).map(q=>`<div class="er-item"><p>${esc(q.id)}: ${esc(q.e)}</p></div>`).join("")}</section>`;
  if(lix.length)h+=`<section class="card"><div class="lbl">Lixeira</div>${lix.slice(0,30).map(q=>`<div class="er-item"><p>${esc(q.id)}: ${esc(q.e)}</p><div><button class="btn sm" data-rest="${q.id}">Restaurar</button></div></div>`).join("")}</section>`;
