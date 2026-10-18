@@ -1,0 +1,57 @@
+{
+ "2026-10-13": {
+  "acertos": 9,
+  "liquido": 1.0,
+  "materias": {
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 2,
+   "Processo Legislativo, RICD e Regimento Comum": 7
+  },
+  "minutos_aprox": 0.0,
+  "n": 9
+ },
+ "2026-10-15": {
+  "acertos": 47,
+  "liquido": 0.649,
+  "materias": {
+   "Noções de Direito Administrativo e Administração Pública": 16,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 25,
+   "Processo Legislativo, RICD e Regimento Comum": 16
+  },
+  "minutos_aprox": 0.0,
+  "n": 57
+ },
+ "2026-10-16": {
+  "acertos": 236,
+  "liquido": 0.611,
+  "materias": {
+   "Ciência Política": 18,
+   "Linguística": 20,
+   "Língua Inglesa": 14,
+   "Língua Portuguesa": 25,
+   "Noções de Direito Administrativo e Administração Pública": 102,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 48,
+   "Processo Legislativo, RICD e Regimento Comum": 33,
+   "Reconhecimento de Fala, Transcrição e IA": 13,
+   "Tecnologia da Informação e Dados": 20
+  },
+  "minutos_aprox": 40.0,
+  "n": 293
+ },
+ "2026-10-17": {
+  "acertos": 336,
+  "liquido": 0.667,
+  "materias": {
+   "Ciência Política": 40,
+   "Linguística": 35,
+   "Língua Inglesa": 26,
+   "Língua Portuguesa": 44,
+   "Noções de Direito Administrativo e Administração Pública": 65,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 43,
+   "Processo Legislativo, RICD e Regimento Comum": 67,
+   "Reconhecimento de Fala, Transcrição e IA": 57,
+   "Tecnologia da Informação e Dados": 26
+  },
+  "minutos_aprox": 201.4,
+  "n": 403
+ }
+}
