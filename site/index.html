@@ -515,14 +515,14 @@ function artHtml(q){
  return q.s.map(b=>`<h4>${esc(b.t)}</h4>`+(b.c?`<p class="cab">${esc(b.c)}</p>`:"")+b.l.map(l=>`<p class="sel">${esc(l)}</p>`).join("")).join("")+`<details class="full"><summary>Texto completo do artigo ou da aula</summary>${fullHtml(q)}</details>`;
 }
 function crumb(q){const T=TOP[q.t]||{};return`<div class="crumb"><span class="chip ${blk(q)==="P1"?"p1":"p2"}">${blk(q)}</span>${esc(mod(q))} <span>›</span> ${esc(T.t||q.t)}${q.f&&CAMPO[q.f]?` <span>›</span> <em>${esc(CAMPO[q.f])}</em>`:""}</div>`}
-const NAV=[["hoje","Hoje"],["treino","Treino"],["erros","Erros"],["sim","Simulado"],["mapa","Mapa"],["painel","Painel"]];
+const NAV=[["hoje","Hoje"],["treino","Treino"],["erros","Erros"],["sim","Simulado"],["mapa","Mapa"],["dados","Dados"],["painel","Painel"]];
 function drawNav(){
  const d=dueList().length+cardList().length;
  $("nav").innerHTML=NAV.map(([k,l])=>`<button data-nav="${k}" aria-current="${view===k}">${l}${k==="erros"&&d?`<span class="dot">${d>99?"99+":d}</span>`:""}</button>`).join("");
 }
 function render(){
  drawNav();if(!Q.length)return;
- const f={hoje:vHoje,treino:vTreino,erros:vErros,sim:vSim,mapa:vMapa,painel:vPainel}[view];
+ const f={hoje:vHoje,treino:vTreino,erros:vErros,sim:vSim,mapa:vMapa,dados:vDados,painel:vPainel}[view];
  $("app").innerHTML=f();
 }
 function gaugeRow(lb,v,cls,meta){const w=Math.max(0,Math.min(100,100*v));return`<div class="g"><span class="lbl">${lb}</span><div class="track ${cls}"><i style="width:${w}%"></i><u style="left:${100*meta}%"></u></div><span class="num">${v<=0?"0%":pct(v)}</span></div>`}
@@ -725,6 +725,50 @@ function vMapa(){
   const L=g.l.slice().sort((a,b)=>lv(a)-lv(b)||b.n-a.n);
   h+=`<section class="card"><div class="lbl">${esc(m)} <span class="chip ${g.b==="P1"?"p1":"p2"}">${g.b}</span></div><div class="hm" style="margin-top:8px">${L.map(o=>{const t=TOP[o.id];return`<button data-go='${JSON.stringify({top:o.id})}' data-l="${lv(o)}" title="${esc(t.t)}"><span class="tt">${esc(t.t)}</span><span class="st">${o.k?pct(Math.max(0,o.liq))+" líq · "+o.k+" resp":"sem respostas"} · ${o.seen}/${o.n}${o.due?" · "+o.due+" a rever":""}</span></button>`}).join("")}</div></section>`;
  }
+ return h;
+}
+
+function wil(k,n){if(!n)return[0,1];const z=1.64,p=k/n,d=1+z*z/n,c=p+z*z/(2*n),a=z*Math.sqrt(p*(1-p)/n+z*z/(4*n*n));return[(c-a)/d,(c+a)/d]}
+function vDados(){
+ const S0=stats(),M=Motor.META,ev=EV.filter(e=>e.ok===true||e.ok===false);
+ if(ev.length<30)return`<section class="card"><div class="lbl">Dados</div><p style="margin:8px 0 0">Responda ao menos 30 questões para os cálculos ficarem confiáveis. Você tem ${ev.length}.</p></section>`;
+ const dias=Math.max(1,Math.ceil((EXAM-now())/DAY));
+ const bar=(v,m)=>`<div class="track"><i style="width:${Math.max(2,Math.min(100,100*v/m))}%"></i></div>`;
+ /* 1 veredito */
+ const nB=b=>{const l=[];for(const o of Object.values(S0.by))if(o.b===b)l.push(o);return l};
+ let h=`<section class="card"><div class="lbl">Veredito com margem de erro</div>`;
+ for(const b of["P1","P2"]){
+  let lo=0,mid=0,hi=0;
+  for(const o of nB(b)){const w=(WT[b]||{})[o.m]||0;const [a,c]=wil(o.ok,o.tot);const pm=o.tot?o.ok/o.tot:0.5;lo+=w*(2*a-1);hi+=w*(2*c-1);mid+=w*(2*pm-1)}
+  const W=Object.values(WT[b]).reduce((x,y)=>x+y,0);lo/=W;mid/=W;hi/=W;
+  h+=`<p style="margin:10px 0 2px"><b>${b}</b>: líquido <b class="num">${pct(mid)}</b> (faixa ${pct(lo)} a ${pct(hi)}) ≈ <b class="num">${Math.round(mid*W)}</b> de ${W} pontos líquidos. Meta ${pct(M.pp)}.</p>${bar(Math.max(0,mid),1)}`;
+ }
+ h+=`<p class="nota" style="margin-top:8px">Cálculo com todas as ${ev.length} respostas (não só as últimas), por matéria, ponderado pelo peso na prova. A faixa mostra o quanto o número ainda pode variar com poucos dados.</p></section>`;
+ /* 2 onde ganhar pontos */
+ const gain=[];
+ for(const b of["P1","P2"])for(const o of nB(b)){const w=(WT[b]||{})[o.m]||0;const pm=o.tot?o.ok/o.tot:0.5;const lq=2*pm-1;gain.push({m:o.m,b,w,lq,tot:o.tot,g:w*Math.max(0,M.pp-lq)})}
+ gain.sort((a,b)=>b.g-a.g);const gm=Math.max(1,gain[0].g);
+ h+=`<section class="card"><div class="lbl">Onde estão os pontos</div><p class="nota" style="margin:6px 0 8px">Pontos líquidos que faltam para a meta, por matéria: peso × distância. Treine de cima para baixo.</p>${gain.map(x=>`<button class="btn sm" style="display:grid;grid-template-columns:7.5rem 1fr 3rem;gap:8px;align-items:center;width:100%;text-align:left;margin-top:6px" data-go='${JSON.stringify({mod:x.m})}'><span>${esc(SH[x.m]||x.m)} <span class="chip ${x.b==="P1"?"p1":"p2"}">${x.b}</span></span>${bar(x.g,gm)}<span class="num">${x.g>=0.5?"+"+x.g.toFixed(1):"ok"}</span></button>`).join("")}</section>`;
+ /* 3 tópicos críticos */
+ const T=topStats(),tl=Object.values(T).filter(o=>o.k>=6).map(o=>{const ok=o.rec.reduce((a,b)=>a+b,0);return{o,p:ok/o.k,lo:wil(ok,o.k)[0]}}).sort((a,b)=>a.p-b.p||b.o.k-a.o.k).slice(0,8);
+ if(tl.length)h+=`<section class="card"><div class="lbl">Tópicos mais frágeis</div><p class="nota" style="margin:6px 0 8px">Com 6 ou mais respostas. Toque para treinar só ele.</p>${tl.map(x=>`<button class="btn sm" style="display:grid;grid-template-columns:1fr 5.5rem;gap:8px;width:100%;text-align:left;margin-top:6px" data-go='${JSON.stringify({top:x.o.id})}'><span>${esc(TOP[x.o.id].t)}</span><span class="num">${pct(x.p)} · ${x.o.k} resp</span></button>`).join("")}</section>`;
+ /* 4 viés C/E */
+ let cC=0,cCo=0,eE=0,eEo=0,rC=0;
+ for(const e of ev){if(e.g==="C"){cC++;if(e.ok)cCo++}else if(e.g==="E"){eE++;if(e.ok)eEo++}}
+ const pc=cC?cCo/cC:0,pe=eE?eEo/eE:0;
+ h+=`<section class="card"><div class="lbl">Certo × Errado</div><div class="g" style="grid-template-columns:7rem 1fr 3rem;margin-top:8px"><span>Itens certos</span>${bar(pc,1)}<span class="num">${pct(pc)}</span></div><div class="g" style="grid-template-columns:7rem 1fr 3rem;margin-top:6px"><span>Itens errados</span>${bar(pe,1)}<span class="num">${pct(pe)}</span></div><p class="nota" style="margin-top:8px">${pe+0.03<pc?`Você é mais complacente do que desconfiado: deixa passar item errado (${pct(1-pe)} de erro) mais do que rejeita item certo (${pct(1-pc)}). Na dúvida, procure o detalhe que falsifica: troca de prazo, quórum, órgão, "sempre", "exclusivamente".`:pc+0.03<pe?`Você desconfia demais: rejeita item certo (${pct(1-pc)} de erro) mais do que aceita item errado (${pct(1-pe)}). Antes de marcar Errado, localize a palavra exata que torna o item falso.`:`Os dois lados estão equilibrados, sem viés a corrigir.`}</p></section>`;
+ /* 5 tempo */
+ const fx=[["até 6 s",0,6e3],["6 a 10 s",6e3,1e4],["10 a 20 s",1e4,2e4],["mais de 20 s",2e4,18e4]];
+ const rowsT=fx.map(([l,a,b])=>{const s=ev.filter(e=>e.ms&&e.ms>=a&&e.ms<b);return{l,n:s.length,p:s.length?s.filter(e=>e.ok).length/s.length:0}}).filter(r=>r.n>=8);
+ const ms=medMs();
+ if(rowsT.length>=2)h+=`<section class="card"><div class="lbl">Tempo × acerto</div>${rowsT.map(r=>`<div class="g" style="grid-template-columns:6.5rem 1fr 3rem;margin-top:6px"><span>${r.l} <span class="nota">(${r.n})</span></span>${bar(r.p,1)}<span class="num">${pct(r.p)}</span></div>`).join("")}<p class="nota" style="margin-top:8px">Mediana: ${Math.round(ms/1000)} s por item. ${Math.max(...rowsT.map(r=>r.p))-Math.min(...rowsT.map(r=>r.p))<0.1?"Demorar mais não melhora o acerto: o erro é de conteúdo, não de pressa. Em prova, não gaste tempo remoendo um item.":"Há diferença de acerto entre as faixas; veja onde está o ponto fraco."}</p></section>`;
+ /* 6 ritmo e cobertura */
+ const vis=Object.values(S0.by).reduce((a,o)=>a+o.seen,0),tot=Object.values(S0.by).reduce((a,o)=>a+o.n,0);
+ const novos=tot-vis,porDia=Math.ceil(novos/Math.max(1,dias-14)),pd=perDay(),ks=Object.keys(pd).sort().slice(-7),med=ks.length?Math.round(ks.reduce((a,k)=>a+pd[k],0)/ks.length):0;
+ h+=`<section class="card"><div class="lbl">Ritmo até a prova</div><p style="margin:8px 0 0">Faltam <b class="num">${dias}</b> dias. Vistas <b class="num">${vis}</b> de ${tot} questões; restam <b class="num">${novos}</b> inéditas.</p><p style="margin:6px 0 0">Para ver todas e ainda reservar 14 dias de revisão: <b class="num">${porDia}</b> inéditas por dia. Seu ritmo recente: <b class="num">${med}</b> por dia.</p><p class="nota" style="margin-top:6px">${med>=porDia?"Ritmo suficiente. Mantenha e use o excedente em revisão.":"Ritmo abaixo do necessário: aumente o tempo diário ou priorize os temas de maior peso."}</p></section>`;
+ /* 7 estratégia de prova */
+ const fr=ev.filter(e=>e.t).length;
+ h+=`<section class="card"><div class="lbl">Estratégia para a prova</div><ol style="margin:8px 0 0;padding-left:1.2rem;line-height:1.5"><li>Cada erro anula um acerto: só marque quando a chance for acima de 50%. Com seu acerto médio de <b>${pct(ev.filter(e=>e.ok).length/ev.length)}</b>, quase tudo compensa marcar; deixe em branco só o que for chute total.</li><li>Faça primeiro as matérias de maior peso e maior segurança, deixe para o fim as de baixo acerto (${gain.slice(0,2).map(x=>SH[x.m]||x.m).join(", ")}).</li><li>${pe+0.03<pc?"Em item que parece certo demais, procure a pegadinha antes de marcar Certo.":"Leia o item inteiro: a pegadinha costuma estar no final da frase."}</li><li>Meta de tempo: ${ms?Math.max(10,Math.round(ms/1000)):13} s por item é o seu ritmo atual; sobra tempo para revisar os marcados.</li></ol></section>`;
  return h;
 }
 function vPainel(){
