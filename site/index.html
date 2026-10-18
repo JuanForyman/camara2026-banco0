@@ -569,7 +569,14 @@ function guarde(lines){
  while((m=re2.exec(txt))&&out.length<7){const k=m[0].toLowerCase();if(!seen.has(k)){seen.add(k);out.push(["r",m[0]])}}
  return out;
 }
-function blockHtml(b){
+function unTrunc(q,t){
+ if(!t||!/…$/.test(t))return t;
+ const nz=x=>x.replace(/[–—]/g,"-").replace(/\s+/g," ").trim(),p=nz(t.slice(0,-1)).slice(0,50);if(p.length<20)return t;
+ for(const id of(q&&q.a)||[]){const a=ART[id];if(!a)continue;for(const x of a.x){const n=nz(x),i=n.indexOf(p);if(i>=0&&(i<=12||n.slice(0,i).match(/^(?:Art\.?\s*\d+[ºo°]?\s*)?$/)))return x.slice(x.length-(n.length-i)).replace(/^Art\.?\s*\d+[ºo°]?\s+/,"")}}
+ return t;
+}
+function blockHtml(b,q){
+ b={t:b.t,c:unTrunc(q,b.c),l:b.l.map(l=>unTrunc(q,l))};
  const rows=b.l.flatMap(rowsOf);
  return`<section class="bl2"><div class="hd"><h4>${esc(b.t)}</h4>${b.c?`<p class="cab">${esc(b.c)}</p>`:""}</div><div class="bd">${rows.map(rowHtml).join("")}</div></section>`;
 }
@@ -579,7 +586,7 @@ function artHtml(q){
  const g=guarde(q.s.flatMap(b=>b.l)),kd=KD[q.k];
  return(g.length?`<div class="ga"><span class="gl">Guarde</span>${g.map(([c,t])=>`<span class="gc ${c==="r"?"r":""}">${esc(t)}</span>`).join("")}</div>`:"")
   +(kd?`<div class="bq"><b>Como a banca cobra</b>${esc(kd)}</div>`:"")
-  +q.s.map(blockHtml).join("")
+  +q.s.map(b=>blockHtml(b,q)).join("")
   +`<details class="full"><summary>Texto completo do artigo ou da aula</summary><div class="art" style="margin-top:8px">${fullHtml(q)}</div></details>`;
 }
 function crumb(q){const T=TOP[q.t]||{};return`<div class="crumb"><span class="chip ${blk(q)==="P1"?"p1":"p2"}">${blk(q)}</span>${esc(mod(q))} <span>›</span> ${esc(T.t||q.t)}${q.f&&CAMPO[q.f]?` <span>›</span> <em>${esc(CAMPO[q.f])}</em>`:""}</div>`}
@@ -680,7 +687,7 @@ function vCards(list){
  const head=a?a.t:(TOP[q.t]||{}).t||q.t;
  let h=`<div class="card"><div class="sbar"><span>${list.length} ${list.length===1?"cartão":"cartões"} hoje</span><span>${esc(mod(q))}</span></div><div class="cardf"><div class="lbl">Qual é a regra?</div><h3>${esc(head)}</h3>`;
  if(!cardSt){h+=`<p class="nota">Tente lembrar antes de virar. O cartão vem de uma questão que você errou.</p></div><div class="row"><button class="btn pri" data-a="flip">Virar</button></div></div>`}
- else{h+=`<p class="com" style="font-size:1.05rem"><b>${q.g==="C"?"Certo":"Errado"}:</b> ${esc(q.e)}</p><p class="com">${esc(q.c)}</p>${q.s&&q.s.length?`<div class="art">${q.s.map(blockHtml).join("")}</div>`:""}</div>
+ else{h+=`<p class="com" style="font-size:1.05rem"><b>${q.g==="C"?"Certo":"Errado"}:</b> ${esc(q.e)}</p><p class="com">${esc(q.c)}</p>${q.s&&q.s.length?`<div class="art">${q.s.map(b=>blockHtml(b,q)).join("")}</div>`:""}</div>
  <div class="row"><button class="btn pri" data-a="cgood">Sabia</button><button class="btn" data-a="cbad">Não sabia</button></div></div>`}
  return h;
 }
