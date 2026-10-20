@@ -146,3 +146,6 @@ Prioridade de incidência, 2ª base (Taquígrafo 2012): `ferramentas/prioridade_
 
 ## Regra: enunciado não cobra número de inciso/alínea
 O aluno não decora numeração. O enunciado deve **reproduzir o conteúdo** do inciso, alínea ou parágrafo (ex.: "falta a um terço das sessões, perde direitos políticos ou sofre decretação da Justiça Eleitoral"), e não "incisos III, IV e V do art. 55". A referência pode ir entre parênteses ou no gabarito, nunca como o dado que decide o item. Revisão feita em 2026-10-20 (≈60 itens).
+
+## Regra: sempre dizer "Presidente de quê"
+"O Presidente" sozinho é ambíguo (Câmara, Senado, República, Comissão, Congresso). Qualificar sempre: Presidente da Câmara, da Comissão, do Congresso, da República. Mesma lógica para "a Mesa" e "a Comissão" quando houver mais de uma possível. Revisão de 2026-10-20 (~200 itens).
