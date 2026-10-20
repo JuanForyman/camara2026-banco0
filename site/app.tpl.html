@@ -99,6 +99,7 @@ main{max-width:780px;margin:0 auto;padding-block:18px 56px;display:grid;gap:14px
 .res.ok{background:var(--okbg)}.res.no{background:var(--errbg)}.res.bl{background:var(--accbg)}
 .res .v{font-weight:600}.res.ok .v{color:var(--ok)}.res.no .v{color:var(--err)}
 .com{margin:0;font-size:1rem}
+.tr{margin:.45rem 0 0;font-size:.95rem;font-style:italic;color:var(--mut,#555)}.tr b{font-style:normal}
 .fonte{display:inline-block;font:600 .74rem var(--f-mono);color:var(--acc);border:1px solid color-mix(in srgb,var(--acc) 45%,var(--line));border-radius:6px;padding:0 6px;margin-right:4px;vertical-align:1px;white-space:nowrap}
 .com b,.rule b{font-weight:700}
 .caus{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:4px;font-size:.82rem;color:var(--mut)}
@@ -493,7 +494,7 @@ function vTreino(){
   <div class="pal"><button id="bPal" aria-pressed="${palp}">Palpite</button><span>${palp?"Marcado como palpite: entra na sua estatística de chutes.":"Marque se for chutar. Cada erro anula um acerto."} <kbd>P</kbd></span></div>`;
  }else{
   const a=answered,cls=a.branco?"bl":a.acertou?"ok":"no";
-  h+=`<div class="res ${cls}"><div><span class="v">${a.branco?"Em branco":a.acertou?"Você acertou":"Você errou"}.</span> Gabarito: <b>${cur.g==="C"?"Certo":"Errado"}</b></div><p class="com">${cHtml(cur.c)}</p>
+  h+=`<div class="res ${cls}"><div><span class="v">${a.branco?"Em branco":a.acertou?"Você acertou":"Você errou"}.</span> Gabarito: <b>${cur.g==="C"?"Certo":"Errado"}</b></div><p class="com">${cHtml(cur.c)}</p>${cur.tr?`<p class="tr"><b>Tradução:</b> ${esc(cur.tr)}</p>`:""}
   ${!a.acertou&&!a.branco?`<div class="caus"><span>Por que errou?</span>${CAUSAS.map(([k,l],i)=>`<button data-cz="${k}" aria-pressed="${s.last_cz===k}">${l} <kbd>${i+1}</kbd></button>`).join("")}</div>`:""}</div>
   <details class="mais" ${!a.acertou&&!a.branco?"open":""}><summary>Saiba mais: ${cur.s&&cur.s.length?"o ponto da questão":"texto do artigo"}</summary><div class="art">${artHtml(cur)}</div></details>
   <div class="marks" role="group" aria-label="Marcações">${[["dif","Difícil","d"],["rev","Rever","v"],["ruim","Ruim","r"],["lix","Lixeira","x"]].map(([k,l,key])=>`<button data-m="${k}" aria-pressed="${!!s.m[k]}">${l}<kbd>${key}</kbd></button>`).join("")}</div>
@@ -544,7 +545,7 @@ function vCards(list){
  const head=a?a.t:(TOP[q.t]||{}).t||q.t;
  let h=`<div class="card"><div class="sbar"><span>${list.length} ${list.length===1?"cartão":"cartões"} hoje</span><span>${esc(mod(q))}</span></div><div class="cardf"><div class="lbl">Qual é a regra?</div><h3>${esc(head)}</h3>`;
  if(!cardSt){h+=`<p class="nota">Tente lembrar antes de virar. O cartão vem de uma questão que você errou.</p></div><div class="row"><button class="btn pri" data-a="flip">Virar</button></div></div>`}
- else{h+=`<p class="com" style="font-size:1.05rem"><b>${q.g==="C"?"Certo":"Errado"}:</b> ${esc(q.e)}</p><p class="com">${cHtml(q.c)}</p>${q.s&&q.s.length?`<div class="art">${q.s.map(b=>blockHtml(b,q)).join("")}</div>`:""}</div>
+ else{h+=`<p class="com" style="font-size:1.05rem"><b>${q.g==="C"?"Certo":"Errado"}:</b> ${esc(q.e)}</p><p class="com">${cHtml(q.c)}</p>${q.tr?`<p class="tr"><b>Tradução:</b> ${esc(q.tr)}</p>`:""}${q.s&&q.s.length?`<div class="art">${q.s.map(b=>blockHtml(b,q)).join("")}</div>`:""}</div>
  <div class="row"><button class="btn pri" data-a="cgood">Sabia</button><button class="btn" data-a="cbad">Não sabia</button></div></div>`}
  return h;
 }
