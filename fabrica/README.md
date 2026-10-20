@@ -143,3 +143,6 @@ Prioridade de incidência, 2ª base (Taquígrafo 2012): `ferramentas/prioridade_
 - C05 (art. 5º incisos e competências do Congresso/Senado, átomos existentes): 64 itens.
 - C06 (Fala/Transcrição/IA, P2-M7: ASR, Whisper, diarização, ITN, tempo real, HITL, LGPD, busca): 41 itens, 10 átomos A-N6-* (síntese minha, conferir).
 - C07 (TI e Dados P1-M5: SOMASE/PROCV/PROCX, Word/PPT, Planner/Forms/Power Automate, IDS/IPS/Zero Trust/DDoS, criptografia, 5 Vs/SQL/NoSQL, dados abertos/API, IA): 47 itens, 9 átomos A-N7-* (síntese minha, conferir).
+
+## Regra: enunciado não cobra número de inciso/alínea
+O aluno não decora numeração. O enunciado deve **reproduzir o conteúdo** do inciso, alínea ou parágrafo (ex.: "falta a um terço das sessões, perde direitos políticos ou sofre decretação da Justiça Eleitoral"), e não "incisos III, IV e V do art. 55". A referência pode ir entre parênteses ou no gabarito, nunca como o dado que decide o item. Revisão feita em 2026-10-20 (≈60 itens).
