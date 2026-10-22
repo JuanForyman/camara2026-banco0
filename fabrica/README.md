@@ -149,3 +149,5 @@ O aluno não decora numeração. O enunciado deve **reproduzir o conteúdo** do 
 
 ## Regra: sempre dizer "Presidente de quê"
 "O Presidente" sozinho é ambíguo (Câmara, Senado, República, Comissão, Congresso). Qualificar sempre: Presidente da Câmara, da Comissão, do Congresso, da República. Mesma lógica para "a Mesa" e "a Comissão" quando houver mais de uma possível. Revisão de 2026-10-20 (~200 itens).
+
+- Regra: o enunciado não pode depender de o aluno saber o que diz o "art. N". Ao citar artigo, dizer o assunto entre parênteses (ex.: "art. 9.º (enriquecimento ilícito)"). Exceção: artigos de conhecimento geral cujo conteúdo o próprio enunciado já descreve.
