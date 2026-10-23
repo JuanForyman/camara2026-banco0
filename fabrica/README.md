@@ -151,3 +151,8 @@ O aluno não decora numeração. O enunciado deve **reproduzir o conteúdo** do 
 "O Presidente" sozinho é ambíguo (Câmara, Senado, República, Comissão, Congresso). Qualificar sempre: Presidente da Câmara, da Comissão, do Congresso, da República. Mesma lógica para "a Mesa" e "a Comissão" quando houver mais de uma possível. Revisão de 2026-10-20 (~200 itens).
 
 - Regra: o enunciado não pode depender de o aluno saber o que diz o "art. N". Ao citar artigo, dizer o assunto entre parênteses (ex.: "art. 9.º (enriquecimento ilícito)"). Exceção: artigos de conhecimento geral cujo conteúdo o próprio enunciado já descreve.
+
+## Motor v3 (23/10/2026)
+- Seleção em duas etapas: (1) tópico, pela incidência esperada na prova (`mapa_cobertura.esp`, injetada por `build_site.py` em `Motor.setPesos`) menos o que já saiu nas últimas 60 respostas, mais bônus de urgência; (2) átomo, pelo motor (prioridade por probabilidade, vencimento e relevância). Simulação: a distribuição por tópico passa a seguir o peso esperado (M3: desvio máximo de ~1 ponto percentual).
+- Evidência: palpite acertado vale 0,5 e não avança a sequência; erro com certeza vale 1,5; em branco conta 0,5 como lacuna.
+- Revisão: nenhum intervalo passa de 1/3 do tempo que falta até 17/01/2027.

@@ -4,7 +4,9 @@
 (function (root) {
   const DAY = 864e5;
   const INT = [0.007, 1, 3, 7, 16, 35, 80]; // dias até a próxima revisão, por sequência de acertos
-  const META = { pp: 0.65, ampla: 0.705, nota: "estimada pela prova anterior da Câmara (corte 117/180 PP, 127/180 ampla); outra prova, outra especialidade" };
+  const EXAM = Date.UTC(2027, 0, 17, 12); // prova (17/01/2027)
+  let ESP = {};            // itens esperados por tópico (mapa_cobertura): setPesos()
+  const META = { EXAM, pp: 0.65, ampla: 0.705, nota: "estimada pela prova anterior da Câmara (corte 117/180 PP, 127/180 ampla); outra prova, outra especialidade" };
 
   const atomsOf = q => (q.a && q.a.length ? q.a : ["Q:" + q.id]);
   // Campo = grupo de átomos vizinhos (q.f). Sem q.f, o campo é o próprio átomo (sem agrupamento).
@@ -16,17 +18,21 @@
     const A = {}, camp = new Map();
     for (const q of Q) { const c = campoOf(q); const set = camp.get(c) || camp.set(c, new Set()).get(c); atomsOf(q).forEach(a => set.add(a)); }
     const mk = a => A[a] || (A[a] = { ev: [], tr: [], streak: 0, last: 0, n: 0, ok: 0 });
-    const ev = events.filter(e => e.ok === true || e.ok === false).sort((a, b) => a.t - b.t);
+    // Em branco conta como lacuna leve (não sabia); palpite acertado vale metade e não avança a sequência;
+    // erro com certeza vale 1,5x (é o que anula acerto na prova).
+    const ev = events.filter(e => e.ok === true || e.ok === false || (e.ok === null && e.r === "B")).sort((a, b) => a.t - b.t);
     for (const e of ev) {
       const q = qm.get(e.q); if (!q) continue;
+      const branco = e.ok === null, okv = e.ok === true, palpite = okv && e.cf === 0;
       atomsOf(q).forEach((a, i) => {
         const x = mk(a);
-        const w = i === 0 ? 1 : 0.5;
-        x.ev.push([e.t, e.ok ? 1 : 0, w]); x.n += w;
-        if (e.ok) { x.ok += w; x.streak++; } else x.streak = 0;
+        let w = i === 0 ? 1 : 0.5;
+        if (branco) w *= 0.5; else if (palpite) w *= 0.5; else if (!okv && e.cf === 1) w *= 1.5;
+        x.ev.push([e.t, okv ? 1 : 0, w]); x.n += w;
+        if (okv) { x.ok += w; if (!palpite) x.streak++; } else x.streak = 0;
         x.last = e.t;
       });
-      if (e.ok === true) { // transferência parcial: acerto vale um pouco para os irmãos; erro não reduz nada
+      if (okv && !palpite) { // transferência parcial: acerto vale um pouco para os irmãos; erro não reduz nada
         const own = new Set(atomsOf(q));
         for (const a of camp.get(campoOf(q)) || []) if (!own.has(a)) mk(a).tr.push([e.t, TW]);
       }
@@ -51,7 +57,8 @@
 
   function urgency(x, t) { // >=1 significa vencido
     if (!x || !x.n) return 0;
-    return (t - x.last) / DAY / INT[Math.min(x.streak, INT.length - 1)];
+    const cap = Math.max(1, (EXAM - t) / DAY / 3); // perto da prova, nenhum intervalo passa de 1/3 do tempo que falta
+    return (t - x.last) / DAY / Math.min(cap, INT[Math.min(x.streak, INT.length - 1)]);
   }
 
   function priority(x, t, cov) {
@@ -128,6 +135,18 @@
       const rr = Math.min(...qs.map(q => q.r || 1)); pr *= RW[rr] || 1; // relevância de prova (q.r)
       cand.push({ a, qs, pr, x, cp });
     }
+    // Etapa 1: escolhe o tópico. Meta = incidência esperada na prova; compara com as últimas 60 respostas do escopo
+    // (déficit) e soma um bônus pela urgência do melhor átomo do tópico. Etapa 2 (abaixo): o átomo, pelo motor.
+    const tops = new Map();
+    for (const c of cand) { const k = c.qs[0].t, o = tops.get(k) || tops.set(k, { max: 0 }).get(k); o.max = Math.max(o.max, c.pr); }
+    if (tops.size > 1) {
+      const cnt = {}, rec = ord.slice(0, 60); rec.forEach(e => { const k = qm.get(e.q).t; cnt[k] = (cnt[k] || 0) + 1; });
+      const tot = Math.max(1, rec.length); let ws = 0; const w = {};
+      for (const k of tops.keys()) { w[k] = ESP[k] != null ? ESP[k] : 1; ws += w[k]; }
+      let best = null, bs = -9;
+      for (const [k, o] of tops) { const sc = w[k] / ws - (cnt[k] || 0) / tot + 0.15 * Math.min(1, o.max) + (rnd() - 0.5) * 0.03; if (sc > bs) { bs = sc; best = k; } }
+      for (let i = cand.length - 1; i >= 0; i--) if (cand[i].qs[0].t !== best) cand.splice(i, 1);
+    }
     cand.sort((u, v) => v.pr - u.pr);
     const top = cand.slice(0, 6), wsum = top.reduce((s, c) => s + c.pr * c.pr, 0);
     let r = rnd() * wsum, ch = top[0];
@@ -162,6 +181,6 @@
     }).sort((u, v) => v.pr - u.pr).slice(0, n || 8);
   }
 
-  const api = { build, pAtom, urgency, priority, pick, readiness, fila, coverage, campos, campoOf, atomsOf, META, INT, DAY, TW };
+  const api = { setPesos: m => { ESP = m || {}; }, build, pAtom, urgency, priority, pick, readiness, fila, coverage, campos, campoOf, atomsOf, META, INT, DAY, TW };
   if (typeof module !== "undefined") module.exports = api; else root.Motor = api;
 })(typeof window !== "undefined" ? window : globalThis);

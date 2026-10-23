@@ -191,7 +191,9 @@ svg .pt{fill:var(--acc)}
 (function (root) {
   const DAY = 864e5;
   const INT = [0.007, 1, 3, 7, 16, 35, 80]; // dias até a próxima revisão, por sequência de acertos
-  const META = { pp: 0.65, ampla: 0.705, nota: "estimada pela prova anterior da Câmara (corte 117/180 PP, 127/180 ampla); outra prova, outra especialidade" };
+  const EXAM = Date.UTC(2027, 0, 17, 12); // prova (17/01/2027)
+  let ESP = {};            // itens esperados por tópico (mapa_cobertura): setPesos()
+  const META = { EXAM, pp: 0.65, ampla: 0.705, nota: "estimada pela prova anterior da Câmara (corte 117/180 PP, 127/180 ampla); outra prova, outra especialidade" };
 
   const atomsOf = q => (q.a && q.a.length ? q.a : ["Q:" + q.id]);
   // Campo = grupo de átomos vizinhos (q.f). Sem q.f, o campo é o próprio átomo (sem agrupamento).
@@ -203,17 +205,21 @@ svg .pt{fill:var(--acc)}
     const A = {}, camp = new Map();
     for (const q of Q) { const c = campoOf(q); const set = camp.get(c) || camp.set(c, new Set()).get(c); atomsOf(q).forEach(a => set.add(a)); }
     const mk = a => A[a] || (A[a] = { ev: [], tr: [], streak: 0, last: 0, n: 0, ok: 0 });
-    const ev = events.filter(e => e.ok === true || e.ok === false).sort((a, b) => a.t - b.t);
+    // Em branco conta como lacuna leve (não sabia); palpite acertado vale metade e não avança a sequência;
+    // erro com certeza vale 1,5x (é o que anula acerto na prova).
+    const ev = events.filter(e => e.ok === true || e.ok === false || (e.ok === null && e.r === "B")).sort((a, b) => a.t - b.t);
     for (const e of ev) {
       const q = qm.get(e.q); if (!q) continue;
+      const branco = e.ok === null, okv = e.ok === true, palpite = okv && e.cf === 0;
       atomsOf(q).forEach((a, i) => {
         const x = mk(a);
-        const w = i === 0 ? 1 : 0.5;
-        x.ev.push([e.t, e.ok ? 1 : 0, w]); x.n += w;
-        if (e.ok) { x.ok += w; x.streak++; } else x.streak = 0;
+        let w = i === 0 ? 1 : 0.5;
+        if (branco) w *= 0.5; else if (palpite) w *= 0.5; else if (!okv && e.cf === 1) w *= 1.5;
+        x.ev.push([e.t, okv ? 1 : 0, w]); x.n += w;
+        if (okv) { x.ok += w; if (!palpite) x.streak++; } else x.streak = 0;
         x.last = e.t;
       });
-      if (e.ok === true) { // transferência parcial: acerto vale um pouco para os irmãos; erro não reduz nada
+      if (okv && !palpite) { // transferência parcial: acerto vale um pouco para os irmãos; erro não reduz nada
         const own = new Set(atomsOf(q));
         for (const a of camp.get(campoOf(q)) || []) if (!own.has(a)) mk(a).tr.push([e.t, TW]);
       }
@@ -238,7 +244,8 @@ svg .pt{fill:var(--acc)}
 
   function urgency(x, t) { // >=1 significa vencido
     if (!x || !x.n) return 0;
-    return (t - x.last) / DAY / INT[Math.min(x.streak, INT.length - 1)];
+    const cap = Math.max(1, (EXAM - t) / DAY / 3); // perto da prova, nenhum intervalo passa de 1/3 do tempo que falta
+    return (t - x.last) / DAY / Math.min(cap, INT[Math.min(x.streak, INT.length - 1)]);
   }
 
   function priority(x, t, cov) {
@@ -315,6 +322,18 @@ svg .pt{fill:var(--acc)}
       const rr = Math.min(...qs.map(q => q.r || 1)); pr *= RW[rr] || 1; // relevância de prova (q.r)
       cand.push({ a, qs, pr, x, cp });
     }
+    // Etapa 1: escolhe o tópico. Meta = incidência esperada na prova; compara com as últimas 60 respostas do escopo
+    // (déficit) e soma um bônus pela urgência do melhor átomo do tópico. Etapa 2 (abaixo): o átomo, pelo motor.
+    const tops = new Map();
+    for (const c of cand) { const k = c.qs[0].t, o = tops.get(k) || tops.set(k, { max: 0 }).get(k); o.max = Math.max(o.max, c.pr); }
+    if (tops.size > 1) {
+      const cnt = {}, rec = ord.slice(0, 60); rec.forEach(e => { const k = qm.get(e.q).t; cnt[k] = (cnt[k] || 0) + 1; });
+      const tot = Math.max(1, rec.length); let ws = 0; const w = {};
+      for (const k of tops.keys()) { w[k] = ESP[k] != null ? ESP[k] : 1; ws += w[k]; }
+      let best = null, bs = -9;
+      for (const [k, o] of tops) { const sc = w[k] / ws - (cnt[k] || 0) / tot + 0.15 * Math.min(1, o.max) + (rnd() - 0.5) * 0.03; if (sc > bs) { bs = sc; best = k; } }
+      for (let i = cand.length - 1; i >= 0; i--) if (cand[i].qs[0].t !== best) cand.splice(i, 1);
+    }
     cand.sort((u, v) => v.pr - u.pr);
     const top = cand.slice(0, 6), wsum = top.reduce((s, c) => s + c.pr * c.pr, 0);
     let r = rnd() * wsum, ch = top[0];
@@ -349,9 +368,11 @@ svg .pt{fill:var(--acc)}
     }).sort((u, v) => v.pr - u.pr).slice(0, n || 8);
   }
 
-  const api = { build, pAtom, urgency, priority, pick, readiness, fila, coverage, campos, campoOf, atomsOf, META, INT, DAY, TW };
+  const api = { setPesos: m => { ESP = m || {}; }, build, pAtom, urgency, priority, pick, readiness, fila, coverage, campos, campoOf, atomsOf, META, INT, DAY, TW };
   if (typeof module !== "undefined") module.exports = api; else root.Motor = api;
 })(typeof window !== "undefined" ? window : globalThis);
+
+Motor.setPesos({"P1-M1-1":5.5,"P1-M1-2":1.0,"P1-M1-3":1.25,"P1-M1-4":3.0,"P1-M1-5":10.0,"P1-M1-6":4.25,"P1-M2-1":5.0,"P1-M2-2":3.5,"P1-M2-3":1.5,"P1-M3-1":2.04,"P1-M3-2":2.55,"P1-M3-3":3.83,"P1-M3-4":3.32,"P1-M3-5":1.28,"P1-M3-6":1.53,"P1-M3-7":1.79,"P1-M3-8":1.28,"P1-M3-9":1.79,"P1-M3-10":3.06,"P1-M3-11":1.02,"P1-M3-12":1.53,"P1-M4-1":0.6,"P1-M4-2":3.2,"P1-M4-3":1.6,"P1-M4-4":1.2,"P1-M4-5":2.0,"P1-M4-6":1.4,"P1-M4-7.1":2.8,"P1-M4-7.2":2.4,"P1-M4-7.3":1.6,"P1-M4-7.4":0.8,"P1-M4-8.1":0.8,"P1-M4-8.2":1.6,"P1-M5-1":1.8,"P1-M5-2":1.2,"P1-M5-3":0.8,"P1-M5-4":1.5,"P1-M5-5":1.5,"P1-M5-6":0.6,"P1-M5-7":1.2,"P1-M5-8":1.4,"P2-M8-1.1":2.08,"P2-M8-1.2":2.77,"P2-M8-1.3":3.12,"P2-M8-1.4":1.39,"P2-M8-1.5":1.04,"P2-M8-2.1":1.73,"P2-M8-2.2":1.73,"P2-M8-2.3":1.73,"P2-M8-2.4":1.73,"P2-M8-2.5":0.69,"P2-M8-2.6":1.04,"P2-M8-2.7":1.39,"P2-M8-2.8":1.39,"P2-M8-2.9":2.08,"P2-M8-2.10":2.08,"P2-M8-2.11":2.77,"P2-M8-3.1":0.69,"P2-M8-3.2":1.39,"P2-M8-3.3":1.04,"P2-M8-3.4":1.73,"P2-M8-3.5":1.39,"P2-M6-1":1.2,"P2-M6-2":0.8,"P2-M6-3":2.4,"P2-M6-4":1.0,"P2-M6-5":1.6,"P2-M6-6":1.4,"P2-M6-7":1.4,"P2-M6-8":0.8,"P2-M6-9":1.2,"P2-M6-10":1.2,"P2-M6-11":3.4,"P2-M6-12":1.2,"P2-M6-13":2.4,"P2-M9-1":2.22,"P2-M9-2":2.22,"P2-M9-3":2.0,"P2-M9-4":2.0,"P2-M9-5":2.0,"P2-M9-6":2.0,"P2-M9-7":1.56,"P2-M9-8":1.33,"P2-M9-9":1.78,"P2-M9-10":1.56,"P2-M9-11":1.33,"P2-M7-1.1":0.75,"P2-M7-1.2":0.75,"P2-M7-1.3":0.75,"P2-M7-1.4":0.75,"P2-M7-1.5":0.75,"P2-M7-1.6":0.75,"P2-M7-1.7":0.75,"P2-M7-1.8":0.75,"P2-M7-2.1":0.71,"P2-M7-2.2":0.71,"P2-M7-2.3":0.71,"P2-M7-2.4":0.71,"P2-M7-2.5":0.71,"P2-M7-2.6":0.71,"P2-M7-2.7":0.71,"P2-M7-2.8":0.71,"P2-M7-3.1":0.3,"P2-M7-3.2":0.3,"P2-M7-3.3":0.3,"P2-M7-3.4":0.3,"P2-M7-3.5":0.3,"P2-M7-3.6":0.3,"P2-M7-4.1":0.5,"P2-M7-4.2":0.5,"P2-M7-4.3":0.5});
 
 </script>
 <script>
