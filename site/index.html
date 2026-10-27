@@ -342,6 +342,13 @@ svg .pt{fill:var(--acc)}
     return { q: qs[0], motivo: motivo(ch.x, t), atomo: ch.a, campo: ch.cp, prioridade: ch.pr };
   }
 
+  // Campos dominados com evidência suficiente (>= minResp respostas): o treino pode pulá-los.
+  function dominados(Q, events, t, minResp) {
+    const C = campos(Q, events, t), out = new Set();
+    for (const id in C) if (C[id].status === "dominado" && C[id].resp >= (minResp || 6)) out.add(id);
+    return out;
+  }
+
   // Aproveitamento líquido esperado (acerto − erro), por tópico e geral. Não visto vale 0.
   function readiness(Q, events, t) {
     const A = build(events, Q), out = { topicos: {}, geral: 0, vistos: 0, n: Q.length };
@@ -368,7 +375,7 @@ svg .pt{fill:var(--acc)}
     }).sort((u, v) => v.pr - u.pr).slice(0, n || 8);
   }
 
-  const api = { setPesos: m => { ESP = m || {}; }, build, pAtom, urgency, priority, pick, readiness, fila, coverage, campos, campoOf, atomsOf, META, INT, DAY, TW };
+  const api = { dominados, setPesos: m => { ESP = m || {}; }, build, pAtom, urgency, priority, pick, readiness, fila, coverage, campos, campoOf, atomsOf, META, INT, DAY, TW };
   if (typeof module !== "undefined") module.exports = api; else root.Motor = api;
 })(typeof window !== "undefined" ? window : globalThis);
 
@@ -385,6 +392,7 @@ const SH={"Língua Portuguesa":"Português","Língua Inglesa":"Inglês","Noçõe
 const WT={P1:{"Português":25,"Inglês":10,"Const. e RI":20,"Administrativo":25,"TI e Dados":10},P2:{"Proc. Legislativo":35,"Linguística":20,"Ciência Política":20,"Fala e IA":15}};
 const CAUSAS=[["nao","Não sabia"],["peg","Pegadinha"],["mal","Li mal"],["chu","Chutei"]];
 let Q=[],QM=new Map(),ART={},TOP={},CAMPO={},ST={},EV=[],SIMS=[],DB=null,UID=null;
+let SKIPDOM=lsGet("cam26skip")!==false,DOM=null,NSKIP=0;
 let view="hoje",sess=null,cur=null,answered=null,why="",tq0=0,palp=false,QH={},SIM=null,simSel=null,errTab="venc",errMod="",cardSt=null,saveQ=Promise.resolve();
 const now=()=>Date.now();
 const esc=s=>String(s==null?"":s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
@@ -515,7 +523,11 @@ function pickNext(){
  const gap=due.length>30?3:4;
  if(due.length&&sess.k>3&&sess.k%gap===0&&!sess.lastRev){sess.lastRev=1;why="revisão de erro";return due[0]}
  sess.lastRev=0;
- const list=Q.filter(inScope);
+ DOM=SKIPDOM?Motor.dominados(Q,EV,now()):null;const skipped=q=>!!DOM&&DOM.has(Motor.campoOf(q));
+ NSKIP=DOM?Q.filter(q=>inScope(q)&&skipped(q)).length:0;
+ /* Temas dominados saem do treino; a cada 10 questões volta uma de manutenção (a mais vencida entre as já vistas). */
+ if(DOM&&NSKIP&&sess.k%10===0){const man=Q.filter(q=>inScope(q)&&skipped(q)&&QH[q.id]);const r=man.length?Motor.pick(man,EV,now()):null;if(r){why="manutenção · tema dominado";return r.q}}
+ const all=Q.filter(inScope),list0=DOM?all.filter(q=>!skipped(q)):all,list=list0.length?list0:all;
  /* Progressão: 2 em cada 3 questões do treino adaptativo são conteúdo ainda não visto (se houver no escopo); a terceira segue o motor (reforço de pontos fracos). */
  if(sess.k%3!==0){const nv=list.filter(q=>!QH[q.id]);
   if(nv.length)for(const m of pickMods(nv)){const r=Motor.pick(nv.filter(q=>mod(q)===m),EV,now());if(r){why="conteúdo novo · "+m;return r.q}}}
@@ -670,7 +682,7 @@ function vTreino(){
  const mods=[...new Set(Q.map(mod))];
  const sel=`<select id="fScope" aria-label="Escopo do treino"><option value="">Todas as matérias</option><option value="blk:P1" ${f.blk==="P1"?"selected":""}>Só Prova 1</option><option value="blk:P2" ${f.blk==="P2"?"selected":""}>Só Prova 2</option>${mods.map(m=>`<option value="mod:${esc(m)}" ${f.mod===m?"selected":""}>${esc(m)}</option>`).join("")}</select>`;
  const liq=sess.ok-sess.er;
- let h=sess.sprint?`<div class="sbar"><span class="row"><b>⚡ Relâmpago</b> <span class="num" id="spT">${fmtT(sprintLeft())}</span></span><span>respondidas <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`:`<div class="sbar"><span class="row">${sel}<select id="fMode" aria-label="Modo"><option value="misto" ${sess.mode==="misto"?"selected":""}>Adaptativo</option><option value="erros" ${sess.mode==="erros"?"selected":""}>Só caderno de erros</option></select></span><span>sessão <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`;
+ let h=sess.sprint?`<div class="sbar"><span class="row"><b>⚡ Relâmpago</b> <span class="num" id="spT">${fmtT(sprintLeft())}</span></span><span>respondidas <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`:`<div class="sbar"><span class="row">${sel}<select id="fMode" aria-label="Modo"><option value="misto" ${sess.mode==="misto"?"selected":""}>Adaptativo</option><option value="erros" ${sess.mode==="erros"?"selected":""}>Só caderno de erros</option></select> <label style="font-size:.8rem;white-space:nowrap"><input type="checkbox" id="fSkip" ${SKIPDOM?"checked":""}> pular dominados${SKIPDOM&&NSKIP?` (${NSKIP})`:""}</label></span><span>sessão <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`;
  if(!cur){
   return h+`<div class="card vazio">${sess.mode==="erros"?"Caderno de erros em dia. Nenhuma questão errada vence agora.":"Nenhuma questão neste filtro."}</div>`+(sess.n?sessResumo():"");
  }
@@ -940,6 +952,7 @@ document.addEventListener("click",e=>{
 document.addEventListener("change",e=>{
  const t=e.target;
  if(t.id==="fScope"){const v=t.value,f={blk:"",mod:"",top:""};if(v.startsWith("blk:"))f.blk=v.slice(4);else if(v.startsWith("mod:"))f.mod=v.slice(4);sess.f=f;cur=null;answered=null;render()}
+ if(t.id==="fSkip"){SKIPDOM=t.checked;lsPut("cam26skip",SKIPDOM);cur=null;answered=null;render();return}
  if(t.id==="fMode"){sess.mode=t.value;cur=null;answered=null;render()}
  if(t.id==="fEM"){errMod=t.value;cardSt=null;render()}
 });

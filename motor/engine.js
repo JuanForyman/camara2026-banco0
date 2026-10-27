@@ -155,6 +155,13 @@
     return { q: qs[0], motivo: motivo(ch.x, t), atomo: ch.a, campo: ch.cp, prioridade: ch.pr };
   }
 
+  // Campos dominados com evidência suficiente (>= minResp respostas): o treino pode pulá-los.
+  function dominados(Q, events, t, minResp) {
+    const C = campos(Q, events, t), out = new Set();
+    for (const id in C) if (C[id].status === "dominado" && C[id].resp >= (minResp || 6)) out.add(id);
+    return out;
+  }
+
   // Aproveitamento líquido esperado (acerto − erro), por tópico e geral. Não visto vale 0.
   function readiness(Q, events, t) {
     const A = build(events, Q), out = { topicos: {}, geral: 0, vistos: 0, n: Q.length };
@@ -181,6 +188,6 @@
     }).sort((u, v) => v.pr - u.pr).slice(0, n || 8);
   }
 
-  const api = { setPesos: m => { ESP = m || {}; }, build, pAtom, urgency, priority, pick, readiness, fila, coverage, campos, campoOf, atomsOf, META, INT, DAY, TW };
+  const api = { dominados, setPesos: m => { ESP = m || {}; }, build, pAtom, urgency, priority, pick, readiness, fila, coverage, campos, campoOf, atomsOf, META, INT, DAY, TW };
   if (typeof module !== "undefined") module.exports = api; else root.Motor = api;
 })(typeof window !== "undefined" ? window : globalThis);
