@@ -22,20 +22,20 @@
  },
  "2026-10-16": {
   "acertos": 236,
-  "liquido": 0.611,
+  "liquido": 0.605,
   "materias": {
    "Ciência Política": 18,
    "Linguística": 20,
    "Língua Inglesa": 14,
-   "Língua Portuguesa": 25,
+   "Língua Portuguesa": 26,
    "Noções de Direito Administrativo e Administração Pública": 102,
    "Noções de Direito Constitucional e de Regimento Interno da Câmara": 48,
    "Processo Legislativo, RICD e Regimento Comum": 33,
    "Reconhecimento de Fala, Transcrição e IA": 13,
    "Tecnologia da Informação e Dados": 20
   },
-  "minutos_aprox": 40.0,
-  "n": 293
+  "minutos_aprox": 40.9,
+  "n": 294
  },
  "2026-10-17": {
   "acertos": 336,
@@ -53,5 +53,140 @@
   },
   "minutos_aprox": 201.4,
   "n": 403
+ },
+ "2026-10-18": {
+  "acertos": 193,
+  "liquido": 0.615,
+  "materias": {
+   "Ciência Política": 28,
+   "Linguística": 21,
+   "Língua Inglesa": 19,
+   "Língua Portuguesa": 29,
+   "Noções de Direito Administrativo e Administração Pública": 36,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 25,
+   "Processo Legislativo, RICD e Regimento Comum": 48,
+   "Reconhecimento de Fala, Transcrição e IA": 19,
+   "Tecnologia da Informação e Dados": 14
+  },
+  "minutos_aprox": 90.6,
+  "n": 239
+ },
+ "2026-10-19": {
+  "acertos": 190,
+  "liquido": 0.674,
+  "materias": {
+   "Ciência Política": 18,
+   "Linguística": 21,
+   "Língua Inglesa": 17,
+   "Língua Portuguesa": 25,
+   "Noções de Direito Administrativo e Administração Pública": 55,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 25,
+   "Processo Legislativo, RICD e Regimento Comum": 39,
+   "Reconhecimento de Fala, Transcrição e IA": 17,
+   "Tecnologia da Informação e Dados": 10
+  },
+  "minutos_aprox": 124.8,
+  "n": 227
+ },
+ "2026-10-20": {
+  "acertos": 189,
+  "liquido": 0.615,
+  "materias": {
+   "Ciência Política": 23,
+   "Linguística": 22,
+   "Língua Inglesa": 21,
+   "Língua Portuguesa": 31,
+   "Noções de Direito Administrativo e Administração Pública": 40,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 26,
+   "Processo Legislativo, RICD e Regimento Comum": 46,
+   "Reconhecimento de Fala, Transcrição e IA": 15,
+   "Tecnologia da Informação e Dados": 10
+  },
+  "minutos_aprox": 169.5,
+  "n": 234
+ },
+ "2026-10-21": {
+  "acertos": 122,
+  "liquido": 0.564,
+  "materias": {
+   "Ciência Política": 16,
+   "Linguística": 15,
+   "Língua Inglesa": 8,
+   "Língua Portuguesa": 22,
+   "Noções de Direito Administrativo e Administração Pública": 27,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 18,
+   "Processo Legislativo, RICD e Regimento Comum": 27,
+   "Reconhecimento de Fala, Transcrição e IA": 10,
+   "Tecnologia da Informação e Dados": 13
+  },
+  "minutos_aprox": 101.5,
+  "n": 156
+ },
+ "2026-10-22": {
+  "acertos": 242,
+  "liquido": 0.571,
+  "materias": {
+   "Ciência Política": 31,
+   "Linguística": 26,
+   "Língua Inglesa": 29,
+   "Língua Portuguesa": 35,
+   "Noções de Direito Administrativo e Administração Pública": 53,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 38,
+   "Processo Legislativo, RICD e Regimento Comum": 56,
+   "Reconhecimento de Fala, Transcrição e IA": 27,
+   "Tecnologia da Informação e Dados": 13
+  },
+  "minutos_aprox": 150.3,
+  "n": 308
+ },
+ "2026-10-23": {
+  "acertos": 107,
+  "liquido": 0.698,
+  "materias": {
+   "Ciência Política": 18,
+   "Linguística": 12,
+   "Língua Inglesa": 18,
+   "Língua Portuguesa": 15,
+   "Noções de Direito Administrativo e Administração Pública": 15,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 14,
+   "Processo Legislativo, RICD e Regimento Comum": 19,
+   "Reconhecimento de Fala, Transcrição e IA": 10,
+   "Tecnologia da Informação e Dados": 5
+  },
+  "minutos_aprox": 89.2,
+  "n": 126
+ },
+ "2026-10-26": {
+  "acertos": 40,
+  "liquido": 0.569,
+  "materias": {
+   "Ciência Política": 6,
+   "Linguística": 6,
+   "Língua Portuguesa": 8,
+   "Noções de Direito Administrativo e Administração Pública": 6,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 8,
+   "Processo Legislativo, RICD e Regimento Comum": 13,
+   "Reconhecimento de Fala, Transcrição e IA": 1,
+   "Tecnologia da Informação e Dados": 3
+  },
+  "minutos_aprox": 71.3,
+  "n": 51
+ },
+ "2026-10-27": {
+  "acertos": 61,
+  "liquido": 0.419,
+  "materias": {
+   "Ciência Política": 6,
+   "Linguística": 9,
+   "Língua Inglesa": 7,
+   "Língua Portuguesa": 9,
+   "Noções de Direito Administrativo e Administração Pública": 17,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 10,
+   "Processo Legislativo, RICD e Regimento Comum": 14,
+   "Reconhecimento de Fala, Transcrição e IA": 8,
+   "Tecnologia da Informação e Dados": 6
+  },
+  "minutos_aprox": 66.9,
+  "n": 86
  }
 }
