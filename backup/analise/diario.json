@@ -188,5 +188,39 @@
   },
   "minutos_aprox": 149.3,
   "n": 228
+ },
+ "2026-10-28": {
+  "acertos": 119,
+  "liquido": 0.63,
+  "materias": {
+   "Ciência Política": 15,
+   "Linguística": 12,
+   "Língua Inglesa": 9,
+   "Língua Portuguesa": 18,
+   "Noções de Direito Administrativo e Administração Pública": 25,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 18,
+   "Processo Legislativo, RICD e Regimento Comum": 28,
+   "Reconhecimento de Fala, Transcrição e IA": 14,
+   "Tecnologia da Informação e Dados": 7
+  },
+  "minutos_aprox": 79.7,
+  "n": 146
+ },
+ "2026-10-29": {
+  "acertos": 72,
+  "liquido": 0.655,
+  "materias": {
+   "Ciência Política": 8,
+   "Linguística": 2,
+   "Língua Inglesa": 8,
+   "Língua Portuguesa": 13,
+   "Noções de Direito Administrativo e Administração Pública": 16,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 10,
+   "Processo Legislativo, RICD e Regimento Comum": 20,
+   "Reconhecimento de Fala, Transcrição e IA": 5,
+   "Tecnologia da Informação e Dados": 5
+  },
+  "minutos_aprox": 60.2,
+  "n": 87
  }
 }
