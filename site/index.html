@@ -595,6 +595,7 @@ function vozCmd(t,final){
  }
  return false;
 }
+function vozDiag(){let a="";try{const pp=document.permissionsPolicy||document.featurePolicy;if(pp&&pp.allowsFeature)a=pp.allowsFeature("microphone")?"o quadro permite o microfone":"o quadro do site NÃO permite o microfone"}catch(e){}return(a||"sem informação do quadro")+(window.top!==window.self?" (página dentro de um quadro)":"")}
 function vozShow(){const el=document.getElementById("vozTxt");if(el)el.textContent=vozMsg}
 function vozStart(){
  if(!SR||vozRec)return;
@@ -610,14 +611,14 @@ function vozStart(){
  };
  r.onerror=e=>{
   if(e.error==="no-speech"||e.error==="aborted")return;
-  if(e.error==="not-allowed"||e.error==="service-not-allowed"){vozMsg="Microfone bloqueado neste quadro. Libere o microfone para o site no navegador e ligue de novo.";VOZ=false;lsPut("cam26voz",false);vozRec=null;render();return}
+  if(e.error==="not-allowed"||e.error==="service-not-allowed"){vozMsg="Microfone bloqueado ("+e.error+"). "+vozDiag();VOZ=false;lsPut("cam26voz",false);vozRec=null;render();return}
   if(e.error==="network"){vozMsg="Sem conexão com o reconhecimento de voz."}else vozMsg="Voz: "+e.error;vozShow();
  };
  r.onend=()=>{vozRec=null;if(VOZ)setTimeout(()=>{if(VOZ&&!vozRec)vozStart()},250)};
  vozRec=r;try{r.start();vozMsg="ouvindo…";vozShow()}catch(e){vozRec=null}
 }
 function vozStop(){VOZ=false;const r=vozRec;vozRec=null;if(r){r.onend=null;try{r.abort()}catch(e){}}}
-function vozToggle(){VOZ=!VOZ;lsPut("cam26voz",VOZ);if(VOZ){vozMsg="";vozStart()}else{vozStop();vozMsg=""}render()}
+function vozToggle(){if(VOZ===false&&!vozRec){vozMsg=""}VOZ=!VOZ;lsPut("cam26voz",VOZ);if(VOZ){vozMsg="";vozStart()}else{vozStop();vozMsg=""}render()}
 /* ---------- renderização ---------- */
 const KD={troca_numero:"A banca troca um número, prazo ou quantidade. Confira o valor exato.",prazo:"A banca troca ou embaralha o prazo. Confira dias, horas e a contagem.",numero:"A banca troca o número. Confira o valor exato.",quorum:"A banca troca o quórum. Distinga maioria simples, absoluta e qualificada.",excecao_omitida:"O item afirma uma regra sem a exceção. Procure o \"salvo\" que ele omitiu.",generalizacao:"O item generaliza com \"todos\", \"sempre\" ou \"qualquer\". Procure a exceção.",restricao_indevida:"O item cria uma restrição que a norma não faz.",regra_como_excecao:"O item trata a regra como exceção, ou o contrário.",troca_efeito:"A banca troca o efeito ou a consequência prevista.",consequencia:"A banca troca a consequência jurídica.",confusao_instituto:"A banca confunde dois institutos parecidos. Veja o que distingue cada um.",troca_autoridade:"A banca troca quem decide ou quem pratica o ato.",competencia:"A banca troca a competência. Veja de quem é a atribuição.",iniciativa:"A banca troca quem tem a iniciativa.",atribuicao_autor:"A banca atribui a ideia ou o ato a outro autor.",caso_concreto:"Caso concreto: aplique a regra à situação, sem se prender ao rótulo.",podedeve:"A banca troca \"pode\" por \"deve\" (faculdade por obrigação).",norma_culta:"Questão de norma culta: a pegadinha costuma estar no caso especial.",pegadinha:"Pegadinha conhecida da banca.",leitura:"Questão de leitura: confira o que o texto diz, não o que parece dizer.",conceito_correto:"Definição: a banca altera uma palavra-chave do conceito."};
 function sentences(t){return t.split(/(?<=[.!?])\s+(?=[A-ZÁÉÍÓÚÂÊÔÃÕÇ"'(])/).map(x=>x.trim()).filter(Boolean)}
@@ -776,7 +777,7 @@ function vTreino(){
  const mods=[...new Set(Q.map(mod))];
  const sel=`<select id="fScope" aria-label="Escopo do treino"><option value="">Todas as matérias</option><option value="blk:P1" ${f.blk==="P1"?"selected":""}>Só Prova 1</option><option value="blk:P2" ${f.blk==="P2"?"selected":""}>Só Prova 2</option>${mods.map(m=>`<option value="mod:${esc(m)}" ${f.mod===m?"selected":""}>${esc(m)}</option>`).join("")}</select>`;
  const liq=sess.ok-sess.er;
- let h=sess.sprint?`<div class="sbar"><span class="row"><b>⚡ Relâmpago</b> <span class="num" id="spT">${fmtT(sprintLeft())}</span></span><span>respondidas <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`:`<div class="sbar"><span class="row">${sel}<select id="fMode" aria-label="Modo"><option value="misto" ${sess.mode==="misto"?"selected":""}>Adaptativo</option><option value="erros" ${sess.mode==="erros"?"selected":""}>Só caderno de erros</option></select> ${SR?`<button class="btn sm" data-voz="1" aria-pressed="${VOZ}" title="Diga certo, errado, próxima">🎙 ${VOZ?"Voz ligada":"Voz"}</button>`:""} <label style="font-size:.8rem;white-space:nowrap"><input type="checkbox" id="fSkip" ${SKIPDOM?"checked":""}> pular dominados${SKIPDOM&&NSKIP?` (${NSKIP})`:""}</label></span><span>${VOZ?`<span id="vozTxt" class="nota">${esc(vozMsg||"ouvindo…")}</span> · `:""}sessão <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`;
+ let h=sess.sprint?`<div class="sbar"><span class="row"><b>⚡ Relâmpago</b> <span class="num" id="spT">${fmtT(sprintLeft())}</span></span><span>respondidas <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`:`<div class="sbar"><span class="row">${sel}<select id="fMode" aria-label="Modo"><option value="misto" ${sess.mode==="misto"?"selected":""}>Adaptativo</option><option value="erros" ${sess.mode==="erros"?"selected":""}>Só caderno de erros</option></select> ${SR?`<button class="btn sm" data-voz="1" aria-pressed="${VOZ}" title="Diga certo, errado, próxima">🎙 ${VOZ?"Voz ligada":"Voz"}</button>`:""} <label style="font-size:.8rem;white-space:nowrap"><input type="checkbox" id="fSkip" ${SKIPDOM?"checked":""}> pular dominados${SKIPDOM&&NSKIP?` (${NSKIP})`:""}</label></span><span>${VOZ?`<span id="vozTxt" class="nota">${esc(vozMsg||"ouvindo…")}</span> · `:vozMsg?`<span class="nota" style="color:var(--err)">${esc(vozMsg)}</span> · `:""}sessão <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`;
  if(!cur){
   return h+`<div class="card vazio">${sess.mode==="erros"?"Caderno de erros em dia. Nenhuma questão errada vence agora.":"Nenhuma questão neste filtro."}</div>`+(sess.n?sessResumo():"");
  }
