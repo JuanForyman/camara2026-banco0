@@ -378,6 +378,51 @@ function mark(k){if(!cur||!answered)return;const s=S(cur);s.m[k]=!s.m[k];if(!s.m
 function causa(k){if(!cur||!answered||answered.acertou)return;const s=S(cur);s.cz=s.cz||{};if(s.last_cz){s.cz[s.last_cz]=Math.max(0,(s.cz[s.last_cz]||0)-1)}s.cz[k]=(s.cz[k]||0)+1;s.last_cz=k;s.u=now();persist(cur.id);render()}
 function sprintLeft(){return sess&&sess.sprint?Math.max(0,sess.sprint*1000-(now()-sess.t0)):1}
 function next(){if(sess&&sess.sprint&&sprintLeft()<=0){cur=null;answered=null;sess.ended=true;render();window.scrollTo(0,0);return}cur=pickNext();answered=null;palp=false;tq0=now();render();window.scrollTo(0,0)}
+/* ---------- voz: "certo", "errado", "próxima" ---------- */
+const SR=window.SpeechRecognition||window.webkitSpeechRecognition;
+let VOZ=!!SR&&lsGet("cam26voz")===true,vozRec=null,vozMsg="",vozLock=0;
+const vozNorm=t=>t.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").replace(/[^a-z ]/g," ").replace(/\s+/g," ").trim();
+function vozCmd(t,final){
+ const n=" "+vozNorm(t)+" ";if(!n.trim())return false;
+ const last=(re)=>{let m,i=-1;const g=new RegExp(re,"g");while((m=g.exec(n)))i=m.index;return i};
+ if(!view||view!=="treino"||!sess||sess.ended||!cur)return false;
+ if(!answered){
+  const c=last(" (certo|certa|correto) "),e=last(" (errado|errada|incorreto) "),b=last(" (em branco|branco|deixa em branco) "),pl=last(" palpite ");
+  if(pl>=0&&c<0&&e<0&&final){palp=!palp;render();return true}
+  const m=Math.max(c,e,b);if(m<0)return false;
+  if(!final&&n.trim().split(" ").length>2)return false;
+  answer(m===c?"C":m===e?"E":"B");return true;
+ }
+ if(/ (proxima|proximo|seguinte|avancar|avanca|continuar|pode ir) /.test(n)){next();return true}
+ if(!answered.acertou&&!answered.branco){
+  const map=[[/ (nao sabia) /,"nao"],[/ (pegadinha) /,"peg"],[/ (li mal|lido mal) /,"mal"],[/ (chutei|chute) /,"chu"]];
+  for(const [re,k] of map)if(re.test(n)){causa(k);return true}
+ }
+ return false;
+}
+function vozShow(){const el=document.getElementById("vozTxt");if(el)el.textContent=vozMsg}
+function vozStart(){
+ if(!SR||vozRec)return;
+ const r=new SR();r.lang="pt-BR";r.continuous=true;r.interimResults=true;r.maxAlternatives=3;
+ r.onresult=ev=>{
+  for(let i=ev.resultIndex;i<ev.results.length;i++){
+   const res=ev.results[i],fin=res.isFinal;let txt=res[0].transcript;
+   if(Date.now()<vozLock)continue;
+   let hit=false;for(let a=0;a<res.length&&!hit;a++){hit=vozCmd(res[a].transcript,fin);if(hit)txt=res[a].transcript}
+   vozMsg=hit?"✓ "+txt.trim():"ouvi: "+txt.trim();vozShow();
+   if(hit){vozLock=Date.now()+900;try{r.stop()}catch(e){}}
+  }
+ };
+ r.onerror=e=>{
+  if(e.error==="no-speech"||e.error==="aborted")return;
+  if(e.error==="not-allowed"||e.error==="service-not-allowed"){vozMsg="Microfone bloqueado neste quadro. Libere o microfone para o site no navegador e ligue de novo.";VOZ=false;lsPut("cam26voz",false);vozRec=null;render();return}
+  if(e.error==="network"){vozMsg="Sem conexão com o reconhecimento de voz."}else vozMsg="Voz: "+e.error;vozShow();
+ };
+ r.onend=()=>{vozRec=null;if(VOZ)setTimeout(()=>{if(VOZ&&!vozRec)vozStart()},250)};
+ vozRec=r;try{r.start();vozMsg="ouvindo…";vozShow()}catch(e){vozRec=null}
+}
+function vozStop(){VOZ=false;const r=vozRec;vozRec=null;if(r){r.onend=null;try{r.abort()}catch(e){}}}
+function vozToggle(){VOZ=!VOZ;lsPut("cam26voz",VOZ);if(VOZ){vozMsg="";vozStart()}else{vozStop();vozMsg=""}render()}
 /* ---------- renderização ---------- */
 const KD={troca_numero:"A banca troca um número, prazo ou quantidade. Confira o valor exato.",prazo:"A banca troca ou embaralha o prazo. Confira dias, horas e a contagem.",numero:"A banca troca o número. Confira o valor exato.",quorum:"A banca troca o quórum. Distinga maioria simples, absoluta e qualificada.",excecao_omitida:"O item afirma uma regra sem a exceção. Procure o \"salvo\" que ele omitiu.",generalizacao:"O item generaliza com \"todos\", \"sempre\" ou \"qualquer\". Procure a exceção.",restricao_indevida:"O item cria uma restrição que a norma não faz.",regra_como_excecao:"O item trata a regra como exceção, ou o contrário.",troca_efeito:"A banca troca o efeito ou a consequência prevista.",consequencia:"A banca troca a consequência jurídica.",confusao_instituto:"A banca confunde dois institutos parecidos. Veja o que distingue cada um.",troca_autoridade:"A banca troca quem decide ou quem pratica o ato.",competencia:"A banca troca a competência. Veja de quem é a atribuição.",iniciativa:"A banca troca quem tem a iniciativa.",atribuicao_autor:"A banca atribui a ideia ou o ato a outro autor.",caso_concreto:"Caso concreto: aplique a regra à situação, sem se prender ao rótulo.",podedeve:"A banca troca \"pode\" por \"deve\" (faculdade por obrigação).",norma_culta:"Questão de norma culta: a pegadinha costuma estar no caso especial.",pegadinha:"Pegadinha conhecida da banca.",leitura:"Questão de leitura: confira o que o texto diz, não o que parece dizer.",conceito_correto:"Definição: a banca altera uma palavra-chave do conceito."};
 function sentences(t){return t.split(/(?<=[.!?])\s+(?=[A-ZÁÉÍÓÚÂÊÔÃÕÇ"'(])/).map(x=>x.trim()).filter(Boolean)}
@@ -464,6 +509,7 @@ function render(){
  drawNav();if(!Q.length)return;
  const f={hoje:vHoje,treino:vTreino,erros:vErros,sim:vSim,mapa:vMapa,dados:vDados,painel:vPainel}[view];
  $("app").innerHTML=f();
+ if(VOZ&&view==="treino"){if(!vozRec)vozStart()}else if(vozRec){const r=vozRec;vozRec=null;r.onend=null;try{r.abort()}catch(e){}}
 }
 function gaugeRow(lb,v,cls,meta){const w=Math.max(0,Math.min(100,100*v));return`<div class="g"><span class="lbl">${lb}</span><div class="track ${cls}"><i style="width:${w}%"></i><u style="left:${100*meta}%"></u></div><span class="num">${v<=0?"0%":pct(v)}</span></div>`}
 const STN=["Ritmo","Acertos","Cobertura","Domínio","Erros e confiança"];
@@ -535,7 +581,7 @@ function vTreino(){
  const mods=[...new Set(Q.map(mod))];
  const sel=`<select id="fScope" aria-label="Escopo do treino"><option value="">Todas as matérias</option><option value="blk:P1" ${f.blk==="P1"?"selected":""}>Só Prova 1</option><option value="blk:P2" ${f.blk==="P2"?"selected":""}>Só Prova 2</option>${mods.map(m=>`<option value="mod:${esc(m)}" ${f.mod===m?"selected":""}>${esc(m)}</option>`).join("")}</select>`;
  const liq=sess.ok-sess.er;
- let h=sess.sprint?`<div class="sbar"><span class="row"><b>⚡ Relâmpago</b> <span class="num" id="spT">${fmtT(sprintLeft())}</span></span><span>respondidas <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`:`<div class="sbar"><span class="row">${sel}<select id="fMode" aria-label="Modo"><option value="misto" ${sess.mode==="misto"?"selected":""}>Adaptativo</option><option value="erros" ${sess.mode==="erros"?"selected":""}>Só caderno de erros</option></select> <label style="font-size:.8rem;white-space:nowrap"><input type="checkbox" id="fSkip" ${SKIPDOM?"checked":""}> pular dominados${SKIPDOM&&NSKIP?` (${NSKIP})`:""}</label></span><span>sessão <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`;
+ let h=sess.sprint?`<div class="sbar"><span class="row"><b>⚡ Relâmpago</b> <span class="num" id="spT">${fmtT(sprintLeft())}</span></span><span>respondidas <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`:`<div class="sbar"><span class="row">${sel}<select id="fMode" aria-label="Modo"><option value="misto" ${sess.mode==="misto"?"selected":""}>Adaptativo</option><option value="erros" ${sess.mode==="erros"?"selected":""}>Só caderno de erros</option></select> ${SR?`<button class="btn sm" data-voz="1" aria-pressed="${VOZ}" title="Diga certo, errado, próxima">🎙 ${VOZ?"Voz ligada":"Voz"}</button>`:""} <label style="font-size:.8rem;white-space:nowrap"><input type="checkbox" id="fSkip" ${SKIPDOM?"checked":""}> pular dominados${SKIPDOM&&NSKIP?` (${NSKIP})`:""}</label></span><span>${VOZ?`<span id="vozTxt" class="nota">${esc(vozMsg||"ouvindo…")}</span> · `:""}sessão <b>${sess.n}</b> · acertos <b>${sess.ok}</b> · erros <b>${sess.er}</b> · líquido <b>${liq>0?"+":""}${liq}</b></span></div>`;
  if(!cur){
   return h+`<div class="card vazio">${sess.mode==="erros"?"Caderno de erros em dia. Nenhuma questão errada vence agora.":"Nenhuma questão neste filtro."}</div>`+(sess.n?sessResumo():"");
  }
@@ -780,6 +826,7 @@ document.addEventListener("click",e=>{
  const d=t.dataset;
  if(d.nav){view=d.nav;if(d.nav==="treino"&&!sess)sess=newSess({});render();window.scrollTo(0,0);return}
  if(d.st!==undefined||d.stp!==undefined){STTAB=d.st!==undefined?+d.st:(STTAB+ +d.stp+STN.length)%STN.length;lsPut("cam26stt",STTAB);render();return}
+ if(d.voz){vozToggle();return}
  if(d.go!==undefined){go(JSON.parse(d.go||"{}"));return}
  if(d.ins){const a=JSON.parse(d.ins);if(a.go)go(a.go);else if(a.nav){view=a.nav;if(a.tab)errTab=a.tab;render()}return}
  if(d.r){answer(d.r);return}
