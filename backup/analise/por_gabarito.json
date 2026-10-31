@@ -1,30 +1,30 @@
 {
  "C": {
   "acerto": 0.824,
-  "acerto_ultimas10": 0.9,
-  "acertos": 1167,
-  "erros": 249,
-  "liquido": 0.648,
-  "liquido_pior_caso": 0.614,
-  "ms_mediano": 13650,
-  "n": 1416,
+  "acerto_ultimas10": 0.6,
+  "acertos": 1262,
+  "erros": 269,
+  "liquido": 0.649,
+  "liquido_pior_caso": 0.616,
+  "ms_mediano": 13583,
+  "n": 1531,
   "primeira_vez_acerto": 0.839,
-  "primeira_vez_n": 1071,
-  "questoes_distintas": 1071,
-  "ultimo": 1793317401422
+  "primeira_vez_n": 1152,
+  "questoes_distintas": 1152,
+  "ultimo": 1793399369200
  },
  "E": {
-  "acerto": 0.791,
-  "acerto_ultimas10": 0.7,
-  "acertos": 1030,
-  "erros": 272,
-  "liquido": 0.582,
-  "liquido_pior_caso": 0.544,
-  "ms_mediano": 12404,
-  "n": 1302,
+  "acerto": 0.789,
+  "acerto_ultimas10": 0.8,
+  "acertos": 1122,
+  "erros": 300,
+  "liquido": 0.578,
+  "liquido_pior_caso": 0.542,
+  "ms_mediano": 11984,
+  "n": 1422,
   "primeira_vez_acerto": 0.815,
-  "primeira_vez_n": 952,
-  "questoes_distintas": 953,
-  "ultimo": 1793317394783
+  "primeira_vez_n": 1027,
+  "questoes_distintas": 1028,
+  "ultimo": 1793399358867
  }
 }

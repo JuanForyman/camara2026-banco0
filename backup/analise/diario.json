@@ -222,5 +222,22 @@
   },
   "minutos_aprox": 120.5,
   "n": 240
+ },
+ "2026-10-30": {
+  "acertos": 187,
+  "liquido": 0.591,
+  "materias": {
+   "Ciência Política": 25,
+   "Linguística": 12,
+   "Língua Inglesa": 16,
+   "Língua Portuguesa": 31,
+   "Noções de Direito Administrativo e Administração Pública": 42,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 27,
+   "Processo Legislativo, RICD e Regimento Comum": 47,
+   "Reconhecimento de Fala, Transcrição e IA": 20,
+   "Tecnologia da Informação e Dados": 15
+  },
+  "minutos_aprox": 90.7,
+  "n": 235
  }
 }
