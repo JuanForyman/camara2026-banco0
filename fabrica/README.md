@@ -156,3 +156,6 @@ O aluno não decora numeração. O enunciado deve **reproduzir o conteúdo** do 
 - Seleção em duas etapas: (1) tópico, pela incidência esperada na prova (`mapa_cobertura.esp`, injetada por `build_site.py` em `Motor.setPesos`) menos o que já saiu nas últimas 60 respostas, mais bônus de urgência; (2) átomo, pelo motor (prioridade por probabilidade, vencimento e relevância). Simulação: a distribuição por tópico passa a seguir o peso esperado (M3: desvio máximo de ~1 ponto percentual).
 - Evidência: palpite acertado vale 0,5 e não avança a sequência; erro com certeza vale 1,5; em branco conta 0,5 como lacuna.
 - Revisão: nenhum intervalo passa de 1/3 do tempo que falta até 17/01/2027.
+
+## Motor v4 (31/10/2026): sondagem e profundidade por campo
+No `pick`, cada átomo recebe um fator pelo seu campo: campo sem respostas x1,5; com 1-2 respostas x1,25; campo com mais respostas nos últimos 14 dias do que a profundidade (4 a 14, maior quanto mais fraco) perde prioridade (divide por 1+excesso/4). Simulação sobre o histórico real (2953 eventos), Administrativo: campos novos em 400 questões de 18 para 35; Const. e RI de 14 para 16; concentração nos 5 campos mais respondidos caiu de 0,17 para 0,14 (Adm.) e de 0,26 para 0,23 (Const.).

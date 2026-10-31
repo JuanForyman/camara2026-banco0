@@ -125,6 +125,7 @@
     const ord = events.filter(e => qm.has(e.q)).sort((u, v) => v.t - u.t);
     ord.forEach((e, i) => { const c = campoOf(qm.get(e.q)); if (!recent.has(c)) recent.set(c, i); });
     const CS = campos(allowed, events, t);
+    const recCnt = {}; for (const e of ord) if ((e.ok === true || e.ok === false) && t - e.t <= 14 * DAY) { const c = campoOf(qm.get(e.q)); recCnt[c] = (recCnt[c] || 0) + 1; }
     const cand = [];
     for (const [a, qs] of byAtom) {
       const top = qs[0].t, c = cov[top] ? cov[top].v / cov[top].n : 0, cp = campoOf(qs[0]), x = A[a];
@@ -133,6 +134,12 @@
       if (i < 3) pr *= err ? 0.6 : 0.1; else if (i < 10) pr *= err ? 0.9 : 0.4;
       if ((!x || !x.n) && CS[cp] && CS[cp].status === "dominado") pr *= 0.4; // terreno dominado: o novo espera
       const rr = Math.min(...qs.map(q => q.r || 1)); pr *= RW[rr] || 1; // relevância de prova (q.r)
+      // Sondagem e profundidade por campo: campo sem dados ou com poucos dados ganha bônus (descobre cedo ponto forte e fraco);
+      // campo já muito respondido nos últimos 14 dias perde prioridade, mais devagar se for ponto fraco.
+      { const k = CS[cp], tot = k ? k.resp : 0, pc = k ? k.p : 0.5, rc = recCnt[cp] || 0, depth = 4 + 10 * (1 - pc);
+        let f = tot === 0 ? 1.5 : tot < 3 ? 1.25 : 1;
+        if (rc > depth) f /= 1 + (rc - depth) / 4;
+        pr *= f; }
       cand.push({ a, qs, pr, x, cp });
     }
     // Etapa 1: escolhe o tópico. Meta = incidência esperada na prova; compara com as últimas 60 respostas do escopo
