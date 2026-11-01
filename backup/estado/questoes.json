@@ -173,6 +173,40 @@
   "topico_nome": "Ato administrativo",
   "ultima_correta": true
  },
+ "Q-ATO-0012": {
+  "acertos": 1,
+  "artigos": [
+   "Atributos do ato administrativo"
+  ],
+  "atomos": [
+   "A-ATO-0002"
+  ],
+  "bloco": "P1",
+  "campo": "ATO-elementos",
+  "campo_nome": "Ato administrativo: elementos e atributos",
+  "enunciado": "A autoexecutoriedade permite à Administração executar suas decisões sem prévia autorização judicial, ainda que não haja previsão legal ou urgência, alcançando inclusive a cobrança compulsória de multas.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478034982,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478034982
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Exige previsão legal ou urgência, e a cobrança de multa, em regra, depende de execução judicial.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "excecao_omitida",
+  "topico": "P1-M3-2",
+  "topico_nome": "Ato administrativo",
+  "ultima_correta": true
+ },
  "Q-ATO-0025": {
   "acertos": 1,
   "artigos": [
@@ -1139,7 +1173,7 @@
   "ultima_correta": true
  },
  "Q-CF-0039": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "CF art. 5, IX"
   ],
@@ -1153,18 +1187,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793121078900,
+   "last": 1793449446874,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1793121078900
+   "n": 2,
+   "ok": 2,
+   "u": 1793449446874
   },
   "gabarito_item": "E",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "Art. 5º, IX: independe de censura ou licença.",
   "relevancia": null,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "pegadinha",
@@ -2135,7 +2170,7 @@
   "ultima_correta": true
  },
  "Q-CF-0078": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "CF art. 5, LXVII"
   ],
@@ -2149,21 +2184,56 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793317368885,
+   "last": 1793451084037,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1793317368885
+   "n": 2,
+   "ok": 2,
+   "u": 1793451084037
   },
   "gabarito_item": "E",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "CF, art. 5º, LXVII e **Súmula Vinculante 25**: só o **devedor de alimentos** pode ser preso civilmente; **depositário infiel**, **não**",
   "relevancia": null,
+  "respostas": 2,
+  "sequencia": [
+   1,
+   1
+  ],
+  "tipo": "jurisprudencia",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
+ "Q-CF-0080": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 5, LXIX"
+  ],
+  "atomos": [
+   "A-CF-0005.LXIX"
+  ],
+  "bloco": "P1",
+  "campo": "CF5-remedios",
+  "campo_nome": "Art. 5º: remédios constitucionais (LXIX a LXXIII)",
+  "enunciado": "Conceder-se-á mandado de segurança para proteger direito líquido e certo, inclusive o amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade for autoridade pública.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450438237,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450438237
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Art. 5º, LXIX: direito líquido e certo não amparado por HC ou HD (caráter residual).",
+  "relevancia": null,
   "respostas": 1,
   "sequencia": [
    1
   ],
-  "tipo": "jurisprudencia",
+  "tipo": "pegadinha",
   "topico": "P1-M4-2",
   "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
   "ultima_correta": true
@@ -2440,6 +2510,40 @@
   "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
   "ultima_correta": true
  },
+ "Q-CF-0091": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 5"
+  ],
+  "atomos": [
+   "A-CF-0005"
+  ],
+  "bloco": "P1",
+  "campo": "CF5-par",
+  "campo_nome": "Art. 5º: caput e parágrafos",
+  "enunciado": "Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478137282,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478137282
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "CF, art. 5º, §3º: tratados de **direitos humanos** aprovados em **dois turnos, por 3/5** em cada Casa **equivalem a emendas constitucionais**",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "quorum",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
  "Q-CF-0092": {
   "acertos": 1,
   "artigos": [
@@ -2470,6 +2574,40 @@
    1
   ],
   "tipo": "quorum",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
+ "Q-CF-0093": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 5"
+  ],
+  "atomos": [
+   "A-CF-0005"
+  ],
+  "bloco": "P1",
+  "campo": "CF5-par",
+  "campo_nome": "Art. 5º: caput e parágrafos",
+  "enunciado": "O Brasil se submete à jurisdição de tribunal penal internacional a cuja criação tenha manifestado adesão.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476607231,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476607231
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Art. 5º, §4º: O Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja criação tenha manifestado adesão. DOS DIREITOS SOCIAIS",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "leitura",
   "topico": "P1-M4-2",
   "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
   "ultima_correta": true
@@ -2576,6 +2714,40 @@
   "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
   "ultima_correta": true
  },
+ "Q-CF-0097": {
+  "acertos": 0,
+  "artigos": [
+   "CF art. 7"
+  ],
+  "atomos": [
+   "A-CF-0007"
+  ],
+  "bloco": "P1",
+  "campo": "CF-art7",
+  "campo_nome": "Direitos dos trabalhadores (art. 7º)",
+  "enunciado": "A proibição de trabalho noturno, perigoso ou insalubre aplica-se aos menores de dezesseis anos, sendo vedado qualquer trabalho aos menores de quatorze anos, inclusive na condição de aprendiz.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449192491,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793449192491
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Art. 7º, XXXIII: proibição a menores de dezoito anos; qualquer trabalho a menores de dezesseis, salvo aprendiz a partir de quatorze.",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "numero",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": false
+ },
  "Q-CF-0098": {
   "acertos": 1,
   "artigos": [
@@ -2668,6 +2840,210 @@
   "gabarito_item": "E",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "Art. 12, I, c: exige registro em repartição brasileira competente ou residência no Brasil e opção, a qualquer tempo, após a maioridade.",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "pegadinha",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
+ "Q-CF-0102": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 12"
+  ],
+  "atomos": [
+   "A-CF-0012"
+  ],
+  "bloco": "P1",
+  "campo": "CF-nac",
+  "campo_nome": "Nacionalidade (arts. 12 e 13)",
+  "enunciado": "Aos originários de países de língua portuguesa são exigidas, para a naturalização, apenas residência por um ano ininterrupto e idoneidade moral.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480590305,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480590305
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "CF, art. 12, II, a: países de **língua portuguesa**: **1 ano ininterrupto** de residência e **idoneidade moral**",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "leitura",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
+ "Q-CF-0104": {
+  "acertos": 0,
+  "artigos": [
+   "CF art. 12"
+  ],
+  "atomos": [
+   "A-CF-0012"
+  ],
+  "bloco": "P1",
+  "campo": "CF-nac",
+  "campo_nome": "Nacionalidade (arts. 12 e 13)",
+  "enunciado": "São privativos de brasileiro nato os cargos de Presidente da República, Vice-Presidente, Presidente da Câmara dos Deputados, Presidente do Senado, Ministro de Estado e Ministro do STF.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451672995,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793451672995
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Art. 12, §3º: não inclui qualquer Ministro de Estado, apenas o Ministro de Estado da Defesa; inclui carreira diplomática e oficial das Forças Armadas.",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "pegadinha",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": false
+ },
+ "Q-CF-0106": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 12"
+  ],
+  "atomos": [
+   "A-CF-0012"
+  ],
+  "bloco": "P1",
+  "campo": "CF-nac",
+  "campo_nome": "Nacionalidade (arts. 12 e 13)",
+  "enunciado": "Será declarada a perda da nacionalidade do brasileiro que adquirir outra nacionalidade, sem exceção.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476196600,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476196600
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "CF, art. 12, § 4º, II (EC 131/2023): a perda decorre de pedido expresso, ressalvada a apatridia; adquirir outra nacionalidade não gera perda automática.",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "pegadinha",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
+ "Q-CF-0107": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 13"
+  ],
+  "atomos": [
+   "A-CF-0013"
+  ],
+  "bloco": "P1",
+  "campo": "CF-nac",
+  "campo_nome": "Nacionalidade (arts. 12 e 13)",
+  "enunciado": "A língua portuguesa é o idioma oficial da República Federativa do Brasil.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451561028,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451561028
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "CF, art. 13: **língua portuguesa** é o idioma oficial da República",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "leitura",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
+ "Q-CF-0109": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 14"
+  ],
+  "atomos": [
+   "A-CF-0014"
+  ],
+  "bloco": "P1",
+  "campo": "CF-polit",
+  "campo_nome": "Direitos políticos (arts. 14 a 16)",
+  "enunciado": "O voto é obrigatório para os maiores de dezesseis anos e facultativo para os maiores de sessenta e cinco anos.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475835232,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475835232
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Art. 14, §1º: obrigatório para maiores de 18; facultativo para maiores de 70 e entre 16 e 18.",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "numero",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
+ "Q-CF-0119": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 15"
+  ],
+  "atomos": [
+   "A-CF-0015"
+  ],
+  "bloco": "P1",
+  "campo": "CF-polit",
+  "campo_nome": "Direitos políticos (arts. 14 a 16)",
+  "enunciado": "A improbidade administrativa e a condenação criminal ainda não transitada em julgado são hipóteses de perda ou suspensão de direitos políticos.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793479697667,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793479697667
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Art. 15, III e V: condenação criminal exige trânsito em julgado, enquanto durarem seus efeitos.",
   "relevancia": null,
   "respostas": 1,
   "sequencia": [
@@ -3372,6 +3748,40 @@
   "topico_nome": "Poder Legislativo",
   "ultima_correta": true
  },
+ "Q-CF-0224": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 57"
+  ],
+  "atomos": [
+   "A-CF-0057"
+  ],
+  "bloco": "P1",
+  "campo": "CF-func",
+  "campo_nome": "Funcionamento e comissões (arts. 57 e 58)",
+  "enunciado": "A Câmara dos Deputados e o Senado Federal reunir-se-ão em sessão conjunta para inaugurar a sessão legislativa, elaborar o regimento comum, receber o compromisso do Presidente e do Vice-Presidente da República e conhecer do veto e sobre ele deliberar.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449297787,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449297787
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Art. 57, §3º: Além de outros casos previstos nesta Constituição, a Câmara dos Deputados e o Senado Federal reunir-se-ão em sessão conjunta para",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "competencia",
+  "topico": "P1-M4-5",
+  "topico_nome": "Poder Legislativo",
+  "ultima_correta": true
+ },
  "Q-CF-0234": {
   "acertos": 1,
   "artigos": [
@@ -3804,6 +4214,74 @@
   "gabarito_item": "C",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "CF, art. 8º, III: sindicato defende **direitos e interesses coletivos ou individuais** da categoria, **inclusive em questões judiciais ou administrativas**",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "leitura",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
+ "Q-CF-0385": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 9"
+  ],
+  "atomos": [
+   "A-CF-0009"
+  ],
+  "bloco": "P1",
+  "campo": "CF-sindic",
+  "campo_nome": "Sindicatos, greve e representação (arts. 8º a 11)",
+  "enunciado": "A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade, no exercício do direito de greve.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450682081,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450682081
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Art. 9º, §1º: A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade.",
+  "relevancia": null,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "leitura",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
+ "Q-CF-0386": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 9"
+  ],
+  "atomos": [
+   "A-CF-0009"
+  ],
+  "bloco": "P1",
+  "campo": "CF-sindic",
+  "campo_nome": "Sindicatos, greve e representação (arts. 8º a 11)",
+  "enunciado": "Os abusos cometidos no exercício do direito de greve sujeitam os responsáveis às penas da lei.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478008861,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478008861
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Art. 9º, §2º: Os abusos cometidos sujeitam os responsáveis às penas da lei.",
   "relevancia": null,
   "respostas": 1,
   "sequencia": [
@@ -4447,7 +4925,7 @@
   "ultima_correta": true
  },
  "Q-EN-0001": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Falsos cognatos mais cobrados"
   ],
@@ -4461,27 +4939,28 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124012106,
+   "last": 1793475903907,
    "m": {},
-   "n": 4,
-   "ok": 1,
-   "u": 1793124012106
+   "n": 5,
+   "ok": 2,
+   "u": 1793475903907
   },
   "gabarito_item": "C",
   "materia": "Língua Inglesa",
   "regra_correta": "Certo. **Pretend** = fingir, não “pretender”. É **falso cognato**: parece português, mas tem outro sentido. “Pretender” em inglês é **intend**.",
   "relevancia": 1,
-  "respostas": 4,
+  "respostas": 5,
   "sequencia": [
    0,
    1,
    0,
-   0
+   0,
+   1
   ],
   "tipo": "confusao_instituto",
   "topico": "P1-M2-1",
   "topico_nome": "Compreensão de textos",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-EN-0002": {
   "acertos": 2,
@@ -4659,7 +5138,7 @@
   "ultima_correta": true
  },
  "Q-EN-0007": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Falsos cognatos mais cobrados"
   ],
@@ -4673,24 +5152,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793114470437,
+   "last": 1793475981085,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793114470437
+   "n": 2,
+   "ok": 1,
+   "u": 1793475981085
   },
   "gabarito_item": "C",
   "materia": "Língua Inglesa",
   "regra_correta": "Certo. **Eventually** = por fim, no final das contas, depois de algum tempo. Não é “eventualmente” (às vezes), que é **occasionally**.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "confusao_instituto",
   "topico": "P1-M2-1",
   "topico_nome": "Compreensão de textos",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-EN-0009": {
   "acertos": 1,
@@ -5183,7 +5663,7 @@
   "ultima_correta": true
  },
  "Q-EN-0026": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Conectores e relações de sentido"
   ],
@@ -5197,26 +5677,27 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124346701,
+   "last": 1793476201353,
    "m": {},
-   "n": 3,
-   "ok": 0,
-   "u": 1793124346701
+   "n": 4,
+   "ok": 1,
+   "u": 1793476201353
   },
   "gabarito_item": "E",
   "materia": "Língua Inglesa",
   "regra_correta": "Errado. **Therefore** (portanto) e **thus** (assim) indicam consequência. Contraste é **however** ou **but**.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
    0,
-   0
+   0,
+   1
   ],
   "tipo": "troca_efeito",
   "topico": "P1-M2-2",
   "topico_nome": "Itens gramaticais",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-EN-0027": {
   "acertos": 1,
@@ -5923,20 +6404,21 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124504062,
+   "last": 1793476290986,
    "m": {},
-   "n": 4,
+   "n": 5,
    "ok": 1,
-   "u": 1793124504062
+   "u": 1793476290986
   },
   "gabarito_item": "C",
   "materia": "Língua Inglesa",
   "regra_correta": "Certo. **Don’t have to** = não precisa: **ausência de obrigação**. Pode ir, mas não é obrigado.",
   "relevancia": 1,
-  "respostas": 4,
+  "respostas": 5,
   "sequencia": [
    0,
    1,
+   0,
    0,
    0
   ],
@@ -6288,7 +6770,7 @@
   "ultima_correta": true
  },
  "Q-EN-0067": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Condicionais e wish"
   ],
@@ -6302,27 +6784,28 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124546357,
+   "last": 1793476340949,
    "m": {},
-   "n": 3,
-   "ok": 1,
-   "u": 1793124546357
+   "n": 4,
+   "ok": 2,
+   "u": 1793476340949
   },
   "gabarito_item": "C",
   "materia": "Língua Inglesa",
   "regra_correta": "Certo. **Zero conditional** (if + presente, presente): **verdade geral** ou fato científico. Gelo esquenta, derrete.",
   "relevancia": 1,
-  "respostas": 4,
+  "respostas": 5,
   "sequencia": [
    0,
    0,
    1,
-   0
+   0,
+   1
   ],
   "tipo": "troca_efeito",
   "topico": "P1-M2-2",
   "topico_nome": "Itens gramaticais",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-EN-0068": {
   "acertos": 1,
@@ -6692,18 +7175,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124652939,
+   "last": 1793476431793,
    "m": {},
-   "n": 2,
+   "n": 3,
    "ok": 0,
-   "u": 1793124652939
+   "u": 1793476431793
   },
   "gabarito_item": "E",
   "materia": "Língua Inglesa",
   "regra_correta": "Errado. **I wish I knew** = lamento: **não sei** a resposta agora.",
   "relevancia": 1,
-  "respostas": 2,
+  "respostas": 3,
   "sequencia": [
+   0,
    0,
    0
   ],
@@ -7403,7 +7887,7 @@
   "ultima_correta": true
  },
  "Q-EN-0163": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Prefixos e sufixos"
   ],
@@ -7417,24 +7901,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793117039642,
+   "last": 1793476529112,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793117039642
+   "n": 2,
+   "ok": 1,
+   "u": 1793476529112
   },
   "gabarito_item": "C",
   "materia": "Língua Inglesa",
   "regra_correta": "Certo. O prefixo **un-** indica **negação**: **unfair** = injusto, o contrário de **fair** (justo).",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "troca_efeito",
   "topico": "P1-M2-1",
   "topico_nome": "Compreensão de textos",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-EN-0164": {
   "acertos": 1,
@@ -7708,6 +8193,40 @@
   "topico_nome": "Compreensão de textos",
   "ultima_correta": true
  },
+ "Q-EN-0174": {
+  "acertos": 1,
+  "artigos": [
+   "Prefixos e sufixos"
+  ],
+  "atomos": [
+   "A-EN-0012"
+  ],
+  "bloco": "P1",
+  "campo": "EN-vocabulario",
+  "campo_nome": "Inglês: vocabulário, falsos cognatos e phrasal verbs",
+  "enunciado": "The suffix '-able' means 'impossível de', as in 'readable'.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480261070,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480261070
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Inglesa",
+  "regra_correta": "Errado. **-able** = possível de. O “impossível” é **unreadable**, com **un-**.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M2-1",
+  "topico_nome": "Compreensão de textos",
+  "ultima_correta": true
+ },
  "Q-EN-0177": {
   "acertos": 1,
   "artigos": [
@@ -7777,7 +8296,7 @@
   "ultima_correta": true
  },
  "Q-EN-0179": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Vocabulário legislativo e institucional"
   ],
@@ -7791,24 +8310,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793122966202,
+   "last": 1793476600119,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793122966202
+   "n": 2,
+   "ok": 1,
+   "u": 1793476600119
   },
   "gabarito_item": "C",
   "materia": "Língua Inglesa",
   "regra_correta": "Certo. **Bill** = projeto de lei, ainda **não aprovado**. Lei já aprovada é **law** ou **act**.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "confusao_instituto",
   "topico": "P1-M2-1",
   "topico_nome": "Compreensão de textos",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-EN-0180": {
   "acertos": 1,
@@ -8140,6 +8660,40 @@
   "gabarito_item": "C",
   "materia": "Língua Inglesa",
   "regra_correta": "Certo. **Although** indica ressalva: só 200 participantes. Os autores dizem **may apply** (podem se aplicar), com cautela.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "generalizacao",
+  "topico": "P1-M2-1",
+  "topico_nome": "Compreensão de textos",
+  "ultima_correta": true
+ },
+ "Q-EN-0204": {
+  "acertos": 1,
+  "artigos": [
+   "Leitura: ideia principal e detalhes"
+  ],
+  "atomos": [
+   "A-EN-0014"
+  ],
+  "bloco": "P1",
+  "campo": "EN-leitura",
+  "campo_nome": "Inglês: leitura, inferência e números",
+  "enunciado": "“Although the study included only 200 participants, its authors believe the results may apply to larger groups.” — The authors say the study included thousands of participants. This is the rule.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480792347,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480792347
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Inglesa",
+  "regra_correta": "Errado. O texto diz **only 200** (apenas 200) participantes, não milhares.",
   "relevancia": 1,
   "respostas": 1,
   "sequencia": [
@@ -8592,6 +9146,40 @@
   "topico_nome": "Compreensão de textos",
   "ultima_correta": true
  },
+ "Q-EN-0225": {
+  "acertos": 1,
+  "artigos": [
+   "Leitura: inferência, referência e tom"
+  ],
+  "atomos": [
+   "A-EN-0015"
+  ],
+  "bloco": "P1",
+  "campo": "EN-leitura",
+  "campo_nome": "Inglês: leitura, inferência e números",
+  "enunciado": "“Thanks to the new app, queues at the clinic are shorter. Patients no longer wait outside.” — The new app has improved the situation at the clinic.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480515826,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480515826
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Inglesa",
+  "regra_correta": "Certo. **Thanks to** = graças a: causa positiva. Filas **shorter** (menores), pacientes **no longer wait outside**.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M2-1",
+  "topico_nome": "Compreensão de textos",
+  "ultima_correta": true
+ },
  "Q-EN-0232": {
   "acertos": 1,
   "artigos": [
@@ -8811,18 +9399,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793114451185,
+   "last": 1793476630820,
    "m": {},
-   "n": 1,
+   "n": 2,
    "ok": 0,
-   "u": 1793114451185
+   "u": 1793476630820
   },
   "gabarito_item": "C",
   "materia": "Língua Inglesa",
   "regra_correta": "Certo. **Remained stable** = permaneceu estável: **sem mudança relevante**.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   0,
    0
   ],
   "tipo": "troca_efeito",
@@ -8935,8 +9524,42 @@
   "topico_nome": "Itens gramaticais",
   "ultima_correta": true
  },
- "Q-EN-0323": {
+ "Q-EN-0322": {
   "acertos": 1,
+  "artigos": [
+   "Phrasal verbs de notícias"
+  ],
+  "atomos": [
+   "A-EN-0021"
+  ],
+  "bloco": "P1",
+  "campo": "EN-phrasal",
+  "campo_nome": "Inglês: phrasal verbs de notícias",
+  "enunciado": "'He turned down the offer' means he accepted it.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450303300,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450303300
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Inglesa",
+  "regra_correta": "Errado. **Turn down** = recusar, não aceitar (**accept**).",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P1-M2-1",
+  "topico_nome": "Compreensão de textos",
+  "ultima_correta": true
+ },
+ "Q-EN-0323": {
+  "acertos": 2,
   "artigos": [
    "Phrasal verbs de notícias"
   ],
@@ -8950,27 +9573,62 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124758318,
+   "last": 1793476674698,
    "m": {},
-   "n": 4,
-   "ok": 1,
-   "u": 1793124758318
+   "n": 5,
+   "ok": 2,
+   "u": 1793476674698
   },
   "gabarito_item": "C",
   "materia": "Língua Inglesa",
   "regra_correta": "Certo. **Step down** = deixar o cargo, **renunciar**.",
   "relevancia": 1,
-  "respostas": 4,
+  "respostas": 5,
   "sequencia": [
    0,
    1,
    0,
-   0
+   0,
+   1
   ],
   "tipo": "confusao_instituto",
   "topico": "P1-M2-1",
   "topico_nome": "Compreensão de textos",
-  "ultima_correta": false
+  "ultima_correta": true
+ },
+ "Q-EN-0327": {
+  "acertos": 1,
+  "artigos": [
+   "Phrasal verbs de notícias"
+  ],
+  "atomos": [
+   "A-EN-0021"
+  ],
+  "bloco": "P1",
+  "campo": "EN-phrasal",
+  "campo_nome": "Inglês: phrasal verbs de notícias",
+  "enunciado": "'The agency will look into the complaint' means it will investigate it.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451263447,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451263447
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Inglesa",
+  "regra_correta": "Certo. **Look into** = investigar, examinar.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P1-M2-1",
+  "topico_nome": "Compreensão de textos",
+  "ultima_correta": true
  },
  "Q-EN-0329": {
   "acertos": 0,
@@ -9176,6 +9834,74 @@
   "topico_nome": "Compreensão de textos",
   "ultima_correta": false
  },
+ "Q-EN-0360": {
+  "acertos": 1,
+  "artigos": [
+   "Vocabulário de notícias e políticas públicas"
+  ],
+  "atomos": [
+   "A-EN-0022"
+  ],
+  "bloco": "P1",
+  "campo": "EN-noticias",
+  "campo_nome": "Inglês: vocabulário de notícias e políticas públicas",
+  "enunciado": "A 'crackdown' on corruption is a tolerant policy. This is the usual use.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449889402,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449889402
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Inglesa",
+  "regra_correta": "Errado. **Crackdown** = repressão rigorosa, o oposto de política tolerante (**tolerant**).",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P1-M2-1",
+  "topico_nome": "Compreensão de textos",
+  "ultima_correta": true
+ },
+ "Q-EN-0363": {
+  "acertos": 1,
+  "artigos": [
+   "Leitura: fato, opinião e hedging"
+  ],
+  "atomos": [
+   "A-EN-0023"
+  ],
+  "bloco": "P1",
+  "campo": "EN-atribuicao",
+  "campo_nome": "Inglês: leitura — hedging, fato × opinião e verbos de relato",
+  "enunciado": "“The new drug may reduce the risk of heart disease.” — The text does not say that the drug certainly reduces the risk.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451218484,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451218484
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Inglesa",
+  "regra_correta": "Certo. **May** = pode: **possibilidade**, não certeza. O texto não garante a redução.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "generalizacao",
+  "topico": "P1-M2-1",
+  "topico_nome": "Compreensão de textos",
+  "ultima_correta": true
+ },
  "Q-EN-0365": {
   "acertos": 1,
   "artigos": [
@@ -9244,6 +9970,40 @@
   "topico_nome": "Compreensão de textos",
   "ultima_correta": true
  },
+ "Q-EN-0381": {
+  "acertos": 0,
+  "artigos": [
+   "Leitura: fato, opinião e hedging"
+  ],
+  "atomos": [
+   "A-EN-0023"
+  ],
+  "bloco": "P1",
+  "campo": "EN-atribuicao",
+  "campo_nome": "Inglês: leitura — hedging, fato × opinião e verbos de relato",
+  "enunciado": "“Few lawmakers attended the session.” — The text implies that attendance was low.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475715583,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793475715583
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Inglesa",
+  "regra_correta": "Certo. **Few** = poucos: **presença baixa**.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "generalizacao",
+  "topico": "P1-M2-1",
+  "topico_nome": "Compreensão de textos",
+  "ultima_correta": false
+ },
  "Q-EN-0403": {
   "acertos": 2,
   "artigos": [
@@ -9281,7 +10041,7 @@
   "ultima_correta": true
  },
  "Q-EN-0405": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Preposições regidas e de tempo/lugar"
   ],
@@ -9295,26 +10055,27 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124789232,
+   "last": 1793476980228,
    "m": {},
-   "n": 3,
-   "ok": 1,
-   "u": 1793124789232
+   "n": 4,
+   "ok": 2,
+   "u": 1793476980228
   },
   "gabarito_item": "C",
   "materia": "Língua Inglesa",
   "regra_correta": "Certo. **Interested** pede **in**: “interested **in**”. Em português: interessada **em**.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
    1,
-   0
+   0,
+   1
   ],
   "tipo": "norma_culta",
   "topico": "P1-M2-2",
   "topico_nome": "Itens gramaticais",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-EN-0422": {
   "acertos": 3,
@@ -9634,7 +10395,7 @@
   "ultima_correta": true
  },
  "Q-FIA-0008": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Como o ASR funciona: o pipeline híbrido clássico"
   ],
@@ -9648,19 +10409,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792628354092,
+   "last": 1793450426278,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792628354092
+   "n": 4,
+   "ok": 3,
+   "u": 1793450426278
   },
   "gabarito_item": "E",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "As características acústicas são extraídas antes do reconhecimento, não depois do texto final.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -9806,7 +10568,7 @@
   "ultima_correta": true
  },
  "Q-FIA-0013": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Modelos end-to-end: CTC, atenção e transducer"
   ],
@@ -9820,19 +10582,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792628442994,
+   "last": 1793450464613,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792628442994
+   "n": 4,
+   "ok": 3,
+   "u": 1793450464613
   },
   "gabarito_item": "C",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "CTC usa símbolo “blank” e alinha implicitamente áudio e rótulos, sem alinhamento prévio.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -10012,7 +10775,7 @@
   "ultima_correta": true
  },
  "Q-FIA-0019": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Modelos end-to-end: CTC, atenção e transducer"
   ],
@@ -10026,26 +10789,27 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793122190980,
+   "last": 1793450695122,
    "m": {},
-   "n": 3,
-   "ok": 1,
-   "u": 1793122190980
+   "n": 4,
+   "ok": 2,
+   "u": 1793450695122
   },
   "gabarito_item": "C",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "End-to-end mapeia áudio direto a texto (caracteres ou subpalavras), sem léxico de pronúncia nem componentes separados.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
    1,
-   0
+   0,
+   1
   ],
   "tipo": "excecao_omitida",
   "topico": "P2-M7-1.2",
   "topico_nome": "Modelos end-to-end: CTC, atenção e transducer",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-FIA-0020": {
   "acertos": 1,
@@ -10900,7 +11664,7 @@
   "ultima_correta": true
  },
  "Q-FIA-0045": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Diarização: quem falou quando"
   ],
@@ -10914,19 +11678,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792628735475,
+   "last": 1793450724054,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792628735475
+   "n": 4,
+   "ok": 3,
+   "u": 1793450724054
   },
   "gabarito_item": "C",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "Etapas: detecção de voz, segmentação, embeddings de falante e agrupamento.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -11109,7 +11874,7 @@
   "ultima_correta": true
  },
  "Q-FIA-0051": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Pontuação, capitalização e normalização inversa"
   ],
@@ -11123,19 +11888,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792628801611,
+   "last": 1793450906993,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792628801611
+   "n": 4,
+   "ok": 3,
+   "u": 1793450906993
   },
   "gabarito_item": "C",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "TN vai da forma escrita à falada (útil na síntese de fala).",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -11319,7 +12085,7 @@
   "ultima_correta": true
  },
  "Q-FIA-0057": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Pontuação, capitalização e normalização inversa"
   ],
@@ -11333,19 +12099,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792628852393,
+   "last": 1793451037313,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792628852393
+   "n": 4,
+   "ok": 3,
+   "u": 1793451037313
   },
   "gabarito_item": "C",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "O WER em geral ignora pontuação; baixo WER pode conviver com erros de pontuação.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -14100,7 +14867,7 @@
   "ultima_correta": true
  },
  "Q-FIA-0325": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "End-to-end em detalhe: transducer, atenção, Conformer e aprendizado auto-supervisionado"
   ],
@@ -14114,24 +14881,59 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793114957200,
+   "last": 1793451129286,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793114957200
+   "n": 2,
+   "ok": 1,
+   "u": 1793451129286
   },
   "gabarito_item": "C",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "RNN-T soma rede de predição e de junção: a saída depende dos rótulos já emitidos, favorecendo streaming.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "confusao_instituto",
   "topico": "P2-M7-1.2",
   "topico_nome": "Modelos end-to-end: CTC, atenção e transducer",
-  "ultima_correta": false
+  "ultima_correta": true
+ },
+ "Q-FIA-0326": {
+  "acertos": 1,
+  "artigos": [
+   "End-to-end em detalhe: transducer, atenção, Conformer e aprendizado auto-supervisionado"
+  ],
+  "atomos": [
+   "A-FIA-0027"
+  ],
+  "bloco": "P2",
+  "campo": "FIA-asr",
+  "campo_nome": "Fala e IA: reconhecimento automático de fala",
+  "enunciado": "O transducer (RNN-T) mantém a hipótese de independência condicional do CTC entre as saídas e, por exigir o áudio completo, não é adequado ao uso em streaming. Trata-se de prática corrente.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480731870,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480731870
+  },
+  "gabarito_item": "E",
+  "materia": "Reconhecimento de Fala, Transcrição e IA",
+  "regra_correta": "RNN-T elimina a independência do CTC (rede de predição) e serve a streaming.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P2-M7-1.2",
+  "topico_nome": "Modelos end-to-end: CTC, atenção e transducer",
+  "ultima_correta": true
  },
  "Q-FIA-0329": {
   "acertos": 1,
@@ -14157,6 +14959,40 @@
   "gabarito_item": "C",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "wav2vec 2.0: pré-treino auto-supervisionado sem transcrição e ajuste com poucos rótulos, em geral com CTC.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P2-M7-1.2",
+  "topico_nome": "Modelos end-to-end: CTC, atenção e transducer",
+  "ultima_correta": true
+ },
+ "Q-FIA-0331": {
+  "acertos": 1,
+  "artigos": [
+   "End-to-end em detalhe: transducer, atenção, Conformer e aprendizado auto-supervisionado"
+  ],
+  "atomos": [
+   "A-FIA-0027"
+  ],
+  "bloco": "P2",
+  "campo": "FIA-asr",
+  "campo_nome": "Fala e IA: reconhecimento automático de fala",
+  "enunciado": "A arquitetura Conformer combina camadas de autoatenção, que captam contexto global, e convoluções, que captam padrões locais, e é usada em codificadores de ASR.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480043334,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480043334
+  },
+  "gabarito_item": "C",
+  "materia": "Reconhecimento de Fala, Transcrição e IA",
+  "regra_correta": "Conformer = autoatenção (contexto global) + convolução (padrões locais), usado em codificadores de ASR.",
   "relevancia": 1,
   "respostas": 1,
   "sequencia": [
@@ -14200,6 +15036,142 @@
   "topico": "P2-M7-1.3",
   "topico_nome": "LLMs multimodais de áudio nativo × pipeline ASR + LLM",
   "ultima_correta": true
+ },
+ "Q-FIA-0336": {
+  "acertos": 1,
+  "artigos": [
+   "Áudio e LLMs: cascata, correção por LLM e modelos fala-para-fala"
+  ],
+  "atomos": [
+   "A-FIA-0028"
+  ],
+  "bloco": "P2",
+  "campo": "FIA-asr",
+  "campo_nome": "Fala e IA: reconhecimento automático de fala",
+  "enunciado": "Na correção generativa de erros, o LLM recebe o áudio, sem hipóteses do ASR, e produz o texto final com fidelidade garantida ao que foi dito. Isso é consenso na área.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476395938,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476395938
+  },
+  "gabarito_item": "E",
+  "materia": "Reconhecimento de Fala, Transcrição e IA",
+  "regra_correta": "Na correção generativa o LLM parte das hipóteses do ASR, e a fidelidade não é garantida.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P2-M7-1.3",
+  "topico_nome": "LLMs multimodais de áudio nativo × pipeline ASR + LLM",
+  "ultima_correta": true
+ },
+ "Q-FIA-0339": {
+  "acertos": 1,
+  "artigos": [
+   "Áudio e LLMs: cascata, correção por LLM e modelos fala-para-fala"
+  ],
+  "atomos": [
+   "A-FIA-0028"
+  ],
+  "bloco": "P2",
+  "campo": "FIA-asr",
+  "campo_nome": "Fala e IA: reconhecimento automático de fala",
+  "enunciado": "A janela de contexto limita a quantidade de tokens, inclusive de áudio, que o modelo processa em uma chamada, e a entrada de áudio costuma elevar o custo por minuto processado.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480056992,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480056992
+  },
+  "gabarito_item": "C",
+  "materia": "Reconhecimento de Fala, Transcrição e IA",
+  "regra_correta": "A janela de contexto limita tokens, inclusive de áudio, e o áudio eleva o custo por minuto.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P2-M7-1.3",
+  "topico_nome": "LLMs multimodais de áudio nativo × pipeline ASR + LLM",
+  "ultima_correta": true
+ },
+ "Q-FIA-0340": {
+  "acertos": 1,
+  "artigos": [
+   "Áudio e LLMs: cascata, correção por LLM e modelos fala-para-fala"
+  ],
+  "atomos": [
+   "A-FIA-0028"
+  ],
+  "bloco": "P2",
+  "campo": "FIA-asr",
+  "campo_nome": "Fala e IA: reconhecimento automático de fala",
+  "enunciado": "A janela de contexto não limita a duração do áudio processado por chamada, pois o áudio não é convertido em tokens. Essa seria a posição predominante na literatura técnica da área.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793479823530,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793479823530
+  },
+  "gabarito_item": "E",
+  "materia": "Reconhecimento de Fala, Transcrição e IA",
+  "regra_correta": "O áudio é convertido em tokens, logo a janela de contexto limita a duração por chamada.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P2-M7-1.3",
+  "topico_nome": "LLMs multimodais de áudio nativo × pipeline ASR + LLM",
+  "ultima_correta": true
+ },
+ "Q-FIA-0341": {
+  "acertos": 0,
+  "artigos": [
+   "Áudio e LLMs: cascata, correção por LLM e modelos fala-para-fala"
+  ],
+  "atomos": [
+   "A-FIA-0028"
+  ],
+  "bloco": "P2",
+  "campo": "FIA-asr",
+  "campo_nome": "Fala e IA: reconhecimento automático de fala",
+  "enunciado": "Um órgão que precisa de registro oficial literal de uma audiência adota fluxo de ASR com texto intermediário revisado por humano e, só depois, usa LLM para resumo e consulta. A escolha favorece a auditabilidade.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793479956672,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793479956672
+  },
+  "gabarito_item": "C",
+  "materia": "Reconhecimento de Fala, Transcrição e IA",
+  "regra_correta": "Registro literal pede ASR, texto revisado por humano e só então LLM; isso favorece a auditabilidade.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "caso_concreto",
+  "topico": "P2-M7-1.3",
+  "topico_nome": "LLMs multimodais de áudio nativo × pipeline ASR + LLM",
+  "ultima_correta": false
  },
  "Q-FIA-0345": {
   "acertos": 1,
@@ -14435,6 +15407,40 @@
    1
   ],
   "tipo": "confusao_instituto",
+  "topico": "P2-M7-1.5",
+  "topico_nome": "Pontuação, capitalização e normalização inversa",
+  "ultima_correta": true
+ },
+ "Q-FIA-0359": {
+  "acertos": 1,
+  "artigos": [
+   "Pontuação, capitalização e ITN: métodos e avaliação"
+  ],
+  "atomos": [
+   "A-FIA-0030"
+  ],
+  "bloco": "P2",
+  "campo": "FIA-asr",
+  "campo_nome": "Fala e IA: reconhecimento automático de fala",
+  "enunciado": "Para medir apenas o reconhecimento das palavras, normalizam-se previamente referência e hipótese, retirando pontuação e diferenças de caixa, antes do cálculo do WER.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449972377,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449972377
+  },
+  "gabarito_item": "C",
+  "materia": "Reconhecimento de Fala, Transcrição e IA",
+  "regra_correta": "Para medir só o reconhecimento de palavras, normalizam-se referência e hipótese (pontuação, caixa) antes do WER.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "excecao_omitida",
   "topico": "P2-M7-1.5",
   "topico_nome": "Pontuação, capitalização e normalização inversa",
   "ultima_correta": true
@@ -14779,6 +15785,40 @@
   "topico_nome": "Whisper: o que é, como foi treinado, o que faz e não faz",
   "ultima_correta": true
  },
+ "Q-FIA-0388": {
+  "acertos": 1,
+  "artigos": [
+   "Whisper: tamanhos, treino e ecossistema"
+  ],
+  "atomos": [
+   "A-FIA-0033"
+  ],
+  "bloco": "P2",
+  "campo": "FIA-asr",
+  "campo_nome": "Fala e IA: reconhecimento automático de fala",
+  "enunciado": "O Whisper realiza nativamente diarização de falantes; o WhisperX apenas troca o idioma do modelo. Isso é consenso na área.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476348687,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476348687
+  },
+  "gabarito_item": "E",
+  "materia": "Reconhecimento de Fala, Transcrição e IA",
+  "regra_correta": "Whisper não faz diarização nativa; o WhisperX a acrescenta, com outros recursos.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P2-M7-1.8",
+  "topico_nome": "Whisper: o que é, como foi treinado, o que faz e não faz",
+  "ultima_correta": true
+ },
  "Q-FIA-0391": {
   "acertos": 1,
   "artigos": [
@@ -14848,7 +15888,7 @@
   "ultima_correta": true
  },
  "Q-FIA-0433": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Convenções de formatação de transcrições parlamentares"
   ],
@@ -14862,25 +15902,26 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793231590324,
+   "last": 1793480912270,
    "m": {},
-   "n": 2,
-   "ok": 0,
-   "u": 1793231590324
+   "n": 3,
+   "ok": 1,
+   "u": 1793480912270
   },
   "gabarito_item": "C",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "Aplicar a convenção de modo uniforme importa mais que a convenção escolhida.",
   "relevancia": 1,
-  "respostas": 2,
+  "respostas": 3,
   "sequencia": [
    0,
-   0
+   0,
+   1
   ],
   "tipo": "excecao_omitida",
   "topico": "P2-M7-2.4",
   "topico_nome": "Formatação de transcrições parlamentares",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-FIA-0437": {
   "acertos": 2,
@@ -14918,7 +15959,7 @@
   "ultima_correta": true
  },
  "Q-FIA-0456": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Controle de qualidade: WER e suas limitações, amostragem e concordância"
   ],
@@ -14932,18 +15973,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793372994198,
+   "last": 1793476661423,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1793372994198
+   "n": 2,
+   "ok": 2,
+   "u": 1793476661423
   },
   "gabarito_item": "E",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "O denominador é a referência, não a hipótese, e o WER pode passar de 100% por inserções.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "troca_numero",
@@ -17789,7 +18831,7 @@
   "ultima_correta": true
  },
  "Q-L8112-0038": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Lei 8.112/90 art. 13",
    "Lei 8.112/90 art. 14"
@@ -17805,18 +18847,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792772928946,
+   "last": 1793475816661,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1792772928946
+   "n": 2,
+   "ok": 2,
+   "u": 1793475816661
   },
   "gabarito_item": "C",
   "materia": "Noções de Direito Administrativo e Administração Pública",
   "regra_correta": "Lei 8.112, art. 13, §5º: na posse: **declaração de bens** e de **acumulação de cargo**; exige **inspeção médica oficial prévia**",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "conceito_correto",
@@ -18648,6 +19691,40 @@
   "topico_nome": "Agentes públicos",
   "ultima_correta": true
  },
+ "Q-L8112-0071": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 24"
+  ],
+  "atomos": [
+   "A-L8112-0024"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-deriv",
+  "campo_nome": "Lei 8.112: readaptação, reversão, reintegração, recondução e aproveitamento (arts. 24 a 32)",
+  "enunciado": "Readaptação é a investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental, verificada em inspeção médica.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476266495,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476266495
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Lei 8.112, art. 24: **readaptação** = investidura em cargo **compatível com limitação** física ou mental, verificada em **inspeção médica**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
  "Q-L8112-0072": {
   "acertos": 1,
   "artigos": [
@@ -18889,6 +19966,40 @@
   "topico_nome": "Agentes públicos",
   "ultima_correta": true
  },
+ "Q-L8112-0080": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 28"
+  ],
+  "atomos": [
+   "A-L8112-0028"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-deriv",
+  "campo_nome": "Lei 8.112: readaptação, reversão, reintegração, recondução e aproveitamento (arts. 24 a 32)",
+  "enunciado": "A reintegração é a reinvestidura do servidor estável no cargo anteriormente ocupado, ou no cargo resultante de sua transformação, quando invalidada a sua demissão por decisão administrativa ou judicial, com ressarcimento de todas as vantagens.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450453800,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450453800
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Lei 8.112, art. 28: **reintegração** do **estável**, quando **invalidada a demissão** (administrativa ou judicial), com **ressarcimento de todas as vantagens**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
  "Q-L8112-0081": {
   "acertos": 1,
   "artigos": [
@@ -18922,6 +20033,40 @@
   "topico": "P1-M3-3",
   "topico_nome": "Agentes públicos",
   "ultima_correta": true
+ },
+ "Q-L8112-0082": {
+  "acertos": 0,
+  "artigos": [
+   "Lei 8.112/90 art. 28"
+  ],
+  "atomos": [
+   "A-L8112-0028"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-deriv",
+  "campo_nome": "Lei 8.112: readaptação, reversão, reintegração, recondução e aproveitamento (arts. 24 a 32)",
+  "enunciado": "Reintegrado servidor estável cujo cargo original encontra-se provido por outro ocupante, esse ocupante será reconduzido ao cargo de origem, sem direito a indenização, ou aproveitado em outro cargo, ou ainda posto em disponibilidade.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476190284,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793476190284
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Lei 8.112, art. 28, §2º: ocupante do cargo é **reconduzido sem indenização**, **aproveitado** em outro ou posto em **disponibilidade**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "caso_concreto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": false
  },
  "Q-L8112-0083": {
   "acertos": 1,
@@ -19198,7 +20343,7 @@
   "ultima_correta": true
  },
  "Q-L8112-0092": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Lei 8.112/90 art. 34"
   ],
@@ -19212,18 +20357,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792140851917,
+   "last": 1793480173353,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1792140851917
+   "n": 2,
+   "ok": 2,
+   "u": 1793480173353
   },
   "gabarito_item": "C",
   "materia": "Noções de Direito Administrativo e Administração Pública",
   "regra_correta": "Lei 8.112, art. 34: exoneração **a pedido** ou **de ofício**; de ofício se **estágio não satisfatório** ou **sem exercício** no prazo após a posse",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "conceito_correto",
@@ -19641,6 +20787,40 @@
   "topico_nome": "Agentes públicos",
   "ultima_correta": true
  },
+ "Q-L8112-0157": {
+  "acertos": 0,
+  "artigos": [
+   "Lei 8.112/90 art. 81"
+  ],
+  "atomos": [
+   "A-L8112-0081"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-lic",
+  "campo_nome": "Lei 8.112: licenças (arts. 81 a 92)",
+  "enunciado": "Entre as licenças previstas no art. 81 estão a licença à gestante, a licença-paternidade, a licença para tratamento da própria saúde e a licença por acidente em serviço.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450709816,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793450709816
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 81: as licenças são por doença em pessoa da família, afastamento do cônjuge, serviço militar, atividade política, capacitação, interesses particulares e mandato classista.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": false
+ },
  "Q-L8112-0158": {
   "acertos": 1,
   "artigos": [
@@ -19743,6 +20923,40 @@
   "topico_nome": "Agentes públicos",
   "ultima_correta": true
  },
+ "Q-L8112-0162": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 83"
+  ],
+  "atomos": [
+   "A-L8112-0083"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-lic",
+  "campo_nome": "Lei 8.112: licenças (arts. 81 a 92)",
+  "enunciado": "Servidor que pleiteia licença para cuidar de filho doente terá o pedido deferido somente se comprovada, por perícia médica oficial, a doença e se a assistência direta for indispensável e não puder ser prestada simultaneamente com o exercício do cargo ou mediante compensação de horário.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793479469240,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793479469240
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Lei 8.112, art. 83, §1º: licença por doença familiar exige **perícia médica oficial**, **assistência direta indispensável** e impossibilidade de acumular com o cargo ou compensar horário",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "caso_concreto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
  "Q-L8112-0163": {
   "acertos": 1,
   "artigos": [
@@ -19807,6 +21021,40 @@
    1
   ],
   "tipo": "restricao_indevida",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0165": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 81"
+  ],
+  "atomos": [
+   "A-L8112-0081"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-lic",
+  "campo_nome": "Lei 8.112: licenças (arts. 81 a 92)",
+  "enunciado": "É vedado o exercício de atividade remunerada durante o período da licença por motivo de doença em pessoa da família.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450149098,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450149098
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 81, § 3º: É vedado o exercício de atividade remunerada durante o período da licença prevista no inciso I deste artigo.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "conceito_correto",
   "topico": "P1-M3-3",
   "topico_nome": "Agentes públicos",
   "ultima_correta": true
@@ -20083,6 +21331,74 @@
   "topico_nome": "Agentes públicos",
   "ultima_correta": false
  },
+ "Q-L8112-0174": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 91"
+  ],
+  "atomos": [
+   "A-L8112-0091"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-lic",
+  "campo_nome": "Lei 8.112: licenças (arts. 81 a 92)",
+  "enunciado": "Servidor em estágio probatório que preencha os requisitos poderá exigir a licença para trato de assuntos particulares, que será concedida pelo prazo de até três anos consecutivos e com remuneração.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450414139,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450414139
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 91: a critério da Administração, não em estágio probatório, sem remuneração.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "caso_concreto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0175": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 91"
+  ],
+  "atomos": [
+   "A-L8112-0091"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-lic",
+  "campo_nome": "Lei 8.112: licenças (arts. 81 a 92)",
+  "enunciado": "A licença para trato de assuntos particulares poderá ser interrompida, a qualquer tempo, a pedido do servidor ou no interesse do serviço.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475805368,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475805368
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 91, parágrafo único: A licença poderá ser interrompida, a qualquer tempo, a pedido do servidor ou no interesse do serviço.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
  "Q-L8112-0176": {
   "acertos": 1,
   "artigos": [
@@ -20228,6 +21544,386 @@
   "topico": "P1-M3-3",
   "topico_nome": "Agentes públicos",
   "ultima_correta": true
+ },
+ "Q-L8112-0203": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 106"
+  ],
+  "atomos": [
+   "A-L8112-0106"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "Cabe pedido de reconsideração à autoridade que houver expedido o ato ou proferido a primeira decisão, não podendo ser renovado, e deverá ser despachado em cinco dias e decidido em trinta dias.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450357814,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450357814
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Lei 8.112, art. 106: **reconsideração** à autoridade que decidiu, **vedada a renovação**; despacho em **5 dias** e decisão em **30 dias**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0204": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 106"
+  ],
+  "atomos": [
+   "A-L8112-0106"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "Cabe pedido de reconsideração à autoridade que houver expedido o ato, podendo ser renovado uma vez, devendo ser despachado em cinco dias e decidido em sessenta dias.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449911887,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449911887
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 106: não pode ser renovado; despacho em 5 dias e decisão em 30 dias.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_numero",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0205": {
+  "acertos": 0,
+  "artigos": [
+   "Lei 8.112/90 art. 107",
+   "Lei 8.112/90 art. 108"
+  ],
+  "atomos": [
+   "A-L8112-0107",
+   "A-L8112-0108"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "O recurso será dirigido à autoridade imediatamente superior à que tiver expedido o ato ou proferido a decisão, e o prazo para interposição de recurso ou pedido de reconsideração é de trinta dias, a contar da publicação ou da ciência da decisão recorrida.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450761583,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793450761583
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Lei 8.112, art. 107: **recurso** à autoridade **imediatamente superior**; prazo de **30 dias** da publicação ou ciência",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": false
+ },
+ "Q-L8112-0206": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 108"
+  ],
+  "atomos": [
+   "A-L8112-0108"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "O recurso será dirigido à autoridade que tiver expedido o ato ou proferido a decisão, e o prazo para interposição de pedido de reconsideração ou de recurso é de quinze dias, a contar da data do ato impugnado, ainda que o interessado dele não tenha ciência.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450864911,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450864911
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 108: trinta dias, a contar da publicação ou da ciência pelo interessado.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_numero",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0207": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 109"
+  ],
+  "atomos": [
+   "A-L8112-0109"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "O recurso poderá ser recebido com efeito suspensivo, a juízo da autoridade competente, e, provido o pedido de reconsideração ou o recurso, os efeitos da decisão retroagirão à data do ato impugnado.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475184842,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475184842
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Lei 8.112, art. 109: recurso pode ter **efeito suspensivo** a juízo da autoridade; provido, os efeitos **retroagem** ao ato impugnado",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0208": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 109"
+  ],
+  "atomos": [
+   "A-L8112-0109"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "O recurso administrativo terá sempre efeito suspensivo, e, provido o pedido de reconsideração ou o recurso, o provimento produzirá efeitos somente a partir da data da decisão que o acolher.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478269618,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478269618
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 109: efeito suspensivo a juízo da autoridade; provimento retroage à data do ato impugnado.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0209": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 110"
+  ],
+  "atomos": [
+   "A-L8112-0110"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "O direito de requerer prescreve em cinco anos quanto aos atos de demissão e de cassação de aposentadoria ou disponibilidade, ou que afetem interesse patrimonial e créditos resultantes das relações de trabalho, e em cento e vinte dias nos demais casos.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793479924884,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793479924884
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Lei 8.112, art. 110: direito de requerer prescreve em **5 anos** (demissão, cassação, interesse patrimonial) e em **120 dias** nos demais casos",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_numero",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0210": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 110"
+  ],
+  "atomos": [
+   "A-L8112-0110"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "O direito de requerer prescreve em cento e vinte dias quanto aos atos de demissão, de cassação de aposentadoria ou disponibilidade e aos que afetem interesse patrimonial, e em cinco anos nos demais casos.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475968314,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475968314
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 110: cinco anos para demissão, cassação e interesse patrimonial; 120 dias nos demais casos.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_numero",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0211": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 111",
+   "Lei 8.112/90 art. 112"
+  ],
+  "atomos": [
+   "A-L8112-0111",
+   "A-L8112-0112"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "O pedido de reconsideração e o recurso, quando cabíveis, interrompem a prescrição, e esta é de ordem pública, não podendo ser relevada pela administração.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478723166,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478723166
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Lei 8.112, art. 111: reconsideração e recurso **interrompem** a prescrição, que é **de ordem pública** e **não pode ser relevada**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0212": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 111",
+   "Lei 8.112/90 art. 112"
+  ],
+  "atomos": [
+   "A-L8112-0111",
+   "A-L8112-0112"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "A prescrição do direito de requerer é matéria de interesse do servidor e pode ser relevada pela administração, que, ademais, não é interrompida por pedido de reconsideração.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475954363,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475954363
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Arts. 111 e 112: a prescrição é de ordem pública e não pode ser relevada; o pedido e o recurso a interrompem.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0213": {
+  "acertos": 0,
+  "artigos": [
+   "Lei 8.112/90 art. 114"
+  ],
+  "atomos": [
+   "A-L8112-0114"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "A administração deverá rever seus atos, a qualquer tempo, quando eivados de ilegalidade.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793479704417,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793479704417
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 114: A administração deverá rever seus atos, a qualquer tempo, quando eivados de ilegalidade.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": false
  },
  "Q-L8112-0221": {
   "acertos": 1,
@@ -20724,6 +22420,40 @@
   "topico_nome": "Agentes públicos",
   "ultima_correta": true
  },
+ "Q-L8112-0408": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 24"
+  ],
+  "atomos": [
+   "A-L8112-0024"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-deriv",
+  "campo_nome": "Lei 8.112: readaptação, reversão, reintegração, recondução e aproveitamento (arts. 24 a 32)",
+  "enunciado": "Se o readaptando for julgado incapaz para o serviço público, será exonerado de ofício.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793479434769,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793479434769
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 24, § 1º: se julgado incapaz para o serviço público, será aposentado.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
  "Q-L8112-0409": {
   "acertos": 1,
   "artigos": [
@@ -20822,6 +22552,74 @@
    1
   ],
   "tipo": "troca_efeito",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0420": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 91"
+  ],
+  "atomos": [
+   "A-L8112-0091"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-lic",
+  "campo_nome": "Lei 8.112: licenças (arts. 81 a 92)",
+  "enunciado": "A licença para trato de assuntos particulares, uma vez concedida, não poderá ser interrompida antes do prazo, nem a pedido do servidor.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475743181,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475743181
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 91, parágrafo único: poderá ser interrompida a qualquer tempo, a pedido do servidor ou no interesse do serviço.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M3-3",
+  "topico_nome": "Agentes públicos",
+  "ultima_correta": true
+ },
+ "Q-L8112-0429": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 8.112/90 art. 115"
+  ],
+  "atomos": [
+   "A-L8112-0115"
+  ],
+  "bloco": "P1",
+  "campo": "L8112-peticao",
+  "campo_nome": "Lei 8.112: direito de petição e prescrição (arts. 104 a 115)",
+  "enunciado": "Os prazos estabelecidos no capítulo do direito de petição são fatais e improrrogáveis, sem exceção.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480115672,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480115672
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Art. 115: salvo motivo de força maior.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "excecao_omitida",
   "topico": "P1-M3-3",
   "topico_nome": "Agentes públicos",
   "ultima_correta": true
@@ -25965,6 +27763,40 @@
   "tipo": "caso_concreto",
   "topico": "P1-M3-7",
   "topico_nome": "Improbidade administrativa",
+  "ultima_correta": true
+ },
+ "Q-L9784-0015": {
+  "acertos": 1,
+  "artigos": [
+   "Lei 9.784/99 art. 2, II"
+  ],
+  "atomos": [
+   "A-L9784-0002.II"
+  ],
+  "bloco": "P1",
+  "campo": "L9784-disp",
+  "campo_nome": "Lei 9.784: disposições gerais e princípios (arts. 1º e 2º)",
+  "enunciado": "É vedada a renúncia, total ou parcial, de poderes ou competências nos processos administrativos, salvo autorização em lei.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793479570164,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793479570164
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "Lei 9.784, art. 2º, p.ú.: **vedada a renúncia** total ou parcial de poderes ou competências, **salvo autorização em lei**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P1-M3-4",
+  "topico_nome": "Direito administrativo disciplinar",
   "ultima_correta": true
  },
  "Q-L9784-0017": {
@@ -31139,7 +32971,7 @@
   "ultima_correta": true
  },
  "Q-LIN-0344": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Retórica e figuras de linguagem"
   ],
@@ -31153,18 +32985,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792257409522,
+   "last": 1793475640090,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1792257409522
+   "n": 2,
+   "ok": 2,
+   "u": 1793475640090
   },
   "gabarito_item": "E",
   "materia": "Linguística",
   "regra_correta": "Figuras não são exclusivas da literatura; ocorrem em muitos usos.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "excecao_omitida",
@@ -32061,7 +33894,7 @@
   "ultima_correta": true
  },
  "Q-LIN-0550": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Exposição de motivos, mensagem e correio eletrônico (Manual, itens 6.2 a 6.4)"
   ],
@@ -32075,19 +33908,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792629186697,
+   "last": 1793451243166,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792629186697
+   "n": 4,
+   "ok": 3,
+   "u": 1793451243166
   },
   "gabarito_item": "E",
   "materia": "Linguística",
   "regra_correta": "A mensagem de veto é dirigida ao Presidente do Senado, não ao da Câmara; as demais não saem na íntegra.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -32097,7 +33931,7 @@
   "ultima_correta": true
  },
  "Q-LIN-0553": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Exposição de motivos, mensagem e correio eletrônico (Manual, itens 6.2 a 6.4)"
   ],
@@ -32111,27 +33945,28 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793115595352,
+   "last": 1793451315566,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793115595352
+   "n": 2,
+   "ok": 1,
+   "u": 1793451315566
   },
   "gabarito_item": "C",
   "materia": "Linguística",
   "regra_correta": "A mensagem não identifica o signatário; traz “MENSAGEM Nº”, vocativo, texto, local e data.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "excecao_omitida",
   "topico": "P2-M6-11",
   "topico_nome": "Comunicações oficiais, pronomes de tratamento e reduções ortográficas",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-LIN-0561": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Exposição de motivos, mensagem e correio eletrônico (Manual, itens 6.2 a 6.4)"
   ],
@@ -32145,24 +33980,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793115337998,
+   "last": 1793451383461,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793115337998
+   "n": 2,
+   "ok": 1,
+   "u": 1793451383461
   },
   "gabarito_item": "C",
   "materia": "Linguística",
   "regra_correta": "E-mail com valor documental exige ICP-Brasil; sem ela, o destinatário pode aceitá-lo se não houver contestação.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "excecao_omitida",
   "topico": "P2-M6-11",
   "topico_nome": "Comunicações oficiais, pronomes de tratamento e reduções ortográficas",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-LIN-0562": {
   "acertos": 1,
@@ -33227,7 +35063,7 @@
   "ultima_correta": true
  },
  "Q-LP-0004": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Vírgula entre sujeito, verbo e complementos"
   ],
@@ -33241,18 +35077,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792265499274,
+   "last": 1793451368318,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1792265499274
+   "n": 2,
+   "ok": 2,
+   "u": 1793451368318
   },
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "O intercalado exige as duas vírgulas ou nenhuma; só uma separaria sujeito e verbo.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "norma_culta",
@@ -34948,7 +36785,7 @@
   "ultima_correta": true
  },
  "Q-LP-0054": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Ponto e vírgula, dois-pontos, travessão, parênteses e aspas"
   ],
@@ -34962,19 +36799,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792629548485,
+   "last": 1793451458677,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792629548485
+   "n": 4,
+   "ok": 3,
+   "u": 1793451458677
   },
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "Depois de verbo de ligação não se usam dois-pontos; não são obrigatórios aí.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -34984,7 +36822,7 @@
   "ultima_correta": true
  },
  "Q-LP-0055": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Ponto e vírgula, dois-pontos, travessão, parênteses e aspas"
   ],
@@ -34998,19 +36836,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792629623027,
+   "last": 1793451555196,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792629623027
+   "n": 4,
+   "ok": 3,
+   "u": 1793451555196
   },
   "gabarito_item": "C",
   "materia": "Língua Portuguesa",
   "regra_correta": "O travessão duplo isola intercalado com ênfase maior que a das vírgulas.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -35464,7 +37303,7 @@
   "ultima_correta": true
  },
  "Q-LP-0069": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Pontuação e efeito de sentido"
   ],
@@ -35478,19 +37317,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792629661606,
+   "last": 1793451588196,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792629661606
+   "n": 4,
+   "ok": 3,
+   "u": 1793451588196
   },
   "gabarito_item": "C",
   "materia": "Língua Portuguesa",
   "regra_correta": "Conjunção deslocada para o interior da oração (porém) fica entre duas vírgulas.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -36581,18 +38421,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793121306138,
+   "last": 1793451659108,
    "m": {},
-   "n": 1,
+   "n": 2,
    "ok": 0,
-   "u": 1793121306138
+   "u": 1793451659108
   },
   "gabarito_item": "C",
   "materia": "Língua Portuguesa",
   "regra_correta": "“Mais de um” + substantivo singular leva verbo no singular.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   0,
    0
   ],
   "tipo": "norma_culta",
@@ -37970,7 +39811,7 @@
   "ultima_correta": true
  },
  "Q-LP-0147": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Conectores coordenativos e relações de sentido"
   ],
@@ -37984,18 +39825,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792591402310,
+   "last": 1793479815422,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1792591402310
+   "n": 2,
+   "ok": 2,
+   "u": 1793479815422
   },
   "gabarito_item": "C",
   "materia": "Língua Portuguesa",
   "regra_correta": "“No entanto” e “contudo” são adversativas e se substituem.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "troca_efeito",
@@ -38242,6 +40084,74 @@
   "topico_nome": "Estrutura morfossintática do período",
   "ultima_correta": true
  },
+ "Q-LP-0187": {
+  "acertos": 1,
+  "artigos": [
+   "Orações coordenadas"
+  ],
+  "atomos": [
+   "A-LP-0016"
+  ],
+  "bloco": "P1",
+  "campo": "LP-oracoes",
+  "campo_nome": "Português: orações coordenadas e subordinadas",
+  "enunciado": "Em 'Chegou, viu, venceu', as orações são coordenadas assindéticas.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478191288,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478191288
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "Orações sem conjunção entre si são coordenadas assindéticas.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
+ "Q-LP-0188": {
+  "acertos": 1,
+  "artigos": [
+   "Orações coordenadas"
+  ],
+  "atomos": [
+   "A-LP-0016"
+  ],
+  "bloco": "P1",
+  "campo": "LP-oracoes",
+  "campo_nome": "Português: orações coordenadas e subordinadas",
+  "enunciado": "Em 'Chegou, viu, venceu', as orações são coordenadas sindéticas aditivas.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478291121,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478291121
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "Sem conjunção, as coordenadas são assindéticas, não sindéticas.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
  "Q-LP-0189": {
   "acertos": 1,
   "artigos": [
@@ -38277,7 +40187,7 @@
   "ultima_correta": true
  },
  "Q-LP-0190": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Orações coordenadas"
   ],
@@ -38291,31 +40201,32 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793123491953,
+   "last": 1793475339592,
    "m": {},
-   "n": 4,
-   "ok": 0,
-   "u": 1793123491953
+   "n": 5,
+   "ok": 1,
+   "u": 1793475339592
   },
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "“Pois” explicativo é conjunção coordenativa, não subordinativa causal.",
   "relevancia": 1,
-  "respostas": 5,
+  "respostas": 6,
   "sequencia": [
    0,
    0,
    0,
    0,
-   0
+   0,
+   1
   ],
   "tipo": "confusao_instituto",
   "topico": "P1-M1-5",
   "topico_nome": "Estrutura morfossintática do período",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-LP-0191": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Orações coordenadas"
   ],
@@ -38329,24 +40240,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793126664559,
+   "last": 1793475562535,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793126664559
+   "n": 2,
+   "ok": 1,
+   "u": 1793475562535
   },
   "gabarito_item": "C",
   "materia": "Língua Portuguesa",
   "regra_correta": "“Ou... ou” liga coordenadas sindéticas alternativas.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "confusao_instituto",
   "topico": "P1-M1-5",
   "topico_nome": "Estrutura morfossintática do período",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-LP-0192": {
   "acertos": 1,
@@ -38567,18 +40479,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793117019570,
+   "last": 1793475657328,
    "m": {},
-   "n": 1,
+   "n": 2,
    "ok": 0,
-   "u": 1793117019570
+   "u": 1793475657328
   },
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "A oração é sujeito de “é necessário”: subjetiva, não objetiva direta.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   0,
    0
   ],
   "tipo": "confusao_instituto",
@@ -38688,6 +40601,78 @@
   "topico_nome": "Estrutura morfossintática do período",
   "ultima_correta": true
  },
+ "Q-LP-0202": {
+  "acertos": 0,
+  "artigos": [
+   "Orações subordinadas substantivas"
+  ],
+  "atomos": [
+   "A-LP-0017"
+  ],
+  "bloco": "P1",
+  "campo": "LP-oracoes",
+  "campo_nome": "Português: orações coordenadas e subordinadas",
+  "enunciado": "Em 'Tenho medo de que o prazo se esgote', a oração subordinada é substantiva objetiva indireta.",
+  "estado": {
+   "box": 0,
+   "cz": {
+    "nao": 1
+   },
+   "due": 0,
+   "last": 1793477014036,
+   "last_cz": "nao",
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793477465843
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "Completa um nome (medo), não um verbo; é completiva nominal.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": false
+ },
+ "Q-LP-0203": {
+  "acertos": 1,
+  "artigos": [
+   "Orações subordinadas substantivas"
+  ],
+  "atomos": [
+   "A-LP-0017"
+  ],
+  "bloco": "P1",
+  "campo": "LP-oracoes",
+  "campo_nome": "Português: orações coordenadas e subordinadas",
+  "enunciado": "Em 'O problema é que faltam recursos', a oração subordinada é substantiva predicativa.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793481016202,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793481016202
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "Após o verbo de ligação “é”, a oração é predicativa do sujeito.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
  "Q-LP-0204": {
   "acertos": 1,
   "artigos": [
@@ -38737,18 +40722,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793121616043,
+   "last": 1793475730138,
    "m": {},
-   "n": 1,
+   "n": 2,
    "ok": 0,
-   "u": 1793121616043
+   "u": 1793475730138
   },
   "gabarito_item": "C",
   "materia": "Língua Portuguesa",
   "regra_correta": "“Perguntei se...” completa o verbo: objetiva direta, “se” integrante.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   0,
    0
   ],
   "tipo": "confusao_instituto",
@@ -38960,6 +40946,40 @@
   "topico_nome": "Estrutura morfossintática do período",
   "ultima_correta": true
  },
+ "Q-LP-0218": {
+  "acertos": 0,
+  "artigos": [
+   "Adjetivas e orações reduzidas"
+  ],
+  "atomos": [
+   "A-LP-0018"
+  ],
+  "bloco": "P1",
+  "campo": "LP-oracoes",
+  "campo_nome": "Português: orações coordenadas e subordinadas",
+  "enunciado": "Em 'Sendo o prazo curto, o órgão pediu prorrogação', a oração reduzida de gerúndio pode ser reescrita como 'Embora o prazo fosse curto'.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478166129,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793478166129
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "A reduzida de gerúndio é causal, não concessiva.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": false
+ },
  "Q-LP-0219": {
   "acertos": 1,
   "artigos": [
@@ -39131,7 +41151,7 @@
   "ultima_correta": true
  },
  "Q-LP-0226": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Equivalência entre orações adverbiais"
   ],
@@ -39145,18 +41165,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793211695615,
+   "last": 1793450701906,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1793211695615
+   "n": 2,
+   "ok": 2,
+   "u": 1793450701906
   },
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "“Porque” é causal; a troca por “ainda que” (concessiva) muda o sentido.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "reescrita",
@@ -39575,7 +41596,7 @@
   "ultima_correta": true
  },
  "Q-LP-0296": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Inferência × extrapolação"
   ],
@@ -39589,18 +41610,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792256944418,
+   "last": 1793478264105,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1792256944418
+   "n": 2,
+   "ok": 2,
+   "u": 1793478264105
   },
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "Adiada até a conclusão do estudo; não se infere cancelamento.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "generalizacao",
@@ -39881,7 +41903,7 @@
   "ultima_correta": true
  },
  "Q-LP-0376": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Armadilhas: ressalvas, quantificadores e comparações"
   ],
@@ -39895,18 +41917,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792176354319,
+   "last": 1793478734777,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1792176354319
+   "n": 2,
+   "ok": 2,
+   "u": 1793478734777
   },
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "“Alguns aderiram” não permite concluir que ninguém deixou de aderir.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "generalizacao",
@@ -40108,6 +42131,40 @@
   "gabarito_item": "C",
   "materia": "Língua Portuguesa",
   "regra_correta": "Desobedecer é transitivo indireto: “a”.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "norma_culta",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
+ "Q-LP-0397": {
+  "acertos": 1,
+  "artigos": [
+   "Regência verbal: verbos mais cobrados"
+  ],
+  "atomos": [
+   "A-LP-0030"
+  ],
+  "bloco": "P1",
+  "campo": "LP-regencia",
+  "campo_nome": "Português: regência",
+  "enunciado": "O verbo 'informar' admite as construções 'informar algo a alguém' e 'informar alguém de algo'.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449412997,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449412997
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "Informar admite “algo a alguém” e “alguém de algo”.",
   "relevancia": 2,
   "respostas": 1,
   "sequencia": [
@@ -40405,24 +42462,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792177194828,
+   "last": 1793450094128,
    "m": {},
-   "n": 1,
+   "n": 2,
    "ok": 1,
-   "u": 1792177194828
+   "u": 1793450094128
   },
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "Sem artigo antes de “reuniões”, não há crase.",
   "relevancia": 2,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   1
+   1,
+   0
   ],
   "tipo": "norma_culta",
   "topico": "P1-M1-5",
   "topico_nome": "Estrutura morfossintática do período",
-  "ultima_correta": true
+  "ultima_correta": false
  },
  "Q-LP-0427": {
   "acertos": 1,
@@ -40458,6 +42516,40 @@
   "topico_nome": "Estrutura morfossintática do período",
   "ultima_correta": true
  },
+ "Q-LP-0428": {
+  "acertos": 1,
+  "artigos": [
+   "Crase: casos obrigatórios, facultativos e especiais"
+  ],
+  "atomos": [
+   "A-LP-0033"
+  ],
+  "bloco": "P1",
+  "campo": "LP-crase",
+  "campo_nome": "Português: crase",
+  "enunciado": "Em 'A reunião começa às nove horas', a crase é facultativa.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450869895,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450869895
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "Com hora determinada, a crase é obrigatória, não facultativa.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "norma_culta",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
  "Q-LP-0430": {
   "acertos": 1,
   "artigos": [
@@ -40482,6 +42574,74 @@
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "Nas locuções adverbiais femininas, a crase é obrigatória.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "norma_culta",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
+ "Q-LP-0431": {
+  "acertos": 1,
+  "artigos": [
+   "Crase: casos obrigatórios, facultativos e especiais"
+  ],
+  "atomos": [
+   "A-LP-0033"
+  ],
+  "bloco": "P1",
+  "campo": "LP-crase",
+  "campo_nome": "Português: crase",
+  "enunciado": "Em 'A empresa a que me refiro', não há crase.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450913022,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450913022
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "“A que” é preposição + relativo; não há crase.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "norma_culta",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
+ "Q-LP-0432": {
+  "acertos": 1,
+  "artigos": [
+   "Crase: casos obrigatórios, facultativos e especiais"
+  ],
+  "atomos": [
+   "A-LP-0033"
+  ],
+  "bloco": "P1",
+  "campo": "LP-crase",
+  "campo_nome": "Português: crase",
+  "enunciado": "Em 'A empresa à que me refiro', a crase é exigida.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450898311,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450898311
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "Antes de “que” não há crase.",
   "relevancia": 2,
   "respostas": 1,
   "sequencia": [
@@ -40618,6 +42778,40 @@
   "gabarito_item": "C",
   "materia": "Língua Portuguesa",
   "regra_correta": "“Eu” é sujeito de “ler”: “para eu ler”.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "norma_culta",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
+ "Q-LP-0442": {
+  "acertos": 1,
+  "artigos": [
+   "Pronomes pessoais e de tratamento"
+  ],
+  "atomos": [
+   "A-LP-0034"
+  ],
+  "bloco": "P1",
+  "campo": "LP-pronomes",
+  "campo_nome": "Português: pronomes e colocação pronominal",
+  "enunciado": "A frase 'Ele trouxe o texto para mim ler' atende à norma-padrão. Isso é consenso.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451284717,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451284717
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "“Mim” não é sujeito; o certo é “para eu ler”.",
   "relevancia": 2,
   "respostas": 1,
   "sequencia": [
@@ -40798,6 +42992,74 @@
   "topico_nome": "Estrutura morfossintática do período",
   "ultima_correta": true
  },
+ "Q-LP-0473": {
+  "acertos": 1,
+  "artigos": [
+   "Palavras que variam ou não; porque; mal/mau"
+  ],
+  "atomos": [
+   "A-LP-0036"
+  ],
+  "bloco": "P1",
+  "campo": "LP-classes",
+  "campo_nome": "Português: classes de palavras",
+  "enunciado": "'Aonde' indica movimento, como em 'Aonde vamos?'.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449175125,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449175125
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "“Aonde” indica movimento (ir a).",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "norma_culta",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
+ "Q-LP-0474": {
+  "acertos": 1,
+  "artigos": [
+   "Palavras que variam ou não; porque; mal/mau"
+  ],
+  "atomos": [
+   "A-LP-0036"
+  ],
+  "bloco": "P1",
+  "campo": "LP-classes",
+  "campo_nome": "Português: classes de palavras",
+  "enunciado": "'Aonde' indica lugar em que se está, como em 'Aonde ele mora?'.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449454798,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449454798
+  },
+  "gabarito_item": "E",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "“Morar” indica lugar fixo: “Onde ele mora?”.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "norma_culta",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
  "Q-LP-0476": {
   "acertos": 1,
   "artigos": [
@@ -40833,7 +43095,7 @@
   "ultima_correta": true
  },
  "Q-LP-0486": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Verbos: futuro do subjuntivo, correlação e modos"
   ],
@@ -40847,24 +43109,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793127210151,
+   "last": 1793475779756,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793127210151
+   "n": 2,
+   "ok": 1,
+   "u": 1793475779756
   },
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "“Vier” é de vir; de ver seria “vir”.",
   "relevancia": 2,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "norma_culta",
   "topico": "P1-M1-4",
   "topico_nome": "Coesão textual",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-LP-0502": {
   "acertos": 1,
@@ -41275,6 +43538,40 @@
   "topico_nome": "Coesão textual",
   "ultima_correta": true
  },
+ "Q-LP-0685": {
+  "acertos": 1,
+  "artigos": [
+   "Orações coordenadas"
+  ],
+  "atomos": [
+   "A-LP-0016"
+  ],
+  "bloco": "P1",
+  "campo": "LP-oracoes",
+  "campo_nome": "Português: orações coordenadas e subordinadas",
+  "enunciado": "Em 'Estude, que o concurso se aproxima', a oração iniciada por 'que' é coordenada sindética explicativa.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793477559567,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793477559567
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "“Que” = “pois”: coordenada sindética explicativa.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": true
+ },
  "Q-LP-0686": {
   "acertos": 1,
   "artigos": [
@@ -41342,6 +43639,40 @@
   "topico": "P1-M1-5",
   "topico_nome": "Estrutura morfossintática do período",
   "ultima_correta": true
+ },
+ "Q-LP-0689": {
+  "acertos": 0,
+  "artigos": [
+   "Orações coordenadas"
+  ],
+  "atomos": [
+   "A-LP-0016"
+  ],
+  "bloco": "P1",
+  "campo": "LP-oracoes",
+  "campo_nome": "Português: orações coordenadas e subordinadas",
+  "enunciado": "Em 'Era tarde; portanto, encerrou-se a sessão', a segunda oração é coordenada conclusiva.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478337890,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793478337890
+  },
+  "gabarito_item": "C",
+  "materia": "Língua Portuguesa",
+  "regra_correta": "“Portanto” introduz oração coordenada **conclusiva**.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P1-M1-5",
+  "topico_nome": "Estrutura morfossintática do período",
+  "ultima_correta": false
  },
  "Q-LP-0695": {
   "acertos": 1,
@@ -42482,18 +44813,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793117139855,
+   "last": 1793475822717,
    "m": {},
-   "n": 1,
+   "n": 2,
    "ok": 0,
-   "u": 1793117139855
+   "u": 1793475822717
   },
   "gabarito_item": "C",
   "materia": "Língua Portuguesa",
   "regra_correta": "“É meio-dia e meia” (meia = meia hora) está correto.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   0,
    0
   ],
   "tipo": "norma_culta",
@@ -43293,6 +45625,40 @@
   "topico_nome": "Matérias legislativas: PL, PLP, delegada, MPV, PDL, PRC e PEC",
   "ultima_correta": true
  },
+ "Q-M8-i034": {
+  "acertos": 0,
+  "artigos": [
+   "RICD art. 202"
+  ],
+  "atomos": [
+   "A-RICD-0202"
+  ],
+  "bloco": "P2",
+  "campo": null,
+  "campo_nome": null,
+  "enunciado": "A proposta de emenda à Constituição será aprovada na Câmara se obtiver, em dois turnos, o voto da maioria absoluta dos membros, em votação nominal.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450638105,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793450638105
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 202, § 7º: a PEC é aprovada com TRÊS QUINTOS dos votos em ambos os turnos, em votação nominal, e não por maioria absoluta.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "quorum",
+  "topico": "P2-M8-1.3",
+  "topico_nome": "Matérias legislativas: PL, PLP, delegada, MPV, PDL, PRC e PEC",
+  "ultima_correta": false
+ },
  "Q-M8-i035": {
   "acertos": 1,
   "artigos": [
@@ -43326,6 +45692,74 @@
   "topico": "P2-M8-1.3",
   "topico_nome": "Matérias legislativas: PL, PLP, delegada, MPV, PDL, PRC e PEC",
   "ultima_correta": true
+ },
+ "Q-M8-i036": {
+  "acertos": 0,
+  "artigos": [
+   "RICD art. 202"
+  ],
+  "atomos": [
+   "A-RICD-0202"
+  ],
+  "bloco": "P2",
+  "campo": null,
+  "campo_nome": null,
+  "enunciado": "Entre os dois turnos de discussão e votação da proposta de emenda à Constituição haverá interstício de dez sessões.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450924305,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793450924305
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 202, § 6º: o interstício entre os dois turnos da PEC é de CINCO sessões, e não dez.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "prazo",
+  "topico": "P2-M8-1.3",
+  "topico_nome": "Matérias legislativas: PL, PLP, delegada, MPV, PDL, PRC e PEC",
+  "ultima_correta": false
+ },
+ "Q-M8-i037": {
+  "acertos": 0,
+  "artigos": [
+   "RICD art. 202"
+  ],
+  "atomos": [
+   "A-RICD-0202"
+  ],
+  "bloco": "P2",
+  "campo": null,
+  "campo_nome": null,
+  "enunciado": "As emendas à proposta de emenda à Constituição podem ser apresentadas diretamente em Plenário, desde que subscritas por um terço dos Deputados.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451331380,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793451331380
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 202, § 3º: as emendas à PEC só podem ser apresentadas perante a COMISSÃO ESPECIAL, nas primeiras dez sessões, e não direto em Plenário.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "competencia",
+  "topico": "P2-M8-1.3",
+  "topico_nome": "Matérias legislativas: PL, PLP, delegada, MPV, PDL, PRC e PEC",
+  "ultima_correta": false
  },
  "Q-M8-i038": {
   "acertos": 2,
@@ -43562,6 +45996,74 @@
   "topico": "P2-M8-1.3",
   "topico_nome": "Matérias legislativas: PL, PLP, delegada, MPV, PDL, PRC e PEC",
   "ultima_correta": true
+ },
+ "Q-M8-i047": {
+  "acertos": 1,
+  "artigos": [
+   "RICD art. 113"
+  ],
+  "atomos": [
+   "A-RICD-0113"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "Indicação é a proposição pela qual o Deputado sugere a outro Poder a adoção de providência ou o envio de projeto sobre matéria de iniciativa exclusiva deste.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793477797607,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793477797607
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 113: **indicação** sugere a **outro Poder** providência ou projeto sobre matéria de **iniciativa exclusiva deste**",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "tipo",
+  "topico": "P2-M8-1.4",
+  "topico_nome": "Indicações, pareceres, requerimentos e vetos",
+  "ultima_correta": true
+ },
+ "Q-M8-i049": {
+  "acertos": 0,
+  "artigos": [
+   "RICD art. 113"
+  ],
+  "atomos": [
+   "A-RICD-0113"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "São aceitas, como indicação, proposições que objetivem consulta a Comissão sobre interpretação e aplicação de lei.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476454707,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793476454707
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 113, § 2º, V, a: NÃO são aceitas proposições que objetivem consulta a Comissão sobre interpretação e aplicação de lei.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "podedeve",
+  "topico": "P2-M8-1.4",
+  "topico_nome": "Indicações, pareceres, requerimentos e vetos",
+  "ultima_correta": false
  },
  "Q-M8-i050": {
   "acertos": 1,
@@ -43831,6 +46333,40 @@
   "topico": "P2-M8-1.5",
   "topico_nome": "Iniciativa legislativa",
   "ultima_correta": true
+ },
+ "Q-M8-i062": {
+  "acertos": 0,
+  "artigos": [
+   "RICD art. 201"
+  ],
+  "atomos": [
+   "A-RICD-0201"
+  ],
+  "bloco": "P2",
+  "campo": null,
+  "campo_nome": null,
+  "enunciado": "A proposta de emenda à Constituição pode ser apresentada pela terça parte, no mínimo, dos Deputados, pelo Senado, pelo Presidente da República ou por mais da metade das Assembleias Legislativas.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451634249,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793451634249
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 201: PEC por **1/3 dos Deputados**, pelo **Senado**, pelo **Presidente da República** ou por **mais da metade das Assembleias Legislativas**",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "iniciativa",
+  "topico": "P2-M8-1.5",
+  "topico_nome": "Iniciativa legislativa",
+  "ultima_correta": false
  },
  "Q-M8-i063": {
   "acertos": 2,
@@ -45627,6 +48163,74 @@
   "topico_nome": "RC arts. 9–21",
   "ultima_correta": true
  },
+ "Q-M8-i163": {
+  "acertos": 0,
+  "artigos": [
+   "Regimento Comum art. 14"
+  ],
+  "atomos": [
+   "A-RC-0014"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "Na Comissão Mista, o Presidente da Comissão vota sempre e, em caso de empate, prevalece o voto do Relator.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476540912,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793476540912
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Regimento Comum, art. 14: o Presidente da Comissão Mista tem SOMENTE voto de desempate; o Relator não desempata.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "quorum",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": false
+ },
+ "Q-M8-i164": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 13"
+  ],
+  "atomos": [
+   "A-RC-0013"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "Na discussão do parecer da Comissão Mista, cada membro poderá falar por até quinze minutos, uma única vez, e o Relator, em último lugar, por trinta minutos.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451107389,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451107389
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RC, art. 13: parecer da Comissão Mista: cada membro fala **15 minutos, uma vez**; o **Relator**, **por último**, **30 minutos**",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "prazo",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": true
+ },
  "Q-M8-i165": {
   "acertos": 1,
   "artigos": [
@@ -45980,6 +48584,74 @@
   "topico_nome": "RC arts. 53–71",
   "ultima_correta": true
  },
+ "Q-N01-008": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 63"
+  ],
+  "atomos": [
+   "A-CF-0063"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop2",
+  "campo_nome": "RICD: proposições, apresentação e arquivamento (arts. 100 a 112)",
+  "enunciado": "Não se admite aumento de despesa em projeto de iniciativa exclusiva do Presidente da República, ressalvadas as emendas ao orçamento do art. 166, §§ 3º e 4º.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476324701,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476324701
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Veda-se aumento de despesa nesses projetos, com a ressalva do art. 166, §§ 3º e 4º.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "iniciativa",
+  "topico": "P2-M8-1.5",
+  "topico_nome": "Iniciativa legislativa",
+  "ultima_correta": true
+ },
+ "Q-N01-009": {
+  "acertos": 0,
+  "artigos": [
+   "CF art. 63"
+  ],
+  "atomos": [
+   "A-CF-0063"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop2",
+  "campo_nome": "RICD: proposições, apresentação e arquivamento (arts. 100 a 112)",
+  "enunciado": "É vedado aumento de despesa nos projetos sobre organização dos serviços administrativos dos tribunais federais, mas não nos da Câmara dos Deputados.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476941801,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793476941801
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "A vedação alcança também os serviços administrativos da Câmara e do Senado.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "iniciativa",
+  "topico": "P2-M8-1.5",
+  "topico_nome": "Iniciativa legislativa",
+  "ultima_correta": false
+ },
  "Q-N01-010": {
   "acertos": 1,
   "artigos": [
@@ -46287,7 +48959,7 @@
   "ultima_correta": false
  },
  "Q-N01-019": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "CF art. 67"
   ],
@@ -46301,24 +48973,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793116313923,
+   "last": 1793478689690,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793116313923
+   "n": 2,
+   "ok": 1,
+   "u": 1793478689690
   },
   "gabarito_item": "C",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "Art. 67 prevê a reapresentação com proposta da maioria absoluta.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "tramitacao",
   "topico": "P2-M8-1.2",
   "topico_nome": "Comissões, pareceres, deliberação, votação, sanção e veto",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-N01-020": {
   "acertos": 1,
@@ -46352,6 +49025,210 @@
   "tipo": "tramitacao",
   "topico": "P2-M8-1.2",
   "topico_nome": "Comissões, pareceres, deliberação, votação, sanção e veto",
+  "ultima_correta": true
+ },
+ "Q-N01-021": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 66"
+  ],
+  "atomos": [
+   "A-CF-0066"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "O Presidente da República dispõe de quinze dias úteis, contados do recebimento, para vetar o projeto.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480189529,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480189529
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Art. 66, §1º: quinze dias úteis do recebimento.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "veto",
+  "topico": "P2-M8-1.4",
+  "topico_nome": "Indicações, pareceres, requerimentos e vetos",
+  "ultima_correta": true
+ },
+ "Q-N01-023": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 66"
+  ],
+  "atomos": [
+   "A-CF-0066"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "O silêncio do Presidente da República, decorrido o prazo de quinze dias, importa sanção.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475647741,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475647741
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Sanção tácita: art. 66, §3º.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "veto",
+  "topico": "P2-M8-1.4",
+  "topico_nome": "Indicações, pareceres, requerimentos e vetos",
+  "ultima_correta": true
+ },
+ "Q-N01-024": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 66"
+  ],
+  "atomos": [
+   "A-CF-0066"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "O silêncio do Presidente da República, passado o prazo, equivale a veto tácito.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476645962,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476645962
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "O silêncio importa sanção, não veto.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "veto",
+  "topico": "P2-M8-1.4",
+  "topico_nome": "Indicações, pareceres, requerimentos e vetos",
+  "ultima_correta": true
+ },
+ "Q-N01-025": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 66"
+  ],
+  "atomos": [
+   "A-CF-0066"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "Os motivos do veto devem ser comunicados ao Presidente do Senado Federal dentro de quarenta e oito horas.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480762882,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480762882
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Art. 66, §1º: comunicação em 48h ao Presidente do Senado.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "veto",
+  "topico": "P2-M8-1.4",
+  "topico_nome": "Indicações, pareceres, requerimentos e vetos",
+  "ultima_correta": true
+ },
+ "Q-N01-026": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 66"
+  ],
+  "atomos": [
+   "A-CF-0066"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "O veto parcial pode abranger palavra ou expressão isolada do dispositivo.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480869296,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480869296
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Só abrange texto integral de artigo, parágrafo, inciso ou alínea.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "veto",
+  "topico": "P2-M8-1.4",
+  "topico_nome": "Indicações, pareceres, requerimentos e vetos",
+  "ultima_correta": true
+ },
+ "Q-N01-032": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 66"
+  ],
+  "atomos": [
+   "A-CF-0066"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "Se o Presidente da República não promulgar a lei em quarenta e oito horas, o Presidente da Câmara dos Deputados a promulgará.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451431646,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451431646
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Quem promulga é o Presidente do Senado e, depois, o Vice-Presidente do Senado.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "veto",
+  "topico": "P2-M8-1.4",
+  "topico_nome": "Indicações, pareceres, requerimentos e vetos",
   "ultima_correta": true
  },
  "Q-N01-034": {
@@ -46506,18 +49383,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793116262665,
+   "last": 1793478749057,
    "m": {},
-   "n": 1,
+   "n": 2,
    "ok": 0,
-   "u": 1793116262665
+   "u": 1793478749057
   },
   "gabarito_item": "C",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "Art. 68, §3º: delegação típica com apreciação.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   0,
    0
   ],
   "tipo": "tipo",
@@ -46799,7 +49677,7 @@
   "ultima_correta": true
  },
  "Q-N01-047": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "CF art. 62"
   ],
@@ -46813,24 +49691,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124196736,
+   "last": 1793479662477,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793124196736
+   "n": 2,
+   "ok": 1,
+   "u": 1793479662477
   },
   "gabarito_item": "E",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "Entra em urgência subsequentemente em cada Casa, trancando a pauta da Casa em que estiver.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "mpv",
   "topico": "P2-M8-1.3",
   "topico_nome": "Matérias legislativas: PL, PLP, delegada, MPV, PDL, PRC e PEC",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-N01-048": {
   "acertos": 1,
@@ -47071,7 +49950,7 @@
   "ultima_correta": true
  },
  "Q-N01-055": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "CF art. 60"
   ],
@@ -47085,24 +49964,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793122218796,
+   "last": 1793479780382,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793122218796
+   "n": 2,
+   "ok": 1,
+   "u": 1793479780382
   },
   "gabarito_item": "E",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "É um terço, no mínimo.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "pec",
   "topico": "P2-M8-1.3",
   "topico_nome": "Matérias legislativas: PL, PLP, delegada, MPV, PDL, PRC e PEC",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-N01-056": {
   "acertos": 1,
@@ -47204,6 +50084,74 @@
   "tipo": "pec",
   "topico": "P2-M8-1.3",
   "topico_nome": "Matérias legislativas: PL, PLP, delegada, MPV, PDL, PRC e PEC",
+  "ultima_correta": true
+ },
+ "Q-N02-004": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 15"
+  ],
+  "atomos": [
+   "A-RC-0015"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "O parecer da Comissão consignará, sempre que possível, o voto dos membros em separado, vencido, com restrições ou pelas conclusões.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476213918,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476213918
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RC, art. 15: parecer registra, sempre que possível, votos **em separado, vencido, com restrições** ou **pelas conclusões**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "parecer",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": true
+ },
+ "Q-N02-005": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 15"
+  ],
+  "atomos": [
+   "A-RC-0015"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "Os votos com restrições são considerados contrários ao parecer da Comissão.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451597738,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451597738
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "São considerados favoráveis os votos pelas conclusões e com restrições.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "parecer",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
   "ultima_correta": true
  },
  "Q-N02-006": {
@@ -49229,7 +52177,7 @@
   "ultima_correta": true
  },
  "Q-N03-032": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Hífen após prefixo (Acordo Ortográfico)"
   ],
@@ -49243,26 +52191,27 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793113394154,
+   "last": 1793479834600,
    "m": {},
-   "n": 2,
-   "ok": 0,
-   "u": 1793113394154
+   "n": 3,
+   "ok": 1,
+   "u": 1793479834600
   },
   "gabarito_item": "E",
   "materia": "Língua Portuguesa",
   "regra_correta": "Vogais **diferentes**: escreve-se **junto** (autoescola, extraoficial). Hífen só com vogal igual.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
    0,
-   0
+   0,
+   1
   ],
   "tipo": "hifen",
   "topico": "P1-M1-3",
   "topico_nome": "Ortografia",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-N03-033": {
   "acertos": 1,
@@ -49434,6 +52383,40 @@
   "topico_nome": "Sistemas eleitorais",
   "ultima_correta": true
  },
+ "Q-N04-009": {
+  "acertos": 1,
+  "artigos": [
+   "Cálculo da representação proporcional (Código Eleitoral, arts. 106 a 109)"
+  ],
+  "atomos": [
+   "A-N4-ELE2"
+  ],
+  "bloco": "P2",
+  "campo": "POL-eleitoral",
+  "campo_nome": "Ciência Política: sistemas eleitorais e partidos",
+  "enunciado": "As sobras são distribuídas pelo método do maior quociente, sem relação com médias.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478143838,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478143838
+  },
+  "gabarito_item": "E",
+  "materia": "Ciência Política",
+  "regra_correta": "As sobras seguem o método das maiores médias (D'Hondt).",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "eleitoral",
+  "topico": "P2-M9-5",
+  "topico_nome": "Sistemas eleitorais",
+  "ultima_correta": true
+ },
  "Q-N04-015": {
   "acertos": 1,
   "artigos": [
@@ -49469,7 +52452,7 @@
   "ultima_correta": true
  },
  "Q-N04-017": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Voto e elegibilidade (CF, arts. 14 e 77)"
   ],
@@ -49483,19 +52466,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792592458632,
+   "last": 1793479967475,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792592458632
+   "n": 4,
+   "ok": 3,
+   "u": 1793479967475
   },
   "gabarito_item": "E",
   "materia": "Ciência Política",
   "regra_correta": "Governador: 30 anos; 35 é para Presidente e Senador.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -49812,7 +52796,7 @@
   "ultima_correta": false
  },
  "Q-N04-029": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Sistemas e formas de governo"
   ],
@@ -49826,24 +52810,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124437468,
+   "last": 1793480066822,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793124437468
+   "n": 2,
+   "ok": 1,
+   "u": 1793480066822
   },
   "gabarito_item": "E",
   "materia": "Ciência Política",
   "regra_correta": "São formas de governo; federação e unitário são formas de Estado.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "governo",
   "topico": "P2-M9-2",
   "topico_nome": "Sistemas e formas de governo",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-N04-030": {
   "acertos": 1,
@@ -50390,6 +53375,40 @@
   "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
   "ultima_correta": true
  },
+ "Q-N05-052": {
+  "acertos": 1,
+  "artigos": [
+   "CF art. 5, LXXIII"
+  ],
+  "atomos": [
+   "A-CF-0005.LXXIII"
+  ],
+  "bloco": "P1",
+  "campo": "CF-art7",
+  "campo_nome": "Direitos dos trabalhadores (art. 7º)",
+  "enunciado": "Qualquer cidadão é parte legítima para propor ação popular que vise anular ato lesivo à moralidade administrativa.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476620012,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476620012
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Autor isento de custas, salvo má-fé.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "dir5",
+  "topico": "P1-M4-2",
+  "topico_nome": "Princípios fundamentais e direitos e garantias fundamentais",
+  "ultima_correta": true
+ },
  "Q-N05-054": {
   "acertos": 1,
   "artigos": [
@@ -50448,6 +53467,40 @@
   "gabarito_item": "C",
   "materia": "Reconhecimento de Fala, Transcrição e IA",
   "regra_correta": "Três componentes unidos na decodificação.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "asr",
+  "topico": "P2-M7-1.1",
+  "topico_nome": "Como o ASR funciona: o pipeline híbrido clássico",
+  "ultima_correta": true
+ },
+ "Q-N06-004": {
+  "acertos": 1,
+  "artigos": [
+   "ASR: pipeline híbrido e métricas"
+  ],
+  "atomos": [
+   "A-N6-ASR1"
+  ],
+  "bloco": "P2",
+  "campo": "FIA-asr",
+  "campo_nome": "Fala e IA: reconhecimento automático de fala",
+  "enunciado": "Um WER baixo garante que o sentido do texto foi plenamente preservado.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449404242,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449404242
+  },
+  "gabarito_item": "E",
+  "materia": "Reconhecimento de Fala, Transcrição e IA",
+  "regra_correta": "O WER não mede, sozinho, o sentido preservado.",
   "relevancia": 1,
   "respostas": 1,
   "sequencia": [
@@ -50866,6 +53919,40 @@
   "topico_nome": "Desafios do ASR em português brasileiro",
   "ultima_correta": true
  },
+ "Q-N06-024": {
+  "acertos": 1,
+  "artigos": [
+   "Desafios do ASR em português brasileiro"
+  ],
+  "atomos": [
+   "A-N6-PTBR"
+  ],
+  "bloco": "P2",
+  "campo": "FIA-asr",
+  "campo_nome": "Fala e IA: reconhecimento automático de fala",
+  "enunciado": "A variação regional do português não influencia o desempenho do reconhecimento de fala.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476330890,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476330890
+  },
+  "gabarito_item": "E",
+  "materia": "Reconhecimento de Fala, Transcrição e IA",
+  "regra_correta": "**Variação regional** do português **é um dos desafios** e influencia o desempenho do ASR",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "asr",
+  "topico": "P2-M7-1.6",
+  "topico_nome": "Desafios do ASR em português brasileiro",
+  "ultima_correta": true
+ },
  "Q-N06-030": {
   "acertos": 1,
   "artigos": [
@@ -51153,18 +54240,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124281411,
+   "last": 1793480177744,
    "m": {},
-   "n": 1,
+   "n": 2,
    "ok": 0,
-   "u": 1793124281411
+   "u": 1793480177744
   },
   "gabarito_item": "E",
   "materia": "Tecnologia da Informação e Dados",
   "regra_correta": "F4 alterna os tipos de referência.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   0,
    0
   ],
   "tipo": "excel",
@@ -51255,29 +54343,30 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792592949145,
+   "last": 1793480336399,
    "m": {},
-   "n": 3,
+   "n": 4,
    "ok": 2,
-   "u": 1792592949145
+   "u": 1793480336399
   },
   "gabarito_item": "C",
   "materia": "Tecnologia da Informação e Dados",
   "regra_correta": "**PROCV**: último argumento **FALSO (ou 0)** = **correspondência exata**; **VERDADEIRO** = aproximada",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
    1,
-   1
+   1,
+   0
   ],
   "tipo": "excel",
   "topico": "P1-M5-1",
   "topico_nome": "MS Office 365",
-  "ultima_correta": true
+  "ultima_correta": false
  },
  "Q-N07-010": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Excel: PROCV e PROCX"
   ],
@@ -51291,24 +54380,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793126747544,
+   "last": 1793480457141,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793126747544
+   "n": 2,
+   "ok": 1,
+   "u": 1793480457141
   },
   "gabarito_item": "E",
   "materia": "Tecnologia da Informação e Dados",
   "regra_correta": "**PROCV** com correspondência **aproximada** exige a primeira coluna em **ordem crescente**",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "excel",
   "topico": "P1-M5-1",
   "topico_nome": "MS Office 365",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-N07-011": {
   "acertos": 0,
@@ -51517,7 +54607,7 @@
   "ultima_correta": true
  },
  "Q-N07-024": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "IDS, IPS, firewall, DDoS e Zero Trust"
   ],
@@ -51531,27 +54621,28 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793114458599,
+   "last": 1793480595878,
    "m": {},
-   "n": 4,
-   "ok": 1,
-   "u": 1793114458599
+   "n": 5,
+   "ok": 2,
+   "u": 1793480595878
   },
   "gabarito_item": "E",
   "materia": "Tecnologia da Informação e Dados",
   "regra_correta": "**DDoS** visa à **indisponibilidade** do serviço, **não** à captura de senhas",
   "relevancia": 1,
-  "respostas": 4,
+  "respostas": 5,
   "sequencia": [
    0,
    1,
    0,
-   0
+   0,
+   1
   ],
   "tipo": "seguranca",
   "topico": "P1-M5-4",
   "topico_nome": "Segurança e governança digital",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-N07-031": {
   "acertos": 1,
@@ -51885,6 +54976,40 @@
   "gabarito_item": "C",
   "materia": "Noções de Direito Administrativo e Administração Pública",
   "regra_correta": "CF, art. 37, XIX: lei complementar define as áreas de atuação das fundações.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "excecao_omitida",
+  "topico": "P1-M3-1",
+  "topico_nome": "Estado, governo e Administração Pública",
+  "ultima_correta": true
+ },
+ "Q-ORG-0041": {
+  "acertos": 1,
+  "artigos": [
+   "Terceiro setor: organizações sociais, OSCIP e organizações da sociedade civil"
+  ],
+  "atomos": [
+   "A-ORG-0007"
+  ],
+  "bloco": "P1",
+  "campo": "ORG-colab",
+  "campo_nome": "Organização administrativa: terceiro setor, órgãos e controle",
+  "enunciado": "Segundo o STF, é constitucional a dispensa de licitação para a celebração do contrato de gestão com organizações sociais, desde que o procedimento de qualificação e de celebração observe critérios objetivos e impessoais, de acordo com os princípios do art. 37 da Constituição.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793479525504,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793479525504
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Administrativo e Administração Pública",
+  "regra_correta": "STF (ADI 1923): é constitucional dispensar licitação para o contrato de gestão, com critérios objetivos e impessoais.",
   "relevancia": 1,
   "respostas": 1,
   "sequencia": [
@@ -52654,7 +55779,7 @@
   "ultima_correta": true
  },
  "Q-P1N-0027": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "RICD art. 9"
   ],
@@ -52668,19 +55793,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792704368880,
+   "last": 1793480739721,
    "m": {},
-   "n": 2,
-   "ok": 1,
-   "u": 1792704368880
+   "n": 3,
+   "ok": 2,
+   "u": 1793480739721
   },
   "gabarito_item": "C",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "RICD, art. 9º, §1º: Líder indica Vice-Líderes na proporção de **1 por 4 Deputados**, ou fração, de sua representação",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -52758,7 +55884,7 @@
   "ultima_correta": true
  },
  "Q-P1N-0030": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "RICD art. 10"
   ],
@@ -52772,19 +55898,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792704407072,
+   "last": 1793480827821,
    "m": {},
-   "n": 2,
-   "ok": 1,
-   "u": 1792704407072
+   "n": 3,
+   "ok": 2,
+   "u": 1793480827821
   },
   "gabarito_item": "C",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "RICD, art. 10, IV: Líder encaminha a votação de proposição do Plenário por **até 1 minuto**",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -53417,7 +56544,7 @@
   "ultima_correta": true
  },
  "Q-P1N-0059": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "RICD art. 20"
   ],
@@ -53431,26 +56558,27 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793236416291,
+   "last": 1793480901945,
    "m": {},
-   "n": 3,
-   "ok": 1,
-   "u": 1793236416291
+   "n": 4,
+   "ok": 2,
+   "u": 1793480901945
   },
   "gabarito_item": "E",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "Art. 20, § 1º: voz, mas não voto (assim como os Líderes de Partidos que participem de Bloco).",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
    1,
-   0
+   0,
+   1
   ],
   "tipo": "podedeve",
   "topico": "P1-M4-7.1",
   "topico_nome": "RICD: disposições preliminares e órgãos (arts. 1º a 24)",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-P1N-0061": {
   "acertos": 1,
@@ -53983,7 +57111,7 @@
   "ultima_correta": true
  },
  "Q-P1N-0139": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "RICD art. 240",
    "Atenção: jurisprudência do STF"
@@ -53998,28 +57126,29 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793211191870,
+   "last": 1793480930219,
    "m": {},
-   "n": 4,
-   "ok": 1,
-   "u": 1793211191870
+   "n": 5,
+   "ok": 2,
+   "u": 1793480930219
   },
   "gabarito_item": "E",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "RICD, art. 240, § 1º, VI: a perda é **decidida pela Câmara**, em votação ostensiva, por **maioria absoluta**.",
   "relevancia": 1,
-  "respostas": 5,
+  "respostas": 6,
   "sequencia": [
    0,
    1,
    0,
    1,
-   0
+   0,
+   1
   ],
   "tipo": "competencia",
   "topico": "P1-M4-7.3",
   "topico_nome": "RICD: Deputados (arts. 226 a 251)",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-P1N-0140": {
   "acertos": 3,
@@ -55368,7 +58497,7 @@
   "ultima_correta": true
  },
  "Q-POL-0033": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Representação política e democracia semidireta"
   ],
@@ -55382,25 +58511,26 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793121323696,
+   "last": 1793449671344,
    "m": {},
-   "n": 2,
-   "ok": 0,
-   "u": 1793121323696
+   "n": 3,
+   "ok": 1,
+   "u": 1793449671344
   },
   "gabarito_item": "C",
   "materia": "Ciência Política",
   "regra_correta": "CF, art. 1º, parágrafo único, e art. 14: democracia semidireta com plebiscito, referendo e iniciativa popular.",
   "relevancia": 1,
-  "respostas": 2,
+  "respostas": 3,
   "sequencia": [
    0,
-   0
+   0,
+   1
   ],
   "tipo": "excecao_omitida",
   "topico": "P2-M9-3",
   "topico_nome": "Representação política",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-POL-0034": {
   "acertos": 1,
@@ -55675,7 +58805,7 @@
   "ultima_correta": true
  },
  "Q-POL-0043": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Separação dos Poderes e relações entre Executivo e Legislativo"
   ],
@@ -55689,19 +58819,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792627394988,
+   "last": 1793449881443,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792627394988
+   "n": 4,
+   "ok": 3,
+   "u": 1793449881443
   },
   "gabarito_item": "C",
   "materia": "Ciência Política",
   "regra_correta": "Limongi e Figueiredo: Executivo forte na agenda e partidos disciplinados.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -56017,7 +59148,7 @@
   "ultima_correta": true
  },
  "Q-POL-0053": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Sistemas eleitorais"
   ],
@@ -56031,19 +59162,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792627507249,
+   "last": 1793449961579,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792627507249
+   "n": 4,
+   "ok": 3,
+   "u": 1793449961579
   },
   "gabarito_item": "C",
   "materia": "Ciência Política",
   "regra_correta": "Duverger: majoritário de turno único tende ao bipartidarismo; proporcional, ao multipartidarismo.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -57997,8 +61129,110 @@
   "topico_nome": "Poderes e relações entre poderes",
   "ultima_correta": true
  },
+ "Q-POL-0197": {
+  "acertos": 1,
+  "artigos": [
+   "Políticas públicas: ciclo e modelos"
+  ],
+  "atomos": [
+   "A-POL-0030"
+  ],
+  "bloco": "P2",
+  "campo": "POL-governo",
+  "campo_nome": "Ciência Política: sistemas de governo, representação e poderes",
+  "enunciado": "Na tipologia de Lowi, as políticas públicas dividem-se em distributivas, regulatórias, redistributivas e constitutivas, e a política determina a arena política em que o processo decisório se desenvolve.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475276788,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475276788
+  },
+  "gabarito_item": "C",
+  "materia": "Ciência Política",
+  "regra_correta": "Lowi: distributivas, regulatórias, redistributivas e constitutivas; a política define a arena.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P2-M9-4",
+  "topico_nome": "Poderes e relações entre poderes",
+  "ultima_correta": true
+ },
+ "Q-POL-0199": {
+  "acertos": 1,
+  "artigos": [
+   "Políticas públicas: ciclo e modelos"
+  ],
+  "atomos": [
+   "A-POL-0030"
+  ],
+  "bloco": "P2",
+  "campo": "POL-governo",
+  "campo_nome": "Ciência Política: sistemas de governo, representação e poderes",
+  "enunciado": "No incrementalismo, de Lindblom, as decisões públicas avançam por pequenas mudanças em relação ao status quo, em razão das limitações de informação e do conflito político.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475895960,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475895960
+  },
+  "gabarito_item": "C",
+  "materia": "Ciência Política",
+  "regra_correta": "Lindblom: incrementalismo, pequenas mudanças sobre o status quo.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "excecao_omitida",
+  "topico": "P2-M9-4",
+  "topico_nome": "Poderes e relações entre poderes",
+  "ultima_correta": true
+ },
+ "Q-POL-0201": {
+  "acertos": 1,
+  "artigos": [
+   "Políticas públicas: ciclo e modelos"
+  ],
+  "atomos": [
+   "A-POL-0030"
+  ],
+  "bloco": "P2",
+  "campo": "POL-governo",
+  "campo_nome": "Ciência Política: sistemas de governo, representação e poderes",
+  "enunciado": "O ciclo das políticas públicas compreende a formação da agenda, a formulação, a tomada de decisão, a implementação e a avaliação.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480983534,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480983534
+  },
+  "gabarito_item": "C",
+  "materia": "Ciência Política",
+  "regra_correta": "Ciclo: agenda, formulação, decisão, implementação e avaliação.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P2-M9-4",
+  "topico_nome": "Poderes e relações entre poderes",
+  "ultima_correta": true
+ },
  "Q-POL-0206": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Escolha racional: Downs, Olson e Arrow"
   ],
@@ -58012,24 +61246,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793117905702,
+   "last": 1793450126544,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793117905702
+   "n": 2,
+   "ok": 1,
+   "u": 1793450126544
   },
   "gabarito_item": "E",
   "materia": "Ciência Política",
   "regra_correta": "Em Downs há convergência ao centro (eleitor mediano), não radicalização.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "confusao_instituto",
   "topico": "P2-M9-6",
   "topico_nome": "Teoria dos partidos políticos",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-POL-0214": {
   "acertos": 1,
@@ -58064,6 +61299,40 @@
   "topico": "P2-M9-6",
   "topico_nome": "Teoria dos partidos políticos",
   "ultima_correta": true
+ },
+ "Q-POL-0222": {
+  "acertos": 0,
+  "artigos": [
+   "Indicadores eleitorais e outros sistemas eleitorais"
+  ],
+  "atomos": [
+   "A-POL-0024"
+  ],
+  "bloco": "P2",
+  "campo": "POL-eleitoral",
+  "campo_nome": "Ciência Política: sistemas eleitorais e partidos",
+  "enunciado": "A volatilidade eleitoral mede a distância entre a proporção de votos e a proporção de cadeiras, e a desproporcionalidade mede a mudança agregada na votação dos partidos entre duas eleições sucessivas.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793477833689,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793477833689
+  },
+  "gabarito_item": "E",
+  "materia": "Ciência Política",
+  "regra_correta": "Trocados: volatilidade é a mudança entre eleições; desproporcionalidade, votos × cadeiras.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "excecao_omitida",
+  "topico": "P2-M9-5",
+  "topico_nome": "Sistemas eleitorais",
+  "ultima_correta": false
  },
  "Q-POL-0233": {
   "acertos": 2,
@@ -58218,18 +61487,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793126570400,
+   "last": 1793450169209,
    "m": {},
-   "n": 1,
+   "n": 2,
    "ok": 0,
-   "u": 1793126570400
+   "u": 1793450169209
   },
   "gabarito_item": "E",
   "materia": "Ciência Política",
   "regra_correta": "Linz diz o contrário: o presidencialismo é mais propenso a crises.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   0,
    0
   ],
   "tipo": "excecao_omitida",
@@ -58714,7 +61984,7 @@
   "ultima_correta": true
  },
  "Q-POL-0280": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "Estado de bem-estar e cidadania"
   ],
@@ -58728,20 +61998,21 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792627778115,
+   "last": 1793450249657,
    "m": {},
-   "n": 4,
-   "ok": 2,
-   "u": 1792627778115
+   "n": 5,
+   "ok": 3,
+   "u": 1793450249657
   },
   "gabarito_item": "E",
   "materia": "Ciência Política",
   "regra_correta": "A ordem é civis, políticos, sociais; a do item está invertida.",
   "relevancia": 1,
-  "respostas": 4,
+  "respostas": 5,
   "sequencia": [
    0,
    0,
+   1,
    1,
    1
   ],
@@ -60086,6 +63357,40 @@
   "topico_nome": "Sistemas e formas de governo",
   "ultima_correta": true
  },
+ "Q-POL-0433": {
+  "acertos": 1,
+  "artigos": [
+   "Parlamentarismo, monarquia, formas de Estado e federalismo"
+  ],
+  "atomos": [
+   "A-POL-0039"
+  ],
+  "bloco": "P2",
+  "campo": "POL-governo",
+  "campo_nome": "Ciência Política: sistemas de governo, representação e poderes",
+  "enunciado": "No parlamentarismo, o governo pode, em regra, dissolver o Parlamento e convocar novas eleições, o que funciona como contrapeso à possibilidade de o Parlamento derrubar o gabinete.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475433575,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475433575
+  },
+  "gabarito_item": "C",
+  "materia": "Ciência Política",
+  "regra_correta": "No parlamentarismo o governo pode dissolver o Parlamento, como contrapeso.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "excecao_omitida",
+  "topico": "P2-M9-2",
+  "topico_nome": "Sistemas e formas de governo",
+  "ultima_correta": true
+ },
  "Q-POL-0434": {
   "acertos": 1,
   "artigos": [
@@ -60222,8 +63527,42 @@
   "topico_nome": "Sistemas e formas de governo",
   "ultima_correta": true
  },
+ "Q-POL-0438": {
+  "acertos": 1,
+  "artigos": [
+   "Parlamentarismo, monarquia, formas de Estado e federalismo"
+  ],
+  "atomos": [
+   "A-POL-0039"
+  ],
+  "bloco": "P2",
+  "campo": "POL-governo",
+  "campo_nome": "Ciência Política: sistemas de governo, representação e poderes",
+  "enunciado": "Para Duverger, o semipresidencialismo combina presidente eleito pelo Parlamento, sem poderes relevantes, e primeiro-ministro eleito diretamente pelo povo, como na França da V República. Isso é consenso na área.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478016847,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478016847
+  },
+  "gabarito_item": "E",
+  "materia": "Ciência Política",
+  "regra_correta": "Na França o Presidente é eleito pelo povo e tem poderes; o Primeiro-Ministro responde ao Parlamento.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P2-M9-2",
+  "topico_nome": "Sistemas e formas de governo",
+  "ultima_correta": true
+ },
  "Q-POL-0439": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "Parlamentarismo, monarquia, formas de Estado e federalismo"
   ],
@@ -60237,24 +63576,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793127227854,
+   "last": 1793450314980,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793127227854
+   "n": 2,
+   "ok": 1,
+   "u": 1793450314980
   },
   "gabarito_item": "C",
   "materia": "Ciência Política",
   "regra_correta": "EC 4/1961 instituiu o parlamentarismo; o plebiscito de 1963 restabeleceu o presidencialismo.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "troca_numero",
   "topico": "P2-M9-2",
   "topico_nome": "Sistemas e formas de governo",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-POL-0440": {
   "acertos": 1,
@@ -60324,6 +63664,40 @@
   "topico_nome": "Sistemas e formas de governo",
   "ultima_correta": true
  },
+ "Q-POL-0442": {
+  "acertos": 1,
+  "artigos": [
+   "Parlamentarismo, monarquia, formas de Estado e federalismo"
+  ],
+  "atomos": [
+   "A-POL-0039"
+  ],
+  "bloco": "P2",
+  "campo": "POL-governo",
+  "campo_nome": "Ciência Política: sistemas de governo, representação e poderes",
+  "enunciado": "No Segundo Reinado, o parlamentarismo seguia o modelo inglês, e o presidente do Conselho era escolhido pela maioria eleita da Câmara, sem possibilidade de dissolução pelo Imperador. Isso é consenso na área.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475697847,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475697847
+  },
+  "gabarito_item": "E",
+  "materia": "Ciência Política",
+  "regra_correta": "No Segundo Reinado o Imperador escolhia o presidente do Conselho e podia dissolver a Câmara.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "excecao_omitida",
+  "topico": "P2-M9-2",
+  "topico_nome": "Sistemas e formas de governo",
+  "ultima_correta": true
+ },
  "Q-POL-0443": {
   "acertos": 1,
   "artigos": [
@@ -60358,6 +63732,40 @@
   "topico_nome": "Sistemas e formas de governo",
   "ultima_correta": true
  },
+ "Q-POL-0444": {
+  "acertos": 1,
+  "artigos": [
+   "Parlamentarismo, monarquia, formas de Estado e federalismo"
+  ],
+  "atomos": [
+   "A-POL-0039"
+  ],
+  "bloco": "P2",
+  "campo": "POL-governo",
+  "campo_nome": "Ciência Política: sistemas de governo, representação e poderes",
+  "enunciado": "Na federação, os Estados membros são soberanos e dispõem do direito de secessão, ao passo que na confederação a soberania pertence ao ente central. Trata-se de prática corrente.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793479550074,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793479550074
+  },
+  "gabarito_item": "E",
+  "materia": "Ciência Política",
+  "regra_correta": "Trocados: soberania e secessão são da confederação.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
+  "topico": "P2-M9-2",
+  "topico_nome": "Sistemas e formas de governo",
+  "ultima_correta": true
+ },
  "Q-POL-0446": {
   "acertos": 1,
   "artigos": [
@@ -60382,6 +63790,74 @@
   "gabarito_item": "E",
   "materia": "Ciência Política",
   "regra_correta": "A forma federativa é cláusula pétrea: não pode ser abolida por emenda.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "excecao_omitida",
+  "topico": "P2-M9-2",
+  "topico_nome": "Sistemas e formas de governo",
+  "ultima_correta": true
+ },
+ "Q-POL-0447": {
+  "acertos": 1,
+  "artigos": [
+   "Parlamentarismo, monarquia, formas de Estado e federalismo"
+  ],
+  "atomos": [
+   "A-POL-0039"
+  ],
+  "bloco": "P2",
+  "campo": "POL-governo",
+  "campo_nome": "Ciência Política: sistemas de governo, representação e poderes",
+  "enunciado": "Na competência concorrente, a União estabelece normas gerais e os Estados e o Distrito Federal exercem competência suplementar, e a edição de normas gerais pela União não suprime a competência suplementar dos Estados.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478311954,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478311954
+  },
+  "gabarito_item": "C",
+  "materia": "Ciência Política",
+  "regra_correta": "CF, art. 24, §§ 1º a 3º: União fixa normas gerais; Estados legislam de forma suplementar.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "excecao_omitida",
+  "topico": "P2-M9-2",
+  "topico_nome": "Sistemas e formas de governo",
+  "ultima_correta": true
+ },
+ "Q-POL-0448": {
+  "acertos": 1,
+  "artigos": [
+   "Parlamentarismo, monarquia, formas de Estado e federalismo"
+  ],
+  "atomos": [
+   "A-POL-0039"
+  ],
+  "bloco": "P2",
+  "campo": "POL-governo",
+  "campo_nome": "Ciência Política: sistemas de governo, representação e poderes",
+  "enunciado": "Na competência concorrente, a edição de normas gerais pela União exclui a competência suplementar dos Estados e do Distrito Federal sobre a matéria. Tal conclusão decorreria, segundo esse entendimento, das características do arranjo institucional descrito.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475152908,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475152908
+  },
+  "gabarito_item": "E",
+  "materia": "Ciência Política",
+  "regra_correta": "Normas gerais não excluem a competência suplementar dos Estados (art. 24, § 2º).",
   "relevancia": 1,
   "respostas": 1,
   "sequencia": [
@@ -60733,7 +64209,7 @@
   "ultima_correta": true
  },
  "Q-POL-0579": {
-  "acertos": 1,
+  "acertos": 2,
   "artigos": [
    "Teoria do Estado: Estado de Direito, Hegel, Kelsen, Jellinek, Schmitt e Rawls"
   ],
@@ -60747,18 +64223,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792272657182,
+   "last": 1793476446258,
    "m": {},
-   "n": 1,
-   "ok": 1,
-   "u": 1792272657182
+   "n": 2,
+   "ok": 2,
+   "u": 1793476446258
   },
   "gabarito_item": "C",
   "materia": "Ciência Política",
   "regra_correta": "Jellinek: povo, território e poder soberano; soberania como autodeterminação.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   1,
    1
   ],
   "tipo": "confusao_instituto",
@@ -61396,6 +64873,74 @@
   "topico_nome": "História do voto e dos partidos no Brasil",
   "ultima_correta": true
  },
+ "Q-RC-0023": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 9"
+  ],
+  "atomos": [
+   "A-RC-0009"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "Os membros das Comissões Mistas são designados pelo Presidente do Senado, mediante indicação das lideranças; se os Líderes não indicarem, a escolha cabe ao Presidente do Senado Federal.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451201388,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451201388
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RC, art. 9º: membros das Comissões Mistas **designados pelo Presidente do Senado**, por **indicação das lideranças**; sem indicação, ele escolhe",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": true
+ },
+ "Q-RC-0024": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 9"
+  ],
+  "atomos": [
+   "A-RC-0009"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "Os membros das Comissões Mistas são eleitos pelo Plenário do Congresso; se os Líderes não indicarem, o cargo permanece vago.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475323645,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475323645
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Regimento Comum, art. 9º: os membros são designados pelo Presidente do Senado, por indicação dos Líderes; se estes não indicarem, a ESCOLHA cabe ao Presidente.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": true
+ },
  "Q-RC-0025": {
   "acertos": 1,
   "artigos": [
@@ -61600,6 +65145,142 @@
   "topico_nome": "RC arts. 9–21",
   "ultima_correta": true
  },
+ "Q-RC-0036": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 13"
+  ],
+  "atomos": [
+   "A-RC-0013"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "Apresentado o parecer, qualquer membro da Comissão Mista pode discuti-lo por até cinco minutos, duas vezes; o Relator fala primeiro, por trinta minutos.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480710083,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480710083
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Regimento Comum, art. 13: cada membro discute uma vez por até QUINZE minutos, e o Relator fala em ÚLTIMO lugar, por trinta minutos.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": true
+ },
+ "Q-RC-0039": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 15"
+  ],
+  "atomos": [
+   "A-RC-0015"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "No parecer da Comissão Mista, são considerados favoráveis os votos pelas conclusões e os com restrições.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476585039,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476585039
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RC, art. 15, p.ú.: votos **favoráveis**: **pelas conclusões** e **com restrições**",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": true
+ },
+ "Q-RC-0040": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 15"
+  ],
+  "atomos": [
+   "A-RC-0015"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "No parecer da Comissão Mista, são considerados contrários os votos com restrições.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480354985,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480354985
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Regimento Comum, art. 15, p.ú.: são favoráveis os votos pelas conclusões e os COM RESTRIÇÕES.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": true
+ },
+ "Q-RC-0047": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 21"
+  ],
+  "atomos": [
+   "A-RC-0021"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "As Comissões Parlamentares Mistas de Inquérito são criadas em sessão conjunta, automaticamente se requeridas por um terço dos Deputados mais um terço dos Senadores.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480430039,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480430039
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RC, art. 21: **CPMI** criada em **sessão conjunta**, **automaticamente** se requerida por **1/3 dos Deputados + 1/3 dos Senadores**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": true
+ },
  "Q-RC-0048": {
   "acertos": 1,
   "artigos": [
@@ -61633,6 +65314,74 @@
   "topico": "P2-M8-3.2",
   "topico_nome": "RC arts. 9–21",
   "ultima_correta": true
+ },
+ "Q-RC-0049": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 21"
+  ],
+  "atomos": [
+   "A-RC-0021"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "As CPMIs têm o número de membros fixado no ato de criação, devendo ser igual a participação de Deputados e Senadores, com proporcionalidade partidária.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480920844,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793480920844
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RC, art. 21, p.ú.: **número de membros** da CPMI fixado **no ato de criação**, com **participação igual** de Deputados e Senadores e proporcionalidade partidária",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": true
+ },
+ "Q-RC-0050": {
+  "acertos": 0,
+  "artigos": [
+   "Regimento Comum art. 21"
+  ],
+  "atomos": [
+   "A-RC-0021"
+  ],
+  "bloco": "P2",
+  "campo": "RC-com",
+  "campo_nome": "Regimento Comum: Comissões Mistas (arts. 9º a 21)",
+  "enunciado": "As CPMIs têm o número de membros fixado em lei, com maioria de Deputados, dada a maior população representada.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451479583,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793451479583
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Regimento Comum, art. 21, p.ú.: o número de membros é fixado no ATO DE CRIAÇÃO, com participação IGUAL de Deputados e Senadores.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.2",
+  "topico_nome": "RC arts. 9–21",
+  "ultima_correta": false
  },
  "Q-RC-0051": {
   "acertos": 1,
@@ -61840,6 +65589,40 @@
   "topico_nome": "RC arts. 36–52",
   "ultima_correta": true
  },
+ "Q-RC-0119": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 53"
+  ],
+  "atomos": [
+   "A-RC-0053"
+  ],
+  "bloco": "P2",
+  "campo": "RC-sol",
+  "campo_nome": "Regimento Comum: sessões solenes (arts. 53 a 71)",
+  "enunciado": "Nas sessões solenes integram a Mesa o Presidente da Câmara e, mediante convite, o Presidente do Supremo Tribunal Federal; realizam-se com qualquer número.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450296561,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450296561
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RC, art. 53: sessões solenes: na Mesa, o **Presidente da Câmara** e, por **convite**, o **Presidente do STF**; realizam-se com **qualquer número**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.5",
+  "topico_nome": "RC arts. 53–71",
+  "ultima_correta": true
+ },
  "Q-RC-0120": {
   "acertos": 1,
   "artigos": [
@@ -61942,6 +65725,40 @@
   "topico_nome": "RC arts. 53–71",
   "ultima_correta": true
  },
+ "Q-RC-0123": {
+  "acertos": 0,
+  "artigos": [
+   "Regimento Comum art. 55"
+  ],
+  "atomos": [
+   "A-RC-0055"
+  ],
+  "bloco": "P2",
+  "campo": "RC-sol",
+  "campo_nome": "Regimento Comum: sessões solenes (arts. 53 a 71)",
+  "enunciado": "Nas sessões solenes só podem falar um Senador e um Deputado, previamente designados pelas respectivas Casas; na inauguração e na posse do Presidente da República não há oradores.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450236583,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793450236583
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RC, art. 55: sessão solene: falam **um Senador e um Deputado** designados pelas Casas; **sem oradores** na inauguração e na **posse do Presidente da República**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.5",
+  "topico_nome": "RC arts. 53–71",
+  "ultima_correta": false
+ },
  "Q-RC-0124": {
   "acertos": 1,
   "artigos": [
@@ -61966,6 +65783,74 @@
   "gabarito_item": "E",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "Regimento Comum, art. 55: nas sessões solenes falam só um Senador e um Deputado designados; na inauguração e na posse não há oradores.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.5",
+  "topico_nome": "RC arts. 53–71",
+  "ultima_correta": true
+ },
+ "Q-RC-0125": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 56"
+  ],
+  "atomos": [
+   "A-RC-0056"
+  ],
+  "bloco": "P2",
+  "campo": "RC-sol",
+  "campo_nome": "Regimento Comum: sessões solenes (arts. 53 a 71)",
+  "enunciado": "Nas sessões solenes não se admitem questões de ordem.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450890762,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450890762
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RC, art. 56: nas sessões solenes **não se admitem questões de ordem**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-3.5",
+  "topico_nome": "RC arts. 53–71",
+  "ultima_correta": true
+ },
+ "Q-RC-0126": {
+  "acertos": 1,
+  "artigos": [
+   "Regimento Comum art. 56"
+  ],
+  "atomos": [
+   "A-RC-0056"
+  ],
+  "bloco": "P2",
+  "campo": "RC-sol",
+  "campo_nome": "Regimento Comum: sessões solenes (arts. 53 a 71)",
+  "enunciado": "Nas sessões solenes admitem-se questões de ordem, desde que formuladas por Líder.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451548864,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451548864
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RC art. 56: Nas sessões solenes, não serão admitidas questões de ordem.",
   "relevancia": 1,
   "respostas": 1,
   "sequencia": [
@@ -62814,18 +66699,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793125049879,
+   "last": 1793477532844,
    "m": {},
-   "n": 3,
+   "n": 4,
    "ok": 0,
-   "u": 1793125049879
+   "u": 1793477532844
   },
   "gabarito_item": "E",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "Art. 27, § 2º, I: 48 horas, dadas pela Mesa.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
+   0,
    0,
    0,
    0
@@ -62884,18 +66770,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793125219474,
+   "last": 1793477783992,
    "m": {},
-   "n": 3,
+   "n": 4,
    "ok": 0,
-   "u": 1793125219474
+   "u": 1793477783992
   },
   "gabarito_item": "E",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "RICD, art. 28: os Líderes comunicam os nomes em CINCO SESSÕES, e não em quarenta e oito horas.",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
+   0,
    0,
    0,
    0
@@ -64666,7 +68553,7 @@
   "ultima_correta": true
  },
  "Q-RICD-0169": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "RICD art. 56"
   ],
@@ -64680,24 +68567,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124594030,
+   "last": 1793477990998,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793124594030
+   "n": 2,
+   "ok": 1,
+   "u": 1793477990998
   },
   "gabarito_item": "C",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "RICD, art. 56, §2º: deliberação por **maioria dos votos**, presente a **maioria absoluta**; no **empate**, prevalece o **voto do Relator**",
   "relevancia": 2,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "troca_efeito",
   "topico": "P2-M8-2.4",
   "topico_nome": "RICD arts. 49–59",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-RICD-0170": {
   "acertos": 0,
@@ -64734,7 +68622,7 @@
   "ultima_correta": false
  },
  "Q-RICD-0174": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "RICD art. 57"
   ],
@@ -64748,24 +68636,25 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793117977031,
+   "last": 1793478153226,
    "m": {},
-   "n": 1,
-   "ok": 0,
-   "u": 1793117977031
+   "n": 2,
+   "ok": 1,
+   "u": 1793478153226
   },
   "gabarito_item": "E",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "RICD, art. 57, VII: o requerimento de encerramento da discussão em Comissão cabe após falarem DEZ Deputados, e não cinco.",
   "relevancia": 2,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
-   0
+   0,
+   1
   ],
   "tipo": "troca_efeito",
   "topico": "P2-M8-2.4",
   "topico_nome": "RICD arts. 49–59",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-RICD-0183": {
   "acertos": 1,
@@ -65452,6 +69341,40 @@
   "topico_nome": "RICD arts. 100–112",
   "ultima_correta": true
  },
+ "Q-RICD-0278": {
+  "acertos": 1,
+  "artigos": [
+   "RICD art. 113"
+  ],
+  "atomos": [
+   "A-RICD-0113"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "O parecer sobre indicação dirigida às Comissões é proferido no prazo de dez sessões, improrrogável.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475465629,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475465629
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 113, § 2º, II: o parecer sobre indicação é proferido em VINTE sessões, PRORROGÁVEL a critério da Presidência da Comissão.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-2.8",
+  "topico_nome": "RICD arts. 113–125",
+  "ultima_correta": true
+ },
  "Q-RICD-0283": {
   "acertos": 1,
   "artigos": [
@@ -65476,6 +69399,74 @@
   "gabarito_item": "C",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "RICD, art. 114, I, VIII e XII: requerimentos de **palavra**, **verificação de votação** e **requisição de documentos** são verbais ou escritos e **despachados de imediato**",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-2.8",
+  "topico_nome": "RICD arts. 113–125",
+  "ultima_correta": true
+ },
+ "Q-RICD-0291": {
+  "acertos": 1,
+  "artigos": [
+   "RICD art. 116"
+  ],
+  "atomos": [
+   "A-RICD-0116"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "Os pedidos escritos de informação a Ministro de Estado são encaminhados pelo Primeiro-Secretário; a recusa ou o não atendimento em trinta dias importa crime de responsabilidade.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475768994,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475768994
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 116: pedido de informação a Ministro enviado pelo **Primeiro-Secretário**; **recusa ou não atendimento em 30 dias** é **crime de responsabilidade**",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-2.8",
+  "topico_nome": "RICD arts. 113–125",
+  "ultima_correta": true
+ },
+ "Q-RICD-0293": {
+  "acertos": 1,
+  "artigos": [
+   "RICD art. 116"
+  ],
+  "atomos": [
+   "A-RICD-0116"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-prop3",
+  "campo_nome": "RICD: proposições, emendas e pareceres (arts. 113 a 125)",
+  "enunciado": "Não cabem, em requerimento de informação, providências a tomar, consulta, sugestão, conselho ou interrogação sobre propósitos da autoridade.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476968512,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476968512
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 116, III: no requerimento de informação **não cabem** providências, **consulta**, **sugestão**, **conselho** ou **interrogação** sobre propósitos da autoridade",
   "relevancia": 2,
   "respostas": 1,
   "sequencia": [
@@ -65521,7 +69512,7 @@
   "ultima_correta": true
  },
  "Q-RICD-0330": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "RICD art. 126"
   ],
@@ -65535,25 +69526,26 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793126495626,
+   "last": 1793478200304,
    "m": {},
-   "n": 2,
-   "ok": 0,
-   "u": 1793126495626
+   "n": 3,
+   "ok": 1,
+   "u": 1793478200304
   },
   "gabarito_item": "E",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "RICD, art. 126: parecer é a proposição com que a COMISSÃO se pronuncia sobre matéria de seu estudo; o Relator não o impõe.",
   "relevancia": 1,
-  "respostas": 2,
+  "respostas": 3,
   "sequencia": [
    0,
-   0
+   0,
+   1
   ],
   "tipo": "conceito_correto",
   "topico": "P2-M8-2.9",
   "topico_nome": "RICD arts. 126–150",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-RICD-0331": {
   "acertos": 1,
@@ -66651,6 +70643,108 @@
   "topico_nome": "RICD arts. 151–164",
   "ultima_correta": true
  },
+ "Q-RICD-0390": {
+  "acertos": 1,
+  "artigos": [
+   "RICD art. 151"
+  ],
+  "atomos": [
+   "A-RICD-0151"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-urg",
+  "campo_nome": "RICD: regimes de tramitação e urgência (arts. 151 a 157)",
+  "enunciado": "Têm tramitação com prioridade apenas os projetos de iniciativa do Presidente da República e do Senado Federal.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449858814,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449858814
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 151, II, a: têm prioridade os projetos do Executivo, Judiciário, MP, Mesa, Comissões, Senado e cidadãos; não apenas Presidente e Senado.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-2.10",
+  "topico_nome": "RICD arts. 151–164",
+  "ultima_correta": true
+ },
+ "Q-RICD-0391": {
+  "acertos": 1,
+  "artigos": [
+   "RICD art. 151"
+  ],
+  "atomos": [
+   "A-RICD-0151"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-urg",
+  "campo_nome": "RICD: regimes de tramitação e urgência (arts. 151 a 157)",
+  "enunciado": "Têm prioridade os projetos de regulamentação de eleições e os de alteração ou reforma do Regimento Interno.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449337530,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449337530
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 151, II, b: **prioridade**: **regulamentação de eleições** e **reforma do Regimento Interno**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-2.10",
+  "topico_nome": "RICD arts. 151–164",
+  "ultima_correta": true
+ },
+ "Q-RICD-0392": {
+  "acertos": 1,
+  "artigos": [
+   "RICD art. 151"
+  ],
+  "atomos": [
+   "A-RICD-0151"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-urg",
+  "campo_nome": "RICD: regimes de tramitação e urgência (arts. 151 a 157)",
+  "enunciado": "Têm tramitação ordinária os projetos de regulamentação de eleições e os de alteração ou reforma do Regimento Interno.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449361825,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793449361825
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 151, II, b: os projetos de regulamentação de eleições e de reforma do Regimento têm tramitação COM PRIORIDADE, e não ordinária.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-2.10",
+  "topico_nome": "RICD arts. 151–164",
+  "ultima_correta": true
+ },
  "Q-RICD-0393": {
   "acertos": 1,
   "artigos": [
@@ -66949,6 +71043,40 @@
   "gabarito_item": "C",
   "materia": "Processo Legislativo, RICD e Regimento Comum",
   "regra_correta": "RICD, art. 154, §1º: requerimento de urgência **sem discussão**; **encaminhamento** de votação com **5 minutos improrrogáveis**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-2.10",
+  "topico_nome": "RICD arts. 151–164",
+  "ultima_correta": false
+ },
+ "Q-RICD-0402": {
+  "acertos": 0,
+  "artigos": [
+   "RICD art. 154"
+  ],
+  "atomos": [
+   "A-RICD-0154"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-urg",
+  "campo_nome": "RICD: regimes de tramitação e urgência (arts. 151 a 157)",
+  "enunciado": "O requerimento de urgência tem discussão, e a votação pode ser encaminhada por oradores com três minutos improrrogáveis.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450220904,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793450220904
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 154, § 1º: o requerimento de urgência NÃO tem discussão; só o Autor e um Líder, Relator ou contrário encaminham a votação, por cinco minutos improrrogáveis.",
   "relevancia": 1,
   "respostas": 1,
   "sequencia": [
@@ -67507,6 +71635,74 @@
   "topico_nome": "RICD arts. 151–164",
   "ultima_correta": true
  },
+ "Q-RICD-0424": {
+  "acertos": 1,
+  "artigos": [
+   "RICD art. 159"
+  ],
+  "atomos": [
+   "A-RICD-0159"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-pref",
+  "campo_nome": "RICD: prioridade, preferência, destaque e prejudicialidade (arts. 158 a 164)",
+  "enunciado": "Denomina-se preferência a dispensa de exigências regimentais para que a proposição seja incluída na Ordem do Dia.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450137021,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450137021
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 159: preferência é a primazia na discussão ou na votação de uma proposição sobre outra; a dispensa de exigências é a prioridade.",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "conceito_correto",
+  "topico": "P2-M8-2.10",
+  "topico_nome": "RICD arts. 151–164",
+  "ultima_correta": true
+ },
+ "Q-RICD-0450": {
+  "acertos": 0,
+  "artigos": [
+   "RICD art. 163"
+  ],
+  "atomos": [
+   "A-RICD-0163"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-pref",
+  "campo_nome": "RICD: prioridade, preferência, destaque e prejudicialidade (arts. 158 a 164)",
+  "enunciado": "É prejudicada a proposição, mantidas as emendas, que tiver substitutivo aprovado, ressalvados os destaques.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793449831368,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793449831368
+  },
+  "gabarito_item": "E",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "Art. 163, V: Consideram-se prejudicados: a proposição, com as respectivas emendas, que tiver substitutivo aprovado, ressalvados os destaques",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-2.10",
+  "topico_nome": "RICD arts. 151–164",
+  "ultima_correta": false
+ },
  "Q-RICD-0455": {
   "acertos": 1,
   "artigos": [
@@ -67676,6 +71872,40 @@
   "topico": "P2-M8-2.11",
   "topico_nome": "RICD arts. 165–200",
   "ultima_correta": true
+ },
+ "Q-RICD-0495": {
+  "acertos": 0,
+  "artigos": [
+   "RICD art. 178"
+  ],
+  "atomos": [
+   "A-RICD-0178"
+  ],
+  "bloco": "P2",
+  "campo": "RICD-disc",
+  "campo_nome": "RICD: discussão (arts. 165 a 179)",
+  "enunciado": "O requerimento de encerramento da discussão é votado se subscrito por cinco centésimos dos membros da Casa ou Líderes, após a discussão por pelo menos doze oradores.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793480841075,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793480841075
+  },
+  "gabarito_item": "C",
+  "materia": "Processo Legislativo, RICD e Regimento Comum",
+  "regra_correta": "RICD, art. 178, §2º: encerramento da discussão exige **5/100 dos membros** ou Líderes e **ao menos 12 oradores** já ouvidos",
+  "relevancia": 2,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P2-M8-2.11",
+  "topico_nome": "RICD arts. 165–200",
+  "ultima_correta": false
  },
  "Q-RICD-0496": {
   "acertos": 0,
@@ -70589,7 +74819,7 @@
   "ultima_correta": true
  },
  "Q-RICD-0691": {
-  "acertos": 0,
+  "acertos": 1,
   "artigos": [
    "RICD art. 15"
   ],
@@ -70603,25 +74833,26 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793126844639,
+   "last": 1793478279713,
    "m": {},
-   "n": 2,
-   "ok": 0,
-   "u": 1793126844639
+   "n": 3,
+   "ok": 1,
+   "u": 1793478279713
   },
   "gabarito_item": "C",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "RICD, art. 15, III: **Mesa da Câmara** promulga, com a **Mesa do Senado**, as **emendas à Constituição**",
   "relevancia": 1,
-  "respostas": 2,
+  "respostas": 3,
   "sequencia": [
    0,
-   0
+   0,
+   1
   ],
   "tipo": "troca_efeito",
   "topico": "P1-M4-7.1",
   "topico_nome": "RICD: disposições preliminares e órgãos (arts. 1º a 24)",
-  "ultima_correta": false
+  "ultima_correta": true
  },
  "Q-RICD-0694": {
   "acertos": 1,
@@ -71445,8 +75676,42 @@
   "topico_nome": "RICD: disposições preliminares e órgãos (arts. 1º a 24)",
   "ultima_correta": true
  },
+ "Q-RICD-0788": {
+  "acertos": 1,
+  "artigos": [
+   "RICD art. 69"
+  ],
+  "atomos": [
+   "A-RICD-0069"
+  ],
+  "bloco": "P1",
+  "campo": "RICD-sess1",
+  "campo_nome": "RICD: espécies de sessão e regras gerais (arts. 65 a 78)",
+  "enunciado": "As sessões são secretas, mas excepcionalmente podem ser públicas, quando assim deliberado pelo Plenário.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793450886645,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793450886645
+  },
+  "gabarito_item": "E",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "Art. 69: As sessões serão públicas, mas excepcionalmente poderão ser secretas, quando assim deliberado pelo Plenário.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M4-7.2",
+  "topico_nome": "RICD: sessões da Câmara (arts. 65 a 94)",
+  "ultima_correta": true
+ },
  "Q-RICD-0825": {
-  "acertos": 2,
+  "acertos": 3,
   "artigos": [
    "RICD art. 82"
   ],
@@ -71460,19 +75725,20 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792592090083,
+   "last": 1793478321124,
    "m": {},
-   "n": 3,
-   "ok": 2,
-   "u": 1792592090083
+   "n": 4,
+   "ok": 3,
+   "u": 1793478321124
   },
   "gabarito_item": "C",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "RICD, art. 82: **Ordem do Dia** às **11h ou 16h**, com **verificação prévia** dos presentes pelo **sistema eletrônico**",
   "relevancia": 1,
-  "respostas": 3,
+  "respostas": 4,
   "sequencia": [
    0,
+   1,
    1,
    1
   ],
@@ -71539,6 +75805,40 @@
   "gabarito_item": "C",
   "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
   "regra_correta": "RICD, art. 91: **Comissão Geral** para **matéria relevante**, **projeto de iniciativa popular** e **comparecimento de Ministro de Estado**",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M4-7.2",
+  "topico_nome": "RICD: sessões da Câmara (arts. 65 a 94)",
+  "ultima_correta": true
+ },
+ "Q-RICD-0863": {
+  "acertos": 1,
+  "artigos": [
+   "RICD art. 93"
+  ],
+  "atomos": [
+   "A-RICD-0093"
+  ],
+  "bloco": "P1",
+  "campo": "RICD-sess3",
+  "campo_nome": "RICD: Comissão Geral e sessões secretas (arts. 91 a 94)",
+  "enunciado": "Reunida a sessão secreta, delibera-se preliminarmente se o assunto deve ser tratado sigilosa ou publicamente, em debate de no máximo uma hora, com cinco minutos por Deputado, salvo nas hipóteses obrigatoriamente secretas.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793475259248,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793475259248
+  },
+  "gabarito_item": "C",
+  "materia": "Noções de Direito Constitucional e de Regimento Interno da Câmara",
+  "regra_correta": "RICD, art. 93, §1º: decide-se **preliminarmente** se o tema é **sigiloso**, em debate de **no máximo 1 hora**, **5 minutos** por Deputado",
   "relevancia": 1,
   "respostas": 1,
   "sequencia": [
@@ -71641,6 +75941,40 @@
   "gabarito_item": "C",
   "materia": "Tecnologia da Informação e Dados",
   "regra_correta": "Controle de Alterações registra inserções, exclusões e formatações, que podem ser aceitas ou rejeitadas.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M5-1",
+  "topico_nome": "MS Office 365",
+  "ultima_correta": true
+ },
+ "Q-TI-0002": {
+  "acertos": 1,
+  "artigos": [
+   "MS Office 365: Word, Excel, PowerPoint e OneDrive"
+  ],
+  "atomos": [
+   "A-TI-0001"
+  ],
+  "bloco": "P1",
+  "campo": "TI-office",
+  "campo_nome": "TI: Microsoft 365",
+  "enunciado": "No Word, o recurso Controle de Alterações registra apenas as exclusões de texto e aplica as alterações de modo definitivo, sem possibilidade de aceitá-las ou rejeitá-las posteriormente.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451420966,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451420966
+  },
+  "gabarito_item": "E",
+  "materia": "Tecnologia da Informação e Dados",
+  "regra_correta": "O controle registra todas as alterações e permite aceitar ou rejeitar.",
   "relevancia": 1,
   "respostas": 1,
   "sequencia": [
@@ -71786,6 +76120,40 @@
    1
   ],
   "tipo": "excecao_omitida",
+  "topico": "P1-M5-1",
+  "topico_nome": "MS Office 365",
+  "ultima_correta": true
+ },
+ "Q-TI-0018": {
+  "acertos": 1,
+  "artigos": [
+   "MS Office 365: Word, Excel, PowerPoint e OneDrive"
+  ],
+  "atomos": [
+   "A-TI-0001"
+  ],
+  "bloco": "P1",
+  "campo": "TI-office",
+  "campo_nome": "TI: Microsoft 365",
+  "enunciado": "A função PROCX pesquisa apenas na vertical, exige o número do índice da coluna e, por padrão, realiza correspondência aproximada, o que a torna menos flexível que PROCV e PROCH. Isso é consenso na área.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451577802,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451577802
+  },
+  "gabarito_item": "E",
+  "materia": "Tecnologia da Informação e Dados",
+  "regra_correta": "PROCX é mais flexível: não exige índice e a correspondência padrão é exata.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
   "topico": "P1-M5-1",
   "topico_nome": "MS Office 365",
   "ultima_correta": true
@@ -72130,6 +76498,40 @@
   "topico_nome": "MS Office 365",
   "ultima_correta": false
  },
+ "Q-TI-0033": {
+  "acertos": 0,
+  "artigos": [
+   "MS Office 365: Word, Excel, PowerPoint e OneDrive"
+  ],
+  "atomos": [
+   "A-TI-0001"
+  ],
+  "bloco": "P1",
+  "campo": "TI-office",
+  "campo_nome": "TI: Microsoft 365",
+  "enunciado": "A formatação condicional do Excel altera a aparência das células (cor, ícones, barras) conforme regras definidas, sem modificar os valores nelas armazenados.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793477544583,
+   "m": {},
+   "n": 1,
+   "ok": 0,
+   "u": 1793477544583
+  },
+  "gabarito_item": "C",
+  "materia": "Tecnologia da Informação e Dados",
+  "regra_correta": "A formatação condicional altera a aparência, não o valor.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   0
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M5-1",
+  "topico_nome": "MS Office 365",
+  "ultima_correta": false
+ },
  "Q-TI-0034": {
   "acertos": 1,
   "artigos": [
@@ -72160,6 +76562,40 @@
    1
   ],
   "tipo": "troca_efeito",
+  "topico": "P1-M5-1",
+  "topico_nome": "MS Office 365",
+  "ultima_correta": true
+ },
+ "Q-TI-0035": {
+  "acertos": 1,
+  "artigos": [
+   "MS Office 365: Word, Excel, PowerPoint e OneDrive"
+  ],
+  "atomos": [
+   "A-TI-0001"
+  ],
+  "bloco": "P1",
+  "campo": "TI-office",
+  "campo_nome": "TI: Microsoft 365",
+  "enunciado": "Os arquivos do Excel com extensão .xlsx não armazenam macros; para preservá-las, a pasta de trabalho deve ser salva no formato .xlsm.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793451689276,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793451689276
+  },
+  "gabarito_item": "C",
+  "materia": "Tecnologia da Informação e Dados",
+  "regra_correta": "O .xlsx não guarda macros; para preservá-las, salve em .xlsm.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "confusao_instituto",
   "topico": "P1-M5-1",
   "topico_nome": "MS Office 365",
   "ultima_correta": true
@@ -72301,6 +76737,40 @@
    1
   ],
   "tipo": "confusao_instituto",
+  "topico": "P1-M5-1",
+  "topico_nome": "MS Office 365",
+  "ultima_correta": true
+ },
+ "Q-TI-0048": {
+  "acertos": 1,
+  "artigos": [
+   "MS Office 365: Word, Excel, PowerPoint e OneDrive"
+  ],
+  "atomos": [
+   "A-TI-0001"
+  ],
+  "bloco": "P1",
+  "campo": "TI-office",
+  "campo_nome": "TI: Microsoft 365",
+  "enunciado": "Um servidor exclui, no computador, um arquivo localizado em pasta sincronizada com o OneDrive. A exclusão remove apenas a cópia local: o arquivo permanece intacto na nuvem e nos demais dispositivos sincronizados. Trata-se de prática corrente.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793478353538,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793478353538
+  },
+  "gabarito_item": "E",
+  "materia": "Tecnologia da Informação e Dados",
+  "regra_correta": "A exclusão se propaga para a nuvem e demais dispositivos.",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "caso_concreto",
   "topico": "P1-M5-1",
   "topico_nome": "MS Office 365",
   "ultima_correta": true
@@ -74089,6 +78559,40 @@
   "topico_nome": "MS Office 365",
   "ultima_correta": true
  },
+ "Q-TI-0389": {
+  "acertos": 1,
+  "artigos": [
+   "MS Office 365: Word, Excel, PowerPoint e OneDrive"
+  ],
+  "atomos": [
+   "A-TI-0001"
+  ],
+  "bloco": "P1",
+  "campo": "TI-office",
+  "campo_nome": "TI: Microsoft 365",
+  "enunciado": "No Outlook, uma regra pode mover ou marcar automaticamente as mensagens recebidas que atendam a critérios definidos pelo usuário, como remetente ou assunto.",
+  "estado": {
+   "box": 0,
+   "due": 0,
+   "last": 1793476992692,
+   "m": {},
+   "n": 1,
+   "ok": 1,
+   "u": 1793476992692
+  },
+  "gabarito_item": "C",
+  "materia": "Tecnologia da Informação e Dados",
+  "regra_correta": "Regras do Outlook movem ou marcam mensagens recebidas por critérios (remetente, assunto).",
+  "relevancia": 1,
+  "respostas": 1,
+  "sequencia": [
+   1
+  ],
+  "tipo": "troca_efeito",
+  "topico": "P1-M5-1",
+  "topico_nome": "MS Office 365",
+  "ultima_correta": true
+ },
  "Q-TI-0390": {
   "acertos": 1,
   "artigos": [
@@ -74377,18 +78881,19 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1793124180812,
+   "last": 1793449391314,
    "m": {},
-   "n": 1,
+   "n": 2,
    "ok": 0,
-   "u": 1793124180812
+   "u": 1793449391314
   },
   "gabarito_item": "C",
   "materia": "Tecnologia da Informação e Dados",
   "regra_correta": "Colar Especial cola só valores, fórmulas ou formatos.",
   "relevancia": 1,
-  "respostas": 1,
+  "respostas": 2,
   "sequencia": [
+   0,
    0
   ],
   "tipo": "confusao_instituto",
@@ -74720,27 +79225,28 @@
   "estado": {
    "box": 0,
    "due": 0,
-   "last": 1792627288327,
+   "last": 1793449425054,
    "m": {},
-   "n": 4,
+   "n": 5,
    "ok": 2,
-   "u": 1792627288327
+   "u": 1793449425054
   },
   "gabarito_item": "E",
   "materia": "Tecnologia da Informação e Dados",
   "regra_correta": "Invertido: velocidade em bits; arquivo em bytes; 1 Mbps vale 0,125 MB/s.",
   "relevancia": 1,
-  "respostas": 4,
+  "respostas": 5,
   "sequencia": [
    0,
    0,
    1,
-   1
+   1,
+   0
   ],
   "tipo": "excecao_omitida",
   "topico": "P1-M5-2",
   "topico_nome": "Redes de computadores",
-  "ultima_correta": true
+  "ultima_correta": false
  },
  "Q-TI-0460": {
   "acertos": 1,
