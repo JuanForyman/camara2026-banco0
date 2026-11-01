@@ -541,8 +541,8 @@ function pickNext(){
  sess.lastRev=0;
  DOM=SKIPDOM?Motor.dominados(Q,EV,now()):null;const skipped=q=>!!DOM&&DOM.has(Motor.campoOf(q));
  NSKIP=DOM?Q.filter(q=>inScope(q)&&skipped(q)).length:0;
- /* Temas dominados saem do treino; a cada 10 questões volta uma de manutenção (a mais vencida entre as já vistas). */
- if(DOM&&NSKIP&&sess.k%10===0){const sk=Q.filter(q=>inScope(q)&&skipped(q)),nova=sk.filter(q=>!QH[q.id]),vista=sk.filter(q=>QH[q.id]);const r=nova.length?Motor.pick(nova,EV,now()):vista.length?Motor.pick(vista,EV,now()):null;if(r){why=nova.length?"manutenção · tema dominado, questão nova":"manutenção · tema dominado";return r.q}}
+ /* Temas dominados saem do treino; a cada 20 questões volta uma de manutenção (a mais vencida entre as já vistas). */
+ if(DOM&&NSKIP&&sess.k%20===0){const sk=Q.filter(q=>inScope(q)&&skipped(q)),nova=sk.filter(q=>!QH[q.id]),vista=sk.filter(q=>QH[q.id]);const r=nova.length?Motor.pick(nova,EV,now()):vista.length?Motor.pick(vista,EV,now()):null;if(r){why=nova.length?"manutenção · tema dominado, questão nova":"manutenção · tema dominado";return r.q}}
  const all=Q.filter(inScope),list0=DOM?all.filter(q=>!skipped(q)):all,list=list0.length?list0:all;
  /* Progressão: 2 em cada 3 questões do treino adaptativo são conteúdo ainda não visto (se houver no escopo); a terceira segue o motor (reforço de pontos fracos). */
  if(sess.k%3!==0){const nv=list.filter(q=>!QH[q.id]);
