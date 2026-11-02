@@ -14,17 +14,17 @@
   "ultimo": 1792433639313
  },
  "misto": {
-  "acerto": 0.805,
+  "acerto": 0.803,
   "acerto_ultimas10": 0.9,
-  "acertos": 2329,
-  "erros": 563,
-  "liquido": 0.611,
-  "liquido_pior_caso": 0.586,
-  "ms_mediano": 12817,
-  "n": 2892,
-  "primeira_vez_acerto": 0.828,
-  "primeira_vez_n": 2064,
-  "questoes_distintas": 2123,
-  "ultimo": 1793481016202
+  "acertos": 2483,
+  "erros": 610,
+  "liquido": 0.606,
+  "liquido_pior_caso": 0.582,
+  "ms_mediano": 12741,
+  "n": 3093,
+  "primeira_vez_acerto": 0.825,
+  "primeira_vez_n": 2202,
+  "questoes_distintas": 2262,
+  "ultimo": 1793564439634
  }
 }
