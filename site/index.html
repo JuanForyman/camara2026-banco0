@@ -322,6 +322,19 @@ svg .pt{fill:var(--acc)}
     ord.forEach((e, i) => { const c = campoOf(qm.get(e.q)); if (!recent.has(c)) recent.set(c, i); });
     const CS = campos(allowed, events, t);
     const recCnt = {}; for (const e of ord) if ((e.ok === true || e.ok === false) && t - e.t <= 14 * DAY) { const c = campoOf(qm.get(e.q)); recCnt[c] = (recCnt[c] || 0) + 1; }
+    // Triangulação: erro recente em um campo (peso com meia-vida de 7 dias) aumenta a prioridade dos átomos vizinhos
+    // do mesmo campo (e, em menor grau, do mesmo tópico) para localizar onde está a lacuna.
+    const ep = {}, ept = {}, errK = {};
+    for (const e of ord) {
+      const q = qm.get(e.q), age = (t - e.t) / DAY; if (age > 30) continue;
+      const wgt = Math.pow(0.5, age / 7);
+      if (e.ok === false || (e.ok === null && e.r === "B")) {
+        const w = e.ok === false ? wgt : 0.5 * wgt, c = campoOf(q);
+        ep[c] = (ep[c] || 0) + w; ept[q.t + "|" + c] = (ept[q.t + "|" + c] || 0) + w;
+      }
+      if (e.ok === false) atomsOf(q).forEach(a => { (errK[a] || (errK[a] = new Set())).add(q.k); });
+    }
+    const topErr = {}; for (const k in ept) { const tt = k.split("|")[0]; topErr[tt] = (topErr[tt] || 0) + ept[k]; }
     const cand = [];
     for (const [a, qs] of byAtom) {
       const top = qs[0].t, c = cov[top] ? cov[top].v / cov[top].n : 0, cp = campoOf(qs[0]), x = A[a];
@@ -332,6 +345,13 @@ svg .pt{fill:var(--acc)}
       const rr = Math.min(...qs.map(q => q.r || 1)); pr *= RW[rr] || 1; // relevância de prova (q.r)
       // Sondagem e profundidade por campo: campo sem dados ou com poucos dados ganha bônus (descobre cedo ponto forte e fraco);
       // campo já muito respondido nos últimos 14 dias perde prioridade, mais devagar se for ponto fraco.
+      { const own = (ep[cp] || 0), other = Math.max(0, (topErr[qs[0].t] || 0) - (ept[qs[0].t + "|" + cp] || 0));
+        const seen = x && x.n, inErr = seen && x.streak === 0;
+        if (!seen && own > 0.3) { // o erro desmente a transferência: irmão novo não perde prioridade por acertos vizinhos
+          let trv = 0; for (const [te, w] of (x && x.tr) || []) trv += w * Math.pow(0.5, (t - te) / DAY / 30);
+          const disc = 1 - 0.4 * Math.min(1, trv / 0.6); if (disc > 0) pr /= disc; }
+        if (!inErr) pr *= 1 + (seen ? 1.0 : 2.5) * Math.min(1, own) + 0.15 * Math.min(1, other);
+        if (!inErr && own > 0.3) pr *= i < 3 ? 3 : i < 10 ? 2 : 1; } // compensa a quarentena do campo: vizinho do erro entra logo, mas não colado
       { const k = CS[cp], tot = k ? k.resp : 0, pc = k ? k.p : 0.5, rc = recCnt[cp] || 0, depth = 4 + 10 * (1 - pc);
         let f = tot === 0 ? 1.5 : tot < 3 ? 1.25 : 1;
         if (rc > depth) f /= 1 + (rc - depth) / 4;
@@ -354,7 +374,9 @@ svg .pt{fill:var(--acc)}
     const top = cand.slice(0, 6), wsum = top.reduce((s, c) => s + c.pr * c.pr, 0);
     let r = rnd() * wsum, ch = top[0];
     for (const c of top) { r -= c.pr * c.pr; if (r <= 0) { ch = c; break; } }
-    const qs = ch.qs.slice().sort((a, b) => ((a.r || 1) - (b.r || 1)) * 1e14 + (last[a.id] || 0) - (last[b.id] || 0) + (rnd() - 0.5) * 1e3);
+    let qs = ch.qs.slice().sort((a, b) => ((a.r || 1) - (b.r || 1)) * 1e14 + (last[a.id] || 0) - (last[b.id] || 0) + (rnd() - 0.5) * 1e3);
+    // Questão diagnóstica: se o átomo já teve erro, prefere um tipo de pegadinha diferente do que errou
+    const ek = errK[ch.a]; if (ek && ek.size) { const alt = qs.filter(q => !ek.has(q.k)); if (alt.length) qs = alt.concat(qs.filter(q => ek.has(q.k))); }
     return { q: qs[0], motivo: motivo(ch.x, t), atomo: ch.a, campo: ch.cp, prioridade: ch.pr };
   }
 
