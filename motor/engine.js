@@ -16,8 +16,9 @@
   function build(events, Q) {
     const qm = new Map(Q.map(q => [q.id, q]));
     const A = {}, camp = new Map();
+    const gm = globalMean(events);
     for (const q of Q) { const c = campoOf(q); const set = camp.get(c) || camp.set(c, new Set()).get(c); atomsOf(q).forEach(a => set.add(a)); }
-    const mk = a => A[a] || (A[a] = { ev: [], tr: [], streak: 0, last: 0, n: 0, ok: 0 });
+    const mk = a => A[a] || (A[a] = { ev: [], tr: [], streak: 0, last: 0, n: 0, ok: 0, gm });
     // Em branco conta como lacuna leve (não sabia); palpite acertado vale metade e não avança a sequência;
     // erro com certeza vale 1,5x (é o que anula acerto na prova).
     const ev = events.filter(e => e.ok === true || e.ok === false || (e.ok === null && e.r === "B")).sort((a, b) => a.t - b.t);
@@ -27,7 +28,7 @@
       atomsOf(q).forEach((a, i) => {
         const x = mk(a);
         let w = i === 0 ? 1 : 0.5;
-        if (branco) w *= 0.5; else if (palpite) w *= 0.5; else if (!okv && e.cf === 1) w *= 1.5;
+        if (branco) w *= 0.5; else if (palpite) w *= 0.5; else if (!okv && e.cf === 1) w *= 1.25;
         x.ev.push([e.t, okv ? 1 : 0, w]); x.n += w;
         if (okv) { x.ok += w; if (!palpite) x.streak++; } else x.streak = 0;
         x.last = e.t;
@@ -42,9 +43,17 @@
 
   // Probabilidade de acerto: Beta(1,1) com evidência que esmaece (meia-vida 60 dias).
   // Regra do teto: menos de 2 respostas -> no máximo 0,75.
+  // Prior = seu aproveitamento geral (força 10): calibrado no histórico real, onde o prior neutro Beta(1,1) com erro x1,5 subestimava
+  // o acerto (previa 20-30% onde o real era ~70%). O átomo sozinho prevê pouco; o campo e a média geral carregam a maior parte.
+  const PK = 10;
+  function globalMean(events) {
+    let o = 0, n = 0; for (const e of events) if (e.ok === true || e.ok === false) { n++; if (e.ok) o++; }
+    return n >= 30 ? Math.min(0.9, Math.max(0.6, (o + 4) / (n + 5))) : 0.75;
+  }
   function pAtom(x, t) {
-    if (!x || !x.n) return { p: 0.5, neff: 0 };
-    let s = 1, f = 1, ne = 0;
+    if (!x || !x.n) return { p: x && x.gm || 0.5, neff: 0 };
+    const gm = x.gm || 0.75;
+    let s = gm * PK, f = (1 - gm) * PK, ne = 0;
     for (const [te, w] of x.tr || []) s += w * Math.pow(0.5, (t - te) / DAY / 60);
     for (const [te, ok, w] of x.ev) {
       const ww = w * Math.pow(0.5, (t - te) / DAY / 60);
@@ -93,9 +102,9 @@
     for (const e of events.filter(e => e.ok === true || e.ok === false).sort((a, b) => a.t - b.t)) {
       const q = qm.get(e.q); if (!q) continue; const o = out[campoOf(q)]; o.ev.push({ t: e.t, ok: e.ok, q: q.id, g: q.g });
     }
-    const A = build(events, Q);
+    const A = build(events, Q), GMc = globalMean(events);
     for (const o of Object.values(out)) {
-      let s = 1, f = 1; const rec = o.ev.filter(e => t - e.t <= 90 * DAY);
+      let s = GMc * 4, f = (1 - GMc) * 4; const rec = o.ev.filter(e => t - e.t <= 90 * DAY);
       for (const e of o.ev) { const w = Math.pow(0.5, (t - e.t) / DAY / 60); if (e.ok) s += w; else f += w; }
       o.p = s / (s + f); o.resp = o.ev.length; o.atomos = [...o.atomos];
       const lacuna = o.atomos.some(a => A[a] && A[a].n && A[a].streak === 0);
