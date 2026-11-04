@@ -776,7 +776,7 @@ function vTreino(){
  h+=`<div class="q">${crumb(cur)}<div class="meta"><span>${esc(cur.id)}</span>${why?`<span>${esc(why)}</span>`:""}${hh&&hh.errs?`<span>errou ${hh.errs}×</span>`:""}${s.n?`<span>vista ${s.n}×</span>`:""}</div>
  <p class="enun">${esc(cur.e)}</p>`;
  if(!answered){
-  h+=`<div class="resp"><button data-r="C">Certo<small>C</small></button><button data-r="E">Errado<small>E</small></button><button class="br" data-r="B">Em branco<small>B</small></button></div>
+  h+=`<div class="resp"><button data-r="C" aria-label="Certo">Certo<small aria-hidden="true">C</small></button><button data-r="E" aria-label="Errado">Errado<small aria-hidden="true">E</small></button><button class="br" data-r="B" aria-label="Em branco">Em branco<small aria-hidden="true">B</small></button></div>
   <div class="pal"><button id="bPal" aria-pressed="${palp}">Palpite</button><span>${palp?"Marcado como palpite: entra na sua estatística de chutes.":"Marque se for chutar. Cada erro anula um acerto."} <kbd>P</kbd></span></div>`;
  }else{
   const a=answered,cls=a.branco?"bl":a.acertou?"ok":"no";
@@ -784,7 +784,7 @@ function vTreino(){
   ${!a.acertou&&!a.branco?`<div class="caus"><span>Por que errou?</span>${CAUSAS.map(([k,l],i)=>`<button data-cz="${k}" aria-pressed="${s.last_cz===k}">${l} <kbd>${i+1}</kbd></button>`).join("")}</div>`:""}</div>
   <details class="mais" ${!a.acertou&&!a.branco?"open":""}><summary>Saiba mais: ${cur.s&&cur.s.length?"o ponto da questão":"texto do artigo"}</summary><div class="art">${artHtml(cur)}</div></details>
   <div class="marks" role="group" aria-label="Marcações">${[["dif","Difícil","d"],["rev","Rever","v"],["ruim","Ruim","r"],["lix","Lixeira","x"]].map(([k,l,key])=>`<button data-m="${k}" aria-pressed="${!!s.m[k]}">${l}<kbd>${key}</kbd></button>`).join("")}</div>
-  <div class="prox"><span class="nota">${!a.acertou&&!a.branco?"Entra no caderno: volta "+rel(sod(now())+LAD[0]*DAY)+".":""}</span><button class="btn pri" id="bNext">Próxima <kbd>Enter</kbd></button></div>`;
+  <div class="prox"><span class="nota">${!a.acertou&&!a.branco?"Entra no caderno: volta "+rel(sod(now())+LAD[0]*DAY)+".":""}</span><button class="btn pri" id="bNext" aria-label="Próxima">Próxima <kbd aria-hidden="true">Enter</kbd></button></div>`;
  }
  h+=`</div>`;
  if(sess.n>=5)h+=`<div class="row" style="justify-content:flex-end"><button class="btn sm" data-a="fim">Encerrar sessão</button></div>`;
