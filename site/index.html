@@ -758,6 +758,7 @@ function vHoje(){
  h+=`<div class="grid2"><section class="card"><div class="lbl">Onde treinar primeiro</div><div class="foco">${EV.length<5?`<p class="nota">Responda algumas questões e o site passa a apontar as matérias com mais pontos a ganhar.</p>`:foco.map(({o})=>`<div class="f"><div><b>${esc(o.m)}</b> <span class="chip ${o.b==="P1"?"p1":"p2"}">${o.b}</span><div class="nota">líquido ${pct(Math.max(0,o.liq))} · vistas ${pct(o.cov1)} das de alta incidência</div></div><button class="btn sm" data-go='${JSON.stringify({mod:o.m})}'>Treinar</button></div>`).join("")}</div></section>
  <section class="card"><div class="lbl">Fase atual: ${ph.n}</div><p style="margin:6px 0 8px">${ph.txt}</p>${ph.n==="Cobertura"?`<p class="nota"><b class="num">${unseen1}</b> questões de maior incidência ainda não vistas. Para ver todas até 15/11 são <b class="num">${Math.ceil(unseen1/dFase)}</b> por dia.</p>`:`<p class="nota">Meta: caderno de erros vazio e um simulado por semana.</p>`}</section></div>
  <section class="card"><div class="row" style="justify-content:space-between"><div class="lbl">Últimas 12 semanas</div><span class="nota">hoje: <b class="num">${hojeN.length}</b> respondidas, <b class="num">${hojeOk}</b> acertos</span></div><div class="heat" style="margin-top:8px">${heat}</div></section>`;
+ {const le=lsGet("cam26exp"),dd=le?Math.floor((Date.now()-le)/864e5):null;if(EV.length>50&&(dd===null||dd>=7))h+=`<section class="card"><div class="lbl">Backup do histórico</div><p>${dd===null?"Você ainda não salvou um backup.":"Último backup há "+dd+" dias."} Toque para salvar e depois me envie o arquivo.</p><div class="row"><button class="btn" id="bExp">Salvar backup</button></div></section>`}
  return h;
 }
 function vTreino(){
@@ -1002,7 +1003,7 @@ function vPainel(){
  <div class="grid2"><section class="card"><div class="lbl">Palpites</div>${ch.g+ch.s?`<p style="margin:8px 0 0">Com certeza: <b class="num">${ch.s?pct(ch.so/ch.s):"–"}</b> de acerto em ${ch.s}.<br>Palpite: <b class="num">${ch.g?pct(ch.go/ch.g):"–"}</b> em ${ch.g}.</p><p class="nota" style="margin-top:6px">Acima de 50% palpitar compensa; abaixo, deixe em branco.</p>`:`<p class="nota" style="margin-top:8px">Marque Palpite no treino quando for chutar para o site medir se compensa.</p>`}</section>
  <section class="card"><div class="lbl">Por que você erra</div>${cs?CAUSAS.map(([k,l])=>`<div class="g" style="grid-template-columns:6rem 1fr 2rem;margin-top:6px"><span>${l}</span><div class="track"><i style="width:${100*cz[k]/cs}%"></i></div><span class="num">${cz[k]}</span></div>`).join(""):`<p class="nota" style="margin-top:8px">Depois de um erro, toque na causa. Isso mostra se o problema é conteúdo, pegadinha ou leitura.</p>`}${ms?`<p class="nota" style="margin-top:8px">Tempo mediano por questão: <b class="num">${Math.round(ms/1000)} s</b>.</p>`:""}</section></div>`;
  if(rein.length)h+=`<section class="card"><div class="lbl">Mais erradas</div>${rein.map(q=>`<div class="er-item"><div class="row"><span class="chip">${esc(mod(q))}</span><span class="chip er">${QH[q.id].errs}×</span></div><p class="rule">${ruleH(q)}</p></div>`).join("")}</section>`;
- h+=`<div class="row"><button class="btn" id="bExp">Exportar meu histórico (JSON)</button><span class="nota">${ruim.length} marcadas como ruins · ${lix.length} na lixeira</span></div>`;
+ h+=`<div class="row"><button class="btn" id="bExp">Salvar backup do histórico</button><span class="nota">${ruim.length} marcadas como ruins · ${lix.length} na lixeira</span></div>`;
  if(ruim.length)h+=`<section class="card"><div class="lbl">Marcadas como ruins</div>${ruim.slice(0,30).map(q=>`<div class="er-item"><p>${esc(q.id)}: ${esc(q.e)}</p></div>`).join("")}</section>`;
  if(lix.length)h+=`<section class="card"><div class="lbl">Lixeira</div>${lix.slice(0,30).map(q=>`<div class="er-item"><p>${esc(q.id)}: ${esc(q.e)}</p><div><button class="btn sm" data-rest="${q.id}">Restaurar</button></div></div>`).join("")}</section>`;
  return h;
@@ -1025,7 +1026,7 @@ document.addEventListener("click",e=>{
  if(d.sa){simAns(d.sa);return}
  if(d.sg!==undefined){simGo(+d.sg);return}
  if(d.rest){const q=QM.get(d.rest);delete S(q).m.lix;S(q).u=now();persist(q.id);render();return}
- if(t.id==="bExp"){(async()=>{try{const dl=await claude.use("downloads");if(!dl){t.textContent="Download indisponível aqui";return}await dl.save({filename:"historico_camara2026.json",data:JSON.stringify({exportado:new Date().toISOString(),estado:ST,eventos:EV,simulados:SIMS},null,1)})}catch(x){}})();return}
+ if(t.id==="bExp"){(async()=>{try{const dl=await claude.use("downloads");if(!dl){t.textContent="Download indisponível aqui";return}await dl.save({filename:"historico_camara2026.json",data:JSON.stringify({exportado:new Date().toISOString(),estado:ST,eventos:EV,simulados:SIMS},null,1)});lsPut("cam26exp",Date.now());render()}catch(x){}})();return}
  switch(d.a){
   case"fim":cur=null;answered=null;sess.ended=true;render();break;
   case"flip":cardSt=1;render();break;

@@ -23,7 +23,7 @@ def lerdump(a):
     if os.path.isfile(a):
         d=json.load(open(a,encoding='utf-8'))
         est=d.get('estado') or {};sim=d.get('simulados') or []
-        for i,e in enumerate(d.get('eventos') or []):ev['x%s-%s-%s'%(e.get('t'),e.get('q'),i) if 'id' not in e else e['id']]=e
+        for e in d.get('eventos') or []:ev[e['id'] if 'id' in e else 'x%s-%s'%(e.get('t'),e.get('q'))]=e
         return est,ev,sim
     for f in glob.glob(a+'/estado/*.json'):est[os.path.basename(f)[:-5]]=J(f)
     for f in glob.glob(a+'/eventos/*.json'):ev[os.path.basename(f)[:-5]]=J(f)
@@ -38,8 +38,9 @@ def main():
     banco={q['id']:q for q in J(S+'/banco.json',[])};top=J(S+'/topicos.json',{});camp=J(S+'/campos.json',{})
     # ---- união com o que já existe (nunca perde histórico)
     ev={r['id']:r for r in RL(B+'/raw/eventos.jsonl')}
+    vis={(r.get('q'),r.get('t')) for r in ev.values()}
     for k,v in ev_n.items():
-        if v:ev[k]=dict(v,id=k)
+        if v and (k in ev or (v.get('q'),v.get('t')) not in vis):ev[k]=dict(v,id=k)
     est=J(B+'/raw/estado.json',{})
     for k,v in est_n.items():
         if v and (k not in est or (v.get('u') or 0)>=(est[k].get('u') or 0)):est[k]=v
