@@ -273,5 +273,89 @@
   },
   "minutos_aprox": 91.5,
   "n": 201
+ },
+ "2026-11-02": {
+  "acertos": 115,
+  "liquido": 0.513,
+  "materias": {
+   "Ciência Política": 20,
+   "Linguística": 6,
+   "Língua Inglesa": 16,
+   "Língua Portuguesa": 25,
+   "Noções de Direito Administrativo e Administração Pública": 17,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 18,
+   "Processo Legislativo, RICD e Regimento Comum": 29,
+   "Reconhecimento de Fala, Transcrição e IA": 13,
+   "Tecnologia da Informação e Dados": 8
+  },
+  "minutos_aprox": 80.5,
+  "n": 152
+ },
+ "2026-11-03": {
+  "acertos": 173,
+  "liquido": 0.602,
+  "materias": {
+   "Ciência Política": 22,
+   "Linguística": 10,
+   "Língua Inglesa": 19,
+   "Língua Portuguesa": 34,
+   "Noções de Direito Administrativo e Administração Pública": 31,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 25,
+   "Processo Legislativo, RICD e Regimento Comum": 50,
+   "Reconhecimento de Fala, Transcrição e IA": 15,
+   "Tecnologia da Informação e Dados": 10
+  },
+  "minutos_aprox": 117.4,
+  "n": 216
+ },
+ "2026-11-04": {
+  "acertos": 144,
+  "liquido": 0.508,
+  "materias": {
+   "Ciência Política": 21,
+   "Linguística": 7,
+   "Língua Inglesa": 12,
+   "Língua Portuguesa": 28,
+   "Noções de Direito Administrativo e Administração Pública": 28,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 20,
+   "Processo Legislativo, RICD e Regimento Comum": 47,
+   "Reconhecimento de Fala, Transcrição e IA": 16,
+   "Tecnologia da Informação e Dados": 12
+  },
+  "minutos_aprox": 83.1,
+  "n": 191
+ },
+ "2026-11-05": {
+  "acertos": 114,
+  "liquido": 0.606,
+  "materias": {
+   "Ciência Política": 14,
+   "Linguística": 2,
+   "Língua Inglesa": 10,
+   "Língua Portuguesa": 27,
+   "Noções de Direito Administrativo e Administração Pública": 25,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 17,
+   "Processo Legislativo, RICD e Regimento Comum": 30,
+   "Reconhecimento de Fala, Transcrição e IA": 11,
+   "Tecnologia da Informação e Dados": 6
+  },
+  "minutos_aprox": 63.7,
+  "n": 142
+ },
+ "2026-11-06": {
+  "acertos": 128,
+  "liquido": 0.62,
+  "materias": {
+   "Ciência Política": 15,
+   "Língua Inglesa": 17,
+   "Língua Portuguesa": 21,
+   "Noções de Direito Administrativo e Administração Pública": 30,
+   "Noções de Direito Constitucional e de Regimento Interno da Câmara": 22,
+   "Processo Legislativo, RICD e Regimento Comum": 37,
+   "Reconhecimento de Fala, Transcrição e IA": 7,
+   "Tecnologia da Informação e Dados": 9
+  },
+  "minutos_aprox": 116.6,
+  "n": 158
  }
 }
